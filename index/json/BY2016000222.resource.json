@@ -1,0 +1,132 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Метод концентрации напряжений в проектировании сельскохозяйственной техники",
+	"language":"rus"
+	},
+	{"value":"The method of stress concentration in the design of agricultural equipment"},
+	{"value":"The method of stress concentration in the design of agricultural equipment"}
+	],
+	"subject":[
+		{
+		"value":"design",
+	"language":"eng"
+	},
+	{
+		"value":"equipo",
+	"language":"esp"
+	},
+	{
+		"value":"ga©nie agricole",
+	"language":"fre"
+	},
+	{
+		"value":"engineering",
+	"language":"eng"
+	},
+	{
+		"value":"equipment",
+	"language":"eng"
+	},
+	{
+		"value":"ingeniera­a",
+	"language":"esp"
+	},
+	{
+		"value":"conception",
+	"language":"fre"
+	},
+	{
+		"value":"dispositivo experimental",
+	"language":"esp"
+	},
+	{
+		"value":"experimental design",
+	"language":"eng"
+	},
+	{
+		"value":"mata©riel",
+	"language":"fre"
+	},
+	{
+		"value":"dispositif expa©rimental",
+	"language":"fre"
+	},
+	{
+		"value":"ingeniera­a agra­cola",
+	"language":"esp"
+	},
+	{
+		"value":"inga©nierie",
+	"language":"fre"
+	},
+	{
+		"value":"disea±o experimental",
+	"language":"esp"
+	},
+	{
+		"value":"experimental devices",
+	"language":"eng"
+	},
+	{
+		"value":"disea±o",
+	"language":"esp"
+	},
+	{
+		"value":"conception expa©rimentale",
+	"language":"fre"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"agricultural engineering",
+	"language":"eng"
+	}
+	],
+	"page_start":4,
+	"page_end":7,
+	"uri":"http://agris.fao.org/aos/records/BY2016000222",
+	"arn":"BY2016000222",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_4cbf4c2d"
+	},
+	{
+		"journal":
+		{"title":"Agropanorama : scientific and technical journal for the agro-industrial complex workers",
+	"issn":"2078-7138"
+	}
+	}
+	],
+	"date_issued":2013,
+	"url":"http://www.batu.edu.by/sites/default/files/u8/AgroP-2013-1-int.pdf",
+	"date_submitted":2016,
+	"author":[
+		{
+		"person":
+		{"name":"Dashkov, V.N."
+	}
+	},
+	{
+		"person":
+		{"name":"Zherebyatev, E.V., Belarus State Agrarian Technical Univ., Minsk (Belarus)"
+	}
+	}
+	],
+	"issue":1,
+	"abstract":
+		{"value":"Stress concentration in theory of elastic strength represents focusing of great stress on little areas, adjoining plate or sections of deformed body. Factors, determining stress concentration appear holes, angles, breaks and flaws of the material along with surface roughness. Stress concentrators appear the dangerous condition of physical bodies, declining resistance to dynamic loads. The research suggests principally new approach to the definition of stress concentration, determining the process of stress concentration as useful action, supplying strengthening of the details. The article considers theoretical approaches to the use of designing of agricultural technology of artificial local concentrators using modern software tools and building a model by finite element method (FEM). Application of the developed method to the needs of agricultural equipment manufacturing on the example of ploughshare's poppet is suggested; main advantages of the use of controlled stress concentration for agricultural engineering are enumerated.",
+	"language":"eng"
+	}
+	}}

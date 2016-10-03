@@ -1,0 +1,175 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Taking into account the risk factors while calculating monetary value of farm lands",
+	"language":"eng"
+	},
+	{
+		"value":"Учет факторов риска при расчете денежной оценки сельскохозяйственных земель",
+	"language":"rus"
+	}
+	],
+	"subject":[
+		{
+		"value":"land resources",
+	"language":"eng"
+	},
+	{
+		"value":"aevaluation des ressources",
+	"language":"fre"
+	},
+	{
+		"value":"tierras",
+	"language":"esp"
+	},
+	{
+		"value":"evaluaciaіn de tierras",
+	"language":"esp"
+	},
+	{
+		"value":"evaluaciaіn",
+	"language":"esp"
+	},
+	{
+		"value":"analyse du risque",
+	"language":"fre"
+	},
+	{
+		"value":"profitability",
+	"language":"eng"
+	},
+	{
+		"value":"riesgo",
+	"language":"esp"
+	},
+	{
+		"value":"aevaluation des terres",
+	"language":"fre"
+	},
+	{
+		"value":"capital productivity",
+	"language":"eng"
+	},
+	{
+		"value":"rentabilita©",
+	"language":"fre"
+	},
+	{
+		"value":"resource evaluation",
+	"language":"eng"
+	},
+	{
+		"value":"aevaluation",
+	"language":"fre"
+	},
+	{
+		"value":"terre",
+	"language":"fre"
+	},
+	{
+		"value":"recursos agrarios",
+	"language":"esp"
+	},
+	{
+		"value":"evaluaciaіn de recursos",
+	"language":"esp"
+	},
+	{
+		"value":"productivita© du capital",
+	"language":"fre"
+	},
+	{
+		"value":"risk",
+	"language":"eng"
+	},
+	{
+		"value":"intereses del capital",
+	"language":"esp"
+	},
+	{
+		"value":"agricultural resources",
+	"language":"eng"
+	},
+	{
+		"value":"ressource agricole",
+	"language":"fre"
+	},
+	{
+		"value":"rentabilidad",
+	"language":"esp"
+	},
+	{
+		"value":"land evaluation",
+	"language":"eng"
+	},
+	{
+		"value":"ressource fonciaёre",
+	"language":"fre"
+	},
+	{
+		"value":"risk analysis",
+	"language":"eng"
+	},
+	{
+		"value":"anailisis de riesgos",
+	"language":"esp"
+	},
+	{
+		"value":"recursos de la tierra",
+	"language":"esp"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"risque",
+	"language":"fre"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"evaluation",
+	"language":"eng"
+	},
+	{
+		"value":"land",
+	"language":"eng"
+	}
+	],
+	"page_start":30,
+	"page_end":34,
+	"uri":"http://agris.fao.org/aos/records/BY2016000344",
+	"arn":"BY2016000344",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_1ea270f0"
+	},
+	{
+		"journal":
+		{"title":"Proceedings of the National Academy of Sciences of Belarus. Agrarian Series",
+	"issn":"1817-7204"
+	}
+	}
+	],
+	"date_issued":2013,
+	"url":"http://vesti.belal.by/vesti/pdf/20130303.pdf",
+	"date_submitted":2016,
+	"author":
+		{"person":
+		{"name":"Konstantinov, N.S., Belarus State Academy of Agriculture, Gorki (Belarus)"
+	}
+	},
+	"issue":3,
+	"abstract":
+		{"value":"Estimated monetary value of agricultural lands supposes determination of the profit part attributable to land itself (ground rent), but the only characteristic is insufficient for complex evaluation of land cost. Volatility of profitability of agricultural lands, depending on seasonal fluctuations, along with economical risks, requires to be considered for calculation of the capitalization coefficient. The paper deals with the main approaches to determination of the capitalization coefficient while calculating monetary value of farm lands. The advantages and disadvantages are also analyzed. The approach to determination of the capitalization coefficient based on the regression method and probability theory is suggested. The results of calculation of the parameters of the model according to the data of agricultural organizations of Belarus for 2005–2011 are stated.",
+	"language":"eng"
+	}
+	}}

@@ -1,0 +1,131 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Краткосрочный прогноз развития сумчатой стадии возбудителя парши яблони",
+	"language":"rus"
+	},
+	{
+		"value":"Short-term forecast of apple scab ascus stage agent development",
+	"language":"eng"
+	}
+	],
+	"subject":[
+		{
+		"value":"apples",
+	"language":"eng"
+	},
+	{
+		"value":"manzana",
+	"language":"esp"
+	},
+	{
+		"value":"pomme",
+	"language":"fre"
+	},
+	{
+		"value":"rona",
+	"language":"esp"
+	},
+	{
+		"value":"contraґle de maladies",
+	"language":"fre"
+	},
+	{
+		"value":"disease control",
+	"language":"eng"
+	},
+	{
+		"value":"ta©cnicas de predicciaіn",
+	"language":"esp"
+	},
+	{
+		"value":"forecasting",
+	"language":"eng"
+	},
+	{
+		"value":"control de enfermedades",
+	"language":"esp"
+	},
+	{
+		"value":"scabs",
+	"language":"eng"
+	},
+	{
+		"value":"plant diseases",
+	"language":"eng"
+	},
+	{
+		"value":"technique de pra©vision",
+	"language":"fre"
+	},
+	{
+		"value":"tavelure",
+	"language":"fre"
+	},
+	{
+		"value":"malus",
+	"language":"esp"
+	},
+	{
+		"value":"agents",
+	"language":"fre"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"venturia inaequalis",
+	"language":"esp"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"agentes",
+	"language":"esp"
+	},
+	{
+		"value":"maladie des plantes",
+	"language":"fre"
+	},
+	{
+		"value":"enfermedades de las plantas",
+	"language":"esp"
+	}
+	],
+	"page_start":38,
+	"page_end":40,
+	"uri":"http://agris.fao.org/aos/records/BY2016000113",
+	"arn":"BY2016000113",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_870b7376"
+	},
+	{
+		"journal":
+		{"title":"Agriculture and Plant Protection : scientific-practical journal",
+	"issn":"2220-8003"
+	}
+	}
+	],
+	"date_issued":2012,
+	"url":"http://izr.by/doc/6%202012.pdf",
+	"date_submitted":2016,
+	"author":
+		{"person":
+		{"name":"Komardina, V.S., National Academy of Sciences. Scientific and Practical Center for Arable Farming (Belarus). Institute of Plant Protection"
+	}
+	},
+	"issue":6,
+	"abstract":
+		{"value":"The statistical processing of long term results of observations on biology and phenology of apple scab agent a fungus Venturia inaequalis has allowed to determine the quantitative and qualitative parameters of different environmental factors influence on speed of different stages passing by the pathogen and work out the logical and mathematical models of the phenological forecast of the phytopathogen ascus stage development (beginning of perithecium maturation, start of ascospore flight, the first scab spots appearance). In 2010-2011 the conditions of the Republic of Belarus the developed forecast accuracy by separate stages of apple scab agent development was rather high, the deviation has fluctuated from 0 to 17 days. The practical relevance of the developed algorithm was in the forecasting of the development of ascigerous stage of fungi and feed-forward information on the optimal terms of realization of protection measures against apple scab in orchards of the intensive type.",
+	"language":"eng"
+	}
+	}}

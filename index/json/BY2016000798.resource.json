@@ -1,0 +1,145 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Automation of design of the drying network on the basis of geoinformation systems",
+	"language":"eng"
+	},
+	{
+		"value":"Автоматизация проектирования осушительной сети на основе геоинформационных систем",
+	"language":"rus"
+	}
+	],
+	"subject":[
+		{
+		"value":"geographical information systems",
+	"language":"eng"
+	},
+	{
+		"value":"systaёme de positionnement global",
+	"language":"fre"
+	},
+	{
+		"value":"information systems",
+	"language":"eng"
+	},
+	{
+		"value":"drenaje",
+	"language":"esp"
+	},
+	{
+		"value":"land improvement",
+	"language":"eng"
+	},
+	{
+		"value":"systaёme d'information ga©ographique",
+	"language":"fre"
+	},
+	{
+		"value":"mejora de la tierra",
+	"language":"esp"
+	},
+	{
+		"value":"cartography",
+	"language":"eng"
+	},
+	{
+		"value":"cartographie",
+	"language":"fre"
+	},
+	{
+		"value":"sistemas de informaciaіn geograifica",
+	"language":"esp"
+	},
+	{
+		"value":"ra©cupa©ration des sols",
+	"language":"fre"
+	},
+	{
+		"value":"cartografa­a",
+	"language":"esp"
+	},
+	{
+		"value":"drainage",
+	"language":"fre"
+	},
+	{
+		"value":"rehabilitaciaіn de tierras",
+	"language":"esp"
+	},
+	{
+		"value":"sistema de posicionamiento global",
+	"language":"esp"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"reclamation",
+	"language":"eng"
+	},
+	{
+		"value":"sistemas de informaciaіn",
+	"language":"esp"
+	},
+	{
+		"value":"ama©lioration fonciaёre",
+	"language":"fre"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"global positioning systems",
+	"language":"eng"
+	},
+	{
+		"value":"systaёme d'information",
+	"language":"fre"
+	},
+	{
+		"value":"projects",
+	"language":"eng"
+	}
+	],
+	"page_start":16,
+	"page_end":21,
+	"uri":"http://agris.fao.org/aos/records/BY2016000798",
+	"arn":"BY2016000798",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_1a8342c5"
+	},
+	{
+		"journal":
+		{"title":"Land Reclamation : scientific journal",
+	"issn":"2070-4828"
+	}
+	}
+	],
+	"date_issued":2013,
+	"date_submitted":2016,
+	"author":[
+		{
+		"person":
+		{"name":"Vakhonin, N.K."
+	}
+	},
+	{
+		"person":
+		{"name":"Syrovinskaya, G.Ch., National Academy of Sciences. Scientific and Practical Center for Arable Farming (Belarus). Institute for Land Reclamation"
+	}
+	}
+	],
+	"issue":2,
+	"abstract":
+		{"value":"Drainage system appears one of the most important elements of ameliorative system. During projecting of the drainage system its graphical design composes the main part of the works aimed on the formation of construction documentation.  Nowadays in the conditions of the Republic of Belarus designing of the drainage systems is carried out generally on paper medium with future scanning of formed plot plan. The whole process of formation of graphical documentation of drainage system is not computer-aided and further use of graphical objects is not possible. Improvement of the process of automated projecting and future utilization of the data can be provided with the help of geo-information system (GIS), including all the groups of drainage system (ameliorative network itself, conducting network, buildings) in the form of electronic card with interactive table of attribute data.  The article deals with the computer-aided design of drainage systems based on geoinformation system tools. The description of the implemented GIS-based application that provides automated design of drainage and collection systems on the project is suggested; efficiency of the use of computer-aided application is analyzed.",
+	"language":"eng"
+	}
+	}}

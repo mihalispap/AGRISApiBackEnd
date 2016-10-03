@@ -1,0 +1,131 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Создание штамма Escherichia coli, продуцирующего дезоксинуклеозидкиназу Drosophila melanogaster",
+	"language":"rus"
+	},
+	{
+		"value":"Creation of Escherichia coli strain superproducing deoxynucleoside kinase of Drosophila melanogaster",
+	"language":"eng"
+	}
+	],
+	"subject":[
+		{
+		"value":"ga©nie ga©na©tique",
+	"language":"fre"
+	},
+	{
+		"value":"protein synthesis",
+	"language":"eng"
+	},
+	{
+		"value":"sa­ntesis de protea­nas",
+	"language":"esp"
+	},
+	{
+		"value":"ingeniera­a gena©tica",
+	"language":"esp"
+	},
+	{
+		"value":"pcr",
+	"language":"esp"
+	},
+	{
+		"value":"synthaёse prota©ique",
+	"language":"fre"
+	},
+	{
+		"value":"escherichia",
+	"language":"esp"
+	},
+	{
+		"value":"expresiaіn ga©nica",
+	"language":"esp"
+	},
+	{
+		"value":"genetic techniques",
+	"language":"eng"
+	},
+	{
+		"value":"gene expression",
+	"language":"eng"
+	},
+	{
+		"value":"drosophila melanogaster",
+	"language":"esp"
+	},
+	{
+		"value":"adn",
+	"language":"esp"
+	},
+	{
+		"value":"genetic engineering",
+	"language":"eng"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"dna",
+	"language":"eng"
+	},
+	{
+		"value":"expression des gaёnes",
+	"language":"fre"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"escherichia coli",
+	"language":"esp"
+	}
+	],
+	"page_start":87,
+	"page_end":90,
+	"uri":"http://agris.fao.org/aos/records/BY2016000339",
+	"arn":"BY2016000339",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_2f9c7aab"
+	},
+	{
+		"journal":
+		{"title":"Proceedings of the National Academy of Sciences of Belarus. Biological Series",
+	"issn":"0002-3558"
+	}
+	}
+	],
+	"date_issued":2013,
+	"url":"http://libcat.bas-net.by/xfile/v_bio/2013/2/b3ki4.pdf",
+	"date_submitted":2016,
+	"author":[
+		{
+		"person":
+		{"name":"Rymko, A.N."
+	}
+	},
+	{
+		"person":
+		{"name":"Kvach, S.V."
+	}
+	},
+	{
+		"person":
+		{"name":"Zinchenko, A.I., National Academy of Sciences (Belarus). Institute of Microbiology"
+	}
+	}
+	],
+	"issue":2,
+	"abstract":
+		{"value":"Polymerase chain reaction (PCR) and other methods, based upon it, is widely used for genetic researches in scientific and diagnostic laboratories of the Republic of Belarus. But PCR-diagnostics appears rather expensive research method, requiring high-cost import materials and reagents. Therefore, development of the technology of native production of the components, necessary for realization of PCR reaction allows declining import of foreign reagents and producing of analytical test-systems made of domestic biochemical resources. Using the method of genetic engineering Escherichia coli strain superproducing deoxynucleoside kinase of Drosophila Melanogaster with additional C-terminal fusion octahistidine oligopeptide is constructed. It has been shown that addition to the protein of octahistidine oligopeptide does not affect enzyme specific activity. Parameters of the deoxynucleoside kinase gene expression have been optimized. In optimal conditions the strain is able to produce 14400 units of soluble enzyme per liter of culture broth.",
+	"language":"eng"
+	}
+	}}

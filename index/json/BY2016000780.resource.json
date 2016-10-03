@@ -1,0 +1,114 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Calculation of ground rent for agricultural land using dual estimates",
+	"language":"eng"
+	},
+	{
+		"value":"Вычисление земельной ренты для сельскохозяйственных земель с использованием двойственных оценок",
+	"language":"rus"
+	}
+	],
+	"subject":[
+		{
+		"value":"modaёle matha©matique",
+	"language":"fre"
+	},
+	{
+		"value":"modelos matemaiticos",
+	"language":"esp"
+	},
+	{
+		"value":"tierras",
+	"language":"esp"
+	},
+	{
+		"value":"land evaluation",
+	"language":"eng"
+	},
+	{
+		"value":"evaluaciaіn de tierras",
+	"language":"esp"
+	},
+	{
+		"value":"mathematical models",
+	"language":"eng"
+	},
+	{
+		"value":"land use",
+	"language":"eng"
+	},
+	{
+		"value":"rent",
+	"language":"eng"
+	},
+	{
+		"value":"utilizaciaіn de la tierra",
+	"language":"esp"
+	},
+	{
+		"value":"loyer",
+	"language":"fre"
+	},
+	{
+		"value":"aevaluation des terres",
+	"language":"fre"
+	},
+	{
+		"value":"utilisation des terres",
+	"language":"fre"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"alquileres",
+	"language":"esp"
+	},
+	{
+		"value":"land",
+	"language":"eng"
+	},
+	{
+		"value":"terre",
+	"language":"fre"
+	}
+	],
+	"page_start":74,
+	"volume":1,
+	"page_end":82,
+	"uri":"http://agris.fao.org/aos/records/BY2016000780",
+	"arn":"BY2016000780",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_2c9f7004"
+	},
+	{
+		"journal":
+		{"title":"Problems of Economics : collection of scientific papers",
+	"issn":"2225-5796"
+	}
+	}
+	],
+	"date_issued":2013,
+	"date_submitted":2016,
+	"author":
+		{"person":
+		{"name":"Konstantinov, N.S., Belarus State Academy of Agriculture, Gorki (Belarus)"
+	}
+	},
+	"abstract":
+		{"value":"In course of the research there was studied the problems connected with the objective assessment of farmlands of Belarus on the basis of the land rent. As a result of research there were offered the technique of calculation of a land rent with use of model of L. V. Kantorovich on the basis of these agricultural organizations of the Republic of Belarus taking into account interchange ability of resources. Results of calculations for the periods of 2000-2004 and 2005-2010, making it possible to draw conclusions on growth of a land rent eventually and on existence of a differential rent II were given. In the absence of a developed market for land under agriculture in Belarus one of the most promising approaches to the definition of rent income and land valuation is the proposed simulation approach. Its essence is that the potential for rental income values are taken as close to those that meet the long-run equilibrium in a competitive market that is the lowest possible costs in full satisfaction of the demand for agricultural products. While rental income is calculated taking into account possible alternative use of land under agriculture, which makes it possible to objectively assess and use farmland.",
+	"language":"eng"
+	}
+	}}

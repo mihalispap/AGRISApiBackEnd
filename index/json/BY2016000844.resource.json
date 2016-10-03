@@ -1,0 +1,171 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Methodology of mathematical functions from one and two variables Development for creation of dynamic models in the sphere of animal science and hygiene",
+	"language":"eng"
+	},
+	{
+		"value":"Методика разработки математических функций от одной и двух переменных, для создания динамических моделей в области зоотехнии и зоогигиены",
+	"language":"rus"
+	}
+	],
+	"subject":[
+		{
+		"value":"dynamic programming",
+	"language":"eng"
+	},
+	{
+		"value":"modaёle matha©matique",
+	"language":"fre"
+	},
+	{
+		"value":"modelos matemaiticos",
+	"language":"esp"
+	},
+	{
+		"value":"electraіnica",
+	"language":"esp"
+	},
+	{
+		"value":"mathematical models",
+	"language":"eng"
+	},
+	{
+		"value":"zoologa­a",
+	"language":"esp"
+	},
+	{
+		"value":"recherche",
+	"language":"fre"
+	},
+	{
+		"value":"sciences",
+	"language":"eng"
+	},
+	{
+		"value":"aelectronique",
+	"language":"fre"
+	},
+	{
+		"value":"programmation dynamique",
+	"language":"fre"
+	},
+	{
+		"value":"investigaciaіn",
+	"language":"esp"
+	},
+	{
+		"value":"research",
+	"language":"eng"
+	},
+	{
+		"value":"ma©thode",
+	"language":"fre"
+	},
+	{
+		"value":"programaciaіn dinaimica",
+	"language":"esp"
+	},
+	{
+		"value":"technological changes",
+	"language":"eng"
+	},
+	{
+		"value":"zoologie",
+	"language":"fre"
+	},
+	{
+		"value":"zoology",
+	"language":"eng"
+	},
+	{
+		"value":"methods",
+	"language":"eng"
+	},
+	{
+		"value":"ciencia",
+	"language":"esp"
+	},
+	{
+		"value":"modelos dinaimicos",
+	"language":"esp"
+	},
+	{
+		"value":"cambio tecnolaіgico",
+	"language":"esp"
+	},
+	{
+		"value":"changement technologique",
+	"language":"fre"
+	},
+	{
+		"value":"modaёle dynamique",
+	"language":"fre"
+	},
+	{
+		"value":"electronics",
+	"language":"eng"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"ma©todos",
+	"language":"esp"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"science",
+	"language":"fre"
+	},
+	{
+		"value":"dynamic models",
+	"language":"eng"
+	}
+	],
+	"page_start":232,
+	"volume":48,
+	"page_end":245,
+	"uri":"http://agris.fao.org/aos/records/BY2016000844",
+	"arn":"BY2016000844",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_554ff33d"
+	},
+	{
+		"journal":
+		{"title":"Zootechnical Science of Belarus: collection of scientific papers",
+	"issn":"0134-9732"
+	}
+	}
+	],
+	"date_issued":2013,
+	"url":"http://belniig.by/public/files/T._2_1.pdf",
+	"date_submitted":2016,
+	"author":[
+		{
+		"person":
+		{"name":"Solyanik, V.V., National Academy of Sciences. Scientific and Practical Center of Animal Breeding (Belarus)"
+	}
+	},
+	{
+		"person":
+		{"name":"Solyanik, S.V., Grodno State Agrarian Univ. (Belarus)"
+	}
+	}
+	],
+	"issue":2,
+	"abstract":
+		{"value":"A step-by-step methodology of creating mathematical functions from one and two variables was developed. Use of this method allows any zoology technician and specialist in the sphere animal science or scientist in the field of animal husbandry to turn their primary tabular data into formulas within a short period of time, which will give possibility to not only find the intermediate values, but will also allow to make modeling of the main processes. Presence of functions from one and two variables allows creating a settlement chain of these functions, and as a result it is possible to receive the dynamic model considering influence of infinite quantity of factors. Association in the complex systems functions created by the user both describing various biological and technological trends allows spending multifactorial modelling of those or other processes. Numerical methods allow creating a digital basis of zootechnics andzoohygine, to be exact digital technologies, for example, manufactures of pork",
+	"language":"eng"
+	}
+	}}

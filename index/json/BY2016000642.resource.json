@@ -1,0 +1,125 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Информационная система по генетическим ресурсам пшеницы в Беларуси",
+	"language":"rus"
+	},
+	{
+		"value":"Information system on wheat genetic resources in Belarus",
+	"language":"eng"
+	}
+	],
+	"subject":[
+		{
+		"value":"soft wheat",
+	"language":"eng"
+	},
+	{
+		"value":"recursos gena©ticos",
+	"language":"esp"
+	},
+	{
+		"value":"trigo de primavera",
+	"language":"esp"
+	},
+	{
+		"value":"ressource ga©na©tique",
+	"language":"fre"
+	},
+	{
+		"value":"information systems",
+	"language":"eng"
+	},
+	{
+		"value":"documentaciaіn",
+	"language":"esp"
+	},
+	{
+		"value":"triticum aestivum",
+	"language":"esp"
+	},
+	{
+		"value":"bla© tendre",
+	"language":"fre"
+	},
+	{
+		"value":"bla© de printemps",
+	"language":"fre"
+	},
+	{
+		"value":"trigo harinero",
+	"language":"esp"
+	},
+	{
+		"value":"spring wheat",
+	"language":"eng"
+	},
+	{
+		"value":"triticum",
+	"language":"esp"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"documentation",
+	"language":"fre"
+	},
+	{
+		"value":"genetic resources",
+	"language":"eng"
+	},
+	{
+		"value":"sistemas de informaciaіn",
+	"language":"esp"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"systaёme d'information",
+	"language":"fre"
+	}
+	],
+	"page_start":314,
+	"volume":48,
+	"page_end":321,
+	"uri":"http://agris.fao.org/aos/records/BY2016000642",
+	"arn":"BY2016000642",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_fa50d55f"
+	},
+	{
+		"journal":
+		{"title":"Arable Farming and Breeding in Belarus : collection of scientific papers",
+	"issn":"0130-156X"
+	}
+	}
+	],
+	"date_issued":2012,
+	"date_submitted":2016,
+	"author":[
+		{
+		"person":
+		{"name":"Markevich, I.M."
+	}
+	},
+	{
+		"person":
+		{"name":"Bushtevich, V.N., National Academy of Sciences (Belarus). Scientific and Practical Center for  Arable Farming"
+	}
+	}
+	],
+	"abstract":
+		{"value":"In course of the research there was studied and described the developed system of electronic documentation of soft spring wheat (Triticum aestivum) collection, which should make more accessible and informative use of information on the genetic diversity of Triticum L. genus for interested users. The object for research was 52 variety samples of collection fund of soft spring wheat of various ecological and geographical origins, which from 2005 till 2009 were comprehensively studied in field and laboratorial conditions with use of hybrid logical analysis, and also 150 numbers of selection lines and populations, which were obtained in a process of hybridization, the part from which were transferred to selection department for the further studying. The current state of wheat collection developed in 2005-2009 and database based on its study was shown. The structure of collection nursery of spring wheat was presented. Now working out of information system on wheat includes creation of different type of the Data bases, which characterized samples of a collection. The information system 'Plant Genofund' consists from 3 components: the Data bases complex; help system; the software.",
+	"language":"eng"
+	}
+	}}

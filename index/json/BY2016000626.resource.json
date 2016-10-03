@@ -1,0 +1,111 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Биоиндикаторный потенциал программного анализа изображений ДНК-комет гемоцитов моллюсков Lymnaea stagnalis",
+	"language":"rus"
+	},
+	{
+		"value":"Bioindicative potential of software-based analysis of Lymnaea stagnalis snail hemocyte DNA-comets",
+	"language":"eng"
+	}
+	],
+	"subject":[
+		{
+		"value":"aucidos nucla©icos",
+	"language":"esp"
+	},
+	{
+		"value":"gastropoda",
+	"language":"esp"
+	},
+	{
+		"value":"mollusca",
+	"language":"esp"
+	},
+	{
+		"value":"ca©lulas sangua­neas",
+	"language":"esp"
+	},
+	{
+		"value":"blood cells",
+	"language":"eng"
+	},
+	{
+		"value":"cellule sanguine",
+	"language":"fre"
+	},
+	{
+		"value":"nucleic acids",
+	"language":"eng"
+	},
+	{
+		"value":"haemocytes",
+	"language":"eng"
+	},
+	{
+		"value":"hemocitos",
+	"language":"esp"
+	},
+	{
+		"value":"acide nucla©ique",
+	"language":"fre"
+	},
+	{
+		"value":"adn",
+	"language":"esp"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"ha©mocyte",
+	"language":"fre"
+	},
+	{
+		"value":"dna",
+	"language":"eng"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"lymnaea",
+	"language":"esp"
+	}
+	],
+	"page_start":57,
+	"page_end":66,
+	"type":"Journal Article",
+	"uri":"http://agris.fao.org/aos/records/BY2016000626",
+	"arn":"BY2016000626",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_2f9c7aab"
+	},
+	{
+		"journal":
+		{"title":"Proceedings of the National Academy of Sciences of Belarus. Biological Series",
+	"issn":"0002-3558"
+	}
+	}
+	],
+	"date_issued":2013,
+	"url":"http://csl.bas-net.by/xfile/v_bio/2013/4/tbh82t.pdf",
+	"date_submitted":2016,
+	"author":
+		{"person":
+		{"name":"Koneva, O.Yu., National Academy of Sciences (Belarus). Institute of Genetics and Cytology"
+	}
+	},
+	"issue":4,
+	"abstract":
+		{"value":"The research of hemocytes of snail Lymnaea stagnalis from regions with different environmental stress has been carried out by the means of DNA-comet method. Significant interpopulation distinctions in parameters of DNA-comets, and also significant distinctions in sensitivity of a hemocyte genetic material of snails from different ecological zones to the influence of external damaging factors (in particular, heavy metals) have been revealed by the means of the software-based analysis of hemocyte DNA-comet images. As the two populations of mollusks are genetically similar (genetic identity equals 0.94), the different levels of activity of proliferative processes in the hemocytes of snail Lymnaea stagnalis from different ecological zones revealed by the authors using the comet assay can act as the indicator of the intensity of the damaging effects of aggressive substances and environmental quality.",
+	"language":"eng"
+	}
+	}}

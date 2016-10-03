@@ -1,0 +1,179 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Comparative analysis of fiber flax seeds protein identification",
+	"language":"eng"
+	},
+	{
+		"value":"Сравнительный анализ способов идентификации белков семян льна-долгунца",
+	"language":"rus"
+	}
+	],
+	"subject":[
+		{
+		"value":"electroforesis",
+	"language":"esp"
+	},
+	{
+		"value":"aelectrophoraёse",
+	"language":"fre"
+	},
+	{
+		"value":"graine",
+	"language":"fre"
+	},
+	{
+		"value":"organic compounds",
+	"language":"eng"
+	},
+	{
+		"value":"composa© organique",
+	"language":"fre"
+	},
+	{
+		"value":"semilla",
+	"language":"esp"
+	},
+	{
+		"value":"lin",
+	"language":"fre"
+	},
+	{
+		"value":"flax",
+	"language":"eng"
+	},
+	{
+		"value":"lino",
+	"language":"esp"
+	},
+	{
+		"value":"sa©lection",
+	"language":"fre"
+	},
+	{
+		"value":"electrophoresis",
+	"language":"eng"
+	},
+	{
+		"value":"seeds",
+	"language":"eng"
+	},
+	{
+		"value":"proteins",
+	"language":"eng"
+	},
+	{
+		"value":"prota©ine",
+	"language":"fre"
+	},
+	{
+		"value":"compuestos orgainicos",
+	"language":"esp"
+	},
+	{
+		"value":"selection",
+	"language":"eng"
+	},
+	{
+		"value":"computer software",
+	"language":"eng"
+	},
+	{
+		"value":"selecciaіn",
+	"language":"esp"
+	},
+	{
+		"value":"technique analytique",
+	"language":"fre"
+	},
+	{
+		"value":"ta©cnicas anala­ticas",
+	"language":"esp"
+	},
+	{
+		"value":"programas de ordenador",
+	"language":"esp"
+	},
+	{
+		"value":"logiciel",
+	"language":"fre"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"plantas oleaginosas",
+	"language":"esp"
+	},
+	{
+		"value":"protea­nas",
+	"language":"esp"
+	},
+	{
+		"value":"oil crops",
+	"language":"eng"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"plante ola©agineuse",
+	"language":"fre"
+	},
+	{
+		"value":"linum usitatissimum",
+	"language":"esp"
+	},
+	{
+		"value":"analytical methods",
+	"language":"eng"
+	}
+	],
+	"page_start":50,
+	"page_end":54,
+	"uri":"http://agris.fao.org/aos/records/BY2016000127",
+	"arn":"BY2016000127",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_870b7376"
+	},
+	{
+		"journal":
+		{"title":"Agriculture and Plant Protection : scientific-practical journal",
+	"issn":"2220-8003"
+	}
+	}
+	],
+	"date_issued":2012,
+	"url":"http://izr.by/doc/6%202012.pdf",
+	"date_submitted":2016,
+	"author":[
+		{
+		"person":
+		{"name":"Bogdan, V.Z., National Academy of Sciences. Scientific and Practical Center for Arable Farming (Belarus). Institute of Flax"
+	}
+	},
+	{
+		"person":
+		{"name":"Petrova, N.N."
+	}
+	},
+	{
+		"person":
+		{"name":"Blokhina, E.A., Belarus State Academy of Agriculture, Gorki (Belarus)"
+	}
+	}
+	],
+	"issue":6,
+	"abstract":
+		{"value":"In the conditions of the Republic of Belarus there was determined the most authentic method of identification of electrophoretic spectra of reserve proteins of long fiber flax (Linum usitatissimum) by means of application of a computer based programme and developed methods of statistical processing of the electrophoretic spectrum results. There was described ocular method of estimation electrophoretic spectra and a way of identification on the basis of a computer program. The form of registration of results electrophoresis is recommended. The way of the statistical analysis in an estimation of the samples being within the limits of 2-3 is discussed. The value 2y is accepted as a selection differential providing sufficient efficiency of selection on a spectrum of fibers. The best samples with a multicomponent spectrum are resulted. The algorithm of identification electrophoretic spectrum of reserve proteins on the basis of the computer program is considered. The reached advantages of the program in comparison with the ocular one are shown.",
+	"language":"eng"
+	}
+	}}

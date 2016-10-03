@@ -1,0 +1,221 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Взаимодействие с почвой многоколесных ходовых систем",
+	"language":"rus"
+	},
+	{"value":"Interaction between soil and multiwheel drive system"},
+	{"value":"Interaction between soil and multiwheel drive system"}
+	],
+	"subject":[
+		{
+		"value":"vehicle systems",
+	"language":"eng"
+	},
+	{
+		"value":"soil degradation",
+	"language":"eng"
+	},
+	{
+		"value":"componentes del veha­culo",
+	"language":"esp"
+	},
+	{
+		"value":"labranza",
+	"language":"esp"
+	},
+	{
+		"value":"mata©riel de mise en valeur du sol",
+	"language":"fre"
+	},
+	{
+		"value":"propiedades fisicoqua­micas",
+	"language":"esp"
+	},
+	{
+		"value":"pneumatique",
+	"language":"fre"
+	},
+	{
+		"value":"propria©ta© physicochimique",
+	"language":"fre"
+	},
+	{
+		"value":"soil mechanics",
+	"language":"eng"
+	},
+	{
+		"value":"ma©canique du sol",
+	"language":"fre"
+	},
+	{
+		"value":"roue",
+	"language":"fre"
+	},
+	{
+		"value":"wheels",
+	"language":"eng"
+	},
+	{
+		"value":"soil",
+	"language":"eng"
+	},
+	{
+		"value":"degradaciaіn del suelo",
+	"language":"esp"
+	},
+	{
+		"value":"soil management equipment",
+	"language":"eng"
+	},
+	{
+		"value":"compactaciaіn del suelo",
+	"language":"esp"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"maquinaria para manejo del suelo",
+	"language":"esp"
+	},
+	{
+		"value":"ruedas",
+	"language":"esp"
+	},
+	{
+		"value":"equipo",
+	"language":"esp"
+	},
+	{
+		"value":"mecainica del suelo",
+	"language":"esp"
+	},
+	{
+		"value":"tillage",
+	"language":"eng"
+	},
+	{
+		"value":"equipment",
+	"language":"eng"
+	},
+	{
+		"value":"compactage du sol",
+	"language":"fre"
+	},
+	{
+		"value":"chemicophysical properties",
+	"language":"eng"
+	},
+	{
+		"value":"soil compaction",
+	"language":"eng"
+	},
+	{
+		"value":"mata©riel",
+	"language":"fre"
+	},
+	{
+		"value":"tillage equipment",
+	"language":"eng"
+	},
+	{
+		"value":"suelo",
+	"language":"esp"
+	},
+	{
+		"value":"tyres",
+	"language":"eng"
+	},
+	{
+		"value":"mata©riel de travail du sol",
+	"language":"fre"
+	},
+	{
+		"value":"maquinaria de labranza",
+	"language":"esp"
+	},
+	{
+		"value":"neumaiticos",
+	"language":"esp"
+	},
+	{
+		"value":"presiaіn",
+	"language":"esp"
+	},
+	{
+		"value":"sol",
+	"language":"fre"
+	},
+	{
+		"value":"da©gradation du sol",
+	"language":"fre"
+	},
+	{
+		"value":"pression",
+	"language":"fre"
+	},
+	{
+		"value":"organe de va©hicule",
+	"language":"fre"
+	},
+	{
+		"value":"travail du sol",
+	"language":"fre"
+	},
+	{
+		"value":"pressure",
+	"language":"eng"
+	}
+	],
+	"page_start":2,
+	"page_end":7,
+	"uri":"http://agris.fao.org/aos/records/BY2016000198",
+	"arn":"BY2016000198",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_4cbf4c2d"
+	},
+	{
+		"journal":
+		{"title":"Agropanorama : scientific and technical journal for the agro-industrial complex workers",
+	"issn":"2078-7138"
+	}
+	}
+	],
+	"date_issued":2012,
+	"url":"http://www.batu.edu.by/sites/default/files/u8/AgroP-2012-5.pdf",
+	"date_submitted":2016,
+	"author":[
+		{
+		"person":
+		{"name":"Gedroit, G.I."
+	}
+	},
+	{
+		"person":
+		{"name":"Gedroit, A.G."
+	}
+	},
+	{
+		"person":
+		{"name":"Chechetkin, A.D., Belarus State Agrarian Technical Univ., Minsk (Belarus)"
+	}
+	}
+	],
+	"issue":5,
+	"abstract":
+		{"value":"Intensification of agriculture, increase of its productivity, decline of labor resources leads to an increase of the mass of agricultural equipment enlarging the amount of wheel running on one track. Tractor units for distribution of organic and mineral fertilizers are constructed in such a manner that one trail passes 4-5 wheels. As part of the tractor train wheels of one side can be increased to seven. The wheels are of different sizes, have various configuration profiles of tires and possess different air pressure in the tires. The purpose of the research presented in the article is to consider the interaction of a pneumatic tire with the ground while rolling on the trail with consideration of distribution of normal wheel loads, the configuration profile of tires, sizes and rigidity of tires and taking into account the difference in deformation of tire on the ground and a rigid base. The mathematical model of the interaction of multiple wheel running systems with soil is created. Each wheel is considered to be based on the individual parameters. The offset traces of different wheels are taken into account. The model is based on the representation of a contact surface of the tire and the soil.",
+	"language":"eng"
+	}
+	}}

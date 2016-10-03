@@ -1,0 +1,173 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Математическое моделирование в MATLAB двигательного и генераторного режимов работы асинхронных машин при частотном регулировании в стендах обкатки и испытания механических передач",
+	"language":"rus"
+	},
+	{"value":"Mathematical modeling in MATLAB of engine and generator working regimes of asynchronous machines within rpm control in the stands of run-in and testing of mechanical gear"},
+	{"value":"Mathematical modeling in MATLAB of engine and generator working regimes of asynchronous machines within rpm control in the stands of run-in and testing of mechanical gear"}
+	],
+	"subject":[
+		{
+		"value":"modaёle matha©matique",
+	"language":"fre"
+	},
+	{
+		"value":"modelos matemaiticos",
+	"language":"esp"
+	},
+	{
+		"value":"equipo",
+	"language":"esp"
+	},
+	{
+		"value":"mathematical models",
+	"language":"eng"
+	},
+	{
+		"value":"moteur",
+	"language":"fre"
+	},
+	{
+		"value":"organe de transmission",
+	"language":"fre"
+	},
+	{
+		"value":"sistemas hidraiulicos",
+	"language":"esp"
+	},
+	{
+		"value":"industrie ma©canique",
+	"language":"fre"
+	},
+	{
+		"value":"engineering",
+	"language":"eng"
+	},
+	{
+		"value":"equipment",
+	"language":"eng"
+	},
+	{
+		"value":"ingeniera­a",
+	"language":"esp"
+	},
+	{
+		"value":"mata©riel",
+	"language":"fre"
+	},
+	{
+		"value":"mechanical engineering",
+	"language":"eng"
+	},
+	{
+		"value":"industria de la maquinaria",
+	"language":"esp"
+	},
+	{
+		"value":"transmissions",
+	"language":"eng"
+	},
+	{
+		"value":"engines",
+	"language":"eng"
+	},
+	{
+		"value":"models",
+	"language":"eng"
+	},
+	{
+		"value":"modaёle",
+	"language":"fre"
+	},
+	{
+		"value":"modelos",
+	"language":"esp"
+	},
+	{
+		"value":"systaёme hydraulique",
+	"language":"fre"
+	},
+	{
+		"value":"inga©nierie",
+	"language":"fre"
+	},
+	{
+		"value":"hydraulic systems",
+	"language":"eng"
+	},
+	{
+		"value":"transmisiones (mecainica)",
+	"language":"esp"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"motores",
+	"language":"esp"
+	},
+	{
+		"value":"ga©nie ma©canique",
+	"language":"fre"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"machinery industry",
+	"language":"eng"
+	},
+	{
+		"value":"ingenieria mecainica",
+	"language":"esp"
+	}
+	],
+	"page_start":25,
+	"page_end":32,
+	"uri":"http://agris.fao.org/aos/records/BY2016000215",
+	"arn":"BY2016000215",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_4cbf4c2d"
+	},
+	{
+		"journal":
+		{"title":"Agropanorama : scientific and technical journal for the agro-industrial complex workers",
+	"issn":"2078-7138"
+	}
+	}
+	],
+	"date_issued":2012,
+	"url":"http://www.batu.edu.by/sites/default/files/u8/AgroP-2012-6.pdf",
+	"date_submitted":2016,
+	"author":[
+		{
+		"person":
+		{"name":"Prishchepov, M.A."
+	}
+	},
+	{
+		"person":
+		{"name":"Gurin, V.V."
+	}
+	},
+	{
+		"person":
+		{"name":"Smolenchuk, V.V., Belarus State Agrarian Technical Univ., Minsk (Belarus)"
+	}
+	}
+	],
+	"issue":6,
+	"abstract":
+		{"value":"Run-in and testing of the machines appear the finishing operations in technological process of development and maintenance of mechanical gears, determining longevity and quality of their work during future exploitation. The article considers the construction of the stand of rolling and tests of mechanical transmissions with asynchronous driving gear that provides recuperation of electrical power from a braking machine till driving. Mathematical modeling of motive and generative regimes of work of asynchronous machines of offered stand has been carried out; the scheme of rolling stands for mechanical gear testing is presented; the construction of braking asynchronous engine is offered. It has allowed defining the size of the recuperation of power from a braking machine till driving. Imitation model of rolling stand is displayed, imitation model of subsystem 'Calculation of the parameters of gear and braking asynchronous engine, composed according the equations, presented in the article' is shown.",
+	"language":"eng"
+	}
+	}}

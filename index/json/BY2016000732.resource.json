@@ -1,0 +1,139 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Analysis of hydro-physical characteristics of soil",
+	"language":"eng"
+	},
+	{
+		"value":"Исследование гидрофизических характеристик почвогрунтов",
+	"language":"rus"
+	}
+	],
+	"subject":[
+		{
+		"value":"capacita© de liaison de l'eau",
+	"language":"fre"
+	},
+	{
+		"value":"retenciaіn de agua por el suelo",
+	"language":"esp"
+	},
+	{
+		"value":"ra©tention hydrique du sol",
+	"language":"fre"
+	},
+	{
+		"value":"soil water balance",
+	"language":"eng"
+	},
+	{
+		"value":"capacidad de retenciaіn de agua",
+	"language":"esp"
+	},
+	{
+		"value":"chemicophysical properties",
+	"language":"eng"
+	},
+	{
+		"value":"soil water retention",
+	"language":"eng"
+	},
+	{
+		"value":"propiedades fisicoqua­micas",
+	"language":"esp"
+	},
+	{
+		"value":"balance ha­drico del suelo",
+	"language":"esp"
+	},
+	{
+		"value":"capacita© de ra©tention d'eau",
+	"language":"fre"
+	},
+	{
+		"value":"propria©ta© physicochimique",
+	"language":"fre"
+	},
+	{
+		"value":"suelo",
+	"language":"esp"
+	},
+	{
+		"value":"subsuelo",
+	"language":"esp"
+	},
+	{
+		"value":"sous-sol",
+	"language":"fre"
+	},
+	{
+		"value":"subsoil",
+	"language":"eng"
+	},
+	{
+		"value":"water binding capacity",
+	"language":"eng"
+	},
+	{
+		"value":"soil",
+	"language":"eng"
+	},
+	{
+		"value":"sol",
+	"language":"fre"
+	},
+	{
+		"value":"water holding capacity",
+	"language":"eng"
+	},
+	{
+		"value":"bilan hydrique du sol",
+	"language":"fre"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"capacidad de fijaciaіn del agua",
+	"language":"esp"
+	}
+	],
+	"page_start":40,
+	"page_end":45,
+	"uri":"http://agris.fao.org/aos/records/BY2016000732",
+	"arn":"BY2016000732",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_1ea270f0"
+	},
+	{
+		"journal":
+		{"title":"Proceedings of the National Academy of Sciences of Belarus. Agrarian Series",
+	"issn":"1817-7204"
+	}
+	}
+	],
+	"date_issued":2013,
+	"url":"http://vesti.belal.by/vesti/pdf/20130405.pdf",
+	"date_submitted":2016,
+	"author":
+		{"person":
+		{"name":"Likhatsevich, A. P., National Academy of Sciences. Scientific and Practical Center for Arable Farming (Belarus). Institute for Land Reclamation"
+	}
+	},
+	"issue":4,
+	"abstract":
+		{"value":"The paper deals with calculated dependence connecting moisture moving velocity in pore space of aeration zone of various soils with their density, maximum water absorption, wetness and filtration coefficient.",
+	"language":"eng"
+	}
+	}}

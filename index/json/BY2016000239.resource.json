@@ -1,0 +1,213 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Моделирование динамических рядов индексов цен производителей товаров льняной промышленности Республики Беларусь",
+	"language":"rus"
+	},
+	{"value":"Modeling of time series of producers' price indices of linen industry of the Republic of Belarus"},
+	{"value":"Modeling of time series of producers' price indices of linen industry of the Republic of Belarus"}
+	],
+	"subject":[
+		{
+		"value":"modelos matemaiticos",
+	"language":"esp"
+	},
+	{
+		"value":"prices",
+	"language":"eng"
+	},
+	{
+		"value":"industrie non alimentaire",
+	"language":"fre"
+	},
+	{
+		"value":"agroindustry",
+	"language":"eng"
+	},
+	{
+		"value":"fibres",
+	"language":"eng"
+	},
+	{
+		"value":"industrie textile",
+	"language":"fre"
+	},
+	{
+		"value":"textile industry",
+	"language":"eng"
+	},
+	{
+		"value":"indice de prix",
+	"language":"fre"
+	},
+	{
+		"value":"textile fibres",
+	"language":"eng"
+	},
+	{
+		"value":"models",
+	"language":"eng"
+	},
+	{
+		"value":"modaёle",
+	"language":"fre"
+	},
+	{
+		"value":"modelos",
+	"language":"esp"
+	},
+	{
+		"value":"agro-industrie",
+	"language":"fre"
+	},
+	{
+		"value":"industry",
+	"language":"eng"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"econometric models",
+	"language":"eng"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"modaёle matha©matique",
+	"language":"fre"
+	},
+	{
+		"value":"soft fibres",
+	"language":"eng"
+	},
+	{
+		"value":"mathematical models",
+	"language":"eng"
+	},
+	{
+		"value":"lin",
+	"language":"fre"
+	},
+	{
+		"value":"flax",
+	"language":"eng"
+	},
+	{
+		"value":"lino",
+	"language":"esp"
+	},
+	{
+		"value":"fibras textiles",
+	"language":"esp"
+	},
+	{
+		"value":"aindices de precios",
+	"language":"esp"
+	},
+	{
+		"value":"prix",
+	"language":"fre"
+	},
+	{
+		"value":"fibre douce",
+	"language":"fre"
+	},
+	{
+		"value":"modelos economa©tricos",
+	"language":"esp"
+	},
+	{
+		"value":"agroindustria",
+	"language":"esp"
+	},
+	{
+		"value":"industrie",
+	"language":"fre"
+	},
+	{
+		"value":"price indices",
+	"language":"eng"
+	},
+	{
+		"value":"non food industries",
+	"language":"eng"
+	},
+	{
+		"value":"industria",
+	"language":"esp"
+	},
+	{
+		"value":"fibre textile",
+	"language":"fre"
+	},
+	{
+		"value":"modaёle a©conoma©trique",
+	"language":"fre"
+	},
+	{
+		"value":"precios",
+	"language":"esp"
+	},
+	{
+		"value":"fibras",
+	"language":"esp"
+	},
+	{
+		"value":"industria textil",
+	"language":"esp"
+	},
+	{
+		"value":"measure",
+	"language":"eng"
+	},
+	{
+		"value":"industria no alimentaria",
+	"language":"esp"
+	},
+	{
+		"value":"fibre",
+	"language":"fre"
+	},
+	{
+		"value":"fibras blandas",
+	"language":"esp"
+	}
+	],
+	"page_start":35,
+	"page_end":37,
+	"uri":"http://agris.fao.org/aos/records/BY2016000239",
+	"arn":"BY2016000239",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_4cbf4c2d"
+	},
+	{
+		"journal":
+		{"title":"Agropanorama : scientific and technical journal for the agro-industrial complex workers",
+	"issn":"2078-7138"
+	}
+	}
+	],
+	"date_issued":2013,
+	"url":"http://www.batu.edu.by/sites/default/files/u8/AgroP-2013-2-int.pdf",
+	"date_submitted":2016,
+	"author":
+		{"person":
+		{"name":"Soshnikov, L.E., Belarus State Agrarian Technical Univ., Minsk (Belarus)"
+	}
+	},
+	"issue":2,
+	"abstract":
+		{"value":"Price index appears one of the most important macroeconomic characteristics, widely spread for economic analysis. Producer Price Indices (PPI) represent one of the price index's varieties and are determined upon investigation of the prices' changes. The modeling of time series levels of Producer Price Indices (PPI) for flax goods in the Republic of Belarus have been simulated by the means of STATISTICA using the multiplicative model with exponential smoothing and neural network technology for the period 2003-2010. Seasonal and cyclical components series have been detected. Dynamic row of price index levels reflects seasonal component of the flax producing industry, referable with seasonal supply of raw materials. The forecasted values of the PPI have been received by 2011.",
+	"language":"eng"
+	}
+	}}

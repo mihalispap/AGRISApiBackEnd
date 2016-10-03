@@ -1,0 +1,114 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Conceptual principles for designing of integrated information to support decisions on reclamation branch",
+	"language":"eng"
+	},
+	{
+		"value":"Концептуальные принципы создания единой информационной системы поддержки принятия решений в мелиоративной отрасли",
+	"language":"rus"
+	}
+	],
+	"subject":[
+		{
+		"value":"resource management",
+	"language":"eng"
+	},
+	{
+		"value":"ordenaciaіn de recursos",
+	"language":"esp"
+	},
+	{
+		"value":"ra©cupa©ration des sols",
+	"language":"fre"
+	},
+	{
+		"value":"monitoring",
+	"language":"eng"
+	},
+	{
+		"value":"information systems",
+	"language":"eng"
+	},
+	{
+		"value":"vigilancia",
+	"language":"esp"
+	},
+	{
+		"value":"rehabilitaciaіn de tierras",
+	"language":"esp"
+	},
+	{
+		"value":"land improvement",
+	"language":"eng"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"gestion des ressources",
+	"language":"fre"
+	},
+	{
+		"value":"sistemas de informaciaіn",
+	"language":"esp"
+	},
+	{
+		"value":"mejora de la tierra",
+	"language":"esp"
+	},
+	{
+		"value":"reclamation",
+	"language":"eng"
+	},
+	{
+		"value":"ama©lioration fonciaёre",
+	"language":"fre"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"surveillance",
+	"language":"fre"
+	},
+	{
+		"value":"systaёme d'information",
+	"language":"fre"
+	}
+	],
+	"page_start":5,
+	"page_end":19,
+	"uri":"http://agris.fao.org/aos/records/BY2016000191",
+	"arn":"BY2016000191",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_1a8342c5"
+	},
+	{
+		"journal":
+		{"title":"Land Reclamation : scientific and practical journal",
+	"issn":"2070-4828"
+	}
+	}
+	],
+	"date_issued":2013,
+	"date_submitted":2016,
+	"author":
+		{"person":
+		{"name":"Vakhonin, I.K., National Academy of Sciences. Scientific and Practical Center for Arable Farming (Belarus). Institute for Land Reclamation"
+	}
+	},
+	"issue":1,
+	"abstract":
+		{"value":"In the conditions of the Republic of Belarus there were presented the results of systems analysis of the complex automated information system issue for reclamation branch. Principal characteristics determining its structure, including reclamation objects, life-cycle stages, characterizing their indices, are considered. On this basis the structure of information system composed of 6 subsystems with automatized data exchange among them basing on geo-relational conception is developed. The system is designed to provide data ware to support decisions on reclamation and agricultural use of reclaimed areas.",
+	"language":"eng"
+	}
+	}}

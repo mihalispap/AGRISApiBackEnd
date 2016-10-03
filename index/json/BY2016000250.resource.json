@@ -1,0 +1,149 @@
+{"resource": {
+	"language":"rus",
+	"title":[
+		{
+		"value":"Complex characteristics of soil blowing process",
+	"language":"eng"
+	},
+	{
+		"value":"Комплексные характеристики процесса выдувания почвы",
+	"language":"rus"
+	}
+	],
+	"subject":[
+		{
+		"value":"modaёle matha©matique",
+	"language":"fre"
+	},
+	{
+		"value":"modelos matemaiticos",
+	"language":"esp"
+	},
+	{
+		"value":"wind velocity",
+	"language":"eng"
+	},
+	{
+		"value":"soil degradation",
+	"language":"eng"
+	},
+	{
+		"value":"mathematical models",
+	"language":"eng"
+	},
+	{
+		"value":"aerosion",
+	"language":"fre"
+	},
+	{
+		"value":"erosion",
+	"language":"eng"
+	},
+	{
+		"value":"dimensiaіn",
+	"language":"esp"
+	},
+	{
+		"value":"daa±os por el viento",
+	"language":"esp"
+	},
+	{
+		"value":"suelo",
+	"language":"esp"
+	},
+	{
+		"value":"erosiaіn",
+	"language":"esp"
+	},
+	{
+		"value":"dimensions",
+	"language":"eng"
+	},
+	{
+		"value":"erosiaіn eaіlica",
+	"language":"esp"
+	},
+	{
+		"value":"wind damage",
+	"language":"eng"
+	},
+	{
+		"value":"soil",
+	"language":"eng"
+	},
+	{
+		"value":"da©gradation du sol",
+	"language":"fre"
+	},
+	{
+		"value":"sol",
+	"language":"fre"
+	},
+	{
+		"value":"degradaciaіn del suelo",
+	"language":"esp"
+	},
+	{
+		"value":"dimension",
+	"language":"fre"
+	},
+	{
+		"value":"aerosion a©olienne",
+	"language":"fre"
+	},
+	{
+		"value":"belarus",
+	"language":"esp"
+	},
+	{
+		"value":"ba©larus",
+	"language":"fre"
+	},
+	{
+		"value":"wind erosion",
+	"language":"eng"
+	},
+	{
+		"value":"da©gaot du au vent",
+	"language":"fre"
+	}
+	],
+	"page_start":27,
+	"page_end":33,
+	"uri":"http://agris.fao.org/aos/records/BY2016000250",
+	"arn":"BY2016000250",
+	"type":"Summary",
+	"source":
+		{"uri":"http://ring.ciard.net/node/10606"
+	},
+	"is_part_of":[
+		{
+		"uri":"http://aims.fao.org/serials/c_12aea9c5"
+	},
+	{
+		"journal":
+		{"title":"Soil Science and Agrochemistry : scientific journal",
+	"issn":"0130-8475"
+	}
+	}
+	],
+	"date_issued":2012,
+	"date_submitted":2016,
+	"author":[
+		{
+		"person":
+		{"name":"Likhatsevich, N.A."
+	}
+	},
+	{
+		"person":
+		{"name":"Chernysh, A.F., National Academy of Sciences. Scientific and Practical Center for Arable Farming (Belarus). Institute for Soil Science and Agrochemistry"
+	}
+	}
+	],
+	"issue":2,
+	"abstract":
+		{"value":"At generalization of materials of experimental research of the soil blowing realized in an aerodynamical pipe, V.M. Gendugov and G.P. Glazunov (Russia, 2007) have offered to process experimental dates with use of the complex characteristics established by means of the theory of similarity and the analysis of dimensions of physical sizes. Theory of magnitudes dimension and similarity application to parameters representing soil blowing process made it possible to receive two complex characteristics of wind erosion process in dimensionless form - erosion wind potential and comparative index of soil surface wind erosion instability. It was possible to quantitatively estimate and compare wind erosion stability of any soil surface and air stream influence degree on it, as well as simplify wind erosion intensity calculation at any wind velocity, with use of derived complex characteristics.",
+	"language":"eng"
+	}
+	}}
