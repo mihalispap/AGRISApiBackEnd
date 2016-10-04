@@ -83,7 +83,18 @@
 						{
 							"properties":
 							{
-								"name":{"type":"string"}
+								"name":
+								{
+									"type":"string",
+									"fields":
+									{
+										"raw":
+										{
+											"type":"string",
+											"index":"not_analyzed"
+										}
+									}
+								}
 							}
 						}
 					}
