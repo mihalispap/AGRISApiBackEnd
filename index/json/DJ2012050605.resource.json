@@ -1,0 +1,58 @@
+{"resource": {
+	"title":{"value":"Leaf Area Distribution Pattern and Non-Destructive Estimation Methods of Leaf Area for Stevia rebaudiana (Bert.) Bertoni"},
+	"subject":[
+		{"value":"Stevia rebaudiana"},
+	{"value":"prediction equations"},
+	{"value":"relative leaf height"},
+	{"value":"leaf area distribution pattern"},
+	{"value":"regression equation"},
+	{"value":"relative leaf area"}
+	],
+	"pageStart":1037,
+	"volume":6,
+	"pageEnd":1043,
+	"type":"Journal Article",
+	"about":"http://agris.fao.org/aos/records/DJ2012050605",
+	"identifier":"DJ2012050605",
+	"source":
+		{"resource":"http://ring.ciard.net/node/11211"
+	},
+	"isPartOf":[
+		{
+		"resource":{"value":"http://aims.fao.org/serials/j_1294932533753"}
+	},
+	{
+		"Journal":
+		{"title":{"value":"Asian Journal of Plant Sciences"},
+	"ISSN":{"value":"1812-5697"}
+	}
+	}
+	],
+	"issued":"2007-01-01",
+	"uri":"http://docsdrive.com/pdfs/ansinet/ajps/2007/1037-1043.pdf",
+	"publisher":
+		{"Organization":
+		{"name":"Asian Network for Scientific Information"
+	}
+	},
+	"dateSubmitted":2012,
+	"creator":[
+		{
+		"Person":
+		{"name":"K. Ramesh"
+	}
+	},
+	{
+		"Person":
+		{"name":"Naleeni Ramawat"
+	}
+	},
+	{
+		"Person":
+		{"name":"Virendra Singh"
+	}
+	}
+	],
+	"issue":7,
+	"abstract":{"value":"Leaf area is a valuable index for evaluating growth and development of sweet herb Stevia [Stevia rebaudiana (Bert.) Bertoni]. A simple methodology was developed during 2006 to estimate the leaf area through Leaf Area Distribution Pattern (LADP) and regression equations. Plant height, leaf height as well as the length and breadth of all the measurable leaves were measured and their area was measured through Area meter (AM 300) for a six month old crop of Stevia. A leaf area coefficient of 0.548 was found to fit for the linear equation without intercept. LADP was prepared with relative leaf height and relative leaf area. Based on the adjusted second order polynomial equation of LADP, the relative leaf height of plants representing the mean leaf area was ascertained and a regression equation was obtained to calculate the total leaf area of the plant. The results were validated with 3, 4 and 5 months old crops as well as with another accession. Different combinations of prediction equations were obtained from length and breadth of all leaves and a simplest equation i.e, linear equation was used to predict the leaf area. A non-destructive methodology for estimating leaf area of Stevia based on linear measurement was developed in this study. "}
+	}}

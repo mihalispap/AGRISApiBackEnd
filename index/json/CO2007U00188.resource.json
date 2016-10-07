@@ -1,0 +1,128 @@
+{"resource": {
+	"language":"esp",
+	"title":[
+		{
+		"value":{"value":"Physiological aspects of stevia (Stevia rebaudiana Bertoni) in the Colombian Caribbean: I. Effects of attendant radiation on leaf area and biomass distribution"},
+	"language":{"value":"eng"}
+	},
+	{
+		"value":{"value":"Aspectos fisiológicos de estevia (Stevia rebaudiana Bertoni) en el Caribe colombiano: I. Efecto de la radiación incidente sobre el área foliar y la distribución de biomasa"},
+	"language":{"value":"esp"}
+	}
+	],
+	"pageStart":207,
+	"subject":[
+		{"value":"materia seca"},
+	{
+		"value":{"value":"sweeteners"},
+	"language":{"value":"eng"}
+	},
+	{
+		"value":{"value":"radiation"},
+	"language":{"value":"eng"}
+	},
+	{
+		"value":{"value":"plant physiology"},
+	"language":{"value":"eng"}
+	},
+	{
+		"value":{"value":"stevia rebaudiana"},
+	"language":{"value":"eng"}
+	},
+	{
+		"value":{"value":"biomass"},
+	"language":{"value":"eng"}
+	},
+	{
+		"value":{"value":"edulcorant"},
+	"language":{"value":"fre"}
+	},
+	{
+		"value":{"value":"radiation"},
+	"language":{"value":"fre"}
+	},
+	{
+		"value":{"value":"physiologie vegetale"},
+	"language":{"value":"fre"}
+	},
+	{
+		"value":{"value":"stevia rebaudiana"},
+	"language":{"value":"fre"}
+	},
+	{
+		"value":{"value":"biomasse"},
+	"language":{"value":"fre"}
+	},
+	{
+		"value":{"value":"edulcorantes"},
+	"language":{"value":"esp"}
+	},
+	{
+		"value":{"value":"radiacion"},
+	"language":{"value":"esp"}
+	},
+	{
+		"value":{"value":"fisiologia vegetal"},
+	"language":{"value":"esp"}
+	},
+	{
+		"value":{"value":"stevia rebaudiana"},
+	"language":{"value":"esp"}
+	},
+	{
+		"value":{"value":"biomasa"},
+	"language":{"value":"esp"}
+	}
+	],
+	"volume":23,
+	"pageEnd":216,
+	"about":"http://agris.fao.org/aos/records/CO2007U00188",
+	"identifier":"CO2007U00188",
+	"type":"Numerical data",
+	"source":
+		{"resource":"http://ring.ciard.net/node/10794"
+	},
+	"isPartOf":[
+		{
+		"resource":{"value":"http://aims.fao.org/serials/c_70f968e1"}
+	},
+	{
+		"Journal":
+		{"title":{"value":"Agronomía Colombiana"},
+	"ISSN":{"value":"0120-9965"}
+	}
+	}
+	],
+	"issued":2005,
+	"uri":"http://www.agronomia.unal.edu.co/documentos/Volumen23-2.pdf",
+	"dateSubmitted":2007,
+	"creator":[
+		{
+		"Person":
+		{"name":"Jarma, A."
+	}
+	},
+	{
+		"Person":
+		{"name":"Rengifo, T."
+	}
+	},
+	{
+		"Person":
+		{"name":"Araméndiz-Tatis, H."
+	}
+	}
+	],
+	"description":"6 Figs.; 27 ref. Sumarios (Es, En)",
+	"issue":2,
+	"abstract":[
+		{
+		"value":{"value":"Stevia rebaudiana Bertoni es uno de los 154 miembros del género Stevia. El componente edulcorante de sus hojas se debe a glucósidos de diterpeno. Los principales glucósidos de esteviol son: esteviósido, rebaudiósido A, rebaudiósido C y dulcósido A. Este trabajo se realizó en Montería (Colombia), con el propósito de evaluar el efecto de cuatro niveles de radiación incidente sobre el comportamiento fisiológico de S. rebaudiana, bajo las condiciones ambientales del valle del Sinú, en el Caribe colombiano. Se planteó un diseño completo al azar con arreglo factorial, en el que los factores fueron los porcentajes de la radiación incidente en la región (19%, 24%, 56% y 100%) y los genotipos de estevia 'Morita 1' y 'Morita 2'. Los resultados indicaron que el área foliar de 'Morita 2' es superior a 'Morita 1', independientemente de la radiación. Los altos niveles de radiación incidente (100% y 56%) registraron la mayor acumulación de biomasa de las hojas, siendo superior en 'Morita 2'. La mayor proporción de la biomasa de las hojas, con respecto a la del tallo, en los primeros 60 d indica que la planta se dedicó a fortalecer su aparato fotosintético; luego, la migración de fotoasimilados se hizo en mayor proporción hacia los tallos, terminando con una tendencia estable hacia ambas demandas."},
+	"language":{"value":"esp"}
+	},
+	{
+		"value":{"value":"Stevia rebaudiana Bertoni is one of the Stevia genus' 154 members. The sweetening component of its leaves is due to dipterpene glycosides. The major steviol glycosides are: stevioside, rebaudioside A, rebaudioside C and dulcoside A. This research was carried out at Montería (Colombia); it evaluated the effect of four levels of attendant radiation in the climatic conditions found in the Sinú river valley on the physiological behaviour of S. rebaudiana. A completely random design was used, employing percentage of attendant radiation (19%, 24%, 56% and 100%) and Stevia genotypes ('Morita 1' and 'Morita 2') as factors. The results indicated that the leaf area of 'Morita 2' was always bigger than that of 'Morita 1' and radiation level did not influence this variable. The biggest accumulation of dry mass on leaves returned the highest levels of attendant radiation (100% and 56%). 'Morita 2' was better able to accumulate dry mass than 'Morita 1'. The fact that leaves accumulated more biomass than the stems during the first 60 d after being transplanted showed that plants were working to strengthen their photosynthetic ability during this period. This was followed by a greater migration of substances produced by photosynthesis towards the stems. The tendency stabilised toward both demands at the end of the period being studied."},
+	"language":{"value":"eng"}
+	}
+	]
+	}}

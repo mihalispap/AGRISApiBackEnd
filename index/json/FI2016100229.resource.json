@@ -1,0 +1,31 @@
+{"resource": {
+	"issued":2004,
+	"dateSubmitted":2016,
+	"uri":"http://world-food.net/download/journals/2004-issue_3_4/rn6.pdf",
+	"language":"eng",
+	"title":{"value":"Bioavailability of stevioside from Stevia rebaudiana in human volunteers: Preliminary data"},
+	"creator":[
+		{
+		"Person":
+		{"name":"G. Pietta, Piergiorgio (author)"
+	}
+	},
+	{
+		"Person":
+		{"name":"Gardana, C. (author)"
+	}
+	},
+	{
+		"Person":
+		{"name":"Simonetti, P. (author)"
+	}
+	}
+	],
+	"about":"http://agris.fao.org/aos/records/FI2016100229",
+	"identifier":"FI2016100229",
+	"type":"Other",
+	"source":
+		{"resource":"http://ring.ciard.net/node/19722"
+	},
+	"abstract":{"value":"The fate of stevioside and its analogues has been studied in animals, in vitro and ex vivo models1-4 but to our knowledge, there is no paper describing the metabolism of stevioside in humans. Here we report the first attempt to evaluate the absorption of stevioside and the presence of its metabolites in human plasma, urine and feces."}
+	}}

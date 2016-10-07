@@ -1,0 +1,67 @@
+{"resource": {
+	"language":"eng",
+	"title":
+		{"value":{"value":"Influence of NaCl on Biochemical Parameters of Two Cultivars of Stevia rebaudiana Regenerated in vitro"},
+	"language":{"value":"eng"}
+	},
+	"subject":[
+		{
+		"value":{"value":"phenols"},
+	"language":{"value":"eng"}
+	},
+	{
+		"value":{"value":"proline"},
+	"language":{"value":"eng"}
+	},
+	{
+		"value":{"value":"leaves"},
+	"language":{"value":"eng"}
+	},
+	{
+		"value":{"value":"sugars"},
+	"language":{"value":"eng"}
+	}
+	],
+	"volume":"10/n.2",
+	"about":"http://agris.fao.org/aos/records/RU2015103062",
+	"identifier":"RU2015103062",
+	"type":"Journal Article",
+	"source":
+		{"resource":"http://ring.ciard.net/node/10849"
+	},
+	"isPartOf":[
+		{
+		"resource":{"value":"http://aims.fao.org/serials/c_013247d6"}
+	},
+	{
+		"Journal":
+		{"title":{"value":"Journal of Stress Physiology &amp; Biochemistry"},
+	"ISSN":{"value":"1997-0838"}
+	}
+	}
+	],
+	"issued":"2014-",
+	"dateSubmitted":2016,
+	"uri":"http://www.jspb.ru/issues/2014/N2/JSPB_2014_2_287-296.pdf",
+	"creator":[
+		{
+		"Person":
+		{"name":"Rathore Sharuti"
+	}
+	},
+	{
+		"Person":
+		{"name":"Singh Narender"
+	}
+	},
+	{
+		"Person":
+		{"name":"Singh S.K."
+	}
+	}
+	],
+	"abstract":
+		{"value":{"value":"Soil salinity occupies a prominent place among the soil problems that threaten the sustainability of agriculture over a vast area in the world. It affects plant morpho-physiology and ultimately leads to reduction in productivity. It is essential to test important medicinal plants for their salinity tolerance as research efforts aim to explore economic benefits under saline conditions. Keeping in view the importance of Stevia and salinity, present study had been designed to investigate the effect of salinity on biochemical parameters in two Stevia genotypes. Two node microcuttings were subjected to MS media supplemented with different NaCl concentrations (0, 25, 50, 75, 100, 125 mM). Chlorophyll amount was observed to be decreased as compared to sugars, proline and phenols with increased salt concentrations."},
+	"language":{"value":"eng"}
+	}
+	}}

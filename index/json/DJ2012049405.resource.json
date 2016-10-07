@@ -1,0 +1,50 @@
+{"resource": {
+	"title":{"value":"Identification of Stevia rebaudiana Bertoni Proteins by Sodium Dodecyl Sulphate Polyacrylamide Gel Electrophoresis"},
+	"subject":[
+		{"value":"Identification of variety"},
+	{"value":"total protein"},
+	{"value":"electrophoretogram"}
+	],
+	"pageStart":163,
+	"volume":1,
+	"pageEnd":176,
+	"type":"Journal Article",
+	"about":"http://agris.fao.org/aos/records/DJ2012049405",
+	"identifier":"DJ2012049405",
+	"source":
+		{"resource":"http://ring.ciard.net/node/11211"
+	},
+	"isPartOf":[
+		{
+		"resource":{"value":"http://aims.fao.org/serials/j_1294932450480"}
+	},
+	{
+		"Journal":
+		{"title":{"value":"Asian Journal of Crop Science"},
+	"ISSN":{"value":"1994-7879"}
+	}
+	}
+	],
+	"issued":"2009-01-01",
+	"uri":"http://docsdrive.com/pdfs/ansinet/ajcs/2009/63-65.pdf",
+	"publisher":
+		{"Organization":
+		{"name":"Asian Network for Scientific Information"
+	}
+	},
+	"dateSubmitted":2012,
+	"creator":[
+		{
+		"Person":
+		{"name":"Ma Lei"
+	}
+	},
+	{
+		"Person":
+		{"name":"Shi Yan"
+	}
+	}
+	],
+	"issue":1,
+	"abstract":{"value":"Four diverse genotypes of Stevia rebaudiana Bertoni  were included for Sodium Dodecyl Sulphate Polyacrylamide Gel Electrophoresis  (SDS-PAGE) analysis. Total proteins were analyzed through slab type SDS-PAGE.  Based on SDS-PAGE, specific bands were suggested to be used for identifying  Stevia rebaudiana Berton. This method has the advantages of simplicity,  high sensitivity and good accuracy and the SDS-PAGE proved to be a powerful  tool for differentiating Stevia rebaudiana Bertoni varieties. "}
+	}}

@@ -74,12 +74,12 @@
 						"language":{"type":"string"}
 					}
 				},
-				"arn":{"type":"string"},
-				"author":
+				"identifier":{"type":"string"},
+				"creator":
 				{
 					"properties":
 					{
-						"person":
+						"Person":
 						{
 							"properties":
 							{
@@ -99,11 +99,12 @@
 						}
 					}
 				},
-				"date_issued":{"type":"string"},
-				"date_submitted":{"type":"string"},
+				"issued":{"type":"string"},
+				"dateSubmitted":{"type":"string"},
 				"doi":{"type":"string"},
+				"ISBN":{"type":"string"},
 				"isbn":{"type":"string"},
-				"uri":{"type":"string"},
+				"about":{"type":"string"},
 				"extent":{"type":"string"},
 				"publisher":
 				{
@@ -118,11 +119,11 @@
 						}
 					}
 				},
-				"is_part_of":
+				"isPartOf":
 				{
 					"properties":
 					{
-						"journal":
+						"Journal":
 						{
 							"properties":
 							{
@@ -130,18 +131,18 @@
 								"title":{"type":"string"}
 							}
 						},
-						"value":{"type":"string"}
+						"resource":{"type":"string"}
 					}
 				},
-				"issue":{"type":"long"},
+				"issue":{"type":"string"},
 				"language":{"type":"string"},
-				"page_end":{"type":"long"},
-				"page_start":{"type":"long"},
+				"pageEnd":{"type":"string"},
+				"pageStart":{"type":"string"},
 				"source":
 				{
 					"properties":
 					{
-						"uri":{"type":"string"}
+						"value":{"type":"string"}
 					}
 				},
 				"subject":
@@ -185,7 +186,7 @@
 					}
 				},
 				"uri":{"type":"string"},
-				"volume":{"type":"long"}
+				"volume":{"type":"string"}
 			}
 		}
 	}
