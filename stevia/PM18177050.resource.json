@@ -1,0 +1,41 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Stretched poly(methyl methacrylate) gel aligns small organic molecules in chloroform. stereochemical analysis and diastereotopic proton NMR assignment in ludartin using residual dipolar couplings and 3J coupling constant analysis."},
+	"pageStart":840,
+	"volume":3,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM18177050",
+	"identifier":"PM18177050",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"The Journal of organic chemistry"},
+	"ISSN":{"value":"0022-3263"}
+	}
+	},
+	"issued":"2008-01-28",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Gil, Roberto R, RR"
+	}
+	},
+	{
+		"Person":
+		{"name":"Gayathri, Chakicherla, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tsarevsky, Nicolay V, NV"
+	}
+	},
+	{
+		"Person":
+		{"name":"Matyjaszewski, Krzysztof, K"
+	}
+	}
+	],
+	"abstract":{"value":"Poly(methyl methacrylate) (PMMA) gels prepared by copolymerizing methyl methacrylate (MMA) and various amounts of ethylene glycol dimethacrylate (EGDMA) in the presence of the radical initiator V-70 (2,2'-azobis(2,4-dimethyl-4-methoxyvaleronitrile)) can orient small organic molecules when swollen in NMR tubes with CDCl(3). The aligning properties of the stretched PMMA gels were evaluated by monitoring the quadrupolar splitting of the (2)H NMR signal of CDCl(3), and the aligning degree is proportional to the cross-linking density. Natural abundance one-bond (1)H-(13)C residual dipolar couplings (RDCs) for menthol measured in the gels depended on the cross-link density. The stereochemistry and assignment of the diastereotopic protons of the gastroprotective and nonsteroidal aromatase inhibitor sesquiterpene lactone ludartin, isolated from Stevia yaconensis var. subeglandulosa, were unambiguously determined using a combination of natural abundance one-bond (1)H-(13)C RDCs measured in a PMMA gel and a (3)J coupling constant analysis."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

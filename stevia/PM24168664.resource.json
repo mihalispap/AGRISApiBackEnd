@@ -1,0 +1,64 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Classification of stevia sweeteners in soft drinks using liquid chromatography and time-of-flight mass spectrometry."},
+	"subject":[
+		{"value":"Carbonated Beverages"},
+	{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Food Inspection"},
+	{"value":"Glucosyltransferases"},
+	{"value":"Glycosides"},
+	{"value":"Internet"},
+	{"value":"Japan"},
+	{"value":"Molecular Structure"},
+	{"value":"Plant Extracts"},
+	{"value":"Plant Leaves"},
+	{"value":"Principal Component Analysis"},
+	{"value":"Spectrometry, Mass, Electrospray Ionization"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"},
+	{"value":"Tandem Mass Spectrometry"}
+	],
+	"pageStart":2043,
+	"volume":12,
+	"pageEnd":9,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24168664",
+	"identifier":"PM24168664",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment"},
+	"ISSN":{"value":"1944-0057"}
+	}
+	},
+	"issued":"2013-12-17",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Kakigi, Y, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Suzuki, T, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Icho, T, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Uyama, A, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Mochizuki, N, N"
+	}
+	}
+	],
+	"abstract":{"value":"The aim of this study was to develop a comprehensive analytical method for the characterisation of stevia sweeteners in soft drinks. By using LC and time-of-flight MS, we detected 30 steviol glycosides from nine stevia sweeteners. The mass spectral data of these compounds were applied to the analysis to determine steviol glycosides in nine soft drinks. On the basis of chromatographic data and principal-component analysis, these soft drinks were classified into three groups, and the soft drinks of each group, respectively, contained high-rebaudioside A extract, normal stevia extract or alfa-glucosyltransferase-treated stevia extract."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

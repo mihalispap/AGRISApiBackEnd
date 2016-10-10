@@ -1,0 +1,31 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Production, maintenance and plant regeneration from cell suspension cultures of Stevia rebaudiana (Bert.) Bertoni."},
+	"pageStart":123,
+	"volume":2,
+	"pageEnd":6,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24241548",
+	"identifier":"PM24241548",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Plant cell reports"},
+	"ISSN":{"value":"0721-7714"}
+	}
+	},
+	"issued":"2013-11-18",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Ferreira, C M, CM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Handro, W, W"
+	}
+	}
+	],
+	"abstract":{"value":"A method is described for producing and maintaining Stevia rebaudiana suspensions and regeneration of plants from calli derived from cell suspensions. Suspension cultures composed of isolated cells (ca. 10%) and cellular aggregates (5-100 cells) were obtained in 20-30 days by using friable callus as the initial inoculum in liquid mediā with BA (0.5 mg/l)+2,4-D (1.0 mg/l), and periodic filtering (100-500 μm sieves) with 6-7 days interval between subcultures. Cultures derived from actively growing calli are mainly diploid (2n=22) whereas those derived from senescent calli showed a wide variation in chromosome number (55-200). Stock cell suspensions which had been maintained for 3 years were plated on basal LS agar medium with BA (0.5 mg/l)+2,4D (0.5 mg/l) to form callus. Calli originating from predominantly 2n cell suspensions when transferred to medium with K (2.0 mg/l)+NAA (0.02 mg/l) were able to form buds. Shoot elongation and further rooting of isolated shoots was better on LS medium devoid of growth regulators. Variation in rooting capacity, plant vigour, morphological characters and chromosome number was found amongst regenerated plants."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,69 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Diterpene synthesis in Stevia rebaudiana: recruitment and up-regulation of key enzymes from the gibberellin biosynthetic pathway."},
+	"subject":[
+		{"value":"Alkyl and Aryl Transferases"},
+	{"value":"Amino Acid Sequence"},
+	{"value":"Asteraceae"},
+	{"value":"Catalysis"},
+	{"value":"Cloning, Molecular"},
+	{"value":"Diterpenes"},
+	{"value":"Gene Expression Regulation, Plant"},
+	{"value":"Genes, Duplicate"},
+	{"value":"Genes, Plant"},
+	{"value":"Genome, Plant"},
+	{"value":"Gibberellins"},
+	{"value":"Molecular Sequence Data"},
+	{"value":"Phylogeny"},
+	{"value":"Plant Leaves"},
+	{"value":"Plant Proteins"},
+	{"value":"Protein Biosynthesis"},
+	{"value":"RNA, Messenger"},
+	{"value":"Recombinant Proteins"},
+	{"value":"Sequence Alignment"},
+	{"value":"Sequence Homology, Amino Acid"},
+	{"value":"Up-Regulation"}
+	],
+	"pageStart":411,
+	"volume":4,
+	"pageEnd":21,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM10504563",
+	"identifier":"PM10504563",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"The Plant journal : for cell and molecular biology"},
+	"ISSN":{"value":"0960-7412"}
+	}
+	},
+	"issued":"1999-12-17",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Richman, A S, AS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Gijzen, M, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Starratt, A N, AN"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yang, Z, Z"
+	}
+	},
+	{
+		"Person":
+		{"name":"Brandle, J E, JE"
+	}
+	}
+	],
+	"abstract":{"value":"Stevia rebaudiana Bertoni leaves accumulate a mixture of at least eight different glycosides derived from the tetracyclic diterpene steviol. These natural products taste intensely sweet and have similar biosynthetic origins to those of gibberellic acid (GA). The initial steps leading to the formation of GA result from the two-step cyclization of geranylgeranyl diphosphate (GGDP) to (-)-kaurene via the action of two terpene cyclases (-)-copalyl diphosphate synthase (CPS) and (-)-kaurene synthase (KS). Steviol biosynthesis probably uses the same mechanism although the genes and enzymes from S. rebaudiana that are involved in the cyclization of GGDP have not been characterized. We have isolated both the CPS and KS genes from S. rebaudiana and found that recombinant CPS and KS were catalytically active, suggesting that the CPS and KS genes participate in steviol biosynthesis. The genes coding for CPS and KS are usually present in single copies in most plant species and their expression is normally low and limited to rapidly growing tissues. The KS gene has been duplicated in the S. rebaudiana genome and both the KS and CPS genes are highly expressed in mature leaves, a pattern opposite to that found with GA biosynthesis. This pattern may, at least in part, lead to temporal and spatial separation of GA and steviol biosynthesis and probably helps to prevent over-expression from interfering with normal GA metabolism. Our results show that CPS and KS are part of the steviol glycoside biosynthetic pathway and that Stevia rebaudiana has recruited two genes to secondary metabolism from a highly regulated pathway involved in hormone biosynthesis."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

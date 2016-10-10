@@ -1,0 +1,44 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Downstream processing of stevioside and its potential applications."},
+	"subject":[
+		{"value":"Biotechnology"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Plant Leaves"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":781,
+	"volume":6,
+	"pageEnd":91,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM21726623",
+	"identifier":"PM21726623",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Biotechnology advances"},
+	"ISSN":{"value":"1873-1899"}
+	}
+	},
+	"issued":"2011-10-04",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Puri, Munish, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sharma, Deepika, D"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tiwari, Ashok K, AK"
+	}
+	}
+	],
+	"abstract":{"value":"Stevioside is a natural sweetener extracted from leaves of Stevia rebaudiana Bertoni, which is commercially produced by conventional (chemical/physical) processes. This article gives an overview of the stevioside structure, various analysis technique, new technologies required and the advances achieved in recent years. An enzymatic process is established, by which the maximum efficacy and benefit of the process can be achieved. The efficiency of the enzymatic process is quite comparable to that of other physical and chemical methods. Finally, we believe that in the future, the enzyme-based extraction will ensure more cost-effective availability of stevioside, thus assisting in the development of more food-based applications."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

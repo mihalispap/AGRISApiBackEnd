@@ -1,0 +1,92 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Analysis of anti-rotavirus activity of extract from Stevia rebaudiana."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Antibodies, Viral"},
+	{"value":"Antigens, Viral"},
+	{"value":"Antiviral Agents"},
+	{"value":"Capsid"},
+	{"value":"Capsid Proteins"},
+	{"value":"Cell Line"},
+	{"value":"Chromatography, Ion Exchange"},
+	{"value":"Chrysanthemum cinerariifolium"},
+	{"value":"Dose-Response Relationship, Drug"},
+	{"value":"Hydrogen-Ion Concentration"},
+	{"value":"Molecular Weight"},
+	{"value":"Plant Extracts"},
+	{"value":"Plants, Medicinal"},
+	{"value":"Polysaccharides"},
+	{"value":"Protein Binding"},
+	{"value":"Receptors, Virus"},
+	{"value":"Rotavirus"},
+	{"value":"Virus Replication"}
+	],
+	"pageStart":15,
+	"volume":1,
+	"pageEnd":24,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM11166857",
+	"identifier":"PM11166857",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Antiviral research"},
+	"ISSN":{"value":"0166-3542"}
+	}
+	},
+	"issued":"2001-02-22",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Takahashi, K, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Matsuda, M, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ohashi, K, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Taniguchi, K, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Nakagomi, O, O"
+	}
+	},
+	{
+		"Person":
+		{"name":"Abe, Y, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Mori, S, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sato, N, N"
+	}
+	},
+	{
+		"Person":
+		{"name":"Okutani, K, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Shigeta, S, S"
+	}
+	}
+	],
+	"abstract":{"value":"Anti-human rotavirus (HRV) activity of hot water extracts from Stevia rebaudiana (SE) was examined. SE inhibited the replication of all four serotypes of HRV in vitro. This inhibitory effect of SE was not reduced on the prior exposure of SE to HCl for 30 min at pH 2. Binding assay with radiolabeled purified viruses indicated that the inhibitory mechanism of SE is the blockade of virus binding. The SE inhibited the binding of anti-VP7 monoclonal antibody to HRV-infected MA104 cells. The inhibitory components of SE were found to be heterogeneous anionic polysaccharides with different ion charges. The component analyses suggested that the purified fraction named as Stevian with the highest inhibitory activity consists of the anionic polysaccharide with molecular weight of 9800, and contains Ser and Ala as amino acids. Analyses of sugar residues suggest uronic acid(s) as sugar components. It did not contain amino and neutral sugars and sulfate residues. These findings suggest that SE may bind to 37 kD VP7 and interfere with the binding of VP7 to the cellular receptors by steric hindrance, which results in the blockade of the virus attachment to cells."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

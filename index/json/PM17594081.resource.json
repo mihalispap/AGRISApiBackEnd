@@ -1,0 +1,66 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Comparison of two different solvents employed for pressurised fluid extraction of stevioside from Stevia rebaudiana: methanol versus water."},
+	"subject":[
+		{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Methanol"},
+	{"value":"Plant Extracts"},
+	{"value":"Solvents"},
+	{"value":"Stereoisomerism"},
+	{"value":"Stevia"},
+	{"value":"Water"}
+	],
+	"pageStart":1847,
+	"volume":8,
+	"pageEnd":57,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM17594081",
+	"identifier":"PM17594081",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Analytical and bioanalytical chemistry"},
+	"ISSN":{"value":"1618-2642"}
+	}
+	},
+	"issued":"2007-07-26",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Pól, Jaroslav, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Varadová Ostrá, Elena, E"
+	}
+	},
+	{
+		"Person":
+		{"name":"Karásek, Pavel, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Roth, Michal, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Benesová, Karolínka, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kotlaríková, Pavla, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Cáslavský, Josef, J"
+	}
+	}
+	],
+	"abstract":{"value":"Pressurised fluid extraction using water or methanol was employed for the extraction of stevioside from Stevia rebaudiana Bertoni. The extraction method was optimised in terms of temperature and duration of the static or the dynamic step. Extracts were analysed by liquid chromatography followed by UV and mass-spectrometric (MS) detections. Thermal degradation of stevioside was the same in both solvents within the range 70-160 degrees C. Methanol showed better extraction ability for isolation of stevioside from Stevia rebaudiana leaves than water within the range 110-160 degrees C. However, water represents the green alternative to methanol. The limit of detection of stevioside in the extract analysed was 30 ng for UV detection and 2 ng for MS detection."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

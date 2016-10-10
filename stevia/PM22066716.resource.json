@@ -1,0 +1,61 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Calibration and prediction of amino acids in stevia leaf powder using near infrared reflectance spectroscopy."},
+	"subject":[
+		{"value":"Amino Acids"},
+	{"value":"Animal Feed"},
+	{"value":"Calibration"},
+	{"value":"Plant Leaves"},
+	{"value":"Powders"},
+	{"value":"Quality Control"},
+	{"value":"Spectroscopy, Near-Infrared"},
+	{"value":"Stevia"}
+	],
+	"pageStart":13065,
+	"volume":24,
+	"pageEnd":71,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM22066716",
+	"identifier":"PM22066716",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of agricultural and food chemistry"},
+	"ISSN":{"value":"1520-5118"}
+	}
+	},
+	"issued":"2012-01-09",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Li, Guan, G"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wang, Ruiguo, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Quampah, Alfred Julius, AJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Rong, Zhengqin, Z"
+	}
+	},
+	{
+		"Person":
+		{"name":"Shi, Chunhai, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wu, Jianguo, J"
+	}
+	}
+	],
+	"abstract":{"value":"The use of stevia as animal feed additive has been researched over the years, but how to rapidly predict its amino acid contents has not been studied yet by using near-infrared reflectance spectroscopy. In the present study, 301 samples of stevia leaf powder were defined as the calibration set from which calibration models were optimized, and the performance of prediction was evaluated. Compared with other mathematical treatments, the models developed with the \"1, 12, 12, 1\" treatment, combined with modified partial least-squares regression and standard normal variance with de-trending, had a significant potential in predicting amino acid contents, such as threonine, serine, etc. Six spectral regions were found to possess large spectrum variation and show high contribution to calibration models. From the present study, the calibration models of amino acids in stevia were successfully developed and could be applied to quality control in feed processing, breeding selection and mutant screening."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

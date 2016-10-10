@@ -1,0 +1,45 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"High-performance liquid chromatography of glycosides on a new type of hydroxyapatite column."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Durapatite"},
+	{"value":"Glycosides"},
+	{"value":"Hydroxyapatites"},
+	{"value":"Panax"},
+	{"value":"Plants"},
+	{"value":"Plants, Medicinal"},
+	{"value":"Saponins"},
+	{"value":"Spectrophotometry, Ultraviolet"}
+	],
+	"pageStart":205,
+	"pageEnd":10,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM2828390",
+	"identifier":"PM2828390",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of chromatography"}
+	}
+	},
+	"issued":"1988-03-08",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Kasai, R, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yamaguchi, H, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tanaka, O, O"
+	}
+	}
+	],
+	"abstract":{"value":"High-performance liquid chromatography on a column of newly developed hard spherical hydroxyapatite was applied to the separation of a variety of glycosides of tri- and diterpenes including Ginseng saponins and Stevia sweet glycosides, affording satisfactory results by using a simple solvent system, aqueous acetonitrile. This normal phase chromatography is superior to chromatography on a silica gel column for the separation of water-soluble glycosides."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

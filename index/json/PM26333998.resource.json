@@ -1,0 +1,44 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Profiling and Quantification of Phenolics in Stevia rebaudiana Leaves."},
+	"subject":[
+		{"value":"Mass Spectrometry"},
+	{"value":"Molecular Structure"},
+	{"value":"Phenols"},
+	{"value":"Plant Extracts"},
+	{"value":"Plant Leaves"},
+	{"value":"Stevia"}
+	],
+	"pageStart":9188,
+	"volume":41,
+	"pageEnd":98,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26333998",
+	"identifier":"PM26333998",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of agricultural and food chemistry"},
+	"ISSN":{"value":"1520-5118"}
+	}
+	},
+	"issued":"2015-10-21",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Karaköse, Hande, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Müller, Anja, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kuhnert, Nikolai, N"
+	}
+	}
+	],
+	"abstract":{"value":"Stevia rebaudiana (Bertoni) is a plant from the Asteraceae family with significant economic value because of the steviol glycoside sweeteners in its leaves. Chlorogenic acids and flavonoid glycosides of S. rebaudiana from seven different botanical varieties cultivated over two years and harvested three times a year in eight European locations were profiled and quantified in a total of 166 samples. Compounds quantified include chlorogenic acids as well as flavonoid glycosides and aglycons. All phenolic concentration profiles show a perfect Gaussian distribution. Principal component analyses allow distinction between varieties of different geographical origin and distinction between different plant varieties. Although concentrations of all chlorogenic acids showed a positive correlation, no correlation was observed for flavonoid glycosides. Conclusions from these findings with respect to the biosynthesis and functional role of phenolics in S. rebaudiana are discussed."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

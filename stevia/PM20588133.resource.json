@@ -1,0 +1,34 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Sweet dreams..."},
+	"subject":[
+		{"value":"Aging"},
+	{"value":"Diabetes Mellitus, Type 2"},
+	{"value":"Dietary Sucrose"},
+	{"value":"Humans"},
+	{"value":"Insulin Resistance"},
+	{"value":"Obesity"},
+	{"value":"Plant Extracts"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":239,
+	"volume":4,
+	"pageEnd":40,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM20588133",
+	"identifier":"PM20588133",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Holistic nursing practice"},
+	"ISSN":{"value":"1550-5138"}
+	}
+	},
+	"issued":"2010-06-30",
+	"dateSubmitted":2016,
+	"creator":
+		{"Person":
+		{"name":"Ross, Stephanie Maxine, SM"
+	}
+	}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

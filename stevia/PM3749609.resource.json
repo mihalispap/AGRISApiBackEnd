@@ -1,0 +1,51 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Stevioside, the sweet glycoside of Stevia rebaudiana, inhibits the action of atractyloside in the isolated perfused rat liver."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Atractyloside"},
+	{"value":"Biological Transport, Active"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Energy Metabolism"},
+	{"value":"Glucose"},
+	{"value":"Glucosides"},
+	{"value":"Glycosides"},
+	{"value":"In Vitro Techniques"},
+	{"value":"Liver"},
+	{"value":"Male"},
+	{"value":"Oxygen Consumption"},
+	{"value":"Perfusion"},
+	{"value":"Rats"},
+	{"value":"Rats, Inbred Strains"},
+	{"value":"Sweetening Agents"},
+	{"value":"Terpenes"}
+	],
+	"pageStart":79,
+	"volume":1,
+	"pageEnd":91,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM3749609",
+	"identifier":"PM3749609",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Research communications in chemical pathology and pharmacology"},
+	"ISSN":{"value":"0034-5164"}
+	}
+	},
+	"issued":"1986-10-16",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Ishii, E L, EL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bracht, A, A"
+	}
+	}
+	],
+	"abstract":{"value":"Stevioside inhibits the action of atractyloside on energy metabolism in the isolated perfused rat liver. The effects of atractyloside on glycolysis, glycogenolysis, gluconeogenesis and oxygen uptake are decreased by stevioside. The concentration for half-maximal action is 0.5 mM. The site of the action is located on the outside of the cell. Possibly, stevioside affects the transport of atractyloside across the cell membrane."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

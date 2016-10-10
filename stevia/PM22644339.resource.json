@@ -1,0 +1,99 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Stevioside suppressed inflammatory cytokine secretion by downregulation of NF-κB and MAPK signaling pathways in LPS-stimulated RAW264.7 cells."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Anti-Inflammatory Agents, Non-Steroidal"},
+	{"value":"Cell Line"},
+	{"value":"Cell Survival"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Down-Regulation"},
+	{"value":"Glucosides"},
+	{"value":"I-kappa B Proteins"},
+	{"value":"Inflammation"},
+	{"value":"Interleukin-1beta"},
+	{"value":"Interleukin-6"},
+	{"value":"JNK Mitogen-Activated Protein Kinases"},
+	{"value":"Lipopolysaccharides"},
+	{"value":"MAP Kinase Signaling System"},
+	{"value":"Macrophages"},
+	{"value":"Mice"},
+	{"value":"Mitogen-Activated Protein Kinases"},
+	{"value":"NF-kappa B"},
+	{"value":"Phosphorylation"},
+	{"value":"Tumor Necrosis Factor-alpha"},
+	{"value":"p38 Mitogen-Activated Protein Kinases"}
+	],
+	"pageStart":1669,
+	"volume":5,
+	"pageEnd":75,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM22644339",
+	"identifier":"PM22644339",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Inflammation"},
+	"ISSN":{"value":"1573-2576"}
+	}
+	},
+	"issued":"2012-09-12",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Fengyang, Li, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yunhe, Fu, F"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bo, Liu, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Zhicheng, Liu, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Depeng, Li, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Dejie, Liang, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wen, Zhang, Z"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yongguo, Cao, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Naisheng, Zhang, Z"
+	}
+	},
+	{
+		"Person":
+		{"name":"Xichen, Zhang, Z"
+	}
+	},
+	{
+		"Person":
+		{"name":"Zhengtao, Yang, Y"
+	}
+	}
+	],
+	"abstract":{"value":"Stevioside, a diterpene glycoside isolated from Stevia rebaudiana, has been reported to have anti-inflammatory properties. However, the underlying molecular mechanisms are not well understood. The objective of this study was to investigate the molecular mechanism of stevioside in modifying lipopolysaccharide (LPS)-induced signal pathways in RAW264.7 cells. RAW264.7 cells were stimulated with LPS in the presence or absence of stevioside. The expression of pro-inflammatory cytokines was determined by enzyme-linked immunosorbent assay and quantitative real-time polymerase chain reaction. Nuclear factor-κB (NF-κB), inhibitory kappa B (IκBα) protein, p38, extracellular signal-regulated kinase (ERK), and c-Jun N-terminal kinase (JNK) were determined by western blot. The results showed that stevioside dose-dependently inhibited the expression of tumor necrosis factor-α, interleukin-6, and interleukin-1β in LPS-stimulated RAW264.7 cells. Western blot analysis showed that stevioside suppressed LPS-induced NF-κB activation, IκBa degradation, phosphorylation of ERK, JNK, and P38. Our results suggest that stevioside exerts an anti-inflammatory property by inhibiting the activation of NF-κB and mitogen-activated protein kinase signaling and the release of proinflammatory cytokines. These findings suggest that stevioside may be a therapeutic agent against inflammatory diseases."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

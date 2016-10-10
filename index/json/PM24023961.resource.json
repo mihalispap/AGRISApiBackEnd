@@ -1,0 +1,50 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Agrobacterium mediated transient gene silencing (AMTS) in Stevia rebaudiana: insights into steviol glycoside biosynthesis pathway."},
+	"subject":[
+		{"value":"Agrobacterium"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Gene Expression Regulation, Plant"},
+	{"value":"Genetic Engineering"},
+	{"value":"Gibberellins"},
+	{"value":"Glucuronosyltransferase"},
+	{"value":"Glycosides"},
+	{"value":"Models, Molecular"},
+	{"value":"Plant Leaves"},
+	{"value":"Protein Conformation"},
+	{"value":"RNA Interference"},
+	{"value":"Stevia"},
+	{"value":"Syringes"}
+	],
+	"pageStart":"e74731",
+	"volume":9,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24023961",
+	"identifier":"PM24023961",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"PloS one"},
+	"ISSN":{"value":"1932-6203"}
+	}
+	},
+	"issued":"2013-09-11",
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3762721",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Guleria, Praveen, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yadav, Sudesh Kumar, SK"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"Steviol glycoside biosynthesis pathway has emerged as bifurcation from ent-kaurenoic acid, substrate of methyl erythritol phosphate pathway that also leads to gibberellin biosynthesis. However, the genetic regulation of steviol glycoside biosynthesis has not been studied. So, in present study RNA interference (RNAi) based Agrobacterium mediated transient gene silencing (AMTS) approach was followed. SrKA13H and three SrUGTs (SrUGT85C2, SrUGT74G1 and SrUGT76G1) genes encoding ent-kaurenoic acid-13 hydroxylase and three UDP glycosyltransferases of steviol glycoside biosynthesis pathway were silenced in Stevia rebaudiana to understand its molecular mechanism and association with gibberellins."},
+	{"value":"RNAi mediated AMTS of SrKA13H and three SrUGTs has significantly reduced the expression of targeted endogenous genes as well as total steviol glycoside accumulation. While gibberellins (GA3) content was significantly enhanced on AMTS of SrUGT85C2 and SrKA13H. Silencing of SrKA13H and SrUGT85C2 was found to block the metabolite flux of steviol glycoside pathway and shifted it towards GA3 biosynthesis. Further, molecular docking of three SrUGT proteins has documented highest affinity of SrUGT76G1 for the substrates of alternate pathways synthesizing steviol glycosides. This could be a plausible reason for maximum reduction in steviol glycoside content on silencing of SrUGT76G1 than other genes."},
+	{"value":"SrKA13H and SrUGT85C2 were identified as regulatory genes influencing carbon flux between steviol glycoside and gibberellin biosynthesis. This study has also documented the existence of alternate steviol glycoside biosynthesis route."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

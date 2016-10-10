@@ -1,0 +1,86 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Stevioside plays an anti-inflammatory role by regulating the NF-κB and MAPK pathways in S. aureus-infected mouse mammary glands."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Anti-Inflammatory Agents"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Dose-Response Relationship, Drug"},
+	{"value":"Female"},
+	{"value":"Glucosides"},
+	{"value":"MAP Kinase Signaling System"},
+	{"value":"Mammary Glands, Animal"},
+	{"value":"Mastitis"},
+	{"value":"Mice"},
+	{"value":"Mice, Inbred BALB C"},
+	{"value":"NF-kappa B"},
+	{"value":"Staphylococcus aureus"}
+	],
+	"pageStart":1837,
+	"volume":5,
+	"pageEnd":46,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24858724",
+	"identifier":"PM24858724",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Inflammation"},
+	"ISSN":{"value":"1573-2576"}
+	}
+	},
+	"issued":"2014-09-24",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Wang, Tiancheng, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Guo, Mengyao, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Song, Xiaojing, X"
+	}
+	},
+	{
+		"Person":
+		{"name":"Zhang, Zecai, Z"
+	}
+	},
+	{
+		"Person":
+		{"name":"Jiang, Haichao, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wang, Wei, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"Fu, Yunhe, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Cao, Yongguo, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Zhu, Lianqin, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Zhang, Naisheng, N"
+	}
+	}
+	],
+	"abstract":{"value":"Mastitis is an inflammatory disease caused by microbial infection. Staphylococcus aureus is one of the primary bacteria responsible for mastitis. Stevioside is isolated from Stevia rebaudiana and is known to have therapeutic functions. This study was designed to evaluate the effects of stevioside in a mouse model of S. aureus-induced mastitis. In this study, the mouse mammary gland was infected with S. aureus to induce the mastitis model. The stevioside was administered intraperitoneally after the S. aureus infection was established. Hematoxylin-eosin (HE) staining, ELISA, Western blot, and q-PCR methods were used. The results show that stevioside significantly reduced the inflammatory cell infiltration and the levels of TNF-α, IL-1β, and IL-6 and the respective expression of their messenger RNAs (mRNAs). Further studies revealed that stevioside downregulated the TLR2, NF-κB, and (mitogen-activated protein kinase) MAPK signaling pathways in the S. aureus-infected mouse mammary gland. Our results demonstrate that stevioside reduced the expression of TNF-α, IL-1β, and IL-6 by inhibiting the phosphorylation of proteins in the NF-κB and MAPK signaling pathways dose-dependently, but that their mRNA expression was not obviously changed."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,60 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Spatial organisation of four enzymes from Stevia rebaudiana that are involved in steviol glycoside synthesis."},
+	"subject":[
+		{"value":"Arabidopsis"},
+	{"value":"Arabidopsis Proteins"},
+	{"value":"Cell Fractionation"},
+	{"value":"Cloning, Molecular"},
+	{"value":"Cytochrome P-450 Enzyme System"},
+	{"value":"Cytoplasm"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Endoplasmic Reticulum"},
+	{"value":"Gibberellins"},
+	{"value":"Glucosyltransferases"},
+	{"value":"Glycosides"},
+	{"value":"Green Fluorescent Proteins"},
+	{"value":"Oxygenases"},
+	{"value":"Plant Proteins"},
+	{"value":"Plants, Genetically Modified"},
+	{"value":"Recombinant Fusion Proteins"},
+	{"value":"Stevia"}
+	],
+	"pageStart":47,
+	"volume":"1-2",
+	"pageEnd":62,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM16786291",
+	"identifier":"PM16786291",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Plant molecular biology"},
+	"ISSN":{"value":"0167-4412"}
+	}
+	},
+	"issued":"2006-06-20",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Humphrey, Tania V, TV"
+	}
+	},
+	{
+		"Person":
+		{"name":"Richman, Alex S, AS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Menassa, Rima, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Brandle, Jim E, JE"
+	}
+	}
+	],
+	"abstract":{"value":"The sweet steviol glycosides found in the leaves of Stevia rebaudiana Bert. are derived from the diterpene steviol which is produced from a branch of the gibberellic acid (GA) biosynthetic pathway. An understanding of the spatial organisation of the two pathways including subcellular compartmentation provides important insight for the metabolic engineering of steviol glycosides as well as other secondary metabolites in plants. The final step of GA biosynthesis, before the branch point for steviol production, is the formation of (-)-kaurenoic acid from (-)-kaurene, catalysed by kaurene oxidase (KO). Downstream of this, the first committed step in steviol glycoside synthesis is the hydroxylation of kaurenoic acid to form steviol which is then sequentially glucosylated by a series of UDP-glucosyltransferases (UGTs) to produce the variety of steviol glycosides. The subcellular location of KO and three of the UGTs involved in steviol glycoside biosynthesis was investigated by expression of GFP fusions and cell fractionation which revealed KO to be associated with the endoplasmic reticulum and the UGTs in the cytoplasm. It has also been shown by expressing the Stevia UGTs in Arabidopsis that the pathway can be partially reconstituted by recruitment of a native Arabidopsis glucosyltransferase."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,59 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Synthesis of rebaudioside-A by enzymatic transglycosylation of stevioside present in the leaves of Stevia rebaudiana Bertoni."},
+	"subject":[
+		{"value":"Cellulase"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Food Additives"},
+	{"value":"Glucosides"},
+	{"value":"Plant Leaves"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":154,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26830573",
+	"identifier":"PM26830573",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Food chemistry"},
+	"ISSN":{"value":"0308-8146"}
+	}
+	},
+	"issued":"2016-02-02",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Adari, Bhaskar Rao, BR"
+	}
+	},
+	{
+		"Person":
+		{"name":"Alavala, Sateesh, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"George, Sara A, SA"
+	}
+	},
+	{
+		"Person":
+		{"name":"Meshram, Harshadas M, HM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tiwari, Ashok K, AK"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sarma, Akella V S, AV"
+	}
+	}
+	],
+	"abstract":{"value":"Rebaudioside-A is the second most abundant sweet diterpene glycoside (1-3%) present in the leaves of Stevia rebaudiana Bertoni, and is now being considered as a possible sucrose substitute due to its pleasant organoleptic properties and associated health benefits. In the present study, a novel in situ enzymatic transglycosylation of stevioside has been developed by pre-treating the stevia leaves with cellulase and adding soluble starch as the glucosyl donor. The results confirm that the transglycosylation of stevioside led to an enrichment in the rebaudioside-A content from 4% to 66%. This was further purified by multiple column chromatography to obtain 95% pure rebaudioside-A. The isolated rebaudioside-A showed concentration-dependent α-glucosidase inhibitory activity with IC50=35.01 μg/ml. Thus the study highlights the biotransformation of stevioside present in stevia leaves to rebaudioside-A by a simple, inexpensive and eco-friendly process that has commercial potential."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

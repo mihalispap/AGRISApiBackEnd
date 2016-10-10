@@ -1,0 +1,54 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Controlling the taste receptor accessible structure of rebaudioside A via binding to bovine serum albumin."},
+	"subject":[
+		{"value":"Binding Sites"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Food Additives"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Models, Theoretical"},
+	{"value":"Protein Binding"},
+	{"value":"Serum Albumin, Bovine"},
+	{"value":"Sweetening Agents"},
+	{"value":"Taste"},
+	{"value":"Taste Perception"},
+	{"value":"Temperature"}
+	],
+	"pageStart":84,
+	"volume":"Pt A",
+	"pageEnd":91,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26616927",
+	"identifier":"PM26616927",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Food chemistry"},
+	"ISSN":{"value":"0308-8146"}
+	}
+	},
+	"issued":"2015-11-30",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Mudgal, Samriddh, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Keresztes, Ivan, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Feigenson, Gerald W, GW"
+	}
+	},
+	{
+		"Person":
+		{"name":"Rizvi, S S H, SS"
+	}
+	}
+	],
+	"abstract":{"value":"We illustrate a method that uses bovine serum albumin (BSA) to control the receptor-accessible part of rebaudioside A (Reb A). The critical micelle concentration (CMC) of Reb A was found to be 4.5 mM and 5 mM at pH 3 and 6.7 respectively. NMR studies show that below its CMC, Reb A binds weakly to BSA to generate a Reb A-protein complex (\"RPC\"), which is only modestly stable under varying conditions of pH (3.0-6.7) and temperature (4-40°C) with its binding affinities determined to be in the range of 5-280 mM. Furthermore, saturation transfer difference (STD) NMR experiments confirm that the RPC has fast exchange of the bitterness-instigating diterpene of Reb A into the binding sites of BSA. Our method can be used to alter the strength of Reb A-receptor interaction, as a result of binding of Reb A to BSA, which may ultimately lead to moderation of its taste."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

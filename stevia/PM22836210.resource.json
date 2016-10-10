@@ -1,0 +1,57 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Synthesis and sensory evaluation of ent-kaurane diterpene glycosides."},
+	"subject":[
+		{"value":"Catalysis"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Fungal Proteins"},
+	{"value":"Glucosides"},
+	{"value":"Glycosides"},
+	{"value":"Humans"},
+	{"value":"Hydrogenation"},
+	{"value":"Hydrolysis"},
+	{"value":"Hydroxides"},
+	{"value":"Oxidation-Reduction"},
+	{"value":"Palladium"},
+	{"value":"Polygalacturonase"},
+	{"value":"Sweetening Agents"},
+	{"value":"Taste"}
+	],
+	"pageStart":8908,
+	"volume":8,
+	"pageEnd":16,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM22836210",
+	"identifier":"PM22836210",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Molecules (Basel, Switzerland)"},
+	"ISSN":{"value":"1420-3049"}
+	}
+	},
+	"issued":"2012-07-27",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Prakash, Indra, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Campbell, Mary, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"San Miguel, Rafael Ignacio, RI"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chaturvedula, Venkata Sai Prakash, VS"
+	}
+	}
+	],
+	"abstract":{"value":"Catalytic hydrogenation of the three ent-kaurane diterpene glycosides isolated from Stevia rebaudiana, namely rubusoside, stevioside, and rebaudioside-A has been carried out using Pd(OH)₂ and their corresponding dihydro derivatives have been isolated as the products. Synthesis of reduced steviol glycosides was performed using straightforward chemistry and their structures were characterized on the basis of 1D and 2D NMR spectral data and chemical studies. Also, we report herewith the sensory evaluation of all the reduced compounds against their corresponding original steviol glycosides and sucrose for the sweetness property of these molecules."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

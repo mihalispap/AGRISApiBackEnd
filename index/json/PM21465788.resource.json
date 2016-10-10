@@ -1,0 +1,53 @@
+{"resource": {
+	"language":"chi",
+	"title":{"value":"[Identification and biotransformation properties of a bacterium that converts stevioside into rubusoside]."},
+	"subject":[
+		{"value":"Biotransformation"},
+	{"value":"Chryseobacterium"},
+	{"value":"DNA, Bacterial"},
+	{"value":"DNA, Ribosomal"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Molecular Sequence Data"},
+	{"value":"Phylogeny"},
+	{"value":"RNA, Ribosomal, 16S"},
+	{"value":"Soil Microbiology"}
+	],
+	"pageStart":43,
+	"volume":1,
+	"pageEnd":9,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM21465788",
+	"identifier":"PM21465788",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Wei sheng wu xue bao = Acta microbiologica Sinica"},
+	"ISSN":{"value":"0001-6209"}
+	}
+	},
+	"issued":"2011-04-05",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Jiang, Zhongyu, Z"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chen, Yuru, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Liu, Hu, H"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"The purpose of our study was to separate and identify a bacillus that could convert stevioside specifically. Then we identified the conversion product and studied the conversion capability of the bacillus. We also studied the enzyme with conversion capability and the conversion characteristic of the enzyme."},
+	{"value":"The bacillus was identified on the basis of morphology features and 16S rDNA sequence analysis. Phylogenetic tree was constructed to determine its taxonomic status. The product was detected and identified by high performance liquid chromatography and liquid chromatography-mass spectrometry methods. We use bacteria media directly to studied the conversion capability of the bacillus, and use resting cells, extracellular fluid and intracellular fluid to convert stevioside to determine the enzyme and made further study to learn its conversion characteristic."},
+	{"value":"The 16S rDNA sequence of the strain had 99% similarity with Chryseobacterium sp., which was ultimately identified as Chryseobacterium sp., JH. The product of biotransformation was rubusoside and the enzyme that converts stevioside into rubusoside was intracellular enzyme. The conversion rate could reach 100%, obtained 5.7 g/L rubusodide solution after 48 h by bacteria media when the concentration of stevia glycosides was 10 g/L, including 7.2 g/L stevioside."},
+	{"value":"The isolated strain JH was identified as Chryseobacterium sp. It was a novel strain with high, specific ability to convert stevioside into rubusoside which had potential applications."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

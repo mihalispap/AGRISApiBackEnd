@@ -1,0 +1,48 @@
+{"resource": {
+	"issued":"2016-5-27",
+	"dateSubmitted":2016,
+	"language":"ENG",
+	"title":{"value":"The effect of Stevia on the chicken embryo heart."},
+	"creator":[
+		{
+		"Person":
+		{"name":"Sadighara, Parisa, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Mohammadpour, Isa, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Jahanbakhsh, Mahdi, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Araghi, Atefeh, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Nazaktabar, Ahmad, A"
+	}
+	}
+	],
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM27229155",
+	"identifier":"PM27229155",
+	"type":"Journal Article",
+	"abstract":[
+		{"value":"Stevioside is one of the most important food additives that has become well known for its sweetness. The aim of this study was to evaluate the impact of Stevioside on the heart."},
+	{"value":"4-day-old embryonated chickens eggs were inoculated with Stevioside and kept until hatching.Shortly after, the heart tissue samples were taken to examine organ Oxidative stresses by measuring Malondialdehyde (MDA) and glutathione (GSH) levels, ferric reducing /antioxidant power (FRAP) and cupric ion reducing assay (CUPRIC)."},
+	{"value":"There was no significant difference in glutathione level, lipid peroxidation, FRAP, and cupric assay."},
+	{"value":"It was suggested that stevioside didn't cause marked damages in heart tissues in chicken embryo model."}
+	],
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Cardiovascular & hematological disorders drug targets"},
+	"ISSN":{"value":"2212-4063"}
+	}
+	}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

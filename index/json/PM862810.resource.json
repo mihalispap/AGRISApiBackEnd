@@ -1,0 +1,44 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Cytological effects of some medicinal plants used in the control of fertility."},
+	"subject":[
+		{"value":"Caffeine"},
+	{"value":"Cell Division"},
+	{"value":"Fertility"},
+	{"value":"Kinetics"},
+	{"value":"Mitosis"},
+	{"value":"Plants, Medicinal"},
+	{"value":"Species Specificity"}
+	],
+	"pageStart":663,
+	"volume":5,
+	"pageEnd":5,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM862810",
+	"identifier":"PM862810",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Experientia"},
+	"ISSN":{"value":"0014-4754"}
+	}
+	},
+	"issued":"1977-07-18",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Schvartzman, J B, JB"
+	}
+	},
+	{
+		"Person":
+		{"name":"Krimer, D B, DB"
+	}
+	},
+	{
+		"Person":
+		{"name":"Moreno Azorero, R, R"
+	}
+	}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

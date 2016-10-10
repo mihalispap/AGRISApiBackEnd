@@ -1,0 +1,51 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"An efficient microwave-assisted extraction process of stevioside and rebaudioside-A from Stevia rebaudiana (Bertoni)."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Microwaves"},
+	{"value":"Spectrometry, Mass, Electrospray Ionization"},
+	{"value":"Stevia"}
+	],
+	"pageStart":240,
+	"volume":3,
+	"pageEnd":5,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM19358287",
+	"identifier":"PM19358287",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Phytochemical analysis : PCA"},
+	"ISSN":{"value":"1099-1565"}
+	}
+	},
+	"issued":"2009-04-14",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Jaitak, Vikas, V"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bikram Singh, Bandna, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kaul, V K, VK"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"Stevioside and rebaudioside-A are major low-calorie diterpene steviol glycosides in the leaves of Stevia rebaudiana. They are widely used as natural sweeteners for diabetic patients, but the long extraction procedures required and the optimisation of product yield present challenging problems."},
+	{"value":"To develop a rapid and effective methodology for the extraction of stevioside and rebaudioside-A from S. rebaudiana leaves and to compare yields using different extraction techniques."},
+	{"value":"Dried and powdered leaves of S. rebaudiana were extracted by conventional, ultrasound and microwave-assisted extraction techniques using methanol, ethanol and water as single solvents as well as in binary mixtures. Conventional cold extraction was performed at 25 degrees C for 12 h while ultrasound extraction was carried out at temperature of 35 +/- 5 degrees C for 30 min. Microwave-assisted extraction (MAE) was carried out at a power level of 80 W for 1 min at 50 degrees C."},
+	{"value":"MAE yielded 8.64 and 2.34% of stevioside and rebaudioside-A, respectively, while conventional and ultrasound techniques yielded 6.54 and 1.20%, and 4.20 and 1.98% of stevioside and rebaudioside-A, respectively."},
+	{"value":"A rapid and efficient method has been developed for the extraction of stevioside and rebaudioside-A in optimum yields using MAE procedure. This method has the advantage of rapid extraction and fast screening of a large number of S. rebaudiana samples for assessment of planting material. MAE saves considerable time, energy and has implications in the quality assessment of stevioside and rebaudioside-A prior to their industrial production from the leaves of S. rebaudiana."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

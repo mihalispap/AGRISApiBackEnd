@@ -1,0 +1,54 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Comprehensive characterization of Stevia rebaudiana using two-dimensional reversed-phase liquid chromatography/hydrophilic interaction liquid chromatography."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Chromatography, Reverse-Phase"},
+	{"value":"Hydrophobic and Hydrophilic Interactions"},
+	{"value":"Molecular Structure"},
+	{"value":"Plant Extracts"},
+	{"value":"Stevia"}
+	],
+	"pageStart":1821,
+	"volume":14,
+	"pageEnd":7,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM22807364",
+	"identifier":"PM22807364",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of separation science"},
+	"ISSN":{"value":"1615-9314"}
+	}
+	},
+	"issued":"2012-07-18",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Fu, Qing, Q"
+	}
+	},
+	{
+		"Person":
+		{"name":"Guo, Zhimou, Z"
+	}
+	},
+	{
+		"Person":
+		{"name":"Zhang, Xiuli, X"
+	}
+	},
+	{
+		"Person":
+		{"name":"Liu, Yanfang, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Liang, Xinmiao, X"
+	}
+	}
+	],
+	"abstract":{"value":"Two-dimensional reversed-phase liquid chromatography/hydrophilic interaction liquid chromatography (2D-RPLC/HILIC) system was successfully applied for comprehensive characterization of steviol glycosides from Stevia rebaudiana. The experiments were performed in offline mode using an XCharge C18 column in first dimension and an XAmide column in second dimension. In first dimension, preliminary separation of Stevia aqueous extract was accomplished and 30 fractions were collected. Then fractions 1-20 were selected for further purification and 13 compounds with high purity were obtained in second dimension. Comprehensive characterization of these compounds was completed by determination of their retention time, accurate molecular weight, diagnostic fragmentation ions, and nuclear magnetic resonance spectroscopy. As a result, all nine known steviol glycosides, as well as other four steviol glycosides were fully purified. The result demonstrated that this procedure is an effective approach for the preparative separation and comprehensive characterization of steviol glycosides in Stevia. This 2D-RPLC/HILIC method will be a promising tool for the purification of low-abundance compounds from natural products."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

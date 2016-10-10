@@ -1,0 +1,77 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Stevioside protects LPS-induced acute lung injury in mice."},
+	"subject":[
+		{"value":"Acute Lung Injury"},
+	{"value":"Animals"},
+	{"value":"Anti-Inflammatory Agents"},
+	{"value":"Bronchoalveolar Lavage Fluid"},
+	{"value":"Cell Count"},
+	{"value":"Cyclooxygenase 2"},
+	{"value":"Dexamethasone"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"I-kappa B Kinase"},
+	{"value":"Inflammation"},
+	{"value":"Interleukin-1beta"},
+	{"value":"Interleukin-6"},
+	{"value":"Lipopolysaccharides"},
+	{"value":"Lung"},
+	{"value":"Macrophages"},
+	{"value":"Male"},
+	{"value":"Mice"},
+	{"value":"Mice, Inbred BALB C"},
+	{"value":"NF-kappa B"},
+	{"value":"Neutrophils"},
+	{"value":"Nitrates"},
+	{"value":"Nitric Oxide Synthase Type II"},
+	{"value":"Nitrites"},
+	{"value":"Peroxidase"},
+	{"value":"Phosphorylation"},
+	{"value":"Random Allocation"},
+	{"value":"Signal Transduction"},
+	{"value":"Tumor Necrosis Factor-alpha"}
+	],
+	"pageStart":242,
+	"volume":1,
+	"pageEnd":50,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM22968433",
+	"identifier":"PM22968433",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Inflammation"},
+	"ISSN":{"value":"1573-2576"}
+	}
+	},
+	"issued":"2013-01-23",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Yingkun, Nie, N"
+	}
+	},
+	{
+		"Person":
+		{"name":"Zhenyu, Wang, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"Jing, Lin, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Xiuyun, Lu, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Huimin, Yu, Y"
+	}
+	}
+	],
+	"abstract":{"value":"Stevioside, a diterpene glycoside component of Stevia rebaudiana, has been known to exhibit anti-inflammatory properties. To evaluate the effect and the possible mechanism of stevioside in lipopolysaccharide (LPS)-induced acute lung injury, male BALB/c mice were pretreated with stevioside or dexamethasone 1 h before intranasal instillation of LPS. Seven hours later, tumor necrosis factor-α, interleukin-1β, and interleukin-6 in bronchoalveolar lavage fluid (BALF) were measured by using enzyme-linked immunosorbent assay. The number of total cells, neutrophils, and macrophages in the BALF were also determined. The right lung was excised for histological examination and analysis of myeloperoxidase activity and nitrate/nitrite content. Cyclooxygenase 2 (COX-2), inducible NO synthase (iNOS), nuclear factor-kappa B (NF-κB), inhibitory kappa B protein were detected by western blot. The results showed that stevioside markedly attenuated the LPS-induced histological alterations in the lung. Stevioside inhibited the production of pro-inflammatory cytokines and the expression of COX-2 and iNOS induced by LPS. In addition, not only was the wet-to-dry weight ratio of lung tissue significantly decreased, the number of total cells, neutrophils, and macrophages in the BALF were also significantly reduced after treatment with stevioside. Moreover, western blotting showed that stevioside inhibited the phosphorylation of IκB-α and NF-κB caused by LPS. Taken together, our results suggest that anti-inflammatory effect of stevioside against the LPS-induced acute lung injury may be due to its ability of inhibition of the NF-κB signaling pathway. Stevioside may be a promising potential therapeutic reagent for acute lung injury treatment."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,57 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"A comprehensive analysis of fifteen genes of steviol glycosides biosynthesis pathway in Stevia rebaudiana (Bertoni)."},
+	"subject":[
+		{"value":"Biosynthetic Pathways"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Gene Expression Regulation, Plant"},
+	{"value":"Genes, Plant"},
+	{"value":"Glycosides"},
+	{"value":"Plant Growth Regulators"},
+	{"value":"Plant Leaves"},
+	{"value":"Stevia"}
+	],
+	"pageStart":276,
+	"volume":1,
+	"pageEnd":84,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM22037480",
+	"identifier":"PM22037480",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Gene"},
+	"ISSN":{"value":"1879-0038"}
+	}
+	},
+	"issued":"2011-12-26",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Kumar, Hitesh, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kaul, Kiran, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bajpai-Gupta, Suphla, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kaul, Vijay Kumar, VK"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kumar, Sanjay, S"
+	}
+	}
+	],
+	"abstract":{"value":"Stevia [Stevia rebuaidana (Bertoni); family: Asteraceae] is known to yield diterpenoid steviol glycosides (SGs), which are about 300 times sweeter than sugar. The present work analyzed the expression of various genes of the SGs biosynthesis pathway in different organs of the plant in relation to the SGs content. Of the various genes of the pathway, SrDXS, SrDXR, SrCPPS, SrKS, SrKO and three glucosyltransferases namely SrUGT85C2, SrUGT74G1 and SrUGT76G1 were reported from stevia. Here, we report cloning of seven additional full-length cDNA sequences namely, SrMCT, SrCMK, SrMDS, SrHDS, SrHDR, SrIDI and SrGGDPS followed by expression analysis of all the fifteen genes vis-à-vis SGs content analysis. SGs content was highest in the leaf at 3rd node position (node position with reference to the apical leaf as the first leaf) as compared to the leaves at other node positions. Except for SrDXR and SrKO, gene expression was maximum in leaf at 1st node and minimum in leaf at 5th node. The expression of SrKO was highest in leaf at 3rd node while in case of SrDXR expression showed an increase up to 3rd leaf and decrease thereafter. SGs accumulated maximum in leaf tissue followed by stem and root, and similar was the pattern of expression of all the fifteen genes. The genes responded to the modulators of the terpenopids biosynthesis. Gibberellin (GA(3)) treatment up-regulated the expression of SrMCT, SrCMK, SrMDS and SrUGT74G1, whereas methyl jasmonate and kinetin treatment down-regulated the expression of all the fifteen genes of the pathway."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

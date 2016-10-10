@@ -1,0 +1,67 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"The antimicrobial potential of stevia in an in vitro microbial caries model."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Anti-Infective Agents"},
+	{"value":"Biofilms"},
+	{"value":"Cattle"},
+	{"value":"Colony Count, Microbial"},
+	{"value":"Dental Caries"},
+	{"value":"In Vitro Techniques"},
+	{"value":"Models, Biological"},
+	{"value":"Stevia"},
+	{"value":"Streptococcus mutans"}
+	],
+	"pageStart":87,
+	"volume":2,
+	"pageEnd":92,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM27295866",
+	"identifier":"PM27295866",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"American journal of dentistry"},
+	"ISSN":{"value":"0894-8275"}
+	}
+	},
+	"issued":"2016-06-14",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Kishta-, , "
+	}
+	},
+	{
+		"Person":
+		{"name":"Derani, Maryam, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Neiva, Gisele F, GF"
+	}
+	},
+	{
+		"Person":
+		{"name":"Boynton, James R, JR"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kim, Youngjoo E, YE"
+	}
+	},
+	{
+		"Person":
+		{"name":"Fontana, Margherita, M"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"To determine the effect of stevia on caries development when incorporated into a cariogenic diet in a controlled microbial caries model."},
+	{"value":"56 bovine tooth specimens (4 x 4 mm) were divided into four groups, each secured in a caries-forming vessel. All vessels were placed on an electric stirrer inside a 37°C incubator. The specimens were inoculated with Streptococcus mutans, and exposed for 4 days to circulating cycles of tryptic soy broth supplemented with 5% sucrose-TSBS (three x/day), and a mineral wash solution. Between TSBS cycles (three x/day), each group received one of four experimental solutions: phosphate buffer (PBS-negative control), 0.5% stevia solution, 5% stevia solution, or 5% xylitol solution. Development of caries lesions was analyzed using enamel surface hardness. Difference in Vickers Hardness between pre and post-treatment was calculated to determine caries development. Plaque was dislodged from six specimens per group, and the CFU/ml calculated. Data were analyzed using ANOVA at 95% confidence level, and individual group differences calculated using Tukey's test."},
+	{"value":"5% xylitol resulted in significantly less plaque at the end of the study compared to PBS and 5% stevia, but not significantly different than 0.5% stevia. 5% stevia had significantly softer lesions than the other groups, while there was no significant difference in hardness scores between 5% xylitol, 0.5% stevia and PBS."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

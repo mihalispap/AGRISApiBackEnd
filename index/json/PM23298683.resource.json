@@ -1,0 +1,47 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Functional and structural variation of uridine diphosphate glycosyltransferase (UGT) gene of Stevia rebaudiana-UGTSr involved in the synthesis of rebaudioside A."},
+	"subject":[
+		{"value":"Amino Acid Sequence"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glycosyltransferases"},
+	{"value":"Molecular Sequence Data"},
+	{"value":"Molecular Structure"},
+	{"value":"Phylogeny"},
+	{"value":"Plant Proteins"},
+	{"value":"Polymorphism, Single Nucleotide"},
+	{"value":"Stevia"},
+	{"value":"Uridine Diphosphate"}
+	],
+	"pageStart":245,
+	"pageEnd":53,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM23298683",
+	"identifier":"PM23298683",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Plant physiology and biochemistry : PPB / Société française de physiologie végétale"},
+	"ISSN":{"value":"1873-2690"}
+	}
+	},
+	"issued":"2013-01-25",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Madhav, Harish, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bhasker, Salini, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chinnamma, Mohankumar, M"
+	}
+	}
+	],
+	"abstract":{"value":"The sweetness of honey leaf plant Stevia rebaudiana is attributed to steviol glycosides or steviosides, accumulated in the leaves. Steviol glycosides are diterpenoids derived from steviol as the final step of glycosylation by the marker enzyme Uridine diphosphate glycosyltransferase (UGT). Out of the eight different steviol glycosides, rebaudioside A was detected as the sweetest glycoside with reduced bitter aftertaste. The pattern of glycosylation of steviol has a crucial role in maintaining the sweetness as well as the taste perception of stevioside. Within the 12 UGTs of S. rebaudiana so far elucidated, the functional genomics of three UGTs-UGT76G1, UGT74G1 & UGT85C2 in stevioside synthesis were studied. In the present study a UGT gene of S. rebaudiana named UGTSr showing resemblance with UGT76G1 was structurally analyzed and the functional role of the recombinant UGTSr in the synthesis of rebaudioside A was ascertained. The relative expression of UGTSr by qPCR showed a higher level of expression in mature leaves than in tender. Despite the similarity of nucleotide with UGT76G1, the gene UGTSr exhibits 48 SNPs and 39 associated amino acid substitutions with remarkable variation in the secondary and tertiary structure of the protein. The helical changes, the presence of a new amino acid, novel substitutions of amino acids and the hydrogen bond in the conserved histidine and aspartame residues observed in UGTSr support its functional stability and specificity from that of other UGTs of S. rebaudiana. Based on these features UGTSr exhibits a novel status from other UGTs of S. rebaudiana."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

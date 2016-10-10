@@ -1,0 +1,52 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Evaluation of plant extracts for sweetness using the Mongolian gerbil."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Avoidance Learning"},
+	{"value":"Chorda Tympani Nerve"},
+	{"value":"Conditioning (Psychology)"},
+	{"value":"Electrophysiology"},
+	{"value":"Gerbillinae"},
+	{"value":"Male"},
+	{"value":"Plant Extracts"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":190,
+	"volume":1,
+	"pageEnd":5,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM2348201",
+	"identifier":"PM2348201",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of natural products"},
+	"ISSN":{"value":"0163-3864"}
+	}
+	},
+	"issued":"1990-07-06",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Jakinovich, W, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"Moon, C, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Choi, Y H, YH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kinghorn, A D, AD"
+	}
+	}
+	],
+	"abstract":{"value":"Extracts of Thladiantha grosvenorii fruits, Stevia rebaudiana leaves, and Abrus precatorius leaves were investigated using Mongolian gerbil electrophysiological and conditioned taste aversion procedures, which were designed to respond to sucrose. A close correlation was observed between extracts of these sweet plants known to contain sweet principles and those extracts indicated as being sweet by a combination of these gerbil bioassays. The methods employed seem to be suitable for use in aiding the purification of highly sweet compounds of plant origin."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Subchronic toxicity of rebaudioside A."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Bile Acids and Salts"},
+	{"value":"Cholesterol"},
+	{"value":"Diet"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Dose-Response Relationship, Drug"},
+	{"value":"Eating"},
+	{"value":"Energy Intake"},
+	{"value":"Female"},
+	{"value":"Liver"},
+	{"value":"Male"},
+	{"value":"Rats"},
+	{"value":"Rats, Wistar"},
+	{"value":"Sex Characteristics"},
+	{"value":"Sweetening Agents"},
+	{"value":"Time Factors"},
+	{"value":"Weight Gain"}
+	],
+	"pageStart":"S11",
+	"pageEnd":20,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM18562069",
+	"identifier":"PM18562069",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association"},
+	"ISSN":{"value":"0278-6915"}
+	}
+	},
+	"issued":"2008-06-30",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Curry, Leslie L, LL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Roberts, Ashley, A"
+	}
+	}
+	],
+	"abstract":{"value":"The safety of the stevia-derived sweetener, rebaudioside A (CAS No. 58543-16-1), was evaluated in two oral toxicity studies. In a 4-week study, Wistar rats were administered rebaudioside A at dietary concentrations of 0, 25,000, 50,000, 75,000 and 100,000ppm. The NOAEL, including an evaluation of testes histopathology, was determined to be 100,000 ppm. In the 13-week study, Wistar rats were administered rebaudioside A at dietary concentrations of 0, 12,500, 25,000 and 50,000ppm. Reductions in body weight gain attributable to initial taste aversion and lower caloric density of the diet were observed in high-dose male and females groups. Inconsistent reductions in serum bile acids and cholesterol were attributed to physiological changes in bile acid metabolism due to excretion of high levels of rebaudioside A via the liver. All other hepatic function test results and liver histopathology were within normal limits. Significant changes in other clinical pathology results, organ weights and functional observational battery test results were not observed. Macroscopic and microscopic examinations of all organs, including testes and kidneys, were unremarkable with respect to treatment-related findings. The NOAEL in the 13-week toxicity study was considered to be 50,000ppm or approximately 4161 and 4645mg/kg body weight/day in male and female rats, respectively."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

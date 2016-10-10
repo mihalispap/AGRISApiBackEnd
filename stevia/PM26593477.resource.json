@@ -1,0 +1,57 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Production of a bioactive sweetener steviolbioside via specific hydrolyzing ester linkage of stevioside with a β-galactosidase."},
+	"subject":[
+		{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Humans"},
+	{"value":"Sweetening Agents"},
+	{"value":"beta-Galactosidase"}
+	],
+	"pageStart":155,
+	"pageEnd":60,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26593477",
+	"identifier":"PM26593477",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Food chemistry"},
+	"ISSN":{"value":"0308-8146"}
+	}
+	},
+	"issued":"2015-11-23",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Chen, Jun-ming, JM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ding, Li, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sui, Xiao-chen, XC"
+	}
+	},
+	{
+		"Person":
+		{"name":"Xia, Yong-mei, YM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wan, Hui-da, HD"
+	}
+	},
+	{
+		"Person":
+		{"name":"Lu, Tong, T"
+	}
+	}
+	],
+	"abstract":{"value":"A β-galactosidase from Kluyveromyces lactis was found to specifically catalyze hydrolysis of the glycosyl ester linkage of stevioside to yield steviolbioside, a rare sweetener that also exists in Stevia rebaudiana leaves. In a packed bed reactor, a reaction coupling separation was realized and a production yield of steviolbioside reached 90% in 6 h. The hydrolysis product steviolbioside presented higher cytoxicity on human normal cells (hepatocytes cell L02 and intestinal epithelial cell T84) than stevioside did. Comparing to the typical chemotherapy agent, 5-fluorouracil (5-FU), steviolbioside presents much lower cytotoxicity on all assayed human normal cells; it presented notable inhibition on human hepatocarcinoma cell Hep3B, human breast cancer cell MDA-MB-231 and human pancreatic cancer cell BxPC-3. The remarkable inhibition on MDA-MB-231 cells makes steviolbioside a potential remedy for human breast cancer, when steviolbioside is served as a natural sweetener."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

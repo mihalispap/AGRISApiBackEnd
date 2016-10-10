@@ -1,0 +1,56 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Stevisalioside A, a novel bitter-tasting ent-atisene glycoside from the roots of Stevia salicifolia."},
+	"subject":[
+		{"value":"Carbohydrate Sequence"},
+	{"value":"Glycosides"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Molecular Sequence Data"},
+	{"value":"Molecular Structure"},
+	{"value":"Plants, Medicinal"},
+	{"value":"Taste"},
+	{"value":"Triterpenes"}
+	],
+	"pageStart":660,
+	"volume":5,
+	"pageEnd":6,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM1517738",
+	"identifier":"PM1517738",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of natural products"},
+	"ISSN":{"value":"0163-3864"}
+	}
+	},
+	"issued":"1992-10-06",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Mata, R, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Rodríguez, V, V"
+	}
+	},
+	{
+		"Person":
+		{"name":"Pereda-Miranda, R, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kaneda, N, N"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kinghorn, A D, AD"
+	}
+	}
+	],
+	"abstract":{"value":"A new acetylated ent-atisene glycoside, stevisalioside A [1], has been isolated as a bitter-tasting principle from Stevia salicifolia roots. The structure was established by the interpretation of spectral data, with the nmr assignments of this compound being based on 1H-1H COSY, 1H-13C HETCOR, and selective INEPT experiments. A rearrangement product 4 of the aglycone moiety obtained by alkaline hydrolysis supported the structure of 1. This is the first report of the occurrence of an atisane-type diterpene from the genus Stevia."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

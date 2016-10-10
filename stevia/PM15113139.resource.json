@@ -1,0 +1,55 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Steviol quantification at the picomole level by high-performance liquid chromatography."},
+	"subject":[
+		{"value":"Beer"},
+	{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Microchemistry"},
+	{"value":"Plant Leaves"},
+	{"value":"Pyrones"},
+	{"value":"Sensitivity and Specificity"},
+	{"value":"Spectrometry, Fluorescence"},
+	{"value":"Stevia"},
+	{"value":"Time Factors"}
+	],
+	"pageStart":2445,
+	"volume":9,
+	"pageEnd":9,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM15113139",
+	"identifier":"PM15113139",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of agricultural and food chemistry"},
+	"ISSN":{"value":"0021-8561"}
+	}
+	},
+	"issued":"2004-04-28",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Minne, Veerle J Y, VJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Compernolle, Frans, F"
+	}
+	},
+	{
+		"Person":
+		{"name":"Toppet, Suzanne, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Geuns, Jan M C, JM"
+	}
+	}
+	],
+	"abstract":{"value":"A simple and highly sensitive reversed-phase high-performance liquid chromatographic method (RP-HPLC) has been developed for the determination of steviol (SV) using dihydroisosteviol (DHISV) as an internal standard (IS). SV and DHISV were derivatized by reaction of the acids with 4-(bromomethyl)-7-methoxycoumarin in an aprotic solvent (DMF or acetone). The resulting ester derivatives were separated on an ODS column (250 x 4.6 mm i.d., 5 microm particle size) using fluorescence detection with excitation at 321 nm and emission at 391 nm. The mobile phase consisted of acetonitrile/water (80:20 v/v) with a flow rate of 1 mL min(-)(1). A linear relationship was observed for concentrations between 0.5 and 50 microg/mL of SV, and the detection limit was 100 pg. For application of this method to samples of beer fortified with stevioside, a simple procedure for extraction of the beer with diethyl ether and derivatization in DMF was applied. Whereas beer samples spiked with SV gave a linear response over the range 0.1-15 microg/mL beer, no SV could be detected in beer samples enriched in stevioside that had been stored for over 3 years. The application of the method to plant samples involved preparation of an acid fraction containing the SV analyte, derivatization, and sample cleanup using small silica columns and thin-layer chromatography. A sensitive determination of 594 ng of steviol present in 100 mg of dry plant material was performed with high precision and accuracy."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

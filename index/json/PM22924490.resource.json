@@ -1,0 +1,81 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"The identification of vitamin E homologues in medicinal plant samples using ESI(+)-LC-MS3."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Eucalyptus"},
+	{"value":"Foeniculum"},
+	{"value":"Hypericum"},
+	{"value":"Melissa"},
+	{"value":"Mentha"},
+	{"value":"Ocimum basilicum"},
+	{"value":"Plant Extracts"},
+	{"value":"Plants, Medicinal"},
+	{"value":"Spectrometry, Mass, Electrospray Ionization"},
+	{"value":"Stevia"},
+	{"value":"Tocotrienols"},
+	{"value":"Vitamin E"}
+	],
+	"pageStart":9581,
+	"volume":38,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM22924490",
+	"identifier":"PM22924490",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of agricultural and food chemistry"},
+	"ISSN":{"value":"1520-5118"}
+	}
+	},
+	"issued":"2012-09-26",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Inoue, Tomoko, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tatemori, Satoko, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Muranaka, Natsumi, N"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hirahara, Yoshichika, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Homma, Seiichi, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Nakane, Takahisa, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Takano, Akihito, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Nomi, Yuri, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Otsuka, Yuzuru, Y"
+	}
+	}
+	],
+	"abstract":{"value":"The aim of this study was to elucidate the presence of vitamin E homologues in medicinal plants. To identify various homologues in the matrix of medicinal plant samples, a method for simultaneous determination was developed using ESI(+)-LC-MS3. A complete separation of each homologue was achieved within 20 min using a PFP column and an isocratic elution system of water/methanol (10:90, v/v) at a flow rate of 0.5 mL/min. The ESI-MS condition for each homologue was optimized, and the m/z value and the fragmentation pathway of each homologue were summarized. This LC-MS3 method made it possible to detect the homologues without the effect of matrix; therefore, high sensitive analysis was established, and then, the MS3 makes it possible to extract from plants with methanol only. The LC-MS3 method was applied to identify the eight vitamin E homologues in 11 medicinal plants."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

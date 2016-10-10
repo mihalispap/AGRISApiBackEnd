@@ -1,0 +1,67 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Functionally relevant novel microsatellite markers for efficient genotyping in Stevia rebaudiana Bertoni."},
+	"subject":[
+		{"value":"Alleles"},
+	{"value":"Conservation of Natural Resources"},
+	{"value":"DNA, Plant"},
+	{"value":"Expressed Sequence Tags"},
+	{"value":"Genes, Plant"},
+	{"value":"Genetic Loci"},
+	{"value":"Genomic Library"},
+	{"value":"Genotype"},
+	{"value":"India"},
+	{"value":"Microsatellite Repeats"},
+	{"value":"Molecular Sequence Annotation"},
+	{"value":"Phylogeny"},
+	{"value":"Plant Leaves"},
+	{"value":"Polymorphism, Genetic"},
+	{"value":"Stevia"}
+	],
+	"pageStart":"e75",
+	"volume":2,
+	"pageEnd":81,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25201830",
+	"identifier":"PM25201830",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of genetics"},
+	"ISSN":{"value":"0973-7731"}
+	}
+	},
+	"issued":"2014-09-09",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Bhandawat, Abhishek, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sharma, Himanshu, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Nag, Akshay, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Singh, Sanatsujat, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ahuja, Paramvir Singh, PS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sharma, Ram Kumar, RK"
+	}
+	}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

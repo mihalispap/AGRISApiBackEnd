@@ -1,0 +1,51 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Diversion of carbon flux from gibberellin to steviol biosynthesis by over-expressing SrKA13H induced dwarfism and abnormality in pollen germination and seed set behaviour of transgenic Arabidopsis."},
+	"subject":[
+		{"value":"Arabidopsis"},
+	{"value":"Carbon"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Gene Expression Regulation, Plant"},
+	{"value":"Germination"},
+	{"value":"Gibberellins"},
+	{"value":"Hypocotyl"},
+	{"value":"Phenotype"},
+	{"value":"Plant Proteins"},
+	{"value":"Plants, Genetically Modified"},
+	{"value":"Pollen"},
+	{"value":"Seeds"},
+	{"value":"Stevia"}
+	],
+	"pageStart":3907,
+	"volume":13,
+	"pageEnd":16,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25954046",
+	"identifier":"PM25954046",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of experimental botany"},
+	"ISSN":{"value":"1460-2431"}
+	}
+	},
+	"issued":"2015-06-20",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Guleria, Praveen, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Masand, Shikha, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yadav, Sudesh Kumar, SK"
+	}
+	}
+	],
+	"abstract":{"value":"This paper documents the engineering of Arabidopsis thaliana for the ectopic over-expression of SrKA13H (ent-kaurenoic acid-13 hydroxylase) cDNA from Stevia rebaudiana. HPLC analysis revealed the significant accumulation of steviol (1-3 μg g(-1) DW) in two independent transgenic Arabidopsis lines over-expressing SrKA13H compared with the control. Independent of the steviol concentrations detected, both transgenic lines showed similar reductions in endogenous bioactive gibberellins (GA1 and GA4). They possessed phenotypic similarity to gibberellin-deficient mutants. The reduction in endogenous gibberellin content was found to be responsible for dwarfism in the transgenics. The exogenous application of GA3 could rescue the transgenics from dwarfism. The hypocotyl, rosette area, and stem length were all considerably reduced in the transgenics. A noteworthy decrease in pollen viability was noticed and, similarly, a retardation of 60-80% in pollen germination rate was observed. The exogenous application of steviol (0.2, 0.5, and 1.0 μg ml(-1)) did not influence pollen germination efficiency. This has suggested that in planta formation of steviol was not responsible for the observed changes in transgenic Arabidopsis. Further, the seed yield of the transgenics was reduced by 24-48%. Hence, this study reports for the first time that over-expression of SrKA13H cDNA in Arabidopsis has diverted the gibberellin biosynthetic route towards steviol biosynthesis. The Arabidopsis transgenics showed a significant reduction in endogenous gibberellins that might be responsible for the dwarfism, and the abnormal behaviour of pollen germination and seed set."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

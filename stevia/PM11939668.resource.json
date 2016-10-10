@@ -1,0 +1,75 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Antihypertensive effect of stevioside in different strains of hypertensive rats."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Antihypertensive Agents"},
+	{"value":"Blood Pressure"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Hypertension"},
+	{"value":"Rats"},
+	{"value":"Rats, Inbred SHR"},
+	{"value":"Rats, Inbred Strains"},
+	{"value":"Rats, Inbred WKY"},
+	{"value":"Terpenes"}
+	],
+	"pageStart":1,
+	"volume":1,
+	"pageEnd":6,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM11939668",
+	"identifier":"PM11939668",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Zhonghua yi xue za zhi = Chinese medical journal; Free China ed"},
+	"ISSN":{"value":"0578-1337"}
+	}
+	},
+	"issued":"2002-04-09",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Hsu, Yung-Ho, YH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Liu, Ju-Chi, JC"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kao, Pai-Feng, PF"
+	}
+	},
+	{
+		"Person":
+		{"name":"Lee, Chun-Nin, CN"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chen, Yi-Jen, YJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hsieh, Ming-Hsiung, MH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chan, Paul, P"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"Stevioside is a natural sweet-tasting glycoside isolated from the herb Stevia rebaudiana, composed of stevia, a diterpenic carboxylic alcohol with three glucose molecules, mainly used commercially as sugar substitute. Previous study has shown that it can lower blood pressure in anesthetized spontaneously hypertensive rats (SHR). This study was undertaken to evaluate the antihypertensive effect of stevioside in different strains of hypertensive rats and to observe whether there is difference in blood pressure lowering effect."},
+	{"value":"Noninvasive tail-cuff method was employed to measure blood pressure. Stevioside at the concentrations of 50, 100 and 200 mg/kg were administered intraperitoneally (ip) to normotensive Wistar-Kyoto rats (NTR), SHR, deoxycorticosterone acetate-salt (DOCA-NaCl) sensitive hypertensive rats (DHR) and renal hypertensive rats (RHR)."},
+	{"value":"Significant hypotensive effect of stevioside administered ip was noted in different strains of rats at the dose of 50 mg/kg. When stevioside was increased to the concentrations of 100 and 200 mg/kg, ip, it also caused slow and persistent lowering of blood pressure in SHR and NTR. Data also showed that stevioside given at the concentrations of 100, 200 and 400 mg/kg ip resulted in lowering of blood pressure in SHR dose-dependently. Blood pressure returned to previous levels after the drug was discontinued for 2-3 days. Drinking of 0.1% stevioside solution in mature SHR could have antihypertensive effect and also prevented hypertension in immature SHR."},
+	{"value":"This study reconfirmed stevioside has hypotensive effect and the effect is more prominent in hypertensive rats."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

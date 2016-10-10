@@ -1,0 +1,56 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Large-scale profiling of diterpenoid glycosides from Stevia rebaudiana using ultrahigh performance liquid chromatography/tandem mass spectrometry."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes"},
+	{"value":"Glycosides"},
+	{"value":"Limit of Detection"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"},
+	{"value":"Tandem Mass Spectrometry"},
+	{"value":"Time Factors"}
+	],
+	"pageStart":2683,
+	"volume":9,
+	"pageEnd":90,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM22580424",
+	"identifier":"PM22580424",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Analytical and bioanalytical chemistry"},
+	"ISSN":{"value":"1618-2650"}
+	}
+	},
+	"issued":"2012-06-14",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Shafii, Behnaz, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Vismeh, Ramin, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Beaudry, Randy, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Warner, Ryan, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Jones, A Daniel, AD"
+	}
+	}
+	],
+	"abstract":{"value":"The plant Stevia rebaudiana accumulates a suite of diterpenoid metabolites that are natural sweeteners finding increased use as sugar substitutes. To guide breeding of stevia plants that accumulate substances with desirable flavor in high yield, rapid and accurate methods are needed to profile these substances in plant populations. This report describes an 8-min ultrahigh performance liquid chromatography-tandem mass spectrometry method for separation and quantification of seven stevia glycosides including steviolbioside; stevioside; rebaudiosides A, B, and C; rubusoside; and dulcoside as well as aglycones steviol and isosteviol. This negative mode electrospray ionization/multiple reaction monitoring method yielded low limits of detection <1 ng/mL for steviol, 6 ng/mL for isosteviol, and <15 ng/mL for all stevia glycosides. Stevioside and Reb A, B, and C were quantified in more than 1,100 extracts from stevia leaves as part of a large-scale profiling exercise. Leaf tissue levels in this population spanned about two orders of magnitude for stevioside (2-125 mg/g dry weight), Reb A (2.5-164 mg/g), Reb B (0.5-50 mg/g), and Reb C (1.5-125 mg/g), but levels of individual metabolites exhibited independent variation. The wide spread of metabolite levels highlights the utility and importance of performing targeted metabolic profiling for large plant populations."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

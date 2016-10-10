@@ -1,0 +1,46 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Stevia, cyclamate and saccharin - natural and artificial sweeteners - exert no effect on sulfane levels in tissues."},
+	"pageStart":37,
+	"volume":3,
+	"pageEnd":42,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24858558",
+	"identifier":"PM24858558",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Folia medica Cracoviensia"},
+	"ISSN":{"value":"0015-5616"}
+	}
+	},
+	"issued":"2014-05-26",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Wilinski, Bogdan, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Opoka, Wlodzimierz, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"Somogyi, Eugeniusz, E"
+	}
+	},
+	{
+		"Person":
+		{"name":"Piotrowska, Joanna, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wilinski, Jerzy, J"
+	}
+	}
+	],
+	"abstract":{"value":"The interactions among natural and artificial sweeteners and endogenous sulfur metabolism have never been investigated. CBA strain mice were administered orally stevia, cyclamate or saccharin in doses of 5 mg/kg of body weight in water solutions each. The measurements of the free and acid-labile sulfane (H2S) tissue concentrations in brain, heart, liver and kidney were performed with Siegel spectrophotometric modified method. No differences in comparisons between hydrogen sulfide concentrations in the control group and each sweetener group within every tissue type were noted. In conclusion, stevia, cyclamate and saccharine do not change the endogenous sulfur metabolism to the extent of causing sulfane tissue levels alterations."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

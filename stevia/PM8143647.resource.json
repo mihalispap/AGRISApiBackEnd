@@ -1,0 +1,57 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Mutagenicity and human chromosomal effect of stevioside, a sweetener from Stevia rebaudiana Bertoni."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Chromosome Aberrations"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Female"},
+	{"value":"Glucosides"},
+	{"value":"Humans"},
+	{"value":"Molecular Structure"},
+	{"value":"Mutagenicity Tests"},
+	{"value":"Plant Extracts"},
+	{"value":"Rats"},
+	{"value":"Salmonella typhimurium"},
+	{"value":"Sweetening Agents"},
+	{"value":"Terpenes"}
+	],
+	"pageStart":53,
+	"pageEnd":6,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM8143647",
+	"identifier":"PM8143647",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Environmental health perspectives"},
+	"ISSN":{"value":"0091-6765"}
+	}
+	},
+	"issued":"1994-05-05",
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1521159",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Suttajit, M, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Vinitketkaumnuen, U, U"
+	}
+	},
+	{
+		"Person":
+		{"name":"Meevatee, U, U"
+	}
+	},
+	{
+		"Person":
+		{"name":"Buddhasukh, D, D"
+	}
+	}
+	],
+	"abstract":{"value":"Leaves of Stevia rebaudiana Bertoni have been popularly used as a sweetener in foods and beverages for diabetics and obese people due to their potent sweetener stevioside. In this report, stevioside and steviol were tested for mutagenicity in Salmonella typhimurium strains TA98 and TA100 and for chromosomal effects on cultured human lymphocytes. Stevioside was not mutagenic at concentrations up to 25 mg/plate, but showed direct mutagenicity to only TA98 at 50 mg/plate. However, steviol did not exhibit mutagenicity in either TA98 or TA100, with or without metabolic activation. No significant chromosomal effect of stevioside and steviol was observed in cultured blood lymphocytes from healthy donors (n = 5). This study indicates that stevioside and steviol are neither mutagenic nor clastogenic in vitro at the limited doses; however, in vivo genotoxic tests and long-term effects of stevioside and steviol are yet to be investigated."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

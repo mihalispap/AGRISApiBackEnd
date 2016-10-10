@@ -1,0 +1,45 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Isolation, identification and antimicrobial activity of ombuoside from Stevia triflora."},
+	"subject":[
+		{"value":"Anti-Bacterial Agents"},
+	{"value":"Anti-Infective Agents"},
+	{"value":"Antifungal Agents"},
+	{"value":"Candida albicans"},
+	{"value":"Gram-Negative Bacteria"},
+	{"value":"Gram-Positive Bacteria"},
+	{"value":"Plant Extracts"}
+	],
+	"pageStart":262,
+	"volume":6,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM9453171",
+	"identifier":"PM9453171",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Annales pharmaceutiques françaises"},
+	"ISSN":{"value":"0003-4509"}
+	}
+	},
+	"issued":"1998-02-11",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Amaro-Luis, J M, JM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Adrián, M, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Díaz, C, C"
+	}
+	}
+	],
+	"abstract":{"value":"From aerial parts of Stevia triflora DC the flavonol glycoside ombuoside (7,4'-di-O-methylquercetin-3-O-beta-rutinoside) has been isolated and identified on the basis of spectral data. Ombuoside and the synthetic derivatives octa-acetylombuoside, ombuine and retusine were tested for antimicrobial activity against several strains of Gram-positive and Gram-negative bacteria and the yeast Candida albicans, using the agar diffusion method. The flavonol glycoside ombuoside and the respective aglycone ombuine, both exhibited moderated activity against Corynebacterium diphtheria, Staphylococcus aureus, Escherichia coli and Candida albicans. To a lesser degree, octaacetylombuoside and retusine showed activity against the Gram-positive bacteria C. diphtheria and S. aureus, but proved to be inactive against Gram-negative bacteria and Candida albicans. These results indicate that the presence of free hydroxyl groups, either alcoholic or phenolic, is an important chemical feature for the expression of flavonol antimicrobial activity. It is worth noting that this is the first study reported on the antibacterial and antifungal activity of these substances."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

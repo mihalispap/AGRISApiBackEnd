@@ -1,0 +1,50 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"An attempt to use sweeteners as a material for accident dosimetry."},
+	"subject":[
+		{"value":"Dose-Response Relationship, Radiation"},
+	{"value":"Electron Spin Resonance Spectroscopy"},
+	{"value":"Equipment Design"},
+	{"value":"Equipment Failure Analysis"},
+	{"value":"Gamma Rays"},
+	{"value":"Materials Testing"},
+	{"value":"Radiation Dosage"},
+	{"value":"Radioactive Hazard Release"},
+	{"value":"Radiometry"},
+	{"value":"Reproducibility of Results"},
+	{"value":"Sensitivity and Specificity"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":406,
+	"volume":2,
+	"pageEnd":11,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM20065713",
+	"identifier":"PM20065713",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Health physics"},
+	"ISSN":{"value":"1538-5159"}
+	}
+	},
+	"issued":"2010-01-12",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Kinoshita, Angela, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"José, Flávio A, FA"
+	}
+	},
+	{
+		"Person":
+		{"name":"Baffa, Oswaldo, O"
+	}
+	}
+	],
+	"abstract":{"value":"In case of a radiological accident, it is important to determine the exposure to radiation of the general population. Several materials can be used to reconstruct the exposed dose. Tooth enamel has been studied for a long time, and now the procedures to determine the dose are well established for in vitro measurements. Many materials have been investigated by different techniques: sugar, wall bricks, roof tiles, plastics, watch glass, ruby present in watches, medicines carried by persons and shell button, among others. In this work an attempt is made to use sweeteners as a possible accident dosimeter material because they are becoming increasingly common. Sweeteners based on saccharine, cyclamate, stevia, and aspartame were acquired in local stores, and ESR spectrum was recorded before and after gamma irradiation. Spectrum simulation demonstrated that there are two main radicals with g = 2.0063, A = 1.6 mT, and g = 2.0048, A = 5 mT due to lactose. For the better characterization of spectroscopic and dosimetric properties of these materials, higher microwave frequency (K-band, nu approximately 24 GHz) was also employed. Experiments in X-band (nu approximately 9 GHz) showed that low dose levels of 500 mGy can be measured with this material, demonstrating the potential use of sweeteners for retrospective dosimetry."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

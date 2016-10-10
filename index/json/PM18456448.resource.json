@@ -1,0 +1,52 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Validated high-performance thin-layer chromatography method for steviol glycosides in Stevia rebaudiana."},
+	"subject":[
+		{"value":"Calibration"},
+	{"value":"Chromatography, Thin Layer"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Glycosides"},
+	{"value":"Molecular Structure"},
+	{"value":"Reproducibility of Results"},
+	{"value":"Sensitivity and Specificity"},
+	{"value":"Stevia"}
+	],
+	"pageStart":790,
+	"volume":"4-5",
+	"pageEnd":4,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM18456448",
+	"identifier":"PM18456448",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of pharmaceutical and biomedical analysis"},
+	"ISSN":{"value":"0731-7085"}
+	}
+	},
+	"issued":"2008-06-16",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Jaitak, Vikas, V"
+	}
+	},
+	{
+		"Person":
+		{"name":"Gupta, A P, AP"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kaul, V K, VK"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ahuja, P S, PS"
+	}
+	}
+	],
+	"abstract":{"value":"A high-performance thin-layer chromatographic (HPTLC) method was developed and validated as per ICH (International Conferences on Harmonization) guidelines for simultaneous quantification of three steviol glycosides, i.e. steviolbioside, stevioside and rebaudioside-A in Stevia rebaudiana leaves. For achieving good separation, mobile phase of ethyl acetate-ethanol-water (80:20:12, v/v/v) on pre-coated silica gel 60 F254 HPTLC plates were used. The densitometric quantification of steviol glycosides was carried out at lambda=510 nm in reflection-absorption mode after spraying with acetic anhydride:sulphuric acid:ethanol reagent. The calibration curves were linear in the range of 160-960 ng/spot for steviolbioside, 1-6 microg/spot for stevioside and 0.5-3 microg/spot for rebaudioside-A with good correlation coefficients (0.998-0.999). The method was found to be reproducible for quantitative analysis of steviol glycosides in S. rebaudiana leaves collected from ten different locations and will serve as a quality control indicator to monitor the commercial production of stevioside and its allied molecules during different stages of its processing."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

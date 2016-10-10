@@ -1,0 +1,43 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Preparative separation and purification of Rebaudioside A from Stevia rebaudiana Bertoni crude extracts by mixed bed of macroporous adsorption resins."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Plant Extracts"},
+	{"value":"Resins, Plant"},
+	{"value":"Stevia"}
+	],
+	"pageStart":268,
+	"volume":1,
+	"pageEnd":76,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26434290",
+	"identifier":"PM26434290",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Food chemistry"},
+	"ISSN":{"value":"0308-8146"}
+	}
+	},
+	"issued":"2015-10-05",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Li, Jie, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chen, Zhenbin, Z"
+	}
+	},
+	{
+		"Person":
+		{"name":"Di, Duolong, D"
+	}
+	}
+	],
+	"abstract":{"value":"The separation and purification of Rebaudioside A (RA) from Stevia rebaudiana Bertoni crude extracts (Steviosides) by macroporous adsorption resin (MAR) mixed bed were systematically investigated. MAR mixed bed of HPD750-LSA40-LSA30-DS401 was selected due to its better separation degree. Based on the kinetics/thermodynamics experiment of the mixed bed, it was found that the experimental data fitted better to the pseudo-second-order model, and intra-particle diffusion was rate-limiting step. The adsorption isotherm was consistent with IV equilibrium adsorption isotherm classified by Brunauer. Furthermore, the influencing factors for the separation of RA based on HPLC were also investigated. Under the optimal conditions, the separation degree for RA (DAS) increased from 0.771 to 1.54. Moreover, the experimental results showed that the purity of the obtained product increased from 60% to 97%."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

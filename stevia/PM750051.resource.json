@@ -1,0 +1,42 @@
+{"resource": {
+	"language":"jpn",
+	"title":{"value":"[Studies on the cultivation of Stevia rebaudiana Bertoni. III. Yield and stevioside content of 2-year-old plants (author's transl)]."},
+	"subject":[
+		{"value":"Glucosides"},
+	{"value":"Glycosides"},
+	{"value":"Plants"},
+	{"value":"Terpenes"},
+	{"value":"Time Factors"}
+	],
+	"pageStart":86,
+	"volume":96,
+	"pageEnd":9,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM750051",
+	"identifier":"PM750051",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Eisei Shikenjo hōkoku. Bulletin of National Institute of Hygienic Sciences"},
+	"ISSN":{"value":"0077-4715"}
+	}
+	},
+	"issued":"1979-07-25",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Miyazaki, Y, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Watanabe, H, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Watanabe, T, T"
+	}
+	}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

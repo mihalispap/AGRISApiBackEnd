@@ -1,0 +1,57 @@
+{"resource": {
+	"language":"rus",
+	"title":{"value":"[Combined enzymatic modification of stevioside and rebaudioside A]."},
+	"subject":[
+		{"value":"Bacillus"},
+	{"value":"Chromatography, Liquid"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Glucosyltransferases"},
+	{"value":"Glycosylation"},
+	{"value":"Starch"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":37,
+	"volume":1,
+	"pageEnd":43,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM16521574",
+	"identifier":"PM16521574",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Prikladnaia biokhimiia i mikrobiologiia"},
+	"ISSN":{"value":"0555-1099"}
+	}
+	},
+	"issued":"2006-03-08",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Kochikian, V T, VT"
+	}
+	},
+	{
+		"Person":
+		{"name":"Markosian, A A, AA"
+	}
+	},
+	{
+		"Person":
+		{"name":"Abelian, L A, LA"
+	}
+	},
+	{
+		"Person":
+		{"name":"Balaian, A M, AM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Abelian, V A, VA"
+	}
+	}
+	],
+	"abstract":{"value":"Cyclodextrin glucanotransferases (CGTases, EC 2.4.1.19) produced by mesophilic, thermophilic, alkaliphilic, and halophilic bacilli were used for transglycosylating stevioside and rebaudiosides A with the use of starch as a donor. CGTases produced by B. stearothermophilus B-5076 B. macerans BIO-4m were the most effective biocatalysts. This method can be successfully used for direct transglycosylation of stevia extract without purification of its individual components."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

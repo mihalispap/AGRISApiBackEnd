@@ -1,0 +1,46 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Structural characterization of the degradation products of a minor natural sweet diterpene glycoside Rebaudioside M under acidic conditions."},
+	"subject":[
+		{"value":"Acids"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Hydrogen-Ion Concentration"},
+	{"value":"Hydrolysis"},
+	{"value":"Sweetening Agents"},
+	{"value":"Temperature"},
+	{"value":"Trisaccharides"}
+	],
+	"pageStart":1014,
+	"volume":1,
+	"pageEnd":25,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24424316",
+	"identifier":"PM24424316",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"International journal of molecular sciences"},
+	"ISSN":{"value":"1422-0067"}
+	}
+	},
+	"issued":"2014-01-15",
+	"dateSubmitted":2016,
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3907853",
+	"creator":[
+		{
+		"Person":
+		{"name":"Prakash, Indra, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chaturvedula, Venkata Sai Prakash, VS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Markosyan, Avetik, A"
+	}
+	}
+	],
+	"abstract":{"value":"Degradation of rebaudioside M, a minor sweet component of Stevia rebaudiana Bertoni, under conditions that simulated extreme pH and temperature conditions has been studied. Thus, rebaudioside M was treated with 0.1 M phosphoric acid solution (pH 2.0) and 80 °C temperature for 24 h. Experimental results indicated that rebaudioside M under low pH and higher temperature yielded three minor degradation compounds, whose structural characterization was performed on the basis of 1D (1H-, 13C-)  2D (COSY, HSQC, HMBC) NMR, HRMS, MS/MS spectral data as well as enzymatic and acid hydrolysis studies."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

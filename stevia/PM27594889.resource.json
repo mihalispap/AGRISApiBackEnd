@@ -1,0 +1,45 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Corrigendum to \"Stevioside from Stevia rebaudiana Bertoni Increases Insulin Sensitivity in 3T3-L1 Adipocytes\"."},
+	"pageStart":2467420,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM27594889",
+	"identifier":"PM27594889",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Evidence-based complementary and alternative medicine : eCAM"},
+	"ISSN":{"value":"1741-427X"}
+	}
+	},
+	"issued":"2016-09-05",
+	"dateSubmitted":2016,
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993912",
+	"creator":[
+		{
+		"Person":
+		{"name":"Mohd-Radzman, Nabilatul Hani, NH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wan Ismail, Wan Iryani, WI"
+	}
+	},
+	{
+		"Person":
+		{"name":"Jaapar, Siti Safura, SS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Adam, Zainah, Z"
+	}
+	},
+	{
+		"Person":
+		{"name":"Adam, Aishah, A"
+	}
+	}
+	],
+	"abstract":{"value":"[This corrects the article DOI: 10.1155/2013/938081.]."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Analysis of sweet diterpene glycosides from Stevia rebaudiana: improved HPLC method."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Glycosides"},
+	{"value":"Lamiaceae"},
+	{"value":"Reproducibility of Results"},
+	{"value":"Sensitivity and Specificity"},
+	{"value":"Sweetening Agents"},
+	{"value":"Terpenes"}
+	],
+	"pageStart":4538,
+	"volume":10,
+	"pageEnd":41,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM11599985",
+	"identifier":"PM11599985",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of agricultural and food chemistry"},
+	"ISSN":{"value":"0021-8561"}
+	}
+	},
+	"issued":"2001-10-15",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Kolb, N, N"
+	}
+	},
+	{
+		"Person":
+		{"name":"Herrera, J L, JL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ferreyra, D J, DJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Uliana, R F, RF"
+	}
+	}
+	],
+	"abstract":{"value":"An improved analytical method was developed which may be applied to quality control of stevioside and rebaudioside A contents in dried leaves of Stevia rebaudiana before processing; in a selective sampling program searching for plants of higher yield in diterpene glycosides content; or when a large number of samples are sent to the laboratory for analysis. The procedure developed involves two steps: solvent extraction followed by an isocratic HPLC analysis. The sample, 1 g of dried leaves of S. rebaudiana, is ground and solvent-extracted with EtOH 70% (w/w) in Erlenmeyer flasks by shaking for 30 min in a 70 degrees C water bath. After the extract was cooled, it was filtered and analyzed by HPLC using an NH(2) column (250 x 4.6 mm) and a mixture of acetonitrile/water (80:20, v/v) as mobile phase, pH 5 adjusted with acetic acid. The detection was in the UV range at 210 nm (0.04 AUFS). Quantitation was performed by means of an external standard calibration curve for each analyte which had been obtained from standard solutions of pure stevioside and rebaudioside A. Working under these conditions there were no observed interference effects. The method saves time in sample preparation, and reduces sample handling and chromatographic analysis time, while having little loss of precision [coefficient of variation (CV%) between 1.8% and 3.0%] and recovery [between 98.5% and 100.5%]. The method was applied to 30 samples of S. rebaudiana from Misiones (Northeastern Argentina), and the stevioside content found ranged between 3.78 and 9.75% (weight) whereas Rebaudioside A content ranged between 1.62 and 7.27% (weight)."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

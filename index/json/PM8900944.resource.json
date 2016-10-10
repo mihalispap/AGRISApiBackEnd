@@ -1,0 +1,51 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Analysis of Stevia glycosides by capillary electrophoresis."},
+	"subject":[
+		{"value":"Angiosperms"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Electrophoresis, Capillary"},
+	{"value":"Glucosides"},
+	{"value":"Molecular Structure"},
+	{"value":"Plant Extracts"},
+	{"value":"Terpenes"}
+	],
+	"pageStart":367,
+	"volume":2,
+	"pageEnd":71,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM8900944",
+	"identifier":"PM8900944",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Electrophoresis"},
+	"ISSN":{"value":"0173-0835"}
+	}
+	},
+	"issued":"1997-02-04",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Mauri, P, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Catalano, G, G"
+	}
+	},
+	{
+		"Person":
+		{"name":"Gardana, C, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Pietta, P, P"
+	}
+	}
+	],
+	"abstract":{"value":"The determination of diterpene glycosides from Stevia rebaudiana leaves using capillary electrophoresis is described. Analyses were performed on fused silica capillaries with 20 mM sodium tetraborate buffer, pH 8.3, and 30 mM sodium dodecyl sulfate. The effect of the organic solvent injected with the sample solution on the electrophoretic solution has been confirmed, and an absolute amount of 1.6 nL per injected sample was optimal. Rebaudioside A and steviolbioside were isolated by semipreparative high performance liquid chromatography (HPLC), and their structure was assessed by mass spectrometry."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,69 @@
+{"resource": {
+	"language":"spa",
+	"title":{"value":"[Safety assessment of stevia rebaudiana bertoni grown in southeastern Mexico as food sweetener]."},
+	"subject":[
+		{"value":"Adolescent"},
+	{"value":"Adult"},
+	{"value":"Animals"},
+	{"value":"Blood Glucose"},
+	{"value":"Cells, Cultured"},
+	{"value":"Disease Models, Animal"},
+	{"value":"Glucose Tolerance Test"},
+	{"value":"Glucosides"},
+	{"value":"Humans"},
+	{"value":"Mexico"},
+	{"value":"Plant Extracts"},
+	{"value":"Rats"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"},
+	{"value":"Vero Cells"},
+	{"value":"Young Adult"}
+	],
+	"pageStart":594,
+	"volume":3,
+	"pageEnd":601,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25238836",
+	"identifier":"PM25238836",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Nutrición hospitalaria"},
+	"ISSN":{"value":"1699-5198"}
+	}
+	},
+	"issued":"2014-09-20",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Aranda-González, Irma, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Barbosa-Martín, Enrique, E"
+	}
+	},
+	{
+		"Person":
+		{"name":"Toraya-Avilés, Rocío, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Segura-Campos, Maira, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Moguel-Ordoñez, Yolanda, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Betancur-Ancona, David, D"
+	}
+	}
+	],
+	"abstract":{"value":"Stevia rebaudiana leaves and their glycosides have been recently and significantly used so important as sweeteners. However, it has been reported an antihyperglycemic effect of the extract and a glycoside. The aim of this study was to quantify S. rebaudiana glycosides, assess cytotoxicity of the extract and its acute and chronic effect on blood glucose in animal models and in human. The glycosides of the Morita II and Criolla extract were quantified by HPLC, using a C18 column (250 mm x 4.6 mm and particle size of 5 uM) with UV detection at 210 nm, mobile phase of acetonitrile/sodium phosphate buffer 10 mmol/L, pH 2.6 (32:68 v/v). Cytotoxicity study was performed in Vero cells, whereas an intraperitoneal glucose tolerance test (IPGTT) and a chronic consumption assay (4 weeks) were executed in an animal model of diabetes; finally the glycemic index (G.I.) was determined in healthy individuals. The glycoside content is higher in the Morita variety II although both had a CC50 >300 g/mL. The areas under the curve of the IPGTT and fasting glucose of the animals were not significantly different (p> 0.05) and the I.G. extract was 11.11 %, which classifies the extract as low I.G. The extract of S. rebaudiana Morita II has a low glycemic index and, in the doses tested, is not cytotoxic nor has acute or chronic effect on blood sugar, which makes it a safe sweetener."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

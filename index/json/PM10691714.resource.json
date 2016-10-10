@@ -1,0 +1,64 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Grindelane diterpenoids from Stevia subpubescens."},
+	"subject":[
+		{"value":"Acetylation"},
+	{"value":"Asteraceae"},
+	{"value":"Crystallography, X-Ray"},
+	{"value":"Diterpenes"},
+	{"value":"Hydrolysis"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Molecular Conformation"},
+	{"value":"Oxidation-Reduction"},
+	{"value":"Plant Extracts"},
+	{"value":"Plant Leaves"},
+	{"value":"Spectrophotometry, Infrared"}
+	],
+	"pageStart":226,
+	"volume":2,
+	"pageEnd":9,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM10691714",
+	"identifier":"PM10691714",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of natural products"},
+	"ISSN":{"value":"0163-3864"}
+	}
+	},
+	"issued":"2000-04-25",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Román, L U, LU"
+	}
+	},
+	{
+		"Person":
+		{"name":"Cambrón, J I, JI"
+	}
+	},
+	{
+		"Person":
+		{"name":"del Río, R E, RE"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hernández, J D, JD"
+	}
+	},
+	{
+		"Person":
+		{"name":"Cerda-García-Rojas, C M, CM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Joseph-Nathan, P, P"
+	}
+	}
+	],
+	"abstract":{"value":"Four new 9R,13R-epoxylabdane diterpenes (1-4) and a known clerodane derivative, 3,4beta-epoxy-5beta,10beta-cis-17alpha, 20alpha-clerod-13(14)-en-15,16-olide, were isolated from the leaves of Stevia subpubescens. The structures, which correspond to the grindelane class of diterpenoids, were elucidated by NMR data, chemical correlation, and single-crystal X-ray diffraction analysis of monoacetate 5. The absolute configuration of 1-4 is based on the optical activity of ketone 3 as compared with data of closely related substances."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

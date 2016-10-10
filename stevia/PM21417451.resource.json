@@ -1,0 +1,48 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Identification and quantification of major steviol glycosides in Stevia rebaudiana purified extracts by 1H NMR spectroscopy."},
+	"subject":[
+		{"value":"Diterpenes, Kaurane"},
+	{"value":"Glycosides"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Plant Extracts"},
+	{"value":"Stevia"}
+	],
+	"pageStart":4378,
+	"volume":9,
+	"pageEnd":84,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM21417451",
+	"identifier":"PM21417451",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of agricultural and food chemistry"},
+	"ISSN":{"value":"1520-5118"}
+	}
+	},
+	"issued":"2011-05-04",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Pieri, Valerio, V"
+	}
+	},
+	{
+		"Person":
+		{"name":"Belancic, Andrea, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Morales, Susana, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Stuppner, Hermann, H"
+	}
+	}
+	],
+	"abstract":{"value":"The use of (1)H NMR spectroscopy for the characterization of Stevia rebaudiana extracts is presented. The developed method allows qualitative and quantitative determination of the major steviol glycosides in purified extracts and fractions obtained from various stages of the purification process. Moreover, it proved to be a powerful tool to differentiate between glycosides which are naturally occurring in the stevia plant and artifacts formed in the course of the manufacturing process. Identification of steviol glycosides was achieved by the use of 2D NMR techniques, whereas quantification is based on qHNMR using anthracene as internal standard. The solvent mixture pyridine-d(5)-DMSO-d(6) (6:1) enabled satisfactory separation of the signals to be integrated. Validation of the method was performed in terms of specificity, precision, accuracy, linearity, robustness, and stability. Quantitative results were compared to those obtained with the JECFA HPLC-UV method and were found to be in reasonable agreement. NMR analysis does not rely on the use of reference compounds and enables significantly faster analysis compared to HPLC-UV. Thus, NMR represents a feasible alternative to HPLC-based methods for the quality control of Stevia rebaudiana extracts."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,76 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Characterization of bacterial mutagenicity mediated by 13-hydroxy-ent-kaurenoic acid (steviol) and several structurally-related derivatives and evaluation of potential to induce glutathione S-transferase in mice."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Biotransformation"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Enzyme Induction"},
+	{"value":"Glutathione Transferase"},
+	{"value":"Mice"},
+	{"value":"Microsomes, Liver"},
+	{"value":"Mutagenicity Tests"},
+	{"value":"Rats"},
+	{"value":"Salmonella typhimurium"},
+	{"value":"Structure-Activity Relationship"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":93,
+	"volume":3,
+	"pageEnd":103,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM3512998",
+	"identifier":"PM3512998",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Mutation research"},
+	"ISSN":{"value":"0027-5107"}
+	}
+	},
+	"issued":"1986-03-28",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Pezzuto, J M, JM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Nanayakkara, N P, NP"
+	}
+	},
+	{
+		"Person":
+		{"name":"Compadre, C M, CM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Swanson, S M, SM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kinghorn, A D, AD"
+	}
+	},
+	{
+		"Person":
+		{"name":"Guenthner, T M, TM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sparnins, V L, VL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Lam, L K, LK"
+	}
+	}
+	],
+	"abstract":{"value":"Stevioside is a sweet-tasting diterpene glycoside that is derived from Stevia rebaudiana (Bertoni) Bertoni (Compositae). It is used commercially in Japan and other parts of the world as a sucrose substitute. Whereas stevioside demonstrates no mutagenic activity in a variety of test systems, the aglycone, steviol (13-hydroxy-ent-kaurenoic acid), is mutagenic toward Salmonella typhimurium strain TM677 in the presence of a metabolic activating system derived from the liver of Aroclor 1254-pretreated rats. The required activating component is localized in the microsomal fraction of rat liver, suggestive of a cytochrome P-450-mediated reaction. Partially purified epoxide hydrolase does not inhibit steviol-induced mutagenicity, indicating that an active metabolite is not an epoxide that serves as a substrate for this enzyme preparation. The 13-hydroxy group of steviol is required for the expression of mutagenicity since ent-kaurenoic acid is nonmutagenic, and acetylation of steviol at this position negates mutagenicity. Similarly, diterpenes bearing a strong structural resemblance to steviol, cafestol and kahweol, were found to demonstrate no mutagenic activity toward Salmonella typhimurium TM677, as were their respective acetates and palmitic acid esters. Conversely, 19-O-beta-D-glucopyranosyl steviol, a potential hydrolysis product of stevioside, is mutagenic and bactericidal in the presence of a metabolic activating system. Additionally, in contrast to the nonmutagenic diterpenes cafestol and kahweol that are effective as inducers of glutathione S-transferase activity, evaluation by administration to mice proved steviol, isosteviol and various steviol glycosides to be inactive in this process. Thus, structural differences among these naturally occurring and semi-synthetic diterpenes appear to impart major differences in biological activity that may relate to human health upon dietary ingestion."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

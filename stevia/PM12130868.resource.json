@@ -1,0 +1,61 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Mutagenicity of steviol and its oxidative derivatives in Salmonella typhimurium TM677."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Aroclors"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"In Vitro Techniques"},
+	{"value":"Lactones"},
+	{"value":"Liver"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Mutagenicity Tests"},
+	{"value":"Mutagens"},
+	{"value":"Oxidation-Reduction"},
+	{"value":"Rats"},
+	{"value":"Salmonella typhimurium"}
+	],
+	"pageStart":1007,
+	"volume":7,
+	"pageEnd":10,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM12130868",
+	"identifier":"PM12130868",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Chemical & pharmaceutical bulletin"},
+	"ISSN":{"value":"0009-2363"}
+	}
+	},
+	"issued":"2002-07-19",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Terai, Tadamasa, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ren, Huifeng, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Mori, Go, G"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yamaguchi, Yoshihito, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hayashi, Tetsuhito, T"
+	}
+	}
+	],
+	"abstract":{"value":"Stevioside is natural non-caloric sweetner isolated from Stevia rebaudiana BERTONI, which has been used as a non-caloric sugar substitute in Japan. Pezzuto et al. demonstrated that steviol shows a dose-dependent positive response in forward mutation assay using Salmonella typhimurium TM677 in the presence of metabolic activation system (Aroclor induced rat liver S9 fraction). Our studies were carried out to identify the genuine mutagenic active substance from among the eight steviol derivatives. Steviol indicate almost similar levels of mutagenicity under the presence of S9 mixture, as reported by Pezzuto et al. 15-Oxo-steviol was found to be mutagenic at the one tenth the level of steviol itself under the presence of S9 mixture. Interestingly, specific mutagenicity of the lactone derivative under the presence of S9 mixture was ten times lower than that of the lactone derivative without the addition of S9 mixture."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

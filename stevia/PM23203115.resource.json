@@ -1,0 +1,50 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Catalytic hydrogenation of the sweet principles of Stevia rebaudiana, Rebaudioside B, Rebaudioside C, and Rebaudioside D and sensory evaluation of their reduced derivatives."},
+	"subject":[
+		{"value":"Catalysis"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glycosides"},
+	{"value":"Humans"},
+	{"value":"Hydrogenation"},
+	{"value":"Molecular Structure"},
+	{"value":"Nuclear Magnetic Resonance, Biomolecular"},
+	{"value":"Oligosaccharides"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"},
+	{"value":"Taste Perception"}
+	],
+	"pageStart":15126,
+	"volume":11,
+	"pageEnd":36,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM23203115",
+	"identifier":"PM23203115",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"International journal of molecular sciences"},
+	"ISSN":{"value":"1422-0067"}
+	}
+	},
+	"issued":"2012-12-03",
+	"dateSubmitted":2016,
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3509631",
+	"creator":[
+		{
+		"Person":
+		{"name":"Prakash, Indra, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Campbell, Mary, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chaturvedula, Venkata Sai Prakash, VS"
+	}
+	}
+	],
+	"abstract":{"value":"Catalytic hydrogenation of rebaudioside B, rebaudioside C, and rebaudioside D; the three ent-kaurane diterpene glycosides isolated from Stevia rebaudiana was carried out using Pd(OH)(2). Reduction of steviol glycosides was performed using straightforward synthetic chemistry with the catalyst Pd(OH)(2) and structures of the corresponding dihydro derivatives were characterized on the basis of 1D and 2D nuclear magnetic resonance (NMR) spectral data indicating that all are novel compounds being reported for the first time. Also, the taste properties of all reduced compounds were evaluated against their corresponding original steviol glycosides and sucrose."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

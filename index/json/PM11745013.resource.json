@@ -1,0 +1,72 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Inhibitory effect of stevioside on calcium influx to produce antihypertension."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Antihypertensive Agents"},
+	{"value":"Aorta"},
+	{"value":"Asteraceae"},
+	{"value":"Calcium"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Dose-Response Relationship, Drug"},
+	{"value":"Glucosides"},
+	{"value":"Hypertension"},
+	{"value":"In Vitro Techniques"},
+	{"value":"Injections, Intraperitoneal"},
+	{"value":"Muscle, Smooth, Vascular"},
+	{"value":"Phytotherapy"},
+	{"value":"Plant Extracts"},
+	{"value":"Rats"},
+	{"value":"Rats, Inbred SHR"},
+	{"value":"Terpenes"},
+	{"value":"Vasoconstriction"}
+	],
+	"pageStart":796,
+	"volume":9,
+	"pageEnd":9,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM11745013",
+	"identifier":"PM11745013",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Planta medica"},
+	"ISSN":{"value":"0032-0943"}
+	}
+	},
+	"issued":"2001-12-17",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Lee, C N, CN"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wong, K L, KL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Liu, J C, JC"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chen, Y J, YJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Cheng, J T, JT"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chan, P, P"
+	}
+	}
+	],
+	"abstract":{"value":"Stevioside is a sweet-tasting glycoside occurring abundantly in the leaves of Stevia rebaudiana (Compositae). It has been used popularly in Japan and Brazil as a sugar substitute for decades. Previous study has shown that it lowered blood pressure in spontaneously hypertensive rats (SHRs) when administered intravenously. This study shows that intraperitoneal injection of stevioside 25 mg/kg also has antihypertensive effect in SHRs. In isolated aortic rings from normal rats, stevioside could dose-dependently relax the vasopressin-induced vasoconstriction in both the presence and absence of endothelium. However, stevioside had no effect on phenylephrine- and KCl-induced phasic vasoconstriction. In addition, stevioside lost its influence on vasopressin-induced vasoconstriction in Ca(2+)-free medium. The results indicate that stevioside caused vasorelaxation via an inhibition of Ca(2+) influx into the blood vessel. This phenomenon was further confirmed in cultured aortic smooth muscle cells (A7r5). Using 10(-5) M methylene blue for 15 min, stevioside could still relax 10(-8) M vasopressin-induced vasoconstriction in isolated rat aortic rings, showing that this vasorelaxation effect was not related to nitric oxide. The present data show that the vasorelexation effect of stevioside was mediated mainly through Ca(2+) influx inhibition."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

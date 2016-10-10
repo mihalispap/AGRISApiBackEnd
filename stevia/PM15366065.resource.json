@@ -1,0 +1,55 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"DFT and NMR parameterized conformation of valeranone."},
+	"subject":[
+		{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Models, Molecular"},
+	{"value":"Molecular Conformation"},
+	{"value":"Reference Standards"},
+	{"value":"Sesquiterpenes"},
+	{"value":"Stevia"},
+	{"value":"Substrate Specificity"}
+	],
+	"pageStart":898,
+	"volume":10,
+	"pageEnd":902,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM15366065",
+	"identifier":"PM15366065",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Magnetic resonance in chemistry : MRC"},
+	"ISSN":{"value":"0749-1581"}
+	}
+	},
+	"issued":"2004-09-14",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Torres-Valencia, J Martín, JM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Meléndez-Rodríguez, Myriam, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Alvarez-García, Rocío, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Cerda-García-Rojas, Carlos M, CM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Joseph-Nathan, Pedro, P"
+	}
+	}
+	],
+	"abstract":{"value":"A Monte Carlo random search using molecular mechanics, followed by geometry optimization of each minimum energy structure employing density functional theory (DFT) calculations at the B3LYP/6-31G* level and a Boltzmann analysis of the total energies, generated accurate molecular models which describe the conformational behavior of the antispasmodic bicyclic sesquiterpene valeranone (1). The theoretical H-C-C-H dihedral angles gave the corresponding 1H, 1H vicinal coupling constants using a generalized Karplus-type equation. In turn, the 3J(H,H) values were used as initial input data for the spectral simulation of 1, which after iteration provided an excellent correlation with the experimental 1H NMR spectrum. The calculated 3J(H,H) values closely predicted the experimental values, excepting the coupling constant between the axial hydrogen alpha to the carbonyl group and the equatorial hydrogen beta to the carbonyl group (J(2beta, 3beta)). The difference is explained in terms of the electron density distribution found in the highest occupied molecular orbital (HOMO) of 1. The simulated spectrum, together with 2D NMR experiments, allowed the total assignment of the 1H and 13C NMR spectra of 1."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

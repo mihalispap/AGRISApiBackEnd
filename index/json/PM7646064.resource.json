@@ -1,0 +1,67 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Steviol and steviol-glycoside: glucosyltransferase activities in Stevia rebaudiana Bertoni--purification and partial characterization."},
+	"subject":[
+		{"value":"Chromatography, Gel"},
+	{"value":"Chromatography, Ion Exchange"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Electrophoresis, Polyacrylamide Gel"},
+	{"value":"Glucosyltransferases"},
+	{"value":"Isoenzymes"},
+	{"value":"Kinetics"},
+	{"value":"Molecular Weight"},
+	{"value":"Plant Leaves"},
+	{"value":"Plants"},
+	{"value":"Substrate Specificity"},
+	{"value":"Ultrafiltration"},
+	{"value":"Uridine Diphosphate Glucose"}
+	],
+	"pageStart":390,
+	"volume":2,
+	"pageEnd":6,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM7646064",
+	"identifier":"PM7646064",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Archives of biochemistry and biophysics"},
+	"ISSN":{"value":"0003-9861"}
+	}
+	},
+	"issued":"1995-09-18",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Shibata, H, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sawa, Y, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Oka, T, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sonoke, S, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kim, K K, KK"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yoshioka, M, M"
+	}
+	}
+	],
+	"abstract":{"value":"The leaves of Stevia rebaudiana Bertoni contain sweet compounds which are glycosides of diterpene derivative steviol (ent-13-hydroxykaur-16-en-19-oic acid). Its main constituents are stevioside (triglucosylated steviol; 13-O-beta-sophorosyl-19-O-beta-glucosyl-steviol) and rebaudioside-A (tetraglucosylated steviol; 2'-O-beta-glucosyl-13-O-beta-sophorosyl-19-O-beta-glucosyl-stev iol). From the extracts of S. rebaudiana Bertoni, two glucosyltransferases (GTases I and IIB) acting on steviol and steviol-glycosides were isolated, and another distinct activity (GTase IIA) acting on steviol was detected. Purified GTase I (subunit M(r) 24,600) catalyzed glucose transfer from UDP-glucose to steviol and steviolmonoside (steviol-13-O-glucopyranoside), but not to other steviol-glycosides. Apparent Km values were 71.4 microM for steviol and 360 microM for UDP-glucose. GTase IIB (subunit M(r) 30,700) showed a broad substrate specificity, acting on steviol, steviolmonoside, steviolbioside (13-O-beta-sophorosyl-steviol), and stevioside. Apparent Km values were 182 microM for steviol, 44 microM for steviolbioside, 95 microM for stevioside, and 385 microM for UDP-glucose. The two enzymes had a similar optimum pH at 6.5. They also acted effectively on ubiquitous flavonol aglycones, quercetin, and kaempferol and utilized kaempferol at a higher rate than steviol and steviol-glycosides. The apparent Km values of GTase I and IIB for kaempferol were 12 and 31 microM, respectively."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

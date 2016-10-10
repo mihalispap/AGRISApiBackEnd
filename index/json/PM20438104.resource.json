@@ -1,0 +1,80 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Synthesis and glycosidase inhibition of the enantiomer of (-)-steviamine, the first example of a new class of indolizidine alkaloid."},
+	"subject":[
+		{"value":"Alkaloids"},
+	{"value":"Hexosaminidases"},
+	{"value":"Imino Sugars"},
+	{"value":"Indolizidines"},
+	{"value":"Molecular Structure"},
+	{"value":"Stereoisomerism"},
+	{"value":"Stevia"}
+	],
+	"pageStart":2562,
+	"volume":11,
+	"pageEnd":5,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM20438104",
+	"identifier":"PM20438104",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Organic letters"},
+	"ISSN":{"value":"1523-7052"}
+	}
+	},
+	"issued":"2010-05-28",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Hu, Xiang-Guo, XG"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bartholomew, Barbara, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Nash, Robert J, RJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wilson, Francis X, FX"
+	}
+	},
+	{
+		"Person":
+		{"name":"Fleet, George W J, GW"
+	}
+	},
+	{
+		"Person":
+		{"name":"Nakagawa, Shinpei, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kato, Atsushi, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Jia, Yue-Mei, YM"
+	}
+	},
+	{
+		"Person":
+		{"name":"van Well, Renate, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yu, Chu-Yi, CY"
+	}
+	}
+	],
+	"abstract":{"value":"(+)-Steviamine, the enantiomer of the natural (-)-steviamine, and its corresponding C5 epimer have been synthesized from the D-ribose-derived cyclic nitrone. (-)-Steviamine was found to be the first naturally occurring iminosugar that causes any inhibition of alpha-galactosaminidases."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,64 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Comparison of some antioxidant properties of plant extracts from Origanum vulgare, Salvia officinalis, Eleutherococcus senticosus and Stevia rebaudiana."},
+	"subject":[
+		{"value":"Antioxidants"},
+	{"value":"Cell Line, Tumor"},
+	{"value":"Colorimetry"},
+	{"value":"Drug Discovery"},
+	{"value":"Eleutherococcus"},
+	{"value":"Glutathione"},
+	{"value":"Humans"},
+	{"value":"Nitric Oxide"},
+	{"value":"Origanum"},
+	{"value":"Oxidation-Reduction"},
+	{"value":"Phenols"},
+	{"value":"Plant Extracts"},
+	{"value":"Salvia officinalis"},
+	{"value":"Stevia"},
+	{"value":"Tetrazolium Salts"},
+	{"value":"Thiazoles"}
+	],
+	"pageStart":614,
+	"volume":7,
+	"pageEnd":22,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24737278",
+	"identifier":"PM24737278",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"In vitro cellular & developmental biology. Animal"},
+	"ISSN":{"value":"1543-706X"}
+	}
+	},
+	"issued":"2014-08-14",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Vaško, Ladislav, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Vašková, Janka, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Fejerčáková, Andrea, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Mojžišová, Gabriela, G"
+	}
+	},
+	{
+		"Person":
+		{"name":"Poráčová, Janka, J"
+	}
+	}
+	],
+	"abstract":{"value":"Phenolic compounds from plants are known for their antioxidant properties and have been proposed as therapeutic agents to counteract oxidative stress. However, under normal circumstances, the body only receives a very small amount of these substances in the diet. We have investigated the effect of extracts from known and frequently used plants as part of diet, food seasoning, medicinal tea, and sweetener at different concentrations on the ability to scavenge free radicals, to affect antioxidant enzymes, and finally in the survival of cancer cell lines. We found extract concentrations of about 100 μg.ml(-1) more indicative in the assessment of all parameters investigated. Ginseng possessed a very good ability to scavenge superoxide and hydroxyl radicals, while stevia also manifested significant effects against hydroxyl radicals. Both extracts also showed NO decomposition ability. The antioxidant defense system against the excessive production of radicals in mitochondria was sufficient. In contrast, the range of operating concentrations for sage and oregano mainly presented no significant effects against reactive oxygen and nitrogen species. Taken together with the significantly reduced activity of glutathione peroxidase, this led to the depletion of glutathione. The demonstrated modulation of redox state capability was sufficient to affect the viability of all tested cancer cell lines, but especially A-549, CEM and HeLa by oregano extract. Results support the promising role of the tested extracts as a source of compounds for further in vivo studies with the ability to powerfully interfere with or modify the redox state of cells according to the type of disease, which is expected to be associated with oxidative stress."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

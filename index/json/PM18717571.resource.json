@@ -1,0 +1,44 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Photostability of rebaudioside A and stevioside in beverages."},
+	"subject":[
+		{"value":"Beverages"},
+	{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Drug Stability"},
+	{"value":"Glucosides"},
+	{"value":"Light"}
+	],
+	"pageStart":8507,
+	"volume":18,
+	"pageEnd":13,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM18717571",
+	"identifier":"PM18717571",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of agricultural and food chemistry"},
+	"ISSN":{"value":"1520-5118"}
+	}
+	},
+	"issued":"2008-09-17",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Clos, John F, JF"
+	}
+	},
+	{
+		"Person":
+		{"name":"DuBois, Grant E, GE"
+	}
+	},
+	{
+		"Person":
+		{"name":"Prakash, Indra, I"
+	}
+	}
+	],
+	"abstract":{"value":"The Coca-Cola Company and Cargill, Inc. have initiated the development and commercialization of the Stevia rebaudiana (Bertoni) derived sweetener rebaudioside A. Efforts were focused on high purity rebaudioside A (>97% by HPLC), commonly known as rebiana. In the course of the development program, extensive stability studies were carried out on rebiana, all supporting good stability for use in all food and beverage applications, including conditions where rebiana-sweetened beverages were exposed to light. Our findings on rebiana light stability refute those of an earlier study that suggested rebaudioside A to be unstable to sunlight exposure, while the structurally homologous stevioside is stable. We replicated the earlier study and found no significant photodegradation for either rebaudioside A or stevioside."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

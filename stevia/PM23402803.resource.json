@@ -1,0 +1,41 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Spatio-temporal variation of the diterpene steviol in Stevia rebaudiana grown under different photoperiods."},
+	"subject":[
+		{"value":"Diterpenes, Kaurane"},
+	{"value":"Glycosides"},
+	{"value":"Photoperiod"},
+	{"value":"Plant Leaves"},
+	{"value":"Plant Roots"},
+	{"value":"Plant Stems"},
+	{"value":"Reproduction"},
+	{"value":"Spatio-Temporal Analysis"},
+	{"value":"Stevia"}
+	],
+	"pageStart":32,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM23402803",
+	"identifier":"PM23402803",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Phytochemistry"},
+	"ISSN":{"value":"1873-3700"}
+	}
+	},
+	"issued":"2013-04-01",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Ceunen, Stijn, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Geuns, Jan M C, JM"
+	}
+	}
+	],
+	"abstract":{"value":"As part of an ongoing study on the effects of photoperiodism on the metabolism of steviol glycosides (SVglys) in Stevia rebaudiana, the spatio-temporal variations of free steviol (SV) have now been evaluated. For its quantitation, an internal standard method was used, based upon a specific fluorometric detection of SV as its methoxycoumarinyl derivative. The level of free SV in leaves did not exceed 30 μg/g dry wt and was at least 1000-fold smaller than that of its glycosidic conjugates. In other organs, free SV was mainly measured in stem tissue and apices, with relatively large amounts measured in the latter. Similarly to SVglys, the content of free SV was influenced by photoperiod and genotype. In plants grown under long-days (LD) of 16 h, more spatial variations were seen compared to those under short-days (SD) of 8h. In the former, upper leaves contained almost four times more free SV compared to lower ones near the end of vegetative growth. In addition, the correlation between SV and its glycosidic conjugates was more linear under SD. Despite the variability of SV levels, a decrease was noted in all conditions after flower opening, which can be related a decreased transcription of the biosynthetic genes involved."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

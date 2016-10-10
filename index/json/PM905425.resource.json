@@ -1,0 +1,41 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Tissue culture of Stevia rebaudiana, a sweetening plant."},
+	"subject":[
+		{"value":"Culture Techniques"},
+	{"value":"Paraguay"},
+	{"value":"Plants, Medicinal"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":115,
+	"volume":2,
+	"pageEnd":7,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM905425",
+	"identifier":"PM905425",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Planta medica"},
+	"ISSN":{"value":"0032-0943"}
+	}
+	},
+	"issued":"1977-11-25",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Handro, W, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hell, K G, KG"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kerbauy, G B, GB"
+	}
+	}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

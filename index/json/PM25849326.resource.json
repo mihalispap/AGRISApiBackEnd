@@ -1,0 +1,108 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Crop-ecology and nutritional variability influence growth and secondary metabolites of Stevia rebaudiana Bertoni."},
+	"subject":[
+		{"value":"Biomass"},
+	{"value":"Carbon"},
+	{"value":"Chlorophyll"},
+	{"value":"Crops, Agricultural"},
+	{"value":"Humidity"},
+	{"value":"Hydrogen-Ion Concentration"},
+	{"value":"Metabolome"},
+	{"value":"Nitrogen"},
+	{"value":"Nutritional Physiological Phenomena"},
+	{"value":"Phosphorus"},
+	{"value":"Photosynthesis"},
+	{"value":"Plant Leaves"},
+	{"value":"Plant Stems"},
+	{"value":"Potassium"},
+	{"value":"Principal Component Analysis"},
+	{"value":"Rain"},
+	{"value":"Regression Analysis"},
+	{"value":"Secondary Metabolism"},
+	{"value":"Soil"},
+	{"value":"Stevia"},
+	{"value":"Temperature"},
+	{"value":"Time Factors"}
+	],
+	"pageStart":67,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25849326",
+	"identifier":"PM25849326",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"BMC plant biology"},
+	"ISSN":{"value":"1471-2229"}
+	}
+	},
+	"issued":"2015-04-08",
+	"dateSubmitted":2016,
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351930",
+	"creator":[
+		{
+		"Person":
+		{"name":"Pal, Probir Kumar, PK"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kumar, Rajender, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Guleria, Vipan, V"
+	}
+	},
+	{
+		"Person":
+		{"name":"Mahajan, Mitali, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Prasad, Ramdeen, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Pathania, Vijaylata, V"
+	}
+	},
+	{
+		"Person":
+		{"name":"Gill, Baljinder Singh, BS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Singh, Devinder, D"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chand, Gopi, G"
+	}
+	},
+	{
+		"Person":
+		{"name":"Singh, Bikram, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Singh, Rakesh Deosharan, RD"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ahuja, Paramvir Singh, PS"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"Plant nutrition and climatic conditions play important roles on the growth and secondary metabolites of stevia (Stevia rebaudiana Bertoni); however, the nutritional dose is strongly governed by the soil properties and climatic conditions of the growing region. In northern India, the interactive effects of crop ecology and plant nutrition on yield and secondary metabolites of stevia are not yet properly understood. Thus, a field experiment comprising three levels of nitrogen, two levels of phosphorus and three levels of potassium was conducted at three locations to ascertain whether the spatial and nutritional variability would dominate the leaf yield and secondary metabolites profile of stevia."},
+	{"value":"Principal component analysis (PCA) indicates that the applications of 90 kg N, 40 kg P2O5 and 40 kg K2O ha-1 are the best nutritional conditions in terms of dry leaf yield for CSIR-IHBT (Council of Scientific and Industrial Research- Institute Himalayan Bioresource Technology) and RHRS (Regional Horticultural Research Station) conditions. The spatial variability also exerted considerable effect on the leaf yield and stevioside content in leaves. Among the three locations, CSIR-IHBT was found most suitable in case of dry leaf yield and secondary metabolites accumulation in leaves."},
+	{"value":"The results suggest that dry leaf yield and accumulation of stevioside are controlled by the environmental factors and agronomic management; however, the accumulation of rebaudioside-A (Reb-A) is not much influenced by these two factors. Thus, leaf yield and secondary metabolite profiles of stevia can be improved through the selection of appropriate growing locations and proper nutrient management."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

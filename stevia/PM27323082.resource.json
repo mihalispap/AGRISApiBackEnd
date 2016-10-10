@@ -1,0 +1,39 @@
+{"resource": {
+	"issued":"2016-06-21",
+	"dateSubmitted":2016,
+	"language":"eng",
+	"title":{"value":"Development of expressed sequence tag-simple sequence repeat markers for genetic characterization and population structure analysis of Praxelis clematidea (Asteraceae)."},
+	"creator":[
+		{
+		"Person":
+		{"name":"Wang, Q Z, QZ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Huang, M, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Downie, S R, SR"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chen, Z X, ZX"
+	}
+	}
+	],
+	"volume":2,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM27323082",
+	"identifier":"PM27323082",
+	"type":"Journal Article",
+	"abstract":{"value":"Invasive plants tend to spread aggressively in new habitats and an understanding of their genetic diversity and population structure is useful for their management. In this study, expressed sequence tag-simple sequence repeat (EST-SSR) markers were developed for the invasive plant species Praxelis clematidea (Asteraceae) from 5548 Stevia rebaudiana (Asteraceae) expressed sequence tags (ESTs). A total of 133 microsatellite-containing ESTs (2.4%) were identified, of which 56 (42.1%) were hexanucleotide repeat motifs and 50 (37.6%) were trinucleotide repeat motifs. Of the 24 primer pairs designed from these 133 ESTs, 7 (29.2%) resulted in significant polymorphisms. The number of alleles per locus ranged from 5 to 9. The relatively high genetic diversity (H = 0.2667, I = 0.4212, and P = 100%) of P. clematidea was related to high gene flow (Nm = 1.4996) among populations. The coefficient of population differentiation (GST = 0.2500) indicated that most genetic variation occurred within populations. A Mantel test suggested that there was significant correlation between genetic distance and geographical distribution (r = 0.3192, P = 0.012). These results further support the transferability of EST-SSR markers between closely related genera of the same family."},
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Genetics and molecular research : GMR"},
+	"ISSN":{"value":"1676-5680"}
+	}
+	}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

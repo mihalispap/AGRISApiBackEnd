@@ -1,0 +1,66 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Ultra-HPLC method for quality and adulterant assessment of steviol glycosides sweeteners - Stevia rebaudiana and stevia products."},
+	"subject":[
+		{"value":"Antipyrine"},
+	{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Food Analysis"},
+	{"value":"Food Contamination"},
+	{"value":"Glucose"},
+	{"value":"Glucosides"},
+	{"value":"Glycosides"},
+	{"value":"Limit of Detection"},
+	{"value":"Non-Nutritive Sweeteners"},
+	{"value":"Reproducibility of Results"},
+	{"value":"Sensitivity and Specificity"},
+	{"value":"Stevia"}
+	],
+	"pageStart":674,
+	"volume":5,
+	"pageEnd":85,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25822696",
+	"identifier":"PM25822696",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment"},
+	"ISSN":{"value":"1944-0057"}
+	}
+	},
+	"issued":"2015-03-31",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Wang, Yan-Hong, YH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Avula, Bharathi, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tang, Wenzhao, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wang, Mei, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Elsohly, Mahmoud A, MA"
+	}
+	},
+	{
+		"Person":
+		{"name":"Khan, Ikhlas A, IA"
+	}
+	}
+	],
+	"abstract":{"value":"Stevia products are advertised as a zero-calorie sweetener. Glucose should not be an intrinsic component of this product, but it has been identified from some of stevia products in a preliminary study. An UHPLC-UV method was developed for the quantitative determination of glucose from stevia products. After stevia products reacted with 1-phenyl-3-methyl-5-pyrazolone (PMP), PMP derivatives were analysed and glucose was found in seven out of 35 products in the range 0.3-91.5% (w/w). Two products, SPR-12 and SPR-27, showed remarkable amounts of glucose at 61.6% and 91.5%, respectively. In addition, an UHPLC-UV-evaporative light-scattering detector (ELSD) method was developed for the quantitative determination of rebaudioside A, stevioside, rebaudioside D, dulcoside A and steviolbioside from Stevia rebaudiana and related products. In a 12 min run, five steviol glycosides were baseline-separated. ELSD and ultraviolet (UV) detections showed comparable results. The LC methods were validated for linearity, repeatability, accuracy, limits of detection (LOD) and limits of quantification (LOQ). For steviol glycosides, the LODs and LOQs were found to be less than 10 and 30 μg ml(-1), respectively. The RSD for intra- and inter-day analyses was less than 2.5%, and the recovery was 90-94%. For PMP derivative of glucose, the LOD and LOQ were 0.01 and 0.05 μg ml(-1), respectively. Repeatability (RSD) was less than 2.6%; recovery was 98.6-101.7%. The methods are useful for the identification, quality assurance, and adulterant assessment of S. rebaudiana and steviol glycosides sweeteners (stevia products)."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

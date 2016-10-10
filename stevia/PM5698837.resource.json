@@ -1,0 +1,40 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Contraceptive properties of Stevia rebaudiana."},
+	"pageStart":1007,
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Contraceptives, Oral"},
+	{"value":"Female"},
+	{"value":"Fertility"},
+	{"value":"Glycosides"},
+	{"value":"Indians, South American"},
+	{"value":"Plants, Medicinal"},
+	{"value":"Pregnancy"},
+	{"value":"Rats"}
+	],
+	"volume":3857,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM5698837",
+	"type":"Journal Article",
+	"identifier":"PM5698837",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Science (New York, N.Y.)"},
+	"ISSN":{"value":"0036-8075"}
+	}
+	},
+	"issued":"1969-01-09",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Mazzei Planas, G, G"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kuć, J, J"
+	}
+	}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

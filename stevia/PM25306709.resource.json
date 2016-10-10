@@ -1,0 +1,41 @@
+{"resource": {
+	"language":"rus",
+	"title":{"value":"[Effect of stevia on the picture of peripheral blood under exposure to vibration]."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Bone Marrow Cells"},
+	{"value":"Plant Extracts"},
+	{"value":"Plant Leaves"},
+	{"value":"Rabbits"},
+	{"value":"Stevia"},
+	{"value":"Time Factors"},
+	{"value":"Vibration"}
+	],
+	"pageStart":79,
+	"volume":3,
+	"pageEnd":83,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25306709",
+	"identifier":"PM25306709",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Gigiena i sanitariia"},
+	"ISSN":{"value":"0016-9900"}
+	}
+	},
+	"issued":"2014-10-13",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Adamyan, Ts I, TsI"
+	}
+	},
+	{
+		"Person":
+		{"name":"Gevorkyan, E S, ES"
+	}
+	}
+	],
+	"abstract":{"value":"There were investigated changes in the peripheral blood of rabbits under prolonged exposure to vibration (5, 10, 20, 30 days). In a separate series of experiments, the nature of changes in the peripheral blood was investigated under the combined action of vibration and stevia leaves. Contained in stevia biologically active substances were found to accelerate metabolism in bone marrow stem cells, promote the compensatory ability of the organism, thereby providing the resistance of the body to the vibration factor."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

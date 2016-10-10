@@ -1,0 +1,54 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Transport of the natural sweetener stevioside and its aglycone steviol by human organic anion transporter (hOAT1; SLC22A6) and hOAT3 (SLC22A8)."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Biological Transport"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Female"},
+	{"value":"Glucosides"},
+	{"value":"Humans"},
+	{"value":"Organic Anion Transport Protein 1"},
+	{"value":"Organic Anion Transporters, Sodium-Independent"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"},
+	{"value":"Xenopus laevis"}
+	],
+	"pageStart":621,
+	"volume":2,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM15644426",
+	"identifier":"PM15644426",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"The Journal of pharmacology and experimental therapeutics"},
+	"ISSN":{"value":"0022-3565"}
+	}
+	},
+	"issued":"2005-04-15",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Srimaroeng, Chutima, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chatsudthipong, Varanuj, V"
+	}
+	},
+	{
+		"Person":
+		{"name":"Aslamkhan, Amy G, AG"
+	}
+	},
+	{
+		"Person":
+		{"name":"Pritchard, John B, JB"
+	}
+	}
+	],
+	"abstract":{"value":"The natural sweetening agent stevioside and its aglycone metabolite, steviol, have been shown to inhibit transepithelial transport of para-aminohippurate (PAH) in isolated rabbit renal proximal tubules by interfering with basolateral entry. The aim of the present study was to determine which of the cloned basolateral organic anion transporters were involved in the renal transport of stevioside and steviol. This question was addressed in Xenopus laevis oocytes expressing human organic anion transporter 1 (hOAT1), 3 (hOAT3), and winter flounder OAT (fOat1). The parent compound, stevioside, had no inhibitory effect on either PAH (hOAT1) or ES (estrone sulfate; hOAT3) uptake. In contrast, steviol showed significant, dose-dependent inhibition of PAH and ES uptake in hOAT1- or hOAT3-expressing oocytes, respectively. The IC(50) of steviol for hOAT1-mediated PAH transport was 11.1 microM compared with 62.6 microM for hOAT3-mediated ES uptake. The Michaelis-Menten inhibition constants (K(i)) for steviol transport mediated by hOAT1 and hOAT3 were 2.0 +/- 0.3 and 5.4 +/- 2.0 microM, respectively. Trans-stimulation of PAH efflux by steviol was assessed to determine whether steviol itself was transported by hOAT1 or hOAT3. A low concentration of 1 microM steviol increased the efflux of [(3)H]PAH (trans-stimulated) via both hOAT1 and hOAT3. In addition, it was shown by electrophysiology that steviol entry induced inward current in fOat1-expressing oocytes. In conclusion, stevioside had no interaction with either hOAT1 or hOAT3, whereas hOAT1, hOAT3, and fOat1 were all shown to be capable of steviol transport and thus, can play a role in its renal transport and excretion."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

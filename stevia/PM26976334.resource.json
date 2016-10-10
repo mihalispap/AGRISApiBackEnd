@@ -1,0 +1,41 @@
+{"resource": {
+	"language":"ENG",
+	"title":{"value":"Synthesis of rebaudioside A from stevioside and their interaction model with hTAS2R4 bitter taste receptor."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucan 1,3-beta-Glucosidase"},
+	{"value":"Glucosides"},
+	{"value":"Humans"},
+	{"value":"Receptors, G-Protein-Coupled"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"},
+	{"value":"Taste"}
+	],
+	"pageStart":106,
+	"pageEnd":11,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26976334",
+	"identifier":"PM26976334",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Phytochemistry"},
+	"ISSN":{"value":"1873-3700"}
+	}
+	},
+	"issued":"2016-3-21",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Singla, Ramit, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Jaitak, Vikas, V"
+	}
+	}
+	],
+	"abstract":{"value":"Steviol glycosides (SG's) from Stevia rebaudiana (Bertoni) have been used as a natural low-calorie sweeteners. Its aftertaste bitterness restricts its use for human consumption and limits its application in food and pharmaceutical products. In present study, we have performed computational analysis in order to investigate the interaction of two major constituents of SG's against homology model of the hTAS2R4 receptor. Molecular simulation study was performed using stevioside and rebaudioside A revealed that, sugar moiety at the C-3'' position in rebaudioside A causes restriction of its entry into the receptor site thereby unable to trigger the bitter reception signaling cascade. Encouraged by the current finding, we have also developed a greener route using β-1,3-glucanase from Irpex lacteus for the synthesis of de-bittered rebaudioside A from stevioside. The rebaudioside A obtained was of high quality with percent conversion of 62.5%. The results here reported could be used for the synthesis of rebaudioside A which have large application in food and pharmaceutical industry."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

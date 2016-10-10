@@ -1,0 +1,72 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Design and synthesis of isosteviol triazole conjugates for cancer therapy."},
+	"subject":[
+		{"value":"Antineoplastic Agents"},
+	{"value":"Cell Line, Tumor"},
+	{"value":"Cell Proliferation"},
+	{"value":"Click Chemistry"},
+	{"value":"Cytotoxins"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Humans"},
+	{"value":"Neoplasms"},
+	{"value":"Triazoles"}
+	],
+	"pageStart":18676,
+	"volume":11,
+	"pageEnd":89,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25405286",
+	"identifier":"PM25405286",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Molecules (Basel, Switzerland)"},
+	"ISSN":{"value":"1420-3049"}
+	}
+	},
+	"issued":"2014-11-21",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Khaybullin, Ravil N, RN"
+	}
+	},
+	{
+		"Person":
+		{"name":"Zhang, Mei, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Fu, Junjie, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Liang, Xiao, X"
+	}
+	},
+	{
+		"Person":
+		{"name":"Li, Tammy, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Katritzky, Alan R, AR"
+	}
+	},
+	{
+		"Person":
+		{"name":"Okunieff, Paul, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Qi, Xin, X"
+	}
+	}
+	],
+	"abstract":{"value":"One of the keys for successfully developing drugs against the broad spectrum of cancer cell types is structural diversity. In the current study, we focused on a family of isosteviol derivatives as potential novel antitumor agents. Isosteviol is a tetracyclic diterpenoid obtained by acid hydrolysis of steviol glycoside extracts isolated from abundant Stevia rebaudiana plants. In this work, we have designed and synthesized a panel of isosteviol triazole conjugates using \"click\" chemistry methodology. Evaluation of these compounds against a series of cancer cell lines derived from primary and metastatic tumors demonstrated that these conjugates exhibit cytotoxic activities with IC50 in the low μM range. In addition, their anti-proliferative activities are cancer cell type specific. Taken together, our studies underscore the importance of structural diversity in achieving cancer cell type specific drug development."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

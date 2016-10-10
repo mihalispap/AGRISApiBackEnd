@@ -1,0 +1,41 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Steviol glycoside biosynthesis."},
+	"subject":[
+		{"value":"Biological Transport"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glycosides"},
+	{"value":"Glycosyltransferases"},
+	{"value":"Molecular Structure"},
+	{"value":"Multienzyme Complexes"},
+	{"value":"Terpenes"},
+	{"value":"Vacuoles"}
+	],
+	"pageStart":1855,
+	"volume":14,
+	"pageEnd":63,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM17397883",
+	"identifier":"PM17397883",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Phytochemistry"},
+	"ISSN":{"value":"0031-9422"}
+	}
+	},
+	"issued":"2007-07-13",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Brandle, J E, JE"
+	}
+	},
+	{
+		"Person":
+		{"name":"Telmer, P G, PG"
+	}
+	}
+	],
+	"abstract":{"value":"Steviol glycosides are found in high concentrations in the leaves of the Paraguayan perennial herb Stevia rebaudiana and their intense sweetness, as well as high concentration in Stevia leaf tissue, has made them the subject of research interest for over 100 years. Steviol glycosides are diterpenoids whose biosynthetic pathways share four steps in common with gibberellic acid formation. The convergence of genomics and plant biochemistry has led to the rapid elucidation of the genes coding for the various enzymes in the biosynthetic pathway. Functional characterization of the enzymes coded for by those genes is on-going. The first committed step in the pathway is the synthesis of the aglycone steviol and the various glycosides found in the leaf tissue result from the elaboration of steviol by a number of glucosyltransferases."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

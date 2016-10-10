@@ -1,0 +1,61 @@
+{"resource": {
+	"language":"por",
+	"title":{"value":"[Effect of guaraná and Stévia Rebaudiana Bertoni (leaves) extracts, and stevioside, on the fermentation and synthesis of extracellular insoluble polysaccharides of dental plaque]."},
+	"subject":[
+		{"value":"Child"},
+	{"value":"Dental Plaque"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Fermentation"},
+	{"value":"Glucosides"},
+	{"value":"Glycosides"},
+	{"value":"Humans"},
+	{"value":"Hydrogen-Ion Concentration"},
+	{"value":"Plant Extracts"},
+	{"value":"Plants, Medicinal"},
+	{"value":"Polysaccharides"},
+	{"value":"Sweetening Agents"},
+	{"value":"Terpenes"}
+	],
+	"pageStart":9,
+	"volume":4,
+	"pageEnd":13,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM3270113",
+	"identifier":"PM3270113",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Revista de odontologia da Universidade de São Paulo / USP"},
+	"ISSN":{"value":"0103-0663"}
+	}
+	},
+	"issued":"1990-01-25",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Pinheiro, C E, CE"
+	}
+	},
+	{
+		"Person":
+		{"name":"de Oliveira, S S, SS"
+	}
+	},
+	{
+		"Person":
+		{"name":"da Silva, S M, SM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Poletto, M I, MI"
+	}
+	},
+	{
+		"Person":
+		{"name":"Pinheiro, C F, CF"
+	}
+	}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

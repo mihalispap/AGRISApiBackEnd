@@ -1,0 +1,70 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"First seco-C oleananes from nature."},
+	"subject":[
+		{"value":"Crystallography, X-Ray"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Models, Molecular"},
+	{"value":"Molecular Conformation"},
+	{"value":"Oleanolic Acid"},
+	{"value":"Stevia"},
+	{"value":"Triterpenes"}
+	],
+	"pageStart":173,
+	"volume":2,
+	"pageEnd":6,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM14723521",
+	"identifier":"PM14723521",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Organic letters"},
+	"ISSN":{"value":"1523-7060"}
+	}
+	},
+	"issued":"2004-01-15",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Román, Luisa U, LU"
+	}
+	},
+	{
+		"Person":
+		{"name":"Guerra-Ramírez, Diana, D"
+	}
+	},
+	{
+		"Person":
+		{"name":"Morán, Gerardo, G"
+	}
+	},
+	{
+		"Person":
+		{"name":"Martínez, Iván, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hernández, Juan D, JD"
+	}
+	},
+	{
+		"Person":
+		{"name":"Cerda-García-Rojas, Carlos M, CM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Torres-Valencia, J Martín, JM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Joseph-Nathan, Pedro, P"
+	}
+	}
+	],
+	"abstract":{"value":"[structure: see text] The triterpenes 8,14-seco-oleana-8(26),13-dien-3beta-ol (1) and its acetyl derivative 2 were isolated from Stevia viscida and Stevia eupatoria, respectively. Their structures were elucidated by 2D NMR, including carbon-carbon connectivity experiments, and confirmed by X-ray diffraction analysis of ketone 3. The absolute configuration was determined by NMR analysis of the Mosher esters of 1. The biogenetic implications of the new substances are discussed."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

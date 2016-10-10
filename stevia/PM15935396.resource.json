@@ -1,0 +1,87 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Structural analysis of isosteviol and related compounds as DNA polymerase and DNA topoisomerase inhibitors."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Anti-Inflammatory Agents, Non-Steroidal"},
+	{"value":"Antineoplastic Agents, Phytogenic"},
+	{"value":"Brassica"},
+	{"value":"Cattle"},
+	{"value":"Cell Survival"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Dose-Response Relationship, Drug"},
+	{"value":"Enzyme Inhibitors"},
+	{"value":"Humans"},
+	{"value":"Kinetics"},
+	{"value":"Mice"},
+	{"value":"Nucleic Acid Synthesis Inhibitors"},
+	{"value":"Rats"},
+	{"value":"Structure-Activity Relationship"},
+	{"value":"Thymus Gland"},
+	{"value":"Topoisomerase I Inhibitors"},
+	{"value":"Topoisomerase II Inhibitors"},
+	{"value":"Topoisomerase Inhibitors"}
+	],
+	"pageStart":2127,
+	"volume":17,
+	"pageEnd":40,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM15935396",
+	"identifier":"PM15935396",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Life sciences"},
+	"ISSN":{"value":"0024-3205"}
+	}
+	},
+	"issued":"2005-08-15",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Mizushina, Yoshiyuki, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Akihisa, Toshihiro, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ukiya, Motohiko, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hamasaki, Yusuke, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Murakami-Nakai, Chikako, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kuriyama, Isoko, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Takeuchi, Toshifumi, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sugawara, Fumio, F"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yoshida, Hiromi, H"
+	}
+	}
+	],
+	"abstract":{"value":"Isosteviol (ent-16-ketobeyeran-19-oic acid) is a hydrolysis product of stevioside, which is a natural sweetener produced in the leaves of Stevia rebaudiana (Bertoni) Bertoni. In this report, we prepared isosteviol and related compounds from stevioside by microbial transformation and chemical conversion and assayed the inhibitory activities toward DNA metabolic enzymes and human cancer cell growth. Among twelve compounds obtained, only isosteviol (compound 3) potently inhibited both mammalian DNA polymerases (pols) and human DNA topoisomerase II (topo II), and IC50 value for pol alpha was 64.0 microM. This compound had no inhibitory effect on higher plant (cauliflower) pols, prokaryotic pols, human topo I, and DNA metabolic enzymes such as human telomerase, T7 RNA polymerase, and bovine deoxyribonuclease I. With pol alpha, isosteviol acted non-competitively with the DNA template-primer and nucleotide substrate. Isosteviol prevented the growth of human cancer cells, with LD50 values of 84-167 microM, and 500 microg of the compound caused a marked reduction in TPA (12-O-tetradecanoylphorbol-13-acetate)-induced inflammation (inhibitory effect, 53.0%). The relationship between the structure of stevioside-based compounds and these activities were discussed."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

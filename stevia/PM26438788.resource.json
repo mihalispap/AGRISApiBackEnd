@@ -1,0 +1,72 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Comparative Transcriptomics Unravel Biochemical Specialization of Leaf Tissues of Stevia for Diterpenoid Production."},
+	"subject":[
+		{"value":"Alkyl and Aryl Transferases"},
+	{"value":"Base Sequence"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Erythritol"},
+	{"value":"Glucosides"},
+	{"value":"Metabolome"},
+	{"value":"Molecular Sequence Data"},
+	{"value":"Mutation"},
+	{"value":"Organ Specificity"},
+	{"value":"Phylogeny"},
+	{"value":"Plant Leaves"},
+	{"value":"Plant Proteins"},
+	{"value":"Sequence Analysis, RNA"},
+	{"value":"Stevia"},
+	{"value":"Sugar Phosphates"},
+	{"value":"Transcriptome"},
+	{"value":"Trichomes"}
+	],
+	"pageStart":2462,
+	"volume":4,
+	"pageEnd":80,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26438788",
+	"identifier":"PM26438788",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Plant physiology"},
+	"ISSN":{"value":"1532-2548"}
+	}
+	},
+	"issued":"2015-12-15",
+	"dateSubmitted":2016,
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4677913",
+	"creator":[
+		{
+		"Person":
+		{"name":"Kim, Mi Jung, MJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Jin, Jingjing, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Zheng, Junshi, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wong, Limsoon, L"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chua, Nam-Hai, NH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Jang, In-Cheol, IC"
+	}
+	}
+	],
+	"abstract":{"value":"Stevia (Stevia rebaudiana) produces not only a group of diterpenoid glycosides known as steviol glycosides (SGs), but also other labdane-type diterpenoids that may be spatially separated from SGs. However, their biosynthetic routes and spatial distribution in leaf tissues have not yet been elucidated. Here, we integrate metabolome and transcriptome analyses of Stevia to explore the biosynthetic capacity of leaf tissues for diterpenoid metabolism. Tissue-specific chemical analyses confirmed that SGs were accumulated in leaf cells but not in trichomes. On the other hand, Stevia leaf trichomes stored other labdane-type diterpenoids such as oxomanoyl oxide and agatholic acid. RNA sequencing analyses from two different tissues of Stevia provided a comprehensive overview of dynamic metabolic activities in trichomes and leaf without trichomes. These metabolite-guided transcriptomics and phylogenetic and gene expression analyses clearly identified specific gene members encoding enzymes involved in the 2-C-methyl-d-erythritol 4-phosphate pathway and the biosynthesis of steviol or other labdane-type diterpenoids. Additionally, our RNA sequencing analysis uncovered copalyl diphosphate synthase (SrCPS) and kaurene synthase1 (SrKS1) homologs, SrCPS2 and KS-like (SrKSL), which were specifically expressed in trichomes. In vitro and in planta assays showed that unlike SrCPS and SrKS1, SrCPS2 synthesized labda-13-en-8-ol diphosphate and successively catalyzed the formation of manoyl oxide and epi-manoyl oxide in combination with SrKSL. Our findings suggest that Stevia may have evolved to use distinct metabolic pathways to avoid metabolic interferences in leaf tissues for efficient production of diverse secondary metabolites."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

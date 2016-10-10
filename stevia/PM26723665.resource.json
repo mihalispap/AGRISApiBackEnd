@@ -1,0 +1,83 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"On the connection between nonmonotonic taste behavior and molecular conformation in solution: The case of rebaudioside-A."},
+	"subject":[
+		{"value":"Diterpenes, Kaurane"},
+	{"value":"Humans"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Molecular Conformation"},
+	{"value":"Molecular Dynamics Simulation"},
+	{"value":"Plant Leaves"},
+	{"value":"Solutions"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"},
+	{"value":"Taste"},
+	{"value":"Temperature"}
+	],
+	"pageStart":244301,
+	"volume":24,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26723665",
+	"identifier":"PM26723665",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"The Journal of chemical physics"},
+	"ISSN":{"value":"1089-7690"}
+	}
+	},
+	"issued":"2016-01-02",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Chopade, Prashant D, PD"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sarma, Bipul, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Santiso, Erik E, EE"
+	}
+	},
+	{
+		"Person":
+		{"name":"Simpson, Jeffrey, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Fry, John C, JC"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yurttas, Nese, N"
+	}
+	},
+	{
+		"Person":
+		{"name":"Biermann, Kari L, KL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chen, Jie, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Trout, Bernhardt L, BL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Myerson, Allan S, AS"
+	}
+	}
+	],
+	"abstract":{"value":"The diterpene steviol glycoside, rebaudioside A, is a natural high potency non-caloric sweetener extracted from the leaves of Stevia rebaudiana. This compound shows a parabolic change in sweet taste intensity with temperature which contrasts with the general finding for other synthetic or natural sweeteners whose sweet taste increases with temperature. The nonmonotonic taste behavior was determined by sensory analysis using large taste panels. The conformational landscape of rebaudioside A was established at a range of temperatures by means of nuclear magnetic resonance and molecular dynamics simulation. The relationship between various conformations and the observed sweetness of rebaudioside A is described."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

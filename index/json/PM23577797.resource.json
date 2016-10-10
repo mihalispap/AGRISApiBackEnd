@@ -1,0 +1,58 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Genetic and metabolic diversity in Stevia rebaudiana using RAPD and HPTLC analysis."},
+	"subject":[
+		{"value":"Chromatography, Thin Layer"},
+	{"value":"Cluster Analysis"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Genetic Variation"},
+	{"value":"Genotype"},
+	{"value":"Glucosides"},
+	{"value":"India"},
+	{"value":"Random Amplified Polymorphic DNA Technique"},
+	{"value":"Stevia"}
+	],
+	"pageStart":771,
+	"volume":6,
+	"pageEnd":7,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM23577797",
+	"identifier":"PM23577797",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Pharmaceutical biology"},
+	"ISSN":{"value":"1744-5116"}
+	}
+	},
+	"issued":"2013-05-16",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Chester, Karishma, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tamboli, Ennus Tajuddin, ET"
+	}
+	},
+	{
+		"Person":
+		{"name":"Parveen, Rabea, R"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ahmad, Sayeed, S"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"Stevia rebaudiana Bertoni (Asteraceae) is an important medicinal plant and is much used due to its zero calories sweetening property. Stevia leaves as well as its extracts and pure compounds are currently used in the preparation of several medicines, food products and neutraceuticals."},
+	{"value":"To study the genetic and metabolic variability in S. rebaudiana among accessions of different geographical regions of India using random amplified polymorphic DNA (RAPD) markers and high-performance thin layer chromatography (HPTLC) analysis."},
+	{"value":"The RAPD analysis of Stevia rebaudiana (11 accessions) was carried out using 20 random operon primers. Dendrogram was constructed for cluster analysis based on the unweighted pair group method with arithmetic means (UPGMA) using Winboot. The HPTLC analysis of all samples was carried out on silica using acetone:ethyl acetate:water (5:4:1, v/v/v) for fingerprinting and quantification of stevioside and rebaudioside A at 360 nm after spraying with anisaldehyde sulphuric acid."},
+	{"value":"Ten out of 20 primers screened were found most informative; amplification products of the genotypes yielded a total of 87 scorable bands (67 polymorphic), whereas genetic similarity (GS) coefficient (0.01-0.08) and polymorphism (67.24-92.40%) showed huge variability. Similarly, HPTLC analysis showed large variation among different samples with respect to their presence or absence of metabolite and their concentration."},
+	{"value":"Out of the 11 Stevia accessions, Delhi and Mohali varieties showed much relatedness with each other and were concluded to be the superior genotype in context to RAPD and HPTLC analysis. The information obtained here could be valuable for devising strategies for cultivating this medicinal plant."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

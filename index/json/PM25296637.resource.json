@@ -1,0 +1,43 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Validation of HPLC-UV method for determination of minor glycosides contained in Stevia rebaudiana Bertoni leaves."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Glycosides"},
+	{"value":"Plant Extracts"},
+	{"value":"Plant Leaves"},
+	{"value":"Stevia"}
+	],
+	"pageStart":733,
+	"volume":5,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25296637",
+	"identifier":"PM25296637",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Biomedical chromatography : BMC"},
+	"ISSN":{"value":"1099-0801"}
+	}
+	},
+	"issued":"2015-04-16",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Aranda-González, Irma, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Moguel-Ordoñez, Yolanda, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Betancur-Ancona, David, D"
+	}
+	}
+	],
+	"abstract":{"value":"Leaves of Stevia rebaudiana contain glycosides with sweetness and biological activity. However besides the major glycosides, there are other glycosides within extracts that may contribute to its activity, and therefore it is important to quantify them. In this work, an isocratic HPLC method was validated for determination of dulcoside A, steviolbioside, rebaudioside C and rebaudioside B. An HPLC method was performed using a C18 column (250 × 4.6 mm, particle size 5 µm) and a UV detector set at 210 nm. The mobile phase consisted of a 32:68 (v/v) mixture of acetonitrile and sodium phosphate buffer (10 mmol/L, pH 2.6), set to a flow rate of 1.0 mL/min. The calculated parameters were: sensitivity, linearity, limit of detection (LOD), limit of quantification (LOQ), accuracy and precision. The calibration curves were linear over the working range 25-150 µg/mL, with coefficient of correlation of ≥0.99 and coefficient of determination of ≥0.98. The LOD was 5.68-8.81 µg/mL, while the LOQ was 17.21-26.69 µg/mL. The percentage recoveries of fortified samples were 100 ± 10% and precision, relative standard deviation, was <10%. The method validation showed accuracy, linearity and precision; therefore this method can be applied for quantitative analysis of minor steviol glycosides in S. rebaudiana leaves."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

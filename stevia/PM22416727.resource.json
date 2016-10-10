@@ -1,0 +1,50 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Sweetness concentration-response behavior of rebiana at room and refrigerator temperatures."},
+	"subject":[
+		{"value":"Consumer Behavior"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Humans"},
+	{"value":"Plant Extracts"},
+	{"value":"Stevia"},
+	{"value":"Sucrose"},
+	{"value":"Sweetening Agents"},
+	{"value":"Taste"},
+	{"value":"Temperature"}
+	],
+	"pageStart":"S545",
+	"volume":9,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM22416727",
+	"identifier":"PM22416727",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of food science"},
+	"ISSN":{"value":"1750-3841"}
+	}
+	},
+	"issued":"2012-03-15",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Fry, John C, JC"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yurttas, Nese, N"
+	}
+	},
+	{
+		"Person":
+		{"name":"Biermann, Kari L, KL"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"Rebiana is a zero-calorie, natural, high-potency sweetener derived from Stevia rebaudiana Bertoni and comprising almost pure rebaudioside A. Reliable information on its sweetness concentration-response (C-R) behavior is fundamental to rebiana's use as an ingredient. The response curve of rebiana in room-temperature (21 °C) and refrigerated (5 °C) water was determined using 2-alternative forced choice discrimination tests with a minimum of 70 tasters. From a series of panels the proportion of tasters finding different sucrose concentrations sweeter than a fixed concentration of rebiana was plotted against sucrose concentration. The resultant sigmoid curves were linearized by transforming the ordinate axis to a probability scale. This aided experimental design and determination of isosweet concentrations. The latter were deemed to be the sucrose concentration at which 50% of tasters found it to be the sweeter of the pair. Isosweet concentrations of sucrose for seven rebiana concentrations up to 600 mg/L were used to construct a C-R curve for each temperature. Equations were derived for the resultant hyperbolic curves. Rebiana is significantly more potent in cold water."},
+	{"value":"Rebiana is a new, zero-calorie, natural, high-potency sweetener derived from the Stevia plant. We have measured the sweetness of rebiana over a range of concentrations at room and refrigerator temperatures. This information will help developers of low-calorie products get the right sweetness level when replacing sugar with rebiana."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

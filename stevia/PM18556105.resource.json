@@ -1,0 +1,37 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"A critical review of the genetic toxicity of steviol and steviol glycosides."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Bacteria"},
+	{"value":"DNA Damage"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Humans"},
+	{"value":"Mutagenicity Tests"},
+	{"value":"Mutagens"},
+	{"value":"Rats"},
+	{"value":"Rats, Wistar"},
+	{"value":"Risk Factors"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":"S83",
+	"pageEnd":91,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM18556105",
+	"identifier":"PM18556105",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association"},
+	"ISSN":{"value":"0278-6915"}
+	}
+	},
+	"issued":"2008-06-30",
+	"dateSubmitted":2016,
+	"creator":
+		{"Person":
+		{"name":"Brusick, D J, DJ"
+	}
+	},
+	"abstract":{"value":"Extracts of the leaves of the stevia plant (Stevia rebaudiana Bertoni) are used to sweeten food and beverages in South America, Japan and China. The components responsible for the sweet properties of the plant are glycosides of steviol, primary stevioside (ent-13-hydroxykaur-16-en-18-oic acid), which is 250-300 times sweeter than sucrose and rebaudiosides A and C. Stevioside and steviol have been subjected to extensive genetic testing. The majority of the findings show no evidence of genotoxic activity. Neither stevioside nor its aglycone steviol have been shown to react directly with DNA or demonstrate genotoxic damage in assays relevant to human risk. The mutagenic activity of steviol and some of its derivatives, exhibited in strain TM677, was not reproduced in the same bacteria having normal DNA repair processes. The single positive in vivo study measuring single-strand DNA breaks in Wistar rat tissues by stevioside, was not confirmed in experiments in mice and appears to be measuring processes other than direct DNA damage. Neither stevioside nor steviol-induced clastogenic effects at extremely high dose levels in vivo. Application of a Weight-of-Evidence approach to assess the genetic toxicology database concludes that these substances do not pose a risk of genetic damage following human consumption."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

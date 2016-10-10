@@ -1,0 +1,48 @@
+{"resource": {
+	"language":"ita",
+	"title":{"value":"[Sterols in Stevia rebaudiana Bertoni]."},
+	"subject":[
+		{"value":"Cholesterol"},
+	{"value":"Phytosterols"},
+	{"value":"Plants, Medicinal"},
+	{"value":"Sitosterols"},
+	{"value":"Stigmasterol"}
+	],
+	"pageStart":2237,
+	"volume":12,
+	"pageEnd":40,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM6529501",
+	"identifier":"PM6529501",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Bollettino della Società italiana di biologia sperimentale"},
+	"ISSN":{"value":"0037-8771"}
+	}
+	},
+	"issued":"1985-05-16",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"D'Agostino, M, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"De Simone, F, F"
+	}
+	},
+	{
+		"Person":
+		{"name":"Pizza, C, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Aquino, R, R"
+	}
+	}
+	],
+	"abstract":{"value":"The sterol fraction of Stevia rebaudiana Bertoni contains, essentially, the following sterols: stigmasterol (45,8%), beta-sitosterol (39,4%) and campesterol (13,1%). The individual components were separated, after acetylation, by HPLC with absolute methanol as eluant. The identification of the compounds has been carried out through NMR and MS, while the corresponding percentages have been desumed from the GLC data."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

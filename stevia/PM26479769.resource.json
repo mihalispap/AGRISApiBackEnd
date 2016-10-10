@@ -1,0 +1,34 @@
+{"resource": {
+	"issued":"2015-10-19",
+	"dateSubmitted":2016,
+	"language":"ENG",
+	"title":{"value":"Biological Activity of Stevia Rebaudiana Bertoni and Their Relationship to Health."},
+	"creator":[
+		{
+		"Person":
+		{"name":"Ruiz-Ruiz, Jorge Carlos, JC"
+	}
+	},
+	{
+		"Person":
+		{"name":"Moguel-Ordoñez, Yolanda Beatriz, YB"
+	}
+	},
+	{
+		"Person":
+		{"name":"Segura-Campos, Maira Rubi, MR"
+	}
+	}
+	],
+	"pageStart":0,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26479769",
+	"identifier":"PM26479769",
+	"type":"Journal Article",
+	"abstract":{"value":"The leaves of Stevia rebaudiana Bertoni has nutrients and phytochemicals, which make it an adequate source for the extraction and production of functional food ingredients. Preclinical and clinical studies suggest therapeutic and pharmacological applications for stevia and their extracts because they are not toxic and exhibit several biological activities. This review presents the biological activity of Stevia rebaudiana Bertoni and their relationship to antidiabetic, anticariogenic, antioxidant, hypotensive, antihypertensive, antimicrobial, anti-inflamatory and anti-tumor activities. Consumption and adverse effects were also reviewed."},
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Critical reviews in food science and nutrition"},
+	"ISSN":{"value":"1549-7852"}
+	}
+	}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

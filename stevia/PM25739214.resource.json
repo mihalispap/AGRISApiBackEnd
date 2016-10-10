@@ -1,0 +1,61 @@
+{"resource": {
+	"language":"chi",
+	"title":{"value":"[Determination of steviol in Stevia Rebaudiana leaves by near infrared spectroscopy]."},
+	"subject":[
+		{"value":"Calibration"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Least-Squares Analysis"},
+	{"value":"Plant Leaves"},
+	{"value":"Spectroscopy, Near-Infrared"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":2719,
+	"volume":10,
+	"pageEnd":22,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25739214",
+	"identifier":"PM25739214",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Guang pu xue yu guang pu fen xi = Guang pu"},
+	"ISSN":{"value":"1000-0593"}
+	}
+	},
+	"issued":"2015-03-05",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Tang, Qi-Kun, QK"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wang, Yul, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wu, Yue-Jin, YJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Min, Di, D"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chen, Da-Wei, DW"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hu, Tong-Hua, TH"
+	}
+	}
+	],
+	"abstract":{"value":"The objective of the present study is to develop a method for rapid determination of the content of stevioside (ST) and rebaudioside A (RA) in Stevia Rebaudiana leaves. One hundred and five samples of stevia from different areas containing ST of 0.27%-1.40% and RA of 0.61%-3.98% were used. The 105 groups' NIRS diagram was processed by different methods including subtracting a straight line (SLS), multiplicative scatter correction (MSC), first derivative (FD), second derivative (SD) and so on, and then all data were analyzed by partial least square (PLS). The study showed that SLS can be used to extracted spectra information thoroughly to analyze the contents of ST, the correlation coefficients of calibration (Re), the root-mean-square errors of calibration (RMSEC) and prediction (RMSEP), and the residual predictive deviation (RPD) were 0.986, 0.341, 1.00 and 2.8, respectively. The correlation coefficients of RA was 0.967, RMSEC was 1.50, RMSEP was 1.98 and RPD was 4.17. The results indicated that near infrared spectroscopy (NIRS) technique offers effective quantitative capability for ST and RA in Stevia Rebaudiana leaves. Then the model of stevia dried leaves was used to compare with the stevia powder near infrared model whose correlation coefficients of ST was 0.986, RMSEC was 0.32, RMSEP was 0.601 and RPD was 2.86 and the correlation coefficients of RA was 0.968, RMSEC was 1.50, RMSEP was 1.48 and RPD was 4.2. The result showed that there was no significant difference between the model of dried leaves and that of the powders. However, the dried leaves NIR model reduces the unnecessary the steps of drying and grinding in the actual detection process, saving the time and reducing the workload."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

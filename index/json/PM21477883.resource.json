@@ -1,0 +1,59 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"UDP-dependent glycosyltransferases involved in the biosynthesis of steviol glycosides."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Genes, Plant"},
+	{"value":"Glycosides"},
+	{"value":"Glycosyltransferases"},
+	{"value":"Photoperiod"},
+	{"value":"Plant Leaves"},
+	{"value":"Reverse Transcriptase Polymerase Chain Reaction"},
+	{"value":"Stevia"},
+	{"value":"Time Factors"},
+	{"value":"Uridine Diphosphate"}
+	],
+	"pageStart":1136,
+	"volume":10,
+	"pageEnd":41,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM21477883",
+	"identifier":"PM21477883",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of plant physiology"},
+	"ISSN":{"value":"1618-1328"}
+	}
+	},
+	"issued":"2011-05-09",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Mohamed, Amal A A, AA"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ceunen, Stijn, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Geuns, Jan M C, JM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Van den Ende, Wim, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"De Ley, Marc, M"
+	}
+	}
+	],
+	"abstract":{"value":"A short-term experiment was designed to measure the transcript levels of downstream genes contributing to the biosynthesis of steviol glycosides. Stevia rebaudiana plants were subjected to long- and short-day conditions for different time intervals. Samples from both lower and upper leaves were collected. Using quantitative real-time polymerase chain reaction, the transcript levels of three UDP-dependent glycosyltransferases, UGT85C2, UGT74G1 and UGT76G1, were studied. The results were compared with the steviol glycoside contents measured in the leaves, which were quantified by reversed phase HPLC. In the same daylength condition, steviol glycoside concentration and the transcript levels of the three UGT genes were higher in upper leaves than in lower leaves. Steviol glycosides accumulated more in plants under short-day conditions. Under these conditions, a highly significant correlation was found between UGT85C2 transcription and total steviol glycoside accumulation in the upper leaves. This suggests that the glycosylation of steviol to form steviolmonoside is the rate-limiting step in the glycosylation pathway of steviol glycosides. In these upper leaves, a relatively high accumulation of rebaudioside A compared to stevioside was also observed, however, without correlation with the transcription of UGT76G1."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

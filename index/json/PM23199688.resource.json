@@ -1,0 +1,42 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Influence of photoperiodism on the spatio-temporal accumulation of steviol glycosides in Stevia rebaudiana (Bertoni)."},
+	"subject":[
+		{"value":"Diterpenes, Kaurane"},
+	{"value":"Flowers"},
+	{"value":"Glycosides"},
+	{"value":"Photoperiod"},
+	{"value":"Plant Leaves"},
+	{"value":"Plant Roots"},
+	{"value":"Plant Shoots"},
+	{"value":"Plant Stems"},
+	{"value":"Spatio-Temporal Analysis"},
+	{"value":"Stevia"}
+	],
+	"pageStart":72,
+	"pageEnd":82,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM23199688",
+	"identifier":"PM23199688",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Plant science : an international journal of experimental plant biology"},
+	"ISSN":{"value":"1873-2259"}
+	}
+	},
+	"issued":"2012-12-03",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Ceunen, Stijn, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Geuns, Jan M C, JM"
+	}
+	}
+	],
+	"abstract":{"value":"The effect of photoperiodism on steviol glycoside (SVgly) accumulation was investigated in Stevia rebaudiana. Topped plants were cultivated to develop new branches under a 16h or 8h photoperiod. During different ontogenetic phases, leaves, stems, lateral shoots, roots and reproductive organs were collected and analysed for nine SVglys. Long-day (LD) conditions prolonged vegetative growth, significantly increasing leaf biomass and total SVgly content. In both photoperiods, declines in SVglys were observed during reproductive development, occurring mainly in mature leaves under LDs or young leaves under SDs. When lateral shoots were included in plants under LDs, total leaf and SVgly yield per branch significantly increased, indicating a harvest during flowering is possible. The ratio of rebaudioside A (Reb A) to stevioside (ST) amounts was influenced by ontogeny and daylength, with larger ratios during vegetative growth under SDs. Linear correlations were observed between dry matter and total SVglys and between the major SVglys individually. Minor SVglys showed larger fluctuations, especially under SDs. Under LDs, the Reb A to ST ratio was inversely correlated with both leaf dry matter and total SVglys. The highly dynamic nature of the observed patterns suggests a complex regulation of SVgly metabolism on molecular and biochemical level."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

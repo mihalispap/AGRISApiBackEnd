@@ -1,0 +1,76 @@
+{"resource": {
+	"language":"rus",
+	"title":{"value":"[Effect of a new sweetening agent from Stevia rebaudiana on animals]."},
+	"subject":[
+		{"value":"Animal Feed"},
+	{"value":"Animals"},
+	{"value":"Blood Glucose"},
+	{"value":"Dose-Response Relationship, Drug"},
+	{"value":"Liver Glycogen"},
+	{"value":"Mitochondria, Liver"},
+	{"value":"Models, Biological"},
+	{"value":"Oxidative Phosphorylation"},
+	{"value":"Plant Extracts"},
+	{"value":"Plants, Medicinal"},
+	{"value":"Rats"},
+	{"value":"Saccharin"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":60,
+	"volume":1,
+	"pageEnd":3,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM1621383",
+	"identifier":"PM1621383",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Voprosy pitaniia"},
+	"ISSN":{"value":"0042-8833"}
+	}
+	},
+	"issued":"1992-08-04",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Smoliar, V I, VI"
+	}
+	},
+	{
+		"Person":
+		{"name":"Karpilovskaia, E D, ED"
+	}
+	},
+	{
+		"Person":
+		{"name":"Saliĭ, N S, NS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tsapko, E V, EV"
+	}
+	},
+	{
+		"Person":
+		{"name":"Lavrushenko, L F, LF"
+	}
+	},
+	{
+		"Person":
+		{"name":"Gulich, M P, MP"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kryshevich, L P, LP"
+	}
+	},
+	{
+		"Person":
+		{"name":"Grigorenko, S N, SN"
+	}
+	}
+	],
+	"abstract":{"value":"Animals received saccharol adequate (by sweetness) to sugar, and in 10- and 50-fold increased amounts. The data of chronic 10-month experiments studied in the time course after 2, 5, 10 months have permitted a conclusion that saccharol included into the ration during long periods, does not produce a significant effect on the parameters of metabolic processes and morphological picture of the internal organs in test animals. Saccharol in 50-fold increased amounts inhibits the activity of oxidative phosphorylation in the hepatic tissue of rats."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

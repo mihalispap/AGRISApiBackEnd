@@ -1,0 +1,75 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Drug solubilization mechanism of α-glucosyl stevia by NMR spectroscopy."},
+	"subject":[
+		{"value":"Carbon-13 Magnetic Resonance Spectroscopy"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Excipients"},
+	{"value":"Flavanones"},
+	{"value":"Glucosides"},
+	{"value":"Micelles"},
+	{"value":"Nanoparticles"},
+	{"value":"Particle Size"},
+	{"value":"Proton Magnetic Resonance Spectroscopy"},
+	{"value":"Solubility"},
+	{"value":"Technology, Pharmaceutical"},
+	{"value":"Water"}
+	],
+	"pageStart":255,
+	"volume":"1-2",
+	"pageEnd":61,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24508331",
+	"identifier":"PM24508331",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"International journal of pharmaceutics"},
+	"ISSN":{"value":"1873-3476"}
+	}
+	},
+	"issued":"2014-04-03",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Zhang, Junying, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Higashi, Kenjirou, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ueda, Keisuke, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kadota, Kazunori, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tozuka, Yuichi, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Limwikrant, Waree, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yamamoto, Keiji, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Moribe, Kunikazu, K"
+	}
+	}
+	],
+	"abstract":{"value":"We investigated the drug solubilization mechanism of α-glucosyl stevia (Stevia-G) which was synthesized from stevia (rebaudioside-A) by transglycosylation. (1)H and (13)C NMR peaks of Stevia-G in water were assigned by two-dimensional (2D) NMR experiments including (1)H-(1)H correlation, (1)H-(13)C heteronuclear multiple bond correlation, and (1)H-(13)C heteronuclear multiple quantum coherence spectroscopies. The (1)H and (13)C peaks clearly showed the incorporation of two glucose units into rebaudioside-A to produce Stevia-G, supported by steviol glycoside and glucosyl residue assays. The concentration-dependent chemical shifts of Stevia-G protons correlated well with a mass-action law model, indicating the self-association of Stevia-G molecules in water. The critical micelle concentration (CMC) was 12.0 mg/mL at 37°C. The aggregation number was 2 below the CMC and 12 above the CMC. Dynamic light scattering and 2D (1)H-(1)H nuclear Overhauser effect spectroscopy (NOESY) NMR experiments demonstrated that Stevia-G self-associated into micelles of a few nanometers in size with a core-shell structure, containing a kaurane diterpenoid-based hydrophobic core and a glucose-based shell. 2D (1)H-(1)H NOESY NMR measurements also revealed that a poorly water-soluble drug, naringenin, was incorporated into the hydrophobic core of the Stevia-G micelle. The Stevia-G self-assembly behavior and micellar drug inclusion capacity can achieve significant enhancement in drug solubility."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

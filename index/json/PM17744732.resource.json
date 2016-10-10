@@ -1,0 +1,30 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Contraceptive Properties of Stevia rebaudiana."},
+	"pageStart":1007,
+	"volume":3857,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM17744732",
+	"identifier":"PM17744732",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Science (New York, N.Y.)"},
+	"ISSN":{"value":"0036-8075"}
+	}
+	},
+	"issued":"2010-06-07",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Planas, G M, GM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kucacute, J, J"
+	}
+	}
+	],
+	"abstract":{"value":"A water decoction of the plant Stevia rebaudiana Bertoni reduces fertility in adult female rats of proven fertility. The decoction continues to descrease fertility for at least 50 to 60 days after intake is stopped. The decoction did not affect appetite and apparently did not affect the health of adults rats."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

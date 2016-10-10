@@ -1,0 +1,50 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Sweetener blend optimization by using mixture design methodology and the electronic tongue."},
+	"subject":[
+		{"value":"Adult"},
+	{"value":"Agave"},
+	{"value":"Cocos"},
+	{"value":"Consumer Behavior"},
+	{"value":"Electronic Nose"},
+	{"value":"Female"},
+	{"value":"Food Quality"},
+	{"value":"Humans"},
+	{"value":"Male"},
+	{"value":"Middle Aged"},
+	{"value":"Plant Extracts"},
+	{"value":"Snacks"},
+	{"value":"Solutions"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"},
+	{"value":"Taste"},
+	{"value":"Young Adult"}
+	],
+	"pageStart":"S1782",
+	"volume":9,
+	"pageEnd":94,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25155461",
+	"identifier":"PM25155461",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of food science"},
+	"ISSN":{"value":"1750-3841"}
+	}
+	},
+	"issued":"2014-09-12",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Waldrop, Megan E, ME"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ross, Carolyn F, CF"
+	}
+	}
+	],
+	"abstract":{"value":"Utilizing more than one sweetener has been shown to be an effective way to substitute sucrose in food products. The objective of this study was to apply the augmented simplex-centroid mixture design for the optimization of acceptable sweetener blends using coconut sugar, agave, and stevia. Sweetener blends were evaluated in aqueous solutions and gluten-free granola bars by a trained panel and consumers (n = 60). Significant differences were found between sweetener mixtures in solutions by both panelists and consumers (P < 0.05). Taste profiles for the sweetener solutions were also generated using the electronic tongue. Most consumer and trained intensity ratings were highly correlated (R(2) ≥ 0.79) with the electronic tongue taste profile analysis. Granola bars were also found to be significantly different (P < 0.05), with consumers preferring coconut sugar mixtures. Using contour plots and desirability function analysis, an optimal sweetener combination was found for a granola bar formulation of 89.9% coconut sugar, 6.1% agave, and 4% stevia. These results indicate that a mixture design can be a reliable way to develop new sweetener blends for product development."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

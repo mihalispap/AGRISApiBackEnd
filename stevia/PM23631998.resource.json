@@ -1,0 +1,62 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Cariogenic potential of commercial sweeteners in an experimental biofilm caries model on enamel."},
+	"subject":[
+		{"value":"Analysis of Variance"},
+	{"value":"Animals"},
+	{"value":"Biofilms"},
+	{"value":"Cariogenic Agents"},
+	{"value":"Cattle"},
+	{"value":"Dental Caries"},
+	{"value":"Dental Enamel"},
+	{"value":"Hardness"},
+	{"value":"Hydrogen-Ion Concentration"},
+	{"value":"Non-Nutritive Sweeteners"},
+	{"value":"Sodium Chloride"},
+	{"value":"Streptococcus mutans"},
+	{"value":"Sucrose"},
+	{"value":"Tooth Demineralization"}
+	],
+	"pageStart":1116,
+	"volume":9,
+	"pageEnd":22,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM23631998",
+	"identifier":"PM23631998",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Archives of oral biology"},
+	"ISSN":{"value":"1879-1506"}
+	}
+	},
+	"issued":"2013-07-29",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Giacaman, Rodrigo A, RA"
+	}
+	},
+	{
+		"Person":
+		{"name":"Campos, Pía, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Muñoz-Sandoval, Cecilia, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Castro, Ramiro J, RJ"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"Scarce evidence is available on the cariogenic potential of the widely used commercial sweeteners. The aim of this study was to evaluate the effect of several sweeteners on enamel demineralisation and on the cariogenic properties of Streptococcus mutans biofilms in an artificial caries model."},
+	{"value":"S. mutans-UA159 biofilms were cultured on bovine enamel slabs and exposed to one of the following commercial sweeteners in tablet or powder form: stevia, sucralose, saccharin, aspartame or fructose. Ten percent sucrose and 0.9% NaCl were used as caries-positive and caries-negative controls, respectively. Slabs/biofilms were exposed to the sweeteners three times per day for 5min each time. After 5 days, biofilms were recovered to determine: biomass, bacterial counts and intra- and extracellular polysaccharides. Surface microhardness was measured before and after the experiment to assess enamel demineralisation, expressed as percentage of surface hardness loss (%SHL). Data were analysed using analysis of variance (ANOVA) and Bonferroni (p<0.05)."},
+	{"value":"All tested commercial sweeteners, except fructose, showed less enamel demineralisation than sucrose (p<0.05). Only saccharine showed less biomass and intracellular polysaccharides than the rest of the groups (p<0.05). Stevia, sucralose and saccharine reduced the number of viable cells when compared with sucrose (p<0.05). All sugar alternatives reduced extracellular polysaccharide formation when compared with sucrose (p<0.05)."},
+	{"value":"Most commercial sweeteners appear to be less cariogenic than sucrose, but still retaining some enamel demineralisation potential. Products containing stevia, sucralose and saccharine showed antibacterial properties and seem to interfere with bacterial metabolism. Further studies are necessary to deepen these findings."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

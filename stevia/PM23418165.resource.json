@@ -1,0 +1,61 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Cytotoxic and apoptosis-inducing activities of steviol and isosteviol derivatives against human cancer cell lines."},
+	"subject":[
+		{"value":"Antineoplastic Agents, Phytogenic"},
+	{"value":"Apoptosis"},
+	{"value":"Cell Line, Tumor"},
+	{"value":"Cell Survival"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Humans"},
+	{"value":"Neoplasms"},
+	{"value":"Stevia"}
+	],
+	"pageStart":177,
+	"volume":2,
+	"pageEnd":88,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM23418165",
+	"identifier":"PM23418165",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Chemistry & biodiversity"},
+	"ISSN":{"value":"1612-1880"}
+	}
+	},
+	"issued":"2013-02-18",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Ukiya, Motohiko, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sawada, Shingo, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kikuchi, Takashi, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kushi, Yasunori, Y"
+	}
+	},
+	{
+		"Person":
+		{"name":"Fukatsu, Makoto, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Akihisa, Toshihiro, T"
+	}
+	}
+	],
+	"abstract":{"value":"Seventeen steviol derivatives, i.e., 2-18, and 19 isosteviol derivatives, i.e., 19-37, were prepared from a diterpenoid glycoside, stevioside (1). Upon evaluation of the cytotoxic activities of these compounds against leukemia (HL60), lung (A549), stomach (AZ521), and breast (SK-BR-3) cancer cell lines, nine steviol derivatives, i.e., 5-9 and 11-14, and five isosteviol derivatives, i.e., 28-32, exhibited activities with single-digit micromolar IC(50) values against one or more cell lines. All of these active compounds possess C(19)-O-acyl group, and among which, ent-kaur-16-ene-13,19-diol 19-O-4',4',4'-trifluorocrotonate (14) exhibited potent cytotoxicities against four cell lines with IC(50) values in the range of 1.2-4.1 μM. Compound 14 induced typical apoptotic cell death in HL60 cells upon evaluation of the apoptosis-inducing activity by flow-cytometric analysis. These results suggested that acylation of the 19-OH group of kaurane- and beyerane-type diterpenoids might be useful for enhancement of their cytotoxicities with apoptosis-inducing activity."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

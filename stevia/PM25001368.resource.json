@@ -1,0 +1,74 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"RNA-Seq for gene identification and transcript profiling of three Stevia rebaudiana genotypes."},
+	"subject":[
+		{"value":"Diterpenes, Kaurane"},
+	{"value":"Genotype"},
+	{"value":"Glucosides"},
+	{"value":"Glucosyltransferases"},
+	{"value":"Metabolic Networks and Pathways"},
+	{"value":"Microsatellite Repeats"},
+	{"value":"Plant Leaves"},
+	{"value":"Plant Proteins"},
+	{"value":"Polymorphism, Single Nucleotide"},
+	{"value":"RNA, Plant"},
+	{"value":"Sequence Analysis, RNA"},
+	{"value":"Stevia"},
+	{"value":"Transcriptome"}
+	],
+	"pageStart":571,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25001368",
+	"identifier":"PM25001368",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"BMC genomics"},
+	"ISSN":{"value":"1471-2164"}
+	}
+	},
+	"issued":"2014-07-22",
+	"dateSubmitted":2016,
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4108789",
+	"creator":[
+		{
+		"Person":
+		{"name":"Chen, Junwen, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hou, Kai, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Qin, Peng, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Liu, Hongchang, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yi, Bin, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yang, Wenting, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"Wu, Wei, W"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"Stevia (Stevia rebaudiana) is an important medicinal plant that yields diterpenoid steviol glycosides (SGs). SGs are currently used in the preparation of medicines, food products and neutraceuticals because of its sweetening property (zero calories and about 300 times sweeter than sugar). Recently, some progress has been made in understanding the biosynthesis of SGs in Stevia, but little is known about the molecular mechanisms underlying this process. Additionally, the genomics of Stevia, a non-model species, remains uncharacterized. The recent advent of RNA-Seq, a next generation sequencing technology, provides an opportunity to expand the identification of Stevia genes through in-depth transcript profiling."},
+	{"value":"We present a comprehensive landscape of the transcriptome profiles of three genotypes of Stevia with divergent SG compositions characterized using RNA-seq. 191,590,282 high-quality reads were generated and then assembled into 171,837 transcripts with an average sequence length of 969 base pairs. A total of 80,160 unigenes were annotated, and 14,211 of the unique sequences were assigned to specific metabolic pathways by the Kyoto Encyclopedia of Genes and Genomes. Gene sequences of all enzymes known to be involved in SG synthesis were examined. A total of 143 UDP-glucosyltransferase (UGT) unigenes were identified, some of which might be involved in SG biosynthesis. The expression patterns of eight of these genes were further confirmed by RT-QPCR."},
+	{"value":"RNA-seq analysis identified candidate genes encoding enzymes responsible for the biosynthesis of SGs in Stevia, a non-model plant without a reference genome. The transcriptome data from this study yielded new insights into the process of SG accumulation in Stevia. Our results demonstrate that RNA-Seq can be successfully used for gene identification and transcript profiling in a non-model species."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Glucosylation of Steviol and Steviol-Glucosides in Extracts from Stevia rebaudiana Bertoni."},
+	"pageStart":152,
+	"volume":1,
+	"pageEnd":6,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM16667943",
+	"identifier":"PM16667943",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Plant physiology"},
+	"ISSN":{"value":"0032-0889"}
+	}
+	},
+	"issued":"2010-06-29",
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1077498",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Shibata, H, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sonoke, S, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ochiai, H, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Nishihashi, H, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yamada, M, M"
+	}
+	}
+	],
+	"abstract":{"value":"To evaluate and characterize stevioside biosynthetic pathway in Stevia rebaudiana Bertoni cv Houten, two enzyme fractions that catalyze glucosylation of steviol (ent-13-hydroxy kaur-16-en-19-oic acid) and steviol-glucosides (steviol-13-O-glucopyranoside, steviolbioside and stevioside), utilizing UDP-glucose as the glucose donor, were prepared from the soluble extracts of S. rebaudiana leaves. Enzyme fraction I, passed through DEAE-Toyopearl equilibrated with 50 millimolar K-phosphate pH 7.5, catalyzed the glucosylation to steviol and 19-O-methylsteviol, but not to iso-steviol and 13-O-methylsteviol, indicating that 13-hydroxyl group of the steviol skeleton is glucosylated first from UDP-glucose to produce steviol-13-O-glucopyranoside. Enzyme fraction II, eluted from the DEAE-Toyopearl column with 0.15 molar KCI, catalyzed the glucose transfer from UDP-glucose to steviol-13-O-glucopyranoside, steviolbioside and stevioside, but not to rubusoside (13, 19-di-O-glucopyranoside) and rebaudioside A. The reaction products glucosylated from steviol-13-O-glucopyranoside, steviolbioside and stevioside were identified to be steviolbioside, stevioside and rebaudioside A, respectively. These results indicate that in the steviol-glucoside biosynthetic pathway, steviol-13-O-glucopyranoside produced from the steviol glucosylation is successively glucosylated to steviolbioside, then to stevioside producing rebaudioside A."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

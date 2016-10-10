@@ -1,0 +1,35 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Transcript Quantification of Genes Involved in Steviol Glycoside Biosynthesis in Stevia rebaudiana Bertoni by Real-Time Polymerase Chain Reaction (RT-PCR)."},
+	"pageStart":289,
+	"pageEnd":301,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM27108325",
+	"identifier":"PM27108325",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Methods in molecular biology (Clifton, N.J.)"},
+	"ISSN":{"value":"1940-6029"}
+	}
+	},
+	"issued":"2016-04-25",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Modi, Arpan, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kumar, Nitish, N"
+	}
+	},
+	{
+		"Person":
+		{"name":"Narayanan, Subhash, S"
+	}
+	}
+	],
+	"abstract":{"value":"Stevia (Stevia rebaudiana Bertoni) is a medicinal plant having sweet, diterpenoid glycosides known as steviol glycosides which are 200-300 times sweeter than sucrose (0.4 % solution). They are synthesized mainly in the leaves via plastid localized 2-C-methyl-D-erythrose-4-phosphate pathway (MEP pathway). Fifteen genes are involved in the formation of these glycosides. In the present protocol, a method for the quantification of transcripts of these genes is shown. The work involves RNA extraction and cDNA preparation, and therefore, procedures for the confirmation of DNA-free cDNA preparation have also been illustrated. Moreover, details of plant treatments are not mentioned as this protocol may apply to relative gene expression profile in any medicinal plant with any treatment. The treatments are numbered as T0 (Control), T1, T2, T3, and T4."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

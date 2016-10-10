@@ -1,0 +1,74 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"A double-blind placebo-controlled study of the effectiveness and tolerability of oral stevioside in human hypertension."},
+	"subject":[
+		{"value":"Adult"},
+	{"value":"Aged"},
+	{"value":"Antihypertensive Agents"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Double-Blind Method"},
+	{"value":"Female"},
+	{"value":"Glucosides"},
+	{"value":"Humans"},
+	{"value":"Hypertension"},
+	{"value":"Male"},
+	{"value":"Middle Aged"},
+	{"value":"Patient Compliance"},
+	{"value":"Quality of Life"},
+	{"value":"Terpenes"}
+	],
+	"pageStart":215,
+	"volume":3,
+	"pageEnd":20,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM10971305",
+	"identifier":"PM10971305",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"British journal of clinical pharmacology"},
+	"ISSN":{"value":"0306-5251"}
+	}
+	},
+	"issued":"2000-11-07",
+	"dateSubmitted":2016,
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2014988",
+	"creator":[
+		{
+		"Person":
+		{"name":"Chan, P, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tomlinson, B, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chen, Y J, YJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Liu, J C, JC"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hsieh, M H, MH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Cheng, J T, JT"
+	}
+	}
+	],
+	"abstract":[
+		{"value":"Stevioside is a natural plant glycoside isolated from the plant Stevia rebaudiana which has been commercialized as a sweetener in Japan for more than 20 years. Previous animal studies have shown that stevioside has an antihypertensive effect. This study was to designed to evaluate the effect of stevioside in human hypertension."},
+	{"value":"A multicentre, randomized, double-blind, placebo-controlled study was undertaken. This study group consisted of 106 Chinese hypertensive subjects with diastolic blood pressure between 95 and 110 mmHg and ages ranging from 28 to 75 years with 60 subjects (men 34, women 26; mean +/- s.d., 54.1+/-3.8 years) allocated to active treatment and 46 (men 19, women 27; mean +/- s.d., 53.7+/-4.1 years) to placebo treatment. Each subject was given capsules containing stevioside (250 mg) or placebo thrice daily and followed-up at monthly intervals for 1 year."},
+	{"value":"After 3 months, the systolic and diastolic blood pressure of the stevioside group decreased significantly (systolic: 166.0+/-9.4-152.6+/-6.8 mmHg; diastolic: 104.7 +/- 5.2-90.3+/-3.6 mmHg, P<0.05), and the effect persisted during the whole year. Blood biochemistry parameters including lipid and glucose showed no significant changes. No significant adverse effect was observed and quality of life assessment showed no deterioration."},
+	{"value":"This study shows that oral stevioside is a well tolerated and effective modality that may be considered as an alternative or supplementary therapy for patients with hypertension."}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

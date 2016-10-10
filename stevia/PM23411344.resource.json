@@ -1,0 +1,52 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Transglycosylation of stevioside to improve the edulcorant quality by lower substitution using cornstarch hydrolyzate and CGTase."},
+	"subject":[
+		{"value":"Bacillales"},
+	{"value":"Bacterial Proteins"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Glucosyltransferases"},
+	{"value":"Glycosylation"},
+	{"value":"Hydrolysis"},
+	{"value":"Starch"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":2064,
+	"volume":"2-3",
+	"pageEnd":9,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM23411344",
+	"identifier":"PM23411344",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Food chemistry"},
+	"ISSN":{"value":"0308-8146"}
+	}
+	},
+	"issued":"2013-02-15",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Li, Sha, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Li, Wei, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"Xiao, Qiu-yan, QY"
+	}
+	},
+	{
+		"Person":
+		{"name":"Xia, Yongmei, Y"
+	}
+	}
+	],
+	"abstract":{"value":"Stevioside is an abundant sweetener extracted from Stevia rebaudiana leaf with a bitter aftertaste. Enzymatic transglycosylation of stevioside is a solution to improve the edulcorant quality of stevioside, but highly derivatised stevioside coming with high conversion of stevioside is undesired. In this experiment, the transglycosylation of stevioside was investigated by using a commercial cyclodextrin glucanotransferase and cornstarch hydrolyzate. With controlled parameters, the product was mainly composed of mono- and di-glucosylated stevioside while the highest stevioside conversion reached 77.11%. Neither kinetic nor thermodynamic factor stimulated the formation of high substituted steviosides. The simultaneous hydrolysis in the reaction might inhibit the yield of highly substituted steviosides."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

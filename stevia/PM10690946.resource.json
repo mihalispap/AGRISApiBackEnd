@@ -1,0 +1,62 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Stevioside acts directly on pancreatic beta cells to secrete insulin: actions independent of cyclic adenosine monophosphate and adenosine triphosphate-sensitive K+-channel activity."},
+	"subject":[
+		{"value":"ATP-Binding Cassette Transporters"},
+	{"value":"Animals"},
+	{"value":"Calcium"},
+	{"value":"Cyclic AMP"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Electrophysiology"},
+	{"value":"Glucose"},
+	{"value":"Glucosides"},
+	{"value":"In Vitro Techniques"},
+	{"value":"Insulin"},
+	{"value":"Islets of Langerhans"},
+	{"value":"KATP Channels"},
+	{"value":"Male"},
+	{"value":"Mice"},
+	{"value":"Patch-Clamp Techniques"},
+	{"value":"Potassium Channels"},
+	{"value":"Potassium Channels, Inwardly Rectifying"},
+	{"value":"Terpenes"}
+	],
+	"pageStart":208,
+	"volume":2,
+	"pageEnd":14,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM10690946",
+	"identifier":"PM10690946",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Metabolism: clinical and experimental"},
+	"ISSN":{"value":"0026-0495"}
+	}
+	},
+	"issued":"2000-03-06",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Jeppesen, P B, PB"
+	}
+	},
+	{
+		"Person":
+		{"name":"Gregersen, S, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Poulsen, C R, CR"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hermansen, K, K"
+	}
+	}
+	],
+	"abstract":{"value":"The natural sweetener stevioside, which is found in the plant Stevia rebaudiana Bertoni, has been used for many years in the treatment of diabetes among Indians in Paraguay and Brazil. However, the mechanism for the blood glucose-lowering effect remains unknown. To elucidate the impact of stevioside and its aglucon steviol on insulin release from normal mouse islets and the beta-cell line INS-1 were used. Both stevioside and steviol (1 nmol/L to 1 mmol/L) dose-dependently enhanced insulin secretion from incubated mouse islets in the presence of 16.7 mmol/L glucose (P < .05). The insulinotropic effects of stevioside and steviol were critically dependent on the prevailing glucose concentration, ie, stevioside (1 mmol/L) and steviol (1 micromol/L) only potentiated insulin secretion at or above 8.3 mmol/L glucose (P < .05). Interestingly, the insulinotropic effects of both stevioside and steviol were preserved in the absence of extracellular Ca2+. During perifusion of islets, stevioside (1 mmol/L) and steviol (1 micromol/L) had a long-lasting and apparently reversible insulinotropic effect in the presence of 16.7 mmol/L glucose (P < .05). To determine if stevioside and steviol act directly on beta cells, the effects on INS-1 cells were also investigated. Stevioside and steviol both potentiated insulin secretion from INS-1 cells (P < .05). Neither stevioside (1 to 100 micromol/L) nor steviol (10 nmol/L to 10 micromol/L) influenced the plasma membrane K+ adenosine triphosphate ((K+)ATP)-sensitive channel activity, nor did they alter cyclic adenosine monophosphate (cAMP) levels in islets. In conclusion, stevioside and steviol stimulate insulin secretion via a direct action on beta cells. The results indicate that the compounds may have a potential role as antihyperglycemic agents in the treatment of type 2 diabetes mellitus."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

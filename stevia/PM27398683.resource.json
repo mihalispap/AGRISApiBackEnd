@@ -1,0 +1,53 @@
+{"resource": {
+	"issued":"2016-7-11",
+	"dateSubmitted":2016,
+	"language":"ENG",
+	"title":{"value":"Joint Influence of Protein Supplements, Soft Drinks and Extreme Physical Activity on the Development of Acute Renal Failure and Hypokalaemia."},
+	"creator":[
+		{
+		"Person":
+		{"name":"Djordjevic, S, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kitic, D, D"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kostic, M, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Apostolovic, B, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Brankovic, S, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ciric, I M, IM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Velickovic-Radovanovic, R, R"
+	}
+	}
+	],
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM27398683",
+	"identifier":"PM27398683",
+	"type":"Journal Article",
+	"abstract":{"value":"We present a case of a 33-year old man who complained of weakness, fever and decreased urinating. A personal history revealed a consumption of creatine, protein supplements, soft drinks containing caffeine and stevia, and extreme physical activity which included lifting of heavy weights. The patient developed anuria, uraemia, fatigue, rhabdomyolysis and paradoxical hypokalaemia. After the patient had seven successive dialysis treatments, normal kidney function was restored. The report presents the first case of acute renal failure followed by hypokalaemia due to the combined action of the excessive consumption of supplements, soft drinks with stevia and caffeine, and extreme physical activity."},
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"The West Indian medical journal"},
+	"ISSN":{"value":"0043-3144"}
+	}
+	}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

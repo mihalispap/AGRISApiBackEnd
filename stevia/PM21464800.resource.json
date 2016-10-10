@@ -1,0 +1,41 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"A new diterpene glycoside from Stevia rebaudiana."},
+	"subject":[
+		{"value":"Chromatography, High Pressure Liquid"},
+	{"value":"Diterpenes"},
+	{"value":"Glycosides"},
+	{"value":"Hydrolysis"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Spectrometry, Mass, Electrospray Ionization"},
+	{"value":"Stevia"},
+	{"value":"Tandem Mass Spectrometry"}
+	],
+	"pageStart":2937,
+	"volume":4,
+	"pageEnd":43,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM21464800",
+	"identifier":"PM21464800",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Molecules (Basel, Switzerland)"},
+	"ISSN":{"value":"1420-3049"}
+	}
+	},
+	"issued":"2011-04-05",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Chaturvedula, Venkata Sai Prakash, VS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Prakash, Indra, I"
+	}
+	}
+	],
+	"abstract":{"value":"From the commercial extract of the leaves of Stevia rebaudiana, a new diterpene glycoside was isolated besides the known steviol glycosides including stevioside, rebaudiosides A-F, rubusoside and dulcoside A. The new compound was identified as 13-[(2-O-β-D-glucopyranosyl-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl)oxy] ent-kaur-16-en-19-oic acid-(2-O-α-L-rhamnopyranosyl-β-D-glucopyranosyl) ester (1) on the basis of extensive spectroscopic (NMR and MS) and chemical studies."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

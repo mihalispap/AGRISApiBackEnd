@@ -1,0 +1,45 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"A functional (E)-4-hydroxy-3-methylbut-2-enyl diphosphate reductase exhibits diurnal regulation of expression in Stevia rebaudiana (Bertoni)."},
+	"subject":[
+		{"value":"Circadian Rhythm"},
+	{"value":"Electrophoretic Mobility Shift Assay"},
+	{"value":"Gene Expression"},
+	{"value":"Gene Expression Regulation, Enzymologic"},
+	{"value":"Gene Expression Regulation, Plant"},
+	{"value":"Genetic Complementation Test"},
+	{"value":"Oxidoreductases"},
+	{"value":"Phylogeny"},
+	{"value":"Plant Leaves"},
+	{"value":"Promoter Regions, Genetic"},
+	{"value":"Response Elements"},
+	{"value":"Stevia"}
+	],
+	"pageStart":332,
+	"volume":1,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM23800667",
+	"identifier":"PM23800667",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Gene"},
+	"ISSN":{"value":"1879-0038"}
+	}
+	},
+	"issued":"2013-08-06",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Kumar, Hitesh, H"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kumar, Sanjay, S"
+	}
+	}
+	],
+	"abstract":{"value":"The leaves of stevia [Stevia rebaudiana (Bertoni)] are a rich source of steviol glycosides that are used as non-calorific sweetener in many countries around the world. Steviol moiety of steviol glycosides is synthesized via plastidial 2C-methyl-D-erythritol 4-phosphate pathway, where (E)-4-hydroxy-3-methylbut-2-enyl diphosphate reductase (HDR) is the key enzyme. HDR catalyzes the simultaneous conversion of (E)-4-hydroxy-3-methylbut-2-enyl diphosphate into five carbon isoprenoid units, isopentenyl diphosphate and dimethylallyl diphosphate. Stevia HDR (SrHDR) successfully rescued HDR lethal mutant strain MG1655 ara<>ispH upon genetic complementation, suggesting SrHDR to encode a functional protein. The gene exhibited diurnal variation in expression. To identify the possible regulatory elements, upstream region of the gene was cloned and putative cis-acting elements were detected by in silico analysis. Electrophoretic mobility shift assay, using a putative light responsive element GATA showed the binding of nuclear proteins (NP) isolated from leaves during light period of the day, but not with the NP from leaves during the dark period. Data suggested the involvement of GATA box in light mediated gene regulation of SrHDR in stevia."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

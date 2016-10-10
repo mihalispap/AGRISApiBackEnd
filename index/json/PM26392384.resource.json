@@ -1,0 +1,55 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Metabolic engineering of the Stevia rebaudiana ent-kaurene biosynthetic pathway in recombinant Escherichia coli."},
+	"subject":[
+		{"value":"Diterpenes, Kaurane"},
+	{"value":"Escherichia coli"},
+	{"value":"Fermentation"},
+	{"value":"Metabolic Engineering"},
+	{"value":"Metabolic Networks and Pathways"},
+	{"value":"Plant Proteins"},
+	{"value":"Recombinant Proteins"},
+	{"value":"Stevia"}
+	],
+	"pageStart":95,
+	"pageEnd":102,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26392384",
+	"identifier":"PM26392384",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of biotechnology"},
+	"ISSN":{"value":"1873-4863"}
+	}
+	},
+	"issued":"2015-11-14",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Kong, Min Kyung, MK"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kang, Hyun-Jun, HJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kim, Jin Ho, JH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Oh, Soon Hwan, SH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Lee, Pyung Cheon, PC"
+	}
+	}
+	],
+	"abstract":{"value":"The ent-kaurene is a dedicated precursor pool and is responsible for synthesizing natural sweeteners such as steviol glycosides. In this study, to produce ent-kaurene in Escherichia coli, we modularly constructed and expressed two ent-kaurene genes encoding ent-copalyl diphosphate synthase (CPPS) and ent-kaurene synthase (KS) from Stevia rebaudiana known as a typical plant producing steviol glycoside. The CPPS and KS from S. rebaudiana were functionally expressed in a heterologous host E. coli. Furthermore, in order to enhance ent-kaurene production in E. coli, six geranylgeranyl diphosphate synthases (GGPPS) from various microorganisms and eight strains of E. coli as host were compared by measuring ent-kaurene production. The highest ent-kaurene production of approximately 41.1mg/L was demonstrated in E. coli strain MG1655 co-expressing synthetic CPPS-KS module and GGPPS from Rhodobacter sphaeroides. The ent-kaurene production was further increased up to 179.6 mg/L by overexpression of the three key enzymes for isoprenoid precursor, 1-deoxyxylulose-5-phosphate synthase (DXS), farnesyl diphosphate synthase (IspA) and isopentenyl diphosphate isomerase (IDI) from E. coli. Finally, the highest titer of ent-kaurene (578 mg/L) with a specific yield of ent-kaurene of 143.5mg/g dry cell weight was obtained by culturing E. coli strain MG1655 co-expressing the ent-kaurene module, DXS, IDI and IspA in 1L bioreactor containing 20 g/L glycerol."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

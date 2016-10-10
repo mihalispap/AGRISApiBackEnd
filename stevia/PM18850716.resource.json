@@ -1,0 +1,55 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Biosynthesis of baccharis oxide, a triterpene with a 3,10-oxide bridge in the A-ring."},
+	"subject":[
+		{"value":"Cyclization"},
+	{"value":"Epoxy Compounds"},
+	{"value":"Molecular Sequence Data"},
+	{"value":"Molecular Structure"},
+	{"value":"Sequence Alignment"},
+	{"value":"Sequence Homology, Amino Acid"},
+	{"value":"Triterpenes"}
+	],
+	"pageStart":5071,
+	"volume":21,
+	"pageEnd":4,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM18850716",
+	"identifier":"PM18850716",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Organic letters"},
+	"ISSN":{"value":"1523-7052"}
+	}
+	},
+	"issued":"2008-10-31",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Shibuya, Masaaki, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sagara, Aya, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Saitoh, Ai, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kushiro, Tetsuo, T"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ebizuka, Yutaka, Y"
+	}
+	}
+	],
+	"abstract":{"value":"A new oxidosqualene cyclase (OSC) cDNA was cloned from the roots of Stevia rebaudiana. Functional expression in yeast and spectral analyses of the products established that the obtained OSC yields baccharis oxide as the major product. This is the first identification of an OSC yielding baccharis oxide. This result clearly demonstrated that baccharis oxide, a baccharane triterpene with a unique 3,10-oxide bridge in the A-ring, is a direct product from oxidosqualene by an OSC."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

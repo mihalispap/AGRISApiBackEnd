@@ -1,0 +1,63 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"In vitro metabolism of rebaudioside E under anaerobic conditions: Comparison with rebaudioside A."},
+	"subject":[
+		{"value":"Anaerobiosis"},
+	{"value":"Asian Continental Ancestry Group"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"European Continental Ancestry Group"},
+	{"value":"Feces"},
+	{"value":"Female"},
+	{"value":"Humans"},
+	{"value":"Hydrolysis"},
+	{"value":"Male"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":646,
+	"volume":3,
+	"pageEnd":57,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26003514",
+	"identifier":"PM26003514",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Regulatory toxicology and pharmacology : RTP"},
+	"ISSN":{"value":"1096-0295"}
+	}
+	},
+	"issued":"2015-08-03",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Purkayastha, Sidd, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bhusari, Sachin, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Pugh, George, G"
+	}
+	},
+	{
+		"Person":
+		{"name":"Teng, Xiaowei, X"
+	}
+	},
+	{
+		"Person":
+		{"name":"Kwok, David, D"
+	}
+	},
+	{
+		"Person":
+		{"name":"Tarka, Stanley M, SM"
+	}
+	}
+	],
+	"abstract":{"value":"The hydrolysis of the steviol glycosides rebaudioside (Reb) A and E, as well as steviolbioside (a metabolic intermediate) to steviol was evaluated in vitro using human fecal homogenates from healthy Caucasian and Asian donors. Incubation of each of the Rebs in both groups resulted in a rapid hydrolysis to steviol. Metabolism of 0.2mg/mL sample was complete within 24h, with the majority occurring within the first 16 h. There were no clear differences in the rate or extent of metabolism of Reb E relative to the comparative control Reb A. The hydrolysis of samples containing 2.0mg/mL of steviol glycosides Reb A and Reb E tended to take slightly longer than 0.2mg/mL samples. Herein, we report for the first time that there were no apparent gender or ethnicity differences in the rate of metabolism of any of the Rebs, regardless of the concentrations tested. Steviolbioside, an intermediate in the hydrolysis of Reb E to steviol was also found to be rapidly degraded to steviol. These results demonstrate Reb E is metabolized to steviol in the same manner as Reb A. These data support the use of toxicology data available on steviol, and on steviol glycosides metabolized to steviol (i.e., Reb A) to underpin the safety of Reb E."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,64 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Isolation and structure elucidation of rebaudioside D2 from bioconversion reaction of rebaudioside A to rebaudioside D."},
+	"subject":[
+		{"value":"Diterpenes, Kaurane"},
+	{"value":"Glycosides"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Molecular Structure"},
+	{"value":"Plant Extracts"},
+	{"value":"Stevia"}
+	],
+	"pageStart":1135,
+	"volume":8,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM25233591",
+	"identifier":"PM25233591",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Natural product communications"},
+	"ISSN":{"value":"1934-578X"}
+	}
+	},
+	"issued":"2014-09-19",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Prakash, Indra, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bunders, Cynthia, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Devkota, Krishna P, KP"
+	}
+	},
+	{
+		"Person":
+		{"name":"Charan, Romila D, RD"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ramirez, Catherine, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Parikh, Maunik, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Markosyan, Avetik, A"
+	}
+	}
+	],
+	"abstract":{"value":"We report the isolation and complete structure of an isomer of rebaudioside D, known as rebaudioside D2. This novel steviol glycoside was isolated from a bioconversion reaction of rebaudioside A to rebaudioside D. Rebaudioside D2 possesses a relatively rare 1 --> 6 sugar linkage, which was discovered by extensive analysis of NMR (1H, 13C, COSY, HSQC-DEPT, HMBC, 1D TOCSY and NOESY) and mass spectral data."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

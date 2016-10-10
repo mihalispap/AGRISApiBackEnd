@@ -1,0 +1,72 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Isosteviol acts on potassium channels to relax isolated aortic strips of Wistar rat."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Aorta"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Endothelium, Vascular"},
+	{"value":"Guanylate Cyclase"},
+	{"value":"In Vitro Techniques"},
+	{"value":"Male"},
+	{"value":"Molecular Structure"},
+	{"value":"Potassium Channel Blockers"},
+	{"value":"Potassium Channels"},
+	{"value":"Rats"},
+	{"value":"Rats, Wistar"},
+	{"value":"Vasodilation"}
+	],
+	"pageStart":2379,
+	"volume":19,
+	"pageEnd":87,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM14998715",
+	"identifier":"PM14998715",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Life sciences"},
+	"ISSN":{"value":"0024-3205"}
+	}
+	},
+	"issued":"2004-03-04",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Wong, Kar-Lok, KL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chan, Paul, P"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yang, Hung-Yu, HY"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hsu, Feng-Lin, FL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Liu, I-Min, IM"
+	}
+	},
+	{
+		"Person":
+		{"name":"Cheng, Yu-Wan, YW"
+	}
+	},
+	{
+		"Person":
+		{"name":"Cheng, Juei-Tang, JT"
+	}
+	}
+	],
+	"abstract":{"value":"Isosteviol is a derivative of stevioside, a constituent of Stevia rebaudiana, which is commonly used as a noncaloric sugar substitute in Japan and Brazil. In the present study, the role of potassium channels in the vasodilator effect of isosteviol was investigated using potassium channel blockers on isosteviol-induced relaxation of isolated aortic rings prepared from Wistar rats. Isosteviol dose-dependently relaxed the vasopressin (10(-8) M)-induced vasoconstriction in isolated aortic rings with or without endothelium. However, in the presence of potassium chloride (3x10(-2) M), the vasodilator effect of isosteviol on arterial strips disappeared. Only the inhibitors specific for the ATP-sensitive potassium (K(ATP)) channel or small conductance calcium-activated potassium (SK(Ca)) channel inhibited the vasodilator effect of isosteviol in isolated aortic rings contracted with 10(-8) M vasopressin. Also; since the isosteviol-induced relaxation was unchanged by methylene blue, a role of nitric oxide and/or endothelium in the vasodilatation produced by isosteviol could be ruled out. The obtained results indicated that vasodilatation induced by isosteviol is related to the opening of SK(Ca) and K(ATP) channels."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

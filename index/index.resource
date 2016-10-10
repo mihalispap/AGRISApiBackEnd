@@ -142,7 +142,18 @@
 				{
 					"properties":
 					{
-						"value":{"type":"string"}
+						"resource":
+						{
+							"type":"string",
+							"fields":
+							{
+								"raw":
+								{
+									"type":"string",
+									"index":"not_analyzed"
+								}
+							}
+						}
 					}
 				},
 				"subject":

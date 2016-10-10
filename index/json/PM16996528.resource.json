@@ -1,0 +1,43 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Characterisation of Stevia rebaudiana by comprehensive two-dimensional liquid chromatography time-of-flight mass spectrometry."},
+	"subject":[
+		{"value":"Chromatography, Liquid"},
+	{"value":"Mass Spectrometry"},
+	{"value":"Molecular Structure"},
+	{"value":"Plant Extracts"},
+	{"value":"Stevia"}
+	],
+	"pageStart":85,
+	"volume":"1-2",
+	"pageEnd":92,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM16996528",
+	"identifier":"PM16996528",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of chromatography. A"},
+	"ISSN":{"value":"0021-9673"}
+	}
+	},
+	"issued":"2007-05-09",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Pól, Jaroslav, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hohnová, Barbora, B"
+	}
+	},
+	{
+		"Person":
+		{"name":"Hyötyläinen, Tuulia, T"
+	}
+	}
+	],
+	"abstract":{"value":"Comprehensive two-dimensional liquid chromatography (LC x LC) connected on-line to electrospray ionisation time-of-flight mass spectrometry (ESI-TOF-MS) was employed for analysis of aqueous extract of Stevia rebaudiana. Different combinations of strong cation-exchange (SCX), amino (NH2), and octadecyl siloxane (C18) stationary phases were tested in the separation of all nine known sweet Stevia glycosides. A combination of C18 as the first-dimension column and NH2 as the second-dimension column fully separated all the glycosides from the matrix. The method proved to be quantitative and repeatable. The limit of detection (S/N=3) for stevioside, a widely used natural sweetener, was 43.4 ng/g in dry leaves. The RSD for retention times was <0.1% and that of peak areas 4.5%."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

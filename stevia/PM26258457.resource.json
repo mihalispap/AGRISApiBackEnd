@@ -1,0 +1,75 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Computer-Aided Identification of Anticonvulsant Effect of Natural Nonnutritive Sweeteners Stevioside and Rebaudioside A."},
+	"subject":[
+		{"value":"Algorithms"},
+	{"value":"Animals"},
+	{"value":"Anticonvulsants"},
+	{"value":"Computational Biology"},
+	{"value":"Computer Simulation"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Dose-Response Relationship, Drug"},
+	{"value":"Electroshock"},
+	{"value":"Glucosides"},
+	{"value":"High-Throughput Screening Assays"},
+	{"value":"Mice"},
+	{"value":"Models, Molecular"},
+	{"value":"Non-Nutritive Sweeteners"},
+	{"value":"Seizures"},
+	{"value":"Stevia"},
+	{"value":"Structure-Activity Relationship"}
+	],
+	"pageStart":313,
+	"volume":6,
+	"pageEnd":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM26258457",
+	"identifier":"PM26258457",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Assay and drug development technologies"},
+	"ISSN":{"value":"1557-8127"}
+	}
+	},
+	"issued":"2015-08-11",
+	"dateSubmitted":2016,
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4533089",
+	"creator":[
+		{
+		"Person":
+		{"name":"Di Ianni, Mauricio E, ME"
+	}
+	},
+	{
+		"Person":
+		{"name":"Del Valle, María E, ME"
+	}
+	},
+	{
+		"Person":
+		{"name":"Enrique, Andrea V, AV"
+	}
+	},
+	{
+		"Person":
+		{"name":"Rosella, María A, MA"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bruno, Fiorella, F"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bruno-Blanch, Luis E, LE"
+	}
+	},
+	{
+		"Person":
+		{"name":"Talevi, Alan, A"
+	}
+	}
+	],
+	"abstract":{"value":"Steviol glycosides are natural constituents of Stevia rebaudiana (Bert.) Bert. (Asteraceae) that have recently gained worldwide approval as nonnutritive sweeteners by the Joint Food and Agriculture Organization/World Organization Expert Committee on Food Additives. Cheminformatic tools suggested that the aglycone steviol and several of its phase I metabolites were predicted as potential anticonvulsant agents effective in the seizure animal model maximal electroshock seizure (MES) test. Thus, aqueous infusion from S. rebaudiana was tested in the MES test (mice, intraperitoneal administration), confirming dose-dependent anticonvulsant effect. Afterward, isolated stevioside and rebaudioside A were tested in the MES test, with positive results. Though drug repositioning most often focuses on known therapeutics, this article illustrates the possibilities of this strategy to find new functionalities and therapeutic indications for food constituents and natural products."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

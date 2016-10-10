@@ -1,0 +1,42 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Selecting single-copy nuclear genes for plant phylogenetics: a preliminary analysis for the Senecioneae (Asteraceae)."},
+	"subject":[
+		{"value":"Asteraceae"},
+	{"value":"Cell Nucleus"},
+	{"value":"Cloning, Molecular"},
+	{"value":"Phylogeny"}
+	],
+	"pageStart":276,
+	"volume":3,
+	"pageEnd":91,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM18305978",
+	"identifier":"PM18305978",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of molecular evolution"},
+	"ISSN":{"value":"0022-2844"}
+	}
+	},
+	"issued":"2008-05-06",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Alvarez, Inés, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Costa, Andrea, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"Feliner, Gonzalo Nieto, GN"
+	}
+	}
+	],
+	"abstract":{"value":"Compared to organelle genomes, the nuclear genome comprises a vast reservoir of genes that potentially harbor phylogenetic signal. Despite the valuable data that sequencing projects of model systems offer, relatively few single-copy nuclear genes are being used in systematics. In part this is due to the challenges inherent in generating orthologous sequences, a problem that is ameliorated when the gene family in question has been characterized in related organisms. Here we illustrate the utility of diverse sequence databases within the Asteraceae as a framework for developing single-copy nuclear genes useful for inferring phylogenies in the tribe Senecioneae. We highlight the process of searching for informative genes by using data from Helianthus annuus, Lactuca sativa, Stevia rebaudiana, Zinnia elegans, and Gerbera cultivar. Emerging from this process were several candidate genes; two of these were used for a phylogenetic assessment of the Senecioneae and were compared to other genes previously used in Asteraceae phylogenies. Based on the preliminary sampling used, one of the genes selected during the searching process was more useful than the two previously used in Asteraceae. The search strategy described is valid for any group of plants but its efficiency is dependent on the phylogenetic proximity of the study group to the species represented in sequence databases."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

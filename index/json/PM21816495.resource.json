@@ -1,0 +1,43 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Enzyme-assisted extraction of bioactives from plants."},
+	"subject":[
+		{"value":"Biotechnology"},
+	{"value":"Enzymes"},
+	{"value":"Food Industry"},
+	{"value":"Plant Extracts"},
+	{"value":"Stevia"}
+	],
+	"pageStart":37,
+	"volume":1,
+	"pageEnd":44,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM21816495",
+	"identifier":"PM21816495",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Trends in biotechnology"},
+	"ISSN":{"value":"1879-3096"}
+	}
+	},
+	"issued":"2011-12-27",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Puri, Munish, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Sharma, Deepika, D"
+	}
+	},
+	{
+		"Person":
+		{"name":"Barrow, Colin J, CJ"
+	}
+	}
+	],
+	"abstract":{"value":"Demand for new and novel natural compounds has intensified the development of plant-derived compounds known as bioactives that either promote health or are toxic when ingested. Enhanced release of these bioactives from plant cells by cell disruption and extraction through the cell wall can be optimized using enzyme preparations either alone or in mixtures. However, the biotechnological application of enzymes is not currently exploited to its maximum potential within the food industry. Here, we discuss the use of environmentally friendly enzyme-assisted extraction of bioactive compounds from plant sources, particularly for food and nutraceutical purposes. In particular, we discuss an enzyme-assisted extraction of stevioside from Stevia rebaudiana, as an example of a process of potential value to the food industry."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

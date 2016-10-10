@@ -1,0 +1,31 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Tandem mass spectrometric fragmentation patterns of known and new steviol glycosides with structure proposals."},
+	"subject":[
+		{"value":"Diterpenes, Kaurane"},
+	{"value":"Glycosides"},
+	{"value":"Plant Extracts"},
+	{"value":"Stevia"},
+	{"value":"Tandem Mass Spectrometry"}
+	],
+	"pageStart":1575,
+	"volume":11,
+	"pageEnd":82,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM21594932",
+	"identifier":"PM21594932",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Rapid communications in mass spectrometry : RCM"},
+	"ISSN":{"value":"1097-0231"}
+	}
+	},
+	"issued":"2011-05-19",
+	"dateSubmitted":2016,
+	"creator":
+		{"Person":
+		{"name":"Zimmermann, Benno F, BF"
+	}
+	},
+	"abstract":{"value":"Stevia rebaudiana contains several steviol glycosides that have a sweet flavor. They are up to 450 times sweeter than sucrose, but some have an undesirable aftertaste. Up to 2010, ten different steviol glycosides have been described from the leaves or purified extracts of S. rebaudiana. In this paper, the tandem mass spectrometric fragmentation patterns of these ten compounds are compiled, along with a scheme for structural elucidation. This scheme is then applied to 12 steviol glycosides that have not yet been described. The proposed structures of five steviol glycosides have been confirmed by other authors."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

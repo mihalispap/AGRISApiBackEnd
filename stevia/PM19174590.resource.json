@@ -1,0 +1,70 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Gas-phase intramolecular elimination reaction studies of steviol glycosides in positive electrospray and tandem mass spectrometry."},
+	"subject":[
+		{"value":"Carbohydrate Sequence"},
+	{"value":"Deuterium"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Gases"},
+	{"value":"Glycosides"},
+	{"value":"Glycosylation"},
+	{"value":"Molecular Sequence Data"},
+	{"value":"Molecular Structure"},
+	{"value":"Spectrometry, Mass, Electrospray Ionization"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"},
+	{"value":"Tandem Mass Spectrometry"}
+	],
+	"pageStart":11,
+	"volume":1,
+	"pageEnd":21,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM19174590",
+	"identifier":"PM19174590",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"European journal of mass spectrometry (Chichester, England)"},
+	"ISSN":{"value":"1469-0667"}
+	}
+	},
+	"issued":"2009-01-28",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Upreti, Mani, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Clos, John F, JF"
+	}
+	},
+	{
+		"Person":
+		{"name":"Somayajula, Kasi V, KV"
+	}
+	},
+	{
+		"Person":
+		{"name":"Milanowski, Dennis J, DJ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Mocek, Ulla, U"
+	}
+	},
+	{
+		"Person":
+		{"name":"Dubois, Grant E, GE"
+	}
+	},
+	{
+		"Person":
+		{"name":"Prakash, Indra, I"
+	}
+	}
+	],
+	"abstract":{"value":"This paper reports the first study of the gas-phase intramolecular elimination reaction of steviol glycosides in positive electrospray mass spectrometry. The observed glycosylated product ions are proposed to be formed via an intramolecular elimination of sugar units from the parent molecule ion. It was further proven by MS/MS studies and deuterium labeling experiments with one of the steviol glycosides, rebaudioside A. These mass spectrometric results confirmed that the new glycosylated product ions observed are most likely formed by the combination of glucose moieties (Glu) II-IV and Glu I via a gas-phase intramolecular elimination reaction."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

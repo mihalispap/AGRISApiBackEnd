@@ -1,0 +1,39 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Rebaudioside A and cortisol metabolism: sweet news for consumers."},
+	"pageStart":276,
+	"subject":[
+		{"value":"11-beta-Hydroxysteroid Dehydrogenase Type 1"},
+	{"value":"11-beta-Hydroxysteroid Dehydrogenase Type 2"},
+	{"value":"Cortisone"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Humans"},
+	{"value":"Hydrocortisone"},
+	{"value":"Stevia"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageEnd":7,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24589773",
+	"type":"Other",
+	"identifier":"PM24589773",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Clinica chimica acta; international journal of clinical chemistry"},
+	"ISSN":{"value":"1873-3492"}
+	}
+	},
+	"issued":"2014-04-07",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Corcuff, Jean-Benoît, JB"
+	}
+	},
+	{
+		"Person":
+		{"name":"Brossaud, Julie, J"
+	}
+	}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

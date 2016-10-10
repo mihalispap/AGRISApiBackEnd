@@ -1,0 +1,55 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Specific immunomodulatory and secretory activities of stevioside and steviol in intestinal cells."},
+	"subject":[
+		{"value":"Caco-2 Cells"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"HT29 Cells"},
+	{"value":"Humans"},
+	{"value":"I-kappa B Proteins"},
+	{"value":"Interleukin-8"},
+	{"value":"Intestines"},
+	{"value":"NF-kappa B"},
+	{"value":"Signal Transduction"},
+	{"value":"Sweetening Agents"},
+	{"value":"Tumor Necrosis Factor-alpha"}
+	],
+	"pageStart":3777,
+	"volume":10,
+	"pageEnd":84,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM18433103",
+	"identifier":"PM18433103",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of agricultural and food chemistry"},
+	"ISSN":{"value":"0021-8561"}
+	}
+	},
+	"issued":"2008-06-17",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Boonkaewwan, Chaiwat, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Ao, Mei, M"
+	}
+	},
+	{
+		"Person":
+		{"name":"Toskulkao, Chaivat, C"
+	}
+	},
+	{
+		"Person":
+		{"name":"Rao, Mrinalini C, MC"
+	}
+	}
+	],
+	"abstract":{"value":"Stevioside, isolated from Stevia rebaudiana, is a commercial sweetener. It was previously demonstrated that stevioside attenuates NF-kappaB-dependent TNF-alpha and IL-1beta synthesis in LPS-stimulated monocytes. The present study examined the effects of stevioside and its metabolite, steviol, on human colon carcinoma cell lines. High concentrations of stevioside (2-5 mM) and steviol (0.2-0.8 mM) decreased cell viability in T84, Caco-2, and HT29 cells. Stevioside (2 mM) potentiated TNF-alpha-mediated IL-8 release in T84 cells. However, steviol (0.01-0.2 mM) significantly suppressed TNF-alpha-induced IL-8 release in all three cell lines. In T84 cells, steviol attenuated TNF-alpha-stimulated IkappaB --> NF-kappaB signaling. Chloride transport was stimulated by steviol (0.1 mM) > stevioside (1 mM) at 30 min. Two biological effects of steviol in the colon are demonstrated for the first time: stimulation of Cl(-) secretion and attenuation of TNF-alpha-stimulated IL-8 production. The immunomodulatory effects of steviol appear to involve NF-kappaB signaling. In contrast, at nontoxic concentrations stevioside affects only Cl(-) secretion."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

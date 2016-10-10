@@ -1,0 +1,55 @@
+{"resource": {
+	"language":"ita",
+	"title":{"value":"[Isolation of the principal sugars of Stevia rebaudiana]."},
+	"subject":[
+		{"value":"Chromatography, Gel"},
+	{"value":"Diterpenes"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glucosides"},
+	{"value":"Glycosides"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Plants"},
+	{"value":"Terpenes"}
+	],
+	"pageStart":1247,
+	"volume":9,
+	"pageEnd":52,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM4074536",
+	"identifier":"PM4074536",
+	"type":"Other",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Bollettino della Società italiana di biologia sperimentale"},
+	"ISSN":{"value":"0037-8771"}
+	}
+	},
+	"issued":"1986-02-17",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Aquino, R P, RP"
+	}
+	},
+	{
+		"Person":
+		{"name":"Behar, I, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Biondi, A, A"
+	}
+	},
+	{
+		"Person":
+		{"name":"De Simone, F, F"
+	}
+	},
+	{
+		"Person":
+		{"name":"Scalesse, G, G"
+	}
+	}
+	]
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

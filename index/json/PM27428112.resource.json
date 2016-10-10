@@ -1,0 +1,54 @@
+{"resource": {
+	"issued":"2016-08-26",
+	"dateSubmitted":2016,
+	"language":"eng",
+	"title":{"value":"Correction to Rebaudiosides R and S, Minor Diterpene Glycosides from the Leaves of Stevia rebaudiana."},
+	"creator":[
+		{
+		"Person":
+		{"name":"Ibrahim, Mohamed A, MA"
+	}
+	},
+	{
+		"Person":
+		{"name":"Rodenburg, Douglas L, DL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Alves, Kamilla, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Perera, Wilmer H, WH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Fronczek, Frank R, FR"
+	}
+	},
+	{
+		"Person":
+		{"name":"Bowling, John, J"
+	}
+	},
+	{
+		"Person":
+		{"name":"McChesney, James D, JD"
+	}
+	}
+	],
+	"pageStart":2148,
+	"volume":8,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM27428112",
+	"identifier":"PM27428112",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Journal of natural products"},
+	"ISSN":{"value":"1520-6025"}
+	}
+	}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

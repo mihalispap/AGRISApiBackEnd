@@ -1,0 +1,50 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"A 90-day oral (dietary) toxicity study of rebaudioside A in Sprague-Dawley rats."},
+	"subject":[
+		{"value":"Animals"},
+	{"value":"Behavior, Animal"},
+	{"value":"Blood Cell Count"},
+	{"value":"Blood Chemical Analysis"},
+	{"value":"Body Weight"},
+	{"value":"Diet"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Dose-Response Relationship, Drug"},
+	{"value":"Eating"},
+	{"value":"Female"},
+	{"value":"Male"},
+	{"value":"Motor Activity"},
+	{"value":"Organ Size"},
+	{"value":"Rats"},
+	{"value":"Rats, Sprague-Dawley"},
+	{"value":"Survival Analysis"},
+	{"value":"Sweetening Agents"}
+	],
+	"pageStart":65,
+	"volume":1,
+	"pageEnd":80,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM18293214",
+	"identifier":"PM18293214",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"International journal of toxicology"},
+	"ISSN":{"value":"1091-5818"}
+	}
+	},
+	"issued":"2008-02-22",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Nikiforov, Andrey I, AI"
+	}
+	},
+	{
+		"Person":
+		{"name":"Eapen, Alex K, AK"
+	}
+	}
+	],
+	"abstract":{"value":"Rebaudioside A is one of several glycosides found in the leaves of Stevia rebaudiana (Bertoni) Bertoni (Compositae) stevia that has been identified as a potential sweetener. The present study (initiated in April 2006 and completed in October 2006) evaluated the safety of this sweetener when administered as a dietary admix at target exposure levels of 500, 1000, and 2000 mg/kg/day to Sprague-Dawley rats for 90 days. There were no treatment-related effects on the general condition and behavior of the animals as determined by clinical observations, functional observational battery, and locomotor activity assessments. Evaluation of clinical pathology parameters revealed no toxicologically relevant, treatment-related effects on hematology, serum chemistry, or urinalysis. Macroscopic and microscopic findings revealed no treatment-related effects on any organ evaluated. Lower mean body weight gains were noted in males in the 2000 mg/kg/day group throughout the study, which was considered to be test article related; however, given the small magnitude of the difference as compared to controls, this effect was not considered to be adverse. Results of this study clearly demonstrate that dietary administration of high concentrations of rebaudioside A for 90 consecutive days to Sprague-Dawley rats was not associated with any signs of toxicity."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

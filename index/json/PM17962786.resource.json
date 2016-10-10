@@ -1,0 +1,46 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Dechlorophyllation by electrocoagulation."},
+	"subject":[
+		{"value":"Andrographis"},
+	{"value":"Cassia"},
+	{"value":"Centella"},
+	{"value":"Electrocoagulation"},
+	{"value":"Ethanol"},
+	{"value":"Lycopersicon esculentum"},
+	{"value":"Plant Extracts"},
+	{"value":"Stevia"}
+	],
+	"pageStart":156,
+	"volume":2,
+	"pageEnd":62,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM17962786",
+	"identifier":"PM17962786",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Molecules (Basel, Switzerland)"},
+	"ISSN":{"value":"1420-3049"}
+	}
+	},
+	"issued":"2007-10-26",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Jumpatong, Kanlaya, K"
+	}
+	},
+	{
+		"Person":
+		{"name":"Phutdhawong, Weerachai, W"
+	}
+	},
+	{
+		"Person":
+		{"name":"Buddhasukh, Duang, D"
+	}
+	}
+	],
+	"abstract":{"value":"Electrocoagulation was used for dechlorophyllation of alcoholic extracts from five plants. The results showed that for every plant extract studied, electrocoagulation was more efficient than the classical solvent extraction method in removing plant pigments, while not affecting the important secondary metabolites in those extracts."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Isolation, NMR Spectral Analysis and Hydrolysis Studies of a Hepta Pyranosyl Diterpene Glycoside from Stevia rebaudiana Bertoni."},
+	"pageStart":733,
+	"volume":4,
+	"pageEnd":40,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24970189",
+	"identifier":"PM24970189",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Biomolecules"},
+	"ISSN":{"value":"2218-273X"}
+	}
+	},
+	"issued":"2014-06-27",
+	"uri":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4030963",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Chaturvedula, Venkata Sai Prakash, VS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chen, Steven, S"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yu, Oliver, O"
+	}
+	},
+	{
+		"Person":
+		{"name":"Mao, Guohong, G"
+	}
+	}
+	],
+	"abstract":{"value":"From the commercial extract of the leaves of Stevia rebaudiana Bertoni, a minor steviol glycoside, 13-[(2-O-β-D-glucopyranosyl-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl)oxy] ent-kaur-16-en-19-oic acid-[(2-O-(3-O-β-D-glucopyranosyl-α-L-rhamnopyranosyl)-3-O-β-D-glucopyranosyl-β-D-glucopyranosyl) ester] (1); also known as rebaudioside O having seven sugar units has been isolated. Its structural characterization has been achieved by the extensive 1D (1H and 13C), and 2D NMR (COSY, HMQC, HMBC) as well as mass spectral data. Further, hydrolysis studies were performed on rebaudioside O using acid and enzymatic methods to identify aglycone and sugar residues in its structure as well as their configurations."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

@@ -1,0 +1,59 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Base substitution mutations in uridinediphosphate-dependent glycosyltransferase 76G1 gene of Stevia rebaudiana causes the low levels of rebaudioside A: mutations in UGT76G1, a key gene of steviol glycosides synthesis."},
+	"subject":[
+		{"value":"Codon, Nonsense"},
+	{"value":"Diterpenes, Kaurane"},
+	{"value":"Glycosides"},
+	{"value":"Glycosyltransferases"},
+	{"value":"Mutation"},
+	{"value":"Stevia"},
+	{"value":"Uridine Diphosphate"}
+	],
+	"pageStart":220,
+	"pageEnd":5,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24811677",
+	"identifier":"PM24811677",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Plant physiology and biochemistry : PPB / Société française de physiologie végétale"},
+	"ISSN":{"value":"1873-2690"}
+	}
+	},
+	"issued":"2014-06-04",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Yang, Yong-Heng, YH"
+	}
+	},
+	{
+		"Person":
+		{"name":"Huang, Su-Zhen, SZ"
+	}
+	},
+	{
+		"Person":
+		{"name":"Han, Yu-Lin, YL"
+	}
+	},
+	{
+		"Person":
+		{"name":"Yuan, Hai-Yan, HY"
+	}
+	},
+	{
+		"Person":
+		{"name":"Gu, Chun-Sun, CS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Zhao, Yan-Hai, YH"
+	}
+	}
+	],
+	"abstract":{"value":"Steviol glycosides, extracted from the leaves of Stevia rebaudiana (Bert) Bertoni, are calorie-free sugar substitute of natural origin with intensely sweet (Boileau et al., 2012). Stevioside and rebaudioside A are the two main kinds of the diterpenic glycosides. We analyzed the concentration of stevioside and rebaudioside A in Stevia leaves of about 500 samples (hybrid progenies) and discovered a mutation plant \"Z05\" with very low levels of rebaudioside A. Because UGT76G1, a uridinediphosphate-dependent glycosyltransferases, is responsible for the conversion from stevioside to rebaudioside A (Richman et al., 2005), so mutation identification was done by sequencing the candidate gene, UGT76G1. In this study molecular analysis of two strains revealed a heterozygotic nonsense mutation of c.389T > G (p.L121X) in UGT76G1. Meanwhile, we found some amino acid substitutions significant change the protein structure. And the difference of enzyme activity between two strains proved the lack of functionality of UGT76G1 of the mutation \"Z05\". So the nonsense mutation and amino acid substitution mutation resulted in the low levels of rebaudioside A."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}

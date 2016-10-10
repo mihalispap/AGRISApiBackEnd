@@ -1,0 +1,43 @@
+{"resource": {
+	"language":"eng",
+	"title":{"value":"Isolation, characterization and sensory evaluation of a Hexa beta-D-glucopyranosyl diterpene from Stevia rebaudiana."},
+	"subject":[
+		{"value":"Diterpenes"},
+	{"value":"Magnetic Resonance Spectroscopy"},
+	{"value":"Stevia"},
+	{"value":"Sucrose"},
+	{"value":"Taste"}
+	],
+	"pageStart":1523,
+	"volume":11,
+	"pageEnd":6,
+	"about":"https://www.ncbi.nlm.nih.gov/pubmed/PM24427932",
+	"identifier":"PM24427932",
+	"type":"Journal Article",
+	"isPartOf":
+		{"Journal":
+		{"title":{"value":"Natural product communications"},
+	"ISSN":{"value":"1934-578X"}
+	}
+	},
+	"issued":"2014-01-16",
+	"dateSubmitted":2016,
+	"creator":[
+		{
+		"Person":
+		{"name":"Prakash, Indra, I"
+	}
+	},
+	{
+		"Person":
+		{"name":"Chaturvedula, Venkata Sai Prakash, VS"
+	}
+	},
+	{
+		"Person":
+		{"name":"Markosyan, Avetik, A"
+	}
+	}
+	],
+	"abstract":{"value":"From the extract of the leaves of Stevia rebaudiana Bertoni, a diterpene glycoside was isolated which was identified as 13-[(2-O-beta-D-glucopyranosyl-3-O-beta-D-glucopyranosyl-beta-D-glucopyranosyl)oxy] ent-kaur-16-en-19-oic acid-(2-O-beta-D-glucopyranosyl-3-O-beta-D-glucopyranosyl-D-glucopyranosyl) ester (1). The complete 1H and 13C NMR assignment of 1 is reported for the first time, from extensive NMR (1H and 13C, COSY, HSQC, and HMBC) and mass spectral data. Also, we report the sensory evaluation of 1 against sucrose for the sweetness property of this molecule."}
+	,"source":{"resource":"https://www.ncbi.nlm.nih.gov/pubmed/"}}}
