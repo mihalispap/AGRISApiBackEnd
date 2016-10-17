@@ -66,24 +66,24 @@
 		{
 			"properties":
 			{
-				"abstract":
+				"bibo:abstract":
 				{
 					"properties":
 					{
 						"value":{"type":"string"},
-						"language":{"type":"string"}
+						"xml:lang":{"type":"string"}
 					}
 				},
-				"identifier":{"type":"string"},
-				"creator":
+				"dct:identifier":{"type":"string"},
+				"dct:creator":
 				{
 					"properties":
 					{
-						"Person":
+						"foaf:Person":
 						{
 							"properties":
 							{
-								"name":
+								"foaf:name":
 								{
 									"type":"string",
 									"fields":
@@ -96,53 +96,107 @@
 									}
 								}
 							}
-						}
+						},
+						"foaf:Organization":
+                                                {
+                                                        "properties":
+                                                        {
+                                                                "foaf:name":
+                                                                {
+                                                                        "type":"string",
+                                                                        "fields":
+                                                                        {
+                                                                                "raw":
+                                                                                {
+                                                                                        "type":"string",
+                                                                                        "index":"not_analyzed"
+                                                                                }
+                                                                        }
+                                                                }
+                                                        }
+                                                }
 					}
 				},
-				"issued":{"type":"string"},
-				"dateSubmitted":{"type":"string"},
-				"doi":{"type":"string"},
-				"ISBN":{"type":"string"},
-				"isbn":{"type":"string"},
-				"about":{"type":"string"},
-				"extent":{"type":"string"},
-				"publisher":
+				"dct:issued":{"type":"string"},
+				"dct:dateSubmitted":{"type":"string"},
+				"bibo:doi":{"type":"string"},
+				"bibo:ISBN":{"type":"string"},
+				"bibo:isbn":{"type":"string"},
+				"rdf:about":{"type":"string"},
+				"dct:extent":{"type":"string"},
+				"dct:publisher":
 				{
 					"properties":
 					{
-						"organization":
+						"foaf:Organization":
 						{
 							"properties":
 							{
-								"name":{"type":"string"}
-							}
-						}
-					}
-				},
-				"isPartOf":
-				{
-					"properties":
-					{
-						"Journal":
-						{
-							"properties":
-							{
-								"issn":{"type":"string"},
-								"title":{"type":"string"}
+								"foaf:name":
+								{
+									"type":"string",
+                                                                       	"fields":
+                                                                        {
+                                                                                "raw":
+                                                                                {
+                                                                                        "type":"string",
+                                                                                        "index":"not_analyzed"
+                                                                                }
+                                                                        }
+								}
 							}
 						},
-						"resource":{"type":"string"}
+						"foaf:Person":
+                                                {
+                                                        "properties":
+                                                        {
+                                                                "foaf:name":
+                                                                {
+                                                                        "type":"string",
+                                                                        "fields":
+                                                                        {
+                                                                                "raw":
+                                                                                {
+                                                                                        "type":"string",
+                                                                                        "index":"not_analyzed"
+                                                                                }
+                                                                        }
+                                                                }
+                                                        }
+                                                }
 					}
 				},
-				"issue":{"type":"string"},
-				"language":{"type":"string"},
-				"pageEnd":{"type":"string"},
-				"pageStart":{"type":"string"},
-				"source":
+				"dct:isPartOf":
 				{
 					"properties":
 					{
-						"resource":
+						"bibo:Journal":
+						{
+							"properties":
+							{
+								"bibo:ISSN":{"type":"string"},
+								"dct:title":
+								{
+									"properties":
+									{
+										"value":{"type":"string"},
+										"xml:lang":{"type":"string"}
+									
+								}
+							}
+						},
+						"rdf:resource":{"type":"string"}
+					}
+				},
+				"bibo:issue":{"type":"string"},
+				"dct:language":{"type":"string"},
+				"bibo:pageEnd":{"type":"string"},
+				"bibo:pageStart":{"type":"string"},
+				"dct:source":
+				{
+					"properties":
+					{
+						"rdf:resource":
 						{
 							"type":"string",
 							"fields":
@@ -156,7 +210,7 @@
 						}
 					}
 				},
-				"subject":
+				"dct:subject":
 				{
 					"properties":
 					{
@@ -172,19 +226,19 @@
 								}
 							}
 						},
-						"language":{"type":"string"}
+						"xml:lang":{"type":"string"}
 					}
 				},
-				"title":
+				"dct:title":
 				{
 					"properties":
 					{
 						"value":{"type":"string"},
-						"language":{"type":"string"}
+						"xml:lang":{"type":"string"}
 					}
 				},
-				"issn":{"type":"string"},
-				"type":
+				"bibo:issn":{"type":"string"},
+				"dct:type":
 				{
 					"type":"string",
 					"fields":
@@ -196,8 +250,8 @@
 						}
 					}
 				},
-				"uri":{"type":"string"},
-				"volume":{"type":"string"}
+				"bibo:uri":{"type":"string"},
+				"bibo:volume":{"type":"string"}
 			}
 		}
 	}
