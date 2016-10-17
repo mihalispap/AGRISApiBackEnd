@@ -181,7 +181,7 @@
 									{
 										"value":{"type":"string"},
 										"xml:lang":{"type":"string"}
-									
+									}				
 								}
 							}
 						},
@@ -210,7 +210,7 @@
 						}
 					}
 				},
-				"dct:subject":
+				"dc:subject":
 				{
 					"properties":
 					{
