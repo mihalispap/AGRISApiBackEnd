@@ -1,0 +1,35 @@
+{
+	"dct:language":"eng",
+	"dct:title":{"value":"Cyclic AMP metabolism in adipose tissue of exercise-trained rats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":729,
+	"bibo:volume":19,
+	"bibo:pageEnd":736,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/US7892793",
+	"dct:identifier":"US7892793",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Lipid Research (USA)"}
+	}
+	},
+	"dct:issued":"aug1978",
+	"dct:dateSubmitted":1979,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Askew, E.W."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hecker, A.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Coppes, V.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Stifel, F.B."
+	}
+	}
+	],
+	"dct:description":"Ref.",
+	"bibo:issue":6
+	}
