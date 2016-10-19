@@ -1,0 +1,40 @@
+{
+	"dct:language":"eng",
+	"dct:title":{"value":"Characterization of several viruses isolated from chickens with inclusion body hepatitis and aplastic anemia",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":399,
+	"bibo:volume":18,
+	"bibo:pageEnd":409,
+	"rdf:about":"http://agris.fao.org/aos/records/US7400085",
+	"dct:identifier":"US7400085",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_2e8187d6"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Avian Diseases (USA)"},
+	"bibo:ISSN":{"value":"0005-2086"}
+	}
+	}
+	],
+	"dct:issued":"jul1974",
+	"dct:dateSubmitted":1975,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rosenberger, J.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eckroade, R.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Klopp, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Krauss, W.C."
+	}
+	}
+	],
+	"dct:description":"16 ref. Summary (En)",
+	"bibo:issue":3
+	}
