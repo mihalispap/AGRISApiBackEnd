@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a16.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Combination effect of soil slope and rimsulfuron action on weed flora and phytotoxicity on maize crop under Mediterranean conditions"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Triantafyllidis, V. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bilalis, D. J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hela, D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dimopoulos, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Albanis, T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Efthimiadou, A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100245",
+	"dct:identifier":"FI2016100245",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effect of rimsulfuron on weed flora and phytotoxicity on maize crop, especially on root system was evaluated in two years field experiment on maize crop in west Greece at a site with no history of pesticide use for the last years. The impact of soil surface slope in the activity of rimsulfuron was determined. Conditions were selected to simulate common agronomy practices in the Mediterranean region. The surface slopes of plots were 0, 2 and 4% and all areas were monitored simultaneously. The weed flora was most numerous at the greatest slope of 4%. The phytoxicity in root system of maize, manifested by lower dry matter and seed yields, was higher in the plots at the slope of 4% in comparison with the plots at the slope of 0%. The multiple linear regression analysis showed that the parameter to exert the important role in final yield was mainly the phytotoxicity on root system and weed flora was less important."}
+	}}

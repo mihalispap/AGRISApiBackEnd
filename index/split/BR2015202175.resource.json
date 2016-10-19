@@ -1,0 +1,85 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Composição do farelo de biscoito na alimentação de suínos ",
+	"xml:lang":"por"
+	},
+	{"value":"Biscuit meal composition in pig feeding",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"nutritive value",
+	"xml:lang":"eng"
+	},
+	{"value":"feed composition",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202175",
+	"dct:identifier":"BR2015202175",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/381/228",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Corassa Anderson"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"2,64%"},
+	{"value":"TRE"},
+	{"value":"0,34%"},
+	{"value":"This study was conducted to compile results of the nutritional composition of the biscuit meal from 14 papers from studies published in journals and reports during 2000 and 2011 to characterize the gross, digestible and metabolizable energy (DE and ME, kcal / kg) for pigs, dry mater (DM), crudeprotein (CP), ether extract (EE), mineral matter (MM), crude fiber (CF), calcium (Ca), phosphorus (Pt), sodium (Na), total lysine (LIS), methionine plus cystine total (MC), threonine (THR), tryptophan (TRI) and non-nitrogen extraction (ENN) of this product. The mean values were biscuit meal 3681 kcal/ kg",
+	"xml:lang":"eng"
+	},
+	{"value":"9,07%"},
+	{"value":"0,26%"},
+	{"value":"LIS"},
+	{"value":"Pt"},
+	{"value":"para EM"},
+	{"value":"Ca, Pt, Na"},
+	{"value":"0,12%"},
+	{"value":"MC , TRE, TRI and NFE, respectively."},
+	{"value":"TRI e ENN, respectivamente."},
+	{"value":"MC"},
+	{"value":"Na"},
+	{"value":"8.93%, 9.07%, 11.61%, 2.71%, 2.64%, 0.12%, 0.21%",
+	"xml:lang":"por"
+	},
+	{"value":"0,23%"},
+	{"value":"FB"},
+	{"value":"1,61%"},
+	{"value":"Ca"},
+	{"value":"MM"},
+	{"value":"0, 34%, 0.23%, 0.30%, 0.26%, 0.16% and 69.66%, for ME"},
+	{"value":"0,21%"},
+	{"value":"MS"},
+	{"value":"Este trabalho teve como objetivo compilar resultados de composição nutricional do farelo de biscoito à partir de 14 referências de trabalhos publicados em periódicos e laudos, de 2000 e 2011 para caracterização dos valores de energia bruta, digestível e metabolizável (ED e EM, kcal/kg) para suínos, matéria seca (MS), proteína bruta (PB), extrato etéreo (EE), matéria mineral (MM), fibra bruta (FB), cálcio (Ca), fósforo total (Pt), sódio (Na), lisina total (LIS), metionina mais cistina total (MC), treonina (TRE), triptofano (TRI) e extrativo não nitrogenado (ENN) deste produto. Os valores médios do farelo de biscoito foram 3681 kcal/kg"},
+	{"value":"91,07%"},
+	{"value":"0,16% e 69,66%"},
+	{"value":"EE"},
+	{"value":"0,30%"},
+	{"value":"2,71%"},
+	{"value":"PB"},
+	{"value":"U, CP, EE, MM, FB"}
+	]
+	}}

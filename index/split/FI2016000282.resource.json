@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Interactive effects of molybdenum and phosphorus fertilizers on grain yield and quality of Brassica napus.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Liu HonGen
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hu ChengXiao
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sun XueCheng
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tan QiLing
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nie ZhaoJun
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Su JingJun
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu JinShan
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huang Hong
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"glucosinolates"},
+	{"value":"molybdenum"},
+	{"value":"Brassica napus"},
+	{"value":"crop yield"},
+	{"value":"quality"},
+	{"value":"application rates"},
+	{"value":"linoleic acid"},
+	{"value":"chemical composition"},
+	{"value":"branches"},
+	{"value":"plant oils"},
+	{"value":"erucic acid"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000282",
+	"dct:identifier":"FI2016000282",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

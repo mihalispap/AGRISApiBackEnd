@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of growing conditions on yield and quality of cherry.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Predieri, Stefano.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dris, Ramdane.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rapparini, Francesca.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fruits"},
+	{"value":"quality"},
+	{"value":"crop yield"},
+	{"value":"cherries"},
+	{"value":"Prunus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001161",
+	"dct:identifier":"FI2016001161",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth and osmotic adjustment of canola genotypes in response to salinity"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911276",
+	"dct:identifier":"US201300911276",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a13.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bandeh-hagh, Ali (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toorchi, Mahmoud (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohammadi, Abolghasem (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaparzadeh, Nader (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Salekdeh, Ghasem Hosseini (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kazemnia, Habib (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In this study, response of 12 canola (Brassica napus L.) cultivars to NaCl salinity (0, 125 and 250 mM NaCl) was studied in hydroponic culture system. Plant growth parameters, third leaf water status, solute concentration in the cell sap and their contribution in osmotic adjustment were measured. The relative growth rate (RGR) of three cultivars (Hyola308, SW5001 and Olga) was slightly reduced by salinity, whereas that of others was largely reduced. Net assimilation rate (NAR) and leaf area ratio (LAR) were significantly reduced by salinity with greater effect on NAR. Under salinity stress, decreased osmotic potential and increased osmotic adjustment were accompanied by an enhanced Na+ of leaves. Analysis of variance revealed tolerant genotypes had low Na+ content and high K+/Na+ ratio during salinity stress. Glycine betaine had low contribution to osmotic potential, and non-significant differences were observed among the cultivars for glycine betaine content. Under low salinity stress (125 mM), Na+ absorption had higher contribution in osmotic adjustment. However, in high salinity (250 mM) level, the Na+ and proline contribution in osmotic adjustment was 1.4 and 1.7 times as compared with low salinity level. In rapeseed with increased levels of salinity, the contribution of proline in osmotic potential was enhanced, meanwhile accumulation of this amino acid could be a symptom of stress injury rather than a component of salt tolerance associated with osmotic adjustment."}
+	}}

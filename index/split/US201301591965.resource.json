@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relations between pore fractal dimension (Dp) and some physical properties of alluvial-colluvial soils"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591965",
+	"dct:identifier":"US201301591965",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kutlu, Turgut (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ersahin, Sabit (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Pore-solid fractal dimensions have become popular topic in science and have been used to describe heterogeneity of porous media. Many studies were conducted to relate fractal dimension of particle-size and pore-size distribution to evaluate relationship between fractal dimension and other associated properties. In this study, we evaluated relationship between pore fractal dimension (Dp) and physical properties of soils (Mollic Ustifluvent, Typic Ustifluvent and Typic Ustorthent) formed over alluvial and colluvial deposits in North Central Anatolia of Turkey. An area of nine ha was sampled intensively. Dp for each sample was calculated from water retention data and soil samples were analyzed for soil, organic matter content (OM), bulk density (BD), saturated hydraulic conductivity (Ks), field capacity (FC) and van Genuchten parameters (α and n) of water retention curves for each individual soil. Relations between Dp and soil properties defined were analyzed statistically by regression technique. Dp ranged between 2.58 and 2.95, finer textures giving greater Dp values. Positive relations were found between Dp and each of clay, OM, Ks, FC and α. Contrary, relationships found between Dp and each of sand, silt, BD and n were negative. The results showed that Dp has significant relations with soil physical properties, and should be useful integrating Dp into the modeling studies."}
+	}}

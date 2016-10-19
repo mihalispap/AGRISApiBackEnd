@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Agroforestry policy options for Nigeria : a simulation study.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Aturamu, O. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Daramola, A. G.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"agricultural policies"},
+	{"value":"kehitys"},
+	{"value":"trooppinen maatalous"},
+	{"value":"farm planning"},
+	{"value":"maatalouspolitiikka"},
+	{"value":"viljelyjärjestelmät"},
+	{"value":"agroforestry"},
+	{"value":"agricultural development"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001226",
+	"dct:identifier":"FI2016001226",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

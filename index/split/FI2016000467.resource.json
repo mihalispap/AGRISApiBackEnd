@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effectiviness and feasibility of economic incentives of input control in the mitigation of agricultural water pollution /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Miettinen, Asko.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"vesiensuojelu"},
+	{"value":"optimization methods"},
+	{"value":"maatalous"},
+	{"value":"kiintiöt"},
+	{"value":"lannoitteet"},
+	{"value":"finland"},
+	{"value":"taloudellinen analyysi"},
+	{"value":"nitrogen"},
+	{"value":"lannoitevero"},
+	{"value":"kannattavuus"},
+	{"value":"environmental impact assessment"},
+	{"value":"ympäristövaikutukset"},
+	{"value":"lannoitustaso"},
+	{"value":"ohra"},
+	{"value":"application rates"},
+	{"value":"typpi"},
+	{"value":"hordeum vulgare"},
+	{"value":"tuottajahinnat"},
+	{"value":"leaching"},
+	{"value":"huuhtoutuminen"},
+	{"value":"profitability"},
+	{"value":"economic analysis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000467",
+	"dct:identifier":"FI2016000467",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

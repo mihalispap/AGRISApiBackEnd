@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a18.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic variation and genotype × environment interaction in yams (Dioscorea spp.) for root colonization by arbuscular mycorrhiza"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dare, M. Olajire (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abaidoo, Robert C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fagbola, Olajire (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asiedu, Robert (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100466",
+	"dct:identifier":"FI2016100466",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Root colonization by arbuscular mycorrhiza (AM) enhances nutrient acquisition by plants and could benefit the production of yam (Dioscorea spp.). The variation in AM colonization in yam genotypes was evaluated in two experiments at four locations (Ibadan, Onne, Abuja and Ubiaja) in different agroecologies of Nigeria in 2004 and 2005. Twenty-seven genotypes of D. rotundata and 28 of D. alata were investigated in a randomized complete block design with three replicates. Arbuscular mycorrhizal fungi colonized all yam genotypes. Root length colonization ranged from 24 to 95% in D. rotundata and from 21 to 95% in D. alata. Colonization was observed to be high in locations with lower soil available P but was not precluded by relatively high soil acidity. Highly significant (P< 0.001) effects were observed in D. rotundata for genotype and location, as well as genotype × location, location × year and in D. alata for genotype, location and year. The location × genotype × year interaction was significant (P < 0.05) in both experiments. The broad sense heritability estimates for AM colonization were 0.60 in D. rotundata and 0.87 in D. alata. Further analysis of genotype × environment interactions using a GGE biplot for the two-year data showed that the most stable genotypes for AM colonization across locations were TDr 93-32 (D. rotundata) and TDa 98/01183 (D. alata). The highest percentage AM colonization mean were found in TDr 93-32 (D. rotundata) and TDa 01/00204 in (D. alata). Generally, the highest mean colonization values were obtained at Abuja and Ubiaja. The results of this study reveal that AM colonization in yam is host-dependent and influenced by the environment."}
+	}}

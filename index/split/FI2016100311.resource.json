@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a19.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Productivity and technical efficiency of oil palm production in Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Iwala, O. S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Okunlola, J.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Imoudu, P. B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100311",
+	"dct:identifier":"FI2016100311",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Efficiency is an important factor of productivity in a growing economy like Nigeria where there are dwindling resources for adoption of improved technologies for increased production. The objective of this paper was to investigate the productivity and technical efficiency of oil palm production among oil palm farmers in Nigeria using the stochastic frontier production function analysis. Primary data were collected using a set of validated structured questionnaire from 241 oil palm farmers who were selected through multistage random sampling from six local government areas of Edo and Ondo States, Nigeria. Given the specification of the stochastic frontier production function, the null hypothesis that the oil palm farmers were fully technically efficient is rejected since there were presence of inefficiency effects in the model. Results showed that predicted technical efficiencies varied widely across the farms, ranging between 0.463 and 0.999. The study further showed that oil palm production in the study area was generally in the rational stage of production as portrayed by the returns to scale of (RTS) 0.771."}
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Revolution or evolution : law, ethics, and definition of sustainable forest management in the European Union.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Lesniewska, Feja.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"law"},
+	{"value":"ecosystem diversity"},
+	{"value":"international cooperation"},
+	{"value":"kestävä kehitys"},
+	{"value":"Euroopan unioni"},
+	{"value":"European union"},
+	{"value":"forest management"},
+	{"value":"ekosysteemit"},
+	{"value":"kestävä metsätalous"},
+	{"value":"suvereniteetti"},
+	{"value":"sustainable development"},
+	{"value":"lainsäädäntö"},
+	{"value":"sustainability"},
+	{"value":"luonnon monimuotoisuus"},
+	{"value":"Kansainvälinen yhteistyö"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001856",
+	"dct:identifier":"FI2016001856",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Models for vertical wood density of Scots pine, Norway spruce and birch stems, and their application to determine average wood density.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Repola, Jaakko.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"wood"},
+	{"value":"density"},
+	{"value":"hieskoivu"},
+	{"value":"mixed models"},
+	{"value":"tiheys"},
+	{"value":"simulation models"},
+	{"value":"models"},
+	{"value":"mänty"},
+	{"value":"wood density"},
+	{"value":"Betula pendula"},
+	{"value":"mallit"},
+	{"value":"Pinus sylvestris"},
+	{"value":"rauduskoivu"},
+	{"value":"matemaattiset mallit"},
+	{"value":"Betula pubescens"},
+	{"value":"Picea abies"},
+	{"value":"puu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001190",
+	"dct:identifier":"FI2016001190",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

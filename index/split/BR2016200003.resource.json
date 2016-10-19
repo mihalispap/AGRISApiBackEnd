@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Genetic variability among cultivars of soybean, as the oil yield, in Tocantins State",
+	"xml:lang":"eng"
+	},
+	{"value":"   Variabilidade genética entre cultivares de soja ",
+	"xml:lang":"por"
+	},
+	{"value":"   quanto ao rendimento de óleo "},
+	{"value":"   no estado do Tocantins "}
+	],
+	"dc:subject":{"value":"glycine max",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016200003",
+	"dct:identifier":"BR2016200003",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	},
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/411/254",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alves Lopes Leonardo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Muci Peluzio Joênes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sérgio Afférri Flávio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vinícius de Carvalho Edmar"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Tocantins, Palmas, TO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Tocantins, Palmas, TO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de São Carlos, Buri, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Tocantins, Palmas, TO, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Com objetivo de avaliar a divergência genética entre 21 cultivares comerciais de soja, quanto ao rendimento de óleo, foram realizados cinco ensaios de competição de cultivares no ano agrícola 2008/09, sendo dois na área experimental da Universidade Federal do Tocantins em Palmas (30/11/2008, 16/12/2008) e três na área experimental da Universidade Federal do Tocantins em Gurupi (03/12/2008, 18/12/2008 e 05/01/2009). Os cultivares estudados foram P98Y70, M 8766RR, M 9144RR, BR/EMGOPA 314, P98R91, P98Y51, M 9988RR, P99R01, M 8867RR, M 9056RR, M 8527RR,M 8360RR, FT Esperança, FTS 4188, CM 015, CM 017, CM 136, CM 149, CM 102, Nidera A7002 e M 9350. A divergência genética foi avaliada para rendimento de óleo, por meio de procedimentos multivariados: distância generalizada de Mahalanobis, método de agrupamento de otimizaçãode Tocher e método do vizinho mais próximo. No estudo da divergência genética, cada ensaio representou uma variável distinta. Foi observada variabilidade genética entre as cultivares. As hibridações M 9144RR x BR/EMGOPA 314, M 9144RR x Nidera A7002 e FTS 4188 x M 9144RR, poderãoser promissoras para obtenção de populações segregantes para o rendimento de óleo.",
+	"xml:lang":"por"
+	},
+	{"value":"In order to evaluate the genetic diversity among 21 cultivars of soybeans, as the oil yield, they were conducted five field trials of crops in crop year 2008/09, two in the experimental area of University of Tocantins in Palmas (11/30/2008, 12/16/2008) and three in the experimental area of the FederalUniversity of Tocantins in Gurupi (12/03/2008, 12/18/2008 and 01/05/2009). The cultivars were P98Y70, M 8766RR, M 9144RR, BR / EMGOPA 314, P98R91, P98Y51, M 9988RR, P99R01, M 8867RR, M 9056RR, M 8527RR, M 8360RR, FT Esperança, FTS 4188, CM 015, CM 017, CM 136, CM 149, CM 102, Nidera A7002 and M 9350. Multivariate methodologies procedures such as Mahalanobis, Tocher’s optimizationmethod and nearest neighbor method were used for oil yield, wherever each field trials represented one variable. Variations among the soybean cultivars were noticed for all characteristics. In this sense, can be expected as promising the following crosses: M 9144RR x BR / EMGOPA 314, M 9144RR x Nidera A7002 and FTS 4188 x M 9144RR, as the cultivars were dissimilar to oil yield.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/9552/12403",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of colonization by arbuscular mycorrhizal fungi on three strawberry cultivars under salty conditions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sinclair, Grant,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Charest, Christiane,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dalpé, Yolande,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khanizadeh, Shahrokh,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"salt tolerance"},
+	{"value":"mycorrhizal infection"},
+	{"value":"maaperä"},
+	{"value":"arid soils"},
+	{"value":"strawberries"},
+	{"value":"mansikat"},
+	{"value":"stress"},
+	{"value":"mykorritsa"},
+	{"value":"salinity"},
+	{"value":"suolamaat"},
+	{"value":"stressi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000415",
+	"dct:identifier":"FI2016000415",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

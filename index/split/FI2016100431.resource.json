@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Conditional QTL analysis of genetic main effects and genotype × environment interaction effects for yield in rice (Oryza sativa L.)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Benmoussa, Mebrouk (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Achouch, Abderrahmane (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Snoussi, Sid Ahmed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhu, Jun (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100431",
+	"dct:identifier":"FI2016100431",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Quantitative trait loci (QTL) for yield conditional on any of its components were identified based on an RFLP map from a DH population. The results indicated a relatively small number of QTLs have been detected for final yield. Two QTLs were detected for yield when using genetic main effects and three QTLs for GE interaction effects with unconditional QTL mapping. With conditional QTL mapping there was a great variation in gene expression for genetic main effects and GE interaction effects. When yield was conditional on full grains, the genetic effects of full grains contributed about 61% variation for genotype and 60% variation for GE interaction effects. Many genes expressed for conditional GE interaction effects could not be detected for GE interaction effects for final yield. Combination of conditional mapping and unconditional mapping of QTL could improve our understanding in variation of gene expression and QTL x GE interaction effects."}
+	}}

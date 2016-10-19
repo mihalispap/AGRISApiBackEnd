@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Serodiagnosis of Cryptosporidiosis in Cattle by IFAT",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":70,
+	"dc:subject":[
+		{"value":"immunodiagnostic",
+	"xml:lang":"fre"
+	},
+	{"value":"virose",
+	"xml:lang":"fre"
+	},
+	{"value":"viroses",
+	"xml:lang":"eng"
+	},
+	{"value":"immunodiagnosis",
+	"xml:lang":"eng"
+	},
+	{"value":"cryptosporidium",
+	"xml:lang":"esp"
+	},
+	{"value":"inmunodiagnostico",
+	"xml:lang":"esp"
+	},
+	{"value":"virosis",
+	"xml:lang":"esp"
+	},
+	{"value":"inmunofluorescencia",
+	"xml:lang":"esp"
+	},
+	{"value":"immunofluorescence",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":73,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000076",
+	"dct:identifier":"IN2015000076",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Veena, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"D'Souza, Placid. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Murthy, G. S. Sreenivasa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, C. Renuka"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The indirect fluorescent antibody technique was standardised for serodiagnosis of Cryptosporidiosis in naturally infected cattle. A total of 201 faecal and serum samples were collected from different farms, animal shelters and abbatoirs in and around Bangalore which included 11 samples positive for C ryptosporidium infection on faecal microscopy. Tw o species viz., Cryptosporidium parvum and Cryptosporidium andersoni were prevalent based on faecal examination. Oocysts were purified by using sedimentation and gradient centrifugation and then the samples were screened by immunofluorescence antibody technique (IFAT). Out of 201 sera samples 25 samples were positive for Cryptosporidial antibodies indicating an infection rate of 12.44%.",
+	"xml:lang":"eng"
+	}
+	}}

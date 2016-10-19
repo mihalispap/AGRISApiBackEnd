@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Localization of peroxidase enzyme in the bark of Hevea brasiliensis and its implication in anatomy",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":294,
+	"dc:subject":[
+		{"value":"seasonal activity"},
+	{"value":"phloic rays"},
+	{"value":"sieve tubes"},
+	{"value":"peroxidases",
+	"xml:lang":"eng"
+	},
+	{"value":"caoutchouc",
+	"xml:lang":"fre"
+	},
+	{"value":"peroxydase",
+	"xml:lang":"fre"
+	},
+	{"value":"caucho",
+	"xml:lang":"esp"
+	},
+	{"value":"compuestos fenolicos",
+	"xml:lang":"esp"
+	},
+	{"value":"hevea",
+	"xml:lang":"esp"
+	},
+	{"value":"rubber",
+	"xml:lang":"eng"
+	},
+	{"value":"phenolic compounds",
+	"xml:lang":"eng"
+	},
+	{"value":"compose phenolique",
+	"xml:lang":"fre"
+	},
+	{"value":"peroxidasas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":300,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000871",
+	"dct:identifier":"IN2015000871",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gopika Gopal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vinoth Thomas."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Localization of peroxidase enzyme with respect to seasons has been carried out in the bark of mature trees of Hevea brasiliensis using guaiacol and hydrogen peroxide as the substrate. Cell walls of sieve tubes including sieve plates, and cytoplasm of phloic rays both in the soft and hard region of the bark showed positive indication of peroxidase activity with reddish brown coloration. Sieve tubes differentiated recently from the derivatives of cambium also stained deeply. The cell wall of the phloic rays remained passive for peroxidase activity but the cytoplasm appeared to be granulated and was in a state of streaming motion which was evident in cross sectional view of the bark. Companion cells did not give any indication of peroxidase activity but it was localized in the intercellular spaces of axial parenchyma cells in the soft bark. Phloic rays exhibited seasonal variation for peroxidase enzyme while the activity was localized throughout the year in the sieve tubes. In the samples taken during December- January, phloic rays were unstained throughout the bark. Bark samples collected in the month of March and April showed deep coloration for phloic rays extending from the phellogen to the periphery of the cambial zone. In the month of June, the partially differentiated phloic rays in the cambial zone stained for peroxidase and subsequently differentiated ones were completely unstained. The phloic rays in the months of September and October remain unstained in the soft bark while it gave a brown coloration in the hard bark region.",
+	"xml:lang":"eng"
+	}
+	}}

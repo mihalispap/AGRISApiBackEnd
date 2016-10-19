@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Silvicultural disturbance severity and plant communities of the southern Canadian boreal forest /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Haeussler, Sybille.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bedford, Lorne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leduc, Alain.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergeron, Yves.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kranabetter, J. Marty.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"diversity"},
+	{"value":"kasvilajit"},
+	{"value":"Canada"},
+	{"value":"avohakkuu"},
+	{"value":"kasvillisuus"},
+	{"value":"site preparation"},
+	{"value":"maanpinnan valmistus"},
+	{"value":"vegetation"},
+	{"value":"boreal forests"},
+	{"value":"clear felling"},
+	{"value":"boreaaliset metsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001661",
+	"dct:identifier":"FI2016001661",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

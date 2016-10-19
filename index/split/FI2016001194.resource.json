@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Capacity of riparian buffer zones to reduce sediment concentrations in discharge from peatlands drained for forestry /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nieminen, Mika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahti, Erkki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nousiainen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Joensuu, Samuli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vuollekoski, Martti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"water quality"},
+	{"value":"vesiensuojelu"},
+	{"value":"erosion"},
+	{"value":"drainage"},
+	{"value":"riparian zones"},
+	{"value":"rantavyöhykkeet"},
+	{"value":"eroosio"},
+	{"value":"kiintoaines"},
+	{"value":"water conservation"},
+	{"value":"ojitus"},
+	{"value":"suspended solids"},
+	{"value":"veden laatu"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001194",
+	"dct:identifier":"FI2016001194",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

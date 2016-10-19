@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Acharya N.G. Ranga Agricultural University. College of Agriculture. Department of Entomology. Hyderabad (India).",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":338,
+	"dc:subject":[
+		{"value":"resistance aux pesticides",
+	"xml:lang":"fre"
+	},
+	{"value":"disease resistance",
+	"xml:lang":"eng"
+	},
+	{"value":"virus de las plantas",
+	"xml:lang":"esp"
+	},
+	{"value":"evaluacion",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"bemisia",
+	"xml:lang":"esp"
+	},
+	{"value":"germoplasma",
+	"xml:lang":"esp"
+	},
+	{"value":"resistance aux maladies",
+	"xml:lang":"fre"
+	},
+	{"value":"resistencia a los plaguicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"plant viruses",
+	"xml:lang":"eng"
+	},
+	{"value":"virus des vegetaux",
+	"xml:lang":"fre"
+	},
+	{"value":"resistencia a la enfermedad",
+	"xml:lang":"esp"
+	},
+	{"value":"germplasm",
+	"xml:lang":"fre"
+	},
+	{"value":"pesticide resistance",
+	"xml:lang":"eng"
+	},
+	{"value":"evaluation",
+	"xml:lang":"fre"
+	},
+	{"value":"insecticide",
+	"xml:lang":"fre"
+	},
+	{"value":"insecticidas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":342,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000045",
+	"dct:identifier":"IN2015000045",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Panduranga, G.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vijayalakshmi, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy. Loka K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajashekara, H."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Field screening of 22 mungbean entries for resistance against whitefly and mungbean yellow mosaic virus (MYMV) were carried out during 2009 â 2010 at College Farm, College of Agriculture, Rajendranagar, Hyderabad. Resistant check (ML 267) and KM 200 recorded low whitefly population of 1.33 and 1.55/5 plants, respectively, whereas the susceptible check (WGG 2) recorded high mean population of whiteflies (9.11/5 plants) followed by MGG 350 (7.66/5 plants) and UPM 99(6.77/5 plants). The mungbean yellow mosaic virus (MYMV) incidence ranged from 5.66 to 58.29%. The resistant check ML 267 (5.66%) followed by LGG 407 (11.87%) recorded less incidence while the susceptible check WGG 2 showed high incidence (58.29%). The mungbean entries were categorized based on their resistance reaction to mungbean yellow mosaic virus (MYMV) on 0â5 scale. None of the entries were found to be highly resistant and the resistant check ML 267 (5.66%) showed resistant reaction while 12 entries with 11.87 to 19.12% disease incidence were found moderately resistant. Other 5 entries with 20.48 â 26.73% MYMV disease were moderately susceptible and the susceptible check WGG 2 with 58.29% disease incidence was categorized as highly susceptible. The entry ML 267 which showed resistant reaction to mungbean yellow mosaic virus (MYMV) recorded highest yield of 1103 kg/ha. Among the 12 moderately resistant lines, 4 lines viz, LGG 407, MGG 356, KM 200 and NM 1 which recorded the yield ranging from 831 to 972 kg/ha were found to be the promising lines against MYMV.",
+	"xml:lang":"eng"
+	}
+	}}

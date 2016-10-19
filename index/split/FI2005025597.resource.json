@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of heavy metals in fishes, water and sediments of Lake Kainji, Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025597",
+	"dct:identifier":"FI2005025597",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/e2.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amoo, I.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adebayo, O.T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lateef, A.J. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The level and distribution of cadmium, lead, copper, zinc and cobalt in five commercially important fishes, water and sediments at three locations (downstream, midstream and upstream) in lake Kainji, Nigeria were determined using standard methods. The ranges of heavy metals (µg/g) in fishes were: Cd 0.04–0.20, Pb 0.00–1.12, Cu 0.23-2.93, Zn 15.5–36.8, Co 0.04-0.27. The levels of heavy metals (µg/g) in most water samples for the three studied locations fall within following ranges: Cd 0.004–0.015, Pb 0.004-0.015, Zn 0.050–0.060 and Cu 0.01-0.04. Concentration (µg/g) ranges of metals in sediments were: Cd 0.02-0.05, Pb 9.33-16.00, Cu 4.26-24.00, Zn 35-42, Co 8.69-15.00. Generally there was correlation between the levels of heavy metals in sediments, fish and water. The highest concentrations of these heavy metals were observed in the downstream followed by upstream and midstream. The concentrations of the tested heavy metals were within the acceptable standards of WHO. The concentration ranges will not pose any serious threat to the life of biota or man as a consumer."}
+	}}

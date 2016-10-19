@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Prospects for cassava breeding in Sub-Saharan Africa in the next decade"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591915",
+	"dct:identifier":"US201301591915",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a15.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dixon, A. G. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ssemakula, G. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Cassava is an appropriate commodity to feature in Africa’s future economic development. As the crop rapidly changes from a basic foodstuff to a source of income and employment for rural populations, there is a parallel need to increase productivity, marketing opportunities and profitability. This calls for development and/or the introduction of technologies that will drive down costs of production, harvesting, processing and marketing to make cassava competitive with other raw materials and improve the quantity and quality of cassava products for diversified uses. The development and delivery/promotion of productivity-enhancing technologies and adding value will attract urban consumers and industries, create demand, stimulate increased production and provide more income for producers, processors and traders. This paper highlights prospects for cassava breeding in sub-Saharan Africa in the next decade with a view to meeting these challenges."}
+	}}

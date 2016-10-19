@@ -1,0 +1,85 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Efficiency of entomopathogenic fungi to the control of Sitophilus oryzae L. (Coleoptera: Curculionidae) under laboratory condictions",
+	"xml:lang":"eng"
+	},
+	{"value":"   Eficiência de fungos entomopatogênicos para o controle de Sitophilus oryzae L. (Coleoptera: Curculionidae) em condições de laboratório ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"biological control",
+	"xml:lang":"eng"
+	},
+	{"value":"sitophilus oryzae",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"6/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206654",
+	"dct:identifier":"BR2015206654",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/519/307",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Agostini Thiago Trevisoli"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agostini Lucas Trevisoli"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Duarte Rogério Teixeira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Volpe Haroldo Xavier Linhares"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Salas Claudio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Polanczyk Ricardo Antonio"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias (FCAV/UNESP) - Câmpus de Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias (FCAV/UNESP) - Câmpus de Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias (FCAV/UNESP) - Câmpus de Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias (FCAV/UNESP) - Câmpus de Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias (FCAV/UNESP) - Câmpus de Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias (FCAV/UNESP) - Câmpus de Jaboticabal, SP, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this research was to evaluate, under laboratory conditions, the efficiency of strainsof the entomopathogenic fungi Beauveria bassiana, Metarhizium anisopliae and Isaria fumosoroseato control Sitophilus oryzae. We performed bioassays with B. bassiana strains, IBCB 01, IBCB 17 e IBCB18, and Isaria fumosorosea strain, ARSEF 7050, the commercial products of B. bassiana (Boveril®,PM) and M. anisopliae (Metarril®, PM) and strains of B. bassiana and M. anisopliae grown in rice,cultivated by sugarcane mill. Unsexed adults of S. oryzae were immersed in a solution with 1.0 x 108viable conidia / mL and placed in Petri dishes containing corn grains. For each strain we performedfour replicates with fifteen insects each and the mortality was evaluated daily, for 15 days. Exceptfor M. anisopliae strain obtained from sugarcane mill, the others entomopathogens tested werepathogenic to S. oryzae, however, caused low mortality, which range between 5 to 25%, with lowpossibility to be adopted as a control method for this insect in stored corn grains.",
+	"xml:lang":"eng"
+	},
+	{"value":"O objetivo da pesquisa foi avaliar, em condições de laboratório, a eficiência de isolados dos fungos entomopatogênicos Beauveria bassiana, Metarhizium anisopliae e Isaria fumosorosea no controle populacional de Sitophilus oryzae. Foram realizados bioensaios com os isolados de B. bassiana, IBCB 01, IBCB 17 e IBCB 18, e I. fumosorosea, ARSEF 7050, os produtos comercias a base de B. bassiana (Boveril®, PM) e M. anisopliae (Metarril®, PM) e os isolados de B. bassiana e M. anisopliae cultivados em arroz, produzidos em usinas de cana-de-açúcar. Adultos não separados por sexo de S. oryzae foram imersos em solução de conídios na concentração de 1,0 x 108 conídios viáveis/ mL e acondicionados em placas de Petri contendo grãos de milho. Para cada isolado foram realizadas quatro repetições, com quinze insetos cada, e a mortalidade avaliada iariamente, por um período de 15 dias. Com exceção do isolado de M. anisopliae obtido de usina de cana-deaçúcar, os demais entomopatógenos analisados foram patogênicos à S. oryzae, porém, causaram baixa mortalidade, que variou entre 5 a 25%, sendo pouco promissores para adoção como medida de controle desse inseto em grãos de milho armazenados.",
+	"xml:lang":"por"
+	}
+	]
+	}}

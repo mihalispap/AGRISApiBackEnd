@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"UV-A treatment delays yellowing of cucumber during storage"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911248",
+	"dct:identifier":"US201300911248",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/f6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kasim, M. Ufuk (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kasim, Rezzan (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Cucumbers (Cucumis sativus L. cv. Silor) were treated with UV-A light and stored at both 5 and 10oC for 15 days. The UV-A treatments reduced yellowing and senescence of cucumbers during the storage at 10oC. Green colour was maintained best in cucumbers treated with UV-A for 30-min. However, the UV-A treatment had no effect on the color of cucumbers stored at 5oC. UV-A-treated cucumbers also kept firmer at 10oC, but at 5oC only cucumbers treated for 5- and 10-min. UV-A treatments affected flesh firmness. Total soluble solids and weight loss of UV-A-treated cucumbers were high both at 5 and 10oC, but UV-A treatments had did not reduce chilling injury symptoms as measured by electrolyte leakage."}
+	}}

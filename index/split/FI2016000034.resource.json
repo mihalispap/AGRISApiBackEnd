@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"IP and the \"Godt Norsk\" campaign.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Hofsvang, Trond.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kilpailukyky"},
+	{"value":"hedelmänviljely"},
+	{"value":"vihannesviljely"},
+	{"value":"elintarvikkeiden laatu"},
+	{"value":"vegetable crops"},
+	{"value":"fruit products"},
+	{"value":"foods"},
+	{"value":"marketing techniques"},
+	{"value":"integroitu tuotanto"},
+	{"value":"markkinointi"},
+	{"value":"vegetable products"},
+	{"value":"fruit crops"},
+	{"value":"quality"},
+	{"value":"puutarhaviljely"},
+	{"value":"viljelymenetelmät"},
+	{"value":"economic competition"},
+	{"value":"Norway"},
+	{"value":"integrated plant production"},
+	{"value":"sadon laatu"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF Seminar
+    (1995 :
+    Lillehammer)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000034",
+	"dct:identifier":"FI2016000034",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

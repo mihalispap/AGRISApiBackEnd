@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Enhancing germination in seeds of African star apple, Chrysophyllum albidum (G. Don).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Aduradola, A. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adeola, B. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adedire, M. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"siemen"},
+	{"value":"Chrysophyllum"},
+	{"value":"scarification"},
+	{"value":"sulphuric acid"},
+	{"value":"seeds"},
+	{"value":"käsittely"},
+	{"value":"itäminen"},
+	{"value":"germination"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000812",
+	"dct:identifier":"FI2016000812",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

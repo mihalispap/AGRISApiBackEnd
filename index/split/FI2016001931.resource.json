@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Site quality curves for birch stands in north-western Spain /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Diéguez-Aranda, Ulises.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grandas-Arias, José Antonio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Álvarez-González, Juan Gabriel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gadow, Klaus von.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Hossfeld model"},
+	{"value":"base-age invariant dynamic equation"},
+	{"value":"Spain"},
+	{"value":"hieskoivu"},
+	{"value":"generalized algebraic difference approach"},
+	{"value":"mathematical models"},
+	{"value":"Galicia"},
+	{"value":"kasvupaikkatekijät"},
+	{"value":"kasvumallit"},
+	{"value":"matemaattiset mallit"},
+	{"value":"site factors"},
+	{"value":"Betula pubescens"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001931",
+	"dct:identifier":"FI2016001931",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors affecting wind and snow damage of individual trees in a small management unit in Finland : assessment based on inventoried damage and mechanistic modelling.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zubizarreta Gerendiain, Ane.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pellikka, Petri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Garcia-Gonzalo, Jordi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ikonen, Veli-Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltola, Heli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"risk"},
+	{"value":"critical wind speed"},
+	{"value":"Betula"},
+	{"value":"snow cover"},
+	{"value":"wind speed"},
+	{"value":"Pinus sylvestris"},
+	{"value":"damage"},
+	{"value":"Picea abies"},
+	{"value":"damage risk"},
+	{"value":"snow loading"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000598",
+	"dct:identifier":"FI2016000598",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

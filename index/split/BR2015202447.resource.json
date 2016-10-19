@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Bovine biofertilizer and irrigation layers on lettuce development and leaf chlorophyll",
+	"xml:lang":"eng"
+	},
+	{"value":"   Biofertilizante bovino e laminas de irrigação no desenvolvimento e clorofila foliar da alface ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"water",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202447",
+	"dct:identifier":"BR2015202447",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/349/237",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chiconato Denise Aparecida"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista “Júlio de Mesquita Filho”, Jaboticabal, SP, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"It is necessary and urgent the search by sources of organic fertilizer and decrease the consumption of water for irrigation. In the context, the aim of this study was to evaluate the nutritional effects of the use of bovine biofertilizers incorporated into the soil and of the irrigation in the development of lettuce. The research was developed, using an experimental design in randomized blocks, factorialscheme 6x2, with six levels of fertilization (4 doses of bovine biofertilizer and two witnesses: without fertilizer and mineral fertilizer) and two irrigation layers (80 and 100% of reference evapotranspiration) with four replications, in the field. The variables analyzed were: height, head diameter, chlorophyll,leaf number, fresh matter and dry matter of plant tops. It was performed by analysis of variance of F test, comparison of means by Tukey test (p",
+	"xml:lang":"eng"
+	}
+	}}

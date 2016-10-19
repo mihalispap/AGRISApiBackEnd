@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Temperament and reproductive performance in farmed sable.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Korhonen, Hannu.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"domestication"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"behaviour"},
+	{"value":"Martes zibellina"},
+	{"value":"animal breeding"},
+	{"value":"soopeli"},
+	{"value":"turkistarhaus"},
+	{"value":"furbearing animals"},
+	{"value":"lisääntyminen"},
+	{"value":"martens"},
+	{"value":"tarhaus"},
+	{"value":"turkiseläimet"},
+	{"value":"reproductive performance"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001345",
+	"dct:identifier":"FI2016001345",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

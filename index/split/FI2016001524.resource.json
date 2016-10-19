@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Integrerad bekämpning av gråmögel på jordgubbe : användning av sjukdomsprognos.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Parikka, Päivi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"soft fruits"},
+	{"value":"Finland"},
+	{"value":"forecasting"},
+	{"value":"torjuntamenetelmät"},
+	{"value":"ennustemenetelmät"},
+	{"value":"Fragaria ananassa"},
+	{"value":"kasvitaudit"},
+	{"value":"disease control"},
+	{"value":"sienitaudit"},
+	{"value":"marjanviljely"},
+	{"value":"harmaahome"},
+	{"value":"fungal diseases"},
+	{"value":"mansikat"},
+	{"value":"fruit crops"},
+	{"value":"Botrytis cinerea"},
+	{"value":"integroitu torjunta"},
+	{"value":"integrated plant production"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (254 :
+    1995 :
+    Mariehamn)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001524",
+	"dct:identifier":"FI2016001524",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

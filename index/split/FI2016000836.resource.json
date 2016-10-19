@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Stress intensity factor of wood from crack-tip displacement fields obtained from digital image processing.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Samarasinghe, Sandhya.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kulasiri, Don.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Pinus radiata"},
+	{"value":"orthotropic fracture theory"},
+	{"value":"fractures"},
+	{"value":"fracture thougness"},
+	{"value":"digital image correlation"},
+	{"value":"murtumat"},
+	{"value":"ominaisuudet"},
+	{"value":"wood properties"},
+	{"value":"puu"},
+	{"value":"stress intensity factor"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000836",
+	"dct:identifier":"FI2016000836",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

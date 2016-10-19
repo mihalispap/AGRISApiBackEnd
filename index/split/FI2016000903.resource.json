@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A model for the diameter-height distribution in an uneven-aged beech forest and a method to assess the fit of such models.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zucchini, Walter.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schmidt, Matthias.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gadow, Klaus von.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pseudo-residuals"},
+	{"value":"diameter"},
+	{"value":"Fagus"},
+	{"value":"diameter-height distribution"},
+	{"value":"micture models"},
+	{"value":"goodness-of-fit"},
+	{"value":"arviointi"},
+	{"value":"pyökki"},
+	{"value":"models"},
+	{"value":"height"},
+	{"value":"läpimitta"},
+	{"value":"mallit"},
+	{"value":"jakaumat"},
+	{"value":"uneven aged stands"},
+	{"value":"korkeus"},
+	{"value":"bivariate normal distribution"},
+	{"value":"eri-ikäiset metsiköt"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000903",
+	"dct:identifier":"FI2016000903",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

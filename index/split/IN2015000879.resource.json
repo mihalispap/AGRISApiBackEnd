@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Correlation and path coefficient analysis of yield components in cocoa (Theobroma cacao L.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":358,
+	"dc:subject":[
+		{"value":"Correlation coefficient"},
+	{"value":"dry bean"},
+	{"value":"yields",
+	"xml:lang":"eng"
+	},
+	{"value":"rendimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"metodos estadisticos",
+	"xml:lang":"esp"
+	},
+	{"value":"semilla de cacao",
+	"xml:lang":"esp"
+	},
+	{"value":"rendement",
+	"xml:lang":"fre"
+	},
+	{"value":"statistical methods",
+	"xml:lang":"eng"
+	},
+	{"value":"feve de cacao",
+	"xml:lang":"fre"
+	},
+	{"value":"theobroma cacao",
+	"xml:lang":"esp"
+	},
+	{"value":"cocoa beans",
+	"xml:lang":"eng"
+	},
+	{"value":"methode statistique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":363,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000879",
+	"dct:identifier":"IN2015000879",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thondaiman, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajamani, K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Phenotypic correlations and their direct and indirect effects were estimated with twenty traits of 151 cocoa trees using path analysis. A high coefficient of phenotypic correlation was found between, tree girth, pod length, pod weight, pod volume, number of beans per pod, wet bean weight per pod before and after fermentation, dry bean weight per pod, single wet bean weight, single dry bean weight, number of pods per tree and polyphenol content exhibited highly significant positive correlation with the dry bean yield per tree. However, path analysis revealed that jorquetting height, tree girth, number of fan branches, pod girth, pod volume, pod wall thickness at furrows, wet bean per pod weight after fermentation, dry bean weight per pod, number of pods per tree, shelling percentage, fat content and polyphenol exhibited significance at high level in positive direction.",
+	"xml:lang":"eng"
+	}
+	}}

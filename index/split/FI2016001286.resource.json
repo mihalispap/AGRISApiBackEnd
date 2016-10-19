@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/46422/14084",
+	"dct:language":"eng",
+	"dct:title":{"value":"Crop yields and supply of nitrogen compared in conventional and organic farming systems.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Alaru, Maarika,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Talgre, Liina,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eremeev, Viacheslav,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tein, Berit,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Luik, Anne,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nemvalts, Anu,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Loit, Evelin,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dry matter content"},
+	{"value":"crop rotation"},
+	{"value":"kasvinvuorotus"},
+	{"value":"crop yield"},
+	{"value":"conventional farming"},
+	{"value":"farming systems"},
+	{"value":"fertilizer application"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"nitrogen"},
+	{"value":"peltokasvit"},
+	{"value":"organic agriculture"},
+	{"value":"sato"},
+	{"value":"maaperä"},
+	{"value":"tavanomainen viljely"},
+	{"value":"valkuaisaineet"},
+	{"value":"typpi"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001286",
+	"dct:identifier":"FI2016001286",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

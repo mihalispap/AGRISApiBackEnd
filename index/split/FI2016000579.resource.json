@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The role of moose as a disturbance factor in managed boreal forests /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Edenius, Lars.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergman, Margareta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ericsson, Göran.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Danell, Kjell.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"Scandinavia"},
+	{"value":"Alces alces"},
+	{"value":"elks"},
+	{"value":"ungulates"},
+	{"value":"hirvituhot"},
+	{"value":"damage"},
+	{"value":"häiriödynamiikka"},
+	{"value":"boreal forests"},
+	{"value":"hirvi"},
+	{"value":"boreaaliset metsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000579",
+	"dct:identifier":"FI2016000579",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

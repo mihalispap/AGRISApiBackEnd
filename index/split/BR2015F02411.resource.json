@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Integra SP - Integração lavoura-pecuária-floresta no Noroeste Paulista ",
+	"xml:lang":"eng"
+	},
+	{"value":"Integra SP - Integrated crop-livestock-forest in Northwest of São Paulo State",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"systems",
+	"xml:lang":"eng"
+	},
+	{"value":"dairy cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"beef cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"integrated management",
+	"xml:lang":"eng"
+	},
+	{"value":"silvicultural systems",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02411",
+	"dct:identifier":"BR2015F02411",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1403800768.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BORGES, W.L.B"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, G.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FREITAS, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PAZIANI, S.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NICODEMO, M.L.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, C.E.S."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"In the northwest of São Paulo State, since 2009, several studies involving integrated crop-livestock-forest (ILPF), have shown satisfactory results, showing up as good options for a sustainable agricultural production on region. There are three demonstrative and research units with the system ILPF, two located in Votuporanga (SP), one at APTA and another at Sítio São Luiz, and another unit at Fazenda Porto Brazil in Riolândia (SP), and two demonstrative units with silvipastoral system, one with dairy cattle at Sítio Matsumori, located in Aspásia (SP), and another with beef cattle at Fazenda Alto Alegre, located in Olímpia (SP).",
+	"xml:lang":"eng"
+	},
+	{"value":"No Noroeste do Estado de São Paulo, desde 2009, diversos estudos envolvendo integração lavoura-pecuária-floresta (ILPF) têm apresentado resultados satisfatórios, sendo boa opção para produção agropecuária sustentável, nas condições edafoclimáticas da região. O presente estudo apresenta resultados preliminares de pesquisas e observações de campo realizadas em cinco unidades demonstrativas e de pesquisa com o sistema ILPF, sendo três unidades com o sistemas agrossilvipastoril, duas localizadas no município de Votuporanga (SP), uma no Polo Regional de Desenvolvimento Tecnológico dos Agronegócios do Noroeste Paulista, da Agência Paulista de Tecnologia dos Agronegócios (APTA), da Secretaria de Agricultura e Abastecimento (SAA) e outra no sítio São Luiz, e outra unidade na Fazenda Porto Brasil, no município de Riolândia (SP). Há também duas unidades demonstrativas com o sistema silvipastoril, uma com gado de leite no Sítio Matsumori, localizado no município de Aspásia (SP), e outra com gado de corte, na Fazenda Alto Alegre, localizada no município de Olímpia (SP).",
+	"xml:lang":"por"
+	}
+	]
+	}}

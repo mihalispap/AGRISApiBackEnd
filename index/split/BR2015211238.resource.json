@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Emergency and seedling growth of sweet passion fruit according to sewage sludge and light",
+	"xml:lang":"eng"
+	},
+	{"value":"   Emergência e crescimento de mudas de maracujá doce em função de lodo de esgoto e luz ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"soil types",
+	"xml:lang":"eng"
+	},
+	{"value":"shading",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"6/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015211238",
+	"dct:identifier":"BR2015211238",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.comunicatascientiae.com.br/comunicata/article/download/745/322",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Freitas Allan Rocha de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lopes José Carlos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alexandre Rodrigo Sobreira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Venancio Luan Peron"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zanotti Rafael Fonsêca"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo, Vitória, ES, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo, Vitória, ES, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo, Vitória, ES, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo, Vitória, ES, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo, Vitória, ES, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"e cobertura com três telas sombrite pretas (0,40 μmol m-2 s-1 ). No cultivo de maracujazeiro doce em solos tratados com lodo deesgoto, as plantas apresentam maior crescimento. A utilização de duas e três telas sombrite (0,70 e 0,40 μmol m-2 s-1), respectivamente, proporcionou maior crescimento vegetativo das mudas de maracujazeiro doce."},
+	{"value":"cover with two black screen (0,70 μmol m-2 s-1) and cover with three black screen (0,40 μmol m-2 s-1).The cultivation of sweet passion fruit in soils treated with sewage sludge, the plants have increased growth. The use of two or three black screens (0.70 and 0.40 μmol m-2 s-1), respectively, providedgreater vegetative growth of seedlings of sweet passion fruit.",
+	"xml:lang":"por"
+	},
+	{"value":"The species Passiflora alata Curtis is native from Brazil and provides good growth by finding suitable ecological conditions. The objective of this study was to evaluate the emergence of seeds and growth of seedlings of sweet passion in soils fertilized with sewage sludge under different luminous intensity. The experiment was conducted in Laboratório de Análise de Sementes in a greenhouse at the Center for Agricultural Sciences, Universidade Federal do Espírito Santo (CCA-UFES), AlegreES. The treatments were arranged in a factorial design (6x4) consisting of two soil types (Typic and Oxisol) + sewage sludge: without sludge, with sludge and sludge-amended with limestone underthe four luminous intensity [full sun (0,85 μmol m-2 s-1), cover with a black mesh (0,74 μmol m-2 s-1)",
+	"xml:lang":"eng"
+	},
+	{"value":"cobertura com uma tela sombrite preta (0,74 μmol m-2 s-1)"},
+	{"value":"A espécie Passiflora alata Curtis é nativa do Brasil e apresenta bom desenvolvimento por encontrar condições ecológicas adequadas. Objetivou-se com o presente trabalho avaliar a emergênciade sementes e o crescimento de mudas de maracujazeiro doce, em solos fertilizados com lodo de esgoto sob diferentes intensidades luminosas. O experimento foi conduzido em ambiente protegido, no Laboratório de Análise de Sementes do Centro de Ciências Agrárias da Universidade Federal do Espírito Santo (CCA-UFES), em Alegre-ES. Os tratamentos foram distribuídos num esquema fatorial (6x4), constituídos de dois tipos de solo (Latossolo Amarelo e Latossolo Vermelho)+ lodo de esgoto: sem lodo, com lodo e com lodo de esgoto corrigido com calcário, sob quatro intensidades luminosas: sol pleno (0,85 μmol m-2 s-1 )"},
+	{"value":"cobertura com duas telas sombrite pretas (0,70 μmol m-2 s-1)"}
+	]
+	}}

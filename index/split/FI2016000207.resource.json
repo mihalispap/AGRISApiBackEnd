@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical composition and antimicrobial activity of essential oils from Tunisian Mentha pulegium L.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Marzouk, Belsem.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fredj, Mouna Ben Hadj.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chraief, Imed.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mastouri, Maha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boukef, Kamel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marzouk, Zohra.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"essential oils"},
+	{"value":"antimicrobial properties"},
+	{"value":"chemical composition"},
+	{"value":"Mentha pulegium"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000207",
+	"dct:identifier":"FI2016000207",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

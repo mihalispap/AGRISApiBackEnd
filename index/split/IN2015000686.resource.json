@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"IRMA associates with CDB",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":22,
+	"dc:subject":[
+		{"value":"INSTITUTIONS"},
+	{"value":"PROGRAMMES"},
+	{"value":"OPPORTUNITY"},
+	{"value":"estudiantes",
+	"xml:lang":"esp"
+	},
+	{"value":"students",
+	"xml:lang":"eng"
+	},
+	{"value":"eleve",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvi",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000686",
+	"dct:identifier":"IN2015000686",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"nov2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Minu Sagar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Madhujith, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandrabhanu Kakoty"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rohit Meshram"
+	}
+	}
+	],
+	"bibo:issue":7
+	}}

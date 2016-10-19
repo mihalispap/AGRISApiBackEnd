@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"INVENTÁRIO FLORESTAL DE GRANDES ÁREAS NA FLORESTA NACIONAL DO TAPAJÓS, PARÁ, AMAZÔNIA, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":109,
+	"bibo:volume":5,
+	"bibo:pageEnd":115,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00199",
+	"dct:identifier":"BR2015N00199",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1325",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dárlison Fernandes Andrade"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"João Ricardo Vasconcellos Gama"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lia Oliveira Melo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ademir Roberto Ruschel"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Chico Mendes de Conservação da Biodiversidade"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Oeste do Pará"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 7.0pt; mso-bidi-font-family: TwCenMT-Regular;\">Criada em 1974 no oeste do estado do Pará, a unidade de conservação federal Floresta Nacional do Tapajós, com predominância de floresta ombrófila densa, vem sendo estudada pela ciência florestal há décadas. Em 2012, foram realizados estudos sobre a composição florística e fitossociologia da Zona de Manejo Florestal Não Madeireiro da Unidade de Conservação. Foram lançadas 204 unidades amostrais de 30 m x 250 m, com 500 metros de distância entre elas, distribuídas de forma sistemática, em duas áreas, sendo 94 parcelas na Área 1 e 110 parcelas na Área 2, em uma intensidade amostral de 0,19%. Nas unidades amostrais, considerou-se as seguintes classes de tamanho: C-1 = 10 cm </span><span style=\"font-size: 7.0pt; mso-bidi-font-family: SymbolMT;\">≤ </span><span style=\"font-size: 7.0pt; mso-bidi-font-family: TwCenMT-Regular;\">DAP < 25 cm em subparcela de 30 m x 50 m; C-2 = 25 cm </span><span style=\"font-size: 7.0pt; mso-bidi-font-family: SymbolMT;\">≤ </span><span style=\"font-size: 7.0pt; mso-bidi-font-family: TwCenMT-Regular;\">DAP < 50 cm em subparcela de 30 m x 100 m; e C-3 = DAP </span><span style=\"font-size: 7.0pt; mso-bidi-font-family: SymbolMT;\">≥ </span><span style=\"font-size: 7.0pt; mso-bidi-font-family: TwCenMT-Regular;\">50 cm na parcela de 30 m x 250 m. Os dados foram processados por meio da amostragem casual estratificada. No inventário florestal foram registradas 242 espécies pertencentes a 50 famílias botânicas. Na Área 1 foram obtidas 272,5 árv. ha e área basal de 19,1 m². ha<sup>-1</sup>, enquanto na Área 2, foram 176,8 árv. ha<sup>-1</sup>  e 13,7 m². há<sup>-1</sup> . O inventário florestal adotado obteve um erro inferior a 10%, mostrou ser operacional e de baixo custo, portanto com potencial para utilização em outras áreas de floresta com grandes </span><span style=\"font-size: 7pt;\">extensões na Amazônia.</span><p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><strong><span style=\"font-size: 7.0pt; mso-bidi-font-family: \";TwCenMT-Regular\,Bold\";;\">Palavras-chave: </span></strong><span style=\"font-size: 7pt;\">inventário florestal, Unidade de Conservação, Amazônia.</span>",
+	"xml:lang":"por"
+	}
+	}}

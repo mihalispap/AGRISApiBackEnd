@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Antibiotics production by Streptomyces lavendulae under different cultural conditions"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876506",
+	"dct:identifier":"US201300876506",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rizk, Mohamed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdel-Rahman, Tahany (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Metwally, Hanaa (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Different natural raw materials were investigated for their suitability in production of antibiotics by Streptomyces lavendulae which antagonize C. albicans growth. Fish meal extract was the most favourable for growth and antibiotic production by S. lavendulae. Six antibiotics, ileumycin, mitomycin C, eurymycin, glomecidin, SL-1 pigment and saframycin A, are produced by S. lavendulae depending on the composition of the induction medium. Maximum production of ileumycin and SL-1 pigment was recorded after 5 days incubation, whereas the highest activities of mitomycin C, eurymycin and glomecidin were recorded after 2-4 days. Saframycin A was the strongest antibiotic that caused the highest degree of C. albicans inhibition after 20 hours. Addition of chloramphenicol concentrations of 30 and 45 mg/ml at pH 5.75 increased the production of saframycin A."}
+	}}

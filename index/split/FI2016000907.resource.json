@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Monitoring and information reporting through regulation : an inter-jurisdictional comparison of forestry-related hard laws.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hickey, Gordon M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Innes, John L.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"North America"},
+	{"value":"forest management"},
+	{"value":"forestry policies"},
+	{"value":"metsälainsäädäntö"},
+	{"value":"constant comparison"},
+	{"value":"forest legislation"},
+	{"value":"grounded theory"},
+	{"value":"metsätalous"},
+	{"value":"Europe"},
+	{"value":"agricultural and rural legislation"},
+	{"value":"metsähallinto"},
+	{"value":"administration"},
+	{"value":"kansainvälinen vertailu"},
+	{"value":"metsäpolitiikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000907",
+	"dct:identifier":"FI2016000907",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

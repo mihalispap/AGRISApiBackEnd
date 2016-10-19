@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Survey of waste management practices in cassava processing to gari in selected districts of Ghana"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sackey, Irene S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bani, Richard Jinks (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100162",
+	"dct:identifier":"FI2016100162",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In the processing of cassava into gari, a significant amount of waste is generated. These include peels, fibrous materials, liquor and waste water. A lot of studies have been conducted with the objective to reduce drudgery and improve yields. These studies to introduce improved technology for gari processing often do not have a component for waste management. A survey was conducted in the selected areas to obtain information from gari producers on current waste management practices. The survey showed that the wastes generated were the cassava peels, fibrous material, chaff, wash water and liquor. The management of these wastes has been described with the aid of pictures."}
+	}}

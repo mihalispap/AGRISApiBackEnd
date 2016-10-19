@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Impacts of different thinning regimes in the yield of uneven-structured Scots pine stands on drained peatland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kojola, Soili.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Penttilä, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laiho, Raija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"silviculture"},
+	{"value":"yields"},
+	{"value":"metsikön rakenne"},
+	{"value":"forestry"},
+	{"value":"intermediate cuttings"},
+	{"value":"stand characteristics"},
+	{"value":"mänty"},
+	{"value":"tuotos"},
+	{"value":"kasvu"},
+	{"value":"Pinus sylvestris"},
+	{"value":"metsätalous"},
+	{"value":"metsänhoito"},
+	{"value":"kasvatushakkuut"},
+	{"value":"growth"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001347",
+	"dct:identifier":"FI2016001347",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

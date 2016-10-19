@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Why Collaboration with Academic and Research Institutions?",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":6,
+	"dc:subject":[
+		{"value":"products",
+	"xml:lang":"eng"
+	},
+	{"value":"health",
+	"xml:lang":"eng"
+	},
+	{"value":"salud",
+	"xml:lang":"esp"
+	},
+	{"value":"huile de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"sante",
+	"xml:lang":"fre"
+	},
+	{"value":"maladie de l'homme",
+	"xml:lang":"fre"
+	},
+	{"value":"aceite de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconut oil",
+	"xml:lang":"eng"
+	},
+	{"value":"productos",
+	"xml:lang":"esp"
+	},
+	{"value":"produit",
+	"xml:lang":"fre"
+	},
+	{"value":"human diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"enfermedades humanas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":12,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000677",
+	"dct:identifier":"IN2015000677",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"nov2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Remany Gopalakrishnan"
+	}
+	},
+	"bibo:issue":7
+	}}

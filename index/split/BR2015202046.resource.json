@@ -1,0 +1,79 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Soil fertility and organic matter in Vertisol and Ultisol under forest and pasture coverage",
+	"xml:lang":"eng"
+	},
+	{"value":"   Fertilidade do solo e matéria orgânica em Vertissolo e Argissolo sob cobertura florestal e pastagem ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"carbon",
+	"xml:lang":"eng"
+	},
+	{"value":"humus",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202046",
+	"dct:identifier":"BR2015202046",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/406/215",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Loss Arcângelo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pereira Marcos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bernini Thiago"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zatorre Natália"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wadt Paulo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Catarina"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal Rural do Rio de Janeiro"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal Rural do Rio de Janeiro"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal Rural do Rio de Janeiro"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal Rural do Rio de Janeiro"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Este trabalho avaliou as alterações ocorridas na fertilidade e nas frações da matéria orgânica do solo (MOS), decorrentes da retirada da cobertura vegetal de floresta e subsequente implantação de Urochloa brizantha sob Vertissolo e Argissolo no Acre. Foram coletadas amostras de solo nas profundidades de 0-5 e 5-10 cm, ambos sob coberturas de floresta e pastagem. Foi avaliado a fertilidade e os conteúdos de carbono (C) e nitrogênio (N) do solo e das substâncias húmicas (humina, ácidos húmicos e fúlvicos). Quantificou-se o C orgânico particulado (COp), C orgânico associado aos minerais (COam) e C das frações oxidáveis. Foram encontrados maiores valores de Ca, Mg e P na área de floresta (Vertissolo) e pastagem (Argissolo). Os maiores teores de C e N foram verificados na pastagem (0-5 cm) e floresta (5-10 cm), independente do solo avaliado. Aárea de floresta apresentou os maiores teores de C e N da fração humina (Vertissolo). Sob Argissolo, este padrão foi observado na área de pastagem. A conversão da área de floresta em pastagem, mesmo com oito a dez anos de uso, ainda não restabeleceu um equilíbrio entre as frações oxidáveis do C e o COp quando comparado com os teores verificados na área de floresta, independente do solo avaliado.",
+	"xml:lang":"por"
+	},
+	{"value":"This study evaluated the changes in soil fertility and soil organic matter (SOM) fractions, after removal of the forest and establishment of Urochloa brizantha under Vertisol and Ultisol at Acre state, Brazil. Samples were collected from soil at depths of 0-5 and 5-10 cm, both under natural forest and pasture. We quantified soil testing fertility and carbon (C), nitrogen (N) and soil humic substances (humin, humic and fulvic acids) contents. We also quantified the particulate organic C (POC), organic carbon associated with soil minerals (OCAM) and carbon oxidizable fractions . Found higher values of Ca, Mg and P in the forest (Vertisol) and pasture (Ultisol). The highest levels of C and N were observed for (0-5 cm) and forest (5-10 cm), independent of the soil assessed. The area of forest showed higher levels of C and N of the humin fraction (Vertisol). Under Ultisol, this pattern was observed in the pasture. The conversion of the area of forest to pasture, even with eight to ten years old, have not restored a balance between the oxidizable fraction C and POC whencompared with the levels recorded in the forest, independent soil evaluated.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

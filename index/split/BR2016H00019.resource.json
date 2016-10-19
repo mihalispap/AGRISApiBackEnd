@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"AVALIAÇÃO DE GENÓTIPOS DE MAMONA EM DIFERENTES NÍVEIS DE ADUBAÇÃO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":9,
+	"bibo:volume":2,
+	"bibo:pageEnd":18,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00019",
+	"dct:identifier":"BR2016H00019",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-07",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/256",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Laerte Gustavo Pivetta"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maurício Dutra Zanotto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Camila de Aquino Tomaz"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Laércio Augusto Pivetta"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ana Carolina da Costa Lara Fioreze"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiago Zoz"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"O estudo teve como objetivo avaliar a resposta de híbridos do Programa de Melhoramento de Mamona da UNESP-FCA e de cultivares de mamona em diferentes níveis de adubação. O delineamento experimental utilizado foi de blocos ao acaso, em esquema fatorial 4x4, com quatro repetições. O primeiro fator correspondeu aos quatro genótipos de mamona (dois híbridos experimentais A e B e duas cultivares FCA-PB e IAC 2028) e o segundo fator correspondeu aos quatro níveis de adubação (0, 50, 100 e 150% da dose recomendada com base na análise de solo). A cultivar IAC 2028 apresentou o menor número de racemos, mas obteve maior número de grãos por racemo, massa de cem grãos e produtividade. O aumento da dose de adubo aumentou todos os componentes de produção e a produtividade. Conclui-se que adubação acima da recomendada promove aumento da produtividade e lucratividade da mamona.",
+	"xml:lang":"por"
+	}
+	}}

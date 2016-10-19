@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Spectrophotometric quantification of ascorbic acid contents of fruit and vegetables using the 2,4-dinitrophenylhydrazine method"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869594",
+	"dct:identifier":"US201300869594",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f34.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Ani, Majeed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Opara, Linus U. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Bahri, Dalila (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Rahbi, Nadia (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Accurate quantification of the nutritional and antioxidant properties of raw materials is important in the diet and nutritional management. In this study, the 2,4-dinitrophenylhydrazine colorimetric method widely used for determination of ascorbic acid level in biological fluids was adapted to estimate total vitamin C content in fruits. The procedure depends on the principle of oxidation of L-ascorbic acid to dehydroascorbic acid and 2,3- diketo-gulonic acid, followed by reaction with 2,4-dinitrophenylhydrazine. After treatment with sulfuric acid, a colored product is formed which is absorbed at 520 nm. Using standard ascorbic acid at different concentrations, Beer’s law was obeyed up to 2.0 mg dL-1 concentration range, which resulted in the following equation of the linear calibration curve: y = 4.0827x - 0.0423, R2 = 0.9923. The most critical and decisive step in the procedure for an accurate reading is the preparation of a final clear extract of the fruit or vegetable. Analysis of vitamin C contents in selected fruit using both titrimetric and spectrophotometric methods are presented."}
+	}}

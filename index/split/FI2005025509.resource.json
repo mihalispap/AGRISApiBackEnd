@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality of meat"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025509",
+	"dct:identifier":"FI2005025509",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f15.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Adegoke, G. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Falade, K. O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Major quality characteristics and pre- and postslaughter factors affecting meat quality are discussed in this review. Meat is affected by factors such as animal age, sex, strain, diet, intramuscular fat, moisture content, preslaughter conditions and processing variables. Stress before slaughter can cause undesirable effects on quality of meat like pale, soft, exudative (PSE) meat and dark, firm, dry (DFD) meat. Environmental conditions which can cause stress in animals are extremes in temperature, humidity, light, sound and confinement, and other stressors are excitement, fatigue, pain, hunger, thirst and movement to unfamiliar surroundings. After slaughter and exsanguinations, lactic acid builds up in the animal carcass causing a decline in pH which affects final meat quality. Meat should be held at 15-16°C during the onset of rigor mortis. Thaw rigor, cold shortening and heat rigor are resulted in at too low or high temperatures. Aging of carcasses or meat by holding them at refrigeration temperatures for extended periods of time after slaughter and initial chill improves the tenderness and flavour of meat."}
+	}}

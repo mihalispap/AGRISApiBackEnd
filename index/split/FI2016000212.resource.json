@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Monitoring oviposition of root flies in brassica vegetable and root crops.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Meadow, Richard.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bligaard, Jens.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nielsen, Otto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Percy-Smith, Alex.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methods"},
+	{"value":"seuranta"},
+	{"value":"vihannekset"},
+	{"value":"Delia"},
+	{"value":"monitoring"},
+	{"value":"tuhohyönteiset"},
+	{"value":"kaalikärpäset"},
+	{"value":"Brassica"},
+	{"value":"vegetable crops"},
+	{"value":"muninta"},
+	{"value":"tuhoeläimet"},
+	{"value":"havainnointi"},
+	{"value":"lisääntyminen"},
+	{"value":"pest insects"},
+	{"value":"oviposition"},
+	{"value":"menetelmät"},
+	{"value":"root crops"},
+	{"value":"juurekset"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF Seminar
+    (1995 :
+    Lillehammer)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000212",
+	"dct:identifier":"FI2016000212",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

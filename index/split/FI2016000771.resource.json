@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"NJF:s framtida roll beträffande samverkan mellan forskning, undervisning och rådgivning.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Clason, Åke.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"pohjoismainen yhteistyö"},
+	{"value":"opetus"},
+	{"value":"maatalousopetus"},
+	{"value":"maatalousneuvonta"},
+	{"value":"koulutus"},
+	{"value":"agriculture"},
+	{"value":"international cooperation"},
+	{"value":"education"},
+	{"value":"research"},
+	{"value":"tutkimus"},
+	{"value":"maataloustutkimus"},
+	{"value":"Scandinavia"},
+	{"value":"yhteistyö"},
+	{"value":"extension activities"},
+	{"value":"neuvonta"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-symposium
+    (1994 :
+    Arlanda)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000771",
+	"dct:identifier":"FI2016000771",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

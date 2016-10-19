@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Insect pests and their natural enemies on spring oilseed rape in Estonia : impact of cropping systems /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Veromann, Eve.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tarang, Tiiu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kevväi, Reelika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Luik, Anne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Williams, Ingrid.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kevätrapsi"},
+	{"value":"Estonia"},
+	{"value":"oil crops"},
+	{"value":"Brassica rapa"},
+	{"value":"viljelyjärjestelmät"},
+	{"value":"cropping systems"},
+	{"value":"rapsi"},
+	{"value":"pests"},
+	{"value":"Carabidae"},
+	{"value":"tuhoeläimet"},
+	{"value":"pests of plants"},
+	{"value":"natural enemies"},
+	{"value":"Brassica napus"},
+	{"value":"Hymenoptera"},
+	{"value":"luontaiset viholliset"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000923",
+	"dct:identifier":"FI2016000923",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

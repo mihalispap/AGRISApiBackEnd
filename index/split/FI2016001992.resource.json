@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of certain leaf characters of brinjal accessions with incidence of Bemisia tabaci.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ayyasamy, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Baskaran, P.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"Solanum melongena"},
+	{"value":"aubergines"},
+	{"value":"leaves"},
+	{"value":"lehti"},
+	{"value":"pest resistance"},
+	{"value":"munakoiso"},
+	{"value":"tuholaiskestävyys"},
+	{"value":"morfologia"},
+	{"value":"tuhoeläimet"},
+	{"value":"plant anatomy"},
+	{"value":"pests of plants"},
+	{"value":"Bemisia tabaci"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001992",
+	"dct:identifier":"FI2016001992",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

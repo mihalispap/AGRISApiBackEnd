@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Silage and the safety and quality of dairy foods : a review.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Driehuis, Frank.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"mykotoksiinit"},
+	{"value":"milk"},
+	{"value":"quality"},
+	{"value":"säilörehu"},
+	{"value":"bakteeri-itiöt"},
+	{"value":"maito"},
+	{"value":"laatu"},
+	{"value":"pathogens"},
+	{"value":"maitovalmisteet"},
+	{"value":"bacterial spores"},
+	{"value":"silage"},
+	{"value":"mycotoxins"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2015000008",
+	"dct:identifier":"FI2015000008",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

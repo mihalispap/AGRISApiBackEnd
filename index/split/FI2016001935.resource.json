@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/9373/13854",
+	"dct:language":"eng",
+	"dct:title":{"value":"Meat export competitiveness of European Union countries on global markets.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bojnec, Štefan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fertő, Imre,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"exports"},
+	{"value":"EU-maat"},
+	{"value":"kilpailukyky"},
+	{"value":"trade"},
+	{"value":"liha"},
+	{"value":"meat products"},
+	{"value":"kansainvälinen kauppa"},
+	{"value":"meat"},
+	{"value":"lihavalmisteet"},
+	{"value":"European union countries"},
+	{"value":"vienti"},
+	{"value":"international trade"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001935",
+	"dct:identifier":"FI2016001935",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

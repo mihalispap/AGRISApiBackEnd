@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Prionitautien eläintauti- ja elintarvikeriski /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Sihvonen, Liisa.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"scrapie agent"},
+	{"value":"lehmät"},
+	{"value":"spongiform encephalopathy"},
+	{"value":"prionitaudit"},
+	{"value":"hermoston taudit"},
+	{"value":"BSE-tauti"},
+	{"value":"hullun lehmän tauti"},
+	{"value":"eläintaudit"},
+	{"value":"animal diseases"},
+	{"value":"scrapie"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001768",
+	"dct:identifier":"FI2016001768",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

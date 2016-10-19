@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Variation in soil nutrient concentrations and bulk density within peatland forest sites.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Laiho, Raija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Penttilä, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laine, Jukka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"harvennus"},
+	{"value":"turvemaat"},
+	{"value":"thinning"},
+	{"value":"vaihtelu"},
+	{"value":"sampling"},
+	{"value":"drainage"},
+	{"value":"kuivatus"},
+	{"value":"peat soils"},
+	{"value":"ravinteet"},
+	{"value":"variance components"},
+	{"value":"soil density"},
+	{"value":"otanta"},
+	{"value":"irtotiheys"},
+	{"value":"spatial variation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000336",
+	"dct:identifier":"FI2016000336",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

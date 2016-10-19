@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-77.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Shifting the paradigm: alternatives to the fatal harvest of industrial agriculture: Reflections on the past and future of farming by California agricultural students"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Krupnik, Tim (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"McLaughlin, Sandell (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Altieri, Miguel A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100455",
+	"dct:identifier":"FI2016100455",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In its transformation towards industrialized, monoculture-based production, modern agriculture has brought a staggering number of negative ecological, social, cultural and economic side effects. Throughout the entire food system, it is possible to trace this crisis as it manifests itself in soil erosion, pesticide pollution, loss of biodiversity, inequitable social consequences, farm foreclosures and a myriad other environmental and social problems. Concerned about this reality, a number of students from seven California agricultural universities, engaged in a series of discussions about the dimensions and severity of the problems affecting modern industrial agriculture. Students were not only informed about the crisis but more importantly they discussed real sustainable alternatives to the current dominant systems. Proposed solutions range from the promotion of more agroecological research and education, to creation of conducive policies, local markets and better labor conditions for farmworkers. This important contribution depicts the reflection of young people concerned about the current status of agriculture and their commitment to building a more sustainable and equitable food system, a vision rarely considered by older agricultural scientitsts and policy makers, but that should be taken seriously as it brings new and fresh ideas usually lacking in academic and development circles."}
+	}}

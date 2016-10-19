@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of selenium spray on monocarpic senescence of soybean (Glycine Max L.) /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Djanaguiraman, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Devi, D. Durga.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shanker, Arun K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sheeba, J. Annie.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bangarusamy, U.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lannoitusmenetelmät"},
+	{"value":"siemen"},
+	{"value":"foliar application"},
+	{"value":"sato"},
+	{"value":"lehtilannoitus"},
+	{"value":"seleeni"},
+	{"value":"selenium"},
+	{"value":"soijapapu"},
+	{"value":"application rates"},
+	{"value":"Glycine max"},
+	{"value":"seed treatment"},
+	{"value":"soybeans"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001544",
+	"dct:identifier":"FI2016001544",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,85 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Ileal digestibility of broilers fed diets supplemented with exogenous enzymes",
+	"xml:lang":"eng"
+	},
+	{"value":"   Digestibilidade ileal de frangos de corte alimentados com dietas suplementadas com enzimas exógenas ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrition",
+	"xml:lang":"eng"
+	},
+	{"value":"amylase",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206324",
+	"dct:identifier":"BR2015206324",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/460/274",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Barbosa Nei André Arruda"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bonato Melina Aparecida"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sakomura Nilva Kazue"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dourado Leilane Rocha Barros"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fernandes João Batista Kochenborger"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kawauchi Iris Mayumi"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"BOAV ALIMENTOS LTDA, NUTRIÇÃO, Casa Branca, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista, Campus de Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista, Campus de Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Piauí, Campus Profª. Cinobelina Elvas, Bom Jesus, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista, Campus de Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista, Campus de Jaboticabal, SP, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The experiment was conducted to evaluate the effect of enzyme efficiency in diets with and without nutrient reduction on the ileal digestibility of broilers. A total of 1440 male broiler chicks (Cobb ®) were distributed in a completely randomized design with 4 treatments in a factorial 2 x 2 (two controldiets versus supplemented or not with enzyme) with 8 replicates of 45 birds in each experimental unit. The control diets were: positive control (with nutritional levels recommended in the literature for each phase) and a negative control (with reduced energy, calcium and phosphorus). Enzyme supplementation consisted of a combination of enzymes, phytase (100g/t) and complex of amylase,protease and xylanase (500g/t). We evaluated the digestibility of dry matter, crude protein and energy of birds of age 22 and 43 days old. The reduction of nutrients in the diets caused a reduction in the negative control digestible energy and protein digestibility, however, the addition of enzyme mix in the negative control increased the digestible energy in two phases, and the digestibility of protein at 22 days old. The addition of enzymes improved the digestibility of nutrients in diets with nutrient reduction.",
+	"xml:lang":"eng"
+	},
+	{"value":"O experimento foi conduzido para avaliar o efeito da eficiência enzimática em dietas com e sem redução de nutrientes sobre a digestibilidade ileal de frangos de corte. Um total de 1440 pintos de corte macho (Cobb®) foram distribuídos em um delineamento inteiramente casualizado, com 4 tratamentos em esquema fatorial 2 x 2 (duas dietas controle versus adição ou não enzimática) com 8 repetições de 45 aves em cada unidade experimental. As dietas controles foram: controle positivo (com níveis nutricionais recomendados na literatura para cada fase) e um controlenegativo (com redução de energia, cálcio e fósforo). A suplementação enzimática consistiu da combinação das enzimas fitase (100g/t) e complexo enzimático de amilase, xilanase e protease (500g/t). Foi avaliada a digestibilidade ileal da matéria seca, proteína bruta e energia das aves nasidades de 22 e 43 dias de idade. A redução dos nutrientes nas dietas controle negativo promoveu redução na energia digestível e digestibilidade da proteína, entretanto, a adição da combinação enzimática no controle negativo aumentou a energia digestível nas duas idades, e o coeficiente dedigestibilidade da proteína aos 22 dias de idade. A adição de enzimas melhorou a digestibilidade ileal de nutrientes em dietas com redução de nutrientes.",
+	"xml:lang":"por"
+	}
+	]
+	}}

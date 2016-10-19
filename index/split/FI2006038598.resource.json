@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Agrobacterium-mediated transformation and regeneration of cotton"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038598",
+	"dct:identifier":"FI2006038598",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a2(2).pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wilkins, Thea A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, Rajiv (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Trolinder, Norma L. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"??"}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical and anti-bacterial characterization of aqueous extracts of oregano, marjoram, sage and licorice and their application in milk and labneh.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Al-Turki, A. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    El-Ziney, M. G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abdel-Salam, A. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant extracts"},
+	{"value":"sage"},
+	{"value":"Bacillus subtilis"},
+	{"value":"Salvia"},
+	{"value":"volatile compounds"},
+	{"value":"drug plants"},
+	{"value":"liquorice"},
+	{"value":"food additives"},
+	{"value":"Escherichia coli"},
+	{"value":"Origanum"},
+	{"value":"antimicrobial properties"},
+	{"value":"chemical composition"},
+	{"value":"medicinal properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000787",
+	"dct:identifier":"FI2016000787",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

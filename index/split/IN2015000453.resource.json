@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Light and scanning electron microscopic studies on the tongue of adult pig. 1. Gustatory papillae",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":34,
+	"dc:subject":[
+		{"value":"lengua",
+	"xml:lang":"esp"
+	},
+	{"value":"anatomie animale",
+	"xml:lang":"fre"
+	},
+	{"value":"tongue",
+	"xml:lang":"eng"
+	},
+	{"value":"anatomia animal",
+	"xml:lang":"esp"
+	},
+	{"value":"animal morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"langue",
+	"xml:lang":"fre"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":39,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000453",
+	"dct:identifier":"IN2015000453",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pawan Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The vallate, foliate and fungiform papillae were collected from adult pigs (9), of local mixed breed immediately after their slaughter. All these papillae were lined by stratified-squamous-epithelium with varying number of cell layers. Large number of taste buds was observed in the foliate and vallate papillae especially, towards the basal portion of the medial wall of the trench. However, only a few taste buds were observed in the fungiform papillae present on the dorsolateral surface of the tongue. The lamina propria submucosa of these papillae had loose irregular connective tissue with predominance of collagen fibres. The deeper portion of the lamina propria submucosa had bundles of nerve fibres, large clusters of serous (von Ebners) and mucous glandular acini being separated by the fasciculi of striated skeletal muscles oriented in different directions. The serous glands showed predominance of neutral whereas the mucous acini presented mainly the acidic mucopolysaccharides. Electron microscopy revealed a large central papilla with pseudopapillae but without an annular pad in the vallate papilla. The foliate papillae presented parallel folds of lingual mucosa separated by gustatory furrows which were pronounced in the cut surface. Fungiform papillae were oval to round with flat surface having shallow transversely oriented grooves. Higher magnification of the surface of all the types of papillae revealed flat squamous cells with microridges having pitted appearance and the taste pores.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A framework for modelling the annual cycle of trees in boreal and temperate regions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hänninen, Heikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kramer, Koen.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthetic capacity"},
+	{"value":"climatic adaptation"},
+	{"value":"photosynthesis"},
+	{"value":"kapasiteetti"},
+	{"value":"frost resistance"},
+	{"value":"climatic change"},
+	{"value":"lepotila"},
+	{"value":"phenology"},
+	{"value":"temperate zones"},
+	{"value":"lauhkeat alueet"},
+	{"value":"sprouting"},
+	{"value":"itäminen"},
+	{"value":"boreaaliset alueet"},
+	{"value":"kylmänkestävyys"},
+	{"value":"dormancy"},
+	{"value":"adaptation"},
+	{"value":"models"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"fotosynteesi"},
+	{"value":"mallit"},
+	{"value":"sopeutuminen"},
+	{"value":"silmut"},
+	{"value":"temperate forests"},
+	{"value":"boreal forests"},
+	{"value":"fenologia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000237",
+	"dct:identifier":"FI2016000237",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

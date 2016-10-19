@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies for colour-selection of Rhynchophorus ferrugineus pheromone trap",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":386,
+	"dc:subject":[
+		{"value":"rhynchophorus ferrugineus",
+	"xml:lang":"esp"
+	},
+	{"value":"pheromone traps",
+	"xml:lang":"eng"
+	},
+	{"value":"trampas sexuales",
+	"xml:lang":"esp"
+	},
+	{"value":"piege sexuel",
+	"xml:lang":"fre"
+	},
+	{"value":"phoenix dactylifera",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":391,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000883",
+	"dct:identifier":"IN2015000883",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mahmoud M. Abdel-Azim"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rashid M. Khan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saleh A. Aldosari"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vidyasagar, P.S.P.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Samy M. Ibrahim"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paraj Shukla"
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

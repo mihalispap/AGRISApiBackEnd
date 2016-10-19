@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Variation in the results of Norway spruce planting and Scots pine direct seeding in privately-owned forests in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kankaanhuhta, Ville.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saksa, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Smolander, Heikki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"vaihtelu"},
+	{"value":"regeneration"},
+	{"value":"forest inventories"},
+	{"value":"laatu"},
+	{"value":"quality management"},
+	{"value":"yksityismetsät"},
+	{"value":"Private farms"},
+	{"value":"mänty"},
+	{"value":"forest regeneration survey"},
+	{"value":"Pinus sylvestris"},
+	{"value":"quality control"},
+	{"value":"quality"},
+	{"value":"metsäninventointi"},
+	{"value":"Picea abies"},
+	{"value":"metsänuudistus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000406",
+	"dct:identifier":"FI2016000406",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

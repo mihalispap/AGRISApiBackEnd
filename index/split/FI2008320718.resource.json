@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A longer-term forecast on global supply and demand of food products"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2008320718",
+	"dct:identifier":"FI2008320718",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f22.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Zhang, Wenjun (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bai, Changjun (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Liu, Guodao (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This study aimed at giving a longer-term forecast analysis on global food supply and demand, and providing researches with referential data on food supply and demand in the future. Historical supplies of annual per capita supplies of meat, fishery products, eggs, milk, cereals, vegetables and fruits for the world and various regions were used to construct the forecast model. The forecasts of food supplies for the world and various regions over the period 2010-2030 are based on general linear model (GLM). Food supply and demand balance in the forecast period was discussed in detail. Global meat, fishery and egg supplies are estimated to grow at the annual rates of 0.37±0.01, 0.16±0.01 and 0.09±0.01 kg/cap/yr in the coming years. World supplies of these products would reach 48.76±1.12, 17.53±1.24 and 10.54±0.77 kg/cap/yr in 2030, representing the increases of 22.2±2.8, 28.0±9.0 and 27.3±9.3% compared to the current levels. Milk supply worldwide is forecast to decline and reach 38.25±5.21 kg/cap/yr in 2030. Global cereal supply would grow at the annual rate of 0.54±0.11 kg/cap/yr and reach 176.24±10.65 kg/cap/yr in 2030. Vegetable and fruit supplies worldwide would separately achieve the relative growths of 27.6±17.1 and 20.5±5.4% and increase to 132.31±17.71 and 74.15±3.33 kg/cap/yr by 2030. The analysis on food supply and demand balance showed that the supplies of all plant products would basically meet the requirement by 2030, but there would be a greater gap between the demand and the supply of every animal product. The fishery, egg and plant supplies are suggested increasing for most of the regions. It is concluded that worldwide food problem could not be overall resolved by 2030. Various outcomes of food supply and demand for different regions and products may be expected in the coming years."}
+	}}

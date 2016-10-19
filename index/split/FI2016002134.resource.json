@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of single farm payments on less favoured areas agriculture in Scotland : a CGE analysis.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gelan, Ayele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schwarz, Gerald.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Scotland"},
+	{"value":"kannattavuus"},
+	{"value":"agricultural policies"},
+	{"value":"less favoured areas"},
+	{"value":"alueelliset erot"},
+	{"value":"farms"},
+	{"value":"maatalouspolitiikka"},
+	{"value":"maatalousreformi"},
+	{"value":"maatilat"},
+	{"value":"CAP"},
+	{"value":"productivity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002134",
+	"dct:identifier":"FI2016002134",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

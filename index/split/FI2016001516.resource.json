@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The role of parentage studies in Arabian and Bactrian camel's pedigree verification.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Al-Swailem, Abdulaziz M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Busadah, Khalid A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shehata, Maher M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Askari, Ejaz.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Saudi Arabia"},
+	{"value":"Dromedaries"},
+	{"value":"animal genetics"},
+	{"value":"animal breeding"},
+	{"value":"DNA"},
+	{"value":"genetic markers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001516",
+	"dct:identifier":"FI2016001516",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

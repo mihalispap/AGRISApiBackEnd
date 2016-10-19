@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"Nitrate Pollution in the Groundwater of Different Cropping Systems of Varanasi District, Uttar Pradesh, India",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"nitrate",
+	"xml:lang":"eng"
+	},
+	{"value":"pollution",
+	"xml:lang":"eng"
+	},
+	{"value":"groundwater",
+	"xml:lang":"eng"
+	},
+	{"value":"cropping systems",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513101",
+	"dct:identifier":"IN2016513101",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=22",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prasad Mahendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raha  Priyankar"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The occurrence of high nitrate levels in groundwater has to be recognized as a threat to humans and animals. Infant methaemoglobinaemia and nitrate poisoning in livestock occur at unexpected times and places. Nitrate pollution in the groundwater is one of the major pollution problems. In the last few decades nitrate concentration in groundwater has increased dramatically. Groundwater contamination by nitrate (NO3-) is a global problem and is most often associated with leachates derived from fertilizers and animal or human wastes. The study presented here was carried out in Varanasi district. The nitrate content in water was investigated during premonsoon (March-April, 2013) and postmonsoon (November-December, 2013) seasons and compared with the standard values given by WHO. Eighty four, from different cropping systems (i.e. rice-wheat, rice-vegetable, vegetable-vegetable, pulse-pulse, orchard and sugarcane) groundwater samples were collected from the bore wells. The analysis of nitrate in these water samples reveals that some villages have a high concentration of nitrate, exceeding permissible limits of WHO (45 mg/L), which is due to the more than the required quantity of nitrogen based fertilizers, water, manure and pesticides are used extensively which all contribute to the non point source contamination of nitrates in groundwater of the study area.",
+	"xml:lang":"eng"
+	}
+	}}

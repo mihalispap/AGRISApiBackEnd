@@ -1,0 +1,122 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of fibre degrading multi-enzyme on the performance of commercial broiler",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1052,
+	"dc:subject":[
+		{"value":"subproductos de cereales",
+	"xml:lang":"esp"
+	},
+	{"value":"rendimiento en canal sin desollar",
+	"xml:lang":"esp"
+	},
+	{"value":"enzimas",
+	"xml:lang":"esp"
+	},
+	{"value":"cereal byproducts",
+	"xml:lang":"eng"
+	},
+	{"value":"enzyme activity",
+	"xml:lang":"eng"
+	},
+	{"value":"rendement a l'abattage",
+	"xml:lang":"fre"
+	},
+	{"value":"actividad enzimatica",
+	"xml:lang":"esp"
+	},
+	{"value":"activite enzymatique",
+	"xml:lang":"fre"
+	},
+	{"value":"dressing percentage",
+	"xml:lang":"eng"
+	},
+	{"value":"digestibilite",
+	"xml:lang":"fre"
+	},
+	{"value":"enzyme",
+	"xml:lang":"fre"
+	},
+	{"value":"digestibilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"enzymes",
+	"xml:lang":"eng"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"alimentation",
+	"xml:lang":"fre"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"sous-produit de cereales",
+	"xml:lang":"fre"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"alimentacion",
+	"xml:lang":"esp"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1059,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000276",
+	"dct:identifier":"IN2015000276",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pattanaik, J.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Panda, N"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pati, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dehuri, P.K."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The objective of the present experiment is to study the effect of multi-enzyme on maize-soyabean-deoiled rice bran (DORB) diets on broiler. Day-old broiler chicks (192) were randomly distributed into 8 groups. In 4 control groups i.e. C 1 , C 2 , C 3 , C 4  the ME content of starter feed was decreased @ 0, 5, 7.5, 10%, respectively, from C  (2800 Kcal/kg and CP 23%). In the treatment groups i.e. T 1 , T 2 , T 3  and T  multi enzyme was added @ 500 g/ tonne of feed. At the end of the experiment, the birds of T 1 4  group recorded highest body weight of 1760 g which was not significantly different with T 2  and C 1 . During fourth, fifth and sixth week of age, chicks under the enzyme treated groups in T  had higher body weights. At the end of the sixth week the FCR by the birds varied between 2.01 to 2.34. The average retention nitrogen in all the control groups varied from 36.34 to 49.24% and in treated groups from 38.36 to 50.59%. The digestibility of CF decreased and the % retention of energy in T 1 , T 2  and T  groups was significantly higher than their corresponding control groups. Calcium and phosphorus retention in the birds varied from 37.58 to 41.13% and 28.98 to 32.15% in control where as it varied from 38.70 to 45.60% and 34.94 to 38.87 in treated groups, respectively. There was nonsignificant difference in dressing percentage and yield percentage in all the treated groups. By addition of enzyme to the control ration, the expenditure on feed was reduced. 4",
+	"xml:lang":"eng"
+	}
+	}}

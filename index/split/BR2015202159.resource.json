@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Effective diffusivity and activation energy in flours of residuals annatto grains",
+	"xml:lang":"eng"
+	},
+	{"value":"   Difusividade efetiva e energia de ativação em farinhas de grãos residuais de urucum ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"incorporation",
+	"xml:lang":"eng"
+	},
+	{"value":"drying",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202159",
+	"dct:identifier":"BR2015202159",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/259/224",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Santos Diego"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Queiroz Alexandre"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Figueirêdo Rossana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira Emanuel"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Os grãos residuais de urucum são o subproduto proveniente do processo de extração da bixina, corante utilizado em indústrias alimentícias, cosméticas e farmacêuticas. A maior parte desse resíduo tem sido descartada no ambiente, o que se constitui em desperdício uma vez que, como outros grãos, é fonte de carboidratos, proteínas e fibras alimentares. Uma forma de viabilizar o aproveitamento desses grãos é processando-os em farinha e fazendo a sua incorporação àoutras farinhas comerciais de grãos diversos. Neste trabalho objetivou-se determinar a difusividade efetiva e obter a energia de ativação em processo de secagem de farinha de grãos residuais de urucum, com e sem a camada de óleo proveniente do processo de extração industrial dabixina. As secagens foram realizadas nas temperaturas de 40, 50, 60 e 70 °C, e velocidade do ar de aproximadamente 1 m s-1. O valor calculado da difusividade efetiva variou de 0,23 × 10-11 a 2,24 × 10-11 m2 s-1, para a amostra com óleo, e de 0,66 × 10-11 a 4,89 × 10-11 m2 s-1, para a amostra semóleo. As energias de ativação foram de 70,56 e 58,95 KJ mol-1, para a amostra com e sem óleo, respectivamente, com as amostras sem óleo evidenciando maiores taxas de secagem.",
+	"xml:lang":"por"
+	},
+	{"value":"The residual annatto grains are the subproduct from the extraction process of bixin, dye used in food, cosmetic and pharmaceutical industries. The most of this waste has been discarded in the environment, what constitutes wasteful since, like other grains, is source of carbohydrates, proteinand food fibers. One way to facilitate the use of these grains is suing them for making flour and incorporating them in commercial flour of other grains. This work aimed to determine the effective diffusivity and obtain the activation energy in the drying process of flours of residuals annatto grains,with and without the oil layer from the process of industrial extraction of bixin. The dryings was performed at 40, 50, 60 and 70 °C, and air velocity of about 1 m s-1. The calculated value of the effective diffusivity ranged from 0.23 × 10-11 to 2.24 × 10-11 m2 s-1 for the sample with oil, and 0.66 × 10-11 to 4.89 × 10-11 m2 s-1 for the sample without oil. The activation energies were of 70.56 and 58.95 KJ mol-1 for the sample with oil and without oil, respectively, in which the samples without oil presented higher rates of drying.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

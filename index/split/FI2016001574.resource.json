@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"mRNA cnf1 detection for monitoring viability and pathogenicity in an uropathogenic Escherichia coli J96 maintained in laboratory seawater microcosm /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ikbel, Denden.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kassem, Mahdouani.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jemni, Ben Chibani.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bakhrouf, Amina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"merivesi"},
+	{"value":"sea water"},
+	{"value":"patogeenisuus"},
+	{"value":"viability"},
+	{"value":"Escherichia coli"},
+	{"value":"pathogenicity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001574",
+	"dct:identifier":"FI2016001574",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

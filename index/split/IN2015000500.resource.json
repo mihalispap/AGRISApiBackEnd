@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bio-efficacy of insecticides and bio-pesticides against pod borer and jassids on Cowpea, Vigna uniguiculata (L.) Walp.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":264,
+	"dc:subject":[
+		{"value":"amrasca devastans",
+	"xml:lang":"esp"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"vigna unguiculata cylindrica",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":267,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000500",
+	"dct:identifier":"IN2015000500",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Sandeep"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pal, Sundar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lal Gore"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, D.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Umrao, R.S."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"All the treatments were most effective after first spray followed by second spray except Bt. var kurstaki against the pod borer only. The highest population reduction was recorded from imidacloprid 17.8SL @ 0.003% treated plots followed by fipronil 5 SL @ 0.01%, acetamiprid 20SP @ 0.004%, azadirachtin 1500ppm @ 0.15% and Bt. var kurstaki 1500ppm @ 0.1% against the jassid and pod borer in cowpea. The highest seed yield (1291.67 kg. ha-1) and cost benefit ratio (1: 10.37) was obtained from imidacloprid treatment.",
+	"xml:lang":"eng"
+	}
+	}}

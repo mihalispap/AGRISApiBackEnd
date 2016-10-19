@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Dynamic old-growth forests? : a case study of boreal black spruce forest bryophytes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fenton, Nicole J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergeron, Yves.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"bryophytes"},
+	{"value":"climax communities"},
+	{"value":"Picea mariana"},
+	{"value":"gap dynamics"},
+	{"value":"old-growth forest"},
+	{"value":"ecological succession"},
+	{"value":"disturbances"},
+	{"value":"boreal forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000258",
+	"dct:identifier":"FI2016000258",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Entomopathogenicity of Beauveria bassiana (Balsamo) Vuillemin against Hyadaphis coriandri (Das)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":24,
+	"dc:subject":[
+		{"value":"beauveria bassiana",
+	"xml:lang":"esp"
+	},
+	{"value":"hyadaphis",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":26,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000211",
+	"dct:identifier":"IN2015000211",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Selvaraj, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kaushik, H.D."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The studies revealed that, the cumulative corrected mortality (CCM) ranged from 22.8-45.5 % at 24 hrs and 58.4-90.9% on 7th DAT. The mortality in treated aphids increased with increase in conidial spore concentration. While, the LC50 and LT50 were found to be 1.7 X 106 spores/ml and 69.15- 147.82 hrs. respectively, with achieving 50 % mortality of H. coriandri at 69.15 hrs with dose of 1X 1010 spores/ml. Median lethal time (LT50) values were found to be inversely proportional to the spore concentration of Beauveria bassiana.",
+	"xml:lang":"eng"
+	}
+	}}

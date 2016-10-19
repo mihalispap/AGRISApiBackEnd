@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Spruce regeneration on woody microsites in a subalpine forest in the western Carpathians.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"kannot"},
+	{"value":"degradation"},
+	{"value":"deadwood"},
+	{"value":"fallen deadwood"},
+	{"value":"lahopuut"},
+	{"value":"regression model"},
+	{"value":"coarse woody debris"},
+	{"value":"Picea abies (L.) H. Karst."},
+	{"value":"lahoaminen"},
+	{"value":"decomposition"},
+	{"value":"regressioanalyysi"},
+	{"value":"Picea abies"},
+	{"value":"regression analysis"}
+	],
+	"bibo:doi":"10.14214/sf.1337",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000298",
+	"dct:identifier":"FI2016000298",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1337",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bujoczek, Leszek,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bujoczek, Małgorzata,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Banaś, Jan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ziȩba, Stanisław,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

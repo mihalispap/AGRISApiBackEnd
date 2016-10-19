@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Entomophagy by the tribal communities of North East India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":132,
+	"dc:subject":[
+		{"value":"insecta",
+	"xml:lang":"esp"
+	},
+	{"value":"coleoptera",
+	"xml:lang":"esp"
+	},
+	{"value":"entomophthora",
+	"xml:lang":"esp"
+	},
+	{"value":"orthoptera",
+	"xml:lang":"esp"
+	},
+	{"value":"odonata",
+	"xml:lang":"esp"
+	},
+	{"value":"hemiptera",
+	"xml:lang":"esp"
+	},
+	{"value":"hymenoptera",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":136,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000022",
+	"dct:identifier":"IN2015000022",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh,  K. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh,  M. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumawat,  M. M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Riba,  T."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"survey was conducted to document the edible insects available at East Siang District, Arunachal Pradesh and Bishnupur District, Manipur, northeast India. East Siang district is predominated by the Adi tribe and Bishnupur district by the Meitei community. The two ethnic groups, viz. Adi and Meitei accept insects as their food. Most of the edible insects belong to the order Hymenoptera, Hemiptera, Orthoptera, Odonata and Coleoptera. Philosamia ricini is a commercialized insect species as food in Arunachal Pradesh. Based on their resources, Adis of East Siang accepted more terrestrial insects compared to Meiteis of Bishnupur. Meitei community of Bishnupur consumed more aquatic insects. One or the other species of insects are available in all the seasons, however, more species are available in the warm season. Most of the insects are consumed after processing. Some points to be considered for encouraging these edible insects as human food are also discussed.",
+	"xml:lang":"eng"
+	}
+	}}

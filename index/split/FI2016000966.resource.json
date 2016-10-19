@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of organic farming on yield and quality of potato tubers in Ardabil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Barmaki, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khoei, F. Rahimzadeh.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salmasi, S. Zehtab.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moghaddam, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ganbalani, G. Nouri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant production"},
+	{"value":"fertilizers"},
+	{"value":"pests"},
+	{"value":"organic agriculture"},
+	{"value":"Solanum tuberosum"},
+	{"value":"potatoes"},
+	{"value":"quality"},
+	{"value":"crop yield"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000966",
+	"dct:identifier":"FI2016000966",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

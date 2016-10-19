@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a31.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Survey and evaluation of grain crop fertilization in Shandong province of China"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ma, Wenqi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mao, ?? (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhang, Fusuo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhang, Xunzhong (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100238",
+	"dct:identifier":"FI2016100238",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Chemical fertilization is a major practice for increasing grain crop yield in Shandong province of China, but nitrogen use efficiency is not clear. This study was conducted to investigate current fertilization practice and N use efficiency in this region. The data were collected through a survey and from field experiment results, and evaluated based on results from the survey, local statistical data and field experiment results. The results showed that the fertilization program for grain crop in Shandong was relatively high input, medium output, low fertilization use efficiency and low benefit. On average, N rate applied in wheat-corn rotation was 520 kg ha-1, and total grain yield of wheat and corn was 10,700 kg ha-1. This N input was greater than the recommended level for total grain yield >15,000 kg ha-1 of wheat and corn. Nitrogen use efficiency of wheat and corn were 3.4 kg kg-1 and 6.3 kg kg-1, respectively, and N recovery by wheat was about 10%. Imbalance fertilization among various grain crops or regions, excess N fertilization in wheat and corn, under-fertilization in sweet potato and coarse cereals are major problems in grain fertilization, reducing N use efficiency in this region."}
+	}}

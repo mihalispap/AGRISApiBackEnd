@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Postnatal histological development of the corpus epididymis in Assam goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":60,
+	"dc:subject":[
+		{"value":"anatomie animale",
+	"xml:lang":"fre"
+	},
+	{"value":"periodo perinatal",
+	"xml:lang":"esp"
+	},
+	{"value":"testicule",
+	"xml:lang":"fre"
+	},
+	{"value":"anatomia animal",
+	"xml:lang":"esp"
+	},
+	{"value":"perinatal period",
+	"xml:lang":"eng"
+	},
+	{"value":"testes",
+	"xml:lang":"eng"
+	},
+	{"value":"periode perinatale",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"animal morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"assam",
+	"xml:lang":"esp"
+	},
+	{"value":"testiculos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":63,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000369",
+	"dct:identifier":"IN2015000369",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sarma, Kamal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kalita, S.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devi, J."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was conducted on the corpus epididymis of 18 male Assam goats divided into six groups on the basis of age viz. I (0 day), II (2 months), III (4 months), IV (6 months), V (8 months) and VI (10 months) consisting of three animals in each group. The corpus epididymides were covered by a thick capsule composed principally of collagen fibres. Circularly arranged smooth muscle cells formed 3 to 4 layers peripheral to the basement membrane of each tubule in all the male goats except in day-old kids (G-I). The epididymal tubules were unorganized interrupted epithelium in day-old kids (G-I), distinct tubules being established from 2 month of age (G-II). Well-developed pseudo-stratified tubular epithelium was noticed from 4 month of age (G-III) onwards with principal, basal and apical cells. Sperm cells were observed in the lumina of the epididymides from 6 month of age (G-IV).",
+	"xml:lang":"eng"
+	}
+	}}

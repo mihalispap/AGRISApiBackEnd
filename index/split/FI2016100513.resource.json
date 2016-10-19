@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-18.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Prospects and benefits of biotechnology in agriculture"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Sayyed, Ali H. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100513",
+	"dct:identifier":"FI2016100513",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Recombinant DNA technology has significantly augmented the conventional crop improvement, and has a great promise to assist plant breeders to meet the increased food demand predicted for the 21st century. Progress has been made in manipulating genes from diverse and exotic sources, and inserting them into crop plants to confer resistance to insect pests and diseases, tolerance to herbicides, drought and soil salinity; improved post-harvest quality; enhanced nutrient uptake and nutritional quality and increased effectiveness of biocontrol agents. The development, testing and release of agricultural products generated through biotechnology-based processes should continuously be optimized based on the most recent experiences. This will require a dynamic and streamlined regulatory structure, clearly supportive of the benefits of biotechnology, but highly sensitive to the well being of humans and environment."}
+	}}

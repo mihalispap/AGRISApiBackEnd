@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/e13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Phosphorus fractions in poultry litter characterized by sequential fractionation coupled with phosphatase hydrolysis"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"He, Zhongqi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Senwo, Zachary N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mankolo, Regine N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Honeycutt, C. Wayne (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100335",
+	"dct:identifier":"FI2016100335",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Increased knowledge of P chemistry of poultry litter is required to optimize recycling of poultry litter P and minimize the adverse environmental effects of animal manure application to cropland. Information of organic P in poultry litter characterized by sequential fractionation is limited and even controversial. In this study, the distribution of P forms in 23 poultry litter samples was investigated with sequential fractionation coupled with orthophosphate-releasing enzymatic hydrolysis. Poultry litters were first sequentially fractionated into water-soluble, bicarbonate-soluble, hydroxide-soluble and hydrochloric acid-soluble P. Fractions were then incubated at pH 5.0 with 1) potato acid phosphatase, 2) potato acid phosphatase and nuclease P1 and 3) both enzymes plus wheat germ acid phosphatase to identify and quantify simple labile monoester P, polynucleotide P and phytate (myo-inositol hexakisphosphate)-like P, respectively. The majority of P in the 23 poultry litters was isolated within water and hydrochloric acid fractions (16 to 41% and 22 to 58% of total manure P, respectively). In contrast, both bicarbonate and hydroxide fractions contained only 3 to 16% of total manure P. Inorganic P accounted for an average of 78% of P in water extracts and 66% of P in bicarbonate extracts. The average organic P hydrolyzed enzymatically was 5 and 16% of P, respectively, in the two fractions. In hydroxide and acid fractions, 50 to 90% of P was present in organic forms. Among them, 40-70% was phytate-like P and 10-30% was simple monoester P. Thus, from a long run, impacts of relatively less labile Po in poultry litter, which was isolated in the hydroxide and acid fractions, on environments must not be neglected. The sequential fractionation coupled with phosphatase hydrolysis further provides the tool to quantitatively monitor the transformations of these organic P species in various environments."}
+	}}

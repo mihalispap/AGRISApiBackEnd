@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Puutarhayritysten tuotantokustannusten seurantamallit.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Outa, Pia.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"tuotantokustannukset"},
+	{"value":"vihannekset"},
+	{"value":"soft fruits"},
+	{"value":"Finland"},
+	{"value":"fruits"},
+	{"value":"vegetables"},
+	{"value":"horticulture"},
+	{"value":"hedelmät"},
+	{"value":"plant nurseries"},
+	{"value":"cut flowers"},
+	{"value":"models"},
+	{"value":"puutarhatuotanto"},
+	{"value":"mallit"},
+	{"value":"farms"},
+	{"value":"taimitarhat"},
+	{"value":"marjat"},
+	{"value":"ruusut"},
+	{"value":"production costs"},
+	{"value":"root vegetables"},
+	{"value":"tilamallit"},
+	{"value":"juurekset"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002180",
+	"dct:identifier":"FI2016002180",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

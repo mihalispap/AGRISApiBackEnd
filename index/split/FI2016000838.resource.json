@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Pest of small ruminants as a major constraint to small ruminant production in Cross River State, Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Owai, Patrick U.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"goats"},
+	{"value":"vuohi"},
+	{"value":"mortality"},
+	{"value":"pests of animals"},
+	{"value":"eläintaudit"},
+	{"value":"sheep"},
+	{"value":"lammas"},
+	{"value":"morbidity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000838",
+	"dct:identifier":"FI2016000838",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

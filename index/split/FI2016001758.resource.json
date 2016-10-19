@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Vasikan neonataaliripuli. Kirjallisuuskatsaus = Neonatal calf diarrhea. Literature review. 2 : Treatment and prophylaxis /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Härtel, Heidi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"vasikat"},
+	{"value":"vasikkaripuli"},
+	{"value":"hoito"},
+	{"value":"diarrhoea"},
+	{"value":"eläintaudit"},
+	{"value":"calves"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001758",
+	"dct:identifier":"FI2016001758",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

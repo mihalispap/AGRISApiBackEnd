@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A proposed method for sampling, detection and quantification of maize kernels using traditional and real-time PCR.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Al-Swailem, Abdulaziz M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shehata, Maher M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shair, Omar H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Shammari, Turki A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Anazi, Ibrahim O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sabaan, Saeed A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"elintarvikkeet"},
+	{"value":"Saudi Arabia"},
+	{"value":"genetically modified foods"},
+	{"value":"foods"},
+	{"value":"maissi"},
+	{"value":"sampling"},
+	{"value":"Zea mays"},
+	{"value":"testaus"},
+	{"value":"muuntogeeniset elintarvikkeet"},
+	{"value":"testing"},
+	{"value":"PCR-tekniikka"},
+	{"value":"näytteenotto"},
+	{"value":"PCR"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001914",
+	"dct:identifier":"FI2016001914",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1072",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Volkova, Polina,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shipunov, Alexey,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Borisova, Polina,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moseng, Reed,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ivens, Ranelle,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"In search of hybridity: the case of Karelian spruces.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"cpDNA"},
+	{"value":"Northern taiga"},
+	{"value":"taiga"},
+	{"value":"Introgression"},
+	{"value":"Picea"},
+	{"value":"mitochondrial DNA"},
+	{"value":"kuuset"}
+	],
+	"bibo:doi":"10.14214/sf.1072",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001235",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001235",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

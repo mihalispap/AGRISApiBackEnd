@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Near Infrared Spectroscopy as non-destructive method for sorting viable, petrified and empty seeds of Larix sibirica.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"OPLS"},
+	{"value":"NIRS"},
+	{"value":"Larix sibirica"},
+	{"value":"grading"},
+	{"value":"seed quality"},
+	{"value":"infrared spectrophotometry"},
+	{"value":"seeds"},
+	{"value":"seed sorting"},
+	{"value":"precision sowing"},
+	{"value":"spectroscopy"}
+	],
+	"bibo:doi":"10.14214/sf.1340",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001047",
+	"dct:identifier":"FI2016001047",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1340",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Farfani, Mostafa,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tigabu, Mulualem,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Odén, Per Christer,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

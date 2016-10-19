@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Towards more sustainable forestry? : the ethics of close-to-nature forestry.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gamborg, Christian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Larsen, J. Bo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"luonnonmetsät"},
+	{"value":"luonnonsuojelu"},
+	{"value":"kestävä kehitys"},
+	{"value":"metsiensuojelu"},
+	{"value":"virgin forests"},
+	{"value":"social values"},
+	{"value":"nature conservation"},
+	{"value":"forest management"},
+	{"value":"kestävä metsätalous"},
+	{"value":"etiikka"},
+	{"value":"ympäristöarvot"},
+	{"value":"sustainability"},
+	{"value":"metsänhoito"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002067",
+	"dct:identifier":"FI2016002067",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

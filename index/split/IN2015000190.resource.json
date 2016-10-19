@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Production and Performance of Angora Rabbit Hair- Bharat Merino Wool Blended Shawls",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":79,
+	"dc:subject":[
+		{"value":"laine",
+	"xml:lang":"fre"
+	},
+	{"value":"lapin (oryctolagus)",
+	"xml:lang":"fre"
+	},
+	{"value":"wool",
+	"xml:lang":"eng"
+	},
+	{"value":"lana",
+	"xml:lang":"esp"
+	},
+	{"value":"conejo (oryctolagus)",
+	"xml:lang":"esp"
+	},
+	{"value":"mohair",
+	"xml:lang":"esp"
+	},
+	{"value":"rabbits",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":82,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000190",
+	"dct:identifier":"IN2015000190",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Raja, A.S.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ammayappan, L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shakyawar, D.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, N.P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Angora rabbit hair was mixed with Bharat Merino wool in three different proportions viz. 28:72, 40:60 and 60:40, at the carding stage using modified cotton card. The blends were then processed to prepare yarn using semi worsted spinning system. During spinning, it was observed that rabbit hair could be blended up to 60% without any difficulties. The developed yarns were used to produce shawl fabric using powerloom, followed by dyeing with reactive dye and finishing with cationic softener. The performance of the shawls showed that softness and thermal insulation of the shawls was increased with the increase in the proportion of Angora rabbit hair from 28 to 60%. The abrasion loss was also less when the rabbit hair proportion was increased in the shawls.",
+	"xml:lang":"eng"
+	}
+	}}

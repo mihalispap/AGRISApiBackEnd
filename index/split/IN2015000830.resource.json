@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Disease index for basal stem rot of arecanut in North East India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":265,
+	"dc:subject":[
+		{"value":"DISEASE INDEX"},
+	{"value":"BASAL STEM ROOT"},
+	{"value":"ganoderma",
+	"xml:lang":"esp"
+	},
+	{"value":"tige",
+	"xml:lang":"fre"
+	},
+	{"value":"stems",
+	"xml:lang":"eng"
+	},
+	{"value":"tallos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":267,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000830",
+	"dct:identifier":"IN2015000830",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Acharya, G.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ranjana Chakrabarty"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Himadri Rabha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sandip Shil"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

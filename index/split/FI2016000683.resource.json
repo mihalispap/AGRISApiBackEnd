@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Homogenous genetic structure in populations of Taxus baccata with varied proportions of male and female individuals.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"Taxus baccata L."},
+	{"value":"genetic variation"},
+	{"value":"geneettinen monimuotoisuus"},
+	{"value":"sex ratio"},
+	{"value":"dioecy"},
+	{"value":"nSSR markers"}
+	],
+	"bibo:doi":"10.14214/sf.1236",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000683",
+	"dct:identifier":"FI2016000683",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1236",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Litkowiec, Monica,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Plitta-Michalak, Beata P,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lewandowski, Andrzej,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Iszkulo, Grzegorz,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

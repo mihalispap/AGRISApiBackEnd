@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biology of two parasitoids of leafminers Liriomyza spp., Diglyphus isaea and D. poppoea, in southern Portugal"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188193",
+	"dct:identifier":"FI2007188193",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gonçalves, M. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Almeida, L. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Since 1993, studies have been done in southern Portugal (Algarve) on leafminers, namely Liriomyza trifolii (Burgess) and L. huidobrensis (Blanchard). It was established that the ectoparasitoids Diglyphus isaea Walker and Diglyphus poppoea Walker (Hymenoptera: Eulophidae) were always present with a predominance of the first one. Therefore, the objective of this study was to establish biological parameters which could explain the predominance of D. isaea. Results showed that for this species development time was inferior and fecundity, oviposition rate and longevity were significantly superior. Mortality of this species, although not significantly inferior (8%) to D. poppoea can also be another factor."}
+	}}

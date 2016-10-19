@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth rate and wood properties of Norway spruce cutting clones on different sites /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Raiskila, Sanni.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saranpää, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fagerstedt, Kurt.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laakso, Tapio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Löijä, Mia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mahlberg, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Paajanen, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ritschkoff, Anne-Christine.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"density"},
+	{"value":"strength"},
+	{"value":"modulus of rupture"},
+	{"value":"lujuus"},
+	{"value":"modulus of elasticity"},
+	{"value":"mechanical properties"},
+	{"value":"Picea abies"},
+	{"value":"tiheys"},
+	{"value":"puutavara"},
+	{"value":"growth rate"},
+	{"value":"fysikaaliset ominaisuudet"},
+	{"value":"kasvunopeus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000552",
+	"dct:identifier":"FI2016000552",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

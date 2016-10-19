@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficacy of an area specific mineral mixture on the haemato-biochemical profile of cattle of the state of Tripura",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":968,
+	"dc:subject":[
+		{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"nutrientes minerales",
+	"xml:lang":"esp"
+	},
+	{"value":"tripura",
+	"xml:lang":"esp"
+	},
+	{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"mineral nutrients",
+	"xml:lang":"eng"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"substance nutritive minerale",
+	"xml:lang":"fre"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":970,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000174",
+	"dct:identifier":"IN2015000174",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Das, Gunjan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, M.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joshi, Chinmay"
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"A study was conducted to record the mineral status in soil, fodder and serum from four districts of Tripura state. There is a significant deficiency of P, Zn, and Cu in the soil, fodder, serum (cattle) of Tripura state. Lower values of AST (U/L) and ALT (U/L) were observed whereas, higher values of AKP (U/L) were observed in all the districts. The levels of haemoglobin, packed cell volume and total erythrocyte count were towards lower side of normal range. A mineral mixture was prepared according to the deficiency obtained. Therapeutic trial was conducted on some cattle in local and Govt. dairy farm for 90 days. Significant improvement was observed in haemato-biochemical status of the deficient animals.",
+	"xml:lang":"eng"
+	}
+	}}

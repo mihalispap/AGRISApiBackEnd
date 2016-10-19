@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vivo Tolerance to triclabendazole by mutant strains of Verticillium chlamydosporium in goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":100,
+	"dc:subject":[
+		{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"in vivo experimentation",
+	"xml:lang":"eng"
+	},
+	{"value":"benzimidazole",
+	"xml:lang":"fre"
+	},
+	{"value":"benzimidazoles",
+	"xml:lang":"esp"
+	},
+	{"value":"experimentacion in vivo",
+	"xml:lang":"esp"
+	},
+	{"value":"experimentation in vivo",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":105,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000376",
+	"dct:identifier":"IN2015000376",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kerketta, Archana E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pal, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rawte, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sanyal, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal, S.C."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Local parasitologically naÃ¯ve female goats of similar body weights divided into 3 groups, were fed on millet grain culture of albendazole mutant (VC-ABZ) and ethyl methane sulphonate mutant (VC-EMS) strains and wild strain (VC-CON) of Verticillium chlamydosporium separately following deworming at 20 g per animal per day for 15 consecutive days. On 5th day of fungus feeding, goats of all the three groups were administered intraruminally with triclabendazole (TCBZ) at 10.0 mg kg−1 body weight. Whole blood was collected in 5 ml heparinized vacutainer tubes at 0, 4, 8, 12, 18, 24, 30, 36, 48, 72, 96, 120, 144 and 168 hrs post dosing with triclabendazole. Simultaneously faecal samples were collected per rectum on the same hour intervals during blood collection and for another two days after completion of blood sampling at 24 h interval. Faecal samples were subjected to coproculture. Data on fungal recovery was superimposed with the data on plasma drug metabolite concentration so as to deduce the optimum concentration of drug that might exhibit mycostasis. The mean plasma levels of triclabendazole sulphoxide (TCBZ-SO) in goats fed on chlamydospores of all three strains of fungus after administration of triclabendazole revealed increased plasma levels in VC-ABZ fed goats at 12 h (P0.05) and 72â120 h (P0.001). For TCBZ-SO, concentration maximum (Cmax) was significantly more (P0.05) in goats fed on VC-CON compared to VC-ABZ and VC-EMS fed animals. Goats fed on VC-EMS exhibited reduced time to reach Cmax (tmax) and area under concentration-time curve (AUC; P0.05) compared to VC-CON and VC-ABZ fed goats. The experiments indicated that ABZ mutant (VC-ABZ) of V. chlamydosporium was more tolerant to in vivo administration of TCBZ compared to the wild isolate (VC-CON). However, TCBZ exhibited total mycotoxic effect on EMS mutant (VC-EMS) of V. chlamydosporium. These experiments provided evidence that both chemical and ABZ-mutant of egg parasitic fungus, V. chlamydosporium, could be used simultaneously during integrated management of fasciolosis and amphistomosis in livestock.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of packaging after 1-MCP treatment on color changes and chlorophyll degradation of broccoli (Brassica oleracea var. italica cv. Monopoly)"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869556",
+	"dct:identifier":"US201300869556",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kasim, Rezzan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kasim, M. Ufuk (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Erkal, Süleyman (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Broccoli is a highly perishable floral vegetable whose postharvest quality is influenced by transport and storage environment, particularly ethylene. Endogenously produced ethylene promotes sepal yellowing and shortens storage life whereas packaging delays color changes and prolongs storage life because of reduced respiration and ethylene production. We tested the effectiveness of the ethylene action inhibitor 1-methycyclopropene (1-MCP), as a complement to packaging to maintain postharvest quality of broccoli. ‘Monopoly’ broccoli (Brassica oleracea var. italica) heads were treated with 0.05 mg/l of MCP and packaged using three different packaging materials such as polyvinylchloride (PVC) films of 8.5 (P1) and 14 µm thickness (P2) and polyethylene (PE) bags (P3). After that broccoli heads were stored in a cold room set at 5°C temperature and 95-98% relative humidity (RH). Packaging especially in P1 bags after 1-MCP treatment delayed chlorophyll degradation and colour changes in broccoli. Hue angle of broccoli colour and chlorophyll loss were correlated. Also weight loss was reduced especially in P1 packaged broccoli."}
+	}}

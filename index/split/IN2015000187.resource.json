@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Isolaion of Peste Des Petitis Ruminants Virus from Small Ruminants in Gujarat",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":64,
+	"dc:subject":[
+		{"value":"isolation",
+	"xml:lang":"eng"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"virus peste ruminantes pequenos",
+	"xml:lang":"esp"
+	},
+	{"value":"isolement",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"aislamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"pest of small ruminants virus",
+	"xml:lang":"eng"
+	},
+	{"value":"virus peste petits ruminants",
+	"xml:lang":"fre"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":67,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000187",
+	"dct:identifier":"IN2015000187",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sannat, Chandrahas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sen, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajak, K.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balamurugan, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandel, B.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chauhan, H.C."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Peste des petits ruminants virus was isolated from tissues and blood samples of sheep and goats following second passage in Vero cells. Cytopathic effects produced in Vero cells were characterized initially by rounding and ballooning of cells, followed by aggregation of cells, formation of fusion mass and syncytia. Cell lysis was also observed in few cases. Virus isolates were identified using s-ELISA and RT-PCR.",
+	"xml:lang":"eng"
+	}
+	}}

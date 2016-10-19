@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Robust regression for determining selection criterion of breeding rams",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":166,
+	"dc:subject":[
+		{"value":"morueco",
+	"xml:lang":"esp"
+	},
+	{"value":"statistical methods",
+	"xml:lang":"eng"
+	},
+	{"value":"critere de selection",
+	"xml:lang":"fre"
+	},
+	{"value":"metodos estadisticos",
+	"xml:lang":"esp"
+	},
+	{"value":"rams",
+	"xml:lang":"eng"
+	},
+	{"value":"criterios de seleccion",
+	"xml:lang":"esp"
+	},
+	{"value":"belier",
+	"xml:lang":"fre"
+	},
+	{"value":"selection criteria",
+	"xml:lang":"eng"
+	},
+	{"value":"methode statistique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":169,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000195",
+	"dct:identifier":"IN2015000195",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yadav, Dinesh Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arora, Reena"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhatia, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Gurmej"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhar, L.M."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Selection of rams in farmers flocks is done by simple procedures involving judgment of size, conformation and condition. Robust regression model was fitted to the data on body measurements for determining selection criterion for breeding rams under field conditions. Body weight at different ages is the dependent variable in the model. The model identified the best combination of body measurements (X1=body height; X2=chest girth; X3=paunch girth; X4=body length; X5=ear length; X6=tail length) which explained the gain in body weight. Mean square error (MSE) and R2 were used to evaluate the estimator performance. The study indicates that the explanatory variable X2 is important growth trait for selecting breeding rams between 12â18 months of age under field conditions. The findings of this study will be helpful in identifying growth traits for defining selection criterion for selecting breeding rams in improvement and conservation of Munjal sheep.",
+	"xml:lang":"eng"
+	}
+	}}

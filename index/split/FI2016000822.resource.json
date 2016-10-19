@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Leaf life span and the mobility of \"non-mobile\" mineral nutrients : the case of boron in conifers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Aphalo, Pedro J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schoettle, Anna W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lehto, Tarja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"havupuut"},
+	{"value":"nutrient transport"},
+	{"value":"pinophyta"},
+	{"value":"toxicity"},
+	{"value":"ravinteet"},
+	{"value":"boron"},
+	{"value":"myrkyllisyys"},
+	{"value":"ikä"},
+	{"value":"leaves"},
+	{"value":"boori"},
+	{"value":"neulaset"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000822",
+	"dct:identifier":"FI2016000822",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

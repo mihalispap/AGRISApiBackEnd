@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of a tractor mounted wide spray boom for increased efficiency.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nalavade, Parish P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salokhe, Vilas M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jayasuriya, H. P. W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nakashima, Hiroshi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"chemical pest control"},
+	{"value":"spray booms"},
+	{"value":"pest control"},
+	{"value":"sprayers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001926",
+	"dct:identifier":"FI2016001926",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

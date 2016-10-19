@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Genetic potential of half-sib families of popcorn for cerrado area from southern Tocantins State",
+	"xml:lang":"eng"
+	},
+	{"value":"   Potencial genético de famílias de meios-irmãos de milho pipocapara as condições de cerrado do sul do Tocantins ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"zea mays",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202805",
+	"dct:identifier":"BR2015202805",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/437/267",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"André Colombo Gustavo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vaz-de-Melo Aurélio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Taubinger Markus"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dias Santana Wilma"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cesar DoVale Júlio"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Tocantins, Campus Gurupi, Gurupi, TO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Tocantins, Campus Gurupi, Gurupi, TO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Tocantins, Campus Gurupi, Gurupi, TO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Tocantins, Campus Gurupi, Gurupi, TO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Ceará, Fortaleza, CE, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The existence of high genetic variability in the tropical germplasm popcorn, suggests the possibility of breeding for productivity and popping expansion. It is known that the cerrado area from Tocantins State presents favorable conditions for the exploration of this culture, the aim of this study to evaluate the genetic potential of families of 40 half-sib of popcorn in conditions of the cerrado area from Tocantins State. Thus, were recombined two brands of popcorn, Produtos Paulista and Yoki. A randomized block design was used with two replications. At harvest time the traits were measured, mass of grains per ear, grains yield and popping expansion. Were observed significantgenetic variability for all traits. The three traits showed gains with selection. Thus, it was found that the half-sib families of popcorn have genetic potential to be exploited in breeding programs for the conditions of the cerrado area from Tocantins State. However, future studies need to be conducted to determine which breeding strategy should provide more significant results.",
+	"xml:lang":"eng"
+	},
+	{"value":"A existência de elevada variabilidade genética no germoplasma de milho pipoca tropical, sugere a possibilidade em melhorar tanto para produtividade quanto para a capacidade de expansão. Sabendo que o cerrado tocantinense apresenta condições propícias para a exploração dessa cultura, objetivou-se com esse estudo avaliar o potencial genético de famílias de 40 meios-irmãosde milho pipoca nas condições do cerrado tocantinense. Para isso, foram recombinadas duas marcas comerciais de milho pipoca, Produtos Paulista e Yoki. Utilizou-se o delineamento em blocos casualizados com duas repetições. Por ocasião da colheita foram mensurados os caracteres númerode grãos por fileira, produtividade de grãos e capacidade de expansão. Observou-se variabilidade genética significativa para todos os caracteres avaliados. Os três caracteres apresentaram ganhos com a seleção. Assim, constatou-se que as famílias de meios-irmãos de milho pipoca apresentampotencial genético para serem exploradas em programas de melhoramento para as condições do cerrado tocantinense. Contudo, estudos futuros necessitam ser realizados para definir qual estratégia de melhoramento deve apresentar resultados mais expressivos.",
+	"xml:lang":"por"
+	}
+	]
+	}}

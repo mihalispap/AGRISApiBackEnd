@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Reproductive physiology of two wheat cultivars differing in salinity tolerance under dense saline-sodic soil."},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khan, Mushtaq Ahmad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdullah, Zaibunnisa (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100363",
+	"dct:identifier":"FI2016100363",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"We examined the agro-physiological parameters in two wheat cultivars namely, Faisalabad-85 (sensitive to salinity alone) and LU-26-S (tolerant to salinity alone) at reproductive phase grown under dense saline-sodic soil. Our results showed that there was non-significant effect of salinity-sodicity on chlorophyll a and b concentration and leaf area of both the cultivars. CO2 assimilation was reduced significantly (P<0.001) in LU-26-S, showing non-significant effect in Faisalabad-85. Highly significant (P<0.001) increase in Na+ and significant ( P<0.01 and P<0.05) reduction in K+ concentration was found in flag leaves of both the cultivars. Pollen viability was reduced 37 % in Faisalabad-85 and 24 % reduction was observed in LU-26-S. Carbohydrate mobilization at the time of anthesis showed significant increase (P<0.01) in spikelets of LU-26-S, whereas it was reduced significantly (P<0.001) at grain filling stage. In Faisalabad-85 no change was observed in carbohydrate concentration of spikelets, ear stalk at anthesis stage but showed significant increase in spikelets and ear stalk (lower) at grainfill stage .Starch synthase activity (α-1-4 glucan-glucosyle transferases, EC 2.4.1.21) was reduced significantly (P<0.001) in developing grains of LU-26-S showing non-significant effect in Faisalabad-85. More seed numbers/plant and less 1000 seed weight was observed in LU-26-S compared to Faisalabad-85 ,where as grain yield was more in later than the former. In present study Faisalabad-85 proved better than LU-26-S under saline sodic soils in terms of mobilization of soluble carbohydrates in different floral parts (especially in spikelets), non-significant effect of salinity-sodicity on starch synthase activity in developing grains and 1000 seed weight, thus resulting in higher grain yield."}
+	}}

@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact dehulling oat grain to improve quality of on-farm produced feed.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kontturi, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rajala, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kirkkari, Anna-Maija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feed cereals"},
+	{"value":"feeds"},
+	{"value":"husks"},
+	{"value":"kaura"},
+	{"value":"rehut"},
+	{"value":"energy value"},
+	{"value":"nutritive value"},
+	{"value":"grain feed"},
+	{"value":"kuorittu kaura"},
+	{"value":"rehuvilja"},
+	{"value":"kuorinta"},
+	{"value":"ravintoarvo"},
+	{"value":"dehulling"},
+	{"value":"rehuarvo"},
+	{"value":"oats"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000426",
+	"dct:identifier":"FI2016000426",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

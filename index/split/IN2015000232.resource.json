@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of pesticides on Trichoderma harzianum and Pseudomonas fluorescens and its relationship with bacterial leaf blight of Rice",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":104,
+	"dc:subject":[
+		{"value":"trichoderma harzianum",
+	"xml:lang":"esp"
+	},
+	{"value":"pseudomonas fluorescens",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":108,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000232",
+	"dct:identifier":"IN2015000232",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gangwar, Om Prakash"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Pratibha"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Sensitivity of bioagents was tested at different pesticidal concentrations, lower or higher that of recommended field dose revealed significantly high sensitivity towards pesticides except streptocycline where non-significant (2.5%) radial growth inhibition was observed over control at maximum concentration (300 ppm). Th3 strain of T. harzianum was found compatible with carbendazim at 500 ppm. Streptocycline and malathion, at all concentrations, significantly restricted the population counts of P. fluorescens while other pesticides showed this activity at higher concentration than field doses. Antagonists were challenged by pathogen Xathomonas oryzae pv. oryzae suspension (0.1 OD620) and pesticides after 24 and 48 hrs later, respectively. It was highly significant negative correlation between antagonists population size and bacterial leaf blight disease intensity. A non-significant positive relationship was observed between disease intensity and % population reduction of T. harzianum due to pesticides application while it was negative for P. fluorescens.",
+	"xml:lang":"eng"
+	}
+	}}

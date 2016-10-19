@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"MICROPROPAGAÇÃO DE Aechmea setigera Mart. ex Schult. & Schult. f.: UMA BROMÉLIA ENDÊMICA DA AMAZÔNIA OCIDENTAL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":117,
+	"bibo:volume":4,
+	"bibo:pageEnd":123,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00067",
+	"dct:identifier":"BR2015N00067",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1030",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"João Ricardo Avelino Leão"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Janaína Medeiros Vasconcelos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Renata Teixeira Beltrão"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Andrea Raposo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paulo Cesar Poeta Fermino Junior"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Pós-graduação em Ciência, Inovação e Tecnologia para a Amazônia/UFAC"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Embrapa Acre"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Acre"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12.0pt; font-family: \">As bromélias da Amazônia são em geral pouco conhecidas. Aechmea setigera é uma bromélia endêmica da Amazônia com potencial ornamental. O objetivo do trabalho foi avaliar as respostas fisiológicas sob efeito de reguladores de crescimento nas etapas da micropropagação, bem como, estabelecer um protocolo como subsídio para a conservação. Plântulas germinadas e desenvolvidas in vitro foram inoculadas em meio de cultura MS líquidas estacionário acrescidas de 6-benzilaminopurina (BAP) em diferentes concentrações (0; 2,2; 4,4; 8,8 e 17,6 μM). Para o enraizamento, microbrotos foram transferidos para meio de cultura MS com 0; 2,4; 4,9; 9,8<sup> </sup>µM de ácido indolacético (AIA) e ácido indolbutírico (AIB). Após cinco subcultivos, o uso de 17,6 </span><span style=\"font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: \">m</span><span style=\"font-size: 12.0pt; font-family: \">M de BAP apresentou o maior número e o menor comprimento de brotações adventícias. Os teores de amido foram menores nos brotos induzidos com as menores concentrações de BAP. O uso de ácido indolbutírico nas concentrações de 4,9 e 9,8 </span><span style=\"font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: \">m</span><span style=\"font-size: 12.0pt; font-family: \">M promoveram o maior número de raízes adventícias regeneradas. Plantas jovens regeneradas foram aclimatizadas (99%) utilizando substrato comercial em ambiente com 50% de sombreamento. A micropropagação de A. setigera é uma estratégia viável para a produção de mudas e a conservação da espécie. </span>",
+	"xml:lang":"por"
+	}
+	}}

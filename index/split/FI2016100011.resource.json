@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a29(2).pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Accumulation of RNA in the senescing root nodular cells of soybean (Glycine max (L.) Merrill) – Histochemical evidence"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shivananda, T. N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joshi, Chandrika Syamasundara (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rudraswamy, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gowda, T. K. S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Viswanath, D. P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Siddaramappa, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dris, R. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100011",
+	"dct:identifier":"FI2016100011",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Accumulation of RNA in the senescing soybean nodules formed by Bradyrhizobium as evidenced by histochemical studies is reported in this paper. Using RNA/DNA specific stain and digesting the RNA with RNase enzyme confirmed the accumulation of RNA. Such accumulation of RNA was not found in the young cells of the nodule. Accumulation of RNA was found to have a negative relationship with haemoglobin content, ARA activity and total soluble protein content of the cell. Positive relationship between the age and RNA accumulation was noticed. It appears that the RNA was more likely from the plant cell but not from bacteroids. The accumulation of RNA was found very close to the nucleus of the cell. The volume of accumulated RNA was as large as that of nucleus itself. We report the possible involvement of translation inhibition in the senescing nodular cells in the older nodule tissues. We believe, this is the first report of unusual accumulation of RNA in the symbiotic association."}
+	}}

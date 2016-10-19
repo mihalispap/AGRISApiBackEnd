@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:title":{"value":"Effect of Forest Composition and Dynamics of Light on Seedlings and Saplings of Korean pine (Pinus koraiensis) in Northeastern China",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"forest plantations",
+	"xml:lang":"eng"
+	},
+	{"value":"light",
+	"xml:lang":"eng"
+	},
+	{"value":"pinus koraiensis",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513020",
+	"dct:identifier":"IN2016513020",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=8",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yang Junlong"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhang Guochun"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Liu Wenhui"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Liu Qijing"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Natural regeneration of Korean pine (Pinus koraiensis Siebold & Zucc.) in northeastern China has often been problematic in mixed broad-leaved Korean pine forests (primary forest), but not in deciduous broad-leaved forests (secondary forest). Light transmittance, soil temperature, leaf area index (LAI), height and diameter of Korean pines were estimated in order to examine the contribution of composition and the dynamics of light to Korean pine regeneration in two forests. A spatial point pattern analysis was carried out to investigate the response of seedlings and saplings to light regimes and their relationship with mature trees, graded by size. We draw the following results: (1) light conditions were better in the secondary forest than in the primary forest in late spring (June and July) before the leaf expansion and the secondary forest received more light before leaf expansion and less light penetration in the early summer (August)",
+	"xml:lang":"eng"
+	},
+	{"value":"(2) our spatial analysis indicated that seedlings are negatively correlated with saplings and exhibit a higher degree of clumping than saplings. Relationships of seedlings with mature pines and all sizes of other mature trees appeared random, whereas saplings were negatively associated with small, medium and large mature trees. Our findings suggest that the effect of forest composition on regeneration mainly occurred before the leaf expansion in late spring."}
+	]
+	}}

@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Vaccination, a major control measure against pest of small ruminants in Cross River State, Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Owai, Patrick U.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"rokotus"},
+	{"value":"goats"},
+	{"value":"torjunta"},
+	{"value":"pests of plants"},
+	{"value":"vuohi"},
+	{"value":"eläintaudit"},
+	{"value":"sheep"},
+	{"value":"disease control"},
+	{"value":"lammas"},
+	{"value":"vaccination"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000663",
+	"dct:identifier":"FI2016000663",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

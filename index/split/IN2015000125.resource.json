@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathology of epidermoid cyst in the spinal cord of swiss albino mice.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":247,
+	"dc:subject":[
+		{"value":"histopatologia",
+	"xml:lang":"esp"
+	},
+	{"value":"raton",
+	"xml:lang":"esp"
+	},
+	{"value":"souris",
+	"xml:lang":"fre"
+	},
+	{"value":"cisteina",
+	"xml:lang":"esp"
+	},
+	{"value":"histopathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"mice",
+	"xml:lang":"eng"
+	},
+	{"value":"moelle epiniere",
+	"xml:lang":"fre"
+	},
+	{"value":"medula espinal",
+	"xml:lang":"esp"
+	},
+	{"value":"epidermophyton",
+	"xml:lang":"esp"
+	},
+	{"value":"cysteine",
+	"xml:lang":"fre"
+	},
+	{"value":"histopathology",
+	"xml:lang":"eng"
+	},
+	{"value":"spinal cord",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":248,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000125",
+	"dct:identifier":"IN2015000125",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prasad, M.C ."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brahmankar, M.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kapurkar, U.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adak, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lonkar, P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patel, M. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pavitrakar,VishaI"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hokan, Sanjay"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Sharad"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Two cases of epidermoid cyst were recorded one each in male and female Swiss albino mice (3-4months) out of about 2000mice used in [various toxicity studies. These were located in the white matter of lumber segment of spinal cord. No clinical sign during life phase and gross lesion on necropsy were recorded. Histopathological features consisted of multilayered stratified squamous epithelial cystic wall having either keratinaceous debris or concentric laminated layers of keratin in the lumen. It was considered to be an incidental finding of mgenital origin.",
+	"xml:lang":"eng"
+	}
+	}}

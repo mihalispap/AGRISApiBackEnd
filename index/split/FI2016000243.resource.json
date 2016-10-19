@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of nitrogen deficiency on photosynthesis and chloroplast ultrastructure of pepper plants /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Doncheva, Snejana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vassilieva, V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ignatov, G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pandev, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dris, Ramdane.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niskanen, Raina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Capsicum annuum"},
+	{"value":"photosynthesis"},
+	{"value":"kasvinravitsemus"},
+	{"value":"nutrient deficiencies"},
+	{"value":"typpilannoitus"},
+	{"value":"nitrogen"},
+	{"value":"kloroplastit"},
+	{"value":"paprika"},
+	{"value":"fotosynteesi"},
+	{"value":"biomassa"},
+	{"value":"typpi"},
+	{"value":"plant nutrition"},
+	{"value":"kasvinravinteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000243",
+	"dct:identifier":"FI2016000243",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"PCR based early detection of Ganoderma sp. causing basal stem rot of oil palm in India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":392,
+	"dc:subject":[
+		{"value":"diagnostico",
+	"xml:lang":"esp"
+	},
+	{"value":"ganoderma",
+	"xml:lang":"esp"
+	},
+	{"value":"diagnosis",
+	"xml:lang":"eng"
+	},
+	{"value":"diagnostic",
+	"xml:lang":"fre"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":394,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000884",
+	"dct:identifier":"IN2015000884",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mandal, P. K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kochu Babu, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayanthi, M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Satyavani, V."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Adoption level of sheep farming practices by the farmers in arid zone of Rajasthan",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":157,
+	"dc:subject":[
+		{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"animal husbandry methods",
+	"xml:lang":"eng"
+	},
+	{"value":"methode d'elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"adoption de l'innovation",
+	"xml:lang":"fre"
+	},
+	{"value":"rajasthan",
+	"xml:lang":"esp"
+	},
+	{"value":"metodos de crianza",
+	"xml:lang":"esp"
+	},
+	{"value":"adopcion de innovaciones",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"innovation adoption",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":159,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000392",
+	"dct:identifier":"IN2015000392",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Meena, M.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Dheeraj"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was conducted among the140 goat farmers of Namakkal district of Tamil Nadu with the objective of identifying gender-wise division of labour and decision making in goat farming. The study revealed that women were mainly involved in routine activities like feeding, watering, grazing, cleaning and care of young ones. But joint activities and decision making were high in sale of animals, credit acquisition and use and income spending",
+	"xml:lang":"eng"
+	}
+	}}

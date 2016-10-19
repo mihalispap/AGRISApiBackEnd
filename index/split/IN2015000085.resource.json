@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Zinc Supplementation on Growth Rate of Assam Local Male Kids",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":95,
+	"dc:subject":[
+		{"value":"trace elements",
+	"xml:lang":"eng"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"oligo-element",
+	"xml:lang":"fre"
+	},
+	{"value":"oligoelementos",
+	"xml:lang":"esp"
+	},
+	{"value":"zinc",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"cinc",
+	"xml:lang":"esp"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":97,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000085",
+	"dct:identifier":"IN2015000085",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Devi, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goswami, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarmah, B. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarma, Kamal"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"An experiment was conducted on thirty six Assam local male kids of three months of age and between 3 to 4 kg of body weight. The animals were divided in to group I (control group, (n=12) in which kids were grown without zinc supplementation), group II (Inorganic group, (n=12) in which kids were grown with inorganic zinc supplementation, zinc sulphate) and group III (Organic group, (n=12) in which kids were grown with organic zinc supplementation, zinc propionate). All the experimental goats received concentrate mixture @ 50 g/day/goat up to 5 months and then @ 100 g/day/goat up to 7 months of age in addition to their free range grazing. The present study revealed gradual increase of body weight with advancing age in all the groups kids as measured at fortnightly interval from 5 to 7 months of age. The body weight of the organic zinc-supplemented kids were highest as compared to inorganic zinc-fed group. Lowest growth rate observed in kids of control group. The ranged values (Mean Â± S.E.) were recorded as 5.08Â±0.07 to 7.93Â±0.07 kg in control, 5.31Â±0.10 to 8.33Â±0.04 kg in inorganic and 5.25Â±0.09 to 9.75Â±0.14 kg in organic zinc-fed groups of kids. From the study, it can be concluded that the organic zinc source proved better choice than inorganic one as feed supplement considering bioavailability and effectiveness.",
+	"xml:lang":"eng"
+	}
+	}}

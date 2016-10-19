@@ -1,0 +1,103 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Biometria testicular de garanhões da raça Campolina ",
+	"xml:lang":"por"
+	},
+	{"value":"Testicular measurements in Campolina stallions",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"scrotum",
+	"xml:lang":"eng"
+	},
+	{"value":"age",
+	"xml:lang":"eng"
+	},
+	{"value":"width",
+	"xml:lang":"eng"
+	},
+	{"value":"equipment parts",
+	"xml:lang":"eng"
+	},
+	{"value":"live weight",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01568",
+	"dct:identifier":"BR2015F01568",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2010-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1302293828.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BORGES,  G. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MELO,  M. I. V"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MAMBRINI,  J. V. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SNOECK,  P. P. N."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"11.9 ± 0.8 cm (STW). The length, width and height of the left and right testis did not differ significantly from stallions measured. The average width of the testis was the only measurement that differ between stallions from group I and stallions from group II and III (P"},
+	{"value":"6.5 ± 0.5 cm (RW)"},
+	{"value":"6.8 ± 0.6 cm (LW)"},
+	{"value":"7.6 ± 1.1 cm (LH)"},
+	{"value":"10,4 ± 0,8 cm (CE)"},
+	{"value":"10,6 ± 1,0 cm (LET). As medidas do GII foram: 10,9 ± 1,1 cm (CD)"},
+	{"value":"5.8 ± 0.5 cm (RW)"},
+	{"value":"7,5 ± 1,0 cm (HD)"},
+	{"value":"10,3 ± 0,5 cm (CE)"},
+	{"value":"7,4 ± 0,8 cm (LE)"},
+	{"value":"7,6 ± 1,1 cm (HE)"},
+	{"value":"12,0 ± 1,0 cm (LET). No GIII foram: 9,8 ± 0,8 cm (CD)"},
+	{"value":"7,0 ± 0,8 cm (LD)"},
+	{"value":"O objetivo deste trabalho foi avaliar a biometria testicular de garanhões Campolina, correlacionando-a com a idade e peso corporal do animal. Foram realizadas medidas lineares dos testículos direito e esquerdo de comprimento (CD, CE), largura (LD, LE), altura (HD, HE), e a largura escrotal total (LET). Vinte e cinco garanhões foram avaliados e divididos em três grupos etários: Grupo I (< 60 meses), Grupo II (>60 e < 120 meses) e Grupo III (> 120 meses). Os parâmetros de biometria testicular no GI foram: 10,0 ± 1,5 cm (CD)"},
+	{"value":"12.0 ± 1.0 cm (STW). For GIII the same measurements were: 9.8 ± 0.8 cm (RL)"},
+	{"value":"7.0 ± 0.8 cm (RW)"},
+	{"value":"10,1 ± 1,2 cm (CE)"},
+	{"value":"7,0 ± 0,8 cm (HE)"},
+	{"value":"6,2 ± 0,6 cm (LE)"},
+	{"value":"7,1 ± 0,7 cm (HD)"},
+	{"value":"7.1 ± 0.7 cm (RH)"},
+	{"value":"7,8 ± 0,5 cm (HE)"},
+	{"value":"6,5 ± 0,5 cm (LD)"},
+	{"value":"7.5 ± 1.0 cm (RH)"},
+	{"value":"The aim of this study was to evaluate Campolina stallions’ testicular measurements in relation to their age and body weight. The right and left testecal mesurements used a pair of compasses to determine length (RL, LL), width (RW, LW), height (RH, LH), and total scrotal width (STW). Twenty five stallions were evaluated and classified into three age groups: Group I (< 60 months), Group II (>60 e < 120 months), and Group III (> 120 months). The biometric testicular parameters for Group I were: 10.0 ± 1.5 cm (RL)",
+	"xml:lang":"eng"
+	},
+	{"value":"11,9 ± 0,8 cm (LET). Não houve diferença entre as medidas lineares de comprimento, largura e altura, entre os testículos direito e esquerdo dos animais estudados. Das medidas testiculares lineares somente a largura testicular média no grupo I diferiu dos grupos etários II e III (P"},
+	{"value":"6.2 ± 0.6 cm (LW)"},
+	{"value":"7.0 ± 0.8 cm (LH)"},
+	{"value":"10.3 ± 0.5 cm (LL)"},
+	{"value":"10.6 ± 1.0 cm (STW). The testicular measurements for GII were: 10.9 ± 1.1 cm (RL)"},
+	{"value":"10.1 ± 1.2 cm (LL)",
+	"xml:lang":"por"
+	},
+	{"value":"7.4 ± 0.8 cm (LW)"},
+	{"value":"6,8 ± 0,6 cm (LE)"},
+	{"value":"6.6 ± 0.8 cm (RH)"},
+	{"value":"10.4 ± 0.8 cm (LL)"},
+	{"value":"7.8 ± 0.5 cm (LH)"},
+	{"value":"6,6 ± 0,8 cm (HD)"},
+	{"value":"5,8 ± 0,5 cm (LD)"}
+	]
+	}}

@@ -1,0 +1,72 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Common tree definitions for national forest inventories in Europe.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gschwantner, Thomas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schadauer, Klemens.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vidal, Claude.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lanz, Adrian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tomppo, Erkki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cosmo, Lucio di.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Robert, Nicolas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Englert Duursma, Daisy.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lawrence, Mark.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tree variables"},
+	{"value":"COST Action E43"},
+	{"value":"stand characteristics"},
+	{"value":"tree elements"},
+	{"value":"forest inventories"},
+	{"value":"plant anatomy"},
+	{"value":"tree characteristics"},
+	{"value":"tree definitions"},
+	{"value":"harmonisation"},
+	{"value":"shrub definitions"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000434",
+	"dct:identifier":"FI2016000434",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of moisture content and stalk section on some engineering parameters of closed capsule sesame stalks (Sesamum indicum L.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Yilmaz, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kabas, O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akinci, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ozmerzi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cagirgan, M. I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content"},
+	{"value":"elasticity"},
+	{"value":"pruning"},
+	{"value":"harvesting"},
+	{"value":"sesame"},
+	{"value":"chemical composition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001165",
+	"dct:identifier":"FI2016001165",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

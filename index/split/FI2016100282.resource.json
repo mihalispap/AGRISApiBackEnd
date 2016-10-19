@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Cryopreservation of potato (Solanum tuberosum L.) shoot tips using vitrification and droplet method"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kryszczuk, Artur (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Keller, Joachim (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Grübe, Marion (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zimnoch-Guzowska, Ewa (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100282",
+	"dct:identifier":"FI2016100282",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The experiments were done to compare two methods of potato (Solanum tuberosum L.) shoot tips cryopreservation: the vitrification and the  droplet method. Maximum regrowth rates of all evaluated varieties (from 42 to 88%) were obtained using the vitrification method. The droplet method was also successful after cold hardening of in vitro plants (regrowth rates from 5 to 45%). A comparison of two regeneration media: liquid and solid and two methods of cryoprotectants sterilization, namely autoclaving vs. filter sterilization were also done. In dependence on the cryopreservation method and modification of some steps of the procedure, statistically important differences of shoot tips survival and regeneration among varieties were observed. Results indicate the higher efficiency of vitrification. On the other hand, the droplet method is much simpler. It can be expected that some modifications of the method combining various steps of the originally published protocols to simplify the procedure, but still keeping high regeneration rates are possible. "}
+	}}

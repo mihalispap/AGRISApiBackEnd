@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/e4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of particulates generated from automobile emission on some common plants"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rai, Anjana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kulshreshtha, Kamla (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100004",
+	"dct:identifier":"FI2016100004",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The booming vehicular population reached over 26.5 million today has completely transformed the socio-economic scenario in urban India. Vehicles, particularly two wheelers with two stroke engines, burn a mixture of petrol and oil, gives out a cloud of blue toxic smoke. The automobile emissions are the significant sources of gaseous pollutants and ultra fine particles in the atmosphere. In India, petrol and diesel engine vehicles emit a wide variety of pollutants principally benzene, carbon-monoxide (CO), lead (Pb) organic compounds (OCs), oxides of nitrogen (NOx), sulphur dioxide (SO2), and suspended particulate matter (SPM) like smoke, metals (Cd, Co, Cu, Zn, etc.), and inert dust. The plants are proven to be effective in the capture of particles and other toxic gases from urban air to the extent that they can significantly improve the urban air quality. The morphological parameters of Nyctanthes, Quisqualis and Terminalia species studied in the present work, show a significant modification in leaf surface characters like insignificant epicuticular wax, increased frequency of epidermal cells, stomata and trichome, clogged and slightly risen stomata, due to the stress of automobile exhaust emission with high traffic density in urban areas. Terminalia was more affected from toxic effects of auto exhaust, in comparison to Nyctanthes and Quisqualis. These changes can be considered as indicators of environmental stress and can, therefore, be recommended in high traffic density areas for the early detection of pollution and for working out suitable remedial steps."}
+	}}

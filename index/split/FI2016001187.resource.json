@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Outcomes of forest improvement work in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Juurola, Muru.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ollonqvist, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pajuoja, Heikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toropainen, Mikko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"felling"},
+	{"value":"forest management"},
+	{"value":"gross national product"},
+	{"value":"forestry policies"},
+	{"value":"metsänparannus"},
+	{"value":"avustukset"},
+	{"value":"subsidies"},
+	{"value":"forestry"},
+	{"value":"panos-tuotosanalyysi"},
+	{"value":"hakkuusuunnite"},
+	{"value":"stand improvement"},
+	{"value":"metsäpolitiikka"},
+	{"value":"input output analysis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001187",
+	"dct:identifier":"FI2016001187",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

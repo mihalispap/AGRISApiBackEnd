@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Relationship between autumn cold hardiness and field performance in northern Pinus sylvestris.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Persson, Torgny.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Andersson, Bengt.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ericsson, Tore.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic coefficient of variation"},
+	{"value":"genetic correlation"},
+	{"value":"narrow-sense heritability"},
+	{"value":"kylmänkestävyys"},
+	{"value":"mänty"},
+	{"value":"heritabiliteetti"},
+	{"value":"cold tolerance"},
+	{"value":"genetic variation"},
+	{"value":"multivariate analysis"},
+	{"value":"Pinus sylvestris"},
+	{"value":"monimuuttujamenetelmät"},
+	{"value":"heritability"},
+	{"value":"geneettinen muuntelu"},
+	{"value":"cold hardiness"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000265",
+	"dct:identifier":"FI2016000265",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

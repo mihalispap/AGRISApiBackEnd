@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1191",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Skrøppa, Tore,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Solheim, Halvor,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Steffenrem, Arne,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Genetic variation, inheritance patterns and parent-offspring relationships after artificial inoculations with Heterobasidion parviporum and Ceratosystis polonica in Norway spruce seed orchards and progeny tests.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"Heteriobasidion"},
+	{"value":"lesions"},
+	{"value":"Heterobasidion parviporum"},
+	{"value":"root and butt rot"},
+	{"value":"lesion length"},
+	{"value":"blue stain"},
+	{"value":"Ceratocystis polonica"},
+	{"value":"Picea abies"},
+	{"value":"heritability"}
+	],
+	"bibo:doi":"10.14214/sf.1191",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001014",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001014",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

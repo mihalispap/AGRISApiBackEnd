@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"An analysis of leaf trichome density and its influence on the morphology of dorsal setae in the puparia of Bemisia tabaci (Hemiptera: Aleyrodidae) on a single cotton leaf",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":128,
+	"dc:subject":[
+		{"value":"bemisia tabaci",
+	"xml:lang":"esp"
+	},
+	{"value":"cotton",
+	"xml:lang":"eng"
+	},
+	{"value":"algodon",
+	"xml:lang":"esp"
+	},
+	{"value":"coton",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":131,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000479",
+	"dct:identifier":"IN2015000479",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thomas, Asha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kar, Anand"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramamurthy, V.V."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Analyses of the variations in leaf trichome density and its influence on the morphological variations in the puparia of whitefly Bemisia tabaci revealed significant relationships as regards dorsal setae, even within a single leaf. Six definite 1cm2 areas of a single leaf analysed for trichome density revealed significant variations; areas of the leaf nearer to the petiole showed higher trichome density than areas away from the petiole and these were statistically significant (P= 0.0001). Of the 5 dorsal setae observed, seta on the cephalic region was the longest while the eighth abdominal one was the shortest; statistically significant variations in the length of all dorsal setae were observed except in the ones on the prothoracic region (DS2) and eighth abdominal segment (DS6). When relationship between trichome density and length of dorsal setae was investigated through correlation studies it was observed that length of dorsal setae is not significantly influenced by the trichome density except for the dorsal setae on the first and eighth abdominal segment.",
+	"xml:lang":"eng"
+	}
+	}}

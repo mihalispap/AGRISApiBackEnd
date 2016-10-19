@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Micropropagation of rhubarb with special reference to weaning stage and subsequent growth /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lassus, Carola.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Voipio, Irma.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rooting"},
+	{"value":"mikrolisäys"},
+	{"value":"rheum rhaponticum"},
+	{"value":"vihannekset"},
+	{"value":"in vitro culture"},
+	{"value":"Rheum rhabarbarum"},
+	{"value":"micropropagation"},
+	{"value":"rhubarb"},
+	{"value":"juurtuminen"},
+	{"value":"raparperi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001404",
+	"dct:identifier":"FI2016001404",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

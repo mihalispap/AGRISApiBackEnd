@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Phenotypic and genetic parameters and responses in temperament of silver fox cubs in a selection experiment for confident behaviour /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kenttämies, Hilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nikkilä, Marja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Miettinen, Maija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Asikainen, Juha.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Vulpes vulpes"},
+	{"value":"fenotyyppi"},
+	{"value":"behaviour"},
+	{"value":"animal breeding"},
+	{"value":"luonteenpiirteet"},
+	{"value":"luottavaisuus"},
+	{"value":"foxes"},
+	{"value":"hopeakettu"},
+	{"value":"selection"},
+	{"value":"aggressive behaviour"},
+	{"value":"pennut"},
+	{"value":"tunnusluvut"},
+	{"value":"young animals"},
+	{"value":"phenotypes"},
+	{"value":"furbearing animals"},
+	{"value":"genetic parameters"},
+	{"value":"genotypes"},
+	{"value":"turkiseläimet"},
+	{"value":"genotyyppi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001119",
+	"dct:identifier":"FI2016001119",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

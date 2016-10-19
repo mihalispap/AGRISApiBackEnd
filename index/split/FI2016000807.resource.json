@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n2p160.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Compressive behaviour of the soil in buffer zones under different management practices in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Räty, Mari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Horn, Rainer.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rasa, Kimmo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yli-Halla, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pietola, Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tiivistyminen"},
+	{"value":"Finland"},
+	{"value":"kuormitus"},
+	{"value":"maan rakenne"},
+	{"value":"maatalousmaa"},
+	{"value":"hietamaat"},
+	{"value":"porosity"},
+	{"value":"pressing"},
+	{"value":"maan ilma"},
+	{"value":"sandy soils"},
+	{"value":"huokoset"},
+	{"value":"maaperä"},
+	{"value":"clay soils"},
+	{"value":"pellot"},
+	{"value":"savimaat"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000807",
+	"dct:identifier":"FI2016000807",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

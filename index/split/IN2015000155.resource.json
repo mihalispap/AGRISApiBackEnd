@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic landscape and demography of buffaloes in Indo- Gangetic plains",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":836,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"demografia",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"uttar pradesh",
+	"xml:lang":"fre"
+	},
+	{"value":"metodos estadisticos",
+	"xml:lang":"esp"
+	},
+	{"value":"spatial distribution",
+	"xml:lang":"eng"
+	},
+	{"value":"statistical methods",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"distribucion espacial",
+	"xml:lang":"esp"
+	},
+	{"value":"uttar padesh",
+	"xml:lang":"esp"
+	},
+	{"value":"demography",
+	"xml:lang":"eng"
+	},
+	{"value":"distribution spatiale",
+	"xml:lang":"fre"
+	},
+	{"value":"demographie",
+	"xml:lang":"fre"
+	},
+	{"value":"methode statistique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":848,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000155",
+	"dct:identifier":"IN2015000155",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"aug2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Upasna, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joshi, Jyoti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Banerjee, Priyanka"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vijh, R.K."
+	}
+	}
+	],
+	"bibo:issue":8,
+	"bibo:abstract":{"value":"The Indo-Gangetic plains have about a quarter of the total buffalo population in the country, yet there have been only one defined breed of buffalo in this vast plains traversed by 2 major rivers of the country and their large number of tributaries. We generated data on 625 buffaloes using 11 microsatellite loci and carried out the statistical analysis to reveal genetic landscape, demographic parameters of these buffaloes and to investigate the existence of genetic structures underlying the continuity of geographical landscape. The investigations revealed that there is isolation by distance and existence of 5 genetic structures, though these structures do not have continuity among the sampled areas. The analysis of data on buffaloes of Indo-Gangetic plains revealed that there has not been any recent colonization event nor severe reduction in the effective population size. There has been a historical constancy of size of buffalo in this geographical area as revealed by k and g tests. The analysis revealed aggregation of alleles pointing towards absence of randomness in the geographical landscape. The Moran and Gearys index also reveal non randomness of the distribution of allele pointing towards existence of population structure in the Indo-Gangetic Plains. The analysis of variance revealed 6% variation attributable to districts component. The existence of major rivers and their tributaries do not have significant effect on the structuring of the populations as revealed by partial Mantel tests.",
+	"xml:lang":"eng"
+	}
+	}}

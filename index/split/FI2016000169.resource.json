@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Kvalitetsegenskaber af minkskind sammenligning af subjektive og fysisk-matematiske bedømmelsesmetoder.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Lohi, Outi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"määritysmenetelmät"},
+	{"value":"minks"},
+	{"value":"analyysimenetelmät"},
+	{"value":"turkisnahat"},
+	{"value":"analytical methods"},
+	{"value":"laatu"},
+	{"value":"evaluation"},
+	{"value":"furs"},
+	{"value":"chemicophysical properties"},
+	{"value":"furbearing animals"},
+	{"value":"quality"},
+	{"value":"minkki"},
+	{"value":"turkiseläimet"},
+	{"value":"arviointimenetelmät"},
+	{"value":"matemaattiset menetelmät"},
+	{"value":"fysikaaliset menetelmät"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000169",
+	"dct:identifier":"FI2016000169",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

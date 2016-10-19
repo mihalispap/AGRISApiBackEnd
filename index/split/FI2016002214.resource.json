@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of the aggregation of multi-cohort mixed stands on modeling forest ecosystem carbon socks.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Wutzler, Thomas.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"scale"},
+	{"value":"mallintaminen"},
+	{"value":"harvennus"},
+	{"value":"metsiköt"},
+	{"value":"thinning"},
+	{"value":"stratification"},
+	{"value":"forest inventories"},
+	{"value":"metsäninventointi"},
+	{"value":"bias"},
+	{"value":"stand structure"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002214",
+	"dct:identifier":"FI2016002214",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

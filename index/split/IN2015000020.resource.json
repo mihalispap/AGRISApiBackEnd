@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pollen and nectar foraging activity of honey bees in sesamum",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":124,
+	"dc:subject":[
+		{"value":"plantas meliferas",
+	"xml:lang":"esp"
+	},
+	{"value":"polinizadores",
+	"xml:lang":"esp"
+	},
+	{"value":"pollinisateur",
+	"xml:lang":"fre"
+	},
+	{"value":"abeja melifera",
+	"xml:lang":"esp"
+	},
+	{"value":"plante mellifere",
+	"xml:lang":"fre"
+	},
+	{"value":"sesamum",
+	"xml:lang":"esp"
+	},
+	{"value":"pollen",
+	"xml:lang":"fre"
+	},
+	{"value":"honey bees",
+	"xml:lang":"eng"
+	},
+	{"value":"bee plants",
+	"xml:lang":"eng"
+	},
+	{"value":"polen",
+	"xml:lang":"esp"
+	},
+	{"value":"pollinators",
+	"xml:lang":"eng"
+	},
+	{"value":"abeille domestique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":126,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000020",
+	"dct:identifier":"IN2015000020",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pashte, V"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shylesha, A. N."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Honey bees which are the dominant pollinators of sesamum when studied revealed that maximum foraging activity for nectar and pollen collection was observed during morning hours of the day in case of all three species (Apis cerana, A. dorsata and A. florea). The mean number of nectar foragers of A. cerana, A. dorsata and A. florea was 3.18, 1.99 and 2.08 bees/m2/5 min, respectively and pollen foragers of A. cerana, A. dorsata and A. florea was 3.06, 1.86 and 1.87 bees/m2/5 min, respectively; and nectar and pollen foragers was almost equal for three species. The bees spent more time while collecting pollen in sesamum flowers. A. florea spent more time for pollen and nectar collection (8.93 and 7.41 sec/flower, respectively) as compared to A. cerana (6.51 and 4.57 sec/flower, respectively) and A. dorsata (6.70 and 5.95 sec/flower, respectively).",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Microorganisms associated with human jewellery /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ifesan, Beatrice O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adetuyi, Fatuca C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Onifade, Anthony K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Agarry, Olubunmi O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"decorative uses"},
+	{"value":"hygienia"},
+	{"value":"hygiene"},
+	{"value":"terveys"},
+	{"value":"biological contamination"},
+	{"value":"food hygiene"},
+	{"value":"mikro-organismit"},
+	{"value":"elintarvikehygienia"},
+	{"value":"mankind"},
+	{"value":"ihminen"},
+	{"value":"contamination"},
+	{"value":"korut"},
+	{"value":"microorganisms"},
+	{"value":"public health"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002176",
+	"dct:identifier":"FI2016002176",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

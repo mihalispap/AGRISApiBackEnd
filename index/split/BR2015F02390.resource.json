@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Seasonality of rectal temperature and conception rate in Jersey dairy cows",
+	"xml:lang":"eng"
+	},
+	{"value":"   Sazonalidade da temperatura retal e da taxa de concepção de vacas Jersey leiteiras ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"seasons",
+	"xml:lang":"eng"
+	},
+	{"value":"artificial insemination",
+	"xml:lang":"eng"
+	},
+	{"value":"heat stress",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02390",
+	"dct:identifier":"BR2015F02390",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1403617378.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BONATO, G.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LEITE, M.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CAMPOS,  C. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, R.M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of the present study was to evaluate the effect of seasonality on the rectal temperature (RT) and conception rate (CR) of dairy cows kept in confinement, as well as the effect of rectal temperature (RT) on conception rate (CR). Three hundred thirty-three lactating cows, from a commercial farm located in Itaúna, MG, were inseminated. Data were collected from January 2008 to December 2009, based on calving date, rectal temperature at the time of artificial insemination (AI) and pregnancy diagnosis. The pregnancy diagnosis was performed 40 days after AI. The effect of season at the time of AI in the RT was evaluated by variance analysis. The effects of the RT class (RT below or above average) at the time of AI and the season of AI on conception rate were analyzed by logistic regression. The RT average for cows was 38.66°C. Cows with RT above 38.66°C showed a lower conception rate (32.52 vs. 43.31%, P",
+	"xml:lang":"eng"
+	},
+	{"value":"Objetivou-se com o presente trabalho avaliar o efeito da sazonalidade na temperatura retal (TR) e na taxa de concepção de vacas leiteiras mantidas em confinamento, bem como o efeito da temperatura retal (TR) sobre a taxa de concepção. Foram analisadas 333 inseminações de vacas em lactação, pertencentes a uma fazenda comercial localizada em Itaúna, MG. Os dados foram coletados de janeiro de 2008 a dezembro de 2009, considerando a data do parto, a temperatura retal no momento da inseminação artificial (IA) e o diagnóstico de gestação. O diagnóstico de gestação foi realizado 40 dias após a IA. O efeito da estação do ano na TR no momento da IA foi avaliado por análise de variância. Os efeitos da classe de TR (abaixo ou acima da média) no momento da IA e da estação do ano da IA na taxa de concepção foram analisados por regressão logística. A média de TR das vacas foi de 38,66°C. Vacas com TR acima de 38,66°C apresentaram menor taxa de concepção (32,52 vs 43,31%, P",
+	"xml:lang":"por"
+	}
+	]
+	}}

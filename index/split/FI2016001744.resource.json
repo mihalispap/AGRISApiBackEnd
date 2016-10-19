@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Fatty acid compositions in ungerminated (whole seed), cotyledon and embryo tissues of cowpea (Vigna unguiculata L. Walp) seed grown under different temperatures.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Islam, Shahidul.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Carmen, Rafaela C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Garner, James O. Jr.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"siemen"},
+	{"value":"fatty acids"},
+	{"value":"seed germination"},
+	{"value":"cowpeas"},
+	{"value":"muuntelu"},
+	{"value":"rasvahapot"},
+	{"value":"temperature"},
+	{"value":"Vigna unguiculata"},
+	{"value":"lämpötila"},
+	{"value":"genetic variation"},
+	{"value":"lehmänpapu"},
+	{"value":"seeds"},
+	{"value":"chemical composition"},
+	{"value":"kemiallinen koostumus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001744",
+	"dct:identifier":"FI2016001744",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

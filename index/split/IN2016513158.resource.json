@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"Potential of Household Rainwater Harvesting for Drinking Water Supply in Hazard Prone Coastal area of Bangladesh",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"drinking water systems",
+	"xml:lang":"eng"
+	},
+	{"value":"coastal area",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513158",
+	"dct:identifier":"IN2016513158",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=33",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ghosh Gopal Chandra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jahan Sayka"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakraborty Basabi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akter Asma"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The coastal region of Bangladesh has been identified as the most climate induced, hazard-prone, hard-to-reach area in Bangladesh. The conventional drinking water sources (rivers, ponds, groundwater) in the coastal area have become contaminated recently due to saltwater intrusion from the rising sea levels and frequent natural disaster. Household rainwater harvesting could be an alternative measure for reducing impact of climate change on water supplies because of the availability of rainwater. This study is to explore the potential of household rainwater harvesting for drinking purposes in the coastal area of Bangladesh. Rainwater harvesting is found technically feasible on the basis of rainfall pattern, household roof constructing material, and roof size. The annual rainfall of over 1900mm with inter annual variability of 0.18, makes the rainwater harvesting ideal in the coastal areas. Harvested rainwater can satisfy household monthly drinking water demand from March to October. The excess rainwater stored in September and October is sufficient to meet the demand in the dry months (November to February) provided there is adequate storage facility. The quality of stored rainwater was satisfactory from chemical parameters perspective and additional treatment is recommended for the harvested rainwater due to frequent detection of microbial contamination.",
+	"xml:lang":"eng"
+	}
+	}}

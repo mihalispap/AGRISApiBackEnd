@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Perfil microbiológico e sensorial de geleias convencionais de umbu-cajá ",
+	"xml:lang":"por"
+	},
+	{"value":"Microbiological and sensory profile of jelly conventional umbu-cajá",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"processing",
+	"xml:lang":"eng"
+	},
+	{"value":"aspartame",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"6/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015211259",
+	"dct:identifier":"BR2015211259",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.comunicatascientiae.com.br/comunicata/article/download/506/325",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Oliveira Emanuel Neto Alves de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Santos Dyego da Costa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rocha Ana Paula Trindade"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gomes Josivanda Palmeira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Paus dos Ferros, RN, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina grande, Campina Grande, PB, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina grande, Campina Grande, PB, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina grande, Campina Grande, PB, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Geleia é uma das alternativas mais utilizadas para o aproveitamento do excedente de produção durante a colheita de diversos frutos. Objetivou-se com a pesquisa desenvolver geleias convencionais de umbu-cajá, variando as concentrações açúcar e pectina e avaliar o perfilmicrobiológico e sensorial do produto. As geleias convencionais (GC) foram formuladas utilizadose um planejamento fatorial 22 com 2 experimentos centrais. Para elaboração foram utilizados apolpa diluída, açúcar (50, 55 e 60%) e pectina (0,5, 1,0 e 1,5%). As formulações foram aquecidas e concentradas até atingir teor de sólidos solúveis de ? 63 ºBrix. As geleias foram submetidas a testesmicrobiológicos e sensoriais com 40 provadores com aplicação de teste de aceitação através de escala hedônica de nove pontos, em que foram avaliados os atributos de cor, aparência, aroma, consistência, sabor, doçura, impressão global e intenção de compra. Todos os experimentosapresentaram-se dentro dos padrões microbiológicos estabelecidos pela legislação. As geleias GC5 e GC1 foram os experimentos que apresentaram os maiores índices de aceitabilidade 82,21 e 81,24%, respectivamente. A variação nas concentrações de açúcar e pectina influenciou significativamente nas notas atribuídas à consistência e a cor foi o atributo que apresentou maior aceitação perante avaliação dos provadores.",
+	"xml:lang":"por"
+	},
+	{"value":"Jelly is one of the most widely used alternative to the use of surplus production during the harvest of various fruits. The objective of the research was develop jellies conventional umbu-caja, varyingthe sugar and pectin concentrations and evaluate the microbiological and sensory profile of the product. The conventional jellies (GC) were prepared to a 22 factorial planning with two central experiments. To preparation were used diluted pulp, sugar (50, 55 and 60%) and pectin (0.5, 1.0 and 1.5%). The formulations were heated and concentrated until the soluble solids content of ? 63 º Brix. The jellies were subjected to microbiological and sensory tests with 40 tasters with the applicationof acceptance testing using hedonic scale nine-point, which evaluated the attributes of color, appearance, aroma, texture, taste, sweetness, overall impression and intention to purchase. All experiments were within the microbiological standards established by legislation. The jellies GC1 and GC5 were the experiments that had higher rates of acceptability 82.21 and 81.24% respectively. The variation in the concentrations of sugar and pectin influenced significantly the bills assigned to the consistency and color was the attribute with the acceptance highest second assessment of the tasters.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

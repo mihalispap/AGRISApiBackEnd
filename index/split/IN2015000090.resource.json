@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Detection of Salmonella from clinical samples of dogs by PCR",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":552,
+	"dc:subject":[
+		{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"salmonella",
+	"xml:lang":"esp"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":555,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000090",
+	"dct:identifier":"IN2015000090",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"june2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Verma, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sinha, D.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, B.R."
+	}
+	}
+	],
+	"bibo:issue":6,
+	"bibo:abstract":{"value":"In present cross sectional study, faecal swabs and blood samples were collected from 250 dogs of Bareilly city, Uttar Pradesh, India and examined for Salmonella spp. using standard culture method and polymerase chain reaction (PCR) using primers Cohen-1 and Cohen-2. Salmonella were isolated from 1 faecal and 2 blood clots samples. Isolates from faeces were characterized as S. Weltevreden [3, 10; r; z ] and that from blood as S. Typhimurium [4, 5, 12; i; 1, 2). Whereas an amplicon of 496 bp was amplified from 6 faecal and 4 blood clot samples. As known positive controls, viz. DNA extract of S. Typhi and cell lysate of S. Typhimurium, also yielded similar amplicons. The relative sensitivity, relative specificity and accuracy of PCR considering isolation as gold standard was found 100%, 97.17% and 97.20%, respectively. The PCR was found more rapid and sensitive than traditional culture method of isolation from clinical samples which further required biochemical and serological testing for confirmation.",
+	"xml:lang":"eng"
+	}
+	}}

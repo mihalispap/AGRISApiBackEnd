@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1211",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Chen, Xiao,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Page-Dumroese, Deborah,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lv, Ruiheng,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wang, Weiwei,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Li, Guolei,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu, Yong,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Interaction of initial litter quality and thinning intensity on litter decomposition rate, nitrogen accumulation and release in a pine plantation.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"degradation"},
+	{"value":"thinning"},
+	{"value":"litter decomposition"},
+	{"value":"hajoaminen"},
+	{"value":"quality"},
+	{"value":"laatu"},
+	{"value":"nitrogen cycling"},
+	{"value":"Pinus tabulaeformis"},
+	{"value":"Pinus"},
+	{"value":"forest litter"},
+	{"value":"nitrogen"},
+	{"value":"karike"}
+	],
+	"bibo:doi":"10.14214/sf.1211",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000574",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000574",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

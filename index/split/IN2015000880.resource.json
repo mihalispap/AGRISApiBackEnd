@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biological management of leaf blight disease of coconut using rhizosphere microbes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":364,
+	"dc:subject":[
+		{"value":"control biologico",
+	"xml:lang":"esp"
+	},
+	{"value":"tizon",
+	"xml:lang":"esp"
+	},
+	{"value":"pseudomonas fluorescens",
+	"xml:lang":"esp"
+	},
+	{"value":"deperissement",
+	"xml:lang":"fre"
+	},
+	{"value":"lutte biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"blight",
+	"xml:lang":"eng"
+	},
+	{"value":"hojas",
+	"xml:lang":"esp"
+	},
+	{"value":"feuille",
+	"xml:lang":"fre"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"biological control",
+	"xml:lang":"eng"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"botryodiplodia theobromae",
+	"xml:lang":"esp"
+	},
+	{"value":"botryodiplodia",
+	"xml:lang":"esp"
+	},
+	{"value":"leaves",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":369,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000880",
+	"dct:identifier":"IN2015000880",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Johnson, I."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meena, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajamanickam, K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The production and productivity of coconut is seriously affected by various factors including pest and diseases. Among the foliar diseases, the leaf blight caused by Lasiodiplodia theobromae is a serious problem accounting 10-24 per cent yield reduction in Tamil Nadu. Several fungicides were found to be effective for the management of coconut leaf blight disease. Continuous use of fungicides leads to inherent ill-effects like residual toxicity, resistance to fungicide, environmental pollution etc. Hence, biological control is the only alternative method which is cheap, easy to use and eco-friendly. In the present study, a total of twenty five fungal (Trichoderma viride) and bacterial (Pseudomonas fluorescens and Bacillus subtilis) antagonists were isolated from the rhizosphere soil and screened against L. theobromae. In vitro evaluation revealed that the rhizospere bacteria P. fluorescens isolate Pf1 was found to be highly effective against L. theobromae compared to the other bacterial and fungal antagonists. Further, the best antagonist Pf1 was evaluated as root feeding of 100 per cent culture suspension with different combinations and durations for two years (2010-11 and 2011-12) against leaf blight disease under field condition in three different locations viz., Kambalapatti, Karianchettipalayam and Samathur villages of Pollachi taluk, Coimbatore. Observations were recorded on 0-5 scale and the per cent disease index (PDI) was calculated. Among the treatments imposed, root feeding of P. fluorescens culture suspension @ 25 mL at quarterly interval combined with soil application of P. fluorescens talc formulation (50 g) + Neem cake 5 kg was found to be the best and significantly reduced the incidence to 12.9, 11.9 and 7.9 per cent during 2010-11 and 8.1, 8.1 and 6.5 per cent during 2011-12 in the locations viz., Kambalapatti, Karianchettipalayam and Samathur, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

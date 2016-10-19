@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Probability of recent bark stripping damage by red deer (Cervus elaphus) on Norway spruce (Picea abies) in a low mountain range in Germany : a preliminary analysis.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kiffner, Christian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rößiger, Elisabeth.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Trisl, Oliver.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schulz, Rainer.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rühe, Ferdinand.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"saksanhirvi"},
+	{"value":"forest management"},
+	{"value":"kuusi"},
+	{"value":"Cervus elaphus"},
+	{"value":"hirvituhot"},
+	{"value":"wildlife management"},
+	{"value":"logistic regression"},
+	{"value":"riistanhoito"},
+	{"value":"Picea abies"},
+	{"value":"metsänhoito"},
+	{"value":"Germany"},
+	{"value":"browsing damage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001058",
+	"dct:identifier":"FI2016001058",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

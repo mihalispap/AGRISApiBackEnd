@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Ascertaining the role performed by the Paniya tribal households in breeding, feeding, healthcare and management practices of dairy farming",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":977,
+	"dc:subject":[
+		{"value":"animal husbandry methods",
+	"xml:lang":"eng"
+	},
+	{"value":"grupos etnicos",
+	"xml:lang":"esp"
+	},
+	{"value":"elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"methode d'elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"animal husbandry",
+	"xml:lang":"eng"
+	},
+	{"value":"ganaderia",
+	"xml:lang":"esp"
+	},
+	{"value":"dairy farms",
+	"xml:lang":"eng"
+	},
+	{"value":"metodos de crianza",
+	"xml:lang":"esp"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"groupe ethnique",
+	"xml:lang":"fre"
+	},
+	{"value":"granjas lecheras",
+	"xml:lang":"esp"
+	},
+	{"value":"ethnic groups",
+	"xml:lang":"eng"
+	},
+	{"value":"exploitation laitiere",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":980,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000175",
+	"dct:identifier":"IN2015000175",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vijay Avinashilingam, N.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Upayana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramkumar"
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"Agriculture and livestock are complimentary to each other in the Indian farming system in all regions, including the hilly ones. A wide range of hilly people has undertaken milk production as their main occupation. Tamil Nadu is a treasure for indigenous technical knowledge in agriculture and allied activities. According to 1991 census, the total population of the Nilgiris District is 710,214. Out of this, the tribal population accounts for 25,048. There are 36 scheduled tribe communities living in Tamil Nadu. Farm women's contribution in agriculture is not adequately reflected in the available statistics and hence there is need for better understanding in this regard. The studies are lagging in the area of role performance of women in hilly tribal households. So this study clearly stated the regular role and sometimes role played by the females in the dairy farming activities like attending the animal at the time of parturition, post parturient care, cutting of grass and chopping of straw, grazing, feeding and watering of animals, care of new born calf and sick animals, milking of animals to provide weather protection and preparation of milk products. Whereas, their counterparts performed the outside activities starting from taking animals to the hospital to selling, purchasing of animals and keeping the account of milk products sold.",
+	"xml:lang":"eng"
+	}
+	}}

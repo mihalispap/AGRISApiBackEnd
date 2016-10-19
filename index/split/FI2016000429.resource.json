@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n1p62.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The emergence of cereal fungal diseases and the incidence of leaf spot diseases in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jalli, Marja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laitinen, Pauliina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Latvala, Satu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sienitaudit"},
+	{"value":"leaf spots"},
+	{"value":"fungal diseases"},
+	{"value":"Finland"},
+	{"value":"cereal crops"},
+	{"value":"lehtilaikkutaudit"},
+	{"value":"kasvitaudit"},
+	{"value":"pathogens"},
+	{"value":"cereals"},
+	{"value":"viljakasvit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000429",
+	"dct:identifier":"FI2016000429",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

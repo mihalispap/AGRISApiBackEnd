@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Cambium dynamics of Pinus sylvestris and Betula spp. in the northern boreal forest in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Schmitt, Uwe.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jalkanen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eckstein, Dieter.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"light microscopy"},
+	{"value":"Betula"},
+	{"value":"cambium"},
+	{"value":"cambium dynamics"},
+	{"value":"wood formation"},
+	{"value":"pinning technique"},
+	{"value":"boreaaliset metsät"},
+	{"value":"koivut"},
+	{"value":"mänty"},
+	{"value":"puutuminen"},
+	{"value":"Pinus sylvestris"},
+	{"value":"boreal forests"},
+	{"value":"tutkimusmenetelmät"},
+	{"value":"jälsi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000455",
+	"dct:identifier":"FI2016000455",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

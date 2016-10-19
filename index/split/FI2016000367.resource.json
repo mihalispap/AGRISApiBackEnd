@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Measurement and determinants of food insecurity in northeast Nigeria : some empirical policy guidelines.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Amaza, Paul S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adejobi, Adedeji O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fregene, Tosan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant production"},
+	{"value":"Nigeria"},
+	{"value":"households"},
+	{"value":"food policies"},
+	{"value":"foods"},
+	{"value":"family planning"},
+	{"value":"rural communities"},
+	{"value":"food security"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000367",
+	"dct:identifier":"FI2016000367",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

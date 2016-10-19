@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"QUALIDADE DA ÁGUA EM ECOSSISTEMAS AQUÁTICOS TROPICAIS SOB IMPACTOS AMBIENTAIS NO BAIXO RIO JARI-AP: REVISÃO DESCRITIVA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":119,
+	"bibo:volume":5,
+	"bibo:pageEnd":131,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00218",
+	"dct:identifier":"BR2015N00218",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1294",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Carlos Henrique Medeiros de Abreu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alan Cavalcanti da Cunha"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"PPGBIO-UNIFAP"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"O objetivo da presente investigação é elaborar um \"estado da arte\" sobre qualidade da água na bacia hidrográfica do rio Jari-AP, considerando a importância do ciclo hidrológico e o contexto de uso e ocupação da terra. Destaque é dado à avaliação de impactos ambientais (AIAs) da Usina Hidrelétrica de Santo Antônio do Jari (UHESAJ) no período de 2005 a 2014. A metodologia aplicada é descritiva com contribuições tecno-científicas da literatura, dividida em duas etapas básicas: a) revisão sintética sobre recursos hídricos, limnologia, saúde pública e riscos ambientais na bacia do rio Jari; b) interpretação e análise dos parâmetros físicos, químicos e biológicos da qualidade da água e suas respectivas variações espaço-sazonais no contexto hidrometeorológico da bacia. Os resultados indicaram que alguns empreendimentos econômicos e a ocupação urbana desordenada na bacia do rio Jari-AP tendem a influenciar negativamente a qualidade da água, assim como ocorre na maioria dos casos registrados em estudos de AIAs em todo o Brasil, cujas alterações dos padrões da qualidade da água já são significativas e detectadas por monitoramento no seu baixo curso. Concluiu-se que próximo de zonas urbanas, industriais e da instalação da UHESAJ, encontra-se o trecho ambientalmente mais ameaçado, com sensível alteração da qualidade da água, destacando-se os parâmetros cor, fósforo, coliformes termotolerantes (CT) e Escherichia coli. Esta investigação é uma contribuição de referência para futuros estudos da qualidade da água na bacia, cuja utilidade é servir como suporte às novas pesquisas e gestão de ecossistemas aquáticos, normalmente pouco disponíveis na literatura amazônica. limnologia, condições hidroambientais, estudo de referência, AIA, jusante de barragem.",
+	"xml:lang":"por"
+	}
+	}}

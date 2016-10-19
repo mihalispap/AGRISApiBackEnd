@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Sensory and mechanical characterization of mealy apples and woolly peaches and nectarines.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Arana, Ignacio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jarén, Carmen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Arazuri, Silvia.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"organoleptic analysis"},
+	{"value":"controlled atmosphere storage"},
+	{"value":"varieties"},
+	{"value":"nectarines"},
+	{"value":"fruits"},
+	{"value":"firmness"},
+	{"value":"apples"},
+	{"value":"peaches"},
+	{"value":"keeping quality"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001212",
+	"dct:identifier":"FI2016001212",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

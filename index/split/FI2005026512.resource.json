@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Maize hybrids cultivation in Nigeria – A review"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026512",
+	"dct:identifier":"FI2005026512",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Olaniyan, Amudalat Bolanle (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lucas, Ephraim Olabode (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Maize is a very important crop in Nigeria, as it provides an inexpensive nutritious food that helps to sustain rapidly increasing population. Apart from providing the staple diet for the population, maize is also an important crop in industrial and livestock production in the country. The level of maize production in Nigeria is estimated at almost 5.5 million tons per year. This is far below the total demand of the nation as the frequent rise in price shows stronger force of demand relative to supply. In countries that have recorded increments in maize grain yield, genotype had been the single yield-increasing input that promises further significant yield increase. In realization of this fact efforts were made in Nigeria to develop hybrid maize varieties and studies were carried out on its cultural and agronomic requirements."}
+	}}

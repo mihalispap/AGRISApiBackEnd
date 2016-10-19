@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of pre-emergence herbicides on yield and yield components of rice"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mahadi, M. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dadari, S. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahmud, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Babaji, B. A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100181",
+	"dct:identifier":"FI2016100181",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Field trials were conducted during 2001 and 2002 rainy seasons at Samaru in the Northern Guinea Savanna of Nigeria to evaluate the performance  of some herbicides for weed control in rice. Cinosulfuron at 0.06 kg a.i/ha and the two hoe weedings in 2001and piperophos at 1.0 kg a.i/ha, cinosulfuron at 0.06 and 0.08 kg a.i/ha and the two hoe weedings in 2002, significantly reduced weed dry weight at harvest. All the treatments with the exception of cinosulfuron at both rates significantly increased crop vigour, plant height and plant dry matter per stand of rice. Panicle number per stand was significantly enhanced by all the treatments except cinosulfuron at 0.06 kg a.i/ha in 2001 and piperophos at 1.0 kg a.i/ha, cinosulfuron at 0.06 and 0.08 kg a.i/ha and the weedy check in 2002. All treatments significantly increased the number of tillers per stand except cinosulfuron at both rates in 2001 and piperophos, cinosulfuron and the weedy check in 2002. Grain yield of rice was significantly increased when oxadiazon and piperophos at 1.0 kg a.i/ha and the two hoe weedings treatments in 2001 were applied. In 2002, all the treatments significantly increased rice grain yield except cinosulfuron and the weedy check. "}
+	}}

@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f19.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Forced air cooling system for Zea mays"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Cortbaoui, Patrick (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goyette, Bernard (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gariépy, Yvan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Charles, Marie Thérèse (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raghavan, Vijaya G.S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vigneault, Clément (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100206",
+	"dct:identifier":"FI2016100206",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Three cultivars of sweet corn were precooled immediately after harvest using a forced-air cooler system. Combinations of two air flow rates, 1 and 3 L·s-1·kg-1 of produce, and two cob orientations, parallel and perpendicular to the air flow were tested. Both precooled and room cooled corn cobs were stored for 7 and 21 days at 1ºC and 90-95% RH. Half cooling time and quality attributes were measured to assess the performance of the forced-air cooler compared to room cooling. Higher air flow rate (3 L·s-1·kg-1) and perpendicular orientation of corn cobs reduced significantly the cooling time. On the other hand, forced-air precooling extended the storage life of sweet corn cobs for a period of 21 days by conserving high total soluble solids and moisture content and maintaining fairly good general quality. The three cultivars of sweet corn were shown to be different in their keeping quality over time."}
+	}}

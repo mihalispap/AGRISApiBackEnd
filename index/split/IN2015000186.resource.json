@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutrient Utilization of Azolla and Sheanut Cake in Nellore Sheep Under Different Management Systems",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":59,
+	"dc:subject":[
+		{"value":"azolla pinnata",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"proximate composition",
+	"xml:lang":"eng"
+	},
+	{"value":"composition globale",
+	"xml:lang":"fre"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"digestibilite",
+	"xml:lang":"fre"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"digestibilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"composicion aproximada",
+	"xml:lang":"esp"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":63,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000186",
+	"dct:identifier":"IN2015000186",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Reddy, Y. Ravindra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, K. Sarjan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sudhakar, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, D. Ramesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prakash, M. Gnana"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Four isonitrogenous diets were formulated using Azolla (Azolla pinnata) as low protein supplement and Sheanut cake (Vitellaria paradoxa) as energy supplement in a 4x6 completely randomized design in Nellore adult sheep under intensive and semi intensive systems of management. The sheep were fed control ration (T1), concentrate diet with replacement of 30 parts of GNC with Azolla (T2), concentrate diet replacement of 16 parts of Ricebran with Sheanut cake (T3) and concentrate diet containing replacement of 30 parts of GNC with Azolla and 16 parts of Ricebran with Sheanut cake (T4). Significantly (P0.05) higher dry matter intake (kg) per day was recorded for experimental concentrate mixtures T2 and T3 compared to T4 in both the system of management. The dry matter intake/100 kg body weight was significantly (P0.01) higher in semi intensive system than intensive system. Significantly (p0.01) higher digestibility coefficient (%) were recorded for DM, OM, CP, EE, NFE, NDF, ADF, hemicellulose and cellulose for T4 than other concentrate mixtures and control diet in intensive system, whereas the similar trend were also observed for digestibility coefficients (%) of all nutrients except NFE in semi intensive system. Significantly (P0.01) higher digestibility coefficients (%) were recorded for DM, OM, CP, NFE, hemicellulose and cellulose in intensive system whereas CF digestibility was significantly (P0.01) higher in semi intensive system.",
+	"xml:lang":"eng"
+	}
+	}}

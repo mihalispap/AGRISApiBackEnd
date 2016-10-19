@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1226",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pereira, Santiago,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Prieto, Antonio,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Calama, Rafael,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Diaz-Balteiro, Luis,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Optimal management in Pinus pinea L. stands combining silvicultural schedules for timber and cone production.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"goals"},
+	{"value":"forest management"},
+	{"value":"goal programming"},
+	{"value":"non-timber forest product"},
+	{"value":"forest management planning"}
+	],
+	"bibo:doi":"10.14214/sf.1226",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000320",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000320",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

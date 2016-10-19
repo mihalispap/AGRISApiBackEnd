@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A review on some factors affecting colour of fresh beef cuts"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591891",
+	"dct:identifier":"US201301591891",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f38.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mohamed, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jamilah, B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abbas, K.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rahman, R. Abdul (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This research paper aims to cover the latest information about the colour of fresh beef cuts which is one of the quality attributes, and the factors significantly affecting it. The effects of some treatment techniques used to maintain it, such as dietary antioxidants and packaging under high oxygen concentration as well as modified atmosphere packaging (MAP), also reported. The outcome of this review paper revealed that colour of beef cuts is a critical and important visual quality attribute, highly affecting consumer decisions to purchase the cuts. Selection of correct animal diets and presences of some enzymes in the muscles may positively affect the colour. Increasing both lipid and protein oxidation negatively influence the storage life of the colour. To maintain good beef colour, techniques of using natural antioxidants such as dietary vitamin E, ascorbic acid, carnosine and tea catechins (TC) as well as MAP with different methods were found significantly keeping this quality attribute."}
+	}}

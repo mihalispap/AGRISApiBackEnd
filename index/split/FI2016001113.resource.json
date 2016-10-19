@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimates of carbon stores in four Northern Irish lowland raised bogs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tomlinson, Roy W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Davidson, Laoise.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peat"},
+	{"value":"peatlands"},
+	{"value":"bulk density"},
+	{"value":"hiilipitoisuus"},
+	{"value":"turve"},
+	{"value":"carbon"},
+	{"value":"Ireland"},
+	{"value":"irtotiheys"},
+	{"value":"soil density"},
+	{"value":"mittaus"},
+	{"value":"suot"},
+	{"value":"bogs"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001113",
+	"dct:identifier":"FI2016001113",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

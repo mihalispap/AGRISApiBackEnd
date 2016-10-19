@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Mathematical aspects regarding the relationship between the quantitative expression of some natural reducing substances and the response time in the presence of an oxidation substance"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869564",
+	"dct:identifier":"US201300869564",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rujescu, Ciprian Ioan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cret, Florian (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pirvulescu, Luminita (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tuchila, Cristina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Negrea, Ileana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jianu, Ionel (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The study of the relationships between the variables that appear within some chemical processes, expressed mostly with the help of some real functions with real variables, results in a rigorous mathematical analysis that points out certain of its features. These aspects cannot always be directly observed by studying the chemical process alone. The authors analysed the relationship between the quantitative expression of some y natural reducing substances (x) and the response time (y) in the presence of an oxidation substance, i.e., a relationship of the form: y = a . x-b; a, b > 0.The study aims at establishing mathematically a stability point, in the vicinity of which a variation of an antioxidant substance amount x influences at about the same level the response time. This approach is justified by the fact that in point enough located in relation to the determining point, the change, even if a minor one, of one of the analysed values (x or y) is correlated to the major change of the other value, thus resulting in process instability. This can be done by using the regression theory and differential calculus, which leads to results more precise than in the case of empirical methods, often used in practice."}
+	}}

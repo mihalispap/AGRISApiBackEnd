@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"A comparison of growth regulators for adventitious shoot regeneration from hypocotyls of flax (Linum usitatissimum L.)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yildiz, Mustafa (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Özgen, Murat (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100358",
+	"dct:identifier":"FI2016100358",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Plant regeneration is a serious limiting factor to obtain transgenic plants in biotechnology. Flax (Linum usitatissimum L.) is one of the important crops for its high quality drying oil and fiber. Flax plants have been regenerated from hypocotyl segments using in vitro techniques. In the present study, the effect of different concentrations and combinations of benzylaminopurine (BAP), naphtalene acetic acid (NAA) and thidiazuron (TDZ) on shoot regeneration from hypocotyl explants of three flax cultivars was studied. The best results were obtained from the MS medium containing 1 mg l-1 BAP and 0.02 mg l-1 NAA as 1054, 944 and 800 mg in explant weight; 100.0, 96.7 and 70.0% in shoot regeneration; 9.8, 9.8 and 15.4 in shoot number per explant; 98.0, 96.0 and 108.0 in total shoot number per Petri dish from the cultivars Madaras, 1886 Sel. and Clarck, respectively. Increasing TDZ concentrations above 1 mg l-1 showed a toxic effect on explant and decreased shoot regeneration frequency significantly. Use of TDZ alone in flax in vitro culture was not recommended."}
+	}}

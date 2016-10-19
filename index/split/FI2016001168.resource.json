@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance, carcass quality, and gastric alterations in fattening pigs fed additives containing formic acid either coated with sorbate or mixed with lactic acid /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Partanen, Kirsi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karhapää, Maija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siljander-Rasi, Hilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Virtanen, Erkki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nilsson, Bernt.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lihasika"},
+	{"value":"feed additives"},
+	{"value":"carcass composition"},
+	{"value":"formic acid"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"mahalaukku"},
+	{"value":"lactic acid"},
+	{"value":"organic acids"},
+	{"value":"teuraslaatu"},
+	{"value":"kasvu"},
+	{"value":"maitohappo"},
+	{"value":"muurahaishappo"},
+	{"value":"sorbic acid"},
+	{"value":"swine"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001168",
+	"dct:identifier":"FI2016001168",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

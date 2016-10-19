@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of olfactory conditioned parasitoid Goniozus nephantidis (Musebeck) in suppression of Opisina arenosella Walker under field conditions in east coast of Andhra Pradesh",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":460,
+	"dc:subject":[
+		{"value":"Goniozus nephantidis"},
+	{"value":"opisina arenosella"},
+	{"value":"olfactory conditioning"},
+	{"value":"opisina",
+	"xml:lang":"esp"
+	},
+	{"value":"goniozus",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":462,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000755",
+	"dct:identifier":"IN2015000755",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chalapathy Rao, N.B.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Emmanuel,  N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Subaharan, K."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

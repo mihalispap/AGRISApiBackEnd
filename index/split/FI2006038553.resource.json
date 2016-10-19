@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Collaborative study of a new developed ELISA kit for gluten determination"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038553",
+	"dct:identifier":"FI2006038553",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gabrovská, Dana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rysová, Jana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Burkhard, Martin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cuhra, Petr (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kubík, Martin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baršová, Sona (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A collaborative study in 8 laboratories to validate a new ELISA method for quantitative gluten determination in foods was performed. The study included 17 samples: 4 gluten-free mixes, maize bread with dietary fiber, rolls, 3 samples of milled buckwheat grains, rice, maize, 3 samples of rice spiked at wheat and 3 samples of maize spiked at wheat. The ELISA method is based on two monoclonal and one polyclonal antibody developed in Immunotech a Beckman Coulter Company. The kit produces no false positive results or no cross-reactivity with oat, rice, maize and buckwheat. The standard used for ELISA kit was obtained from Working Group on Prolamin Analysis and Toxicity. Repeatability (r) and reproducibility (R) of the method were determined on levels varied from 22 to 294 mg/kg. Relative standard deviations ranged from 4.1 to 30 % for RSDr and from 18 to 46 % for RSDR. Sensitivity of the kit to the wheat flour contamination was estimated. All participants obtained ELISA kit with standard procedure for use and protocol for result calculation. Two real samples (bakery bread mix and buckwheat flour) were found to be contaminated with some gluten source and are unacceptable for celiac patients. The gliadin in spiked samples at level of wheat 0.1 g/100 g; 0.5 g/100 g and 1 g/100 g was detected as positive in all laboratories too. This ELISA kit could be probably recommended in the future for control of gluten-free foods in the Czech Republic."}
+	}}

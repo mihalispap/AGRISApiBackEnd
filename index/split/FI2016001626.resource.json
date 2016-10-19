@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Anthropogenic effects on understorey vegetation in Myrtillus type urban forests in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Malmivaara, Minna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Löfström, Irja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vanha-Majamaa, Ilkka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pintakasvillisuus"},
+	{"value":"trampling"},
+	{"value":"aluskasvillisuus"},
+	{"value":"Finland"},
+	{"value":"taajamametsät"},
+	{"value":"recreational areas"},
+	{"value":"urban forestry"},
+	{"value":"metsien virkistyskäyttö"},
+	{"value":"understorey"},
+	{"value":"tallaaminen"},
+	{"value":"GNMDS"},
+	{"value":"mustikkatyyppi"},
+	{"value":"pirstoutuminen"},
+	{"value":"kuluminen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001626",
+	"dct:identifier":"FI2016001626",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

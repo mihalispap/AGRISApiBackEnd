@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Sensitivity of Picea abies to butt rot in pure stands and in mixed stands with Pinus sylvestris in southern Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lindén, Magnus.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vollbrecht, Gudmund.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sienitaudit"},
+	{"value":"mycoses"},
+	{"value":"harvennus"},
+	{"value":"mänty"},
+	{"value":"kuusi"},
+	{"value":"thinning"},
+	{"value":"mixed forests"},
+	{"value":"Pinus sylvestris"},
+	{"value":"sekametsät"},
+	{"value":"Picea abies"},
+	{"value":"Heterobasidion annosum"},
+	{"value":"juurikääpä"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002053",
+	"dct:identifier":"FI2016002053",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

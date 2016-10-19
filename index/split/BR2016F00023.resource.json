@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Viability of in vitro produced embryos of gyr cattle (Bos indicus) after cryopreservation by vitrification under field conditions",
+	"xml:lang":"eng"
+	},
+	{"value":"   Viabilidade de embriões gir (Bos indicus) produzidos in vitro após criopreservação em condições de campo pela vitrificação ",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilization",
+	"xml:lang":"eng"
+	},
+	{"value":"embryo transfer",
+	"xml:lang":"eng"
+	},
+	{"value":"pregnancy",
+	"xml:lang":"eng"
+	},
+	{"value":"viability",
+	"xml:lang":"eng"
+	},
+	{"value":"cryopreservation",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.2",
+	"bibo:doi":"10.17523/bia.v73n2p159",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00023",
+	"dct:identifier":"BR2016F00023",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n2p159",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"PEREIRA, L. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERREIRA-SILVA, J.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CANTANHÊDE, L. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VELOZO NETO,  H. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ANDRADE, J. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SOUZA, B. P. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MOURA, M.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, M.A.L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The aim of this study was to evaluate the pregnancy rate of in vitro produced embryos of Gyr cattle (Bos indicus) after cryopreservation by the vitrification method under field conditions. Blastocysts in different developmental stages were transferred to recipient cows either fresh (n = 140) or warmed after vitrification (n = 138). The pregnancy rates obtained for fresh embryos were 46.15% (initial blastocyst), 46.93% (blastocyst) and 50.0% (expanded blastocyst) at 35 days post-fertilization, and 43.58% (initial blastocyst), 46.93% (blastocyst) and 50.0% (expanded blastocyst) at 60 days. The pregnancy rates after embryo vitrification were 35.0% (initial blastocyst), 42.30% (blastocyst) and 43.47% (expanded blastocyst) at 35 days post-fertilization, and 32.50% (initial blastocyst), 38.46% (blastocyst) and 43.47% (expanded blastocyst) at 60 days. Embryo vitrification or blastocyst developmental stage did not affect pregnancy rates or incidence of embryonic death. In conclusion, vitrification of Gyr (Bos indicus) embryos under field conditions is an efficient method that can be implemented to use surplus in vitro produced embryos without affecting pregnancy rates.",
+	"xml:lang":"eng"
+	},
+	{"value":"Objetivou-se com o trabalho avaliar a taxa de prenhez a partir de embriões de bovinos da raça Gir (Bos indicus) produzidos in vitro após criopreservação em condições de campo pelo método de vitrificação. Blastocistos em diferentes estádios de desenvolvimento foram transferidos a fresco (n = 140) ou aquecidos após a vitrificação (n = 138). As taxas de prenhez de embriões frescos foram 46,15% (blastocisto inicial), 46,93% (blastocisto) e 50,00% (blastocisto expandido) aos 35 dias e 43,58% (blastocisto inicial), 46,93% (blastocisto) e 50,00% (blastocisto expandido) aos 60 dias pós-fertilização, respectivamente. As taxas de prenhez após a vitrificação foram 35,00% (blastocisto inicial), 42,30% (blastocisto) e 43,47% (blastocisto expandido) aos 35 dias e 32,50% (blastocisto inicial), 38,46% (blastocisto) e 43,47% (blastocisto expandido) aos 60 dias pós-fertilização, respectivamente. A vitrificação do embrião ou estádio do desenvolvimento não afetaram as taxas de prenhez ou incidência de morte embrionária. Em conclusão, a vitrificação de embriões de bovinos da raça Gir (Bos indicus) sob condições de campo é um método eficiente que pode ser implementado para aproveitar os embriões produzidos in vitro excedentes sem afetar a taxa de prenhez.",
+	"xml:lang":"por"
+	}
+	]
+	}}

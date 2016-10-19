@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Wound healing potential of sunflower and olive oils in goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":225,
+	"dc:subject":[
+		{"value":"plaie",
+	"xml:lang":"fre"
+	},
+	{"value":"curacion",
+	"xml:lang":"esp"
+	},
+	{"value":"wounds",
+	"xml:lang":"eng"
+	},
+	{"value":"huile de tournesol",
+	"xml:lang":"fre"
+	},
+	{"value":"healing",
+	"xml:lang":"eng"
+	},
+	{"value":"heridas",
+	"xml:lang":"esp"
+	},
+	{"value":"sunflower oil",
+	"xml:lang":"eng"
+	},
+	{"value":"olive oil",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"guerison",
+	"xml:lang":"fre"
+	},
+	{"value":"huile d'olive",
+	"xml:lang":"fre"
+	},
+	{"value":"aceite de girasol",
+	"xml:lang":"esp"
+	},
+	{"value":"aceite de oliva",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":228,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000404",
+	"dct:identifier":"IN2015000404",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Anand, Abhishek"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dass, L.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, A.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A total of 48 wounds of 3x2 cm were created in three groups containing 4 goats each. The wounds of group-I (G-I) and group-II (G-II) were treated with topical application of sunflower oil and olive oil, respectively, whereas the wounds of Group-III (G-III, control) were treated with normal saline solution. The wound healing potential of both the oil with respect to foul smelling, exudation and inflammation and wound contraction were recorded. Wound contraction as well as epithelialization was conspicuously consistent with sunflower oil followed by olive oil and normal saline. It was concluded that sunflower oil and olive oil enhanced the wound healing with topical application.",
+	"xml:lang":"eng"
+	}
+	}}

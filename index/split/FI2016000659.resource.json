@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessing and reporting forest carbon stock changes for FRA, UNFCCC and Kyoto Protocol : a concerted effort?.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Schoene, Dieter.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"kansainvälinen yhteistyö"},
+	{"value":"forest inventories"},
+	{"value":"climatic change"},
+	{"value":"coal"},
+	{"value":"international cooperation"},
+	{"value":"metsäninventointi"},
+	{"value":"hiili"},
+	{"value":"metsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000659",
+	"dct:identifier":"FI2016000659",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

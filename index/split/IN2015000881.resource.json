@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Site specific nutrient management software for coffee",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":370,
+	"dc:subject":[
+		{"value":"Nutrient management"},
+	{"value":"FERREC"},
+	{"value":"Nutrition"},
+	{"value":"abonos",
+	"xml:lang":"esp"
+	},
+	{"value":"fertilizers",
+	"xml:lang":"eng"
+	},
+	{"value":"analisis del suelo",
+	"xml:lang":"esp"
+	},
+	{"value":"analyse de sol",
+	"xml:lang":"fre"
+	},
+	{"value":"soil analysis",
+	"xml:lang":"eng"
+	},
+	{"value":"coffee",
+	"xml:lang":"eng"
+	},
+	{"value":"engrais",
+	"xml:lang":"fre"
+	},
+	{"value":"cafe",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":376,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000881",
+	"dct:identifier":"IN2015000881",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Manjunatha, A.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasanna,  S.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"D'Souza, M.V."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Chemical fertilizers are integral part of agriculture and continue to be inevitable source of nutrients. A site specific soil test based nutrient management system ensures the judicious use of fertilizers by contributing to the sustainable and economic production without polluting the soil resources. Coffee is a major commercial crop of India and the site specific fertilizer recommendations for this crop have proved to have advantages over blanket fertilization by improving the fertilizer use efficiency and profitability. The software was designed in such a way that entries corresponding to the block-wise soil test data viz., soil pH, available N, P and K generate necessary information on the quantity of suitable and available fertilizers that need to be applied to each block to meet the demand of the crop and plant.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Temperatura de secagem sobre a concentração de nutrientes em Eucalyptus dunnii Maiden ",
+	"xml:lang":"por"
+	},
+	{"value":"Drying temperature on the concentration of nutrients in Eucalyptus dunnii Maiden",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":{"value":"temperature",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202169",
+	"dct:identifier":"BR2015202169",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/237/226",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Machado Leonardo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Magistrali Iris"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Araldi Dane"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"This study aimed to compare the standard temperature drying of samples of plant tissue to 70°C to 105ºC and analyze the effect of temperature on four components of trees (bark, twigs, wood and leaves) and its influence on the results of nutritional analysis in plant tissue of Eucalyptus dunnii. Wecollected 8 samples per tree component, 4 samples for treatment 1 (drying at 70°C) and 4 samples for treatment 2 (105°C.), totaling 32 samples. It was found that only the nutrients present in the wood component, did not suffer interference from the drying temperature. For this componentcan be made to 105ºC and stabilize the weight of the samples in approximately 32 hours. For the component leaf Ca concentrations differed between the two treatments, being higher in the second treatment. For the component branch, the concentration of N, P and K differed between the two treatments, being higher in the first. But in both treatments to weight stabilization occurred after 32 hours, with no time savings dried at 105ºC. For the shell component, the Mg content differed between the two treatments, being higher in the second treatment.",
+	"xml:lang":"eng"
+	},
+	{"value":"O presente estudo objetivou comparar a temperatura padrão de secagem de amostras de tecido vegetal 70ºC com a temperatura de 105ºC e analisar o efeito da variação da temperatura em quatro componentes arbóreos (casca, galhos, madeira e folhas) e a sua influência nos resultados da análise nutricional em tecido vegetal de Eucalyptus dunnii. Foram coletadas 8 amostras por componente arbóreo, 4 amostras para o tratamento 1 (secagem à 70ºC) e 4 para o tratamento 2 (secagem a 105ºC.), totalizando 32 amostras. Verificou-se que somente os nutrientes presentes no componente madeira, não sofreram interferência da temperatura de secagem. Para esse componente podeserealizar a secagem a 105ºC e estabilizar o peso das amostras em aproximadamente 32 horas. Para a componente folha, o teor de Ca diferiu nos dois tratamentos, sendo maior no segundo tratamento. Para o componente galho, o teor de N, P e K diferiu nos dois tratamentos, sendo maior no primeiro. Mas em ambos os tratamentos a estabilização do peso ocorreu após 32 horas, não havendo economia de tempo com a secagem a 105ºC. Para a componente casca, o teor de Mgdiferiu nos dois tratamentos, sendo maior no segundo tratamento.",
+	"xml:lang":"por"
+	}
+	]
+	}}

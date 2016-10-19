@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Achyranthes aspera Linn. accelerates cutaneous wound healing in immunocompromised rats by modulating endogenous antioxidants",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":183,
+	"dc:subject":[
+		{"value":"endogonales",
+	"xml:lang":"esp"
+	},
+	{"value":"plaie",
+	"xml:lang":"fre"
+	},
+	{"value":"wounds",
+	"xml:lang":"eng"
+	},
+	{"value":"antioxidants",
+	"xml:lang":"eng"
+	},
+	{"value":"heridas",
+	"xml:lang":"esp"
+	},
+	{"value":"immunologie",
+	"xml:lang":"fre"
+	},
+	{"value":"rats",
+	"xml:lang":"eng"
+	},
+	{"value":"rat",
+	"xml:lang":"fre"
+	},
+	{"value":"hydrozoa",
+	"xml:lang":"esp"
+	},
+	{"value":"immunology",
+	"xml:lang":"eng"
+	},
+	{"value":"antioxydant",
+	"xml:lang":"fre"
+	},
+	{"value":"antioxidantes",
+	"xml:lang":"esp"
+	},
+	{"value":"rata",
+	"xml:lang":"esp"
+	},
+	{"value":"inmunologia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":186,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000108",
+	"dct:identifier":"IN2015000108",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Barua, C.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Begum, S.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pathak, D.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bora,  R,S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, A."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Achyranthes aspera Linn is traditionally used to treat piles, pneumonia, cough and skin eruptions. The present study was designed to investigate the wound healing activity of 5% ointment of methanol extract of leaves of A. aspera(MEAA)by topical application and the endogenous antioxidant profile in experimental immunocompromised rats with excision wound. Immunocompromised state was induced by pre-treatment with hydrocortisone (HC) at 40mg/kg body weight (i.m.).Following one week pre-treatment with He, excision wounds were created.The vehicle, 5%ointment of MEAA or standard drug (Himax) was applied topically twice daily for seven days. Healing potential wasevaluated by the rate of wound contraction, estimation of enzymatic and non-enzymatic antioxidants like catalase, SOD, GSH, protein,Vitamin C and pro-healing marker, hydroxyproline content combined with histopathological study on 8th day post wounding. There was significantincrease in the levels of enzymatic and non-enzymatic antioxidants in the extract treated group as compared to control group. Histopathological study revealed collagen deposition, fibroblast proliferation, angiogenesis and development of basement membrane in A.aspera edgroup.The results revealed significant wound healing activity of MEAA in steroid-impaired wounds.",
+	"xml:lang":"eng"
+	}
+	}}

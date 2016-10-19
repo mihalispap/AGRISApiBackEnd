@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/environment-6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Competitive anion sorption effects on dairy wastewater dissolved phosphorus extraction with zeolite-based sorbents"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Dao, Thanh H. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100142",
+	"dct:identifier":"FI2016100142",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Dairy wastewater is often used to irrigate field crops. Soluble and colloidal phosphorus (P) must be removed from the supernatant liquid to avoid further P loading of high-P fields. Information is needed on P sorption capacity of natural and synthetic zeolites and fly ash in a complex wastewater and on how the spent products release sorbed PO4-P. Sorption isotherms were determined in single and multi-anion standard solutions and dairy wastewater to quantify the sorption capacity of modified zeolites and fly ash and increase our understanding of underlying mechanisms of oxyanion retention. Solution anion concentrations were determined by high-performance ion chromatography. The results show that natural zeolites have negligible affinity for NO3- or PO43- anions. Surfactant-modified (SMZ) and synthetic (SZBP) zeolites and fly ash exhibit significant capacities to bind PO4-P. Phosphate sorption on SMZ and SZBP was described by the Langmuir equation, with sorption maxima, Smax, averaging 0.71 and 0.31 mmol g-1, respectively. Class C fly ash strongly sorbs and removes PO4-P from solution. Sorption maxima increase by 4-fold and Langmuir K constants indicate a higher bonding energy than those of SMZ and SZBP. Competitive sorption is evident in PO4-P sorption from mixed solutions of SO4-S, NO3-N, and PO4-P. All sorbents removed dissolved PO4-P from multi-ion dairy wastewater suspensions containing 10 to 100 g solid L-1. The order of efficacy is fly ash ≥ SZBP > SMZ. Although differences in affinity and desorption exist, the zeolite-based sorbents prove valuable as temporary sinks and offer promise in the development of reversible recovery treatments of P-laden animal wastewater."}
+	}}

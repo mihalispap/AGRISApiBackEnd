@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of potassium on drought tolerance in potato cv. Agria"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591908",
+	"dct:identifier":"US201301591908",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a11.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khosravifar, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yarnia, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Benam, M. B. Khorshidi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moghbeli, A. H. Hosseinzadeh (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"For evaluation of yield and some morpho-physiological attributes of Agria potato cultivar in response to water and potassium fertilizer consumption, an experiment was conducted in a RCBD based split plot design in three replications in IAU Tabriz Branch research field in 2006. Five rates of water application after 35, 70, 105, 140 and 175 mm evaporation from class A pan and four rates of potassium sulphate application as control, 75, 150 and 225 kg/ha were arranged in main and sub plots respectively. Increasing irrigation level decreased leaf water potential as 25.58% and increased stomata resistance as 393%, consequently leading to 53% decrease in tuber fresh weight. Potassium application enhancement was paralleled with 29% increase in tuber yield. This can be as a result of better stomata function and increase in abaxial leaf stomata number and reduction in adaxial one. Potassium affected leaf water potential and resulted to greater water content as 13.6% and supplied essential hydrostatic pressure to increasing tuber fresh weight consequently."}
+	}}

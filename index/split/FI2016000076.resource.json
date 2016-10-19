@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Chromosome regions affecting body weight in egg layers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Honkatukia, Mervi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuiskula-Haavisto, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vilkki, Johanna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"muninta"},
+	{"value":"genes"},
+	{"value":"oviposition"},
+	{"value":"hens"},
+	{"value":"kana"},
+	{"value":"body weight"},
+	{"value":"paino"},
+	{"value":"geenit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000076",
+	"dct:identifier":"FI2016000076",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

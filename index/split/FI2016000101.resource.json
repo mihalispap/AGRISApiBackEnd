@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimating tree biomass of sub-Saharan African forests : a review of available allometric equations.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Henry, Matieu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Picard, Nicolas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Perttunen, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Trotta, Carlo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Manlay, J. Raphaël.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valentini, Riccardo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bernoux, Martial.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saint-André, Laurent.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Africa South of Sahara"},
+	{"value":"wood"},
+	{"value":"biomass"},
+	{"value":"forest inventories"},
+	{"value":"databases"},
+	{"value":"surveys"},
+	{"value":"aboveground biomass"},
+	{"value":"aerial parts"},
+	{"value":"specific gravity"},
+	{"value":"Tier method"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000101",
+	"dct:identifier":"FI2016000101",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

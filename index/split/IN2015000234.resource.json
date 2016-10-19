@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Management of Sclerotium rolfsii causing collar rot in Chick pea",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":114,
+	"dc:subject":[
+		{"value":"cicer arietinum",
+	"xml:lang":"esp"
+	},
+	{"value":"corticium rolfsii",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":117,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000234",
+	"dct:identifier":"IN2015000234",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nagamani, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Viswanath, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, G. Nagarjuna"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Among 12 Trichoderma isolates, TRI6 showed maximum % inhibition (82.1%) of eight fungicides, carbendazim was the most effective which inhibited pathogen by 96.2% and compatible with potential TRI6 (35.2% growth inhibition). Management of chick pea collar rot with bioagents, fungicides and oilseed cakes were evaluated against S. rolfsii in pot culture. Among the treatments, T9 recorded lowest disease incidence of 6.2 and this treatment also recorded maximum plant height 30.9 (cm), root length (8.9cm), maximum fresh weight of shoot (11.4g) and root (1.6 g) and maximum dry weight of shoot (0.3 g) and root (0.1 g).",
+	"xml:lang":"eng"
+	}
+	}}

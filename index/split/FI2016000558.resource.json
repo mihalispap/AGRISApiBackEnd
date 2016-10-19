@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Hännän pituuden vaikutus ruhon puhtauteen nautalinjan vuodanvetolaitteella /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wirta, Eeva-Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vahva, Merja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hygienia"},
+	{"value":"teurastus"},
+	{"value":"bakteerit"},
+	{"value":"biological contamination"},
+	{"value":"nauta"},
+	{"value":"cattle"},
+	{"value":"tail"},
+	{"value":"carcasses"},
+	{"value":"ruhot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000558",
+	"dct:identifier":"FI2016000558",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

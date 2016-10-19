@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/e8.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Modifying the voids properties of a trafficked pavement using rubber latex"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Igwe, E. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Orji, C.U. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eme, D.B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Okparanma, R.N. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100262",
+	"dct:identifier":"FI2016100262",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Improving the performance of bituminous concrete (i.e., a typical flexible trafficked pavement) has been one of the major concerns in highway engineering, due mainly to the twin maladies of temperature and oxidation that impede its performance. It is on this basis, that the present study was directed towards exploring techniques that will improve the performance of the flexible road pavement by modifying its strength properties, particularly stability and density, using rubber latex through rubberization. The results of this study revealed that at the design optimum asphalt (bitumen) content of 4.72%, the addition of various percentages of the rubber latex produced a design value of 1.52% of the rubber latex with a concomitant reduction in the air voids and voids in mineral aggregate (VMA) from 4 to 3.54% (i.e., an 11.5% reduction) and 16.4 to 13.25% (i.e., a 19.2% reduction) respectively. Whereas, the reduction in voids added more strength to the bituminous concrete by increasing its stability from 1520 to 2800 N (i.e., an 83.7% increase) and density from 2451 to 2525 kg/m3 (i.e., a 3% increase), it was observed that the reduction in VMA had no positive impact on the strength properties of the flexible trafficked pavement."}
+	}}

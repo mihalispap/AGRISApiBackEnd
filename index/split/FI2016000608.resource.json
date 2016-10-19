@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative effects of plant material and growth promoting plant and soil factors on growth of young apple trees.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Hansen, Poul.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"hedelmäpuut"},
+	{"value":"field experimentation"},
+	{"value":"perusrungot"},
+	{"value":"kasvitaudit"},
+	{"value":"soil amendments"},
+	{"value":"kenttäkokeet"},
+	{"value":"pruning"},
+	{"value":"lannoitus"},
+	{"value":"Malus"},
+	{"value":"Malus x domestica"},
+	{"value":"apples"},
+	{"value":"Denmark"},
+	{"value":"SARD"},
+	{"value":"fertilizer application"},
+	{"value":"trickle irrigation"},
+	{"value":"peat"},
+	{"value":"kasvu"},
+	{"value":"rootstocks"},
+	{"value":"pot experimentation"},
+	{"value":"fruit trees"},
+	{"value":"leikkaus"},
+	{"value":"sadetus"},
+	{"value":"astiakokeet"},
+	{"value":"omenapuut"},
+	{"value":"growth"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (231 :
+    1994 :
+    Kivik)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000608",
+	"dct:identifier":"FI2016000608",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

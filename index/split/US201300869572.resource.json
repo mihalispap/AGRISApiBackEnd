@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Microorganisms associated with the spoilage of African pear (Dacryodes edulis) fruits"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869572",
+	"dct:identifier":"US201300869572",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f25.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nwanekezi, E. C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Onyeagba, R. A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The survey of microorganisms associated with African pear fruits collected from farms and markets located in four South Eastern States of Nigeria was carried out. Eighteen microorganisms (ten fungi and eight bacteria) were found to be associated with African pear fruits (APFs). The isolates are soil-borne and environmental microorganisms, which are prevalent in the farms and markets where the fruits were obtained. Saccharomyces cerevisiae was the most widely spread fungus in the farm samples with 33.3% frequency of occurrence. The most widely spread fungus in the market samples was Rhizopus stolonifer with 26.8% frequency of occurrence. The bacteria with the highest percentage frequency of occurrence in the farm and market samples were respectively Erwinia carotovora (28.7%) and an unidentified Gram-negative bacteria (22.2%). All the ten isolated fungi were found to be pathogenic to African pear fruit. Bacillus subtilis, Erwinia carotovora and Proteus vulgaris out of the eight genera of bacteria isolated from African pear fruits are pathogenic to the pear."}
+	}}

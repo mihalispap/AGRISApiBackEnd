@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Manejo de campos de produção de sementes de Brachiaria humidicola “comum”: I - Efeito de doses de nitrogênio ",
+	"xml:lang":"por"
+	},
+	{"value":"Management of “common” Brachiaria humidicola seed production crops: I – Effect of nitrogen doses",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"sheds",
+	"xml:lang":"eng"
+	},
+	{"value":"maturation",
+	"xml:lang":"eng"
+	},
+	{"value":"seed harvesters",
+	"xml:lang":"eng"
+	},
+	{"value":"urea",
+	"xml:lang":"eng"
+	},
+	{"value":"components",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01377",
+	"dct:identifier":"BR2015F01377",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2010-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1290110541.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"PERES,  R. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SOUZA,  F. H. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COUTINHO FILHO,   J. L. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"JUSTO,  C. L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"75 and 100 kg ha-1de N) were applied as urea top-dress at the start of the 2000’s raining season. Seed samples were collected on the 66th, 69th and 72nd days after N application. Treatment effects were evaluated in terms of potential pure seed yield and several seed yield components. The period of highest availability of pure seed to harvest and the extension of this period varied according to the N dose applied. The highest potential yield (295 kg ha-1) resulted from the application of 75 kg ha-1de N. The maximum yield resulted from the application of 50 kg ha-1 de N was 16 % lower and was achieved four days later. Even at the yield reduction cost , the use of different N doses may contribute to risk and cost reductions in commercial seed production systems of ‘common’Brachiaria humidicola."},
+	{"value":"As baixas produtividades obtidas em áreas de produção de sementes de Brachiaria humidicola ‘comum’, uma gramínea tropical usada como pastagem cultivada, são causadas por associação do curto período de retenção das sementes nas inflorescências e do marcante sincronismo da emergência das inflorescências. Em conseqüência, o período de disponibilidade das sementes puras à colheita é pequeno. O escalonamento da produção de sementes entre e dentro de campos permitiria estender os períodos de colheita e de uso de equipamentos em sistemas comerciais de produção dessas sementes. Neste trabalho foram avaliados os efeitos de doses de N para estender o período de colheita. Foram avaliadas cinco doses de N (0, 25, 50, 75 e 100 kg ha-1 de N) aplicadas em cobertura na forma de uréia, no início da estação chuvosa do ano 2.000. Amostras de sementes foram colhidas após 66, 69 e 72 dias da aplicação do N. Os efeitos dos tratamentos foram estimados em termos de produtividade potencial de sementes puras e germináveis e de vários componentes da produção de sementes. A época de maior disponibilidade de sementes puras à colheita e o período da disponibilidade variaram em função da dose de N. A maior produtividade potencial (295 kg ha-1) foi obtida com 75 kg ha-1 de N. A máxima produtividade resultante da aplicação de 50 kg ha-1 de N foi 16% menor e foi alcançada quatro dias mais tarde. Apesar dos efeitos sobre a disponibilização à colheita haverem ocorrido à custa de redução da produtividade, o uso de diferentes doses de N pode contribuir à redução de riscos e de custos na produção de sementes dessa espécie."},
+	{"value":{"value":25},
+	"xml:lang":"por"
+	},
+	{"value":"Low yields often obtained from commercial seed production crops of ‘common’ Brachiaria humidicola, a tropical forage grass used as cultivated pasture, result from an association between short period of seed retention in the inflorescences and a marked synchronism of inflorescence emergence. In consequence, the period of seed availability for harvesting is brief. The possibility of staggering seed production among crops would allow extension of the harvest period and, hence, of equipment use. This work was carried out to evaluate the influence of N doses on this period and to discuss the possibility of using this practice to extend harvest period. Five N doses (0",
+	"xml:lang":"eng"
+	},
+	{"value":50}
+	]
+	}}

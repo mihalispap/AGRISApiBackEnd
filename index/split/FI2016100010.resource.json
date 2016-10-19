@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-50.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of composted vine shoots as a peat alternative in casing materials for mushroom cultivation"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pardo, Arturo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"de Juan, J. Arturo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pardo, J. Emilio (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100010",
+	"dct:identifier":"FI2016100010",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In this work, the agronomic behaviour of composted vine shoots as casing material in the cultivation of different hybrid strains of mushroom, Agaricus bisporus (Lange) Imbach, is studied. The aim is to find an alternative to peat, which is normally used as a structural and water holding corrector of mineral soils used as casing material. According to the main production parameters measured (number of mushrooms produced, unitary weight, yield and earliness), composted vine shoots performed similarly to peat-based casing materials. However, the possibilities of their use are limited due to the appearance of spots caused by Trichoderma spp. on the fruit bodies. The scratching technique consists of creating an open structure in the casing layer to make enable uniform and abundant fructification. In general and for the different casing types used, this technique has a positive effect on fructification. This practice induces a higher total yield of produced mushrooms, although of smaller size, and it facilitates the apparition and harvest of the first flush."}
+	}}

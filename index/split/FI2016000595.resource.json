@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Viscosity of beta-glucan in oat products.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Anttila, Heli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sontag-Strohm, Tuula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salovaara, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"viljavalmisteet"},
+	{"value":"β-glukaani"},
+	{"value":"cereal products"},
+	{"value":"viscosity"},
+	{"value":"kaura"},
+	{"value":"Avena sativa"},
+	{"value":"oats"},
+	{"value":"glucans"},
+	{"value":"viskositeetti"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000595",
+	"dct:identifier":"FI2016000595",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

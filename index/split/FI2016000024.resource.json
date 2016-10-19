@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The determinants of agricultural productivity in Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Imahe, O. J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alabi, R. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"agricultural policies"},
+	{"value":"maatalouspolitiikka"},
+	{"value":"agriculture"},
+	{"value":"production economics"},
+	{"value":"tuotantoekonomia"},
+	{"value":"production"},
+	{"value":"tuottavuus"},
+	{"value":"productivity"},
+	{"value":"maataloustuotanto"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000024",
+	"dct:identifier":"FI2016000024",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

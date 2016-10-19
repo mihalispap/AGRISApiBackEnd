@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/12/3-4/evaluati.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of reed canary grass for different end-uses and in breeding.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Sahramaa, Mia.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"industrial crops"},
+	{"value":"Phalaris arundinacea"},
+	{"value":"siementuotanto"},
+	{"value":"ruokohelpi"},
+	{"value":"seed production"},
+	{"value":"non-food-tuotanto"},
+	{"value":"plant breeding"},
+	{"value":"rehuntuotanto"},
+	{"value":"feed production"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000704",
+	"dct:identifier":"FI2016000704",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

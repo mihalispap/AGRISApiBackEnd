@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/f11.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Microbiological and nutritional quality of hawked sorrel drinks (soborodo) (the Nigerian locally brewed soft drinks) widely consumed and notable drinks in Nigeria."},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amusa, N.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ashaye, O.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aiyegbayo, A.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oladapo, M.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oni, M.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Afolabi, O.O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100076",
+	"dct:identifier":"FI2016100076",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The microbiological and nutritional quality of freshly processed and hawked zobo drinks was investigated at Ibadan, Nigeria. The calyces used were found to harbour Aspergillus niger, A. flavus, A. tamarii, Penicillium oxalicum, Fusarium oxysporum and Rhizopus spp. The hawked zobo drinks harboured Bacillus cereus, B. subtilis, Proteus spp., Pseudomonas aeruginosa, Streptococcus pyogenes, Staphylococcus aureus and Escherichia coli. However, the freshly processed zobo drinks harbored no bacteria. The crude protein content of the hawked zobo drinks was found higher than that of the control. The vitamin C content, calcium content and colour intensity of the freshly processed zobo drinks were higher than those of the hawked zobo drink samples."}
+	}}

@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of water buffalo (Bubalus bubalis) embryos after parthenogenetic activation of oocytes with calcium ionophore, ethanol and 6-dimethylaminopurine",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":679,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"ionophores",
+	"xml:lang":"eng"
+	},
+	{"value":"parthenogenese",
+	"xml:lang":"fre"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"animal embryos",
+	"xml:lang":"eng"
+	},
+	{"value":"embriones animales",
+	"xml:lang":"esp"
+	},
+	{"value":"ionoforos",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"embryon animal",
+	"xml:lang":"fre"
+	},
+	{"value":"ionophore",
+	"xml:lang":"fre"
+	},
+	{"value":"parthenogenesis",
+	"xml:lang":"eng"
+	},
+	{"value":"partenogenesis",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":682,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000137",
+	"dct:identifier":"IN2015000137",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Verma, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gautam, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chauhan, M.S."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"The present study was carried out to investigate the effects of various activation treatments on the parthenogenetic development of buffalo oocytes and their comparison with the IVF embryos and to investigate the mean total cell number per blastocysts produced. The rates of cleavage and blastocyst development were significantly higher when the oocytes were activated by combined treatment of calcium ionophore (A23187) and ethanol, followed by 6dimethylaminopurine (6-DMAP) than those activated by individual treatments with these chemicals, as well as blastocysts produced through IVF. Our results showed significant difference in the number of blastomeres between parthenotes and IVF buffalo embryos. Our results can be used to establish effective protocols for activation of buffalo oocytes and development of embryos which can be used to study mechanisms involved in the initiation of the embryonic development, and derivation of embryonic stem (ES) cells for various applications.",
+	"xml:lang":"eng"
+	}
+	}}

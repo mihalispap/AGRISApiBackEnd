@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Changes in landscape-scale habitat selection of capercaillie (Tetrao urogallus) in managed north-boreal forest.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Miettinen, Janne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Helle, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nikula, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemelä, Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Tetrao urogallus"},
+	{"value":"landscape composition"},
+	{"value":"silviculture"},
+	{"value":"elinympäristö"},
+	{"value":"habitats"},
+	{"value":"metso"},
+	{"value":"wildlife"},
+	{"value":"forestry"},
+	{"value":"landscape"},
+	{"value":"boreaaliset metsät"},
+	{"value":"selection"},
+	{"value":"forest management"},
+	{"value":"grouse"},
+	{"value":"wildlife triangle"},
+	{"value":"talousmetsät"},
+	{"value":"capercaillie"},
+	{"value":"metsätalous"},
+	{"value":"metsänhoito"},
+	{"value":"boreal forests"},
+	{"value":"valinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001486",
+	"dct:identifier":"FI2016001486",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

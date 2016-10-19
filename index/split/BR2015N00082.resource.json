@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ESTUDO DA PRODUÇÃO PESQUEIRA E FECUNDIDADE DE LAGOSTAS NO NORTE DO BRASIL, MUNICÍPIOS DE BRAGANÇA E AUGUSTO CORRÊA-PA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":48,
+	"bibo:volume":4,
+	"bibo:pageEnd":56,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00082",
+	"dct:identifier":"BR2015N00082",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/919",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wellington Matheus Gomes de Lima"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nayara Cristina Barbosa Mendes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bianca Bentes da Silva"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">Diante da diminuição aparente dos estoques lagosteiros comercialmente explotados pela pesca, este manuscrito faz uma sinopse dos volumes desembarcados no município de Bragança, bem como uma análise a partir dos dados de fecundidade relativa e absoluta de Panulirus argus</em>. </span><span style=\"font-size: 12pt;\">Para as análises de fecundidade foram utilizados modelos lineares de regressão a partir de correlações entre os diferentes tamanhos corporais dos espécimes. A fecundidade relativa foi calculada considerando o número de ovos por grama de peso total do animal e todos os dados gerados foram testados com ANOVA (α=5%) considerando as premissas da análise.</span> <span style=\"font-size: 12pt;\">Foram contabilizados 19 desembarques de lagostas no período de estudo e este foi mais significativo no ano de 2008. O mês de setembro foi onde ocorreu a maior produção de lagosta com um menor número de desembarque. </span><span style=\"font-size: 12pt;\">Os modelos lineares de fecundidade foram em sua maioria alometricos negativos, excetuando – se a relação de comprimento total com número de ovos e volume dos mesmos. A média entre volume do ovo pelo mês e classes de tamanho foi estatisticamente significativa (F=4,8618; p<0,05), assim como as médias das relações entre estimativa total de ovos e fecundidade relativa pelo mês e classes de tamanho (p<0,01).</span>",
+	"xml:lang":"por"
+	}
+	}}

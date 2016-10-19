@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a8.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Ultrastructural modifications in sunflower (Helianthus annuus L.) chloroplasts resulting from the mixture of the herbicides metribuzin and clomazone"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kruse, Nelson Diehl (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vidal, Ribas Antonio (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Trezzi, Michelangelo Muzel (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100274",
+	"dct:identifier":"FI2016100274",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effects of the mixture of two or more herbicides can be investigated at the ultrastructural modifications of chloroplasts level. An experiment was carried out with the application of the herbicides metribuzin at 25 g ha-1 and clomazone at 275 g ha-1 separately and in mixture on sunflower plants in post emergence. The material collected from the leaves was prepared to obtain electron micrographs with a transmission electronic microscope. The length, width, chloroplast area and grana-thylakoid system area measurements were obtained from the images. The analysis of the electron micrographs, the length per width ratio and relation grana-thylakoid area per chloroplast area showed that the herbicides applied separately produced moderate damage in the chloroplasts. The herbicides mixture produced severe damage, destructed the grana-thylakoid and ruptured the plastid. The mixture of these herbicides presents a potentialized action compared to the action of each herbicide applied separately."}
+	}}

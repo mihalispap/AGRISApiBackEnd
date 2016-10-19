@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The application of arbuscular mycorrhizal fungi to micropropagation systems : an opportunity to reduce chemical inputs /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hooker, John E..
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gianinazzi, Silvio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vestberg, Mauritz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Barea, Jose M..
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Atkinson, David.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mikrolisäys"},
+	{"value":"puutarhakasvit"},
+	{"value":"mykorritsasienet"},
+	{"value":"biological control organisms"},
+	{"value":"juurrutus"},
+	{"value":"kasvinsuojelu"},
+	{"value":"vesicular arbuscular mycorrhizae"},
+	{"value":"arbuskelimykorritsasienet"},
+	{"value":"ravinteiden otto"},
+	{"value":"micropropagation"},
+	{"value":"nutrient uptake"},
+	{"value":"biologinen torjunta"},
+	{"value":"growth"},
+	{"value":"kasvuaika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001613",
+	"dct:identifier":"FI2016001613",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

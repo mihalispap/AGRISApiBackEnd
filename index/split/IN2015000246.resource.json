@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Weed management in transplanted Rice (Oryza sativa L.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":160,
+	"dc:subject":{"value":"oryza sativa",
+	"xml:lang":"esp"
+	},
+	"bibo:volume":21,
+	"bibo:pageEnd":162,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000246",
+	"dct:identifier":"IN2015000246",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pandey, Piyush Raman"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Ghanshyam"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Significant higher plant height, number of shoot hill-1, leaf area index as well as dry matter accumulation was observed with the application of topstar @ 0.1 kg ha-1 than that recorded with the application of anilofos @ 0.5kg ha-1 and rest of the treatments. Significantly minimum weed population and weed dry weight recorded with the application of topstar @0.1 kg ha-1 followed by anilofos @ 0.5kg ha-1. Almost all the yield attributes were observed significantly higher with the application of topstar @0.1 kg ha-1 as compared to rest of the treatments. Weed management practices did not affect the test weight significantly. Highest grain and straw yield were recorded with the application of topstar @ 0.1 kg ha-1 followed by anilofos @ 0.5 kg ha-1 butachor @ 1.5kg ha-1, one hand weeding and weedy check, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

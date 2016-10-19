@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/e17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Status of oil pollution in sediment samples from the Aden Coast, Yemen"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bedair, Hassan M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saeed, Mahyoub A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Saad, Hamid T. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100350",
+	"dct:identifier":"FI2016100350",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Sediment samples from nine stations (1-9) along the Coast of Aden, Yemen, were analyzed utilizing spectrofluorometry technique in an attempt to estimate the levels of petroleum hydrocarbon residues. The results obtained were sought to provide a baseline data for the estimation of petroleum hydrocarbon pollution level in the Aden Coast. The results obviously indicated a degree of oil pollution, however, still lower in magnitude when compared with status in some other regional sites. The obtained levels of petroleum hydrocarbons ranged from 0.28 µg/g (sediment dry weight) at Station 4 to 26.24 µg/g (sediment dry weight) at Station 7. In order to give a better evaluation of the petroleum hydrocarbon levels in the sediments, the total organic carbon (TOC) percentage and grain size analyses were done by granulometry technique on selected slips of the bulk sediments obtained for this purpose. The mean percent TOC estimations ranged from 0.2 at Station 4 to 1.15 at Station 7. The mean values obtained in this study indicated that the petroleum hydrocarbon levels in the sediment samples of the Aden Coast are lower than the levels in sediment samples obtained with similar methodology and analyses in some of the Gulf States and countries in close vicinity of the region. It is, therefore, recommended that a continual, vigilant program for oil pollution detection is adopted to facilitate accurate determination of the petroleum hydrocarbon levels and sources in the air, water, land and sediments of the Aden Coast, where the major pollution sources may involve tanker and boat discharges and activities, municipal sewage and rural run-off from land. Also, discharges and effluents from oil refineries, electricity generating station and industrial activities into the Aden Coast are obvious. Nevertheless, the data obtained with this study is vital as baseline information, at least at this stage for any prospective pollution detection program to be established in the area."}
+	}}

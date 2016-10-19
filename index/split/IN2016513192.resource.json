@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:title":{"value":"Growth Characteristics of Platymonas subcordiformis and Oxyrrhis marina in Their Co-culture Systems",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"aquaculture",
+	"xml:lang":"eng"
+	},
+	{"value":"aquatic weeds",
+	"xml:lang":"eng"
+	},
+	{"value":"aquatic plants",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513192",
+	"dct:identifier":"IN2016513192",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=39",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"An Xinlong"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Li Xuemei"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Li Zhixia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhang Yanling"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This study was aimed to investigate the growth characteristics of living diet Platymonas subcordiformis for aquaculture animals and its harmful organism Oxyrrhis marina in co-culture systems to provide experimental evidences for discussing their succession processes. The colour changes of culture media of P. subcordiformis and growth characteristics of O. marina and P. subcordiformis in co-culture were analysed by the combined methods of macro-observation, microscopic examination and microscopic counting. The results showed that with the decrease of the initial density of O. marina cell (0.65×104 cells mL-1, 0.37×104 cells mL-1 and 0.11×104 cells mL-1 in P. subcordiformis culture media), the time that the population of O. marina reached the stationary phase required longer, were 4d, 5d and 7d after inoculated by O. marina, respectively, and the death time of all cells of P. subcordiformis became longer, were 9d, 10d and 12d after inoculated by O. marina, respectively. After inoculation 9d, pale pink appeared in upper layer of culture media of P. subcordiformis in flasks and the density of O. marina was 2.10×105 cells mL-1. The results also indicated that the variation tendency of cell densities of O. marina and P. subcordiformis cultured in aquariums were consistent with that in flasks basically, pink flocs appeared in upper layer of culture media of P. subcordiformis after inoculation 12d and the density of O. marina was 2.10×106 cells mL-1. The experimental results showed that the feeding of O. marina on P. subcordiformis was affected by the initial concentration of O. marina, and P. subcordiformis populations were evolved to O. marina populations during the 15 days culture period, the colour of culture media appeared pale pink to pink depends on density of O. marina was confirmed, too. Also, the colour changes of P. subcordiformis culture media are indications of pollution by O. marina, which will be important for culture process of P. subcordiformis.",
+	"xml:lang":"eng"
+	}
+	}}

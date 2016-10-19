@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Prevalence and Characterization of Pathogenic Aeromonas  spp. Isolates from Fish and Fish Products",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":19,
+	"dc:subject":[
+		{"value":"produit a base de poisson",
+	"xml:lang":"fre"
+	},
+	{"value":"fish products",
+	"xml:lang":"eng"
+	},
+	{"value":"productos derivados del pescado",
+	"xml:lang":"esp"
+	},
+	{"value":"aeromonas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":11,
+	"bibo:pageEnd":26,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000300",
+	"dct:identifier":"IN2015000300",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_13ab7667"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Veterinary Public Health (India)"},
+	"bibo:ISSN":{"value":"0972-7485"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gupta, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghatak, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gill, J.P.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study was conducted to study the prevalence and to characterize Aeromonas   spp. isolates prevalent in fish and fish products. A total of 184 samples comprising 96 raw fish and 88 readyto-eat (RTE) fish products were collected from Ludhiana and other parts of Punjab and were put to test for Aeromonas spp.  employing suitable microbiological methods. From raw fish samples 38(39.58%) Aeromonas spp. were isolated. From RTE fish product, 2 (2.27%) Aeromonas spp. were isolated. Overall incidence was 21.73%. In vitro virulence characterization of isolates revealed that majority of the isolates were haemolytic, while moderate fractions of the isolates were positive for other virulence traits. Molecular characterization for virulent gene AHCYTOEN revealed that 5 (12.5%) isolates out of 40 were positive for the gene, among these 4 (10%) were from raw fish samples and 1 (2.5%) was from RTE fish products. Results of the present study highlighted the potential microbiological hazards in fish and RTE fish products in the study area that warrants intervention to ensure fish food safety and safeguard public health.",
+	"xml:lang":"eng"
+	}
+	}}

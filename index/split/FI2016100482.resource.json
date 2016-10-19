@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutritional requirements and amino acids utilization by lactic acid bacteria from wine – A short review"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"de Nadra, Maria C. Manca (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arena, Mario E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saguir, Fabiana M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100482",
+	"dct:identifier":"FI2016100482",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"It is well known that lactic acid bacteria need multiple nutritional requirements for growth. They require numerous amino acids and other growth factors to develop in synthetic media. In this review the amino acid requirements, the effect of L-malic acid and citric acids metabolism on these requirements and the catabolism of amino acids by lactic acid bacteria from wine are discussed, with emphasis on arginine and its amino acid derivates: citrulline and ornithine."}
+	}}

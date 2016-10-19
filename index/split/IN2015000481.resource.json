@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of foraging activity of pollinators including honeybees on seed yield of sunflower",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":136,
+	"dc:subject":[
+		{"value":"foraging",
+	"xml:lang":"eng"
+	},
+	{"value":"insecta",
+	"xml:lang":"esp"
+	},
+	{"value":"helianthus annuus",
+	"xml:lang":"esp"
+	},
+	{"value":"recherche de nourriture",
+	"xml:lang":"fre"
+	},
+	{"value":"apis mellifera",
+	"xml:lang":"esp"
+	},
+	{"value":"busqueda de alimento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":141,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000481",
+	"dct:identifier":"IN2015000481",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Vishwakarma, Ramanuj"
+	}
+	},
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The experiments carried out at Instructional Farm of Bidhan Chandra Krishi Viswavidyalaya at Jaguli, Nadia, West Bengal, India during rabi 2009â2010 identified the various species of insect pollinators including honeybees. Their peak visiting hours and effect of pollinating methods on seed yield of PAC-36, a variety of sunflower were also evaluated. Twenty major insect pollinators, belonging to 5 orders under 18 genera of 15 families were observed visiting sunflower capitulum. Among these, Apis was found to be the most dominant and A. mellifera L. was recorded to be most dominant pollinator followed by A. dorsata F. The foraging rate of insect pollinators/capitulum/hrs was observed to be highest during morning i.e. 0800-0900 h, more than 1.4 to 1.5 times as recorded at 1500â1600 h. The total number of filled seeds/capitulum, per cent of seed set/capitulum, weight of 1000-seeds (g) and yield (q/ha) were 618.51, 93.73, 79.67 and 57.20, respectively. These were significantly higher in bee pollination (T1) followed by hand pollination (T2). There was 221.07 and 259.65% increase in seed yield when the crop was pollinated by bees (T1), followed by 179.07 and 204.93% in hand pollination (HP) (T2), 144.50 and 183.57% in natural pollination (NP) (T3), as compared to self pollination (SP) (T4).",
+	"xml:lang":"eng"
+	}
+	}}

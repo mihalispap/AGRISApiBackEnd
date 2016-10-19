@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Cell wall thickness and tangential and radial cell diameter of fertilized and irrigated Norway spruce.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Lundgren, Christina.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"diameter"},
+	{"value":"kuusi"},
+	{"value":"tracheids"},
+	{"value":"lannoitteet"},
+	{"value":"soluseinät"},
+	{"value":"cell walls"},
+	{"value":"irrigation"},
+	{"value":"trakeidit"},
+	{"value":"nutrients"},
+	{"value":"tangential tracheid diameter"},
+	{"value":"läpimitta"},
+	{"value":"juvenile wood"},
+	{"value":"paksuus"},
+	{"value":"cell wall thickness"},
+	{"value":"dimensions"},
+	{"value":"thickness"},
+	{"value":"ravinteet"},
+	{"value":"Picea abies"},
+	{"value":"kastelu"},
+	{"value":"radial tracheid diameter"},
+	{"value":"nuorpuu"},
+	{"value":"tracheid dimensions"},
+	{"value":"mitat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001258",
+	"dct:identifier":"FI2016001258",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

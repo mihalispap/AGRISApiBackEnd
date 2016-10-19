@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Single seed Near Infrared Spectroscopy discriminates viable and non-viable seeds of Juniperus polycarpos.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"viability"},
+	{"value":"OPLS"},
+	{"value":"NIRS"},
+	{"value":"seed"},
+	{"value":"grading"},
+	{"value":"infrared spectrophotometry"},
+	{"value":"Juniperus excelsa M.-Bieb."},
+	{"value":"seed sorting"},
+	{"value":"spectroscopy"}
+	],
+	"bibo:doi":"10.14214/sf.1334",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000431",
+	"dct:identifier":"FI2016000431",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1334",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Daneshvar, Abolfazl,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tigabu, Mulualem,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karimidoost, Asaddollah,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oden, Per Christer,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

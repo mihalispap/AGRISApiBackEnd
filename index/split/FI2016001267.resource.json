@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Structural dynamics at boreal forest edges created by a spruce budworm outbreak.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"forest influence"},
+	{"value":"structure"},
+	{"value":"balsam fir"},
+	{"value":"insect disturbance"},
+	{"value":"edge effects"},
+	{"value":"pest insects"},
+	{"value":"Choristoneura fumiferana"},
+	{"value":"hyönteistuhot"},
+	{"value":"edge influence"},
+	{"value":"Abies balsamea"},
+	{"value":"boreal forests"},
+	{"value":"reunavaikutukset"},
+	{"value":"reunavyöhyke"},
+	{"value":"boreaaliset metsät"}
+	],
+	"bibo:doi":"10.14214/sf.1267",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001267",
+	"dct:identifier":"FI2016001267",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1267",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Franklin, Caroline Mary Adrianne,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harper, Karen A,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Murphy, Liam Kyte,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

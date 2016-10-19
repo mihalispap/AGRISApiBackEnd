@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"DESCRIÇÃO DA TEMPERATURA E UMIDADE RELATIVA DO AR EM DIFERENTES LOCALIDADES NO BAIRRO DO PARQUE DEZ - MANAUS/AM",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":20,
+	"bibo:volume":4,
+	"bibo:pageEnd":27,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00107",
+	"dct:identifier":"BR2015N00107",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/780",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"José Carlos Ramos Monteiro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paulo Henrique Rocha Aride"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adriano Teixeira de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jackson Pantoja-Lima"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ligia Fonseca Heyer"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Metropolitana de Manaus (FAMETRO)"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM), Campus Presidente Figueiredo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Nilton Lins"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:HyphenationZone>21</w:HyphenationZone> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> </w:Compatibility> </w:WordDocument> </xml><![endif]--> <p class=\"MsoNormal\"><span style=\"mso-bidi-font-size: 12.0pt; font-family: \">Manaus tem sofrido com o rápido crescimento da atividade imobiliária sem preocupação com a preservação de grande parte de suas áreas verdes, o que tornaria o clima e a temperatura mais amena, influenciando em microclimas urbanos mais favoráveis para a população desses centros, entretanto, o que vem ocorrendo é o desmatamento urbano, troca do solo natural por pavimentação artificial e uma verticalização sem equilíbrio. O presente estudo acompanhou as variações temporais e espaciais de temperatura e umidade relativa do ar e fez comparações entre suas características nos diferentes usos e ocupações do solo do Bairro do Parque Dez, área centro sul do município de Manaus em diferentes dias e horários, visando investigar as diferenças nos elementos do clima em condições normais de uso e ocupação do solo, em áreas de alta verticalização, área urbana de lazer e área com pouca verticalização, próxima a um parque urbano com uma densa área verde. O trabalho apresenta diferenças térmicas e higrométricas encontradas durante as coletas de dados de temperatura e umidade relativa do ar dos dias coletados, onde os resultados obtidos demonstraram diferenças entre os locais nos três períodos do estudo. </span> <!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=\"false\" LatentStyleCount=\"156\"> </w:LatentStyles> </xml><![endif]--><!--[if gte mso 10]> <mce:style><!   /* Style Definitions */  table.MsoNormalTable {mso-style-name:\"Tabela normal\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:\"\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:\"Times New Roman\"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} --> <!--[endif] -->",
+	"xml:lang":"por"
+	}
+	}}

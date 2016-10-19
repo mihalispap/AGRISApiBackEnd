@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of peeling and segmentation on quality of heat-treated white asparagus during storage.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gerasopoulos, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siomos, A. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koukounaras, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tsouvaltzis, P.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"colour"},
+	{"value":"ethylene"},
+	{"value":"antioxidants"},
+	{"value":"Asparagus"},
+	{"value":"heat treatment"},
+	{"value":"texture"},
+	{"value":"quality"},
+	{"value":"flavour"},
+	{"value":"keeping quality"},
+	{"value":"peeling"},
+	{"value":"carbon dioxide"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001819",
+	"dct:identifier":"FI2016001819",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n3p235.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Meat bone meal as fertiliser for barley and oat.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Chen, Lin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kivelä, Jukka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Helenius, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Arjo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"fosfori"},
+	{"value":"meat meal"},
+	{"value":"organic fertilizers"},
+	{"value":"crop yield"},
+	{"value":"lannoitteet"},
+	{"value":"eloperäiset lannoitteet"},
+	{"value":"phosphorus"},
+	{"value":"lihaluujauho"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"nitrogen"},
+	{"value":"meat and bone meal"},
+	{"value":"organic agriculture"},
+	{"value":"lannoitus"},
+	{"value":"quality"},
+	{"value":"typpi"},
+	{"value":"bone meal"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001045",
+	"dct:identifier":"FI2016001045",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

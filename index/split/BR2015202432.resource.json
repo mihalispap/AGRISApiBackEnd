@@ -1,0 +1,85 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":[
+		{"value":"Efficacy of corn and rice seed-borne mycoflora in controlling aflatoxigenic Aspergillus flavus",
+	"xml:lang":"por"
+	},
+	{"value":"   Eficácia da microbiota fúngica transmitida por sementes de milho e arroz no controle aflatoxigênicos Aspergillus flavus ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"biological control",
+	"xml:lang":"eng"
+	},
+	{"value":"aspergillus flavus",
+	"xml:lang":"eng"
+	},
+	{"value":"aflatoxins",
+	"xml:lang":"eng"
+	},
+	{"value":"cereals",
+	"xml:lang":"eng"
+	},
+	{"value":"mycoflora",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202432",
+	"dct:identifier":"BR2015202432",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/284/235",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Madbouly Adel K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ibrahim Mohamed I.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdel-Wahhab Mosaad A."
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Ain Shams University, Abbassia, Cairo, Egypt"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Food Toxicology &amp"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Contaminants Department, National Research Center, Dokki, Cairo, Egypt"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Food Toxicology &amp"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Contaminants Department, National Research Center, Dokki, Cairo, Egyp"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"ability to produce volatile and non-volatile metabolites",
+	"xml:lang":"por"
+	},
+	{"value":"capacidade de produzir metabólitos voláteis e não- voláteis"},
+	{"value":"Os produtos alimentares , como cereais estão sujeitos à deterioração e bio- deterioração durante o armazenamento por fungos micotoxigênico como o Aspergillus flavus . Esforços são feitos para controle biológico toxigênico A. flavus e, posteriormente, evitar ou pelo menos minimizar a suacapacidade de produção de aflatoxina , sem a necessidade do uso de fungicidas sintéticos. Atividade antifúngica de milho e arroz microbiota fúngica transmitida por semente foi testadocontra aflatoxigênicos A. flavus in vitro, utilizando bioensaios , como técnica de cultura dual"},
+	{"value":"however, only A. fumigatus isolate was non-aflatoxigenic. It could be concluded that A. fumigatus could be used effectively as a biopreservative to increase shelf life of cereals during storage, but after testing its tendency to produce other mycotoxins or causing human Aspergillosis."},
+	{"value":"in vivo reduction of aflatoxins level in corn seeds co-inoculated with the pathogen and antagonists. Penicillum crustosum, Aspergillus giganteus, Fusarium verticillioides and Aspergillus fumigatus isolates showed promising antifungal activities and varying efficiencies of reducing aflatoxins level"},
+	{"value":"Food commodities such as cereals are subjected to spoilage and bio-deterioration during storage by mycotoxigenic fungi such as Aspergillus flavus. Efforts are done to biologically control toxigenic A. flavus and subsequently prevent or at least minimize its aflatoxin production ability, without theneed of using synthetic fungicides. Antifungal activity of corn and rice seed-borne mycoflora was tested against a flatoxigenic A. flavus in vitro, using bioassays such as dual culture technique",
+	"xml:lang":"eng"
+	},
+	{"value":"ability to inhibit germination and reduce germtube length of A. flavus conidia"},
+	{"value":"capacidade de inibir a germinação e reduzir o comprimento do tubo germinativo de A. flavus conídios , na redução do nível de aflatoxinas vivo em sementes de milho co- inoculados com o patógeno e antagonistas. Penicillum crustosum , Aspergillus giganteus , Fusarium verticillioides e Aspergillus fumigatus isola mostroupromissora atividade antifúngica e variando a eficiência de redução de nível de aflatoxinas , no entanto, somente A. fumigatus foi isolado não- produtoras de aflatoxinas . Pode-se concluir que o A. fumigatus pode ser utilizado eficazmente como um biopreservative para aumentar a vida de prateleira de cereais durante o armazenamento , mas depois de testar a sua tendência para produzir outras micotoxinas ou causando Aspergilose humano."}
+	]
+	}}

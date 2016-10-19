@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/5/2/estimati.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimation of genetic parameters for test-day milk production at different stages of lactation of Finnish Ayrshire heifers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kettunen, Anne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäntysaari, Esa A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lypsykausi"},
+	{"value":"perinnöllisyys"},
+	{"value":"lypsykarja"},
+	{"value":"milk yield"},
+	{"value":"cows"},
+	{"value":"nautakarja"},
+	{"value":"maitotuotos"},
+	{"value":"lehmät"},
+	{"value":"heritabiliteetti"},
+	{"value":"maidontuotanto"},
+	{"value":"tunnusluvut"},
+	{"value":"genetic parameters"},
+	{"value":"ensikot"},
+	{"value":"heritability"},
+	{"value":"lactation duration"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000191",
+	"dct:identifier":"FI2016000191",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Odor management in swine finishing operations: Cost effectiveness"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026478",
+	"dct:identifier":"FI2005026478",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a10.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Huang, Haixiao (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Miller, Gay Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ellis, Michael (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Funk, Ted (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhang, Yuanhui (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hollis, Gilbert (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Heber, Albert J. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper examines the cost effectiveness of some odor control strategies shown to be important in odor reduction from swine finishing buildings. Strategies examined include manure depth reduction, manure storage type (deep pit vs. shallow pit), air treatment and pig density. The efficiency of each management strategy is evaluated for its effect on odor emission rate reduction. The costs of each strategy are annualized and calculated on a per-pig-marketed basis. The cost effectiveness is then the odor emission rate reduction efficiency compared to the cost per pig for implementing that strategy. The study shows that air treatment is the most cost-effective strategy for odor control in swine finishing buildings. The available technologies for improving air quality, according to their cost effectiveness ranking and the associated costs of implementation, are automatic oil sprinkling (rank = 1; cost = $0.51/marketed hog), diffusion-coagulation-separation (DCS) dedusting (rank = 2; cost = $0.66/marketed hog), evaporative misting (rank =3; cost = $0.30/marketed hog), wet scrubbing (rank = 4; cost = $0.54/marketed hog), and manual oil sprinkling (rank = 5; cost = $0.87/marketed hog). The results indicate that draining shallow pit systems once a week (rank = 7, cost = $0.06/marketed hog for draining shallow pit weekly) and increasing floor space allowance per pig (rank = 9, cost = $2.22/marketed hog for a 10% increase in pig floor space allowance) are less cost effective than air treatment technologies. Another interesting result is that when deep pit swine finishing systems and shallow pit buildings with outdoor anaerobic treatment systems are compared, the former are more advantageous than the latter in odor management if manure is removed from the deep pit twice or more frequently a year. The cost-effectiveness of deep pit systems as an odor management strategy (cost = $0.63/marketed hog relative to shallow pit with a lagoon systems) compared with the other strategies examined is ranked the 6th when manure is removed from the pit three times a year and ranked the 8th when manure is removed from the pit twice a year."}
+	}}

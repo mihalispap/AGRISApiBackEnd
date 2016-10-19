@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Spatial variability of topsoil salinity in the lower reaches of Zerka River, Central Jordan Valley"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876496",
+	"dct:identifier":"US201300876496",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tahboub, Alaeddin A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abbassi, Bassim E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ta’any, Rakad A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saffarini, Ghazi A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Sustainable and precession agriculture requires estimating the spatial variability of soil salinity. Geostatistical techniques provide proper means to study the nature and heterogeneity of soil salinity spatial distribution. In this study, block kriging was applied to study the salinity, pH, sodium adsorption ratio (SAR), Na+, Ca+2 and Mg+2 spatial distribution in the soils of the lower reaches of Zerka River. Samples were collected from the surface soil (0-20 cm) at spacings ranging from 300 to 1000 m. The studied soils are part of Central Jordan Valley and are irrigated with mixed baseflow rainfall and treated waste waters. The results suggest that the measured soil parameters are within the tolerated levels, except in restricted localities in the northern and northeastern parts of the study area. The mapped kriged estimates of all measured soil variables displayed very well the existence of trends in the variability of the studied parameters mainly in a NW-SE and W-E directions and vise versa. These trends conform very well with the prevailing wind and rainfall directions in Jordan Valley. It is suggested that the strong variability of the soil parameters at shorter and large scale distances would be a result of factors like climate, groundwater level fluctuations, drainage systems and local topographies. The findings of this study also indicate, so far, good management practices and emphasize the importance of monitoring the areas of relatively elevated salinity and SAR values in the soils of the northern part of Central Jordan Valley."}
+	}}

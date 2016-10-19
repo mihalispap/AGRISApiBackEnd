@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of salicylic acid, calcium and boron on gray mould rot (Botrytis cinerea Pers.:Fr.) of Strawberry",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":101,
+	"dc:subject":[
+		{"value":"acido salicilico",
+	"xml:lang":"esp"
+	},
+	{"value":"acide salicylique",
+	"xml:lang":"fre"
+	},
+	{"value":"fragaria",
+	"xml:lang":"esp"
+	},
+	{"value":"salicylic acids",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":103,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000231",
+	"dct:identifier":"IN2015000231",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Krishna, Hare"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Attri, B.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Akhilesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maheshwari, S.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Treatment with mineral nutrients like calcium, boron and bio-regulator, salicylic acid was observed to delay fruit senescence and fungal decay of strawberry. Among the different postharvest treatments, application of salicylic acid @ 400 mgl-1 was found the most suitable in respect of increased soluble solid content and overall fruit quality and decreased fruit infection, followed by Ca-EDTA @ 1000mgl-1 and boric acid @ 0.2%. While the maximum fruit decay was noted in untreated control. Salicylic acid, a natural and safe phenolic compound, may be considered for its wide application in controlling postharvest losses of strawberry fruits.",
+	"xml:lang":"eng"
+	}
+	}}

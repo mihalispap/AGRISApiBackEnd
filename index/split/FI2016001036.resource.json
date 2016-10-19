@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Validation of the European Forest Information Scenario Model (EFISCEN) and a projection of Finnish forests.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nabuurs, Gert-Jan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schelhaas, Mart-Jan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pussinen, Ari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"history"},
+	{"value":"forests"},
+	{"value":"EFISCEN"},
+	{"value":"mallit"},
+	{"value":"Finland"},
+	{"value":"ennusteet"},
+	{"value":"forecasting"},
+	{"value":"forest inventories"},
+	{"value":"testaus"},
+	{"value":"Europe"},
+	{"value":"valtakunnan metsien inventointi"},
+	{"value":"metsät"},
+	{"value":"tilastot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001036",
+	"dct:identifier":"FI2016001036",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

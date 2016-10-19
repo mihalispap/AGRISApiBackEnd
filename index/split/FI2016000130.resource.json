@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Acceptability and antioxidant properties of a semi-dried and smoked tomato product.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Veillet, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Busch, J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Savage, G.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"organoleptic analysis"},
+	{"value":"ascorbic acid"},
+	{"value":"taste (sensation)"},
+	{"value":"drying"},
+	{"value":"fruits"},
+	{"value":"citric acid"},
+	{"value":"tomatoes"},
+	{"value":"colour"},
+	{"value":"Lycopersicon esculentum"},
+	{"value":"food processing"},
+	{"value":"antioxidants"},
+	{"value":"quality"},
+	{"value":"lycopene"},
+	{"value":"chemical composition"},
+	{"value":"organoleptic properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000130",
+	"dct:identifier":"FI2016000130",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

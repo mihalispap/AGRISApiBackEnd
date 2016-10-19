@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vivo Efficacy of Melatonin and L-Tryptophan Against Aflatoxin Induced Endogenous Toxicities in Broiler Chickens",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":117,
+	"dc:subject":[
+		{"value":"essential amino acids",
+	"xml:lang":"eng"
+	},
+	{"value":"aflatoxinas",
+	"xml:lang":"esp"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"aflatoxins",
+	"xml:lang":"eng"
+	},
+	{"value":"acide amine essentiel",
+	"xml:lang":"fre"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicite",
+	"xml:lang":"fre"
+	},
+	{"value":"aminoacidos esenciales",
+	"xml:lang":"esp"
+	},
+	{"value":"aflatoxine",
+	"xml:lang":"fre"
+	},
+	{"value":"toxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"toxicidad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":124,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000349",
+	"dct:identifier":"IN2015000349",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Patil R.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sirajudeen, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tyagi, J.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moudgal, R.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohan Jag"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The aim of the study was to compare protective effects of melatonin and its precursor (L-tryptophan) against peroxidative damages induced by dietary aflatoxin in broiler chickens. One-hundred eighty Naked neck chicks were distributed into six dietary treatments each with three replicates of 10 chicks and were reared from 0â6 weeks, and fed either a basal feed as untreated control or the same with aflatoxin at 0.5 mg/kg feed, melatonin at 20 mg/kg in feed + 20 mg/kg intra-peritoneally, L-tryptophan at 250 mg/kg in feed, combined treatment of aflatoxin and melatonin at above doses or combined treatment of aflatoxin and L-tryptophan at above doses. The diets were formulated to provide 23% CP and 2800 kcal ME/kg in starter ration and 20% and 2900 kcal ME/kg in finisher ration. The experimental diets were offered ad libitum to birds with free access to water during the experimental period. Inclusion of aflatoxin in the diet at 0.5 mg/kg caused significant reduction in activities of antioxidant enzymes studied and elevated lipid peroxidation in tissues. Supplementation of melatonin or L-tryptophan in the diet of toxin-fed birds restored the enzymatic activities of superoxide dismutase and catalase in liver and erythrocytes, besides reducing the levels of lipid peroxidation. This study shows that dietary supplementation of either melatonin or L-tryptophan attenuated the oxidative injuries induced by aflatoxin in young broiler chicken.",
+	"xml:lang":"eng"
+	}
+	}}

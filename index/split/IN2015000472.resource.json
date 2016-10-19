@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Diversity in Dual Purpose Sorghum Hybrids for Nutritional Traits, Methane Production and Energy Value for Animal Production Functions",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":24,
+	"dc:subject":[
+		{"value":"prise alimentaire (animaux)",
+	"xml:lang":"fre"
+	},
+	{"value":"valeur energetique",
+	"xml:lang":"fre"
+	},
+	{"value":"energy value",
+	"xml:lang":"eng"
+	},
+	{"value":"feed grasses",
+	"xml:lang":"eng"
+	},
+	{"value":"graminee fourragere",
+	"xml:lang":"fre"
+	},
+	{"value":"sorghum",
+	"xml:lang":"esp"
+	},
+	{"value":"feed intake",
+	"xml:lang":"eng"
+	},
+	{"value":"ingestion de piensos",
+	"xml:lang":"esp"
+	},
+	{"value":"gramineas forrajeras",
+	"xml:lang":"esp"
+	},
+	{"value":"valor energetico",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":29,
+	"bibo:pageEnd":32,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000472",
+	"dct:identifier":"IN2015000472",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7987e6b1"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Nutrition (India)"},
+	"bibo:ISSN":{"value":"0970-3209"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, Sultan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shukla, G.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gehrana, Deepika"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Present study assesses the nutritional status of 22 dual purpose sorghum hybrids grown in 3 replications under identical soil and agronomic conditions in the sorghum fodder improvement programme. Samples of hybrids were collected at 50% flowering and analyzed for their crude protein (CP), fiber fractions, in sacco dry matter degradability (ISDMD) and other nutritional attributes viz. total digestible nutrients (TDN), metabolizable energy (ME), relative feed value (RFV), net energy for lactation (NEL), net energy for growth (NEG), net energy for maintenance (NEM), intake and stem to leaf ratio (S: L). Average CP content of the hybrids was found about 10%, while mean concentrations of NDF, ADF, cellulose and lignin were 63.25, 37.39, 30.17 and 4.93%, respectively. DMI (%) and RFV ranged between 1.69 to 2.33 and 80.30 to 105.80 across the hybrids. Lowest ISDMD was recorded in 353A x PC-6 (65.93) against highest in 479A x SPV1727 (82.21%). Carbohydrate and its fractions viz. non fiber carbohydrate (NFC), structural carbohydrate (SC) and lignin bound carbohydrate (CC) differed significantly (P0.05) amongst the evaluated hybrids. Mean TDN, DE and ME contents were 56.28%, 3.44 (Kcal/g) and 2.82 (K cal/g) of the tested hybrids. Mean net energy (NEL) contents of the hybrids were 1.26 k cal/g with lowest value observed in 324 A x EWT 64 DTN (1.14) against highest in 479A x SPV1727 and 486A x HC308 hybrid (1.40). Methane production (g/Kg DDM) varied (P0.05) amongst the hybrids and was highest from hybrid464 X S490 (80.45) and lowest from hybrid 479A x HD 19 (47.70) with hybrids mean value of 62.50. Results revealed that significant variability exists in CP, fiber, DMI, ISDMD, RFV and NEL values of evaluated hybrids. Hybrids 479A x HD 19 and 486A x HC 308 had moderate to high CP and ISDMD, low ADF and cellulose, higher energy values and low methane emission.",
+	"xml:lang":"eng"
+	}
+	}}

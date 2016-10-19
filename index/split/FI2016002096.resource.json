@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of an optimal stomatal regulation model and a biochemical model in explaining CO₂ exchange in field conditions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Aalto, Tuula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hari, Pertti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vesala, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"Scots pine"},
+	{"value":"kaasujen vaihto"},
+	{"value":"optimization"},
+	{"value":"carbon dioxide"},
+	{"value":"models"},
+	{"value":"mänty"},
+	{"value":"fotosynteesi"},
+	{"value":"hiilidioksidi"},
+	{"value":"Pinus sylvestris"},
+	{"value":"ilmaraot"},
+	{"value":"biochemical model"},
+	{"value":"optimointi"},
+	{"value":"gas exchange"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002096",
+	"dct:identifier":"FI2016002096",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

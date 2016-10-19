@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Differences in growth and wood density traits in Scots pine (Pinus sylvestris L.) genetic entries grown at different spacing and sites.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltola, Heli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gort, Jaume.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pulkkinen, Pertti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zubizarreta Gerendiain, Ane.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karppinen, Jouni.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ikonen, Veli-Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"diameter"},
+	{"value":"fenotyyppi"},
+	{"value":"genetic correlation"},
+	{"value":"metsänjalostus"},
+	{"value":"ominaisuudet"},
+	{"value":"spacing"},
+	{"value":"tiheys"},
+	{"value":"plant breeding"},
+	{"value":"wood properties"},
+	{"value":"genetics"},
+	{"value":"mänty"},
+	{"value":"genetic entry"},
+	{"value":"height"},
+	{"value":"pituus"},
+	{"value":"läpimitta"},
+	{"value":"phenotypes"},
+	{"value":"tilavuus"},
+	{"value":"puusto"},
+	{"value":"Pinus sylvestris"},
+	{"value":"volume"},
+	{"value":"runko"},
+	{"value":"stems"},
+	{"value":"puu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001954",
+	"dct:identifier":"FI2016001954",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Detection and characterization of shiga toxigenic Escherichia coli from piglets with or without diarrhoea in Mizoram",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":899,
+	"dc:subject":[
+		{"value":"piglets",
+	"xml:lang":"eng"
+	},
+	{"value":"lechon",
+	"xml:lang":"esp"
+	},
+	{"value":"porcelet",
+	"xml:lang":"fre"
+	},
+	{"value":"diarrea",
+	"xml:lang":"esp"
+	},
+	{"value":"diarrhoea",
+	"xml:lang":"eng"
+	},
+	{"value":"escherichia coli",
+	"xml:lang":"esp"
+	},
+	{"value":"mizoram",
+	"xml:lang":"esp"
+	},
+	{"value":"diarrhee",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":903,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000161",
+	"dct:identifier":"IN2015000161",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dutta , T.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Roychoudhury, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bandyopadhyay, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandra. Rajesh"
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"Escherichia coli (774) were isolated from faecal samples of piglets with or without diarrhoea from different districts of Mizoram, India. Virulence genes (stx1, stx2, eaeA and hlyA) were detected by multiplex PCR assay. Majority of the isolates were multi-drug resistant. Altogether, 48 serogroups were recorded and O60 was most prevalent. Commonest porcine pathogens under serogroup O8, O103, O108, O138, O141 and O147 were isolated, of which O103 causes haemalytic uremic syndrome in human. Out of 774 isolates, 153 (32.35%) carried at least one virulence gene studied. The virulence gene profiles of E. coli from both diarrhoeic and non diarrhoeic piglets were almost similar. Presence of high rate of coliform bacteria in the healthy and diarrhoeic piglets indicates that these animal species may represent as an important reservoir of these organisms for human infection.",
+	"xml:lang":"eng"
+	}
+	}}

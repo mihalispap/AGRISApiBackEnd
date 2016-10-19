@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Antioxidant activity and total phenolics concentration in apple peel and flesh is determined by cultivar and agroclimatic growing regions in Chile.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Yuri, J. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Neira, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Quilodran, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Motomura, Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Palomo, I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"antioxidants"},
+	{"value":"quercetin"},
+	{"value":"varieties"},
+	{"value":"fruits"},
+	{"value":"quality"},
+	{"value":"phenolic compounds"},
+	{"value":"apples"},
+	{"value":"anthocyanins"},
+	{"value":"chemical composition"},
+	{"value":"peel"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000132",
+	"dct:identifier":"FI2016000132",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

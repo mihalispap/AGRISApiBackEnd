@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical composition of some forage Vicia spp. in Iran"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911271",
+	"dct:identifier":"US201300911271",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Badrzadeh, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zaragarzadeh, F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Esmaielpour, B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"There are approximately 47 species of vetches (Vicia spp.) in Iran. In order to evaluate four species and two subspecies of vetches (five wild and one cultivar) as a forage source in animal nutrition, seed samples of Vicia sativa L. subsp. sativa (cultivar), Vicia sativa L. subsp. nigra, Vicia villosa Roth, Vicia peregrina L., Vicia narbonensis L. var. affinis and Vicia pannonica Crantz were collected from rangelands and farmlands of different regions in Ardebil province in 2005. The seeds of vetches were sown in dryland conditions in Agricultural Research Station, Ardebil province. In this study, chemical composition (crude protein (CP), ether extract (EE), acid detergent fiber (ADF), neutral detergent fiber (NDF), ash, P, Ca and K) of vetch forages was determined. In addition, some parameters of forage, such as non-fibrous carbohydrates (NFC), digestible dry matter (DDM), dry matter intake (DMI) and relative feed value (RFV), were also calculated according to current formulas in animal nutrition laboratory. Chemical composition (DM, CP, NDF, ADF, ash, P, Ca and K) content and DDM, DMI and RFV of vetches were significantly different (P≤0.05). No significant difference was found between NFC and EE content of Vicia species (p≥0.05). The results of this study showed that crude protein (CP), digestible dry matter (DDM) and relative feed value (RFV) of narbon bean (Vicia narbonensis L. var. affinis) were higher than in the other species of vetches. This is due to low amount of acid detergent fiber (ADF) and neutral detergent fiber (NDF). The amount of P was lower than that of Ca and K in forage vetches. ADF was negatively correlated to CP (r = -0.99) and DDM (r = -0.98) and positively to NDF (r = 0.96). RFV was positively correlated to DDM (r = 0.94). There was negative correlation between DMI and NDF (r = -0.89)."}
+	}}

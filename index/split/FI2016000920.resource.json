@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Spermans kvalitet betydelsefull vid inseminering /",
+	"xml:lang":"swe"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kenttämies, Hilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Petersen-Waris, Kati.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"semen"},
+	{"value":"keinosiemennys"},
+	{"value":"quality"},
+	{"value":"fur bearing animals"},
+	{"value":"artificial insemination"},
+	{"value":"sperma"},
+	{"value":"laatu"},
+	{"value":"foxes"},
+	{"value":"turkiseläimet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000920",
+	"dct:identifier":"FI2016000920",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

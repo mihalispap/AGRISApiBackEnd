@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of compression wood on dimensional stability of medium density fiberboard.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Ayrilmis, Nadir.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"reaktiopuu"},
+	{"value":"kuitulevyt"},
+	{"value":"linear expansion"},
+	{"value":"compression wood"},
+	{"value":"swelling"},
+	{"value":"shrinkage"},
+	{"value":"reaction wood"},
+	{"value":"lyly"},
+	{"value":"medium density fibreboard"},
+	{"value":"fibreboards"},
+	{"value":"kosteus"},
+	{"value":"linear contraction"},
+	{"value":"dimensional stability"},
+	{"value":"thickness"},
+	{"value":"paneelit"},
+	{"value":"mitat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002194",
+	"dct:identifier":"FI2016002194",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

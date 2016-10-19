@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Reduction of patulin content in apple juice concentrate using activated carbon and its effects on several chemical constituents.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fathi-Achachlouei, Bahram.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahmadi-Zenouz, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Assadi, Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hesari, J.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"activated carbon"},
+	{"value":"foods"},
+	{"value":"mykotoksiinit"},
+	{"value":"omena"},
+	{"value":"hedelmämehut"},
+	{"value":"patuliini"},
+	{"value":"aktiivihiili"},
+	{"value":"contamination"},
+	{"value":"apple juice"},
+	{"value":"patulin"},
+	{"value":"mycotoxins"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000498",
+	"dct:identifier":"FI2016000498",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

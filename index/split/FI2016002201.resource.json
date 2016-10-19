@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Desorption of sorbed Zn in some acid soils affected by organic matter application /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Das, D. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dutta, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maiti, Debtanu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karak, Tanmoy.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"zinc"},
+	{"value":"soil types"},
+	{"value":"desorption"},
+	{"value":"sinkki"},
+	{"value":"raskasmetallit"},
+	{"value":"maaperä"},
+	{"value":"organic matter"},
+	{"value":"maalajit"},
+	{"value":"heavy metals"},
+	{"value":"soil"},
+	{"value":"orgaaninen aines"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002201",
+	"dct:identifier":"FI2016002201",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

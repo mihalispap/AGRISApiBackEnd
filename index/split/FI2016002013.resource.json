@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Exploring plant topological structure with the AMAPmod software: an outline.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Godin, Christophe.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Costes, Evelyne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Caraglio, Yves.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kasvutapa"},
+	{"value":"simulointi"},
+	{"value":"kasvit"},
+	{"value":"Plantae"},
+	{"value":"kehitys"},
+	{"value":"plant habit"},
+	{"value":"mallit"},
+	{"value":"kasvu"},
+	{"value":"analyysi"},
+	{"value":"simulation models"},
+	{"value":"kasvumallit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002013",
+	"dct:identifier":"FI2016002013",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The use of starch and its derivatives as biopolymer sources of packaging materials"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fang, Jianmin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fowler, Paul (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100200",
+	"dct:identifier":"FI2016100200",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In recent years, biodegradable polymers with controllable lifetimes have become increasingly important for many applications in the areas of agriculture, biomedical implants and drug release, forestry, wild life conservation and waste management. Starch is a naturally occurring biodegradable polymer and readily available from agriculture. It is widely used in food and non-food applications and isolated from crops such as maize, potatoes, tapioca, rice and wheat. Starch is therefore an inexpensive and commodity material. For packaging use however, dry starch is not thermoplastic and its granular form is unsuitable for most uses in the plastics industry, mainly due to processing difficulties during extrusion or injection moulding. For this reason, research workers have developed several methods to render starch appropriate for industrial uses. In particular, extrusion and incorporation of plasticisers, graft copolymerisation, preparation of blends with thermoplastic polymers and chemical modification have all been studied as means to prepare packaging materials."}
+	}}

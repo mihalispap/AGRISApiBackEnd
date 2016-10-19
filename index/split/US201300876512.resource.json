@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of Gliricidia sepium to arbuscular mycorrhizal fungus inoculation and P fertilization in sterile and non-sterile soils"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876512",
+	"dct:identifier":"US201300876512",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e17.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Okon, Iniobong E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Osonubi, O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Solomon, M. G. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A pot experiment was conducted to investigate the effects of arbuscular mycorrhizal fungus (AMF), Glomus deserticola, on the growth of  Gliricidia sepium under P 0, 50 and 100 mg kg-1 levels of phosphorus fertilization. Inoculation with AMF increased dry matter yield at all levels of applied phosphorus in both sterile and non-sterile soils while P fertilization at 100 mg kg-1 soil level in conjunction with AMF inoculation increased the dry matter yield by 269.2 and 107.7% in sterile and non-sterile soils respectively. P fertilization increased arbuscular mycorrhizal fungi colonization but decreased mycorrhizal dependency. Colonization by indigenous AMF was, however, significantly (p<0.01) reduced at P 100 mg kg-1 soil fertilization. Foliar N, P and K yields were significantly (p<0.01) increased by AMF inoculation."}
+	}}

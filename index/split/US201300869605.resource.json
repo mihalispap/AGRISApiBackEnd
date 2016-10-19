@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"An efficient transformation system for sugarbeet mediated by Agrobacterium tumefaciens"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869605",
+	"dct:identifier":"US201300869605",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bekheet, Shawky A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Solliman, Mohi E. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper describes the development of a reliable transformation protocol for sugarbeet which can be used for integration of foreign gene into plant genome. To optimize a transformation protocol for sugarbeet with Agrobacterium, bacterial strain LB4404 and a plasmid PBI121 containing kanamycin resistance and GUS genes were used in the transformation experiments. The influence of plant explants and amount of kanamycin added to selective medium were examined for their effect on transformation frequency. Among the different concentrations of kanamycin used, 100 mg/l was the optimum for both transformation frequency and survival of plant tissues. Leaf tissues showed high transformation frequency compared with shoot base explant. Transient expression of GUS in transformed cultures was assayed and large regions showed expression of GUS (blue patches). Polymerase Chain Reaction (PCR) was used to verify the presence of the transgenes in the selected cultures of sugarbeet. PCR analysis showed that high frequency of GUS positive cultures contained transgenes. The transformants were successfully developed to complete plants growing in free- living conditions."}
+	}}

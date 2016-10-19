@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Storage profiles and processing potential of four potato (Solanum tuberosumL.) cultivars under three storage temperature regimes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kyriacou, M. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ioannides, I. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gerasopoulos, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siomos, A. S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"potato products"},
+	{"value":"varieties"},
+	{"value":"potatoes"},
+	{"value":"sprouting"},
+	{"value":"sucrose"},
+	{"value":"dormancy"},
+	{"value":"keeping quality"},
+	{"value":"temperature"},
+	{"value":"colour"},
+	{"value":"food processing"},
+	{"value":"Solanum tuberosum"},
+	{"value":"quality"},
+	{"value":"tubers"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000310",
+	"dct:identifier":"FI2016000310",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

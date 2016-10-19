@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Maskinsortering av søtkirsebær : ny teknologi som krev omlegging av produksjonsstrukturen.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Sekse, Lars.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"handling machinery"},
+	{"value":"imeläkirsikka"},
+	{"value":"lajittelu"},
+	{"value":"kirsikat"},
+	{"value":"grading"},
+	{"value":"postharvest technology"},
+	{"value":"hedelmät"},
+	{"value":"tuotantomenetelmät"},
+	{"value":"lajittelukoneet"},
+	{"value":"production structure"},
+	{"value":"tuotantorakenne"},
+	{"value":"koneet"},
+	{"value":"mechanical methods"},
+	{"value":"cherries"},
+	{"value":"kauppakunnostus"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (260 :
+    1996 :
+    Ås)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000531",
+	"dct:identifier":"FI2016000531",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

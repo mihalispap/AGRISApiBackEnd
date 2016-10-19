@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Alternative silvicultural practices in irregular boreal forests : response of beetle assemblages.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Légaré, Jean-Philippe.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hébert, Christian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ruel, Jean-Claude.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biodiversity"},
+	{"value":"irregular stands"},
+	{"value":"sustainable forest management"},
+	{"value":"old-growth forest"},
+	{"value":"uneven aged stands"},
+	{"value":"selection cutting"},
+	{"value":"boreal forests"},
+	{"value":"coarse woody debris"},
+	{"value":"selective felling"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002101",
+	"dct:identifier":"FI2016002101",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

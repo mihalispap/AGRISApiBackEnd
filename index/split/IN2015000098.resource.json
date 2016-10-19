@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysis of haemopoietic cells, blood variables and histopathological changes in Channa punctatus (Bloch) following experimental inoculation of two strains of aeromonads",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":641,
+	"dc:subject":[
+		{"value":"enfermedades de los peces",
+	"xml:lang":"esp"
+	},
+	{"value":"histopatologia",
+	"xml:lang":"esp"
+	},
+	{"value":"fish diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"histopathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"histopathology",
+	"xml:lang":"eng"
+	},
+	{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"channa punctata",
+	"xml:lang":"esp"
+	},
+	{"value":"maladie des poissons",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":647,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000098",
+	"dct:identifier":"IN2015000098",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"june2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ghosh, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakrabarty, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Homechaudhuri, S."
+	}
+	}
+	],
+	"bibo:issue":6,
+	"bibo:abstract":{"value":"Studies have been made to analyse the histopathological changes in head kidney and liver, erythropoietic and leucopoietic cells in head kidney and total erythrocytic and leucocytic populations in the peripheral blood of adult Channa punctatus (Bloch) following experimental inoculation of sublethal dose of Aeromonas hydrophila and Aeromonas salmonicida respectively during various exposure periods. Histopathological examinations showed initiation of necrosis, periglomerular degeneration in head kidney and formation of necrotic hepatocytes in liver compared to sham-injected control (SIC). Significant changes in total erythrocytic count (TEC) in aeromonad-treated groups were less pronounced over the most exposure periods. Similar observations were also recorded from the study among erythropoietic cell lineage from the head kidney tissue imprints. On the contrary, neutrophils, lymphocytes and macrophages among the leucocytes elicited significant variations in aeromonad-injected fish throughout the exposure periods with little fluctuations in the head kidney. An initial steep increase in the total leucocytic count (TLC) was also found in the peripheral blood of aeromonad-treated groups.",
+	"xml:lang":"eng"
+	}
+	}}

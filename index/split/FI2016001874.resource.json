@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of tomato plants to organic nutrition in soilless culture.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kaya, Seçkin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Caturano, Ester.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuzel, Yüksel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Okur, Nur.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leonardi, Cherubino.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Lycopersicon esculentum"},
+	{"value":"plant production"},
+	{"value":"organic agriculture"},
+	{"value":"nutrient solutions"},
+	{"value":"nutrient uptake"},
+	{"value":"soilless culture"},
+	{"value":"plant nutrition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001874",
+	"dct:identifier":"FI2016001874",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

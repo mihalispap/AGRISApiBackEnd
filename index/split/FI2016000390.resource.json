@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Manipulation of earthworm population in field experiments in agroecosystems.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bohlen, Patrick J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Edwards, Clive A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stinner, Benjamin R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    McCartney, David A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Allen, Michael F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Blair, John M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maaperäeläimistö"},
+	{"value":"population density"},
+	{"value":"Aporrectodea"},
+	{"value":"manipulaatio"},
+	{"value":"populaation tiheys"},
+	{"value":"populaatiodynamiikka lierot manipulaatiokoe"},
+	{"value":"maaperäeliöstö"},
+	{"value":"viljelymaa"},
+	{"value":"USA"},
+	{"value":"lierot"},
+	{"value":"Lumbricidae"},
+	{"value":"ekosysteemit"},
+	{"value":"maaperä"},
+	{"value":"pellot"},
+	{"value":"crops"},
+	{"value":"Lumbricus"},
+	{"value":"electricity"},
+	{"value":"population dynamics"},
+	{"value":"fields"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    International Colloquium on Soil Zoology
+    (11 :
+    1992 :
+    Jyväskylä)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000390",
+	"dct:identifier":"FI2016000390",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

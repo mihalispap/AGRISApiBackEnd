@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"NJF's fremtidige rolle inden for det miljø- og ressourceøkonomiske område.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Dubgaard, Alex.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"tutkimus"},
+	{"value":"ympäristöekonomia"},
+	{"value":"maataloustutkimus"},
+	{"value":"Scandinavia"},
+	{"value":"natural resources"},
+	{"value":"ympäristöntutkimus"},
+	{"value":"agriculture"},
+	{"value":"research"},
+	{"value":"resource management"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-symposium
+    (1994 :
+    Arlanda)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002071",
+	"dct:identifier":"FI2016002071",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

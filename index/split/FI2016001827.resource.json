@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Equilibrium moisture content of flax/linseed and fibre hemp straw fractions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kymäläinen, Hanna-Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pasila, Antti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fibres"},
+	{"value":"Cannabis sativa"},
+	{"value":"pellavat"},
+	{"value":"hemp"},
+	{"value":"fibre crops"},
+	{"value":"flax"},
+	{"value":"oil crops"},
+	{"value":"harvesting date"},
+	{"value":"hamppu"},
+	{"value":"laatu"},
+	{"value":"kuitukasvit"},
+	{"value":"kuidut"},
+	{"value":"korjuuajankohta"},
+	{"value":"Linum usitatissimum"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001827",
+	"dct:identifier":"FI2016001827",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

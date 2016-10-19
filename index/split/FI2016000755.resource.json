@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Using nature's template to best advantage in the Canadian boreal forest.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    DeLong, S. Craig.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"mallintaminen"},
+	{"value":"biodiversity"},
+	{"value":"Canada"},
+	{"value":"kestävä metsätalous"},
+	{"value":"luonnonmetsät"},
+	{"value":"aukot"},
+	{"value":"sustainable forestry"},
+	{"value":"häiriödynamiikka"},
+	{"value":"forestry politics"},
+	{"value":"luonnon monimuotoisuus"},
+	{"value":"virgin forests"},
+	{"value":"metsäpolitiikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000755",
+	"dct:identifier":"FI2016000755",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

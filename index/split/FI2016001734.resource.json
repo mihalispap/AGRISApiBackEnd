@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality of coconut water 'in natura' belonging Green Dwarf fruit variety in different stages of development, in plantation on the northwest area of Paraná, Brazil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kwiatkowski, Angela.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Clemente, Edmar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Scarcelli, Angela.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vida, João Batista.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"colour"},
+	{"value":"Brazil"},
+	{"value":"quality"},
+	{"value":"nutritive value"},
+	{"value":"flavour"},
+	{"value":"chemical composition"},
+	{"value":"coconut water"},
+	{"value":"Cocos nucifera"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001734",
+	"dct:identifier":"FI2016001734",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

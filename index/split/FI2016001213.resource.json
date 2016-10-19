@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Time consumption of planting after partial harvests.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Granhus, Aksel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fjeld, Dag.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"work study"},
+	{"value":"partial cutting"},
+	{"value":"hakkuu"},
+	{"value":"istutus"},
+	{"value":"site preparation"},
+	{"value":"scarification"},
+	{"value":"planting"},
+	{"value":"maanpinnan valmistus"},
+	{"value":"työntutkimus"},
+	{"value":"laikutus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001213",
+	"dct:identifier":"FI2016001213",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

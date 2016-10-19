@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A Review on Nutrition and Gastro-Intestinal Nematode Parasitism: Interaction and Implications in Ruminant Livestock",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1,
+	"dc:subject":[
+		{"value":"nematoda",
+	"xml:lang":"esp"
+	},
+	{"value":"appareil digestif",
+	"xml:lang":"fre"
+	},
+	{"value":"parasitisme",
+	"xml:lang":"fre"
+	},
+	{"value":"parasitism",
+	"xml:lang":"eng"
+	},
+	{"value":"sistema digestivo",
+	"xml:lang":"esp"
+	},
+	{"value":"parasitismo",
+	"xml:lang":"esp"
+	},
+	{"value":"ganado",
+	"xml:lang":"esp"
+	},
+	{"value":"betail",
+	"xml:lang":"fre"
+	},
+	{"value":"digestive system",
+	"xml:lang":"eng"
+	},
+	{"value":"livestock",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":20,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000181",
+	"dct:identifier":"IN2015000181",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sahoo, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, F.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karim, S.A."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Gastrointestinal nematode (GIN) infection remains one of the main constraints to livestock production both in temperate and tropical countries. The usual mode of control of GIN based on the repeated use of anthelmintics is now strongly questioned because of increasing development of resistance to these molecules and also, leaking and accumulation of drug residues/metabolites in meat, milk, egg or their products thereby increasing concern for safe livestock products for human consumption. Among the alternative methods to anthelmintics currently available, the manipulation of host nutrition in order to improve the host resistance and/or resilience to parasitic infections seems to represent one of the most promising options to reduce the dependence on conventional chemotherapy and to favour the sustainable control of GIN. This paper will discuss the interactions between nutrition and parasitism and include discussion on quantitative (influence of protein, energy, micronutrients and other phyto-additives) as well as to qualitative (organic livestock farming, foraging) aspects of the diet. The beneficial effect of nutrition, more specifically, the importance of protein nutrition for the maintenance of host immunity to parasitism, the potential use of novel crops and possibilities for biological control have also been discussed. In addition, more work are needed to define anthelmintic resistance, non-chemical alternatives to parasite control, modulation of immunity to parasites by genetic and nutritional factor, integrated parasite control strategy and best use of these technologies in different geographic regions.",
+	"xml:lang":"eng"
+	}
+	}}

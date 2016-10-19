@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-108.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of flavour compounds in wasabi and horseradish"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sultana, Tamanna (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Savage, G. P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"McNei, D. L. (authorDNRE, Victorian Institute of Dryland Agriculture, Melbourne, University, Horsham, Victoria, Australia.)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Porter, N. G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Clark, B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100219",
+	"dct:identifier":"FI2016100219",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The Japanese horseradish (Wasabia japonica (Miq.) Matsum) and European horseradish (Amoracia rusticana) are aromatic herbs used as spices and condiments due to their characteristic flavour. The flavour of both comes from the liberation of volatile isothiocyanates (ITCs) by the hydrolysis of precursor glucosinolates. Seven ITCs were measured in this study in order to compare the flavour compounds of wasabi rhizomes and horseradish roots. New Zealand grown horseradish contained 1900.7 mg total isothiocyanate/kg (on a fresh weight basis) while the level of total ITC in wasabi was 2067.55 mg/kg. Allyl ITC (AITC) was the main ITC in both of the plants (1937.8 and 1658.1 mg/kg respectively in wasabi and horseradish). 2-phenylethyl ITC (2-PEITC) was present as a major component after AITC (185.2 mg/ kg on a fresh weight basis) only in horseradish and therefore the radish-like flavour of 2-PEITC is likely to have a characteristic role in the overall flavour of horseradish. However, all minor ITCs (w-alkenyl ITCs, alkyl ITCs) occurred at higher levels in wasabi rhizomes. The differences in ITC observed between wasabi and horseradish could well explain the difference in taste between these two herbs."}
+	}}

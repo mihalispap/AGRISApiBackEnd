@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Översikt över problem med insektsbekämpning i integrerad produktion i frukt och bär i Sverige.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Tornéus, Christer.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"marjanviljely"},
+	{"value":"hedelmänviljely"},
+	{"value":"soft fruits"},
+	{"value":"tuhoeläimet"},
+	{"value":"torjuntamenetelmät"},
+	{"value":"tuhohyönteiset"},
+	{"value":"fruit crops"},
+	{"value":"pest insects"},
+	{"value":"puutarhaviljely"},
+	{"value":"integroitu torjunta"},
+	{"value":"Sweden"},
+	{"value":"integrated pest management"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (254 :
+    1995 :
+    Mariehamn)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000293",
+	"dct:identifier":"FI2016000293",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

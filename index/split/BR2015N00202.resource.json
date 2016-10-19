@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"COMPOSITION OF MICROPHYTOPLANKTON OF AN ESTUARINE AMAZON RIVER, PARÁ, BRAZIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":1,
+	"bibo:volume":5,
+	"bibo:pageEnd":9,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00202",
+	"dct:identifier":"BR2015N00202",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/915",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bethânia Alves Sena"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vanessa Bandeira da Costa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Luiza Nakayama"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rossineide Martins da Rocha"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><span Este trabalho teve como objetivo descrever a composição, abundância relativa e frequência de ocorrência do microfitoplâncton do rio Arienga, a partir da análise qualitativa de 10 amostras coletadas no período chuvoso e seco (respectivamente maio e setembro de 2009), em cinco estações, utilizando-se uma rede cônico-cilíndrica de plâncton com abertura de malha de 20m. No período estudado a precipitação pluviométrica apresentou um comportamento atípico, comparado à média dos últimos 10 anos para a região, o pH e a temperatura não sofreram variações. Foram identificadas 128 espécies pertencentes às divisões: Dinophyta (0,78%), Chrysophyta (0,78%), Cyanobactéria (12,50%), Chlorophyta (26,56%) e Bacillariophyta (59,38%). Dos gêneros encontrados, 17 apresentaram 100% de representatividade, nos períodos de coleta. Foi possível constatar dois grandes grupos, sugerindo que o regime pluviométrico foi o principal fator controlador da composição fitoplanctônica e da variação espacial de espécies do rio Arienga. A diversidade fitoplanctônica foi considerada característica para a região amazônica.</span><p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span Palavras-chave:</span></strong><span  fitoplâncton, estuário, Amazônia, Bacillariophyta, Polymyxus coronalis</em>.</span><p class=\"MsoNormal\" style=\"text-align: justify;\"> ",
+	"xml:lang":"por"
+	}
+	}}

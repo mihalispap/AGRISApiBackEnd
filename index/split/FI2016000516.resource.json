@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Natural fire regime : a guide for sustainable management of the Canadian boreal forest /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bergeron, Yves.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leduc, Alain.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harvey, Brian D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gauthier, Sylvie.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tasaikäiset metsiköt"},
+	{"value":"forest management"},
+	{"value":"metsäpalot"},
+	{"value":"Canada"},
+	{"value":"even-aged stands"},
+	{"value":"logging"},
+	{"value":"metsänhoito"},
+	{"value":"häiriödynamiikka"},
+	{"value":"boreal forests"},
+	{"value":"forest fires"},
+	{"value":"boreaaliset metsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000516",
+	"dct:identifier":"FI2016000516",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

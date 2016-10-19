@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Fruit characterss of round gourd in relation to fruit fly, Bactrocera cucurbitae Coquillett",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"pest control",
+	"xml:lang":"eng"
+	},
+	{"value":"citrullus lanatus",
+	"xml:lang":"esp"
+	},
+	{"value":"lutte antiravageur",
+	"xml:lang":"fre"
+	},
+	{"value":"control de plagas",
+	"xml:lang":"esp"
+	},
+	{"value":"bactrocera cucurbitae",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":169,
+	"bibo:volume":75,
+	"bibo:pageEnd":171,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000030",
+	"dct:identifier":"IN2015000030",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Verma, Harish."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Swaroop."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahuja, D.B"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

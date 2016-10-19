@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Antimicrobial and cytotoxic effects of the bioactive pigment Bikavarin produced by Fusarium oxysporum f. sp. lycopersici",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":13,
+	"dc:subject":[
+		{"value":"pigmentos",
+	"xml:lang":"esp"
+	},
+	{"value":"pigment",
+	"xml:lang":"fre"
+	},
+	{"value":"toxicite",
+	"xml:lang":"fre"
+	},
+	{"value":"fusarium oxysporum",
+	"xml:lang":"esp"
+	},
+	{"value":"antimicrobial properties",
+	"xml:lang":"eng"
+	},
+	{"value":"propiedades antimicrobianas",
+	"xml:lang":"esp"
+	},
+	{"value":"pigments",
+	"xml:lang":"eng"
+	},
+	{"value":"propriete antimicrobienne",
+	"xml:lang":"fre"
+	},
+	{"value":"toxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"toxicidad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":45,
+	"bibo:pageEnd":21,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000006",
+	"dct:identifier":"IN2015000006",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Mycology and Plant Pathology (India)"},
+	"bibo:ISSN":{"value":"0975-4180"}
+	}
+	},
+	"dct:issued":"mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nirmaladevi, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramesha, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sunitha, V.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Babu, R.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Srinivas, C."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Fusarium oxysporum strains are known to be prolific producers of metabolites with potential application. A violet pigmented strain of Fusarium oxysporum f. sp. lycopersici was isolated from rhizosphere soil of tomato plant. The biomass was grown in PDB and the intracellular pigment extracted. The identity of the compound was established by comprehensive analysis of the TLC and spectral data viz., UV- Visible absorption, LC-ESI-MS, FT-IR and IH_NMR. The pigment exhibited R, of 0.76, Amax at 605nm and the molecular ion peak at mlz 383.17 [M+H] + consistent to the molecular formula of C2oH1408 indicating that the compound was Bikaverin. The pigment exhibited antibacterial activity against human and seed borne plant partiogenic bacteria. The MIC and ICso values ranged between 5-1OJ.lg/ml and 10-50 ug/ml, respectively and it suppressed the growth of seed borne phytopathogenic Curvularia sp., Chaetomium sp. by 75 and 70%, respectively. In the cytotoxicity assay, the compound showed strong inhibitory effects on human lung carcinoma type II epithelial cells (A549), with ICso value of -13J.lg/ml.",
+	"xml:lang":"eng"
+	}
+	}}

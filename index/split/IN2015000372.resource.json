@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of feeding lentil (Lens culinaris) Straw-based rations on nutrient utilization, rumen fermentation, growth and economics in Barbari kids",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":80,
+	"dc:subject":[
+		{"value":"grain crops",
+	"xml:lang":"eng"
+	},
+	{"value":"cultivos de grano",
+	"xml:lang":"esp"
+	},
+	{"value":"chevreau",
+	"xml:lang":"fre"
+	},
+	{"value":"digestion du rumen",
+	"xml:lang":"fre"
+	},
+	{"value":"rumen digestion",
+	"xml:lang":"eng"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"digestion ruminal",
+	"xml:lang":"esp"
+	},
+	{"value":"lens culinaris",
+	"xml:lang":"esp"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"kids",
+	"xml:lang":"eng"
+	},
+	{"value":"plante a grains",
+	"xml:lang":"fre"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	},
+	{"value":"cabrito",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":84,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000372",
+	"dct:identifier":"IN2015000372",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mudgal, Vishal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mehta, Mukesh Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rane, Ashok Sopan"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Lentil (Lens culinaris) straw (LS, untreated as well as urea ammoniated, ALS) was evaluated in total mixed ration (TMR) of growing (6â8 months) Barbari male kids. Ten kids were divided randomly into two equal groups, one group was fed LS based TMR (LSTMR), while other group received ALS based TMR (ALSTMR). Feeding of ALSTMR had negative (P0.05) effect on crude protein (CP) digestibility, while digestibility of fibre fractions i.e. neutral detergent fibre (NDF) and acid detergent fibre (ADF) improved significantly (P0.01). Similarly, intake of dry matter (DM, P0.05), energy (TDN) and digestible crude protein (DCP) improved (P0.01) upon ALSTMR feeding. The DCP value of ALSTMR diet was high (P0.01), while TDN remained unchanged. Feeding of ALSTMR also improved the nitrogen balance (P0.05) as well as growth performance (P0.01) of the kids. Rumen fluid of ALSTMR fed kids had higher (P0.05) total and ammonical nitrogen contents. Cost of production reduced by Rs. 10 per kg live weight gain. Thus it may be concluded that use of urea treated lentil straw in total mixed ration of kids improved protein value, fibre utilization, nitrogen balance and all together improved growth and reduced cost of production.",
+	"xml:lang":"eng"
+	}
+	}}

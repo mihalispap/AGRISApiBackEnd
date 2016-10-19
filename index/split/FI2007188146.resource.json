@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Suppressive effect of epigallocatechin gallate (EGCg) on DNA methylation in mice: Detection by methylation sensitive restriction endonuclease digestion and PCR"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188146",
+	"dct:identifier":"FI2007188146",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f11.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yamada, Hidetaka (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sugimura, Haruhiko (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tsuneyoshi, Toshihiro (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"DNA methylation is a general epigenetic gene alteration that accompanies aging and carcinogenesis. DNA methylation adds a methyl group to the fifth position of cytosine of CpG DNA sequences (also known as CpG island). CpG island methylation in the promoter region of a gene suppresses mRNA expression and subsequent protein expression by inhibiting the transcription factors or recruiting methyl-CpG binding (MBD) proteins and histone deacetylase (HDAC). Recently, Fang et al. showed that the green tea polyphenol constituents, catechins, inhibit DNA methyltransferase (Dnmt1), suppresses DNA methylation, and re-expresses the mRNA and protein of four genes in various human cancer cell lines in vitro. Here, we administered epigallocatechin gallate (EGCg)-containing water to mice to observe the effect of EGCg on DNA methylation in the mouse estrogen receptor gene promoter region. We used wild-type and knock-out mice, which had a non-sense mutation in the adenomatous polyposis coli (APC) gene, to compare the effect of EGCg administration on aging and carcinogenesis, respectively. The DNA methylation rate was determined by the digestion of genomic DNA with the methylation-sensitive restriction endonuclease Ava I and a polymerase chain reaction (PCR). In the EGCg-administered mice, the methylation rate decreased by 4% in the wild-type mice (P<0.001) and 5% in the knock-out mice (P<0.01), showing a possible inhibitory effect of EGCg on the epigenetic changes associated with carcinogenesis or aging. To our knowledge, this is the first in vivo demonstration of such an effect. The ratio of concentrations producing in vitro cytotoxicity and the optimum dose of EGCg is about five times higher than that of zebularine, while the optimum dose of EGCg is 100 times smaller than that of zebularine. EGCg or green tea may be a good candidate material for cancer prevention, anti-aging or cancer treatment without adverse effects."}
+	}}

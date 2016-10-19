@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of soil physical quality in mollic ustifluvent, typic ustifluvent and typic ustorthent using Dexter’s S-theory"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kutlu, Turgut (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ersahin, Sabit (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100417",
+	"dct:identifier":"FI2016100417",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Soil physical quality is one of the three main aspects of soil quality, beside biological and chemical qualities. Decline in soil physical quality can have serious consequences for biological and chemical properties as well as physical conditions in soils. In this study we applied S-theory developed by Dexter to evaluate physical quality of soils (Mollic Ustifluvent, Typic Ustifluvent and Typic Ustorthent) formed over alluvial and colluvial deposits in North Central Anatolia of Turkey. The S-theory is based on the value of slope S, defined as the slope at the inflection point of water release curve. Being indicative of the extent to which the soil porosity is concentrated into a narrow range of pore sizes, lager values of S are consistent with improved soil physical quality. An area of nine ha was sampled intensively, collecting 168 disturbed and undisturbed soil samples. The S for each sample was calculated from water retention data used with computer program RETention Curve (RETC). Soils were further analyzed for texture, organic matter content (OM), bulk density (BD) and saturated hydraulic conductivity (Ks). Relations between S and soil physical properties were analyzed by regression technique. In contrast to curvilinear positive relation occurred between S and each of sand and silt content of the soils, relationships between S and each of BD, OM and Ks were positively linear. Critical values for S = 0.035 as suggested in the previous studies corresponded in this study to BD = 1.44 Mg m-3. Bulk density greater than above specified value mostly occurred at the sites with clay loam texture and covers 19% of the study area. It was concluded that S may be used as a soil physical quality index estimator to evaluate combined effect of soil physical properties and processes in the studies of soil quality assessment."}
+	}}

@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of L-carnitine and iron diet supplementations on growth performance, carcass characteristics and blood metabolites in fattening pigs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pietruszka, Arkadiusz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jacyno, Eugenia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kolodziej, Anita.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaweçka, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Elzanowski, Czeslaw.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Matysiak, Beata.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"metabolites"},
+	{"value":"L-karnitiini"},
+	{"value":"carcass composition"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"blood"},
+	{"value":"iron"},
+	{"value":"nutrients"},
+	{"value":"teuraslaatu"},
+	{"value":"kasvu"},
+	{"value":"rauta"},
+	{"value":"swine"},
+	{"value":"Carnitine"},
+	{"value":"growth"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000451",
+	"dct:identifier":"FI2016000451",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

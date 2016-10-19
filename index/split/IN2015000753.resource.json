@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Preliminary assessment of eriophyid mite infestation on coconut in Assam",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":450,
+	"dc:subject":[
+		{"value":"mite infestation"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"aceria guerreronis",
+	"xml:lang":"esp"
+	},
+	{"value":"assam",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":454,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000753",
+	"dct:identifier":"IN2015000753",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Himadri Rabha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ranjana Chakrabarty"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Acharya, G.C."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

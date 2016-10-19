@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":"2016-06-07",
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"SISTEMA PLANTIO DIRETO E CONVENCIONAL: EFEITO NA PRODUTIVIDADE DE FIBRA DE TRÊS CULTIVARES DE ALGODOEIRO"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lamas, Fernando Mendes, Embrapa Agropecuária Oeste"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"de Barcellos Ferreira, Alexandre Cunha, Embrapa Algodão"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rodrigues de La Torre, Elio de Jesus, IMAmt"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Staut, Luiz Alberto, Embrapa Agropecuária Oeste"
+	}
+	}
+	],
+	"dct:extent":"34-40",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00045",
+	"dct:identifier":"BR2016H00045",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"bibo:abstract":{"value":"O sistema de produção predominante na cultura do algodoeiro é o sistema convencional de manejo do solo, que tem proporcionado degradação dos atributos físicos, químicos e biológicos do solo. Com o objetivo de avaliar o efeito do Sistema Plantio Direto (SPD) e do Sistema Convencional de Manejo do Solo (SC) sobre a produtividade de fibra das cultivares BRS Cedro, BRS Jatobá e BRS Araçá, foram conduzidos experimentos em Primavera do Leste, MT, no período de 2006/2007 a 2012/2013. O algodoeiro foi cultivado em SPD, obedecendo à seguinte sequência para os períodos de verão e outono-inverno, respectivamente: ano 1) soja/Urochloa ruziziensis; ano 2) milho + U. ruziziensis/U. ruziziensis; ano 3) algodão/pousio; ano 4) soja/U. ruziziensis e em SC, com mobilização do solo e sem rotação de culturas. O delineamento experimental utilizado foi o de blocos ao acaso, com quatro repetições, com parcelas subdivididas: nas parcelas (10 m x 30 m) foram alocados os sistemas de manejo de solo e nas subparcelas (10 m x 10 m) as cultivares. O sistema de manejo do solo, não tem efeito sobre a produtividade de fibra."},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"REVISTA DE AGRICULTURA NEOTROPICAL"}
+	}
+	}
+	}}

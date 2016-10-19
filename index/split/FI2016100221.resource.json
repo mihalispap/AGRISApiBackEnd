@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f9.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutritive value of new chickpea (Cicer arietinum) varieties"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singhai, Benu (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shrivastava, S. K. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100221",
+	"dct:identifier":"FI2016100221",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The nutritional quality of chickpea (Cicer arietinum) was studied on new varieties: JGG -1, JG-218, JG-322, SAKI-93130 and JG-11. The proximate analysis of seeds included moisture (5.62-8.17%), total ash (2.50-3.15%), crude protein (19.68-22.75%), lipids (4.18-4.92%), total carbohydrates (37.2-50.4%), calcium (0.068-0.149%), phosphorus (0.31-0.62%) and crude fibre (0.26-1.43%). Highest values were found for methionine (0.15 g/100 g of seeds) in JGG-1 and for cystine (6.8 g/100 g of seeds) in JG-218. Toxic factors found in these new varieties were cyanide (HCN 1.35-4.05 mg/100 g), oxalate (0.18-0.45 g/100 g), tannin (0.01-0.05 g/100 g) and trypsin inhibitor activity (0.438- 1.205 g of tyrosine inhibited/30’ at 37°C/g). The feeding experiments on six weeks old eighteen white rats (male Albino) gave following results: feed utilization 3.33-4.89 g, nitrogen utilization 0.119-0.181 g and protein efficiency ratio +2.39, +1.77, +1.37, +1.59 and +1.83. Estimation of proximate and amino acid composition and toxic constituents of these new hybrid seeds gave the overall estimate of their nutritive value. Development of hybrid seeds has been considered important to produce seeds with better nutritive value and to minimize the presence of toxic substances. However, attention is being paid also to factors like low-cost production, improved storage quality and general acceptability."}
+	}}

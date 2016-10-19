@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Productivity of the M-Planter tree-planting device in practice.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rantala, Juho.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laine, Tiina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"silviculture"},
+	{"value":"technology"},
+	{"value":"laitteet"},
+	{"value":"istutus"},
+	{"value":"istutuslaitteet"},
+	{"value":"cost benefit analysis"},
+	{"value":"mechanization"},
+	{"value":"planting"},
+	{"value":"planting equipment"},
+	{"value":"tuottavuus"},
+	{"value":"metsänviljely"},
+	{"value":"seedlings"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000554",
+	"dct:identifier":"FI2016000554",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

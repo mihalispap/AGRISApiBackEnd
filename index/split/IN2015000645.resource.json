@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of selected cocoa (Theobroma cacao L.) clones under arecanut and coconut",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":242,
+	"dc:subject":[
+		{"value":"cocoa"},
+	{"value":"Arecanut canopy"},
+	{"value":"coconut shade"},
+	{"value":"theobroma cacao",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":246,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000645",
+	"dct:identifier":"IN2015000645",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Elain Apshara, S"
+	}
+	},
+	"bibo:issue":2
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Fruit yield and quality of watermelon in relation to grafting"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009321550",
+	"dct:identifier":"FI2009321550",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a10.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alexopoulos, Alexios A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kondylis, Angelos (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Passam, Harold C. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Watermelon (Citrullus lanatus [Thunb.] Mansf., cv. Crimson Sweet) was grafted onto four rootstocks (Long gourd, Early Max, Max-2 and F-14 gourd). Grafting increased fruit size, resulting in higher yields than in the non-grafted control. Fruits from grafted plants had a thicker rind and slightly lower total soluble solids content than the fruit from non-grafted plants. However, it is considered that these differences in fruit characteristics do not constitute serious quality defects and therefore grafting of this crop is advantageous."}
+	}}

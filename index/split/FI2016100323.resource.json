@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Molecular mechanisms underlying anthocyanin biosynthesis: A useful tool for the metabolic engineering of the flavonoid pathway genes for novel products"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Ubi, Benjamin Ewa (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100323",
+	"dct:identifier":"FI2016100323",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The flavonoid biosynthetic pathway is an important secondary metabolic pathway leading to the production of anthocyanins, flavonols and condensed tannins (CTs). These are all antioxidants with beneficial effects on health, agriculture and the food industry. Their synthesis depends on the common flavonoid genes for anthocyanin formation, as well as the specific branch pathway genes to flavonols and CTs. The increasing research effort towards understanding this pathway that is widely distributed in the plant kingdom has resulted in the accumulation of knowledge on the molecular mechanisms underlying its regulation. The enzymes catalyzing the specific steps of the pathway are encoded by structural genes that are coordinately controlled, and are in-turn under the control of transcription factors (regulatory genes). These genes have now been isolated in many plant species. The application of this knowledge accompanied by the rapid advances in genomic programs, insertion mutagenesis and transformation protocols in the model plant species has greatly improved efforts geared towards a more directed exploitation of this important secondary metabolic pathway for novel products."}
+	}}

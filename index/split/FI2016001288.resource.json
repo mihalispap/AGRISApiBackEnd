@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Antioxidant properties of cows' milk.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Korpela, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahotupa, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korhonen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Syväoja, Eeva-Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"antioxidants"},
+	{"value":"elintarviketekniikka"},
+	{"value":"heat treatment"},
+	{"value":"antioksidantit"},
+	{"value":"lämpökäsittely"},
+	{"value":"maito"},
+	{"value":"cow milk"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF/NMR-seminar
+    (252 :
+    1995 :
+    Turku)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001288",
+	"dct:identifier":"FI2016001288",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Forage yield and quality in intercropping of maize with different legumes as double-cropped.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Javanmard, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nasab, A. D. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Javanshir, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moghaddam, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Janmohammadi, H.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Vicia ervilia"},
+	{"value":"sekaviljely"},
+	{"value":"crop yield"},
+	{"value":"cropping systems"},
+	{"value":"laatu"},
+	{"value":"feed crops"},
+	{"value":"laidunrehu"},
+	{"value":"sato"},
+	{"value":"Zea mays"},
+	{"value":"Iran Islamic Republic"},
+	{"value":"Trifolium alexandrinum"},
+	{"value":"quality"},
+	{"value":"intercropping"},
+	{"value":"Vicia villosa"},
+	{"value":"Phaseolus vulgaris"},
+	{"value":"chemical composition"},
+	{"value":"rehukasvit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001789",
+	"dct:identifier":"FI2016001789",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

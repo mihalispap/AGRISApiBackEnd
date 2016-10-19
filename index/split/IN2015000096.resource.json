@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimation of variance components of milk yield and genetic evaluation of Sahiwal cattle using mixed linear models",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":605,
+	"dc:subject":[
+		{"value":"modele animal",
+	"xml:lang":"fre"
+	},
+	{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"linear models",
+	"xml:lang":"eng"
+	},
+	{"value":"modelos animales",
+	"xml:lang":"esp"
+	},
+	{"value":"evaluation genetique des peres",
+	"xml:lang":"fre"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"modele lineaire",
+	"xml:lang":"fre"
+	},
+	{"value":"evaluacion de sementales",
+	"xml:lang":"esp"
+	},
+	{"value":"modelos lineales",
+	"xml:lang":"esp"
+	},
+	{"value":"sire evaluation",
+	"xml:lang":"eng"
+	},
+	{"value":"animal models",
+	"xml:lang":"eng"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":609,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000096",
+	"dct:identifier":"IN2015000096",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"june2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amit Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gandhi, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aynalem Haile"
+	}
+	}
+	],
+	"bibo:issue":6,
+	"bibo:abstract":{"value":"First lactation 305 days milk yield (FL305DMY) records (2032) on Sahiwal cows, maintained at 3 different farms in India were analyzed to estimate the impact of direct additive genetic, maternal additive genetic and cows permanent environmental effects on milk yield and to compare sire model (BLUP) with 3  different animal models i.e. simple univariate model (AM I), univariate model with maternal effect and cows permanent environmental effect (AM II) and multivariate model (AM III) of sire evaluation. The sire model of BLUP was least capable to estimate genetic differences amongst bulls.   The heritability estimate for milk yield using sire model was lowest (0.141), followed by animal Models, viz. AM II (0.236), AM III (0.260) and AM I (0.292). Among animal models, lowest estimate of heritability obtained using AM II indicated for presence of significant amount of maternal additive genetic variance (26485.05 kg ) and maternal effect explained 11.1 % of total phenotypic variation in milk yield. The permanent environmental effect of cows explained 2.5 % variation of milk yield.  The AM II was most effective model in terms of efficiency and accuracy over other models of sire evaluation. The rank correlations amongst the estimated breeding values of sires for FL305DMY were higher ranging from 0.898 (sire model versus AM III) to 0.991 (AM I versus AM II) indicating similarity in ranking of sires to the degree of 90 percent and above from different methods of Sahiwal sire evaluation.",
+	"xml:lang":"eng"
+	}
+	}}

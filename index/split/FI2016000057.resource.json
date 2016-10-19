@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelling variation of needle density of Scots pine at high latitudes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Salminen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jalkanen, Risto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Dendroclimatology"},
+	{"value":"vaihtelu"},
+	{"value":"klimatologia"},
+	{"value":"Needle trace methods"},
+	{"value":"pituuskasvu"},
+	{"value":"tiheys"},
+	{"value":"leaves"},
+	{"value":"dendrologia"},
+	{"value":"neulaset"},
+	{"value":"temperature"},
+	{"value":"lämpötila"},
+	{"value":"mänty"},
+	{"value":"fascicles"},
+	{"value":"kasvu"},
+	{"value":"precipitation"},
+	{"value":"Pinus sylvestris"},
+	{"value":"sadanta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000057",
+	"dct:identifier":"FI2016000057",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

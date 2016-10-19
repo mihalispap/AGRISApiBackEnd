@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/environment-10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Choosing appropriate index age for estimating site index of Gmelina arborea timber plantations in Oluwa forest reserve"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Onyekwelu, Jonathan C. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100228",
+	"dct:identifier":"FI2016100228",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The timber production potential of a given site (site quality) is measured by the site index, which is defined as the dominant height of a stand at an index age. A study was undertaken to investigate the appropriate index age for site index determination of Gmelina arborea timber plantations in Oluwa forest reserve in south-western Nigeria, managed on 20 years rotation. Data for the study were collected from 36 temporary sample plots of 25 m x 25 m in plantations of 5 to 25 years. The results reveal that the appropriate index age for Gmelina timber plantation is 15 years. Based on this age, the site index equation constructed using linear regression approach and recommended for used in estimating site index of Gmelina timber plantations in the study area, is:SI = exp[ln(Hd)-2.47(0.067-A-1)]Using the guide curve method, an average guide curve was constructed. Based on this curve, the plantation was divided into five site quality classes I to V, with class I representing the best site and class V, the poorest. A 20 year-old Gmelina plantation in the study area attained average dominant height of 30.8 m, 26.8 m and 23.3 m on site classes I, III and V, respectively. Since areas of good site quality are synonymous with areas of high volume production, it was recommended that harvesting at the end of 20 years rotation should commence from the best sites. It was also recommended that further establishment of Gmelina timber plantations should be concentrated on the best sites."}
+	}}

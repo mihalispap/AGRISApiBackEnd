@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Serum 17 Ã¢Ã¢ Ã¢Ã¢ Ã¢- oestradiol, progesterone and cortisol level during biological stress period of normal and sub-oestrous cycles of crossbred cattle of Asom",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":676,
+	"dc:subject":[
+		{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"ritmos biologicos",
+	"xml:lang":"esp"
+	},
+	{"value":"estres",
+	"xml:lang":"esp"
+	},
+	{"value":"rythme biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"oestrous cycle",
+	"xml:lang":"eng"
+	},
+	{"value":"oestrogens",
+	"xml:lang":"eng"
+	},
+	{"value":"progesterone",
+	"xml:lang":"fre"
+	},
+	{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"biological rhythms",
+	"xml:lang":"eng"
+	},
+	{"value":"stress",
+	"xml:lang":"fre"
+	},
+	{"value":"progesterona",
+	"xml:lang":"esp"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"cycle oestral",
+	"xml:lang":"fre"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"estrogenos",
+	"xml:lang":"esp"
+	},
+	{"value":"ciclo estral",
+	"xml:lang":"esp"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	},
+	{"value":"oestrogene",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":678,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000136",
+	"dct:identifier":"IN2015000136",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bonia, K.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goswami, J."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"The study was planned to compare serum 17Ã¢- oestradiol, progesterone and cortisol level during biological stress period of normal and sub-oestrous cycles of crossbred cattle of Asom. Jugular blood samples were collected from ten normal cyclic and ten sub-oestrous cows on day 0, 5, 10, 15 and 20 of cycles for the present study. These 3 hormones were estimated by using radioimmunoassay technique. Both 17Ã¢- oestradiol and progesterone concentrations in serum were varied significantly (P0.01) between days of oestrous cycles of normal and sub-oestrous conditions. But these levels were not varied significantly between the two types of cyclic cows of the investigation where lowest level of progesterone with concomitant highest level of 17Ã¢- oestradiol were recorded on the day of oestrus. On the other hand, highest concentration of progesterone with lowest concentration of 17Ã¢- oestradiol were found on the day 15 of cycles of the both groups. The mean levels of cortisol varied significantly between days of cycles with highest level on the day of oestrus with no significant variation 2 groups of cows.",
+	"xml:lang":"eng"
+	}
+	}}

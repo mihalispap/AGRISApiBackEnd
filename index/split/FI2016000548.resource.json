@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of cultivars and sowing dates on yield and quality of Gossypium hirsutum L. crop.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hakoomat Ali
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Afzal, M. N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shakeel Ahmad
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dilbaugh Muhammad
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fibres"},
+	{"value":"cotton"},
+	{"value":"cotton ginning"},
+	{"value":"chemicophysical properties"},
+	{"value":"varieties"},
+	{"value":"subtropical zones"},
+	{"value":"precocity"},
+	{"value":"sowing date"},
+	{"value":"crop yield"},
+	{"value":"quality"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000548",
+	"dct:identifier":"FI2016000548",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

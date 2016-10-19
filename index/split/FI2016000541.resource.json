@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil use and management strategy for raising food and cash output in Rwanda.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rutunga, Venant.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Janssen, Bert H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mantel, Stephan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Janssens, Marc.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant production"},
+	{"value":"animal production"},
+	{"value":"farm income"},
+	{"value":"soil fertility"},
+	{"value":"erosion"},
+	{"value":"land management"},
+	{"value":"agriculture"},
+	{"value":"soil conservation"},
+	{"value":"food production"},
+	{"value":"Rwanda"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000541",
+	"dct:identifier":"FI2016000541",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

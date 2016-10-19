@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/8542/10223",
+	"dct:language":"eng",
+	"dct:title":{"value":"Feasibility of paper mulches in crop production : a review.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Haapala, Tapani,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Palonen, Pauliina,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korpela, Antti,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahokas, Jukka,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil temperature"},
+	{"value":"soil water"},
+	{"value":"plant production"},
+	{"value":"ympäristö"},
+	{"value":"environment"},
+	{"value":"soil water content"},
+	{"value":"maaperä"},
+	{"value":"mulches"},
+	{"value":"hajoaminen"},
+	{"value":"puutarhaviljely"},
+	{"value":"mulching"},
+	{"value":"katteet"},
+	{"value":"kasvinviljely"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000457",
+	"dct:identifier":"FI2016000457",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

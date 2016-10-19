@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The contribution of abscisic acid to sorbitol accumulation in drought-stressed Malus hupehensis"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2012373269",
+	"dct:identifier":"FI2012373269",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a37.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Meng, Yanling (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Xu, Xuefeng (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khanizadeh, Shahrokh (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhang, Maojun (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wang, Qiang (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Han, Zhenhai (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The relationship between abscisic acid (ABA) and sorbitol accumulation in plants under drought stress was studied in Malus hupehensis by exogenously applied ABA and its inhibitor NDGA (nordihydroguaiaretic acid), with three independent experiments of whole plants, split-root plants and detached leaves. A 20% PEG (polyethylene glycol), 25 µmol.L-1 ABA and 25 µmol.L-1 ABA + 20% PEG treatment significantly increased the sorbitol content in leaves and phloem and S6PDH and SDH activity in leaves; a 25 µmol.L-1 ABA + 20% PEG treatment induced significantly higher sorbitol content in their leaves than 20% PEG or 25 µmol.L-1 ABA treatments alone; and a 50 µmol.L-1 NDGA + 20% PEG treatment did not increase sorbitol accumulation, S6PDH activity and SDH activity in leaves under drought stress. These results show that ABA is directly involved in sorbitol accumulation in leaves mainly by enhancing sorbitol biosynthesis via up-regulating S6PDH and SDH activity and sorbitol transport in phloem, and this procedure is ABA-dependent. The results of the roots experiments with whole plants and split-root plants differed from those of the experiments with leaves. Although the 20% PEG, 25 µmol.L-1 ABA and 25 µmol.L-1 ABA + 20% PEG treatments increased the sorbitol accumulation and decreased SDH activity in roots, a 50 µmol.L-1 NDGA + 20% PEG treatment did not inhibit the increase of sorbitol accumulation and decrease of SDH activity in plants under drought stress, ABA might indirectly induce sorbitol accumulation in roots under drought stress."}
+	}}

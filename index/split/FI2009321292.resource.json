@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of near infrared (NIR) spectroscopy and electronic nose (EN) techniques to analyse the conservation quality of farm silages"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009321292",
+	"dct:identifier":"FI2009321292",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Masoero, Giorgio (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sala, Giacomo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Peiretti, Pier Giorgio (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Near infrared (NIR) spectroscopy methods are now widely used in animal science to predict the chemical composition of forages and other foods, including silage. NIR is a convenient and rapid alternative to chemistry methods, which are expensive and time consuming. However, silage analysis using NIR has so far been limited to oven-dried samples, because volatile compounds are lost during the drying process. The development of NIR techniques for fresh silage would improve efficiency by eliminating the drying and grinding processes and would prevent volatile losses. The aim of this study was to examine the feasibility of predicting fermentation characteristics in fresh silage using an NIR spectrometer or an electronic nose. Silage samples were taken from 19 Italian stock farms and were analyzed for dry matter (DM), pH, buffering capacity (BC), total N, soluble N, ammonia N, alcohols, lactic acid and volatile fatty acids (VFA). The wide range of variation observed in the conservation quality seemed adequate to cover a wide variation in Italian farm silages. NIR analyses of the 33 silage samples were carried out with a Lab-SPEC PRO (ASD) in a 350-2500 nm spectral range. The Modified Partial Least Squares (MPLS) regression technique with cross-validation was used to develop the NIR calibrations. The 1-VR values obtained for the physico-chemical analyses (alcohols, VFA and N measurements) indicate some prediction capabilities (1-VR = 0.87÷0.21). Fresh silage samples were also analyzed using a ten-MOS electronic nose (EN) device (AIRSENSE). This technique gives better results than NIR spectroscopy for the total VFA (0.70 vs. 0.42 for NIR), BC (0.81 vs. 0.77) and the ammonia N (0.55 vs. 0.47) while the total alcohols were less recognized by the EN because of a failure in the methanol prediction and the pH was totally unpredicted (0.01 vs. 0.87). In conclusion, even within the wide variability observed, the NIR spectroscopy and EN techniques offer interesting possibilities of providing quick, easy and low-cost information relevant to the stocking and to the monitoring of the main quality parameters in farm silage."}
+	}}

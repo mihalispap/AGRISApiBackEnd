@@ -1,0 +1,90 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Does ECG influence the conception rate Nelore cows presenting different body condition scores submitted to the same timed-AI protocol?",
+	"xml:lang":"eng"
+	},
+	{"value":"   O uso de ECG influencia a taxa de concepção em vacas Nelore de diferentes condições corporais submetidas ao mesmo protocolo de IATF? ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"fertility",
+	"xml:lang":"eng"
+	},
+	{"value":"zebu",
+	"xml:lang":"eng"
+	},
+	{"value":"beef cattle",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01267",
+	"dct:identifier":"BR2015F01267",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1390827307.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"DIAS, E. A. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, L. Z."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ARRUDA, R. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VIDESCHI, R. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GRAFF,  H. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SOUSA, A. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MONTEIRO,  F. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RIBEIRO,  E. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CARREIRA, J. T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ATIQUE NETTO, H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PERES, R. F. G."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"n = 463) apresentaram, respectivamente, TC de 47,6% e 51,2%. Os grupos de animais com maior ECC (Grupo 4 = ECC 3,5 a 4,0"},
+	{"value":"n = 139) had a CR of 47.4%. The animals with BCS from 2.5 to 2.75 (Group 2",
+	"xml:lang":"por"
+	},
+	{"value":"n = 231) apresentou TC de 45,3% (P > 0,05). Concluiu-se que as taxas de concepção foram semelhantes entre os animais apresentando diferentes ECC no rebanho, provavelmente pelo eCG compensar a baixa pulsatilidade de LH dos animais mais magros. Porém, recomenda-se maiores estudos para verificar a real necessidade do uso de eCG em animais de condição corporal superior a 3,5."},
+	{"value":"The aim of this study was to evaluate the conception rate (CR) of multiparous Nelore cows presenting different body condition scores (BCS), which were submitted to the same Timed-AI protocol with equine chorionic gonadotrophin (eCG). A total of 1574 cows were inseminated, between 40 and 50 days postpartum. During insemination (timed-AI), all data regarding to bull (n=8), inseminator (n=3) and BCS (1 to 5) were recorded. The pregnancy diagnosis was performed, by ultrasonography, 40 days after timed-AI. No effect (P>0.05) of inseminator or bull was observed. No statistical difference was also observed between the groups of animals with different BCS. The animals with lower BCS (Group 1 = BCS 1.5 to 2.0",
+	"xml:lang":"eng"
+	},
+	{"value":"n = 463) had a CR of 47.6% and 51.2%, respectively. The animals with higher BCS (Group 4 = BCS 3.5 to 4.0"},
+	{"value":"O objetivo deste estudo foi avaliar a taxa de concepção (TC) de vacas multíparas da raça Nelore apresentando diferentes escores de condição corporal (ECC), que foram submetidas ao mesmo protocolo de inseminação artificial em tempo fixo (IATF) com o emprego da gonadotrofina coriônica equina (eCG). Foram inseminadas 1574 vacas da raça Nelore, com 40 a 50 dias pós-parto. Durante as IATFs, os dados referentes ao touro (n = 8), inseminador (n = 3) e ECC foram anotados, sendo a nota do ECC aferida de 1 a 5 por técnico experiente. O diagnóstico de gestação foi realizado, por ultrassonografia, 40 dias após a IATF. Não foi observado efeito (P > 0,05) de inseminador ou touro na TC. Também não se observou diferença estatística desta taxa entre os grupos de animais separados de acordo com os ECCs. O grupo de animais com menor ECC (Grupo 1 = ECC 1,5 a 2,0"},
+	{"value":"n = 139) apresentou TC de 47,4%. Os grupos de animais com ECC entre 2,5 a 2,75 (Grupo 2"},
+	{"value":"n = 741) e com ECC entre 3,0 a 3,25 (Grupo 3"},
+	{"value":"n = 741) and BCS from 3.0 to 3.25 (Group 3"},
+	{"value":"n = 231) had a CR of 45.3% (P > 0.05). It was concluded that conception rates were similar between the animals presenting different BCS in the herd, likely because the eCG minimized the effects of low LH pulsatility in animals presenting reduced nutritional condition. However, other studies are recommended to verify the real need of using eCG in animals with body condition exceeding 3.5."}
+	]
+	}}

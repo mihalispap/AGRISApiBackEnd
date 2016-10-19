@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Induced defence responses of cereals to pathogen attack.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Peltonen, Sari.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"disease resistance"},
+	{"value":"resistenssi"},
+	{"value":"indusoiva resistenssi"},
+	{"value":"puolustusmekanismit"},
+	{"value":"ligniini"},
+	{"value":"kasvitaudit"},
+	{"value":"pathogens"},
+	{"value":"biokemiallinen resistenssi"},
+	{"value":"viljakasvit"},
+	{"value":"viljat"},
+	{"value":"taudinkestävyys"},
+	{"value":"plant diseases"},
+	{"value":"cereal crops"},
+	{"value":"phenolic compounds"},
+	{"value":"taudinaiheuttajat"},
+	{"value":"gene expression"},
+	{"value":"plant response"},
+	{"value":"defense mechanisms"},
+	{"value":"fenolit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001233",
+	"dct:identifier":"FI2016001233",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

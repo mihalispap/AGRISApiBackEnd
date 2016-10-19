@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Knowledge level of the goat farmers and effectiveness of special livestock protection scheme in erode district of Tamil Nadu",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":244,
+	"dc:subject":[
+		{"value":"learning",
+	"xml:lang":"eng"
+	},
+	{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"vulgarisation",
+	"xml:lang":"fre"
+	},
+	{"value":"aprendizaje",
+	"xml:lang":"esp"
+	},
+	{"value":"extension activities",
+	"xml:lang":"eng"
+	},
+	{"value":"apprentissage",
+	"xml:lang":"fre"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"extension",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":249,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000407",
+	"dct:identifier":"IN2015000407",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mohanasundarraj, G.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tripathi, Hema"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"This paper focuses the lessons, successes, and perceived effectiveness of Special Livestock Protection Scheme gained through its veterinary services on improvement of goat health, production and socio-economic conditions of the goat farmers of Erode district in Tamil Nadu. Atotal 120 goat farmers were drawn from four remote villages of plain and hilly areas. The data from the respondents were collected through the specially designed and pre- tested interview schedule. The study revealed that the majority of farmers selected had medium level of knowledge in various aspects of goat farming. The knowledge level among farmers in plain areas was medium followed by high except for breeding practices, which was medium to low. The knowledge level among farmers in hilly areas was however, towards medium to low in all aspects. Majority of the farmers perceived that services under the scheme could improve the conception rate in their flock and general health status of animals. Fifty-five per cent respondents reported increase in flock size and 37.5% improved the extension contact and knowledge in goat farming due to the services under the scheme. Positive and significant (P0.01) relationship was found between education, extension contact, information seeking behavior, knowledge level in goat farming and income from goat farming with the overall effectiveness of scheme.",
+	"xml:lang":"eng"
+	}
+	}}

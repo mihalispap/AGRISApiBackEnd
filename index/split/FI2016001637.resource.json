@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Economic impacts on the forest sector of increasing forest biodiversity conservation in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hänninen, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kallio, Maarit I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"nature conservation"},
+	{"value":"taloudelliset vaikutukset"},
+	{"value":"biodiversity"},
+	{"value":"metsäsektori"},
+	{"value":"Finland"},
+	{"value":"markets"},
+	{"value":"metsätalous"},
+	{"value":"roundwood"},
+	{"value":"metsiensuojelu"},
+	{"value":"luonnon monimuotoisuus"},
+	{"value":"forest products industry"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001637",
+	"dct:identifier":"FI2016001637",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

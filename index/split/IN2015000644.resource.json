@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Trend analysis and forecasting coconut production in Assam",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":238,
+	"dc:subject":[
+		{"value":"trend analysis"},
+	{"value":"ARIMA"},
+	{"value":"coconut production"},
+	{"value":"technique de prevision",
+	"xml:lang":"fre"
+	},
+	{"value":"forecasting",
+	"xml:lang":"eng"
+	},
+	{"value":"tecnicas de prediccion",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":241,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000644",
+	"dct:identifier":"IN2015000644",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sandip Shil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Acharya, G.C"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paul, S.C"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Soumen Paul"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

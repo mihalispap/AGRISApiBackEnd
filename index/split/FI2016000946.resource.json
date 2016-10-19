@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Microsatellite variations of Quercus aquifolioides  populations at varying altitudes in the Wolong Natural  Reserve of China.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zhang, Xuejiang.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korpelainen, Helena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Li, Chunyang.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic variation"},
+	{"value":"mikrosatelliitit"},
+	{"value":"altitude"},
+	{"value":"Quercus"},
+	{"value":"tammet"},
+	{"value":"altitudinal gradients"},
+	{"value":"muuntelu"},
+	{"value":"populaatiogenetiikka"},
+	{"value":"microsatellites"},
+	{"value":"Quercus aquifolioides"},
+	{"value":"genetic differentiation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000946",
+	"dct:identifier":"FI2016000946",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

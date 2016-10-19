@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of primary culture from gills of Tor tor (Hamilton-buchanan)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1262,
+	"dc:subject":[
+		{"value":"branchie",
+	"xml:lang":"fre"
+	},
+	{"value":"piscicultura",
+	"xml:lang":"esp"
+	},
+	{"value":"fish culture",
+	"xml:lang":"eng"
+	},
+	{"value":"pisciculture",
+	"xml:lang":"fre"
+	},
+	{"value":"tor tor",
+	"xml:lang":"esp"
+	},
+	{"value":"branquias",
+	"xml:lang":"esp"
+	},
+	{"value":"gills",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1265,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000336",
+	"dct:identifier":"IN2015000336",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kamalendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kapoor, Smita"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goswami, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rathore, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lakra, W.S."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"Primary culture of gill cells was initiated from gill filament explants of game fish, Tor tor. The explants were cultured in Leibovitz L-15 medium with 5, 10 and 20% foetal bovine serum (FBS). The attachment efficiency of cells was serum-dependent, while increased FBS concentration did not stimulate further proliferation of cells. First radiation of typical gill epithelial cells was observed after 38 h, of attachment of explants. There was high proliferation for the first 7 days then a stable plateau till 10 days, followed by a decline phase from 14 th  day. Following removal of cells, the explants produced further cell outgrowth which was especially active at the proliferation phase (10 days). Removal of these cells caused the explants to produce a further proliferation of cells reaching confluency in 4â10 days. The use of gill explants to establish cell culture system of fish has advantages which include longevity of the culture and successive proliferations from explants, which could provide a useful tool for the investigation of toxicological and diagnostic studies.",
+	"xml:lang":"eng"
+	}
+	}}

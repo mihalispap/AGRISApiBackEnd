@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bayesian and multivariate analysis of buffaloes of Indo-Gangetic plains for revealing cryptic spatial patterns of genetic variability",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1039,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"microsatellite",
+	"xml:lang":"fre"
+	},
+	{"value":"microsatelites",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"metodos estadisticos",
+	"xml:lang":"esp"
+	},
+	{"value":"distribution geographique",
+	"xml:lang":"fre"
+	},
+	{"value":"geographical distribution",
+	"xml:lang":"eng"
+	},
+	{"value":"spatial distribution",
+	"xml:lang":"eng"
+	},
+	{"value":"statistical methods",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"distribucion geografica",
+	"xml:lang":"esp"
+	},
+	{"value":"distribucion espacial",
+	"xml:lang":"esp"
+	},
+	{"value":"inde",
+	"xml:lang":"fre"
+	},
+	{"value":"distribution spatiale",
+	"xml:lang":"fre"
+	},
+	{"value":"india",
+	"xml:lang":"esp"
+	},
+	{"value":"microsatellites",
+	"xml:lang":"eng"
+	},
+	{"value":"methode statistique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1043,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000274",
+	"dct:identifier":"IN2015000274",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Upasna, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Banerjee, Priyanka"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joshi, Jyoti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vijh, R.K."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The blood samples of 625 buffaloes collected from 34 sampling locations of Indo-Gangetic plains were collected and DNA isolated. The genotype data was generated on these animals using 11 microsatellite markers. The multilocus genotype data were analysed to decipher the genetic structures. The data analysis utilised the spatial coordinates to reveal the cryptic spatial patterns of genetic variability. The Bayesian as well as spatial multivariate analysis revealed 5 populations of buffaloes belonging to Indo-Gangetic plains. The F IS  and F  values were calculated for various populations or clusters formed. The 5 clusters formed using Geo-referenced multilocus genotypes are not in geographic contiguity but reveal cryptic spatial patterns.",
+	"xml:lang":"eng"
+	}
+	}}

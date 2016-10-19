@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e18.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of NaCl priming on cucumber seedling growth under salinity stress"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Esmaielpour, B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghassemi-Golezani, K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khoei, F. Rahimzadeh (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gregoorian, V. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toorchi, M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100058",
+	"dct:identifier":"FI2016100058",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Seeds of two Iranian cucumber cultivars, Basmenj and Varamin, were primed (P) with 15 dS m-1 NaCl solution for 36 h at 20°C. Non-primed (NP) and primed (P) seeds were sown in trays containing perlite. The trays were placed in an unheated greenhouse and irrigated with different levels of NaCl solution (0.3 (control), 2.5, 5, 9 and 13 dS m-1 ) for a period of 4 weeks. Total emergence, emergence rate, radicle length and dry weight of seedlings derived from P seeds were higher than NP seeds. NaCl priming increased uptake of K and Ca and accumulation of proline in cucumber seedlings. These results indicated that NaCl priming increased salt tolerance of cucumber seedlings by promoting K and Ca accumulation in addition to inducing osmoregulation by accumulation of proline."}
+	}}

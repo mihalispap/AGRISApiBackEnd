@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Desempenho de borregas Santa Inês suplementadas com mistura múltipla com níveis crescentes de uréia em substituição ao farelo de soja ",
+	"xml:lang":"por"
+	},
+	{"value":"Performance of Santa Inês ewe lambs suplemented with protein salt with increasing urea levels in replacement to soybean meal",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"live weight",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02254",
+	"dct:identifier":"BR2015F02254",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1242242092.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"OKAMOTO,  F"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA,  R. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CUNHA,  E. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BUENO, M. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA JÚNIOR,  J. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA,  M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS,  L. E."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Avaliou-se o desempenho de 36 borregas da raça Santa Inês, com cerca de 18 meses de idade, alimentadas com cana-de-açúcar picada (75%) e silagem de milho (25%) com acesso a mistura sem uréia ou com uréia (10 ou 15%) na sua composição, em substituição ao farelo de soja. O delineamento estatístico foi em blocos ao acaso e as variáveis submetidas a análise de regressão com os níveis crescentes de inclusão de uréia na mistura. Os animais consumiram em média 188g/dia da mistura múltipla. O aumento da inclusão de uréia na mistura não causou modificação (P>0,05) no ganho de peso dos animais (141g/dia), na ingestão de MS (2,31% do peso vivo) e na conversão alimentar (6,53kg de MS/kg de ganho de peso vivo). Os teores de uréia plasmática aumentaram significativamente (Y=21,29 + 5,14X, R2=36,6",
+	"xml:lang":"por"
+	},
+	{"value":"P"},
+	{"value":"Evaluation of the 36 Santa Inês ewe lambs performance , with different live-weight, averaging 18 months old, fed on sugar cane (75%) and maize silage (25%) with access to protein salt without or with 10 or 15% of urea on its composition, in replacement of soybean meal. It was used a random block experimental design and the data submitted to regression analyses to evaluate the level of urea in the protein salt. The ingestion of protein salt was 188g/day. The increase of the urea inclusion in the protein salt did not (P>0.05) modify live weight gain (141g/day), as well as DM intake and feed conversion (6.53kg dry matter/kg body gain). The levels of plasmatic urea increased (Y=21.29+5.14X, R2=36.6, P",
+	"xml:lang":"eng"
+	}
+	]
+	}}

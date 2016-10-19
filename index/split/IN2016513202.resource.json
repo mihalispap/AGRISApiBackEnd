@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"Evaluating the Radiation Risk of Ionization Smoke Detector by MCNPX code; A Radioactive Contaminated Product",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"radiation",
+	"xml:lang":"eng"
+	},
+	{"value":"ionization",
+	"xml:lang":"eng"
+	},
+	{"value":"sensors",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513202",
+	"dct:identifier":"IN2016513202",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=42",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khaleghi  M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hashemi-Tilehnoee M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Ionization smoke sensors are the best smoke sensors",
+	"xml:lang":"eng"
+	},
+	{"value":"however, the small amount of radioactive source they include is no longer desirable since it makes recycling more complicated where the people encountered with radioactive waste. In this study, a conventional ionization type smoke sensor which contained americium-241 radioactive source modelled by Monte Carlo MCNPX code. The absorbed dose rate is calculated by MCNPX code where the human tissue meddled as a soft tissue material. The dosimetry results are comparable with the experimental safety margins. It concluded that if the ionization smoke sensors positioned at a right distance from the human body, so the radiation risk and the exposure hazard can be lower than the exposure level of the background radiation."}
+	]
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Variations in photo- and thermal sensitivities among local, improved and exotic kenaf accessions in Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Balogun, M. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Raji, J. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akande, S. R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ogunbodede, B. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Nigeria"},
+	{"value":"fibre crops"},
+	{"value":"photosensitivity"},
+	{"value":"varieties"},
+	{"value":"Hibiscus cannabinus"},
+	{"value":"climatic factors"},
+	{"value":"genetic diversity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001915",
+	"dct:identifier":"FI2016001915",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Changes in biochemical constituents and defense related enzymes in response to red spider mite incidence in tea",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":202,
+	"dc:subject":[
+		{"value":"antioxidant enzymes,Camellia spp, quality parameters, red spider mite"},
+	{"value":"enzyme",
+	"xml:lang":"fre"
+	},
+	{"value":"enzimas",
+	"xml:lang":"esp"
+	},
+	{"value":"enzymes",
+	"xml:lang":"eng"
+	},
+	{"value":"camelia sinensis",
+	"xml:lang":"esp"
+	},
+	{"value":"camellia sinensis",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":208,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000638",
+	"dct:identifier":"IN2015000638",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shalini, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raj Kumar, R"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"In recent years, red spider mite (RSM), Oligonychus coffeae (Nietner) menace challenged the crop productivity in tea. Though the reports on bush physiology are available, a compressive data on changes in biochemical constituents including enzymes is lacking. Crop shoots were collected from the field grown tea plants (UPASI-3 &UPASI-10) and segregated into healthy, moderately infested (~4 mites leafâ1) and severely infested (4 mites leafâ1). The crop shoots were used fordetermining the biochemical constituents and quality. Stress-related enzymes such as catalase, superoxide dismutase,glutathione reductase and ascorbate peroxidase were also analysed. Irrespective of the RSM damage, UPASI-3 significantly recorded higher amount of polyphenols, catechins, amino acids, reducing sugars and carotenoids. UPASI-10 possessed higher amount of total chlorophylls than that of UPASI-3. Irrespective of the clones, polyphenols, catechins, and pigments linearly decreased with severity of RSM infestation while reducing sugars and hydrogen peroxide linearly increased. Irrespective of the RSM damage, crop shoots of UPASI-10 contained significantly lower amount of quality parameters and stress-related enzymes, except polyphenol oxidase. Though quality related enzymes enhanced due to RSM attack initially and declined when the RSM infestation was severe. All the stress related enzymes progressively increased with the increasing degree of RSM damage. Interactions between activities of enzymes and clones with respect to RSM damage were elucidated.",
+	"xml:lang":"eng"
+	}
+	}}

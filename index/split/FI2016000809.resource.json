@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of environmental characteristics to industrialization : a case study of the Onne Oil and Gas Free Zone, Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ayotamuno, Josiah M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kogbara, Reginald B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"groundwater"},
+	{"value":"industrialization"},
+	{"value":"Niger"},
+	{"value":"environment"},
+	{"value":"pollutants"},
+	{"value":"surface water"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000809",
+	"dct:identifier":"FI2016000809",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

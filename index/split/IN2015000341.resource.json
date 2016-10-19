@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on the Utilization of Rock Phosphate without and with Aluminium as Alternate to Dicalcium Phosphate in Egg Type Starter Chicken",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":35,
+	"dc:subject":[
+		{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"gallina ponedora",
+	"xml:lang":"esp"
+	},
+	{"value":"fosfato mineral",
+	"xml:lang":"esp"
+	},
+	{"value":"layer chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"rock phosphate",
+	"xml:lang":"eng"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	},
+	{"value":"phosphate naturel",
+	"xml:lang":"fre"
+	},
+	{"value":"poule pondeuse",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":44,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000341",
+	"dct:identifier":"IN2015000341",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nayak, Sunil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baghel, R.P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nayak, Anju"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"In order to reduce the cost of mineral mixture in egg type starters, present study was planned to assess the utilization of rock phosphate (RP) without and with aluminium sulphate as an alternate to dicalcium phosphate (DCP) in their mineral mixture. Four hundred and five day-old White Leghorn chicks were randomly distributed to nine dietary treatments, each with three replicates of 15 chicks. Diet T1 served as control; in diets T2, T4, T6 and T8 DCP of the control ration was replaced with RP at 40, 60, 80 and 100% levels, respectively, whereas, diets T3, T5, T7 and T9 were the same as T2, T4, T6 and T8 except for the addition of aluminium (as sulphate) at a ratio of 0.8 Al: 1.0 F. The experiment was conducted for 0â8 weeks. The overall performance of the chicks indicated that increase in RP instead of DCP reduced the weight gain of chicks which became significant (P0.05) when RP was used above 40% level. Use of higher levels of RP caused significant reduction in feed intake, feed efficiency ratio and performance index. Similarly, DM utilization and nutrient retentions (CP, EE, CF, NFE, Ca and P) were also maximum and significantly (P0.05) higher in the birds fed the T2 (40% RP) diet. However, serum ALP, ALT and AST activities were normal in birds receiving up to 60% RP (T4) beyond which the values showed increases. Similarly, serum levels of Ca, P, Cu, Fe, Mn and Zn were also not affected except at higher levels of RP wherein the values showed reducing trends. Serum F concentration was found to be directly related to the levels of RP used. Use of RP along with aluminium sulphate instead of DCP did not influence their weight gain, feed intake, FER and PI up to 60% level along with other measured parameters. The cost per kg weight gain increased due to use of higher levels of aluminium sulphate. Hence, it is concluded that RP could be used to replace DCP at 40% when used alone, and at 60% level when used along with aluminium sulphate in the mineral mixture of egg type starters. However, supplementation of aluminium sulphate to RP may not be an economical proposition.",
+	"xml:lang":"eng"
+	}
+	}}

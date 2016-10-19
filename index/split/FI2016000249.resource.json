@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Pine mortality after planting on post-agricultural lands in South Africa.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zwolinski, Janusz B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    South, David B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Droomer, E. A. P.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sienitaudit"},
+	{"value":"afforestation"},
+	{"value":"metsitys"},
+	{"value":"kuolleisuus"},
+	{"value":"mortality"},
+	{"value":"ravinteet"},
+	{"value":"soil scarification"},
+	{"value":"taimet"},
+	{"value":"Pythium"},
+	{"value":"Phytium"},
+	{"value":"laikutus"},
+	{"value":"Pinus patula"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000249",
+	"dct:identifier":"FI2016000249",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

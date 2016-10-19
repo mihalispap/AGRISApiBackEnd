@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Levantamento das dificuldades encontradas pelas certificadoras na implantação da rastreabilidade bovina no Brasil ",
+	"xml:lang":"por"
+	},
+	{"value":"Survey on the chief difficulties found by government accredited certifiers for implementation of catlle traceability",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"traceability",
+	"xml:lang":"eng"
+	},
+	{"value":"safety",
+	"xml:lang":"eng"
+	},
+	{"value":"foods",
+	"xml:lang":"eng"
+	},
+	{"value":"beef cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"production",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01546",
+	"dct:identifier":"BR2015F01546",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2010-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1302292905.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"LOPES, M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERRAZZA,  R. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DEMEU,  A. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRUHN, F. R. P."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The main purpose of this research was to survey the chief fifficulties found by MAPA in the implementation of traceability, also aiming to elaborate indicators, suggest proposals to solve such difficulties and contribute for the formulation of national policies. A semi-structured qualitative questionnaire, containing multiple choice questions, both open and mixed, was used. That questionnaire was sent to the certifying firms accredited by MAPA. The data obtained were tabulated by utilizing the EpiData® 3.1 software, with automatic control of range and consistency of data and afterward, analyzed by means of means of descriptive statistics, making use of the statistical software SPSS for Windows®- version 17.0. The frequent changes in the norms of new SISBOV, the disinterest and the lack of awareness of the cattle raisers for traceability were the main difficulties faced by the certifiers. Transformations on the part of MAPA summed to the mobilization of the raisers through the spread and explanations are needed to solve such difficulties. The need for adequacies inherent to incoherence and outdating of the data bank of the certifiers accredited in MAPA is stressed further.",
+	"xml:lang":"eng"
+	},
+	{"value":"Esta pesquisa teve como objetivo realizar o levantamento das principais dificuldades encontradas pelas certificadoras credenciadas pelo Ministério da Agricultura Pecuária e Abastecimento (MAPA) na implantação da rastreabilidade, visando elaborar indicadores, sugerir propostas para sanar tais dificuldades e contribuir na formulação de políticas nacionais. Foi formulado um questionário qualitativo semi-estruturado, contendo vinte e seis questões de múltipla escolha, abertas e mistas. Este questionário foi enviado às empresas certificadoras credenciadas pelo MAPA. Os dados obtidos foram tabulados utilizando-se o programa EpiData® 3.1, com controle automático de amplitude e consistência de dados, e, posteriormente, analisados por meio de estatísticas descritivas, utilizando-se o programa estatístico SPSS for Windows®- versão 17.0. As mudanças frequentes nas normas do SISBOV, o desinteresse e a falta de conscientização dos pecuaristas para a rastreabilidade foram as principais dificuldades enfrentadas pelas certificadoras. Transformações por parte do MAPA, somadas a mobilização dos pecuaristas através de divulgação e esclarecimentos são necessários para sanar tais dificuldades. Ressalta-se ainda, a necessidade de adequações inerentes à incoerência e desatualização do banco de dados das certificadoras credenciadas no MAPA.",
+	"xml:lang":"por"
+	}
+	]
+	}}

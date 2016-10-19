@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"Foliar Carbon Isotope Discrimination and Water Sources of Mangrove Forests Along Natural Soil Salinity Gradients and Implications for Their Distribution Pattern",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"mangroves",
+	"xml:lang":"eng"
+	},
+	{"value":"soil salinity",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513183",
+	"dct:identifier":"IN2016513183",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=37",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Huang Minshen"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Li Qing"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Le Tongchao"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tan Fanglin"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Field species composition investigation showed an obvious zonation pattern of three main species of mangrove forests along Zhangjiang estuary. Aegiceras corniculata was mostly found in upstream and Avicennia marina mainly distributed in intermediate and downstream, while Kandelia obovata grows across the estuary and a majority in upstream and intermediate. Foliar carbon isotope discrimination of the three species, decreased from both upstream to downstream and wet to dry season, indicated their increased water use efficiency to increased soil salinity and decreased availability of freshwater. Increased ocean water uptake ratio (increased d18O values) of all the three species from upstream to downstream further indicated their adaptations to decreased availability of freshwater. Decreased responses of water use efficiency in response to ocean water uptake ratio were also observed in all the three species. Significant relations observed in Avicennia marina and Kandelia obovata may indicate their higher adaptations to increased ocean water uptake than Aegiceras corniculata with no significant relationships, which may explain why the distribution of Aegiceras corniculata was confined to the low salinity area. All the results above, implicated that the zonation pattern of mangrove forests were linked to their physiological process on how water use efficiency responded to change of ocean water uptake ratio.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/e10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Inventory, crop use and soil subsidence of Histosols in Florida"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Morris, Dolen R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gilbert, Robert A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100107",
+	"dct:identifier":"FI2016100107",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Histosols are a fragile natural resource, and subside when drained due to organic matter oxidation by aerobic microorganisms. The purpose of this study was to report on the inventory and crop use of Histosols in Florida, USA and evaluate current crop uses for potential to reduce soil subsidence. An inventory of Histosols in Florida was conducted by counting the hectares of Histosols in NRCS (USDA, Natural Resources Conservation Service) soil surveys and estimating number of hectares of Histosols from old soil surveys in areas of Florida that were not mapped by NRCS. Crop inventory surveys were sent to NRCS or county extension agents in all counties of Florida to obtain an estimate of cropped hectares. There are 1.6 million ha of Histosols in Florida. Eighty-five percent of all counties in Florida have more than 4,000 ha of Histosols. The largest areas of Histosols are located in the Everglades, upper St. Johns River/Fellsmere region, and Polk county. About 12% of the Histosols in Florida are cropped with sugarcane (Saccharum spp.), pasture and timber, which represent 92% of all the cropped hectarage. Growing crops under flooded conditions would result in the lowest soil subsidence rates, but profitability of flooded crops such as rice is low. Since past research has shown sugarcane fields have lower soil subsidence rates than pasture (various species) and vegetable crops (various species), and since pasture and timber (various species) are not tilled (tillage increases soil organic mattter oxidation rates compared with no tillage), it appears that the best agricultural use of most Histosols for economic benefits and low soil subsidence are currently being practiced in Florida."}
+	}}

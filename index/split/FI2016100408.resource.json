@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of manure on retention by soil profile and uptake by soybean (Glycine max L. Merrill) – wheat (Triticum aestivum L.) crops of applied sulphur in a Vertisol in central India"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Saha, Jayanta Kumar (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100408",
+	"dct:identifier":"FI2016100408",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A field experiment was conducted in subtropical region of India on S deficient Vertisol to study the effect of organic manure on the fate of sulphur (S) applied through gypsum to soil growing soybean (rainy season) and wheat (winter season) in sequence. Farmyard manure (FYM) was applied before sowing of soybean and S was applied as gypsum at different rates before sowing of both crops for six years. Results of soil and plant sample analysis indicate that application of organic manure resulted in a decrease of the retention of applied gypsum-S particularly in sorbed fraction in upper 90 cm soil profile. Also, manure application caused significant lower uptake of S from applied gypsum. Thus less retention of S in conjunction with less uptake of S from gypsum source caused the S from applied gypsum more prone to leaching in manure treated plots."}
+	}}

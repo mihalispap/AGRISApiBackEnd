@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Perfil do consumo de pescado na cidade de Belo Horizonte ",
+	"xml:lang":"por"
+	},
+	{"value":"   MG. "},
+	{"value":"Consumption profile of fish in Belo Horizonte’s city, MG.",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":{"value":"fishery production",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"70/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00234",
+	"dct:identifier":"BR2016F00234",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1389787056.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"AQUINO, R. M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TAVARES, G. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PALHARES,  M. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS,  R. R. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BONFIM, L. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TEIXEIRA, L. V."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The aim of this study was to determine the frequency of consumption of fish flesh and derivatives in Belo Horizonte's city, to determine the major sites of acquisition and consumption of the product. The hundred ninety six people were interviewed through a quiz containing eleven questions. Data were tabulated in editing software spreadsheet and graphics generated. Fish is the least meat consumed less in Belo Horizonte's city. The frequency of consumption was two or more times a month (25,3%). Homes were the principal place of consumption (80,3%), and supermarkets were determined as site of largest acquisition (71,5%).",
+	"xml:lang":"eng"
+	},
+	{"value":"Objetivou-se determinar a frequência de consumo de pescado na cidade de Belo Horizonte e determinar principais locais de aquisição e consumo do produto. Para tanto, foram entrevistadas 396 pessoas através de um formulário contendo onze perguntas. Os dados obtidos foram tabulados em software de edição de planilha eletrônica e gráficos gerados. A carne de peixe é a menos consumida na cidade de Belo Horizonte. A frequência de consumo foi duas ou mais vezes ao mês (25,3%). O principal local de consumo foi a residência dos entrevistados (80,3%) e os supermercados foram determinados como o local de maior aquisição (71,5%).",
+	"xml:lang":"por"
+	}
+	]
+	}}

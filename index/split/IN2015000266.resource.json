@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Prevalence and characterization of rotavirus from faecal samples of children and animals",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":993,
+	"dc:subject":[
+		{"value":"diagnostico",
+	"xml:lang":"esp"
+	},
+	{"value":"calf diarrhoea rotavirus",
+	"xml:lang":"eng"
+	},
+	{"value":"rotavirus diarrhee infectieuse veau",
+	"xml:lang":"fre"
+	},
+	{"value":"diagnosis",
+	"xml:lang":"eng"
+	},
+	{"value":"rotavirus",
+	"xml:lang":"esp"
+	},
+	{"value":"rota virus diarrea de terneros",
+	"xml:lang":"esp"
+	},
+	{"value":"diagnostic",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":999,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000266",
+	"dct:identifier":"IN2015000266",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Manish Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhilegaonkar, K.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agarwal, R.K."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"Faecal samples (147; 60 bovine calf, 40 children, 47 piglets and pigs) were screened for the presence of rotavirus by RNA-PAGE and RT-PCR. The RT-PCR assay was standardized for the bovine and human rotavirus to amplify VP7 gene of the group A rotavirus. Out of 147 samples, 40 (27.2%) were found positive for rotavirus by RNA-PAGE, whereas only 15 turned out positive by RT-PCR. In bovine calves 21 (35%) and in children 19 (47.5%) cases were positive for rotaviral presence by RNA PAGE, on the contrary, RT-PCR was able to detect 7 cases of bovine (11.66%) and 8 cases of human (20%). We also showed G10 genotyping of rotavirus isolates of bovine origin by PCR. All the samples turned out to be PCR positive indicating that G10 is a predominant genotype responsible for bovine rotaviral diarrhoea in and around Bareilly region. The results indicated that direct detection of rotavirus by RT-PCR from faecal sample was not satisfactory as compared to RNA PAGE, probably due to large product size and sequence variations in  rotavirus.",
+	"xml:lang":"eng"
+	}
+	}}

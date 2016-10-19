@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Histogenesis of rumen of buffalo",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":30,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"anatomie animale",
+	"xml:lang":"fre"
+	},
+	{"value":"periodo perinatal",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"anatomia animal",
+	"xml:lang":"esp"
+	},
+	{"value":"perinatal period",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"periode perinatale",
+	"xml:lang":"fre"
+	},
+	{"value":"animal morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"rumen",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":33,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000452",
+	"dct:identifier":"IN2015000452",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Opinder Singh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Roy, K.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sethi, R.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study was conducted on the prenatal rumen of buffalo foetii with curved crown rump length (CVRL) ranging from 5.0 cm to 62.0 cm (51 to 213 days) to observe histomorphological changes during prenatal development. The lamina epithelialis was stratified, cuboidal and divisible into dark basal and light superficial zones at 5.5 cm CVRL (53 days). The nuclei of the basal zone were centric in location and eccentric in superficial zone. The ruminal papillae appeared at 19.6 cm CVRL (120 days) whereas keratohyaline granules were observed in epithelium at 38.5 cm CVRL (160 days). There was gradual increase in height of ruminal epithelium with increase in curved-crown rump length. The surface layer of epithelium became flattened and showed signs of keratinization and desquamation at 55â60 cm CVRL (198 to 211 days). The collagen and reticular fibers were well differentiated at 11.2 cm CVRL (79 days). The tunica muscularis was comprised of inner circular and outer longitudinal smooth muscle cells although reverse orientation of muscle fibers was also observed. In conclusion, rumen undergoes gradual adaptations during prenatal life prior to the intense changes that will occur at the moment of birth.",
+	"xml:lang":"eng"
+	}
+	}}

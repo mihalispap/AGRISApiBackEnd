@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Responses of olfactory receptor neurons of the large pine weevil to a possible deterrent Neutroil® and two other chemicals /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huotari, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jaskari, Mareena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Annila, Erkki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lantto, Vilho.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"reseptorit"},
+	{"value":"karkotteet"},
+	{"value":"Hylobius abietis"},
+	{"value":"hajuaisti"},
+	{"value":"houkutteet"},
+	{"value":"olfaction"},
+	{"value":"aistifysiologia"},
+	{"value":"chemicals"},
+	{"value":"repellents"},
+	{"value":"senses"},
+	{"value":"attractants"},
+	{"value":"tukkimiehentäi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002121",
+	"dct:identifier":"FI2016002121",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

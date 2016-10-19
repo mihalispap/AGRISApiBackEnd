@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Land suitability evaluation for principal crops in the Abbas Plain, Southwest Iran.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Naseri, A. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Albaji, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nasab, S. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Landi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Papan, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bavi, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vehnä"},
+	{"value":"maissi"},
+	{"value":"viljelykasvit"},
+	{"value":"maize"},
+	{"value":"crop yield"},
+	{"value":"plant production"},
+	{"value":"land evaluation"},
+	{"value":"soil texture"},
+	{"value":"barley"},
+	{"value":"maaperä"},
+	{"value":"chemicophysical properties"},
+	{"value":"soil properties"},
+	{"value":"ohra"},
+	{"value":"Iran Islamic Republic"},
+	{"value":"wheats"},
+	{"value":"land management"},
+	{"value":"fysikaalis-kemialliset ominaisuudet"},
+	{"value":"lucerne"},
+	{"value":"sinimailanen"},
+	{"value":"carbonates"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000171",
+	"dct:identifier":"FI2016000171",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

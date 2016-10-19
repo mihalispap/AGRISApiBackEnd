@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of repeated phosphorus fertilisation on field crops in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Saarela, Into.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huhta, Harri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Virkajärvi, Perttu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lannoitustarve"},
+	{"value":"Finland"},
+	{"value":"fosforilannoitus"},
+	{"value":"mineral soils"},
+	{"value":"crop yield"},
+	{"value":"hiesu"},
+	{"value":"phosphorus"},
+	{"value":"soil analysis"},
+	{"value":"fertilizer application"},
+	{"value":"peltokasvit"},
+	{"value":"sato"},
+	{"value":"lannoitus"},
+	{"value":"maalajit"},
+	{"value":"hieta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000227",
+	"dct:identifier":"FI2016000227",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

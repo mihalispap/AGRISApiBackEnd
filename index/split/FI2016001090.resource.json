@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/50930/16504",
+	"dct:language":"eng",
+	"dct:title":{"value":"Production, carcass characteristics and valuable cuts of beef breed bulls and heifers in Finnish beef cattle population .",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pesonen , Maiju,
+    kirjoittaja
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pesonen, Arto,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"teuraseläimet"},
+	{"value":"carcass composition"},
+	{"value":"heifers"},
+	{"value":"Finland"},
+	{"value":"beef cattle"},
+	{"value":"lihakarja"},
+	{"value":"ominaisuudet"},
+	{"value":"breeds (animals)"},
+	{"value":"nautakarjarodut"},
+	{"value":"nautakarja"},
+	{"value":"meat production"},
+	{"value":"teuraslaatu"},
+	{"value":"kasvu"},
+	{"value":"bulls"},
+	{"value":"muscles"},
+	{"value":"meat animals"},
+	{"value":"quality"},
+	{"value":"naudanlihantuotanto"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001090",
+	"dct:identifier":"FI2016001090",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"INVENTÁRIO DE ARANEOFAUNA (ARACHNIDA, ARANEAE) COLETADAS EM PASTAGENS NO MUNICÍPIO DE URUARÁ, PARÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":97,
+	"bibo:volume":4,
+	"bibo:pageEnd":100,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00177",
+	"dct:identifier":"BR2015N00177",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1198",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Reinaldo Lucas Cajaiba"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lucas Jesus Paixão"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sidicley Martins Santos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Idielson Mendes Barbosa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wully Barreto da Silva"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade de Trás-os-Montes e Alto Douro, Portugal"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Ecoar"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará, campus Altamira"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12.0pt; line-height: 115%; font-family: \" O conhecimento da diversidade biológica da araneofauna da Amazônia é ainda incipiente, sendo necessário ampliar as pesquisas com esses animais. As aranhas são excelentes objetos de estudo para a avaliação da organização das comunidades animais e da influência do hábitat sobre estas comunidades. Neste estudo investigamos a composição e riqueza de aranhas de solo em pastagens no município de Uruará, Pará. A pesquisa foi desenvolvida no mês de junho de 2014 através de armadilhas pitfall e coletas manuais. Como resultado, foram coletadas 99 espécimes distribuídas em seis famílias e 19 morfoespécies. A família com maior abundância foi </span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">Araneidae</span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \"  com 63 espécimes, seguida por Anapidae e Anyphaenidae com dez espécimes cada. Através do teste de Kruskal-Wallis não verificamos diferença estatisticamente significativa entre as mestodologias de coletas (p > 0,05), entretanto, as metodologias se complementaram, sendo que os espécimes </span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">Araneidae sp7, Theridiidae sp1 e Theridiidae sp3</span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \"  foram coletados através das armadilhas pitfall, enquanto </span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">Araneidae sp5 e Ctenidae sp2</span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \"  foram amostradas apenas em coletas manuais. O índice de diversidade Shannon mostrou que mesmo o ambiente bastante antroponizado, apresenta uma riqueza relativamente alta quando comparado com outras regiões mais preservadas, entretanto, a curva de rarefação de espécies não se estabilizou, mostranto que deverá ser aplicado um maior esforço amostral em coletas futuras</span>",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Behavioural studies on pollinators in sesamum",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"honey bees",
+	"xml:lang":"eng"
+	},
+	{"value":"abeja melifera",
+	"xml:lang":"esp"
+	},
+	{"value":"abeille domestique",
+	"xml:lang":"fre"
+	},
+	{"value":"sesamum",
+	"xml:lang":"esp"
+	},
+	{"value":"sesamum indicum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":189,
+	"bibo:volume":74,
+	"bibo:pageEnd":192,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000256",
+	"dct:identifier":"IN2015000256",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mohapatra L.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sontakke B.K"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

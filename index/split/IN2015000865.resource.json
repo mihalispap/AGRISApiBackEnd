@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Climate change adaptation in coconut:A coconut based farming system approach",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":28,
+	"dc:subject":[
+		{"value":"cambio climatico",
+	"xml:lang":"esp"
+	},
+	{"value":"sistemas de explotacion",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"adaptation",
+	"xml:lang":"fre"
+	},
+	{"value":"soil water content",
+	"xml:lang":"eng"
+	},
+	{"value":"adaptacion",
+	"xml:lang":"esp"
+	},
+	{"value":"sequia",
+	"xml:lang":"esp"
+	},
+	{"value":"contenido de agua en el suelo",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"secheresse",
+	"xml:lang":"fre"
+	},
+	{"value":"teneur en eau du sol",
+	"xml:lang":"fre"
+	},
+	{"value":"changement climatique",
+	"xml:lang":"fre"
+	},
+	{"value":"systeme d'exploitation agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"farming systems",
+	"xml:lang":"eng"
+	},
+	{"value":"temperatura",
+	"xml:lang":"esp"
+	},
+	{"value":"drought",
+	"xml:lang":"eng"
+	},
+	{"value":"climatic change",
+	"xml:lang":"eng"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"temperature",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":31,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000865",
+	"dct:identifier":"IN2015000865",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hebbar, K. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arivalagan, M."
+	}
+	}
+	],
+	"bibo:issue":8
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Gene effects of some traits of chickpea.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Biçer, B. Tuba.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Şakar, Doğan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Cicer arietinum"},
+	{"value":"genetic variation"},
+	{"value":"genes"},
+	{"value":"crop yield"},
+	{"value":"Turkey"},
+	{"value":"yield components"},
+	{"value":"plant breeding"},
+	{"value":"chickpeas"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001112",
+	"dct:identifier":"FI2016001112",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"The role of demographic variables in purchasing decisions on fresh fruit and vegetables.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Akpinar, M. G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aykin, S. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sayin, C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ozkan, B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fruits"},
+	{"value":"vegetables"},
+	{"value":"consumers"},
+	{"value":"consumer behaviour"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001017",
+	"dct:identifier":"FI2016001017",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

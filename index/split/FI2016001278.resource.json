@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/7/3/thenpalo.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The Nordic Gene Bank's Prunus clone archive in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Palonen, Pauliina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uosukainen, Marjatta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laurinen, Eeva.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"geenivarat"},
+	{"value":"provenance"},
+	{"value":"maatiaislajikkeet"},
+	{"value":"lajikkeet"},
+	{"value":"Finland"},
+	{"value":"luumu"},
+	{"value":"plums"},
+	{"value":"agronomic characters"},
+	{"value":"hedelmät"},
+	{"value":"geenipankit"},
+	{"value":"land varieties"},
+	{"value":"Prunus domestica"},
+	{"value":"gene banks"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001278",
+	"dct:identifier":"FI2016001278",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth and uptake of arsenic by rice irrigated with As-contaminated water /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Delowar, Hossain K. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yoshida, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harada, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sarkas, A. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Miah, M. N. H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Razzaque, A. H. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uddin, Md. Imtiaz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adhana, Kelali.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Perveen, Mst Farida.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"arsenikki"},
+	{"value":"rice"},
+	{"value":"pollutants"},
+	{"value":"arsenic"},
+	{"value":"crop yield"},
+	{"value":"Oryza sativa"},
+	{"value":"pohjavesi"},
+	{"value":"vesien saastuminen"},
+	{"value":"riisi"},
+	{"value":"chemical composition"},
+	{"value":"kastelu"},
+	{"value":"water pollution"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002250",
+	"dct:identifier":"FI2016002250",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

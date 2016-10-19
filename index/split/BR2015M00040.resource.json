@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Democracia e corrupção no Brasil: a face tirana do poder político",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kátia Paulino Santos "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arley Felipe Amanajás "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00040",
+	"dct:identifier":"BR2015M00040",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"A análise da corrupção tem, progressivamente, conquistado espaço junto a pesquisadores de diversas áreas, fato este significativamente benéfico à sociedade brasileira, uma vez que a atenção a essa temática é imperativa e urgente, diante do quadro de desigualdade e exclusão social observado no Brasil. O presente artigo tem o objetivo de fazer uma reflexão acerca da democracia e da corrupção observados no cenário brasileiro. Para tanto, nos utilizamos de pesquisa bibliográfica, onde tomamos como fundamentos desde os clássicos da teoria política, até autores modernos que fazem análise do Estado e suas formas de poder. Neste sentido, a discussão deste trabalho se faz em três momentos, inicialmente, analisam-se e confrontam-se algumas conceituações clássicas de Estado e Democracia, empreendendo-se a imersão em diferentes contextualizações históricas, que permeiam desde o absolutismo do séc. XVII até o neoliberalismo da atualidade. O capítulo seguinte volta-se à reflexão da realidade da democracia brasileira e das diferentes manifestações de tirania observadas no cenário nacional, sendo enfatizada a análise das oligarquias no Brasil e seus sustentáculos de dominação e de luta pela permanência no poder. O último capítulo destina-se à reflexão da profissionalização da política e dos paradoxos da reeleição no Brasil, onde são ressaltadas as principais nuances relativas ao imbróglio instalado na sistemática de reeleição nacional, das práticas utilizadas, ética e reponsabilidade social do político brasileiro para com a sociedade. Considerando a pluralidade de aspectos a serem pontuados com relação à política no cenário nacional, este estudo trouxe à tona o debate sobre a democracia e os seus desvios observados no Brasil, configurados na prática por atos políticos ou com foco na ascensão ou permanência política, muito dos quais não infringem a legalidade, mas se desvirtuam da ética e moralidade, maculando o brio da histórica luta pelo alcance da democracia no Brasil.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

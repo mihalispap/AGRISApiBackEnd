@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of the agronomic utility of interspecific hybrids Trifolium pratense L. x T. diffusum Ehrh. and confirmation of their hybridity with ISSR markers"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591892",
+	"dct:identifier":"US201301591892",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dabkevičienė, Giedrė (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paplauskienė, Vanda (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pašakinskienė, Izolda (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Hybrids were made between two species of clovers, Trifolium pratense L. (2n = 2x = 14) and Trifolium diffusum Ehrh. (2n = 2x = 16) and a T.pratense (&) x [T. pratense x T. diffusum] backcross (BC1) population was also developed. ISSR (inter-simple sequence repeats) markers were used to tag the hybrid plants. Traits of the BC1s were compared with diploid and tetraploid Lithuanian cultivars of red clover. BC1 plants were found to be of considerable agricultural value, despite the difficulties in transferring autogamy from T. diffusum into the allogamous T. pratense. Improved seed yield in BC1 plants was achieved due to a significant increase of the number of inflorescences per plant in comparison with diploid red clover. Some of T. pratense x T. diffusum hybrids expressed high levels of autogamy which provides a valuable resource for studies on the inheritance of autogamy."}
+	}}

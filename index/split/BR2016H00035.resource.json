@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"PROPRIEDADES FÍSICAS DE SEMENTES DE BARU EM FUNÇÃO DA SECAGEM",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":92,
+	"bibo:volume":1,
+	"bibo:pageEnd":96,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00035",
+	"dct:identifier":"BR2016H00035",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-12",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/223",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Letícia Carolina Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Edilson Costa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eliana Duarte Cardoso"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Flávio Ferreira da Silva Binotti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marçal Henrique  Amici Jorge"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"O conhecimento das propriedades físicas das sementes são informações que auxiliam o dimensionamento de máquinas de pré-processamento, processamento e classificação das mesmas. O experimento teve o objetivo de efetuar a caracterização das ...",
+	"xml:lang":"por"
+	}
+	}}

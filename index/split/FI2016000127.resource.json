@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biplot analysis of genotype by environment interaction of cowpea grain yield in the forest and southern guinea savanna agro-ecologies of Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Akande, S. R.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Vigna unguiculata"},
+	{"value":"Nigeria"},
+	{"value":"genotype environment interaction"},
+	{"value":"maturity"},
+	{"value":"flowering"},
+	{"value":"varieties"},
+	{"value":"crop yield"},
+	{"value":"yield components"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000127",
+	"dct:identifier":"FI2016000127",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Testicular hydrops in Wistar rat - A case rerort.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":243,
+	"dc:subject":[
+		{"value":"enfermedades del aparato masculino",
+	"xml:lang":"esp"
+	},
+	{"value":"sorcion",
+	"xml:lang":"esp"
+	},
+	{"value":"wisteria",
+	"xml:lang":"esp"
+	},
+	{"value":"maladie de l'appareil genital male",
+	"xml:lang":"fre"
+	},
+	{"value":"sorption",
+	"xml:lang":"fre"
+	},
+	{"value":"male genital diseases",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":244,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000123",
+	"dct:identifier":"IN2015000123",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Adak, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, M.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lonkar, P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kapurkar, U.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brahmankar, M.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patel, M.V."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A case of bilateral testicular hydrops has been reported in a 26 months old male Wistar rat out of over 20 thousand Wistar rats necropsied overthe period. Grossly, both the testes were enlarged and testicular parenchyma was floating amidst the pool of fluid present inside the tunica albuginea/capsule. Histomorphology exhibited marked interstitial oedema with marked reduction in the number of cut sections of seminiferous tubules showing degenerative/atrophic changes. The exact etiology could not be ascertained.",
+	"xml:lang":"eng"
+	}
+	}}

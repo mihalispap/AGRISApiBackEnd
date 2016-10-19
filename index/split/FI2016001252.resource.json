@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of salt stress on ion accumulation and activity of some antioxidant enzymes in melon (Cucumis melo L.) /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kusvuran, Sebnem.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ellialtioglu, Sebnem.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yasar, Fikret.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abak, Kazim.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Cucumis melo"},
+	{"value":"antioxidants"},
+	{"value":"enzyme activity"},
+	{"value":"genotypes"},
+	{"value":"salinity"},
+	{"value":"ions"},
+	{"value":"osmotic stress"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001252",
+	"dct:identifier":"FI2016001252",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

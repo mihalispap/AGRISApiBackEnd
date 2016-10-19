@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Ethics and culture in the forestry profession : emergent changes in Romania.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lawrence, Anna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Szabo, Alina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest restitution"},
+	{"value":"occupations"},
+	{"value":"corporate culture"},
+	{"value":"instituutiot"},
+	{"value":"metsäala"},
+	{"value":"ethics"},
+	{"value":"post-communist countries"},
+	{"value":"institutional culture"},
+	{"value":"organisaatiokulttuuri"},
+	{"value":"environmental values"},
+	{"value":"etiikka"},
+	{"value":"ammattiasema"},
+	{"value":"Romania"},
+	{"value":"privatization"},
+	{"value":"ympäristöarvot"},
+	{"value":"yksityistäminen"},
+	{"value":"foresters"},
+	{"value":"forestry profession"},
+	{"value":"environmental policies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001042",
+	"dct:identifier":"FI2016001042",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

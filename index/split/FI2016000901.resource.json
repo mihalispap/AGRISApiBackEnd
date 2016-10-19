@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Tree species classification using airborne LiDAR : effects of stand and tree parameters, downsizing of training set, intensity normalization, and sensor type.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Korpela, Ilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ørka, Hans Ole.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maltamo, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tokola, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyyppä, Juha.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"puulajit"},
+	{"value":"discriminant analysis"},
+	{"value":"species"},
+	{"value":"ALS"},
+	{"value":"crown"},
+	{"value":"intensity"},
+	{"value":"model forests"},
+	{"value":"backscatter amplitude"},
+	{"value":"lajinmääritys"},
+	{"value":"aerial surveying"},
+	{"value":"monoplotting"},
+	{"value":"ilmakuvaus"},
+	{"value":"canopy"},
+	{"value":"airborne laser scanning"},
+	{"value":"trees"},
+	{"value":"laser"},
+	{"value":"Optech ALTM3100"},
+	{"value":"Leica ALS50-II"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000901",
+	"dct:identifier":"FI2016000901",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

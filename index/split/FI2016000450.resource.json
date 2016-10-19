@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Climatic signals extracted from ring-width chronologies of Scots pines from the northern, middle and southern parts of the boreal forest belt in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lindholm, Markus.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lehtonen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kolström, Taneli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Meriläinen, Jouko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eronen, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Timonen, Mauri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"spectrometry"},
+	{"value":"lustonleveys"},
+	{"value":"kasvun vaihtelu"},
+	{"value":"boreaaliset metsät"},
+	{"value":"dendrokronologia"},
+	{"value":"growth rings"},
+	{"value":"mänty"},
+	{"value":"kasvureaktio"},
+	{"value":"Pinus sylvestris"},
+	{"value":"dendrochronology"},
+	{"value":"spektrianalyysi"},
+	{"value":"boreal forests"},
+	{"value":"growth"},
+	{"value":"vuosilustot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000450",
+	"dct:identifier":"FI2016000450",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

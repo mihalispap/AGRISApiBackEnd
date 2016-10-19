@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"U.S. landowner behavior, land use and land cover changes, and climate change mitigation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Alig, Ralph J.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"forest land"},
+	{"value":"maanomistajat"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"climatic change"},
+	{"value":"landowners"},
+	{"value":"maankäyttö"},
+	{"value":"carbon cycle"},
+	{"value":"metsät"},
+	{"value":"hiilen kierto"},
+	{"value":"land use"},
+	{"value":"adaptation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000798",
+	"dct:identifier":"FI2016000798",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

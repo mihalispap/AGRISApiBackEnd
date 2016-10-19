@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:title":{"value":"Calculation and Evaluation of Carbon Dioxide Emissions of Regional Logistics Ecosystem: A Study in China",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"carbon dioxide",
+	"xml:lang":"eng"
+	},
+	{"value":"emission",
+	"xml:lang":"eng"
+	},
+	{"value":"logistics",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513027",
+	"dct:identifier":"IN2016513027",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=9",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Zhou  Lingyun"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gu Zhonghua"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhao Gang"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Luo Jianfeng"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Regional logistics with a large quantity of energy consumption and carbon emissions has great important impacts on the regional ecological environment. Therefore, constructing the regional logistics ecosystem has become a crucial way to minimize the environmental impacts. This paper aims to accurately obtain the characteristics and causes of carbon dioxide (CO2) emissions of regional logistics ecosystem. It firstly analyses the main factors affecting carbon emissions of regional logistics ecosystem, and then builds the calculation model and the performance evaluation model of carbon emissions of regional logistics ecosystem respectively based on regional logistics activities and their energy consumption structures. According to energy consumption statistics of 30 provinces in China, it calculates the total amounts and differences of CO2 emissions of logistics activities in different regions of China. The results illustrate that the overall regional logistics ecosystem in China is in its initial stage with huge carbon emissions",
+	"xml:lang":"eng"
+	},
+	{"value":"and there are significant variations in CO2 emission intensities of regional logistics and CO2 emission amounts per unit of cargo turnover between different regions. This research offers accurate information for policy making of logistics industry and setting the carbon emission reduction targets in different regions of China."}
+	]
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/11/2/plantcom.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Plant communities of field boundaries in Finnish farmland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tarmi, Sanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuuri, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Helenius, Juha.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kasvinviljelytilat"},
+	{"value":"biodiversity"},
+	{"value":"kasvilajit"},
+	{"value":"monimuotoisuus"},
+	{"value":"plant communities"},
+	{"value":"boundaries"},
+	{"value":"pellot"},
+	{"value":"tuotantosuunta"},
+	{"value":"kotieläintilat"},
+	{"value":"vegetation"},
+	{"value":"farming systems"},
+	{"value":"lajikoostumus"},
+	{"value":"pientareet"},
+	{"value":"fields"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000742",
+	"dct:identifier":"FI2016000742",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

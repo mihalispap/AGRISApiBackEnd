@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of Migratory Animals on Grazing Lands: An Evidence from Himachal Pradesh",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":40,
+	"dc:subject":[
+		{"value":"terre de paturage",
+	"xml:lang":"fre"
+	},
+	{"value":"grazing intensity",
+	"xml:lang":"eng"
+	},
+	{"value":"tierras de pastoreo",
+	"xml:lang":"esp"
+	},
+	{"value":"grazing lands",
+	"xml:lang":"eng"
+	},
+	{"value":"intensidad de pastoreo",
+	"xml:lang":"esp"
+	},
+	{"value":"intensite de paturage",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":45,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000074",
+	"dct:identifier":"IN2015000074",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pathania M.S.,"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma S.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study was conducted in the hilly region of himachal pradesh which revealed that the area under forests in different forest circles decreased over time. The migratory livestock population decreased over period. The availability of grazing lands for migratory animals was higher than the recommended level except in Dharmsala forest circle. The higher pressure on grazing lands was noticed when animal grazed by local people were also considered. The loss of plantation in grazing lands varied from Rs. 268.44 lac to Rs. 285.04 lac in different forest circles over the years. The income generated from migratory animals through wool, milk, meat and FYM was Rs. 44.76 lac in Dharmsala forest circle in 1990â91 to Rs. 775 lac in Chamba during 1999â2000. Besides this, employment of 16,560 man days was also generated in the state through this profession. It was suggested that with increase in human and livestock population, the demand for Common Property Land Resources (CPRs) products has increased which calls for better management of CPRs. The weeds infestation is causing an additional stress and resource competition. Therefore, there is a need to frame a comprehensive policy to eradicate the weeds and to increase the productivity of grasses and income of local people. In the plantation programmes, preferences should be given to locally acceptable multi-purpose tree species.",
+	"xml:lang":"eng"
+	}
+	}}

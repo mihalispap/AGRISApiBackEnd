@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"DEZ ANOS DE PESQUISAS SOBRE MOSCAS-DAS-FRUTAS (DIPTERA: TEPHRITIDAE) NO ESTADO DO AMAPÁ: AVANÇOS OBTIDOS E DESAFIOS FUTUROS.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":157,
+	"bibo:volume":3,
+	"bibo:pageEnd":168,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00126",
+	"dct:identifier":"BR2015N00126",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/682",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ezequiel da Glória de Deus"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ricardo Adaime"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; text-align: justify;\"><span style=\"font-size: 12.0pt; font-family: \">As moscas-das-frutas (Diptera: Tephritidae) estão entre as principais pragas da agricultura mundial, sendo motivo de preocupação especialmente para países tropicais em desenvolvimento, os quais têm na fruticultura um importante componente de sua balança comercial. </span><span style=\"font-size: 12.0pt; font-family: \">Esta revisão tem por objetivo compilar informações geradas nos últimos 10 anos sobre moscas-das-frutas no estado do Amapá, com ênfase em distribuição, hospedeiros e parasitoides. Além disso, visa indicar as prioridades de pesquisa para os próximos anos. </span><span style=\"font-size: 12.0pt; font-family: \">No estado do Amapá, os estudos com moscas-das-frutas e seus inimigos naturais apresentaram, nos últimos anos, significativo crescimento. Atualmente, além Bactrocera carambolae</em>, estão assinaladas para o Estado 34 espécies de Anastrepha</em>. </span><em><span style=\"font-size: 12.0pt; font-family: \">Anastrepha</span></em><span style=\"font-size: 12.0pt; font-family: \"> distincta</em>, Anastrepha coronilli</em>, Anastrepha fraterculus e Anastrepha striata são as espécies mais amplamente distribuídas. </span><span class=\"Fontepargpadro1\"><span style=\"font-size: 12.0pt; font-family: \">Estão assinaladas para o estado 37 espécies vegetais hospedeiras (pertencentes a 19 famílias botânicas) de moscas-das-frutas. Anastrepha striata é espécie mais polífaga, estando associada a 25 hospedeiros.</span></span><span style=\"font-size: 12.0pt; font-family: \"> Nove espécies de parasitoides específicos de moscas-das-frutas estão registrados, sendo Doryctobracon areolatus o mais abundante.</span><span style=\"font-size: 12.0pt; font-family: \"> Apesar do significativo avanço</span><span style=\"font-size: 12.0pt; font-family: \">, novos estudos sobre biologia, genética, ecologia, distribuição e dispersão populacional, bem como fatores reguladores dos níveis populacionais são necessários, com vista a desenvolver estratégias de controle menos onerosas com efeitos não nocivos ao ambiente.</span>",
+	"xml:lang":"por"
+	}
+	}}

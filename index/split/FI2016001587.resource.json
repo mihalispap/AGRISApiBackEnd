@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/10/1/influenc.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of pre partum and post partum plane of nutrition on the performance of crossbred suckler cows and their progeny.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Manninen, Merja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huhta, Harri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"limousin"},
+	{"value":"vasikat"},
+	{"value":"indoor feeding"},
+	{"value":"emolehmät"},
+	{"value":"animal feeding"},
+	{"value":"ayrshire"},
+	{"value":"beef cattle"},
+	{"value":"lihakarja"},
+	{"value":"suckler cows"},
+	{"value":"hybridit"},
+	{"value":"ruokintakokeet"},
+	{"value":"animal performance"},
+	{"value":"kotieläinhoito"},
+	{"value":"calves"},
+	{"value":"crossbreeding"},
+	{"value":"kotieläintuotanto"},
+	{"value":"hereford"},
+	{"value":"animal husbandry"},
+	{"value":"feeding systems"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001587",
+	"dct:identifier":"FI2016001587",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

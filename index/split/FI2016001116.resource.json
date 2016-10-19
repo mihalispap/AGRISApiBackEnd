@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of some herb decoctions on in vitro mineral availability from two cultivars of cowpea (Vigna unguiculata L. Walp) /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Otemuyiwa, I. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Falade, O. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oladipo, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adewusi, S. R. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"anemia"},
+	{"value":"drug plants"},
+	{"value":"anaemia"},
+	{"value":"lääkekasvit"},
+	{"value":"Hibiscus sabdariffa"},
+	{"value":"Vigna unguiculata"},
+	{"value":"Sorghum bicolor"},
+	{"value":"yrtit"},
+	{"value":"Theobroma cacao"},
+	{"value":"hoito"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"minerals"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001116",
+	"dct:identifier":"FI2016001116",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

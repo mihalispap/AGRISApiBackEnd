@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/environment-1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Precipitation fluctuations in the transitional zone between arid and semiarid regions of northwest China from the 1950s to the 1990s."},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Li, Xiao-Yan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wang, Xue-Quan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gao, Qian-Zhao (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100066",
+	"dct:identifier":"FI2016100066",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The transitional zone between arid and semiarid regions of northwest China is the most sensitive ecotone to the global climate change and also a severe land degradation area in China. Precipitation is the major water source for agricultural production and environmental improvement in this transitional area, and it has a great effect on the functions of the ecosystem. Studies of precipitation variability from the 1950s to the 1990s indicated that precipitation tended to decrease during the last 40 years. Furthermore, the year-to-year precipitation fluctuation was quite noticeable during this period. Precipitation was higher than normal from the late 1950s to the early 1960s. Frequent alternate wet and dry years were characteristics of the 1960s. The dry year anomalies are more significant than the wet year anomalies between the 1970s and the 1990s. Particularly there was a marked decrease in precipitation after 1980. The 250 mm isohyet is used as the climatic boundary line between arid and semiarid region and it shifts in the space with the occurrence of wet years and dry years. Compared with the position of the mean 250 mm isohyet during the last 40 years, the 250 mm isohyet in the wet year 1964 shifted northward about 55 km in the east part, 30 km in the middle part and 130 km in the east part of the transitional zone. In contrast, in dry year 1980, the 250 mm isohyet shifted southward about 110 km in the whole transitional zone. This means that the 250 mm isohyet has been displaced about 140 to 240 km between the wet year 1964 and the dry year 1980."}
+	}}

@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Är jordbotten viktig för räven?.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Harri, Mikko.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"animal husbandary methods"},
+	{"value":"turkistarhat"},
+	{"value":"kettu"},
+	{"value":"animal husbandary equipment"},
+	{"value":"floors"},
+	{"value":"furbearing animals"},
+	{"value":"häkit"},
+	{"value":"cages"},
+	{"value":"pohjat"},
+	{"value":"turkiseläimet"},
+	{"value":"foxes"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000789",
+	"dct:identifier":"FI2016000789",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

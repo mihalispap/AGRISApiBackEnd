@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pulsatile secretion of luteinizing hormone and GnRH and its relation to pause days and egg production in hens exposed to different wavelengths of light",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":919,
+	"dc:subject":[
+		{"value":"regimenes de luz",
+	"xml:lang":"esp"
+	},
+	{"value":"laying performance",
+	"xml:lang":"eng"
+	},
+	{"value":"light regimes",
+	"xml:lang":"eng"
+	},
+	{"value":"regime lumineux",
+	"xml:lang":"fre"
+	},
+	{"value":"gallinas",
+	"xml:lang":"esp"
+	},
+	{"value":"hens",
+	"xml:lang":"eng"
+	},
+	{"value":"poulette",
+	"xml:lang":"fre"
+	},
+	{"value":"gnrh",
+	"xml:lang":"esp"
+	},
+	{"value":"performance de ponte",
+	"xml:lang":"fre"
+	},
+	{"value":"lh",
+	"xml:lang":"esp"
+	},
+	{"value":"desempeno en la postura",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":923,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000163",
+	"dct:identifier":"IN2015000163",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Reddy, I.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"David, C.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ravi Kiran, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mondal, S."
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"The study aimed to establish the effects of red spectrum of light (650nm; treated n, 12) and normal spectrum of light (450nm control, n=12) on GnRH concentration, amplitude and frequency of luteinizing hormone (LH), estradiol (E2Ã), progesterone (P4), intersequence pause days and egg production from 62 to 72 weeks old laying White Leghorn hens. Weekly interval profiles of plasma GnRH, LH, E2Ã and P4 concentrations were increased in birds exposed to red spectrum of light. At 67th weeks of age blood samples from both the groups were collected at every 3 h for 36 h to study the pulsatile secretion of LH surges. Plasma LH concentration was higher in treated birds with more number of frequencies and amplitude of LH surges in plasma of treated birds. The LH frequencies were more pronounced and advanced during 36 h of sampling at 3 h interval in treated birds. Weekly interval of plasma LH, E2Ã and P4 concentrations increased in treated birds from 62 to 72 weeks of age. GnRH concentration was significantly higher in birds exposed to red spectrum of light compared to controls. It is hypothesized that exposure of birds to red spectrum of light caused enhanced GnRH along with LH, E2Ã and P4 hormones required for egg formation and egg lay. During 77 days (62â72 weeks of age) of experimental period, egg production was enhanced with lower incidence of pause days even during the later stages of productive period in treated group. In conclusion, higher levels of GnRH, LH, and E2Ã and P4 concentration with lower incidence of pause days enabled the birds to lay more eggs even later in the productive period by modulating the wavelengths of light under normal husbandry conditions.",
+	"xml:lang":"eng"
+	}
+	}}

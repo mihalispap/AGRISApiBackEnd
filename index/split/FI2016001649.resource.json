@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/48346/15790",
+	"dct:title":{"value":"Dynamics of dry matter and selenium accumulation in oilseed rape (Brassica napus L.) in response to organic and inorganic selenium treatments.",
+	"xml:lang":"   "
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ebrahimi, Nashmin,
+    kirjoittaja
+    Helsingin yliopisto
+    1901
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hartikainen, Helinä,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Simojoki, Asko,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hajiboland, Roghieh,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Seppänen, Mervi,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ravinnekierto"},
+	{"value":"Brassica napus L."},
+	{"value":"kuiva-ainepitoisuus"},
+	{"value":"crop residues"},
+	{"value":"oil crops"},
+	{"value":"seleeni"},
+	{"value":"organic fertilizers"},
+	{"value":"selenium"},
+	{"value":"lannoitteet"},
+	{"value":"eloperäiset lannoitteet"},
+	{"value":"biofortifikaatio"},
+	{"value":"inorganic fertilizers"},
+	{"value":"Brassica"},
+	{"value":"väkilannoitteet"},
+	{"value":"kasvijätteet"},
+	{"value":"maaperä"},
+	{"value":"lannoitus"},
+	{"value":"ravinteiden otto"},
+	{"value":"nutrient uptake"},
+	{"value":"trace elements"},
+	{"value":"soil"},
+	{"value":"öljykasvit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001649",
+	"dct:identifier":"FI2016001649",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

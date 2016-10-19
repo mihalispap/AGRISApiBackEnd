@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1217",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wolfsmayr, Ulrich J,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rauch, Peter,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Primary forest fuel supply chain: assessing barriers and drivers for the modal shift from truck to train.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"rautatiekuljetus"},
+	{"value":"forest management"},
+	{"value":"multimodal transport"},
+	{"value":"transporting quality"},
+	{"value":"biomass"},
+	{"value":"biomassa"},
+	{"value":"multimodaalikuljetukset"},
+	{"value":"house of quality"},
+	{"value":"quality function deployment"}
+	],
+	"bibo:doi":"10.14214/sf.1217",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001310",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001310",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

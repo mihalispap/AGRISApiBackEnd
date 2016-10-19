@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Tulevia suuntauksia lypsylehmien terveyden parantamiseksi ja säilyttämiseksi /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Saloniemi, Hannu.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"lehmät"},
+	{"value":"Finland"},
+	{"value":"veterinary services"},
+	{"value":"lypsykarja"},
+	{"value":"animal health"},
+	{"value":"lehmä"},
+	{"value":"terveydenhuolto"},
+	{"value":"terveydenhoito"},
+	{"value":"eläinlääkintä"},
+	{"value":"disease control"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001778",
+	"dct:identifier":"FI2016001778",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

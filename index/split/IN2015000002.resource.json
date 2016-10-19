@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Agricultural subsidies: resurging interest in a perennial debate",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"economia",
+	"xml:lang":"esp"
+	},
+	{"value":"subvention",
+	"xml:lang":"fre"
+	},
+	{"value":"economie",
+	"xml:lang":"fre"
+	},
+	{"value":"politica agricola",
+	"xml:lang":"esp"
+	},
+	{"value":"subsidios",
+	"xml:lang":"esp"
+	},
+	{"value":"farm inputs",
+	"xml:lang":"eng"
+	},
+	{"value":"politique agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"moyen de production agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"agricultural policies",
+	"xml:lang":"eng"
+	},
+	{"value":"insumos agricolas",
+	"xml:lang":"esp"
+	},
+	{"value":"subsidies",
+	"xml:lang":"eng"
+	},
+	{"value":"economics",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:pageStart":83,
+	"bibo:volume":70,
+	"bibo:pageEnd":105,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000002",
+	"dct:identifier":"IN2015000002",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f451062e"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal Of Agricultural Economics (India)"},
+	"bibo:ISSN":{"value":"0019-5014"}
+	}
+	}
+	],
+	"dct:issued":"jan-mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Gautum, Madhur"
+	}
+	},
+	"bibo:issue":1
+	}}

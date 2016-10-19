@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Abatement costs for agricultural nitrogen and phosphorus loads : a case study of crop farming in south-western Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Helin, Janne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laukkanen, Marita.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koikkalainen, Kauko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"kuormitus"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"phosphorus"},
+	{"value":"costs"},
+	{"value":"vähentäminen"},
+	{"value":"nitrogen"},
+	{"value":"vesien saastuminen"},
+	{"value":"ympäristöpolitiikka"},
+	{"value":"matemaattiset mallit"},
+	{"value":"ravinteet"},
+	{"value":"typpi"},
+	{"value":"kustannukset"},
+	{"value":"leaching"},
+	{"value":"water pollution"},
+	{"value":"plant nutrition"},
+	{"value":"environmental policies"},
+	{"value":"kasvinravinteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001224",
+	"dct:identifier":"FI2016001224",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

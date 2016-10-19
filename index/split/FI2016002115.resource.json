@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of reduced herbicide doses in spring cereals /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Salonen, Jukka.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"biomass"},
+	{"value":"herbicides"},
+	{"value":"crop yield"},
+	{"value":"finland"},
+	{"value":"triticum aestivum"},
+	{"value":"kevätvehnä"},
+	{"value":"satotappiot"},
+	{"value":"Triticum aestivum"},
+	{"value":"kevätviljat"},
+	{"value":"spring crops"},
+	{"value":"herbisidit"},
+	{"value":"ohra"},
+	{"value":"biomassa"},
+	{"value":"application rates"},
+	{"value":"rikkakasvit"},
+	{"value":"käyttöohjeet"},
+	{"value":"weeds"},
+	{"value":"hordeum vulgare"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002115",
+	"dct:identifier":"FI2016002115",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

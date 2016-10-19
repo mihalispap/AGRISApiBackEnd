@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Ground-based estimation of leaf area index and vertical distribution of leaf area density in a Betula ermanii forest.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sumida, Akihiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nakai, Taro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yamada, Masahito.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ono, Kiyomi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uemura, Shigeru.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hara, Toshihiko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"allometry"},
+	{"value":"Betula"},
+	{"value":"pipe model"},
+	{"value":"lehvästö"},
+	{"value":"pinta-ala"},
+	{"value":"latvus"},
+	{"value":"MacArthur-Horn method"},
+	{"value":"leaf inclination angle"},
+	{"value":"leaf area"},
+	{"value":"leaf area index"},
+	{"value":"Betula ermanii"},
+	{"value":"lehti"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000002",
+	"dct:identifier":"FI2016000002",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

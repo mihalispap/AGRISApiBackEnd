@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Utilizing a multipoint measuring system of photosynthetically active radiation in photosynthetic studies within canopies.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Palva, Lauri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Garam, Eero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Palmroth, Sari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sepponen, Raimo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hari, Pertti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"measuring instruments"},
+	{"value":"mittarit"},
+	{"value":"fotosynteesi"},
+	{"value":"säteily"},
+	{"value":"hiilidioksidi"},
+	{"value":"solar radiation"},
+	{"value":"carbon dioxide"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000843",
+	"dct:identifier":"FI2016000843",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

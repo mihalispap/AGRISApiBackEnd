@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Convergence of Coconut Schemes in Odisha",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":26,
+	"dc:subject":[
+		{"value":"Coconut Improvement"},
+	{"value":"Odisha"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lv",
+	"bibo:pageEnd":"28 30",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000552",
+	"dct:identifier":"IN2015000552",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Khokan Debnath"
+	}
+	},
+	"bibo:issue":9
+	}}

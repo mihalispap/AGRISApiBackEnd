@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Phenological variation in two species of Curcuma",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":252,
+	"dc:subject":[
+		{"value":"yields",
+	"xml:lang":"eng"
+	},
+	{"value":"curcuma aromatica",
+	"xml:lang":"esp"
+	},
+	{"value":"starch",
+	"xml:lang":"eng"
+	},
+	{"value":"almidon",
+	"xml:lang":"esp"
+	},
+	{"value":"phenology",
+	"xml:lang":"eng"
+	},
+	{"value":"rendimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"rendement",
+	"xml:lang":"fre"
+	},
+	{"value":"curcuma amada",
+	"xml:lang":"esp"
+	},
+	{"value":"fenologia",
+	"xml:lang":"esp"
+	},
+	{"value":"phenologie",
+	"xml:lang":"fre"
+	},
+	{"value":"amidon",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":255,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000827",
+	"dct:identifier":"IN2015000827",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sajitha, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasath, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"sasikumar, B."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Replacing grass silage with pea-barley intercrop silage in the feeding of the dairy cow.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pursiainen, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuori, Mikko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dry matter content"},
+	{"value":"dairy cows"},
+	{"value":"syönti"},
+	{"value":"animal feeding"},
+	{"value":"lypsykarja"},
+	{"value":"seokset"},
+	{"value":"ruokinta"},
+	{"value":"feed intake"},
+	{"value":"säilörehu"},
+	{"value":"milk yield"},
+	{"value":"laatu"},
+	{"value":"kuiva-aine"},
+	{"value":"lehmät"},
+	{"value":"maitotuotos"},
+	{"value":"barley"},
+	{"value":"sulavuus"},
+	{"value":"digestibility"},
+	{"value":"ohra"},
+	{"value":"herne"},
+	{"value":"maittavuus"},
+	{"value":"intercropping"},
+	{"value":"rehukasvit"},
+	{"value":"peas"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001308",
+	"dct:identifier":"FI2016001308",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

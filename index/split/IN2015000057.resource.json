@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Occurrence of Liponyssoides sanguineus and Polyplax spinulosa on an albino rat in Puducherry",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":70,
+	"dc:subject":[
+		{"value":"polyplax",
+	"xml:lang":"esp"
+	},
+	{"value":"rata",
+	"xml:lang":"esp"
+	},
+	{"value":"rats",
+	"xml:lang":"eng"
+	},
+	{"value":"rat",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":72,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000057",
+	"dct:identifier":"IN2015000057",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d5616814"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Research (India)"},
+	"bibo:ISSN":{"value":"0971-4251"}
+	}
+	}
+	],
+	"dct:issued":"jan-jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Das, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajkumar, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sreekrishnan, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, V.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, D."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Mite Liponyssoides sanguineus and louse Polyplax spinulosa are reported ITomrat (Rattus norvegicus) for the first time from Puducherry.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,104 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Metabolizable Energy and Rumen Undegradable Protein Levels Supplemented With or Without Vitamins on in vitro Fermentation of Complete Feeds",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":9,
+	"dc:subject":[
+		{"value":"alimentation complementaire",
+	"xml:lang":"fre"
+	},
+	{"value":"experimentation in vitro",
+	"xml:lang":"fre"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"supplementary feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"rumen digestion",
+	"xml:lang":"eng"
+	},
+	{"value":"digestion ruminal",
+	"xml:lang":"esp"
+	},
+	{"value":"alimentacion complementaria",
+	"xml:lang":"esp"
+	},
+	{"value":"digestibilite",
+	"xml:lang":"fre"
+	},
+	{"value":"digestibilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"vitamins",
+	"xml:lang":"eng"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"experimentacion in vitro",
+	"xml:lang":"esp"
+	},
+	{"value":"vitamine",
+	"xml:lang":"fre"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"digestion du rumen",
+	"xml:lang":"fre"
+	},
+	{"value":"in vitro experimentation",
+	"xml:lang":"eng"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"vitaminas",
+	"xml:lang":"esp"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":29,
+	"bibo:pageEnd":14,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000470",
+	"dct:identifier":"IN2015000470",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7987e6b1"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Nutrition (India)"},
+	"bibo:ISSN":{"value":"0970-3209"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Grewal, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wadhwa, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bakshi, M.P.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study was conducted to assess the effect of different levels of metabolizable energy (ME) and rumen undegradable protein (UDP), with or without niacin and vitamin E supplementation on the in-vitro fermentation of complete feeds. Nine isonitrogenous complete feeds containing 3 levels each of ME 100 (LME), 110 (MME) and 120% (HME) of NRC feeding standard for dairy cattle and UDP [24 (LUDP), 32 (MUDP) and 40% (HUDP) of CP (16.8%)] with or without vitamin E and niacin were arranged in a 3 x 3 x 2 x 2 factorial design. Irrespective of UDP levels and vitamins, the net gas production (NGP) and digestibility of OM and NDF improved (P0.05) with the increase in the levels of ME. But, with the increase in UDP levels, reverse trend (P0.05) was observed in NGP, OM digestibility, ammonical-N and ME availability. Supplementation of diets with vitamins (irrespective of ME and UDP levels) improved (P0.05) the NGP, digestibility of nutrients and ME availability as compared to unsupplemented diet. It was observed that irrespective of ME and UDP levels, the diet supplemented with niacin resulted in higher (P0.05) NGP, digestibility of nutrients and availability of ME as compared to vitamin E supplemented diet. Interactions between energy and UDP levels; energy and type of vitamin were significant (P0.05). The results revealed that MME-LUDP, HME-LUDP and HME-HUDP gave the best (P0.05) response. The effect of niacin at medium and high energy levels was more pronounced (P0.05). It was concluded that diet containing ME at 110 or 120% of NRC with low UDP (24% of dietary CP) supplemented with niacin gave the best response as far as digestibility of nutrients and availability of ME was concerned.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of temperature and relative humidity on radial growth and sporulation of Paecilomyces farinosus"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025561",
+	"dct:identifier":"FI2005025561",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ayyasamy, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baskaran, P. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Temperature and relative humidity are considered as important abiotic factors that influence growth, sporulation and infectivity of the insect fungi. Optimum levels of temperature and humidity were assessed for radial growth, percentage spore germination and infectivity of Paecilomyces farinosus. The fungus was inoculated in Sabourad maltose agar media and incubated at 20, 25, 30 and 35°C in BOD incubator for 10 days. Six levels of relative humidy was maintained by mixtures of appropriate combinations of concentrated sulphuric acid and distilled water. The growth and sporulation of the fungi were studied with 10 days of incubation. Temperature between 20 and 25°C was found optimal for the test fungi. The growth and sporulation of pathogen increased with humidity levels to the maximum of 91.6 mm at 95% RH."}
+	}}

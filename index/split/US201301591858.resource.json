@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of the antimicrobial activity of some plant extracts used as food additives"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591858",
+	"dct:identifier":"US201301591858",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tuchila, Cristina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jianu, Ionel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rujescu, Ciprian Ioan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Butur, Marius (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmadi-Khoie, Mirela (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Negrea, Ileana (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Recent studies show great opportunities in food industry for antimicrobial activity of plant extracts on some pathogenic microorganisms. Plant extracts are used in food processing technologies as natural additives substituting synthetic products. The research subject was to obtain alcoholic, hydroalcoholic and aqueous extracts from Ocimum basilicum, Satureja hortensis and Anethum graveolens, and then these samples were thermally treated to imitate the conservation conditions for food products. Pathogenic microorganisms were Escherichia coli, Staphyloccocus aureus, Streptococcus cricetus and Candida albicans and the evaluation indicator for antimicrobial activity was the inhibitory zone diameter. The results showed a resistance of Staphylococcus aureus and Streptococcus cricetus for all aqueous extracts, except Satureja hortensis aqueous extract for Streptococcus cricetus, irrespective of the temperature used for extract concentration. Aqueous extract of Ocimum basilicum evaporated to 100oC did not affect the culture of Candida albicans. The largest diameter of the inhibition zone was observed in the case of Ocimum basilicum aqueous extract evaporated at 80oC for Escherichia coli, Satureja hortensis alcoholic extract for Staphylococcus aureus, Satureja hortensis aqueous extract evaporated at 80oC for Streptococcus cricetus, Ocimum basilicum alcoholic extract for Streptococcus cricetus and Satureja hortensis and Ocimum basilicum alcoholic extracts for Candida albicans. The other extracts indicated an average inhibitory zone diameter for tested pathogenic microorganisms."}
+	}}

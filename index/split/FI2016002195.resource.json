@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The bread making quality of Finnish spring wheats - a proposal for classification /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltonen, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Juuti, Tapio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salopelto, Juha.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"finland"},
+	{"value":"triticum aestivum"},
+	{"value":"kevätvehnä"},
+	{"value":"leivontaominaisuudet"},
+	{"value":"Triticum aestivum"},
+	{"value":"spring crops"},
+	{"value":"wheat flour"},
+	{"value":"classification"},
+	{"value":"baking characteristics"},
+	{"value":"quality"},
+	{"value":"laatuluokitus"},
+	{"value":"breadmaking"},
+	{"value":"jauhot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002195",
+	"dct:identifier":"FI2016002195",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,113 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Feeding Lysine Supplemented Low Protein Diet on Growth Performance, Nutrient Utilization and Immunity in Growing Landrace Crossbred Pigs",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":383,
+	"dc:subject":[
+		{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"immunite",
+	"xml:lang":"fre"
+	},
+	{"value":"dietas restrictas en proteinas",
+	"xml:lang":"esp"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"immunity",
+	"xml:lang":"eng"
+	},
+	{"value":"lysine",
+	"xml:lang":"fre"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"regime allege en proteine",
+	"xml:lang":"fre"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"inmunidad",
+	"xml:lang":"esp"
+	},
+	{"value":"lisina",
+	"xml:lang":"esp"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	},
+	{"value":"protein restricted diets",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":12,
+	"bibo:pageEnd":393,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000065",
+	"dct:identifier":"IN2015000065",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhar, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal, A.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ojha, B.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baliyan, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shrivastava, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goswami, T.K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A total of 21 (9 male and 12 female) landrace crossbred weaned piglets (11.72Â±0.57 kg BW; 7.59Â±0.14 weeks of age) were randomly assigned to three dietary groups (SPSL, LPSL and LPLL), of seven each to study the effect of feeding a low protein (LP) diet supplemented with lysine on growth performance, nutrient utilization and immunity. A basal diet formulated as per NRC requirements served as control (SPSL). The CP content of the SPSL diet was reduced by 10%, and fed with supplemental lysine (as L-lysine HCl) at 100 (LPSL) and 85 (LPLL) percent levels in the two treatment groups. All the diets were iso-caloric and offered for 126 days in phases according to the body weight (10-20, 2050, 50-80 and 80kg). A metabolism trial of 6 days duration was conducted after 45 days of experimental feeding to assess the digestibility of nutrients, nitrogen balance and plane of nutrition. Immunological studies (humoral through microhemagglutination assay against sheep-red blood cells, and cellular immunity through delayed type hypersensitivity reaction to intradermal PHA-P inoculation) along with different blood parameters were estimated in last month of the experiment. The body weight gain, feed intake and feed conversion efficiency did not differ (P0.05) among the treatment groups. The intake and digestibility of different proximate nutrients also did not differ. Immunological and certain blood biochemical parameters were also comparable among the different group. It was concluded that the dietary protein and lysine supply can be reduced by 10 and 15%, respectively, compared to NRC recommendation without any compromise on performance, nutrient utilization and immunity in landrace crossbred growing pigs.",
+	"xml:lang":"eng"
+	}
+	}}

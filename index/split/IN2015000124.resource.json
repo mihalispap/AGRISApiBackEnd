@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of chemical industry effluent on macrophage functions of mice.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":245,
+	"dc:subject":[
+		{"value":"raton",
+	"xml:lang":"esp"
+	},
+	{"value":"souris",
+	"xml:lang":"fre"
+	},
+	{"value":"wastewater",
+	"xml:lang":"eng"
+	},
+	{"value":"composition chimique",
+	"xml:lang":"fre"
+	},
+	{"value":"chemical composition",
+	"xml:lang":"eng"
+	},
+	{"value":"mice",
+	"xml:lang":"eng"
+	},
+	{"value":"eau usee",
+	"xml:lang":"fre"
+	},
+	{"value":"aguas residuales",
+	"xml:lang":"esp"
+	},
+	{"value":"composicion quimica",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":246,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000124",
+	"dct:identifier":"IN2015000124",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Agarwal, Seema"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agarwal, D.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"To study the effect of chemical industry effluent on macrophage functions in mice, 128 mice of 2 weeks age were procured and dividedinfourequal groups. These mice were vaccinated with Ranikhet disease vaccine (R,B) strain intraperitonealy @O.lml and were treatedwithchemicalindustry effluent as drinking water for 4 months. The functional activity of macrophages was assessed by nitroblue tetrazoliumreduction assay. The test was conducted at 90 days and 120 days of experiment. The results indicated a significant depression of macrophagefunctions as evidenced by a reduction in NBT positive cells in chemical industry effluent treated mice at 90 days and 120 days a/experiment in comparison to controls. This depression of macrophage activity may result in increased susceptibility of host to various infections.",
+	"xml:lang":"eng"
+	}
+	}}

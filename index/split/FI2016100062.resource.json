@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/e12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Drip irrigation system for steep slope land"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Azab, T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sirhan, A. Abu (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100062",
+	"dct:identifier":"FI2016100062",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This experiment was carried out at steep slope area planted with trees in different elevation terraces. The difference in elevation between upper and lower terraces at the area of study was about 8 m irrigated by drip irrigation system. The system of irrigation has a problem in distribution uniformity of water resulted from initial filling of the pipes and drainage of water after stopping irrigation. Therefore, the lowest terrace receives the highest while the upper terrace receives the lowest amount of water. The distribution uniformity of the system is affected also by pressure variation as a result of the difference in elevation. The objective of the present research was to reduce the water flow variation between terraces by changing the distribution, length and distance between laterals on the manifold to solve the existing problems. The results indicated that the flow variation between terraces was reduced from 40% in the traditional design to 8% after applying the new design."}
+	}}

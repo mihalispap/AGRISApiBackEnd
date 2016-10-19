@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biodiversity indicators in national forest inventories.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Newton, Adrian C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kapos, Valerie.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"indikaattorit"},
+	{"value":"biodiversity"},
+	{"value":"kestävä metsätalous"},
+	{"value":"national forest inventory"},
+	{"value":"forest inventories"},
+	{"value":"biodiversiteetti"},
+	{"value":"sustainability"},
+	{"value":"forestry"},
+	{"value":"metsäninventointi"},
+	{"value":"valtakunnan metsien inventointi"},
+	{"value":"indicators"},
+	{"value":"luonnon monimuotoisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000607",
+	"dct:identifier":"FI2016000607",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

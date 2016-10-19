@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Spontaneous occurrence of luteoma and uterine adenocarcinoma in the reproductive tract of a rabbit",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":249,
+	"dc:subject":[
+		{"value":"histopatologia",
+	"xml:lang":"esp"
+	},
+	{"value":"enfermedades uterinas",
+	"xml:lang":"esp"
+	},
+	{"value":"lapin (oryctolagus)",
+	"xml:lang":"fre"
+	},
+	{"value":"histopathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"uterine diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"conejo (oryctolagus)",
+	"xml:lang":"esp"
+	},
+	{"value":"histopathology",
+	"xml:lang":"eng"
+	},
+	{"value":"maladie de l'uterus",
+	"xml:lang":"fre"
+	},
+	{"value":"adenome",
+	"xml:lang":"fre"
+	},
+	{"value":"rabbits",
+	"xml:lang":"eng"
+	},
+	{"value":"adenoma",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":251,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000126",
+	"dct:identifier":"IN2015000126",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ahamad, D. Basheer"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Punniamurthy, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sakthivelan, S.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ranganathan, V."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Adetailed postmortem examination of two and a half year-old female Dutch breed rabbit carcass was carried out. The rabbit had a historyofanorexia,depression and prolonged estrus over a period of about 3 months. Grossly, a yellowish pink and soft growth was found intherightovary.The uterus showed multi nodular yellowish white, soft and firm growth. Cytological observations of ovarian and uterine growthwere most suggestive of a neoplasm of epithelial cell origin. Histologically, the ovarian and uterine growths were diagnosed as luteomaand endometrial adenocarcinoma respectively.",
+	"xml:lang":"eng"
+	}
+	}}

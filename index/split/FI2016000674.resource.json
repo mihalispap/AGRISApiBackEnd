@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The influence of changes in climate and land-use on regeneration dynamics of Norway spruce at the treeline in the Swiss Alps.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bolli, Jacqueline C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rigling, Andreas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bugmann, Harald.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"kuusi"},
+	{"value":"dendroecology"},
+	{"value":"leviäminen"},
+	{"value":"regeneration"},
+	{"value":"Alps"},
+	{"value":"climatic change"},
+	{"value":"ekologia"},
+	{"value":"Alpit"},
+	{"value":"maankäyttö"},
+	{"value":"metsänraja"},
+	{"value":"dendrologia"},
+	{"value":"niityt"},
+	{"value":"Switzerland"},
+	{"value":"microsites"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"subalpine meadow  succession"},
+	{"value":"kasvu"},
+	{"value":"sukkessio"},
+	{"value":"puut"},
+	{"value":"tree invasion"},
+	{"value":"trees"},
+	{"value":"Picea abies"},
+	{"value":"treeline"},
+	{"value":"land use"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000674",
+	"dct:identifier":"FI2016000674",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

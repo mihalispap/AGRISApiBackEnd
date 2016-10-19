@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Developing multipatch environmental ethics : the paradigm of flux and the challenge of a patch dynamic world.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    White, Peter S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jentsch, Anke.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nature conservation"},
+	{"value":"disturbance"},
+	{"value":"biodiversity"},
+	{"value":"etiikka"},
+	{"value":"ethics"},
+	{"value":"luonnonsuojelu"},
+	{"value":"sustainability"},
+	{"value":"patch dynamics"},
+	{"value":"the paradigm of flux"},
+	{"value":"luonnon monimuotoisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000371",
+	"dct:identifier":"FI2016000371",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

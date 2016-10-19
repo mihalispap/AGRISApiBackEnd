@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of diets based on grass silage, hay or oat straw supplemented with four levels of concentrates in the feeding of growing Ayrshire bulls /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Aronen, Ilmo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lampila, Martti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hepola, Helena.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"muuntosuhde"},
+	{"value":"carcass composition"},
+	{"value":"avena sativa"},
+	{"value":"straw"},
+	{"value":"rehut"},
+	{"value":"heinä"},
+	{"value":"rehuarvojärjestelmät"},
+	{"value":"säilörehu"},
+	{"value":"ruokintakokeet"},
+	{"value":"feed conversion efficiency"},
+	{"value":"ruhot"},
+	{"value":"sonnit"},
+	{"value":"nautakarja"},
+	{"value":"bulls"},
+	{"value":"ohra"},
+	{"value":"hay"},
+	{"value":"concentrates"},
+	{"value":"olki"},
+	{"value":"silage"},
+	{"value":"väkirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001277",
+	"dct:identifier":"FI2016001277",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

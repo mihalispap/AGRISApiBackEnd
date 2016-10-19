@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Identifying and mapping leaf nutrient based constraints for coconut productivity in Coimbatore and Tiruppur districts of Tamil Nadu state, India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":163,
+	"dc:subject":[
+		{"value":"constraints",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrients",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"hojas",
+	"xml:lang":"esp"
+	},
+	{"value":"feuille",
+	"xml:lang":"fre"
+	},
+	{"value":"nutrientes",
+	"xml:lang":"esp"
+	},
+	{"value":"contrainte",
+	"xml:lang":"fre"
+	},
+	{"value":"coaccion",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"substance nutritive",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"leaves",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":169,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000812",
+	"dct:identifier":"IN2015000812",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Selvamani, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Duraisami, V.P."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

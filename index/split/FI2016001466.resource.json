@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Deficit irrigation effects on onion (Allium cepa L. E.T. Grano 502) yield in unheated greenhouse condition.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ayas, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Demirtas, C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"water"},
+	{"value":"watering"},
+	{"value":"onions"},
+	{"value":"plant water relations"},
+	{"value":"crop yield"},
+	{"value":"dry matter"},
+	{"value":"bulbs"},
+	{"value":"water use efficiency"},
+	{"value":"chemical composition"},
+	{"value":"irrigation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001466",
+	"dct:identifier":"FI2016001466",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

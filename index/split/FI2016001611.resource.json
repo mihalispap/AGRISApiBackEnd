@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of near infrared (NIR) spectroscopy and electronic nose (EN) techniques to analyse the conservation quality of farm silages.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Masoero, Giorgio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sala, Giacomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peiretti, Pier Giorgio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lähi-infrapunaspektroskopia"},
+	{"value":"käyminen"},
+	{"value":"analyysimenetelmät"},
+	{"value":"analytical methods"},
+	{"value":"quality"},
+	{"value":"fermentation"},
+	{"value":"säilörehu"},
+	{"value":"infrared spectrophotometry"},
+	{"value":"laatu"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001611",
+	"dct:identifier":"FI2016001611",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

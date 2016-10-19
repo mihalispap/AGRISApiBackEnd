@@ -1,0 +1,72 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Microfinance and income from dairy in Haryana: An impact analysis",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":751,
+	"dc:subject":[
+		{"value":"MICROFINANCE"},
+	{"value":"evaluation de l'impact",
+	"xml:lang":"fre"
+	},
+	{"value":"metodos estadisticos",
+	"xml:lang":"esp"
+	},
+	{"value":"dairies",
+	"xml:lang":"eng"
+	},
+	{"value":"plantas lecheras",
+	"xml:lang":"esp"
+	},
+	{"value":"impact assessment",
+	"xml:lang":"eng"
+	},
+	{"value":"statistical methods",
+	"xml:lang":"eng"
+	},
+	{"value":"evaluacion del impacto",
+	"xml:lang":"esp"
+	},
+	{"value":"haryana",
+	"xml:lang":"esp"
+	},
+	{"value":"usine laitiere",
+	"xml:lang":"fre"
+	},
+	{"value":"methode statistique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":756,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000147",
+	"dct:identifier":"IN2015000147",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Feroze, S.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chauhan, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakravarty, A.K."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"This paper studies the impact of microfinance through Self Help Groups (SHGs) on income from dairy using with and without (credit) approach. Tabular and regression analysis were employed on primary data collected from a sample of 120 SHG members and 60 non-members randomly selected from 2 districts of Haryana during 2007â08. Average milk production per day per household was higher for members (6.13 litre and 2.85 litre) than non-members (5.85 litre and 2.68 litre) in both, buffalo and cow. Investments on dairy were Rupees 36136 and Rupees 34674 in case of per member and nonmember household, respectively. Per household average annual gross income from dairy was worked out to be higher in member households (Rupees28256) than non-member households (Rupees 26443). The variable credit turned out to have positive and significant impact on gross income from dairy.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A new heuristic method for solving spatially constrained forest planning problems based on mitigation of infeasibilities radiating outward from a forced choice.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bettinger, Pete.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhu, Jianping.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"päätöksenteko"},
+	{"value":"integer programming"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"optimization methods"},
+	{"value":"decision making"},
+	{"value":"integer decision variables"},
+	{"value":"tilastomenetelmät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000707",
+	"dct:identifier":"FI2016000707",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

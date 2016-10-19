@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Insect Diversity in Pigeonpea Ecosystem in Tamil Nadu.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":349,
+	"dc:subject":[
+		{"value":"ecosystems",
+	"xml:lang":"eng"
+	},
+	{"value":"biodiversite",
+	"xml:lang":"fre"
+	},
+	{"value":"ecosysteme",
+	"xml:lang":"fre"
+	},
+	{"value":"insecta",
+	"xml:lang":"esp"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"ecosistema",
+	"xml:lang":"esp"
+	},
+	{"value":"biodiversity",
+	"xml:lang":"eng"
+	},
+	{"value":"biodiversidad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":356,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000048",
+	"dct:identifier":"IN2015000048",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chitra, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Soundararajan, R.P."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Field surveys were carried out in the pigeonpea fields at National Pulses Research Centre, Vamban in Pudukkottai district of Tamil Nadu from May 2007 to April, 201 1. A total of 127 insect species under 113 genera. 59 families and 11 orders were observed in the pigeonpea ecosystem. Amongst the insect orders Coleoptera was the most diverse (31 species) followed by Hemiptera (27 species), Lepidoptera (19 species), Orthoptera (15 species), Hymenoptera (14 species), Odonata (7 species), Dictyoptera (6 species) and Diptera (4 species), Neuroptera (2 species), Ephemeroptera and Isoptera (1 species each). As per Schoenly and Zhang (1999), amongst the different functional groups, the diversity of the herbivores was the maximum (84 species), followed by the predators (23 species), omnivores (10 species), parasitoids (5 species), tourists (2 species) and the role undetermined (3 species).",
+	"xml:lang":"eng"
+	}
+	}}

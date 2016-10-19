@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Improving participation and cooperation on water management: experience from farmer-managed systems in Albania.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sallaku, F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chachalis, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Darawsheh, M. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tota, O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huqi, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fortuzi, S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"watering"},
+	{"value":"maanviljelijät"},
+	{"value":"water management"},
+	{"value":"social participation"},
+	{"value":"rural communities"},
+	{"value":"farmers associations"},
+	{"value":"irrigation"},
+	{"value":"irrigation water"},
+	{"value":"farmers"},
+	{"value":"yhteistyö"},
+	{"value":"vesivarat"},
+	{"value":"drainage systems"},
+	{"value":"cooperation"},
+	{"value":"Albania"},
+	{"value":"citizen participation"},
+	{"value":"water resources"},
+	{"value":"rehabilitation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000928",
+	"dct:identifier":"FI2016000928",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

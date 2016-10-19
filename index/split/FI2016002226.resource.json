@@ -1,0 +1,106 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Grain legumes for soil productivity improvement in the Northern Guinea savanna of Nigeria /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Odunze, A. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tarawali, S. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haan, N. C. de.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Iwuafor, E. N. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Katung, P. D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akoueguon, G. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Amadji, A. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schultze-Kraft, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Atala, T. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahmed, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adamu, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Babalola, A. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ogunwole, J. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alimi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ewansiha, S. U.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adediran, S. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"soil improvement"},
+	{"value":"palkokasvit"},
+	{"value":"maaperä"},
+	{"value":"maanparannus"},
+	{"value":"viljavuus"},
+	{"value":"intercropping"},
+	{"value":"grain legumes"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002226",
+	"dct:identifier":"FI2016002226",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

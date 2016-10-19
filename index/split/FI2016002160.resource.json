@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1054",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kolis, Karin,
+    kirjoittaja
+    Aalto yliopisto
+    10076
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hiironen, Juhana,
+    kirjoittaja.
+    Aalto yliopisto
+    10076
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ärölä, Esa,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vitikainen, Arvo,
+    kirjoittaja.
+    Aalto yliopisto
+    10076
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Effects of sale-specific factors on stumpage prices in Finland.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"sahatukit"},
+	{"value":"family farms"},
+	{"value":"pystykaupat"},
+	{"value":"standing timber sales"},
+	{"value":"kuitupuu"},
+	{"value":"hedonic price"},
+	{"value":"pulpwood"},
+	{"value":"sawlogs"},
+	{"value":"yksityismetsänomistajat"},
+	{"value":"puukauppa"},
+	{"value":"timber trade"}
+	],
+	"bibo:doi":"10.14214/sf.1054",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016002160",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002160",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

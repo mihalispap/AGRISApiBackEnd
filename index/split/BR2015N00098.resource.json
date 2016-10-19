@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"AVALIAÇÃO DA TECNOLOGIA, PRODUÇÃO E ECONOMICIDADE DA PESCA DE SCOMBRIDEOS NA PENÍNSULA BRAGANTINA, PARÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":126,
+	"bibo:volume":3,
+	"bibo:pageEnd":137,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00098",
+	"dct:identifier":"BR2015N00098",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/725",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Suelly Fernandes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alessandra Bentes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Janaina Pereira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vando Gomes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bianca Bentes"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify; line-height: normal; margin: 0cm 0cm 0pt;\"><span style=\"font-family: \">Dentre a família dos Scombrideos as espécies que contribuem para a economia pesqueira paraense, destacam-se serra e cavala. Em Bragança, os volumes desembarcados vêm diminuindo gradativamente. Diante desta problemática e ainda pela aparente migração da frota que captura pargo direcionar-se à captura destas espécies, este trabalho visa avaliar os reais volumes produzidos bem como compreender a dinâmica da frota e dos rendimentos deste sistema pesqueiro. Os dados foram coletados no período de abril de 2008 a abril de 2011 em dez portos. Os valores de abundância (captura por unidade de esforço - CPUE) foram calculados por meio da divisão do volume produzido pelo esforço empregado. Foram definidos quatro períodos sazonais. Para análise de dados foram utilizados os programas Statistica 7.0 e Microsoft Office Excel 2010. Foi registrado um total de 311 embarcações com dimensões e poder de captura diferenciada, atuando anualmente. Foram registrados 21 apetrechos. O preço médio de primeira venda de serra foi de R$ 3,54 e de cavala de R$ 4,39 totalizando uma estimativa de R$ 15.736.634,03 de um total de 4.309.550,7 kg. A captura por unidade de esforço variou significativamente por ano (F=11.62; p<0.01), por período sazonal (F= 4,98; p< 0,01) e por tipo de barco (F=20,22; p<0,01). A cadeia de comercialização beneficia proprietários de embarcações, atravessadores e os donos de caminhão, que destinam a produção ao mercado municipal e à exportação, entretanto, não são declarados os rendimentos da produção ao município e consequentemente não há contribuição para a economia local e estadual.</span>",
+	"xml:lang":"por"
+	}
+	}}

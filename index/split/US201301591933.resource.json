@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of initial seed moisture content, imbibition temperature and seed vigour on germination, electrolyte leakage and seedling growth in plum tomatoes"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591933",
+	"dct:identifier":"US201301591933",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a23.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chachalis, D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Darawsheh, M.K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khah, E.M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effect of interaction of either the initial seed moisture content or seed vigour and imbibition temperature on germination, electrolyte leakage and seedling growth in plum tomatoes was studied. Specific moisture content critical points for the onset of imbibitional injury at either 25ºC (0.18 and 0.27 g/g for Cuore di bue and Allflesh 1120, respectively) or 5ºC (0.31 g/g for both hybrids) were determined. In addition, imbibition temperature affected the rate of germination decline across the different moisture contents. The hybrid with the lower seed vigour had higher critical moisture content after which there was a linear decline in germination. Leakage rates were not similar to imbibition rates (peak of leakage at 0.24 to 0.26 g/g compared to peak of imbibition at 0.1 to 0.15 g/g). It is suggested a specific structure of the seed coat called semipermeable layer would play a significant role in regulating the electrolyte leakage. Chilling imbibition (5ºC) had a significant effect on numbers of atypical seedlings. Seed surface micrographs (SEM) revealed the existence of a dense network of surface seed hairs that facilitated imbibition by increasing the contact area of seed to water. Cross sections of hybrid I (Allflesh 1180) seeds, revealed the presence of gaps between the embryo and the endosperm. Those gaps were the free water accumulation area and therefore those seeds would be more exposed to imbibition damage compared to seeds of hybrid II (Cuore di bue) that lacked the gaps. Data from this study, would give some explanations for the low germination and poor crop stand establishment frequently observed under field conditions in plum tomatoes."}
+	}}

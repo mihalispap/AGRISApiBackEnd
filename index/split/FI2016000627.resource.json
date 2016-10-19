@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Decision support system for agricultural land use and fertilisation optimisation : a case study on barley production in Estonia /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Astover, Alar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Roostalu, Hugo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mõtte, Mati.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tamm, Indrek.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vasiliev, Nikolay.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lemetti, Illar.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"Estonia"},
+	{"value":"päätöksenteko"},
+	{"value":"kasvintuotanto"},
+	{"value":"maankäyttö"},
+	{"value":"decision making"},
+	{"value":"fertilizer application"},
+	{"value":"paikkatietojärjestelmät"},
+	{"value":"maankäytön suunnittelu"},
+	{"value":"mallintaminen"},
+	{"value":"kannattavuus"},
+	{"value":"barley"},
+	{"value":"land use planning"},
+	{"value":"geographical information systems"},
+	{"value":"ohra"},
+	{"value":"lannoitus"},
+	{"value":"optimointi"},
+	{"value":"risk factors"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000627",
+	"dct:identifier":"FI2016000627",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

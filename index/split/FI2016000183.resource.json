@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Direct ³¹P NMR spectroscopic measurement of phosphorus forms in dairy manures /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jayasundera, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schmidt, W. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Reeves, J. B.,
+    III.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dao, T. H.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"NMR spectroscopy"},
+	{"value":"dairy cows"},
+	{"value":"fosfori"},
+	{"value":"dairy farms"},
+	{"value":"lehmät"},
+	{"value":"farmyard manure"},
+	{"value":"phosphorus"},
+	{"value":"naudanlanta"},
+	{"value":"karjanlanta"},
+	{"value":"lypsykarjatilat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000183",
+	"dct:identifier":"FI2016000183",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

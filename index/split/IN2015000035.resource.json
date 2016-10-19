@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biology, Seasonal Abundance and Management of Painted Bug (Bagrada Hilaris Burmeister) in Eastern Rajasthan",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":291,
+	"dc:subject":[
+		{"value":"biology",
+	"xml:lang":"eng"
+	},
+	{"value":"management",
+	"xml:lang":"eng"
+	},
+	{"value":"cultivo de temporada",
+	"xml:lang":"esp"
+	},
+	{"value":"gestion",
+	"xml:lang":"esp"
+	},
+	{"value":"seasonal cropping",
+	"xml:lang":"eng"
+	},
+	{"value":"rajasthan",
+	"xml:lang":"esp"
+	},
+	{"value":"biologie",
+	"xml:lang":"fre"
+	},
+	{"value":"heteroptera",
+	"xml:lang":"esp"
+	},
+	{"value":"culture saisonniere",
+	"xml:lang":"fre"
+	},
+	{"value":"biologia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":295,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000035",
+	"dct:identifier":"IN2015000035",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nagar, Rajender"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Y.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Ram"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S.P."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Laboratory studies on the biology of painted bug (Bagrada hilaris Burm.) revealed that the mean number of eggs laid by a female were 70.8 Â± 6.1 on soaked mustard seeds. The average preoviposition period, incubation period, nymphal period and total developmental period was found as 6.2 Â± 0.11 days, 3.6 Â± 0.09,16.2 Â± 0.57 days and 18.6 Â± 0.36 days, respectively. Two peaks of painted bug population were observed i.e. first in 49th standard week (6.5 painted bug/meter row length) and 12th standard week (9.7 painted bug/plant). B. hilaris population was found positively significantly correlated with maximum temperature (r=0.420), evaporation (r=0.455) and wind speed (r=0.422) while negatively significantly correlated with relative humidity (r=-0.424). Malathion 50EC @ 500ml/500 litre of water was found most effective (84.40% mean reduction after 10 days of spray). The highest incremental cost benefit ratio of 1:11.7 was obtained in malathion 50 EC @ 500ml/500 litre of water followed by endosulfan 4% dust @ 10 kg/ha (1:11.1) and endosulfan 35 EC @ 500ml/500 litre of water (1:11.0).",
+	"xml:lang":"eng"
+	}
+	}}

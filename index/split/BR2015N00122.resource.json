@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"PHYTOPLANKTON DIVERSITY AND PHYSICAL-CHEMICAL ASPECTS OF WATER QUALITY OF LAKE JIQUI, RIO GRANDE DO NORTE, BRAZIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":97,
+	"bibo:volume":3,
+	"bibo:pageEnd":112,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00122",
+	"dct:identifier":"BR2015N00122",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/820",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Patrícia Luiza da Silva Carmo de Lima"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Emilly Kataline Rodrigues Pessoa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sathyabama Chellappa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naithirithi T. Chellappa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UFRN"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<p class=\"MsoNoSpacing\" style=\"text-align: justify;\"><span style=\"font-size: 12.0pt; font-family: \" lang=\"EN-US\">The aim of this study was to evaluate the phytoplankton diversity and water quality of Lake Jiqui on spatial and temporal scales. This freshwater ecosystem is the most important source of water supply for the Metropolitan city of Natal, and the adjacent municipality Parnamirim, Rio Grande do Norte. The water samples were collected from September, 2008 to August, 2009 at four different sites during the wet and dry season of an annual cycle. The samples were taken from surface and bottom waters and from a site dominated by rooted and floating macrophytes. Limnological factors such as  temperature, pH and electrical conductivity were measured in situ</em>. Nutrient variables such as nitrate-nitrogen, ammonium-nitrogen and orthophosphate were analyzed in the laboratory. Chlorophyll-<a concentrations from the fresh samples were analyzed with 90% acetone extraction in the dark at 4°C in the laboratory. Ecological indices such as diversity, equitability (similarity), and species richness were calculated according to Shannon-Weaver. BOD<sub> data were obtained from CAERN (Water and Sewage Company of Rio Grande do Norte). Significant results were obtained for limnological parameters on temporal scales (dry and wet season) but not on spatial scales. Phytoplankton diversity was moderate to low on both spatial and temporal scales, with the selected dominance of the species Euglena gracilis, Trachelomonas </em>(Euglenophyceae) and Gomphonema, Navicula cuspidata var. cuspidata, Navicula spp<em>, Rhopalodia gibba and Cyclotella </em>(Bacillariophyceae). Chlorophyll-<a concentrations were low throughout the study period, with a mean of 1.07 µgL<sup>-1</sup>. Chlorophyll concentration and BOD values remained within allowable water quality limits for human consumption. The Lake Jiqui is considered to be an oligotrophic ecosystem because of low chlorophyll concentrations, improved transparency, reduction in cyanobacterial species and low nutrient content.</span>",
+	"xml:lang":"por"
+	}
+	}}

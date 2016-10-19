@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Interactions between morphological and physiological drought responses in Eucalyptus microtheca.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Susiluoto, Sanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Berninger, Frank.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"Eucalyptus microtheca"},
+	{"value":"kuivuus"},
+	{"value":"plant morphology"},
+	{"value":"physiological responses"},
+	{"value":"klorofylli"},
+	{"value":"drought"},
+	{"value":"root/shoot ratio"},
+	{"value":"xylem"},
+	{"value":"RuBP"},
+	{"value":"chlorophyll fluorescence"},
+	{"value":"morfologia"},
+	{"value":"fotosynteesi"},
+	{"value":"kasvifysiologia"},
+	{"value":"permeability"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000084",
+	"dct:identifier":"FI2016000084",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

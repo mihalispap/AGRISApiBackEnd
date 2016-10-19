@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Epidemiology and management of gastrointestinal nematodes in young sheep at an organised farm in semiarid Rajasthan",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":220,
+	"dc:subject":[
+		{"value":"nematoda",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"epidemiologie",
+	"xml:lang":"fre"
+	},
+	{"value":"lutte antinematode",
+	"xml:lang":"fre"
+	},
+	{"value":"epidemiologia",
+	"xml:lang":"esp"
+	},
+	{"value":"nematode control",
+	"xml:lang":"eng"
+	},
+	{"value":"control de nematodos",
+	"xml:lang":"esp"
+	},
+	{"value":"rajasthan",
+	"xml:lang":"esp"
+	},
+	{"value":"haemonchus contortus",
+	"xml:lang":"esp"
+	},
+	{"value":"epidemiology",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":224,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000403",
+	"dct:identifier":"IN2015000403",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Swarnkar, C.P."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The profile of predominant gastrointestinal strongyle worm (Haemonchus contortus) was studied in young sheep at native and exposed stages in order to ascertain the source of infection and to formulate suitable targeted treatment strategy. Lambs born during the major lambing season (December to February) were used for investigation. From 2004 to 2011, a total of 2397 sheep (6â7 months of age) belonging to Malpura and Avikalin breeds were evaluated for intensity of strongyle infection at monthly intervals during wormy season (from July to November). A total of 10058 faecal samples were examined by the modified McMaster technique. The overall monthly mean faecal egg count (FEC) varied significantly (P0.001) from 9.1Â±3.1 (July) to 3959.0Â±213.4 epg (September) in males and from 8.7Â±3.0 (July) to 3157.2Â±177.3 epg in females of Malpura breed. Likewise in Avikalin sheep it ranged from 12.9Â±3.7 (July) to 3913.7Â±203.0 epg (September) and from 12.0Â±2.9 (July) to 4038.5Â±232.3 epg (September) in males and females, respectively. Significant (P0.05) variation in mean FECs were observed between the breeds from August to October. The effect of year was significant (P0.001) for all the monthly FECs in both the breeds. It was concluded that in semi-arid conditions of Rajasthan, young sheep (born during spring season) of marketable age could be raised without anthelmintics till July and (gastrointestinal nematode) GIN infection in them could be effectively managed by a single anthelmintic intervention during late monsoon ).",
+	"xml:lang":"eng"
+	}
+	}}

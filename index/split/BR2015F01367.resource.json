@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Tiller classes on signalgrass pasture according to the cattle droppings position",
+	"xml:lang":"eng"
+	},
+	{"value":"   Classes de perfilhos em pasto de capim-Braquiária em relação à localização das fezes bovinas ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"brachiaria decumbens",
+	"xml:lang":"eng"
+	},
+	{"value":"stocks",
+	"xml:lang":"eng"
+	},
+	{"value":"population",
+	"xml:lang":"eng"
+	},
+	{"value":"tillering",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01367",
+	"dct:identifier":"BR2015F01367",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/bia.php?vol=67&num_vol=1",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SANTOS,  M. E. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FONSECA,  D. M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GOMES, V. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRAZ,  T. G. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALBINO,  R. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CARVALHO,  V. V."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O experimento foi conduzido objetivando-se investigar a influência da deposição natural das fezes pelos bovinos sobre a densidade populacional de diversas classes de perfilhos no pasto de Brachiaria decumbens Stapf. cv. Basilisk manejada sob lotação contínua. Os tratamentos foram dois locais, um próximo (imediatamente adjacente) e outro distante cerca de 1,0 m das fezes excretadas pelos bovinos, avaliados em blocos casualizados, com três repetições. Os perfilhos foram classificados quanto à origem de desenvolvimento, nível de desfolhação e ao comprimento. O número de perfilhos vegetativos foi maior no local distante (1851 perfilhos/m2) do que naquele próximo das fezes (848 perfilhos/m2). O número de perfilhos reprodutivos foi maior nos locais próximos das fezes. Não foi observado efeito da localização das fezes sobre a densidade populacional de perfilhos mortos. O número de perfilhos basais e aéreos foi superior no local distante, quando comparados ao do local próximo das fezes. Houve maiores densidades populacionais de perfilhos desfolhados e sem meristema apical nos locais distantes das fezes, enquanto que a densidade populacional de perfilhos não desfolhados foi maior nos locais próximos das fezes. Os perfilhos menores foram mais frequentes (P",
+	"xml:lang":"por"
+	},
+	{"value":"The experiment was carried out aiming to investigate the influence of natural deposition of cattle droppings on population density of several classes of tillers on the Brachiaria decumbens Stapf. cv. Basilisk pasture managed under continuous stocking. Two places on the same pasture were evaluated: one near (immediately adjacent) and one far, about 1.0 m, from the cattle droppings. Randomized block design with three repetitions was used. Tillers were classified according to the developmental stage, growth origin, defoliation rate and length. The number of vegetative tillers was higher (P",
+	"xml:lang":"eng"
+	}
+	]
+	}}

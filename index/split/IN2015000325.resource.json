@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Acid-base status and blood gas tensions of neonatal buffalo calves under normal and forced calving",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1215,
+	"dc:subject":[
+		{"value":"newborn animals",
+	"xml:lang":"eng"
+	},
+	{"value":"gaz sanguin",
+	"xml:lang":"fre"
+	},
+	{"value":"gases sanguineos",
+	"xml:lang":"esp"
+	},
+	{"value":"parto",
+	"xml:lang":"esp"
+	},
+	{"value":"animal nouveau-ne",
+	"xml:lang":"fre"
+	},
+	{"value":"parturition",
+	"xml:lang":"fre"
+	},
+	{"value":"animal recien nacido",
+	"xml:lang":"esp"
+	},
+	{"value":"ternero",
+	"xml:lang":"esp"
+	},
+	{"value":"calves",
+	"xml:lang":"eng"
+	},
+	{"value":"blood gases",
+	"xml:lang":"eng"
+	},
+	{"value":"veau",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1218,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000325",
+	"dct:identifier":"IN2015000325",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prabhakar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brar, P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uppal, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prahlad Singh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gandotra, V.K."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"The evaluation of acid-base homeostasis in difficult parturition is vital to clinical recognition of metabolic disorders to provide correct therapeutic measures. The acidbase status and blood gas tensions of buffalo calves delivered normally (n, 17) and delivered through manipulations and forced traction (n, 17) were studied over a period of 5 h immediately after calving. Changes in the acid-base status and blood gas dynamics were suggestive of metabolic acidosis with some compensation immediately after delivery in normally delivered (ND) calves. The calves delivered through forced extraction (FD) had distinct metabolic acidosis which continued up to 4 h after calving. Decreased oxygen utilization following dystocia was evident which improved over the period of time after calving. Furthermore, wider differences were recorded in the acid-base and blood gas values of metabolic acidosis of arterial and venous capillary blood. These differences found in the levels of acidbase balance between both kinds of blood revealed restricted informative significance in the venous blood.",
+	"xml:lang":"eng"
+	}
+	}}

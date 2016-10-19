@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Study on the Association of Three Microsatellite DNA Markers with Milk Fat Percentage in Crossbred Dairy Cattle of Kerala",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":46,
+	"dc:subject":[
+		{"value":"ganado de leche",
+	"xml:lang":"esp"
+	},
+	{"value":"dairy cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"microsatellite",
+	"xml:lang":"fre"
+	},
+	{"value":"microsatelites",
+	"xml:lang":"esp"
+	},
+	{"value":"globule gras",
+	"xml:lang":"fre"
+	},
+	{"value":"grasa de la leche",
+	"xml:lang":"esp"
+	},
+	{"value":"milk fat",
+	"xml:lang":"eng"
+	},
+	{"value":"bovin laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"fat globules",
+	"xml:lang":"eng"
+	},
+	{"value":"matiere grasse du lait",
+	"xml:lang":"fre"
+	},
+	{"value":"adn",
+	"xml:lang":"esp"
+	},
+	{"value":"dna",
+	"xml:lang":"eng"
+	},
+	{"value":"glomerulos de grasa",
+	"xml:lang":"esp"
+	},
+	{"value":"microsatellites",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":50,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000075",
+	"dct:identifier":"IN2015000075",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thomas, Naicy"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anilkumar, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Usha, A.P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The aim of this study was to analyse the genetic variation of three microsatellite DNA loci (ILSTS096, BL41 and BM1508) associated with the milk fat percentage of crossbred dairy cattle of Kerala. The PCR amplified products were detected by denaturing polyacrylamide gel electrophoresis and subsequent autoradiography. Polymorphic information content (PIC), Direct count heterozygosity and unbiased heterozygosity of microsatellites ranged 0.63â0.87, 0.68â0.88 and 0.69â0.89 respectively. The allelic averages of milk fat percentage of allele 188 and allele 204 of ILSTS096 were significantly lower than those of other alleles of the same locus. A significantly higher milk fat percentage was observed in animals with the allele 198 of ILSTS096 locus, compared to the animals without this allele. Animals with allele 240 and 242 at BL41 locus showed significantly higher and significantly lower milk fat percentage respectively when compared with the animals without these alleles. Animals with the alleles 109 and 113 at BM1508 locus showed a significantly higher milk fat percentage when compared with the animals without these alleles.",
+	"xml:lang":"eng"
+	}
+	}}

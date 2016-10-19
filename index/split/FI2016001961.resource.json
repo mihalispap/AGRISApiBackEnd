@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparing regression estimation techniques when predicting diameter distributions of Scots pine on drained peatlands.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Siipilehto, Jouni.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sarkkola, Sakari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mehtätalo, Lauri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Johnsonin SB jakauma"},
+	{"value":"peatlands"},
+	{"value":"mänty"},
+	{"value":"läpimitta"},
+	{"value":"rinnankorkeusläpimitta"},
+	{"value":"Pinus sylvestris"},
+	{"value":"statistical methods"},
+	{"value":"drainage"},
+	{"value":"jakaumat"},
+	{"value":"monimuuttujamenetelmät"},
+	{"value":"Johnson's SB distribution"},
+	{"value":"ojitetut suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001961",
+	"dct:identifier":"FI2016001961",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

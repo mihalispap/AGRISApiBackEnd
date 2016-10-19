@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1A101-106traceability.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Traceability in agriculture and food supply chain: A review of basic concepts, technological implications, and future prospects"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Opara, Linus U. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100260",
+	"dct:identifier":"FI2016100260",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In recent times, the accurate and timely traceability of products and activities in the supply chain has become a new factor in food and agribusiness. Increasingly, consumers in many parts of the world demand for verifiable evidence of traceability as an important criterion of food product quality/safety. This trend has been underpinned by several market-pull factors including increasing global demand for food products originating from diverse sources, high incidence of food-related health hazards and increasing concern over the impacts of genetically modified organisms (GMOs) on the human food chain and the environment. In order to meet consumer demands for consistent supply of top quality, safe and nutritious foods, as well as rebuild public confidence in the food chain, the design and implementation of full backward and forward traceable supply chains from farm to end-user has become an important part of the overall food quality assurance system. Farmers, postharvest handling operators, marketers, research practitioners and policy makers need good understanding of the concepts and implications of supply chain traceability to assist in developing and implementing appropriate technological interventions to meet consumer demands for traceable agricultural supply chains. The objectives of this article are to: (a) review the concepts of supply chain management and traceability in agriculture, and (b) highlight the technological challenges in implementing traceable agricultural supply chains. Development of appropriate measurement tools for food product labeling and identification, activity/process characterization, information systems for data capture, analysis, storage and communication, and the integration of the overall traceable supply chain are essential for success."}
+	}}

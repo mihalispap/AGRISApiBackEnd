@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Hydrolysis of kappa-casein solution by chymosin, plasmin, trypsin and Lactobacillus-proteinases /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pihlanto-Leppälä, Anne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pahkala, Eero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Antila, Veijo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"casein"},
+	{"value":"enzymatic hydrolysis"},
+	{"value":"entsymaattiset menetelmät"},
+	{"value":"valkuaisaineet"},
+	{"value":"kaseiini"},
+	{"value":"peptides"},
+	{"value":"maito"},
+	{"value":"hydrolyysi"},
+	{"value":"milk proteins"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001462",
+	"dct:identifier":"FI2016001462",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

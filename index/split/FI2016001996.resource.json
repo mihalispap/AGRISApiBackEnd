@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Does conversion of even-aged, secondary coniferous forests affect carbon sequestration? : a simulation study under changing environmental conditions /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Seidl, Rupert.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rammer, Werner.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lasch, Petra.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Badeck, Franz-Werner.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lexer, Manfred J.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"forest management"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"model comparison"},
+	{"value":"kuusi"},
+	{"value":"mallit"},
+	{"value":"climatic change"},
+	{"value":"PICUS"},
+	{"value":"climate change mitigation"},
+	{"value":"Picea abies"},
+	{"value":"metsänhoito"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001996",
+	"dct:identifier":"FI2016001996",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

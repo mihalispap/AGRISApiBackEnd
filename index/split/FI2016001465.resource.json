@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of soil activating agents for agriculture using bakuhan-seki.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Takeda, Noriko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Azad, Md. Abul Kalam.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ishikawa, Katsumi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yoshimura, Takahiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fujii, Joji.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kawasoe, Susumu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil amendments"},
+	{"value":"soil flora"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001465",
+	"dct:identifier":"FI2016001465",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

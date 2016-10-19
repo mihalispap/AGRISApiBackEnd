@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Participatory on-farm evaluation of the performance of drought-tolerant maize varieties in the Guinea savannas of Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kamara, Alpha Yaya (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kureh, Ibrahim (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Menkir, Abebe (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kartung, Peter (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amaza, Paul (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tarfa, Bitrus (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100105",
+	"dct:identifier":"FI2016100105",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Maize is an important food crop in the Guinea savannas of Nigeria where it is gradually replacing the traditional cereal crops, such as sorghum and millet because of its high productivity. Despite its high yield potential, maize production is faced with numerous constraints. One of these is drought both at the beginning and during the growing season, which significantly reduces grain yield. Therefore early-maturing varieties that are tolerant to drought or extra-early maturing varieties that escape drought are desirable in these communities. Efforts are being made at IITA to develop or identify drought-tolerant maize varieties that are adapted to the Guinea savannas of West Africa. This study evaluated three maize varieties that have been identified either to tolerate or escape drought. The drought-tolerant maize varieties were evaluated on farmers’ fields for two years in two Federal States of northern Nigeria. Generally, the on-farm yield of the maize varieties evaluated was higher than the average grain yield reported for northern Nigeria. Farmers differed in their preferred choice of varieties. In the relatively market-driven production systems in the communities in Borno State, the early-maturing and high-yielding drought-tolerant variety (TZE-COMP 3 DT) was popular. Since this variety attains physiological maturity in late September when rainfall is less, it can be harvested and processed for sale. It therefore has high potential for adoption in these communities. On the contrary, in the relatively resource-poor sorghum-based production systems in Kano State; extra-early maturing varieties (95TZEE-W and 95TZEE-Y) were preferred to provide food security during the period of food scarcity in August/September. The emphasis was therefore more on earliness of crop maturity than on high yields."}
+	}}

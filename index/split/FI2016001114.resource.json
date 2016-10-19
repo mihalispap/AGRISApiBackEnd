@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of training for inexperienced surveyors on data quality of tree diameter and height measurements.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kitahara, Fumiaki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mizoue, Nobuya.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yoshida, Shigejiro.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"training"},
+	{"value":"diameter"},
+	{"value":"harjoittelu"},
+	{"value":"metsä̈ninventointi"},
+	{"value":"pituus"},
+	{"value":"läpimitta"},
+	{"value":"hypsometers"},
+	{"value":"forest inventories"},
+	{"value":"National Forest Inventory"},
+	{"value":"measurement errors"},
+	{"value":"diameter tape"},
+	{"value":"virheet"},
+	{"value":"measurement"},
+	{"value":"mittaus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001114",
+	"dct:identifier":"FI2016001114",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

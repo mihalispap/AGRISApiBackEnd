@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Identification of Staphylococcus aureus and coagulase-negative staphylococci in some edible nuts"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591861",
+	"dct:identifier":"US201301591861",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f17.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vural, Aydın (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Erkan, Mehmet Emin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Özekinci, Tuncer (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In this study, 217 edible nut samples have been investigated regarding Staphylococcus aureus and coagulase-negative staphylococci (CNS). S. aureus was isolated in 26 (11.98%) samples, whereas CNS were isolated in 98 (45.16%) samples. Number of samples for different isolated CNS species was as follows: S. arlettae 19 (8.76%), S. saprophyticus 14 (6.45%), S. xylosus 12 (5.53%), S. epidermis 11 (5.07%), S. hominis 11 (5.07%), S. simulans 9 (4.15%), S. haemolyticus 7 (3.23%), S. lentus 6 (2.76%), S. equorum 4 (1.84%), S. sciuri 2 (0.92%), S. warneri 2 (0.92%) and S. capitis subsp. capitis 1 (0.46%)."}
+	}}

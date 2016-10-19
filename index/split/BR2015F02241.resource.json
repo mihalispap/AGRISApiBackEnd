@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":[
+		{"value":"   Primeira análise metagenômica de microorganismos em abelhas melíferas oriundas do Brasil ",
+	"xml:lang":"por"
+	},
+	{"value":"First metagenomic analysis of microorganisms in honey bees from Brazil",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"africanized bees",
+	"xml:lang":"eng"
+	},
+	{"value":"pathogens",
+	"xml:lang":"eng"
+	},
+	{"value":"honey",
+	"xml:lang":"eng"
+	},
+	{"value":"collapse",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02241",
+	"dct:identifier":"BR2015F02241",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1246470461.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"TEIXEIRA,  E. W."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MESSAGE,  D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CHEN,  Y."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PETTIS,  J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"EVANS,  J. D."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Alternative approaches including metagenomic and genetic screening can be extremely useful and can accelerate important discoveries related to a current phenomenon wich affect honey bees around the world (characterized by the depopulation or sudden losses of hives). To determine possible causes for the decline in honey bee colonies from southeastern Brazil, and in particular to test the likelihoods of specific predicted causative agent(s) for this condition, a diverse set of analyses were proposed. These analyses form part of a more extensive Epidemiological Evaluation Program for bees in southeastern Brazil. Here we present an overview about part of this Program. Three viruses were identified (Acute Bee Paralysis Virus - ABPV, Black Queen Cell Virus - BQCV, and Deformed Wing Virus - DWV) in 1,920 analyzed bees, and a multiplex RT-PCR assay was developed and validated. Although strategy adopted to analyze data in details is still being evaluated and prepared by the authors, the first results indicated that ca. 26 % of the samples carried Israeli Acute Paralysis Virus (IAPV), and some isolates for this virus were found. Nosema ceranae, Melissococus pluton, Leptomonas apis, and Spiroplasma apis were also detected. Pathological, epidemiological, and widespread studies remain to be conducted once no single pathogen seems overly predominant in declining bee colonies.",
+	"xml:lang":"eng"
+	},
+	{"value":"Abordagens alternativas, incluindo análises genéticas e metagenômicas, podem ser extremamente úteis para descobertas relacionadas ao atual fenômeno que vem afetando as abelhas melíferas no mundo (caracterizado pelo declínio populacional ou perda súbita de colméias). Para identificar as possíveis causas envolvidas com o declínio populacional em colméias da região sudeste do Brasil e, em particular, para testar as semelhanças com possíveis agentes causadores envolvidos com tal fenômeno, diversas análises foram propostas. Tais análises fazem parte de um extenso Programa de Avaliação Epidemiológica para abelhas oriundas da região sudeste do país e parte desse Programa e de seus resultados encontram-se aqui apresentados. Três vírus foram identificados (Acute Bee Paralysis Virus - ABPV, Black Queen Cell Virus - BQCV, and Deformed Wing Virus - DWV) em 1920 abelhas analisadas e um ensaio multiplex RT-PCR foi desenvolvido e validado. Embora certas estratégias adotadas para análise dos dados com maiores detalhes encontrem-se ainda em preparação, os primeiros resultados indicaram que aproximadamente 26% das amostras analisadas encontravam-se infectadas pelo vírus Israeli Acute Paralysis Virus (IAPV) e diferentes isolados de tal vírus foram identificados. Nosema ceranae, Melissococus pluton, Leptomonas apis, and Spiroplasma apis foram também detectados. Estudos patológicos, epidemiológicos e de dispersão necessitam ser conduzidos, uma vez que nenhum patógeno, em particular, parece ser predominante nas colônias afetadas pelo mencionado declínio.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of inorganic Se + vitamin E and organic Se + vitamin E on reproductive performance of young boars /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jacyno, Eugenia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaweçka, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kamyczek, Marian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kolodziej, Anita.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Owsianny, Jacek.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Delikator, Barbara.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"E-vitamiini"},
+	{"value":"seleeni"},
+	{"value":"selenium"},
+	{"value":"hedelmällisyys"},
+	{"value":"lisääntyminen"},
+	{"value":"vitamin E"},
+	{"value":"reproductive performance"},
+	{"value":"villisika"},
+	{"value":"boars"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000242",
+	"dct:identifier":"FI2016000242",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Serum Creatinine, Urea Nitrogen And Endogenous Creatinine Clearance Based Glomerular Filtration Rate In Camels To Evaluate Renal Functions",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1,
+	"dc:subject":[
+		{"value":"camello",
+	"xml:lang":"esp"
+	},
+	{"value":"kidneys",
+	"xml:lang":"eng"
+	},
+	{"value":"glomerulonephrite",
+	"xml:lang":"fre"
+	},
+	{"value":"glomerulo nefritis",
+	"xml:lang":"esp"
+	},
+	{"value":"camels",
+	"xml:lang":"eng"
+	},
+	{"value":"creatinina",
+	"xml:lang":"esp"
+	},
+	{"value":"rein",
+	"xml:lang":"fre"
+	},
+	{"value":"chameau",
+	"xml:lang":"fre"
+	},
+	{"value":"creatinine",
+	"xml:lang":"fre"
+	},
+	{"value":"glomerulonephritis",
+	"xml:lang":"eng"
+	},
+	{"value":"rinones",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":1,
+	"bibo:pageEnd":12,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000353",
+	"dct:identifier":"IN2015000353",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Camel: An International Journal of Veterinary Sciences (India)"},
+	"bibo:ISSN":{"value":"2321-709X"}
+	}
+	},
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Deen, Aminu"
+	}
+	},
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"To evaluate renal functions in camel, the study on profiles like Serum Creatinine (SC), Serum urea nitrogen (SUN), SUN/SC ratio was undertaken in institutes herd of camels (n=250) (Camelus dromedarius) of all age groups, both sexes and three breeds and in addition Glomerular Filtration rate (GFR) of 18 male camels of 3 breeds (n=6 each) with 6 individual replicates (Total 108 observations) were determined. The values of SC and SUN/SC ratio differ significantly (P 0.05) between breeds, while those of SUN did not differ (P0.05). SC was significantly higher in male (P0.05), while SUN and SUN/SC ratio was significantly higher (P0.05) in females. The values of SC and SUN/SC ratio did not differed significantly (P0.05) in different age groups, while SUN differed significantly (P0.05) between different age groups. Daily Urine Output (UO) and GFR differed significantly (P0.05) between Bikaneri and Kachchi breeds, while the difference was statistically non-significant (P0.05) between Bikaneri and Jaisalmeri and Bikaneri and Kachchi breeds. UO and GFR had highly significant (P0.01) positive correlation ship(r ",
+	"xml:lang":"eng"
+	}
+	}}

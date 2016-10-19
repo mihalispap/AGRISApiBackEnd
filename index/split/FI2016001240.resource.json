@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Making sustainability rankings using compromise programming : an application to European paper industry.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Diaz-Balteiro, Luis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Voces, Roberto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Romero, Carlos.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"compromise programming"},
+	{"value":"pulp and paper industry"},
+	{"value":"sustainability"},
+	{"value":"indicators"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001240",
+	"dct:identifier":"FI2016001240",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

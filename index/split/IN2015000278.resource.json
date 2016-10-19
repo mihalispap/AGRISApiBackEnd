@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of different level of casein/fat ratio on textural characteristics of buffalo feta type cheese",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1064,
+	"dc:subject":[
+		{"value":"quality",
+	"xml:lang":"eng"
+	},
+	{"value":"caseina",
+	"xml:lang":"esp"
+	},
+	{"value":"calidad",
+	"xml:lang":"esp"
+	},
+	{"value":"murissage",
+	"xml:lang":"fre"
+	},
+	{"value":"queso",
+	"xml:lang":"esp"
+	},
+	{"value":"cheese",
+	"xml:lang":"eng"
+	},
+	{"value":"maduramiento",
+	"xml:lang":"esp"
+	},
+	{"value":"casein",
+	"xml:lang":"eng"
+	},
+	{"value":"qualite",
+	"xml:lang":"fre"
+	},
+	{"value":"fromage",
+	"xml:lang":"fre"
+	},
+	{"value":"ripening",
+	"xml:lang":"eng"
+	},
+	{"value":"caseine",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1067,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000278",
+	"dct:identifier":"IN2015000278",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sanjeev Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kanawjia, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suryamani Kumar"
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The effect of different level of casein/fat (C/F) ratio on textural characteristics of buffalo feta type cheese were investigated up to 2 months of ripening. The rate and extent of textural development during ripening can be monitor by measuring some of the quantifiable rheological characteristics of cheese in terms of hardness, cohesiveness, springiness, gumminess and chewiness were determined by employing textural profile analyzer (TPA) during ripening period at 15 days interval. The maximum hardness was found with cheese prepared using C/F ratio of 0.80, while the minimum hardness was found with C/F ratio of 0.60 throughout the ripening period. The maximum cohesiveness and springiness was found in cheese made with C/F ratio of 0.80 and minimum cohesiveness and, springiness was found in cheese made with C/F ratio of 0.60. However, cohesiveness and springiness of all experimental cheeses decreased throughout the ripening period.",
+	"xml:lang":"eng"
+	}
+	}}

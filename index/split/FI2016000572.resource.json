@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Turkistarhan vaikutus pohjaveden nitraattipitoisuuteen.",
+	"xml:lang":"fin"
+	},
+	"dc:subject":[
+		{"value":"vedenlaatu"},
+	{"value":"maaperän saastuminen"},
+	{"value":"Finland"},
+	{"value":"nitrates"},
+	{"value":"pohjavedensuojelu"},
+	{"value":"turkistarhaus"},
+	{"value":"pohjavesi"},
+	{"value":"pollution by agriculture"},
+	{"value":"nitraatit"},
+	{"value":"groundwater"},
+	{"value":"animal husbandry"},
+	{"value":"furbearing animals"},
+	{"value":"farms"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"pohjavesialueet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000572",
+	"dct:identifier":"FI2016000572",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

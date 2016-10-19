@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"RELAÇÃO DA PRODUÇÃO DE FRUTOS DE CASTANHA-DA-AMAZÔNIA (Bertholletia excelsa Bonpl.) COM VARIÁVEIS DAS PRÓPRIAS CASTANHEIRAS, EM CAPOEIRA E FLORESTA DA RESEX CAJARI",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":31,
+	"bibo:volume":5,
+	"bibo:pageEnd":37,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00207",
+	"dct:identifier":"BR2015N00207",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1148",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ezaquiel de Souza Neves"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marcelino Carneiro Guedes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ediglei Gomes Rodrigues"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UFAC"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Embrapa Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Fapeap- Embrapa"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"Body1\" style=\"margin-bottom: 0.0001pt; text-align: justify;\"><span style=\"font-size:12.0pt;font-family:\" lang=\"PT\">O objetivo deste trabalho foi avaliar as relações entre a produção de frutos de castanheiras produtivas, de áreas de capoeiras e de castanhais nativos, com variáveis de DAP, copa e cipó. Este trabalho foi desenvolvido no sul do Estado do Amapá, em uma região conhecida como Alto Cajari, nas comunidades do Marinho, Açaizal e Martins. Essas comunidades estão localizadas dentro de uma unidade de conservação de uso sustentável, a Reserva Extrativista do Rio Cajari. </span><span style=\"font-size:12.0pt;font-family: \" A coleta de dados foi realizada na mesma região, em dois estádios sucessionais distintos da vegetação: capoeiras em estágio inicial de sucessão e floresta madura com castanhais. A unidade amostral considerada, tanto para a capoeira quanto para o castanhal, foi a própria castanheira. Foi realizada a identificação e medição de todas as castanheiras com diâmetro ≥ 10 cm acima do solo. Nas áreas de floresta madura foram encontradas 184 castanheiras com diâmetro ≥ 10 cm, gerando uma densidade total de 7 ind.ha<sup>-1</sup>. Na capoeira foi realizado o levantamento de 42 áreas, onde foram encontradas 636 castanheiras com diâmetro ≥ 10 cm e densidade de 11 ind.ha<sup>-1</sup>. Os coeficientes da regressão entre a produção e a área de copa e dap das castanheiras foram praticamente iguais para os dois estágios. Ambos possuem padrões de dispersão parecidos, com relações significativas, porém com fraco poder de predição. Mesmo estando em estágios, onde a disponibilidades de fatores se apresenta de forma diferenciada, a infestação por cipó não afeta a produção de frutos etanto em áreas de floresta como em área de capoeira não foram registrados indivíduos com grau de infestação de cipó > 75%.</span><p class=\"Body1\" style=\"margin-bottom: 0.0001pt; text-align: justify;\"><strong><span style=\"font-size:12.0pt; font-family:\">Palavras chave</span></strong><span style=\"font-size: 12.0pt;font-family:\">: Copa, Diâmetro, Estágios<span style=\"color:red\">.</span></span><p class=\"MsoNormal\" style=\"text-align: justify;\"> ",
+	"xml:lang":"por"
+	}
+	}}

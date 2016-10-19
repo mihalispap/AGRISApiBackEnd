@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of the nutritional status of adolescents in institutionalized secondary schools in Akure, Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ijarotimi, O. S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eleyinmi, A. F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ifesan, B.O.T. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100287",
+	"dct:identifier":"FI2016100287",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The body mass indices of 606 randomly selected adolescents in institutionalised schools in Akure, Nigeria, was investigated using anthropometric indices. Results showed that the mean age of males (163.37 months) was significantly higher (P < 0.05) than the females (158.38 months). SD Z-scores for weight-for-height (SDWHZ) values were 0.9952, 0.9922 and 1.0000; while SD Z-scores for height-for-age (SDHAZ) values were 1.0087, 0.9901 and 0.9999 respectively for males, females and overall. The height and weight of the pupils were not significantly different (P > 0.05), however the weight-for-height (W/H) and height-for-age (H/A) values were significantly different in the two groups (i.e male and female pupils). Weight, height and age showed positive correlation with W/H (R = 0.959, 0.624, and 0.573 respectively) the Z-score of W/H (WHZ); HAZ showed negative correlation with age and weight (R = – 0.817 and – 0.222). Negative energy balance was observed (-2630.37 kcal male; -2512.32 kcal female). The mean energy intake was 1,266.7 kcal, representing 50% of the total daily energy required for 13 – 15 year olds. BMR is higher (2232.49 kcal) in males than in females (1654.66 kcal). The BMI for males was 17.70 and 18.81 for females. The relationship between age and the anthropometric and nutritional indices measured could be described using either linear or quadratic regression equations."}
+	}}

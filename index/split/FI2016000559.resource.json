@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n1p69.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of substrate type on the field performance and chemical composition of highbush blueberry cv.Patriot.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ochmiam, Ireneusz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grajkowski, Józef.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Skupień, Katarzyna
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fruit"},
+	{"value":"Vaccinium corymbosum"},
+	{"value":"mulches"},
+	{"value":"makroravinteet"},
+	{"value":"crop yield"},
+	{"value":"mikroravinteet"},
+	{"value":"blueberries"},
+	{"value":"eloperäiset katteet"},
+	{"value":"sato"},
+	{"value":"quality"},
+	{"value":"pensasmustikka"},
+	{"value":"phenolic compounds"},
+	{"value":"firmness"},
+	{"value":"marjat"},
+	{"value":"chemical compounds"},
+	{"value":"trace elements"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"katteet"},
+	{"value":"soil"},
+	{"value":"kasvualustat"},
+	{"value":"fenolit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000559",
+	"dct:identifier":"FI2016000559",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

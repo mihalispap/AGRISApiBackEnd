@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Organic fertilizer and biogas production from poultry wastes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    El-Hadidi, Y. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Turki, A. I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"siipikarja"},
+	{"value":"Saudi Arabia"},
+	{"value":"poultry"},
+	{"value":"agricultural wastes"},
+	{"value":"organic wastes"},
+	{"value":"organic fertilizers"},
+	{"value":"biokaasu"},
+	{"value":"biogas"},
+	{"value":"eloperäiset lannoitteet"},
+	{"value":"taudinaiheuttajat"},
+	{"value":"pathogens"},
+	{"value":"jätteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000107",
+	"dct:identifier":"FI2016000107",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

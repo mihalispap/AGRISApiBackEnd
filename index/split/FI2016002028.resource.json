@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Indonesia forest resources and national forest inventory.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Santoso, Harry.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"forest resources"},
+	{"value":"metsävarat"},
+	{"value":"national forest inventory"},
+	{"value":"forest inventories"},
+	{"value":"Indonesia"},
+	{"value":"metsäninventointi"},
+	{"value":"valtakunnan metsien inventointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002028",
+	"dct:identifier":"FI2016002028",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

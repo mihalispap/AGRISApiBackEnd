@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of replacing different proportions of barley grain by barley fibre on performance of dairy bulls.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huuskonen, Arto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khalili, Hannele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Joki-Tokola, Erkki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"carcass composition"},
+	{"value":"animal feeding"},
+	{"value":"rehut"},
+	{"value":"beef cattle"},
+	{"value":"meat performance"},
+	{"value":"ruokinta"},
+	{"value":"compound feeds"},
+	{"value":"sivutuotteet"},
+	{"value":"grain feed"},
+	{"value":"kotieläinhoito"},
+	{"value":"sonnit"},
+	{"value":"kasvatuskokeet"},
+	{"value":"nautakarja"},
+	{"value":"barley"},
+	{"value":"tärkkelysteollisuus"},
+	{"value":"rehuseokset"},
+	{"value":"ohra"},
+	{"value":"bulls"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000372",
+	"dct:identifier":"FI2016000372",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

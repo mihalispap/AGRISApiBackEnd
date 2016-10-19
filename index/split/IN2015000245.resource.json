@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Population dynamics of plant parasitic nematodes associated with Pome fruits",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":157,
+	"dc:subject":[
+		{"value":"nematoda",
+	"xml:lang":"esp"
+	},
+	{"value":"malus pumila",
+	"xml:lang":"esp"
+	},
+	{"value":"pyrus communis",
+	"xml:lang":"esp"
+	},
+	{"value":"plant nematodes",
+	"xml:lang":"eng"
+	},
+	{"value":"nematodos de las plantas",
+	"xml:lang":"esp"
+	},
+	{"value":"nematode des plantes",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":159,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000245",
+	"dct:identifier":"IN2015000245",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Askary, T.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Waliullah, M.I.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mir, M.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Banday, S.A."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"One hundred twenty soil samples were collected from the rhizosphere of two pome fruits viz., Malus domestica and Pyrus communis from three year old nurseries at five different localities of Kashmir valley and processed to assess the biodiversity of plant parasitic nematodes at each locality. Eight species of plant parasitic nematodes viz., Pratylenchus penetrans, Paratylenchus spp., Meloidogyne hapla, Tylenchorhynchus indicus, Xiphinema basiri, Longidorus spp., Hoplolaimus spp. and Helicotylenchus indicus were encountered. The most common nematode species encountered from the rhizosphere of both the fruit crops were P. penetrans, X. basiri, Hoplolaimus spp. and H. indicus. Paratylenchus spp. and T. indicus were found in M. domestica only whereas M. hapla and Longidorus spp. were present in P. communis, P. penetrans was the most frequently encountered nematode of M. domestica. The absolute and relative frequency as well as absolute and relative density showsedthat it was abundant at Khalmula, Shuhama and Shalimar. The prominence value of P. penetrans in M. domestica was highest at Shuhama (507.5) and Shalimar (474.8) area but least at Gasoo (242.2). However, in case of P. communis, prominence value of P. penetrans was recorded highest at Shalimar (250.8) followed by Shuhama (229.8). The next frequently encountered nematode species was H. indicus and in M. domestica with high prominence value both in Shuhama and Shalimar (156) and least at Gasoo (96.6).",
+	"xml:lang":"eng"
+	}
+	}}

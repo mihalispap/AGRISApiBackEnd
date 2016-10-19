@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Brinjal shoot and fruit borer management with insecticides",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":97,
+	"dc:subject":[
+		{"value":"insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"insecticide",
+	"xml:lang":"fre"
+	},
+	{"value":"leucinodes orbonalis",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticidas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":100,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000475",
+	"dct:identifier":"IN2015000475",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gangwar,  Raveesh K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh,  D.V."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A field trial was conducted to manage shoot and fruit borer, Leucinodes orbonalis Guenee of brinjal through novel insecticides at Crop Research Centre, Sardar Vallabhbhai Patel University of Agriculture and Technology, Modipuram, Meerut, Uttar Pradesh. The efficacy of insecticides viz. spinosad 45 SC, novaluron 10 EC, carbosulfan 25 EC, bifenthrin 20 EC, profenofos 50 EC, thiomethoxem, cypermethrin 20 EC, and Bacillus thuringiensis @ 2.5 kg/ha revealed that all these were significantly superior. The most effective was spinosad followed by novaluron. Bacillus thuringiensis was found least effective but it was significantly superior over control. The maximum cost: benefit ratio 1: 8.50 was recorded in novaluron with increase in yield of 47.3 q/ha followed by carbosulfan with 1:7.34 cost benefit ratio.",
+	"xml:lang":"eng"
+	}
+	}}

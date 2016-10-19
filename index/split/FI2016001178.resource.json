@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Effekten af ceronebehandlet byg på reproduktionsforholdene hos mink.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Damgaard, Birthe M.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"minks"},
+	{"value":"toxicity"},
+	{"value":"animal feeding"},
+	{"value":"ohra"},
+	{"value":"torjunta-aineet"},
+	{"value":"lisääntyminen"},
+	{"value":"myrkyllisyys"},
+	{"value":"ruokintakokeet"},
+	{"value":"minkki"},
+	{"value":"pesticides"},
+	{"value":"turkiseläimet"},
+	{"value":"Cerone"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (253 :
+    1994 :
+    Rebild)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001178",
+	"dct:identifier":"FI2016001178",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

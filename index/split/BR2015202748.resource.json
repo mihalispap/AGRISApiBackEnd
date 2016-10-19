@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Comparação entre modelos de radiação solar global em Aquidauana ",
+	"xml:lang":"por"
+	},
+	{"value":"   região do Alto Pantanal Sul "},
+	{"value":"Comparison between global solar radiation models in Aquidauana, “Alto Pantanal” region, Brazil",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"air temperature",
+	"xml:lang":"eng"
+	},
+	{"value":"meteorological stations",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202748",
+	"dct:identifier":"BR2015202748",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/308/273",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Queiroz de Oliveira Gabriel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Augusto Biscaro Guilherme"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"da Silva Lopes Adriano"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Henrique Jung Leandro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schwerz Francielli"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal da Grande Dourados, Dourados, MS, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal da Grande Dourados, Dourados, MS, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Mato Grosso do Sul, Dourados, MS, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Mato Grosso do Sul, Dourados, MS, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal da Grande Dourados, Dourados, MS, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"A radiação solar é um componente meteorológico de grande importância dentro dos processos da relação solo-planta-atmosfera, sendo que a maioria das estações meteorológicas não registra seus valores por não dispor de equipamentos para quantificá-la, tendo que recorrer a modelos empíricos para sua estimativa. O objetivo deste trabalho foi avaliar a eficiência de quatro modelos de estimativa de radiação solar, em período anual, chuvoso e seco, em Aquidauana, AltoPantanal Sul Mato-Grossense. O trabalho foi realizado utilizando dados meteorológicos obtidos entre janeiro de 2008 e dezembro de 2011, na estação automática localizada em Aquidauana, pertencente à rede de estações meteorológicas do Instituto Nacional de Meteorologia (INMET). Os dados coletados foram temperatura máxima e mínima e radiação solar. Os modelos empíricos avaliados foram o de Annandale, Bristow-Campbell, Hargreaves-Samani e Weiss, no qual todosforam comparados com a radiação solar obtida pela estação meteorológica. Na região de Aquidauana, Alto Pantanal Sul-Mato-Grossense, independente da época do ano, recomenda-se para a estimativa da radiação solar, o modelo de Bristow-Campbell.",
+	"xml:lang":"por"
+	},
+	{"value":"processes, and the majority of weather stations do not register this component since they do not have the equipment for its quantification. The objective of this study was to evaluate the efficiency of models to estimate solar radiation for the annual, rainy and dry periods in Aquidauana “AltoPantanal” region of Mato Grosso do Sul, Brazil. This study was conducted using meteorological data obtained from January 2008 to December 201. The automatic meteorological station was located in Aquidauana, and belongs to the network of the Instituto Nacional de Meteorologia (INMET). Thedata collected included maximum and minimum temperatures, and solar radiation. The Annandale, Bristow-Campbell, Hargreaves-Samani and Weiss empirical models were evaluated, and all were compared with the solar radiation value measured by the meteorological station. In Aquidauana,the Alto Pantanal region of Mato Grosso do Sul, regardless of the time of year, the Bristow-Campbell model is recommended to estimate solar radiation.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

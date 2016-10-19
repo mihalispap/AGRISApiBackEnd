@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:title":{"value":"Adsorption of Methylene Blue by Activated Carbon from Capsicum Straw",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"activated carbon",
+	"xml:lang":"eng"
+	},
+	{"value":"capsicum",
+	"xml:lang":"eng"
+	},
+	{"value":"straw",
+	"xml:lang":"eng"
+	},
+	{"value":"dyes",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513088",
+	"dct:identifier":"IN2016513088",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=19",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Qiu Muqing"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Xuan Yannan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Luo  Peichao"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wang Zebin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shou  Jianxin"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Dyes are known to be toxic, carcinogenic and mutagenic. Their release into the environment can cause aesthetic pollution, and moreover, they are not degraded by conventional aerobic wastewater treatment due to their recalcitrance. Therefore, it is necessary to reduce dye concentration in the wastewater. Activated carbon was obtained from capsicum straw by chemical activation using KOH as an activator. Then it was used as an adsorbent for the removal of dye methylene blue. The adsorption of dye methylene blue by activated carbon was carried out in detail. Kinetic adsorption data were analysed by the pseudo-first-order kinetic model, the pseudo-second-order model and the intraparticle diffusion model. The experimental data were analysed by the Langmuir and Freundlich models of adsorption. The thermodynamics parameters were also calculated.",
+	"xml:lang":"eng"
+	}
+	}}

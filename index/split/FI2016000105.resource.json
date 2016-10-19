@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Illegal logging and corporate social responsibility : the Italian experiance.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pettenella, Davide.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Santi, Gianluca.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"wood products"},
+	{"value":"hakkuu"},
+	{"value":"rikollisuus"},
+	{"value":"sosiaalinen vastuu"},
+	{"value":"trade"},
+	{"value":"social participation"},
+	{"value":"forestry"},
+	{"value":"logging"},
+	{"value":"puukaupat"},
+	{"value":"Italy"},
+	{"value":"liabilities"},
+	{"value":"enterprises"},
+	{"value":"yritykset"},
+	{"value":"illegal practices"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000105",
+	"dct:identifier":"FI2016000105",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

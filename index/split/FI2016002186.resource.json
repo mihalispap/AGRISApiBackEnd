@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Stress i pelsdyrgården : det prenatale miljøets betydning for sølvrevvalpenes vekst og atferd.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Bakken, Morten.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"pennut"},
+	{"value":"kettu"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"young animals"},
+	{"value":"furbearing animals"},
+	{"value":"stress"},
+	{"value":"foxes"},
+	{"value":"turkiseläimet"},
+	{"value":"stressi"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (253 :
+    1994 :
+    Rebild)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002186",
+	"dct:identifier":"FI2016002186",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ufrb.edu.br/wrim/images/wrim-2-2-2013/v02n02a05.pdf",
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Turbidimeter calibration and reliability analysis of the estimation for suspended sediment at a semiarid watershed ",
+	"xml:lang":"eng"
+	},
+	{"value":"Calibração de turbidímetro e análise de confiabilidade das estimativas de sedimento suspenso em bacia semiárida",
+	"xml:lang":"por"
+	}
+	],
+	"dct:creator":{"foaf:Person":{"foaf:name":"Pinheiro Everton Alves Rodrigues"
+	}
+	},
+	"dc:subject":{"value":"turbidity",
+	"xml:lang":"eng"
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015301792",
+	"dct:identifier":"BR2015301792",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/18074"
+	},
+	"bibo:abstract":[
+		{"value":"a análisede confiabilidade mostrou que a concentração de sedimentos suspensos, estimada pelo turbidímetro é confiávelaté a faixa de turbidez de 409 NTU, decrescendo em seguida e apresentando baixa confiabilidade para as medidasde turbidez acima de 689 NTU",
+	"xml:lang":"eng"
+	},
+	{"value":"One of the biggest challenges of the sedimentological studies is to understand the temporal variabilitypattern of suspended sediment concentration. Therefore, this study aimed to calibrate a turbidimeter by there-suspension of sediments, to analyse the reliability of the estimation of suspended sediments concentrationand to evaluate the sedimentological dynamics in a section of the Umbuzeiro River, Ceará, Brazil. The resultsshowed that the calibration method by re-suspension of the sediments generated a representative equationfor the estimation of the suspended sediments in the studied section. The reliability analysis showed that theconcentration of suspended sediments estimated by the turbidimeter is reliable up to the turbidity of 409 NTUand a low reliability for measurements of turbidity above 689 NTU"},
+	{"value":"a produção de sedimentos no rio estimada pela curva-chave foi o dobro daquelaestimada pelo método da turbidez."},
+	{"value":"the sediment yield in the river estimated byrating curve was twice the estimated by turbidity method."},
+	{"value":"Nos dias de hoje um dos maiores desafios dos estudos sedimentológicos é entender o padrão devariabilidade temporal da concentração de sedimentos suspensos. Portanto, objetiva-se com esta pesquisacalibrar um turbidímetro por meio da ressuspensão de sedimentos, analisar a confiabilidade das estimativas daconcentração de sedimentos suspensos e avaliar a dinâmica sedimentológica de uma seção do Rio Umbuzeiro,Ceará. Os principais resultados revelam que o método de calibração por meio da ressuspensão de sedimentosgerou uma equação representativa para as estimativas dos sedimentos suspensos da seção em estudo",
+	"xml:lang":"por"
+	}
+	]
+	}}

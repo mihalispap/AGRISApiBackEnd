@@ -1,0 +1,78 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Sweets and confectionaries from coconut neera",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":21,
+	"dc:subject":[
+		{"value":"Neera"},
+	{"value":"chocolat",
+	"xml:lang":"fre"
+	},
+	{"value":"sugar confectionery",
+	"xml:lang":"eng"
+	},
+	{"value":"pasteles",
+	"xml:lang":"esp"
+	},
+	{"value":"postres",
+	"xml:lang":"esp"
+	},
+	{"value":"cakes",
+	"xml:lang":"eng"
+	},
+	{"value":"gateau",
+	"xml:lang":"fre"
+	},
+	{"value":"productos de confiteria",
+	"xml:lang":"esp"
+	},
+	{"value":"desserts",
+	"xml:lang":"eng"
+	},
+	{"value":"chocolate",
+	"xml:lang":"esp"
+	},
+	{"value":"dessert",
+	"xml:lang":"fre"
+	},
+	{"value":"produit de confiserie",
+	"xml:lang":"fre"
+	},
+	{"value":"creme glacee",
+	"xml:lang":"fre"
+	},
+	{"value":"icecream",
+	"xml:lang":"eng"
+	},
+	{"value":"helado",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":22,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000720",
+	"dct:identifier":"IN2015000720",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"feb2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Annie Eapen"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aneeta Joy"
+	}
+	}
+	],
+	"bibo:issue":10
+	}}

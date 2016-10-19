@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Disturbance dynamics in boreal forests : defining the ecological basis of restoration and management of biodiversity.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"metsäekosysteemit"},
+	{"value":"biodiversity"},
+	{"value":"sukkessio"},
+	{"value":"ennallistaminen"},
+	{"value":"ecosystems"},
+	{"value":"ecological succession"},
+	{"value":"häiriödynamiikka"},
+	{"value":"boreal forests"},
+	{"value":"boreaaliset metsät"},
+	{"value":"luonnon monimuotoisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000757",
+	"dct:identifier":"FI2016000757",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The determinants of agricultural productivity in Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188479",
+	"dct:identifier":"FI2007188479",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a26.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Imahe, O. J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alabi, R.A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper aims at a basic examination of some determinants of agricultural productivity in Nigeria. The measures of productivity are agricultural gross domestic production, aggregate index of agricultural production, output of major agricultural commodities (staples) and other output of major agricultural commodities excluding staples, and these constituted the dependent variables in the models specified. The determinant variables (independent) are arable land per capita, average rainfall, fertilizer distribution, value of food imports, agriculture capital expenditure and the loans by commercial banks to agricultural sector. The output of the regression analysis showed that the six selected independent variables contributed significantly to the systematic variation in agricultural productivity and output of major agricultural commodities in the four models specified. The results point out that for the Nigerian agricultural sector to be one of the routes to her prosperity in the new millennium, the governments and the private investors should focus their attention on effective procurement and timely distribution of fertilizers. Nigeria needs to intensify dry land irrigation and revival of river basin farming instead of depending on rain-fed farming; making borrowing by small-scale farmers affordable given their income levels. There is need to discourage excessive importation of food items; pursuing the existing land use decree to create access to farmlands and increasing capital investment on agricultural sector via budgets."}
+	}}

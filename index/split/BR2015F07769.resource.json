@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Supplementation of laying japanese quail with amylase, phytase and protease",
+	"xml:lang":"eng"
+	},
+	{"value":"   fitase e protease para codornas japonesas em postura "},
+	{"value":"   Suplementação de enzimas amilase ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"egg production",
+	"xml:lang":"eng"
+	},
+	{"value":"coturnix coturnix",
+	"xml:lang":"eng"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"dietary components",
+	"xml:lang":"eng"
+	},
+	{"value":"feed intake",
+	"xml:lang":"eng"
+	},
+	{"value":"aviculture",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F07769",
+	"dct:identifier":"BR2015F07769",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1435672265.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"RIBEIRO, J. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FASSANI, E. J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MAKIYAMA, L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CLEMENTE, A. H. S."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O objetivo deste trabalho foi avaliar os efeitos da suplementação das enzimas amilase, fitase e protease de formas isoladas e em associação, em dietas para codornas japonesas em postura. Foram utilizadas 300 codornas, distribuídas em um delineamento inteiramente ao acaso, com cinco tratamentos e seis repetições de dez aves por unidade experimental. Os tratamentos foram: uma dieta controle e dietas formuladas com a suplementação de 300 ppm de amilase, 300 ppm de protease e 500 FTU/kg de fitase e com a associação de enzimas. Nas fórmulas com inclusão de enzimas houve aplicação de redução na exigência nutricional de um ou mais dos seguintes componentes: proteína, aminoácidos digestíveis, energia, cálcio e fósforo, valorizando o uso das enzimas. As avaliações foram realizadas em quatro períodos de 21 dias cada. Foram avaliados desempenho (produção média de ovos, consumo de ração, peso médio dos ovos e conversão alimentar), qualidade dos ovos (proporção dos constituintes do ovo e peso específico dos ovos) e digestibilidade dos nutrientes da ração (coeficiente de metabolizabilidade aparente da matéria seca e da proteína bruta). Não houve efeito significativo dos tratamentos nas variáveis analisadas (P>0,05), indicando que as enzimas têm efeito benéfico, isoladamente ou em associação, mantendo o desempenho e qualidade dos ovos de codornas japonesas.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to evaluate the effects of supplementation of diets for laying Japanese quail with amylase, phytase and protease alone or in combination. Three-hundred quail were assigned to a completely randomized design consisting of five treatments and six repetitions, with 10 animals per experimental unit. The treatments were: a control diet and diets supplemented with 300 ppm amylase, 300 ppm protease and 500 phytase units (FTU)/kg and the combination of these enzymes. In the diets containing the enzymes, the nutritional requirements of one or more of the following components were reduced: protein, digestible amino acids, energy, calcium and phosphorus, giving priority to the use of enzymes. The evaluations were performed over four periods of 21 days each. Performance (mean egg production, feed intake, mean egg weight, and feed conversion), egg quality (proportion of egg constituents and specific egg weight), and dietary nutrient digestibility (apparent digestibility coefficient of dry matter and crude protein) were evaluated. There was no significant effect of the treatments on the variables analyzed (P>0.05), indicating that the enzymes, alone or in combination, have beneficial effects, maintaining performance and egg quality of Japanese quail.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

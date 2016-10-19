@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of rice (Oryza sativa L.) genotypes for salt tolerance"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025586",
+	"dct:identifier":"FI2005025586",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a17.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Babu, C. Raja (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vijayalakshmi, C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohandass, S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The present investigation was aimed to determine the physiological basis of salt tolerance with particular reference to sodicity employing twenty rice cultivars. The field experiment was conducted under sodic soil condition prevailing at Anbil Dharmalingam Agricultural College and Research Institute, Tiruchirapalli. The pigment chlorophyll a/b ratio, chlorophyll stability index, soluble protein, proline and nitrate reductase activity recorded higher values in the cultivars CORH 2, IR 68885B, APMS 5B, CO 43 and TRY(R) 2 indicating their tolerance to salt stress. The genotypes CORH 2, IR 68885B, APMS 5B and CO 43 expressed low Na/K ratio and can be grouped as salt tolerant. Among the 20 genotypes tested the hybrid CORH 2 recorded higher yield followed by IR 68885B and APMS 5B. The number of productive tillers, number of filled grains panicle-¹ and spikelet fertility were contributing for higher grain yield in these tolerant cultivars. Days to 50 per cent flowering and 1000-grain weight established negative relationship while significantly positive correlation was noticed between harvest index and grain yield."}
+	}}

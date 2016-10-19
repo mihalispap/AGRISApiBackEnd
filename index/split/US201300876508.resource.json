@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Characterization of some soils of Jijiga plain, Ethiopia"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876508",
+	"dct:identifier":"US201300876508",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e15.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Badel, Mohamed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, B. B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The part of the Jijiga plain of Ethiopia is developed from secondary limestone with remnant of basalt underlined by granite or mixed sandstone. The soils derived purely from limestone are susceptible to erosion, but, where the inclusion of basalt and sandstone or granite is involved in the soil development, the soils are relatively resistant to erosion. The soils were by and large neutral to slightly alkaline in reaction due solely to calcareous nature, but indicating some sign of salinity purely due to calcium and magnesium salts. The Harre soils were developed on mixed type of mineralogy dominated by secondary limestone. They indicated adequate potassium, but available phosphorus content was invariably deficient. Regular monitoring in respect of soil nitrogen was suggested."}
+	}}

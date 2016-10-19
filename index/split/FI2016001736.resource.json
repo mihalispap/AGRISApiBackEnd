@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Water repellency of clay, sand and organic soils in Finland /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rasa, Kimmo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Horn, Rainer.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Räty, Mari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yli-Halla, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pietola, Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"water"},
+	{"value":"water repellency"},
+	{"value":"boreal climate zone"},
+	{"value":"hylkivyys"},
+	{"value":"Finland"},
+	{"value":"organic soils"},
+	{"value":"sand soil"},
+	{"value":"läpäisevyys"},
+	{"value":"vesi"},
+	{"value":"hietamaat"},
+	{"value":"infiltrometer"},
+	{"value":"clay soil"},
+	{"value":"ethanol"},
+	{"value":"sandy soils"},
+	{"value":"maaperä"},
+	{"value":"kivennäismaalajit"},
+	{"value":"clay soils"},
+	{"value":"maalajit"},
+	{"value":"hydrophobicity"},
+	{"value":"savimaat"},
+	{"value":"eloperäiset maalajit"},
+	{"value":"organic soil"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001736",
+	"dct:identifier":"FI2016001736",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

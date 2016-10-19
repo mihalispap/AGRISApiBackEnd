@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f19.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Optimization of enzymatic liquefaction of papaya (Carica papaya L.) and jackfruit (Artocarpusheterophyllus Lam.) pulp using response surface methodology"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chauhan, Attar Singh (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Afroze, Sadia Gul (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramesh, Mysore Nagaraj Rao (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Avula, Ramesh Yadav (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rekha, Mysore Narayan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramteke, Ramesh Shyam (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100391",
+	"dct:identifier":"FI2016100391",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Enzymatic liquefaction of jackfruit and papaya pulp, using a commercial enzyme (pectinase) was investigated and evaluated by response surface methodology. The effect of enzyme concentration, incubation time and hydrolysis temperature were found to be significant in case of jackfruit whereas juice yield in case of papaya was influenced by enzyme concentration and incubation time. In the present study, polynomial equations were derived using multivariate analysis, for predicting the reduction in alcohol insoluble solids and increase in juice yield for jackfruit and papaya respectively. The models were verified experimentally against predicted response and were found to be suitable."}
+	}}

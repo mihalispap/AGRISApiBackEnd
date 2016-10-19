@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Pälsutvecklingen hos tidigt och sent födda blårävar (Alopex lagopus).",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Blomstedt, Leena.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"pennut"},
+	{"value":"time"},
+	{"value":"kehitys"},
+	{"value":"kettu"},
+	{"value":"furs"},
+	{"value":"furbearing animals"},
+	{"value":"Alopex lagopus"},
+	{"value":"Turkki"},
+	{"value":"parturition"},
+	{"value":"turkiseläimet"},
+	{"value":"foxes"},
+	{"value":"sinikettu"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001185",
+	"dct:identifier":"FI2016001185",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

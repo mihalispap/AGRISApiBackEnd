@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Agricultural catchments and water quality: A phosphorus enigma"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007038718",
+	"dct:identifier":"FI2007038718",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/en4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pant, Hari K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adjei, M.B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rechcigl, ?? (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Paradoxically, phosphorus (P) is one of the major nutrients required for higher agricultural production as well as the cause of algal blooms (eutrophication) in aquatic (lakes and costal waters) and semi-aquatic (natural wetlands) systems. Scientific advancements in understanding P transport from agricultural catchments to freshwater systems are well recognized to improve water quality. Nutrient loads result in alternation of plant and microbial communities, increased productivity, and nutrient accumulation in many freshwater and coastal water systems. The rates and duration of organic matter accumulations are critical determinants of how P cycle functions within an ecological unit of catchments. Nitrogen (N) is supplied from organic and inorganic sources to maximize agricultural productivity. While applying chemical fertilizers, the input of P can be controlled, however, application of organics including animal manure and biosolids would increase the levels of P along with others concomitants. Vertical as well as lateral movement of P may occur through subsurface soils depending on soil characteristics, especially during high water table periods. In recent decades, it is recognized that P losses from agricultural catchments to lakes, rivers, wetlands, etc., are critical for the very existence of these aquatic systems. Healthy lakes, streams and wetlands help conserve biodiversity by creating healthy habitats, and both the communities and governments around the world are in work to restore water quality. This article tries to explain in brief the roles of P in agriculture and water quality, and how farmers can contribute toward effective stewardship of land and water resources. Adoptions of agricultural best management practices (BMPs) and constant updates on techniques for estimation and mitigation of P loading to water bodies are essential to sustaining the soil and water qualities with long-term parity."}
+	}}

@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2014,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"O uso do livro didático como instrumento pedagógico para o ensino de Geografia",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vanda Andrade Maria "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adorea Rebelo da Cunha Albuquerque "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FAPEAM "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00006",
+	"dct:identifier":"BR2015M00006",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"A ciência geográfica tem gerado, nos últimos anos, discussões sobre a temática referente aos conteúdos inseridos nos livros didáticos de Geografia. O presente artigo visa estabelecer uma análise comparativa entre coleções didáticas de Geografia, utilizadas em sala de aula, do ensino fundamental II, pela rede pública do estado do Amazonas. Segundo o Parâmetro Curricular Nacional (PCN, 1998) o objetivo do ensino de Geografia é que os alunos reconheçam que o espaço geográfico é resultado das interações entre a natureza e sociedade, que se faz importante para a compreensão da espacialidade e temporalidade e as interações dos fenômenos naturais, reconhecendo o relevo e suas transformações. O professor de Geografia não deve ter apenas o domínio do conteúdo que trabalha, é fundamental que domine os fundamentos de sua disciplina e saiba se posicionar sobre o papel da Geografia na sociedade atual, que tenha uma proposta de trabalho, a qual contribua com desenvolvimento da aprendizagem e autonomia de seus alunos. O uso do livro didático é considerado um suporte de grande importância às aulas de Geografia, entretanto não deve ser a única fonte de informação. Faz-se necessário que o professor busque outros recursos ou materiais didáticos para subsidiar a produção do conhecimento",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

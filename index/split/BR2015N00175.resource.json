@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"OS TITANOSSAURÍDEOS (DINOSAURIA, SAUROPODA, TITANOSAURIA) DO NEOCRETÁCEO DO TRIÂNGULO MINEIRO: REGISTRO FÓSSIL, DISTRIBUIÇÃO E HISTÓRIA NATURAL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":80,
+	"bibo:volume":4,
+	"bibo:pageEnd":90,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00175",
+	"dct:identifier":"BR2015N00175",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1193",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lívia Motta Gil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carlos Roberto dos Anjos Candeiro"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\">O presente trabalho teve como objetivo elaborar um levantamento e  atualização do conhecimento sobre o registro fóssil de dinossauros titanossaurídeos descritos até o momento na literatura e encontrados na região conhecida como Triângulo Mineiro. Um levantamento bibliográfico desta região foi elaborado e através deste foram criados um mapa da localização e uma tabela geral do registro das espécies e gêneros de titanossaurídeos.Os resultados e considerações obtidos revelam um maior número de achados em regiões mais exploradas e pesquisadas como os arredores da cidade de Uberaba e do distrito de  Peirópolis em Minas Gerais. Além disso, possíveis inferências sobre as similaridades encontradas entre espécies brasileiras e argentinas foram realizadas, sugerindo a presença de uma assembleia comum no Cretáceo Superior nessas regiões, por sua fauna compartilhar semelhantes espécies como o Aeolosaurus</em>, refletindo uma origem Gondwânica comum. <p class=\"MsoNormal\" style=\"text-align: justify;\"><strong> </strong>",
+	"xml:lang":"por"
+	}
+	}}

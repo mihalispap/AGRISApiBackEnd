@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Fatty acid compositions in ungerminated (whole seed), cotyledon and embryo tissues of cowpea (Vigna unguiculata L. Walp) seed grown under different temperatures"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009322717",
+	"dct:identifier":"FI2009322717",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a13.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Islam, Shahidul (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carmen, Rafaela C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Garner, Jr., James O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Cowpea seed germination is affected by temperature and its fatty acid composition. Trials over two years were conducted using 25 cowpea cultivars/ genotypes to screen for germination potentiality at 10, 30 and 40°C. Three cultivars were chosen for further study for biochemical characteristics based on seed germination and coefficient of velocity of germination tests. Texas Cream 40 (TC-40) germinated at very high and low temperatures, Black Crowder (BC) demonstrated acceptable germination at high temperatures, but reduced germination at low temperature, and Mississippi Purple (MP) exhibited the poorest germination at all temperatures tested. Fatty acid composition was determined in whole ungerminated seed, cotyledon and embryo tissues (embryonic axis) of germinating seed at each temperature listed above. The most abundant fatty acids found in cowpea seed (ungerminated whole seed, cotyledon and embryo tissues) are palmitic (PA) (C16:0), palmitoleic (PAA) (C16:1), stearic (SA) (C18:0), oleic acid (OA) (C18:1), linoleic (LA) (C18:2), linolenic (LIA) (C18:3) and arachidic acid(AA) (C20:0). Fatty acid content was affected by temperature, cultivar and type of tissue. Palmitic acid content in cotyledon and embryo tissue was higher at higher temperature. Stearic acid content was highest in embryo tissue and at 30°C. Oleic acid content was higher at higher temperatures in both embryo and cotyledon tissues. Linoleic acid content was higher in cotyledon tissue. Linolenic acid content was higher in embryo tissue at lower temperature. The linolenic to oleic (C18:2/C18:1) and 18-carbon unsaturated to 18-carbon saturated ratios at 10°C were higher in cultivars with higher germination, which could account for the ability of cultivar(s) to germinate under chilling temperature. The information provided by this research will also facilitate the genetic study relating to transfer of specific fatty acids in cowpea cultivars."}
+	}}

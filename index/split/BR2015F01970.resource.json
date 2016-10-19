@@ -1,0 +1,82 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Perfilhamento ",
+	"xml:lang":"por"
+	},
+	{"value":"   altura do dossel e cobertura do solo em pastagem de capim-elefante adubados com nitrogênio e irrigado "},
+	{"value":"Tillering, sward height and soil cover in elephant-grass pasture fertilized with nitrogen and irrigated",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"seasonality",
+	"xml:lang":"eng"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"rainy season",
+	"xml:lang":"eng"
+	},
+	{"value":"pennisetum purpureum",
+	"xml:lang":"eng"
+	},
+	{"value":"sprinkler irrigation",
+	"xml:lang":"eng"
+	},
+	{"value":"dry season",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01970",
+	"dct:identifier":"BR2015F01970",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1214939865.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"VITOR, C. M. T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MARTINS,  C. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSER,  A. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FONSECA,  D. M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NASCIMENTO JÚNIOR,   D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RIBEIRO JÚNIOR,  J. I."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"100% and 120% of evapotranspiration) over the population density of basal tillers, sward height and percentage of soil covered by elephant grass plants. The nitrogen doses were the plots and the water sheet constituted the subplots, according to the complete randomized blocks experiment with four replicates. The results indicated nitrogen fertilization has effect on density of basal tillers and sward height in all evaluated periods, except for the density of basal tillers during rainy period. Nitrogen fertilization did not influence the soil covered by elephant grass in none of the evaluated periods. The water sheet applied had effect on density of basal tillers, sward height and soil covered by elephant grass in all evaluated periods, except for soil covered during the rainy period. Dose of 700kg ha-1of N and the water sheet applied of 120% of evapotranspiration were the ones that provided larger density of basal tillers and larger sward height in all the evaluated periods."},
+	{"value":"80%"},
+	{"value":"20%"},
+	{"value":300},
+	{"value":"O experimento foi realizado em condições de campo com o objetivo de avaliar o efeito de quatro doses de nitrogênio (100"},
+	{"value":"40%"},
+	{"value":"500 e 700kg ha-1de N) e seis lâminas de água (0, 20%, 40%, 80%, 100% e 120% da evapotranspiração) sobre a densidade populacional de perfilhos basais, altura e cobertura do solo pelo capim-elefante (Pennisetum purpureum, Schum). As doses de nitrogênio corresponderam às parcelas e as lâminas de água às subparcelas, segundo o delineamento em blocos completos casualizados com quatro repetições. Os resultados indicaram que a adubação nitrogenada tem efeito sobre o perfilhamento e a altura do dossel em todos os períodos avaliados, com exceção do perfilhamento durante o período chuvoso. A adubação nitrogenada não influencia a cobertura do solo pelas plantas de capim-elefante em nenhum dos períodos avaliados. Já as lâminas de água aplicadas tem efeito sobre o perfilhamento, altura do dossel e cobertura do solo pelas plantas de capim-elefante em todos os períodos avaliados, com exceção da cobertura do solo durante o período chuvoso. A dose de 700kg ha-1de N e a lâmina de 120% da evapotranspiração foram as que proporcionaram maior perfilhamento e maior altura do dossel em todos os períodos avaliados."},
+	{"value":"500 and 700kg ha-1of N) and six water sheet (0"},
+	{"value":"The research was conducted in field conditions, in order to evaluate the effects of four nitrogen doses (100",
+	"xml:lang":"eng"
+	}
+	]
+	}}

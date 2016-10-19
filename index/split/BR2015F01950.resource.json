@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Características agronômicas do milho em diferentes estádios de maturação ",
+	"xml:lang":"por"
+	},
+	{"value":"Agronomical characterístics of corn at different maturation stages",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"agronomy",
+	"xml:lang":"eng"
+	},
+	{"value":"maturation",
+	"xml:lang":"eng"
+	},
+	{"value":"cornus",
+	"xml:lang":"eng"
+	},
+	{"value":"stages",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01950",
+	"dct:identifier":"BR2015F01950",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1215004064.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"VILELA,  H. H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"REZENDE,  A. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"EVANGELISTA,  R. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NOGUEIRA,  D. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALMEIDA,  G. B. S."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Esta pesquisa foi conduzida na safra agrícola 2005/2006, na fazenda da Universidade José do Rosário Vellano, em Alfenas/MG, com objetivo de avaliar as características agronômicas de cultivares de milho, em diferentes estádios de maturação. O delineamento experimental foi em blocos casualizados, com quatro repetições, em esquema de parcelas subdivididas no tempo. Menores valores de altura de plantas (2,47m) e inserção de espigas (1,27m) foram observados para a cultivar GNZ 2004. As cultivares P30S40 e P30F90 obtiveram maior altura de plantas (2,66 e 2,73m), sendo a maior porcentagem de plantas acamadas (3,61% ha-1), observada para a cultivar P30F90. Os teores de MS elevaram-se com a evolução fisiológica da planta, ocorrendo o maior teor médio de MS quando os grãos apresentavam camada negra (CN) formada (44,78%). A maioria das cultivares ensiladas no estádio 1/2 da linha de leite (LL) apresentou teores de MS (35,79%) mais adequados para ensilagem. A produtividade de MS variou de 15,07t ha-1(AG1051) a 24,75t ha-1(P30S40). Os maiores valores para produtividade de MS de grãos foram observados com os grãos em 2/3 LL (9,65t ha-1) e CN (9,88t ha-1). Concluiu-se que a altura de plantas é fator determinante sobre a porcentagem de plantas acamadas e que o melhor estádio de maturação para ensilagem foi com redução da linha de leite na metade do grão. As cultivares GNZ 2004, AG1051 e P30F90 são mais indicadas para a produção de silagens, com alta produtividade de MS e porcentagem de grãos.",
+	"xml:lang":"por"
+	},
+	{"value":"This research work was conducted in the agricultural season of 2005/2006, on the José do Rosário Vellano University farm at Alfenas/MG, with the objective of evaluating the agronomic characteristics of corn cultivars at different maturation stages. The experimental design was in randomized blocks with four replicates in the split plot scheme in time. Lower values of plant height (2.47m) and ear insertion (1.27m) were found for the cultivar GNZ 2004. The cultivars P30S40 and P30F90 reached greatest plant height (2.66 and 2.73m), its being the greatest percentage of lodged plants (3.61% ha-1), observed for the cultivar P30F90. The DM contents increased with the physiological evolution of the plant, the highest average content of DM appeared place when kernels presented the formed black layer (BL) (44.78%). The majority of the cultivars ensiled at the ½ milk line presented DM contents (35.79%) most adequate for ensiling. The DM yield ranged from 15.07t ha-1(AG1051) to 24.75t ha1(P30S40). The highest values for kernel DM yield were observed with the kernels at 2/3 ML (9.65t ha-1) and BL (9.88t ha-1). The plant height is the factor determining on the percentage of lodged plants and the best maturation stage for ensiling was with the reduction of the milk line at the half of the kernel. The cultivars GNZ 2004, AG1051 and P30F90 are more suitable for silage-making with high DM yields and percentage of kernels.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1026",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nutto, Leif.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Malinovski, Ricardo A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Brunsmeier, Martin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schumacher, Sant'Anna, Felipe.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Ergonomic aspects and productivity of different pruning tools for a first pruning lift of Eucalyptus grandis Hill ex Maiden.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"work study"},
+	{"value":"forest management"},
+	{"value":"wood"},
+	{"value":"hoitoleikkaus"},
+	{"value":"työvälineet"},
+	{"value":"work science"},
+	{"value":"quality"}
+	],
+	"bibo:doi":"10.14214/sf.1026",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000330",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000330",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

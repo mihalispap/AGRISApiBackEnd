@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Forest naturalness in northern Europe : perspectives on processes, structures and species diversity.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Brūmelis, Guntis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jonsson, Bengt Gunnar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kouki, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shorohova, Ekaterina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biodiversity"},
+	{"value":"deadwood"},
+	{"value":"disturbances"},
+	{"value":"virgin forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001525",
+	"dct:identifier":"FI2016001525",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

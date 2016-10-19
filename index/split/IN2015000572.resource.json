@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Coconut oil as a substitute for diesel",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":27,
+	"dc:subject":[
+		{"value":"biocarburant",
+	"xml:lang":"fre"
+	},
+	{"value":"aceite de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"biofuels",
+	"xml:lang":"eng"
+	},
+	{"value":"biocarburante",
+	"xml:lang":"esp"
+	},
+	{"value":"coconut oil",
+	"xml:lang":"eng"
+	},
+	{"value":"huile de coco",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lv",
+	"bibo:pageEnd":28,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000572",
+	"dct:identifier":"IN2015000572",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Vijayan, R."
+	}
+	},
+	"bibo:issue":11
+	}}

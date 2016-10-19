@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/52811/18521",
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical, enzymatic and physical characteristic of cloudy apple juices.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Teleszko, Miroslawa,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nowicka, Paulina,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wojdylo, Aneta,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"omena"},
+	{"value":"analytical methods"},
+	{"value":"laatu"},
+	{"value":"food processing"},
+	{"value":"terveyshyödyt"},
+	{"value":"fruit juices"},
+	{"value":"food composition"},
+	{"value":"elintarviketeknologia"},
+	{"value":"polyfenolit"},
+	{"value":"polyphenols"},
+	{"value":"quality"},
+	{"value":"hedelmämehut"},
+	{"value":"processing"},
+	{"value":"prosessointi"},
+	{"value":"apples"},
+	{"value":"apple juice"},
+	{"value":"mehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001397",
+	"dct:identifier":"FI2016001397",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

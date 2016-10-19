@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Intercropping- best alternative to boost income from farming",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":34,
+	"dc:subject":[
+		{"value":"intercropping",
+	"xml:lang":"eng"
+	},
+	{"value":"systeme d'exploitation agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"revenu",
+	"xml:lang":"fre"
+	},
+	{"value":"sistemas de explotacion",
+	"xml:lang":"esp"
+	},
+	{"value":"cultivo intercalado",
+	"xml:lang":"esp"
+	},
+	{"value":"culture intercalaire",
+	"xml:lang":"fre"
+	},
+	{"value":"farming systems",
+	"xml:lang":"eng"
+	},
+	{"value":"renta",
+	"xml:lang":"esp"
+	},
+	{"value":"income",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":35,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000775",
+	"dct:type":"Summary",
+	"dct:identifier":"IN2015000775",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"apr-may2014",
+	"dct:dateSubmitted":2016,
+	"bibo:issue":12
+	}}

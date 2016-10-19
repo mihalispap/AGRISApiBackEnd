@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.lib.helsinki.fi/se/a/1239-0992/9/2/effectso.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of sodium sulphate and potassium chloride fertilizers on the nutritive value of timothy grown on different soils.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huhtanen, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahvenjärvi, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heikkilä, Terttu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"clay"},
+	{"value":"Phleum pratense"},
+	{"value":"soil types"},
+	{"value":"heinä"},
+	{"value":"loam soils"},
+	{"value":"nutritive value"},
+	{"value":"sodium"},
+	{"value":"fertilizer application"},
+	{"value":"timotie"},
+	{"value":"kalium"},
+	{"value":"grasses"},
+	{"value":"peat"},
+	{"value":"natrium"},
+	{"value":"sulavuus"},
+	{"value":"turve"},
+	{"value":"digestibility"},
+	{"value":"savi"},
+	{"value":"ravintoarvo"},
+	{"value":"lannoitus"},
+	{"value":"potassium"},
+	{"value":"timothy"},
+	{"value":"maalajit"},
+	{"value":"hieta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002178",
+	"dct:identifier":"FI2016002178",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

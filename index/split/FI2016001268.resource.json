@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic variation of loin and ham quality in Finnish Landrace and Large White pigs /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sevón-Aimonen, Marja-Liisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Honkavaara, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Serenius, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäki-Tanila, Asko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Puonti, Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vaihtelu"},
+	{"value":"liha"},
+	{"value":"sikarodut"},
+	{"value":"sianliha"},
+	{"value":"breeds (animals)"},
+	{"value":"laatu"},
+	{"value":"maatiaisrodut"},
+	{"value":"heritabiliteetti"},
+	{"value":"genetic variation"},
+	{"value":"yorkshire"},
+	{"value":"pork"},
+	{"value":"quality"},
+	{"value":"heritability"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001268",
+	"dct:identifier":"FI2016001268",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

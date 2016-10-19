@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-73.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of controlled and modified atmospheres for the preservation of postharvest quality in fresh fruits and vegetables"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fonseca, Susana C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Malcata, F. Xavier (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100374",
+	"dct:identifier":"FI2016100374",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Uses of preservation technologies for fruits and vegetables based on alteration of the overhead atmosphere have been increasing in the latest decades, as consumers demand fewer and less extensive treatments (of chemical nature or otherwise) of food items. This paper provides a specific review of available technologies which share as common core the deliberate formulation of the overhead atmosphere, with the goal of extending the useful life of fresh fruits and vegetables. Classical and novel technologies pertaining to controlled and modified atmospheres are duly presented and discussed, in terms of principles, advantages, limitations and applications. Finally, updated recommendations encompassing controlled and modified atmospheres are listed."}
+	}}

@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Strawberry fungal diseases"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"de los Santos, Berta (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barrau, Carmen (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Romero, Fernando (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100067",
+	"dct:identifier":"FI2016100067",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Strawberry (Fragaria ananassa Duchesne) fungal diseases cause considerable economic losses in crop areas all over the world. strawberry diseases can be divided into two classes: in one group we include those caused by soil-borne pathogens and in the other the diseases caused by aerial pathogens. Among the soil-borne pathogens we found primarily species of Phytophthora and Rhizoctonia and belonging to the second group the species of Colletotrichum, Botrytis cinerea, Sphaerotheca macularis and Zythia fragariae. Disease control depends on the correct pathogen identification, the use of pathogen-free transplants, control of fungi and sanitation measurements. Soil-borne pathogens may be controlled by soil disinfestations, by systemic fungicides and under some conditions by soil and water management. Application of control measures must be based on the knowledge of disease etiology, epidemiology, and on a cognizance of the pathogen life cycle."}
+	}}

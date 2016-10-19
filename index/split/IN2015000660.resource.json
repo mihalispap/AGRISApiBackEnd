@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Koyilandy Coconut Producer Company for the upliftment of the socio-economic status of farming community",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":21,
+	"dc:subject":[
+		{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"cooperative de producteurs",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"cooperativas de productores",
+	"xml:lang":"esp"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"producer cooperatives",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":22,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000660",
+	"dct:identifier":"IN2015000660",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"sep2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Mridula, K."
+	}
+	},
+	"bibo:issue":5
+	}}

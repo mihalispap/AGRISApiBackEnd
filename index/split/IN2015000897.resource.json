@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of transgenic cotton with cry1ac and cry2ab genes on population dynamics of soil dwelling non-target organisms",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":181,
+	"dc:subject":[
+		{"value":"bacilo thuringiensis",
+	"xml:lang":"esp"
+	},
+	{"value":"test biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"oligochaeta",
+	"xml:lang":"esp"
+	},
+	{"value":"bioassays",
+	"xml:lang":"eng"
+	},
+	{"value":"ensayo biologico",
+	"xml:lang":"esp"
+	},
+	{"value":"bacillus thuringiensis",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":187,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000897",
+	"dct:identifier":"IN2015000897",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar G. V. Suneel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad,  B. Ram"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Field and laboratory studies were conducted in Andhra Pradesh, to assess the impact of Bollgard cotton expressing stacked genes of Cry1Ac and Cry2Ab on soil dwelling non-target organisms. The sampling was done by pit fall traps during the cropping season 2008-09. Average number of earthworms at 114 days sampling time-point at central India was 2.67 to 20.00 for Bollgard II, 21.00 for Bollgard, 6.67 for NHH 44 and 4.67 for local check. The level of Cry proteins in the soil samples was determined by soil-diet incorporation bioassays. The mean % larval survival of H. armigera was 97.8, 97.9 and 98.1 and for E. vittella was 97.8, 97.7 and 97.7 for Bollgard II, Bollgard and non-Bollgard plots, respectively. These findings revealed that Bollgard II cotton did not adversely affect soil dwelling non-target and beneficial soil organisms and no detectable Cry proteins were present in any of the soil samples examined.",
+	"xml:lang":"eng"
+	}
+	}}

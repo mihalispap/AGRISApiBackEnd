@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of machine dehairing on quality of Pashmina fibre",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":118,
+	"dc:subject":[
+		{"value":"quality",
+	"xml:lang":"eng"
+	},
+	{"value":"calidad",
+	"xml:lang":"esp"
+	},
+	{"value":"cachemire",
+	"xml:lang":"fre"
+	},
+	{"value":"wool",
+	"xml:lang":"eng"
+	},
+	{"value":"shearing",
+	"xml:lang":"eng"
+	},
+	{"value":"cashmere",
+	"xml:lang":"eng"
+	},
+	{"value":"tonte",
+	"xml:lang":"fre"
+	},
+	{"value":"esquileo",
+	"xml:lang":"esp"
+	},
+	{"value":"laine",
+	"xml:lang":"fre"
+	},
+	{"value":"qualite",
+	"xml:lang":"fre"
+	},
+	{"value":"lana",
+	"xml:lang":"esp"
+	},
+	{"value":"cachemira",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":120,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000379",
+	"dct:identifier":"IN2015000379",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bumla, Nazir A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wani, Sarfaraz A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shakyawar, D.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sofi, Asif H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yaqoob, Ishrat"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheikh, F.D."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was conducted to compare the quality of Pashmina fibre dehaired manually and mechanically. Pashmina was procured from All Changthangi Pashmina Growers Association, Leh, Ladakh. Samples were drawn randomly from different bales. The total Pashmina sample was divided into two parts. Half of the Pashmina was dehaired manually while remaining half was dehaired on machine. Both types of pashmina fibres were evaluated for fineness, length, bundle strength, coefficient of friction and scanning electronic imaging (SEM). Fibre diameter and bundle strength showed non-significant difference whereas fibre length and co-efficient of friction showed significant difference (P0.05) between the dehairing methods. SEM images clearly showed that machine dehairing damages the surface of Pashmina fibre. From the study, it was concluded that the machine dehairing results in reduction of fibre strength by damaging the surface structure thus it may reduce the life of the final product.",
+	"xml:lang":"eng"
+	}
+	}}

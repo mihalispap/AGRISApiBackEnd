@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of botanicals for management of Meloidogyne incognita in Bitter gourd",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":140,
+	"dc:subject":[
+		{"value":"meloidogyne incognita",
+	"xml:lang":"esp"
+	},
+	{"value":"momordica charantia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":142,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000241",
+	"dct:identifier":"IN2015000241",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Venkatesan, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patel, B.A."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The efficacy of different botanicals in varying doses for management of root-knot nematode, Meloidogyne incognita in bitter gourd indicated that Calotropis procera and Melia azedarach application proved to be more effective in improving plant growth characters redcuing root-knot index and final nematode population. Of the doses tested, higher dose of 1.5 % (w/w) was more effective than lower ones.",
+	"xml:lang":"eng"
+	}
+	}}

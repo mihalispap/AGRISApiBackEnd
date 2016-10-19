@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Mechanization for harvesting and processing dryland plants"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038702",
+	"dct:identifier":"FI2006038702",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a28.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rössel, Dietmar (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ortiz-Laurel, Hipolito (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"García, H.M. Durán (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Agricultural mechanization in Mexico still ranges from hand tools, tools for draught animals to mechanized equipment. Agricultural production concentrates on cereals for domestic consumption, where big machines, tillage tools, planters, fertilizing and spraying equipment have reached a high level of development. At present the mechanization index is 0.443 kW/ha of energy applied on farming activities for commercial agriculture. Two thirds of the Mexican territory is semiarid, where successful agriculture depends upon low, seasonal and variable rainfall. Rising and processing of non-traditional plants in these regions is an alternative for poor farmers to raise their income, however, it requires of adequate mechanization tools and techniques according to yield and quality demands. Some of these products are cactus pear fruit (“tunas”), lechuguilla (Agave lechuguilla) to obtain fibers and “maguey” molasses to produce liquors. However, to harvest and process them to a suitable standard quality it is required a lot of labor and hard work, and despite these, profit is marginal. In this work is presented an analysis where research is being undertaken in order to supply to farmers with unsophisticated equipment and improved techniques for harvesting and industrializing these plants."}
+	}}

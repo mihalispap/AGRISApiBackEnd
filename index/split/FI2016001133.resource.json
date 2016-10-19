@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Developing damage thresholds for cabbage root fly in cauliflower.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Bligaard, Jens.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"delia radicum"},
+	{"value":"vihannekset"},
+	{"value":"Brassica oleracea var. botrytis"},
+	{"value":"plant developmental stages"},
+	{"value":"Delia radicum"},
+	{"value":"tuhohyönteiset"},
+	{"value":"vegetable crops"},
+	{"value":"kehitysvaiheet"},
+	{"value":"pest resistance"},
+	{"value":"pikkukaalikärpänen"},
+	{"value":"kukkakaali"},
+	{"value":"tuholaiskestävyys"},
+	{"value":"tuhoeläimet"},
+	{"value":"pest insects"},
+	{"value":"Denmark"},
+	{"value":"Brassica oleracea botrytis"},
+	{"value":"kaalit"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF Seminar
+    (1995 :
+    Lillehammer)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001133",
+	"dct:identifier":"FI2016001133",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

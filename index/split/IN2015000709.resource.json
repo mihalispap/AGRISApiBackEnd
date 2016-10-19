@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Its time we use our coconuts wisely",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":6,
+	"dc:subject":[
+		{"value":"citoquininas",
+	"xml:lang":"esp"
+	},
+	{"value":"commercialisation",
+	"xml:lang":"fre"
+	},
+	{"value":"cytokinins",
+	"xml:lang":"eng"
+	},
+	{"value":"eau de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"marketing",
+	"xml:lang":"eng"
+	},
+	{"value":"coconut water",
+	"xml:lang":"eng"
+	},
+	{"value":"agua de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"cytokinine",
+	"xml:lang":"fre"
+	},
+	{"value":"mercadeo",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":10,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000709",
+	"dct:identifier":"IN2015000709",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jan2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Deepthi Nair"
+	}
+	},
+	"bibo:issue":9
+	}}

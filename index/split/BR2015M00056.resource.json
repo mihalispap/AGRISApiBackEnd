@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2011,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Malária: cobaias humanas no Amapá",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rafael Cleison Silva dos Santos "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Elinaldo da Conceição dos Santos "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00056",
+	"dct:identifier":"BR2015M00056",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"A malária é uma doença infecciosa causada por um protozoário do gênero Plasmodium e transmitida ao homem pela picada do mosquito fêmea do gênero Anopheles, produzindo febre, calafrios e sudorese. O Brasil é responsável por 1/3 dos casos notificados na Amazônia Legal, estando o Estado do Amapá entre as áreas de médio e alto risco. <span> </span>Os aspectos éticos da pesquisa em seres humanos, no Brasil, são regulados pela Resolução n.º 196/96 do Conselho Nacional de Saúde (CNS) que cria os Comitês de Ética em Pesquisa (CEP) e a Comissão Nacional de Ética em Pesquisa (CONEP). Este trabalho tem como objetivo descrever um relato de caso sobre conflito ético em pesquisa envolvendo seres humanos para alertar pesquisadores sobre sua importância. Relata-se caso real sobre uma série de denúncias da promotoria do município de Santana - Amapá a respeito dos procedimentos éticos da pesquisa norte-americana intitulada “Heterogeneidade de vetores de malária no Amapá”, iniciada em 2003, cujo objetivo era analisar os vários tipos de transmissores de malária na região. O CNS suspendeu a pesquisa e investigou in loco a acusação de que ribeirinhos estariam sendo convidados para alimentar mosquitos com seu próprio sangue, durante a marcação e recaptura, em troca de pagamento.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

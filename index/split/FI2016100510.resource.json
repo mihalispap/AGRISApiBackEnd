@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a24.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Biological control of black vine weevil (Otiorhynchus sulcatus, Coleoptera: Curculionidae) by entomopathogenic bacteria and their cell-free toxic metabolites from Xenorhabdus species"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mahar, A.N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Munir, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"S.R., Gowen (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hague, N.G.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tabil, M. A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100510",
+	"dct:identifier":"FI2016100510",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Biocontrol agents such as Xenorhabdus nematophila and X. nematophila ssp. bovienii and their cell-free protein toxin complexes were lethal to larvae of O. sulcatus when applied to potting compost in the absence of plants. Similarly, strawberry plants infected with O. sulcatus larvae were protected from damage by applications of both cell suspensions of the bacteria and solutions of their cell-free toxic metabolites, indicating that it is the protein toxins, which are responsible for the lethal effects observed. These toxic metabolites were found more effective against O. sulcatus larvae when treated in soil microflora. Insect mortality is increased by increasing temperature and bacterial concentration. The toxins remained pathogenic for several months when stored in potting soil either at 15 or 20°C, however, bacterial cells were not as persistent as the toxins. It is therefore suggested that these bacteria and their toxic metabolites can be applied in soil for insect pest control."}
+	}}

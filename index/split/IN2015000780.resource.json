@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Perumbalam - a new model in organic farm tourism",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":10,
+	"dc:subject":[
+		{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"farms",
+	"xml:lang":"eng"
+	},
+	{"value":"tourism",
+	"xml:lang":"eng"
+	},
+	{"value":"explotaciones agrarias",
+	"xml:lang":"esp"
+	},
+	{"value":"exploitation agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"turismo",
+	"xml:lang":"esp"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	},
+	{"value":"tourisme",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":11,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000780",
+	"dct:type":"Summary",
+	"dct:identifier":"IN2015000780",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jun2014",
+	"dct:dateSubmitted":2016,
+	"bibo:issue":2
+	}}

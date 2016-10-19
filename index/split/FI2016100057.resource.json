@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Rice production, imports and food security in Nigeria: An application of cointegration and error correction model"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nkang, N. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abang, S. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akpan, O. E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Edet, E. O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100057",
+	"dct:identifier":"FI2016100057",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Nigeria is reputed to have comparative resource advantage in rice production to ensure self-sufficiency. In spite of this, rice imports in Nigeria have represented a good proportion of total food imports over time even with increased government effort to raise domestic rice production. This paper, therefore, estimates the determinants of rice import demand in Nigeria using a dynamic regression model. Specifically, co integration and error correction model was followed. The results show that short-run changes in domestic rice production, level of external reserves and total import value remarkably shaped rice import behavior in Nigeria during the period under investigation. More interesting is the fact that the error correction mechanism (ECM) indicated a feed back of about 125% of the previous year’s disequilibrium from long-run elasticity of domestic production of rice, external reserves, and import value. It is recommended that efforts geared at reducing rice imports in the short-run should not only rely on increasing domestic rice production and/or reducing total imports but should also look at trade agreements between Nigeria and its trading partners as well as restriction of rice imports, at least to a level that will not lead to food insecurity."}
+	}}

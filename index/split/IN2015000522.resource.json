@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"alpha-Tubulin: A more suitable internal control than Bita-Actin in reverse transcription-PCR analysis of Brassica juncea, Sinapis alba and Camelina sativa under different experimental conditions",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":345,
+	"dc:subject":[
+		{"value":"camelina sativa",
+	"xml:lang":"esp"
+	},
+	{"value":"sinapsis alba",
+	"xml:lang":"esp"
+	},
+	{"value":"brassica juncea",
+	"xml:lang":"esp"
+	},
+	{"value":"sinapis alba",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":351,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000522",
+	"dct:identifier":"IN2015000522",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nayanakantha, N.M. Chamil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rawat, Sandya"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ali, Sajad"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Grover, Anita"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The elucidation of gene expression patterns leads to a better understanding of responses to biotic or abiotic stimuli. Semi-quantitative RT-PCR analysis, a technique for expression analysis of genes, depends on the stability of the internal control gene (s) used for the comparison of the band intensity in agarose gels. In the present study, two frequently used housekeeping genes, viz., Ã¢-actin and Ã¡-tubulin, were evaluated for their expression stability in B. juncea and its wild allies namely Sinapis alba and Camelina sativa under three experimental conditions viz., Alternaria brassicae challenge, salicylic or jasmonic acid treatment. Results revealed that Ã¡-tubulin was more suitable housekeeping gene than Ã¢-actin for all three plant species under all three experimental conditions. Expression of Ã¢-actin changed especially under defense inducer experimental conditions with all three plant species.",
+	"xml:lang":"eng"
+	}
+	}}

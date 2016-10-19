@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Heritability, phenotypic correlation and path coefficient studies for some agronomic characters in synthetic elite lines of wheat.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tazeen Mohsin
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nadia Khan
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Naqvi, F. N.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"spikes"},
+	{"value":"harvest index"},
+	{"value":"flowering"},
+	{"value":"biomass"},
+	{"value":"crop yield"},
+	{"value":"yield components"},
+	{"value":"plant breeding"},
+	{"value":"Triticum aestivum"},
+	{"value":"height"},
+	{"value":"genetic variation"},
+	{"value":"wheats"},
+	{"value":"quantitative trait loci"},
+	{"value":"seeds"},
+	{"value":"genotypes"},
+	{"value":"heritability"},
+	{"value":"heading"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001411",
+	"dct:identifier":"FI2016001411",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

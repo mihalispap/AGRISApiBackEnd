@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-9.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Adoption of conservation production systems within the upper region of the Scioto river watershed in Ohio"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Napier, Ted L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bridges, Tracy (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100401",
+	"dct:identifier":"FI2016100401",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Data were collected from 113 land owner-operators within the upper region of the Scioto River watershed in central Ohio during the summer and fall of 1999 to identify factors influencing adoption of soil and water conservation production systems at the farm level. A theoretical perspective developed from selected components of the farm structure model was developed to guide the investigation. Linear regression analysis revealed that predictive factors included in the statistical analysis exhibited limited utility for explaining variability in a composite index of conservation adoption behavior. Gross farm income was the only independent variable that was significant at the 0.05 level for explaining variability in adoption of conservation production index scores. Findings are discussed in the context of future conservation efforts within the study watershed. Implications for future public soil and water conservation programs within the study watershed are examined."}
+	}}

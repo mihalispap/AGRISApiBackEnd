@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Estudo sobre o padrão de consumo da carne bovina na cidade de Campo Grande ",
+	"xml:lang":"por"
+	},
+	{"value":"Study of the beef consumption pattern in the city of Campo Grande, MS, Brazil",
+	"xml:lang":"eng"
+	},
+	{"value":"   Brasil "},
+	{"value":"   MS "}
+	],
+	"dc:subject":[
+		{"value":"beef",
+	"xml:lang":"eng"
+	},
+	{"value":"consumer behaviour",
+	"xml:lang":"eng"
+	},
+	{"value":"habits",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00236",
+	"dct:identifier":"BR2016F00236",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1435674076.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"DIAS, L. D. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ISERNHAGEN, L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRUMATTI, R.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FARIA, F. J. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FRANCO, G.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"KIEFER, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ÍTAVO, C. C. B. F."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Objetivou-se identificar os padrões de consumo da carne bovina comparada ao consumo de carnes de frango, suíno, pescado e ovina. Os dados foram coletados por meio de questionários, junto à população da cidade de Campo Grande, MS, Brasil. Foram incluídos fatores sociais, educacionais, econômicos e específicos do consumo da carne bovina em relação à ordem de consumo, atributos da carne e preferência para o consumo. A pesquisa foi realizada com 429 consumidores, abordados na entrada de supermercados. Notou-se relevante preocupação dos consumidores com atributos relacionados à higiene, cor, aroma e maciez. Quanto ao teor nutricional, 41,03% dos consumidores acreditam que a carne bovina é a mais nutritiva dentre as carnes. A frequência do consumo de carne pelos indivíduos mostrou que 45,92% tem o hábito de consumir carne bovina diariamente. Em ordem de consumo, a carne bovina foi escolhida como primeira opção com 80,65% das respostas, seguida de frango, suíno, pescado e ovina. Quando desconsiderado o preço das carnes, observou-se mudança nas respostas, havendo aumento na preferência pelo consumo de carne de pescado, porém, ainda assim a carne bovina foi escolhida como primeira opção.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to identify beef consumption patterns compared to the consumption of chicken meat, pork, fish and lamb. The data were collected by questionnaire applied to the population of Campo Grande, Mato Grosso do Sul, Brazil. Social, educational, economic and specific factors of beef consumption in relation to the order of consumption, meat attributes and consumer preference were included. The study was conducted on 429 consumers interviewed at the entrance of supermarkets. Important concern of consumers regarding attributes related to hygiene, color, flavor and tenderness was noted. With respect to nutritional value, 41.03% of consumers believe that beef is more nutritious than other meats. Analysis of the frequency of meat consumption showed that 45.92% of the subjects have the habit to eat beef daily. Regarding the order of consumption, beef was reported as the first option (80.65% of the responses), followed by chicken meat, pork, fish and lamb. A change in the responses was observed when the price of meat was disregarded, with an increase in the preference for fish consumption, although beef was still chosen as the first option.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

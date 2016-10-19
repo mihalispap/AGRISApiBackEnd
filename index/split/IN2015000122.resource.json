@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of TaqMan real time PCR with immunofluorescence for diagnosis of rabies",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":240,
+	"dc:subject":[
+		{"value":"encephale",
+	"xml:lang":"fre"
+	},
+	{"value":"rabies",
+	"xml:lang":"eng"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	},
+	{"value":"brain",
+	"xml:lang":"eng"
+	},
+	{"value":"cerebro",
+	"xml:lang":"esp"
+	},
+	{"value":"inmunofluorescencia",
+	"xml:lang":"esp"
+	},
+	{"value":"rage",
+	"xml:lang":"fre"
+	},
+	{"value":"immunofluorescence",
+	"xml:lang":"fre"
+	},
+	{"value":"rabia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":242,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000122",
+	"dct:identifier":"IN2015000122",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bansal, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, C. K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramneek"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sandhu, B. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dandale, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sood, N.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"In the present study, sensitivity comparison of TaqMan real time PCR with immunofluorescence on 20 brain samples was evaluated.Primers and probe were got synthesised for TaqMan assay on the basis of nucleoprotein gene of rabies virus. TaqMan real time PCR was able to diagnose rabies viral RNA in 13out of 13 immunofluorescence positive cases. Sensitivity of TaqMan real time PCR was found to be 100% when compared with gold standard test Immunofluorescence. The present study concluded that TaqMan real time PCR can be used as an additional tool on samples like secretions, excretions and skin biopsy for confirmatory diagnosis of rabies.",
+	"xml:lang":"eng"
+	}
+	}}

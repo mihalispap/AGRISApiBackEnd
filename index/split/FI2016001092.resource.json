@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Antecedents and barriers to product innovation : a comparison between innovating and non-innovating strategic business units in the wood industry.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Stendahl, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Roos, Anders.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"organization"},
+	{"value":"metsäteollisuus"},
+	{"value":"tuotekehitys"},
+	{"value":"organisaatio"},
+	{"value":"kehitysstrategiat"},
+	{"value":"innovaatiot"},
+	{"value":"puuteollisuus"},
+	{"value":"product development"},
+	{"value":"business enterprises"},
+	{"value":"development strategy"},
+	{"value":"innovation"},
+	{"value":"forest products industry"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001092",
+	"dct:identifier":"FI2016001092",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

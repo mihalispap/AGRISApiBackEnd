@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"LEVANTAMENTO DE BRIÓFITAS BIOINDICADORAS DE PERTURBAÇÃO AMBIENTAL DO CAMPUS MARCO ZERO DO EQUADOR DA UNIVERSIDADE FEDERAL DO AMAPÁ",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":63,
+	"bibo:volume":1,
+	"bibo:pageEnd":73,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00008",
+	"dct:identifier":"BR2015N00008",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/140",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Cristiane Rodrigues Menezes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Klíssia Calina de Souza Gentil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIFAP"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"No mundo todo são conhecidas cerca de 18.000 espécies de briófitas; para o Brasil são citadas 3.125 espécies, distribuídas em 450 gêneros e 110 famílias. Os estudos de briófitas para algumas regiões do Brasil ainda são escassos ou abrangem áreas restritas, como é o caso da região Norte. Essas lacunas de conhecimento não permitem um maior embasamento para discutir a riqueza de espécies entre diferentes regiões brasileiras com detalhes. O presente trabalho foi realizado no campus da Universidade Federal do Amapá localizado na rodovia Juscelino Kubitschek de Oliveira, km 02, Bairro Marco Zero do Equador, na cidade de Macapá, com área de 906.722,44 m, sendo caracterizada como zona de transição. A coleção foi armazenada no herbário didático de briófitas com 100 indivíduos devidamente identificados. Os exemplares estão classificados nas seguintes famílias: Calymperaceae, Fissidentaceae, Leucobryaceae, Pottiaceae, Sematophyllaceae e Thuidiaceae, apresentando prováveis seis novas ocorrências para o Amapá. Neste trabalho pode-se concluir que, há carência de estudos da brioflora amapaense, pois diante dos resultados pode-se perceber que há necessidade de pesquisa em botânica para a divisão Briophyta. Calymperaceae, Leucobryaceae, Sematophylaceae.",
+	"xml:lang":"por"
+	}
+	}}

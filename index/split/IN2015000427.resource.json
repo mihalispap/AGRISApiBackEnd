@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of hexachlorocyclohexane on pregnanat goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":219,
+	"dc:subject":[
+		{"value":"gestacion",
+	"xml:lang":"esp"
+	},
+	{"value":"pregnancy",
+	"xml:lang":"eng"
+	},
+	{"value":"toxicite",
+	"xml:lang":"fre"
+	},
+	{"value":"gestation",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"hch",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"toxicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":224,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000427",
+	"dct:identifier":"IN2015000427",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Murali, Mohan K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, K. Sadasiva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Solman, Raju K.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, G.P."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Eighteen goats with one month pregnancy were randomly divided into control, untreated and treated groups. HCH residues in the cabbage leaves prior to treatment were in the range of 0.1261 to 0.1895 mg kg-1. These levels were lower than the maximum residual limit values (MRL). In treated cabbage leaves with HCH dusting the levels were in the range of 19.8317 to 21.7749 mg kg-1. The blood samples from control, untreated and treated animals at 0 month the HCH residues were in the range of 0.0002 to 0.0003 mg kg-1 and these values are non significant within the groups. The average levels of HCH residues in blood samples from untreated group progressively increased from 0.0003 at 0 month to 0.0018 mg kg-1 at the end of 3rd month. Similarly the HCH values from treated group showed a significant increase from 0 to end of 3rd month with an average value of 0.0002 to 0.0527 mg kg-1. Four animals of treated group were aborted in the fourth month of the experiment and the average concentration of HCH residues in placenta was 0.0122 mg kg-1. The accumulation of this insecticide in placenta was about 22.2 per cent of maternal blood. Among the organs, the accumulations of HCH residues were higher in fat followed by liver with 0.0548 and 0.0515 mg kg-1, respectively. The consumption levels of HCH in the treated group at 4.04 mg/kg/day was much higher than the MRL and affected gestation and also induced mortality.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Preliminary study on immunomodulatory property of limonin from lime seeds"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188157",
+	"dct:identifier":"FI2007188157",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jitpukdeebodintra, Somrutai (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chantachum, Suganya (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ratanaphan, Adisorn (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chantapromma, Kan (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Limonin was extracted from lime seeds. The phagocytic activity of murine peritoneal macrophages was evaluated using a flowcytometer. It was found that in mice fed with limonin from lime seeds both 100 and 200 ppm/day /mouse for 6 days, the percentage of phagocytic cells and phagocytic index increased compared to the control. The total white blood cell count, evaluated by hemacytometer, as well as the specific antibody titer, evaluated by hemagglutination method, was increased in mice treated with limonin."}
+	}}

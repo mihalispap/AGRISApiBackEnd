@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-3.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"LabView implementation of an ultrasound system for foreign body detection in food products"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jiang, Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhao, B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Basir, O. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mittal, G. S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100446",
+	"dct:identifier":"FI2016100446",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The object-oriented graphical programming language, LabView 5.0, was used to control an ultrasonic scanning system composed of an ultrasound transducer, an x-y table and a computer for foreign body (FB) detection inside beverages packed in glass containers. The design and composition of LabView code for running and synchronizing main functional parts of the system are discussed. Primary FB detection experiment was conducted successfully, and demonstrated real-time monitoring and tomograph of FB. FB detection principle by ultrasound and signal processing method are also explained."}
+	}}

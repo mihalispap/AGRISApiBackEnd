@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathology of gama-cyhalothrin toxicity and its amelioration in rats.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":168,
+	"dc:subject":[
+		{"value":"cyhalothrine",
+	"xml:lang":"fre"
+	},
+	{"value":"cyhalothrin",
+	"xml:lang":"eng"
+	},
+	{"value":"cihalotrina",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"rata",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"rats",
+	"xml:lang":"eng"
+	},
+	{"value":"toxicite",
+	"xml:lang":"fre"
+	},
+	{"value":"rat",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":173,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000105",
+	"dct:identifier":"IN2015000105",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pallavi, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, A Anand"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Madhuri, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, A. Gopala"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, M.R."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A total of 32 female Sprague - dawly rats were divided into four equal groups. Group 1 served as control, Group 2 toxic control received gama-cyhalothrin-@2mg / kg body weight orally every alternative day for 4 weeks. Group 3 was treated with N-acetyl cysteine (NAC control) @300mg/kg bodyweight per day orally for 4 weeks, Group 4 rats received gama-cyhalothrin@2 mg/kg body weight every alternative day for 4 weeks and N-acetyl cysteine @300mg/kg body weight per day orally for 4 weeks. Reduced feed and water intake, hyperesthesia, mild salivation, incoordination, hunched posture and discomfort, stretched hind limbs, piloeruction, erect tails, thick eye discharge were observed in group 2 animals. Significant decrease (P0.05)in total erythrocytes count (TEC),hemoglobin (lIb), packed cell volume (PCV) and total protein. Significant (P0.05)increase in alanine transaminase (ALT), creatinine phosphokinase (CPK), lactate dehydrogenase (LDH), serum creatinine activity in group 2 on 14 and 28 days was observed. Co administration of N-acetyl cysteine showed significant improvement in all parameters in comparison to toxic control (group 2). Grossly, atrophied liver, kidney, presence of pale necrotic foci throughout parenchyma, liver, medullary congestion in kidney and histologically, congestion, bile duct hyperplasia and centrilobular necrosis in liver, marked degenerative changes in tubules with presence of intertubular haemorrhages in kidney, vacuolation, neuronal degeneration and chromatolysis in brain, severe degeneration, necrosis of muscle fibres in heart and marked disruption, loss of striations with mild haemorrhages in muscle were observed in group rats. In group 4 rats, liver, kidney and heart revealed mild to moderate degenerative changes. The tissue enzymes assays revealed a significant (P0.05)increase in TBARS,protein carbonyles and significant (P0.05)decrease of GSH, GST and Na+K+ATP ase activities in group 2. In groups 1 and 3 the values were with in the normal range. The ameliorative group showed mild to moderate improvement in all parameters in comparison to group 2.The study indicated that exposure to A-cyhalothrin resulted in neurotoxicity and cytotoxicity. NAC supplementation provided protective action and improvement in histological and oxidative parameters.",
+	"xml:lang":"eng"
+	}
+	}}

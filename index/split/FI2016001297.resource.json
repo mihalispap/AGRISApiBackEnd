@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Economic and ecological effects of diameter-limit and BDq management regimes: simulation results for northern hardwoods.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Buongiorno, Joseph.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kolbe, Audra.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vasievich, Mike.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"simulointi"},
+	{"value":"hardwood"},
+	{"value":"biodiversity"},
+	{"value":"jatkuva kasvatus"},
+	{"value":"lehtipuut"},
+	{"value":"ekologia"},
+	{"value":"hakkuukierto"},
+	{"value":"simulation"},
+	{"value":"forest management"},
+	{"value":"mixed forests"},
+	{"value":"läpimitta"},
+	{"value":"monimuotoisuus"},
+	{"value":"uneven aged stands"},
+	{"value":"economics"},
+	{"value":"sekametsät"},
+	{"value":"metsänhoito"},
+	{"value":"pohjapinta-ala"},
+	{"value":"ekonomia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001297",
+	"dct:identifier":"FI2016001297",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

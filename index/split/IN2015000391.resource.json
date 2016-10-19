@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Utilization of Deccani wool in Karnataka",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":154,
+	"dc:subject":[
+		{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"metodos de crianza",
+	"xml:lang":"esp"
+	},
+	{"value":"laine",
+	"xml:lang":"fre"
+	},
+	{"value":"wool",
+	"xml:lang":"eng"
+	},
+	{"value":"lana",
+	"xml:lang":"esp"
+	},
+	{"value":"animal husbandry methods",
+	"xml:lang":"eng"
+	},
+	{"value":"methode d'elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":156,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000391",
+	"dct:identifier":"IN2015000391",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mahale, Geeta"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kotur, Rajashri"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Byadgi, Shameembanu"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Sheep rearing practice is more common in Lakkundi, Hirenarthi, Neglur, Havnoor, Medleri, Kadoli, Hunnur and Narsapur villages of Karnataka state. Mainly Deccani sheep were reared by the respondents, shearing of wool was practiced in the month of June and December. Asanas/mats, wool kambal/blankets, musical drum, wool bags, mobile purse, slinging purse, felt cap, hand bags were the products prepared by the respondents. The major problems felt by them were lack of financial assistance in making products, lack of demand, transportation, marketing and high commission of middle men while selling their products.",
+	"xml:lang":"eng"
+	}
+	}}

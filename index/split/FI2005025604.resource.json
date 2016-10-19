@@ -1,0 +1,18 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Land and agricultural competitiveness"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025604",
+	"dct:identifier":"FI2005025604",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/e5.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Colyer, Dale (author)"
+	}
+	},
+	"bibo:abstract":{"value":"Land costs account for a significant proportion of total costs for many agricultural products that are traded internationally. For owner-operators, a common form of tenure in the U.S. and most other countries, land costs are largely implicit with few cash outlays, i.e., are opportunity costs. To the extent that land is rented or where the owner is making mortgage payments, however, larger explicit land costs are incurred and can be a very significant factor in the cost of production and competitiveness. U.S. cost of production data for most crops in recent years indicate that the returns on equity, including land and other owned resources, are zero or negative, i.e., the prices of farm products are too low to cover total costs including opportunity costs. Thus, while land costs may not be a significant factor for competitiveness in the current policy framework where government payments are a significant part of the net returns of farm operators, they are a factor that can affect agricultural competitiveness, especially in the long run."}
+	}}

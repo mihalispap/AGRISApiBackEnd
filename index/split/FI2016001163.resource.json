@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/6249/5293",
+	"dct:language":"eng",
+	"dct:title":{"value":"Occurrence of Plasmodiophora brassicae in Finnish turnip rape and oilseed rape fields.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rastas, Marika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Latvala, Satu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hannukkala, Asko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"crop rotation"},
+	{"value":"environmental factors"},
+	{"value":"Brassicaceae"},
+	{"value":"oil crops"},
+	{"value":"Finland"},
+	{"value":"crop yield"},
+	{"value":"kasvitaudit"},
+	{"value":"rapsi"},
+	{"value":"temperature"},
+	{"value":"sienitaudit"},
+	{"value":"lämpötila"},
+	{"value":"sato"},
+	{"value":"fungal diseases"},
+	{"value":"humidity"},
+	{"value":"kosteus"},
+	{"value":"Plasmodiophora brassicae"},
+	{"value":"cultivated land"},
+	{"value":"plant diseases"},
+	{"value":"ympäristötekijät"},
+	{"value":"rypsi"},
+	{"value":"viljelykierto"},
+	{"value":"möhöjuuri"},
+	{"value":"öljykasvit"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001163",
+	"dct:identifier":"FI2016001163",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of nurse culture on inducing division of isolated pollen protoplasts of Hevea brasiliensis",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":123,
+	"dc:subject":[
+		{"value":"micro-colony,nurse culture, pollen protoplast"},
+	{"value":"hevea brasiliensis",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":129,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000625",
+	"dct:identifier":"IN2015000625",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sushamakumari, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sneha Joseph"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sobha, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rekha, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayashree, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leda Pavithran"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Haploids are of great relevance in crop improvement of Hevea, a highly heterozygous tree species with a long breeding cycle. The isolation and culture of pollen protoplasts may be a viable proposition for raising haploid plants/ homozygous lines in Hevea. The present work envisages the development of a method for the isolation and culture of pollen protoplasts of Hevea. Effect of different nurse cultures on the development of cultured protoplasts has been studied. Intact pollen grains were isolated from mature male flowers of Hevea prior to opening. Viable protoplasts in high yield could be isolated from these pollen grains when exposed to a mixture of 0.5 per cent cellulase and 0.05 per cent pectolyase in the presence of the osmotic stabilizers 0.6 M mannitol and 0.3 M sorbitol. These protoplasts were partially purified and cultured in the nutrient medium with three different nurse cultures namely embryogenic calli from Hevea, tobacco and carrot. Division of the cultured protoplasts leading to the formation of a few micro-colonies was observed in the medium containing 0.8 mg l-12, 4-D and 0.5 mg l-1  BA and enriched with Hevea nurse culture. Cultures with micro-colonies are dark incubated for further development. This is the first report of division of pollen protoplasts and micro-colony formation in Hevea brasiliensis.",
+	"xml:lang":"eng"
+	}
+	}}

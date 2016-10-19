@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Alternatives evaluation in EIA by spatial multi-criteria evaluation technique.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Roudgarmi, Pezhman.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khorasani, Nematollah.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Monavari, Seyed Masoud.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nouri, Jafar.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"environmental impact assessment"},
+	{"value":"environmental impact"},
+	{"value":"evaluation techniques"},
+	{"value":"evaluation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001749",
+	"dct:identifier":"FI2016001749",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

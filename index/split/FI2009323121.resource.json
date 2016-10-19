@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effects of environmental factors on the quality of human life and ecosystems in Romania"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Oroian, Ioan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paulette, Laura (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rusu, Teodor (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dumitras, Adelina (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009323121",
+	"dct:identifier":"FI2009323121",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"bibo:abstract":{"value":"In Romania, environment protection appeared as a topic of Romanian governmental program in 1990, when the Ministry for Environment was created; in 1992, the first official document establishing the national targets in the area of environment protection was enacted. The document Strategia Nationala de Protectia Mediului (National Strategy for Environment Protection) was created by the Romanian Ministry together with experts from World Bank. The document was renewed in 1996, respectively 2002. The strategy had two parts: the first part lists the most important natural resources, information concerning the economical situation of Romania as well as the quality of environmental factors; the second part presents the general principles which should guide the Romanian environmental policy on a short and also on a long term. Earlier in 1996, one could saw an attempt to harmonize the national strategy with the European one. The new principles that have been adopted were: protection of human health (supreme principle), sustainable development, pollution prevention, biodiversity conservation, conservation of cultural and historical heritage and “polluter pays” principle. The document also expressed the willingness of the Romanian Government to sustain economically (through different facilities) environmental projects on national and local levels including settling water management and forestry policy and responsibility for nuclear issues. The criteria for the actions proposed in the National Environmental Action Plan (NEAP) are as follows: sustaining and improving human health and the quality of life (which corresponds to the first principle mentioned above); maintaining and improving existing natural conditions; reducing the potential effects of accidents (prevention through safety measures); maximum cost/benefit ratio; adhesion to the international conventions and programs concerning environmental protection. In this study we evaluate Romania’s compliance with some of the goals settled in these documents. Our conclusions are concerning the state of health and how health is influenced by environmental effects. A major problem that the Romanian Government should be preoccupied with is to inform the inhabitants of polluted areas about the risks they are facing;though, from the legislation point of view, Romania tried to transpose all European environmental and food safety standards. However, due to absence of financial and administrative resources, the gap between existent legislation and its implementation is still considerable."},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	}
+	}}

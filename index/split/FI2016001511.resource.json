@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Modeling and resource allocation of agricultural mechanization projects with GERT networks.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Abdi, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ghasemzadeh, H. R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abdoullahpur, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sabzeparvar, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nasab, A. D. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"networks"},
+	{"value":"Iran Islamic Republic"},
+	{"value":"mechanization"},
+	{"value":"simulation models"},
+	{"value":"agricultural development"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001511",
+	"dct:identifier":"FI2016001511",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

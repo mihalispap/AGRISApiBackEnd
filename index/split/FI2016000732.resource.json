@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Sacred groves in Morocco : a society's conservation of nature for spiritual reasons.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Deil, Ulrich.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Culmsee, Heike.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Berriane, Mohamed.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sain cult"},
+	{"value":"Morocco"},
+	{"value":"Afrikka"},
+	{"value":"luonnonsuojelu"},
+	{"value":"lehdot"},
+	{"value":"landscape"},
+	{"value":"religion"},
+	{"value":"nature conservation"},
+	{"value":"islam"},
+	{"value":"kasvillisuus"},
+	{"value":"sacred grov"},
+	{"value":"landscape conservation"},
+	{"value":"uskonto"},
+	{"value":"pyhät paikat"},
+	{"value":"islamic countries"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000732",
+	"dct:identifier":"FI2016000732",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

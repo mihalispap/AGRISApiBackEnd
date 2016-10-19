@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/f18.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of transportation, subclinical Salmonella infection and slaughter on plasma histamine level of pigs"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Aschenbach, Jörg R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Roesler, Uwe (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gottschalk, Jutta (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahrens, Frank (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hensel, Andreas (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gäbel, Gotthold (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100187",
+	"dct:identifier":"FI2016100187",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Pigs are regularly subjected to stress around slaughter. Stress hormones released during such periods of sustained environmental challenges could be important to assess the procedural impact on the well-being of the animal, as well as the impact on meat quality. Besides classical stress hormones, the present study mainly focussed on histamine because histamine has been suggested to be a suitable stress indicator in rats. In Trial 1, histamine, catecholamines and cortisol were measured in plasma samples obtained by venipuncture before stunning and slaughter or during exsanguination. Median plasma concentrations in venipuncture samples amounted to 1.13 nM (adrenaline), 2.33 nM (noradrenaline), 18.3 nM (cortisol) and 79.3 nM (histamine). The concentrations of adrenaline, noradrenaline and cortisol increased from venipuncture to slaughter (P<0.01) 142-, 40- and 3-fold, respectively. Plasma histamine concentration tended to double in parallel (P = 0.09). In exsanguination samples, plasma histamine concentration tended to correlate to plasma adrenaline (P = 0.13) and plasma noradrenaline (P = 0.07) concentrations. In Trial 2, pigs were infected with Salmonella typhimurium DT 104. After the infection had become clinically inapparent, pigs were either rested overnight or transported for 8 hours prior to slaughter. Uninfected control pigs were also either rested or transported before slaughter. Plasma histamine levels were measured in two exsanguination samples taken within 10-30 s of bleeding and 1 min thereafter. The plasma concentration of histamine decreased by transportation (P<0.05). However, subclinical Salmonella infection did not affect histamine concentration in plasma. The plasma concentration of histamine increased from early to late exsanguination samples (P<0.05). Agonal stress during stunning and slaughter triggers an exorbitant release of classical stress hormones in pigs. Histamine is released, too. In view of the physiological impact of histamine on vascular and intestinal permeability, the histamine release could be relevant for the quality of meat. However, plasma histamine level is not a suitable stress indicator in pigs because of a high interindividual variability and because of paradoxical decreases after prolonged stress."}
+	}}

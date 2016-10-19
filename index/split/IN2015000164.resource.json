@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Sub chronic toxicity study of Fusarium verticilloides culture filtrate from groundnut hay in rats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":924,
+	"dc:subject":[
+		{"value":"fitotoxicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"foin",
+	"xml:lang":"fre"
+	},
+	{"value":"phytotoxicite",
+	"xml:lang":"fre"
+	},
+	{"value":"phytotoxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"groundnuts",
+	"xml:lang":"eng"
+	},
+	{"value":"rats",
+	"xml:lang":"eng"
+	},
+	{"value":"rat",
+	"xml:lang":"fre"
+	},
+	{"value":"arachide",
+	"xml:lang":"fre"
+	},
+	{"value":"hay",
+	"xml:lang":"eng"
+	},
+	{"value":"fusarium",
+	"xml:lang":"esp"
+	},
+	{"value":"rata",
+	"xml:lang":"esp"
+	},
+	{"value":"heno",
+	"xml:lang":"esp"
+	},
+	{"value":"cacahuete",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":927,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000164",
+	"dct:identifier":"IN2015000164",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tikare, Vinay"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayakumar, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shridhar, N.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, Suguna"
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"Sub chronic toxicity study of culture filtrate of Fusarium verticilloides isolated from the fungal contaminated groundnut hay was conducted in rats. The fungi was isolated from the contaminated groundnut hay which caused mycotoxicosis in cross-bred cattle, exhibited the clinical signs of colic, tenesmus, ruminal atony,anorexia, bleeding from nostrils, rectum and fly bite site. Rats (20) were gavaged with culture filtrate at the dose level of 0.5, 1 and 2 ml daily for 90 days. Clinical signs observed were diarrhoea, weakness, severe arching of back, swollen forehead and conjunctival hemorrhage. Cutaneous hemorrhagic patches on back, scrotum, abdomen, ears and legs region were seen. There was a significant increase (P 0.05) in serum concentrations of creatinine, urea nitrogen, ALT and AST indicated the renal and hepatic damage which was confirmed by histopathology. There were lesions in brain and GI tract of the treated rats. The present study indicated the toxic feature of the culture filtrate of Fusarium verticilloides isolated from ground nut hay.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ASPECTOS ECOLÓGICOS DE Anopheles (Nyssorhyncus) Darlingi ROOT 1926 E ANOPHELES (NYSSORHYNCUS) MARAJOARA GALVÃO E DAMASCENO 1942 (DIPTERA: CULICIDAE) NOS BAIRROS MARABAIXO I E  ZERÃO, MACAPÁ, AMAPÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":19,
+	"bibo:volume":1,
+	"bibo:pageEnd":25,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00006",
+	"dct:identifier":"BR2015N00006",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/123",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ledayane Mayana Costa Barbosa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raimundo Nonato Picanço Souto"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"O gênero Anopheles Meigen abrange cerca de 462 espécies, destas aproximadamente 70 tem se mostrado vetor competente da malária humana. An. darlingi é considerada uma das mais eficientes na transmissão da malaria na região Neotropical, que junto com An. marajoara membro do complexo An. albitarsis, são os vetores primários na cidade de Macapá. Este estudo objetivou avaliar alguns aspectos da ecologia das espécies An. darlingi e An. marajoara em áreas periurbanas da cidade de Macapá. As coletas de mosquitos adultos foram realizadas no peridomicilio próximos a ambientes úmidos, nos bairros Zerão (00º00.041’; 051º06.122’) e Marabaixo I (00º02.315’; 051º07.364’), no período de maio de 2003 a maio de 2004, em intervalos bimensais com duração de três horas, em três dias consecutivos. O método utilizado para as coletas foi o atrativo humano protegido. Foram coletados 904 especimes, sendo 138 (15,26%) no bairro Marabaixo I, e 766 (84,74%) no bairro Zerão. An. marajoara(51.7%) e An. darlingi (28,7%) foram as mais abundantes. Outras especies foram encontradas: An. matogrossensis (15.6%), An. triannulatus (3.2%), An. braziIiensis (0.7%) e An. nuneztovari(0.22%). Para a espécie An. marajoara o índice de picada homem/hora (IPHH) variou de 0,6 no bairro Marabaixo I a 3,0 no bairro Zerão. Para a espécie An. darlingi a variação do índice foi de 0,3 a 1,7  no Zerão. Em relação a atividade horária de hematofagia, An. marajora apresentou o maior pico de 18:30 as 19:30h enquanto que An. darlingi de 19:30 as 20:30h. Para as duas áreas em estudo houve uma correlação positiva (r=0,75) quanto a variação da abundancia das espécies An. darlingi eAn. marajoara de acordo com a precipitação pluviométrica somente para o período de maio a novembro de 2003.  malária, vetor, transmissão, áreas úmidas, Amapá.",
+	"xml:lang":"por"
+	}
+	}}

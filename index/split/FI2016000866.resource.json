@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of some sanding factors on the surface roughness of particleboard.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nemli, Gökay.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akbulut, Turgay.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zekoviç, Emir.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hionta"},
+	{"value":"feeding speed"},
+	{"value":"grit size"},
+	{"value":"Particle boards"},
+	{"value":"valmistus"},
+	{"value":"sanding"},
+	{"value":"lastulevyt"},
+	{"value":"surface roughness"},
+	{"value":"power"},
+	{"value":"pinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000866",
+	"dct:identifier":"FI2016000866",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The use of quantile trees in the prediction of the diameter distribution of a stand.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mehtätalo, Lauri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maltamo, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Annika.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"stand characteristics"},
+	{"value":"percentile"},
+	{"value":"order statistics"},
+	{"value":"metsiköt"},
+	{"value":"läpimitta"},
+	{"value":"inventory"},
+	{"value":"forest inventories"},
+	{"value":"jakaumat"},
+	{"value":"metsäninventointi"},
+	{"value":"stand structure"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000971",
+	"dct:identifier":"FI2016000971",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,82 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Exportação de carbono e nutrientes pela colheita de Acacia mearnsii De Wild aos quatro anos de idade na Depressão Central ",
+	"xml:lang":"por"
+	},
+	{"value":"Carbon and nutrients output by harvesting Acacia mearnsii De Wild to four years old at the central Depression, RS",
+	"xml:lang":"eng"
+	},
+	{"value":"   RS "}
+	],
+	"dc:subject":{"value":"forestry operations",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016200000",
+	"dct:identifier":"BR2016200000",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	},
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/367/223",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Caldeira Marcos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Godinho Tiago"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saidelles Fabio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Viera Márcio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schumacher Mauro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Castro Kallil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Capixaba de Pesquisa,"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Fundação Estadual de Pesquisa Agropecuária,Santa Maria"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":10},
+	{"value":"O objetivo do presente trabalho foi estimar o conteúdo e a exportação de carbono e nutrientes na folha, galho vivo e morto, casca, madeira e raiz de Acacia mearnsii com quatro anos de idade, em Arroio dos Ratos, RS, visando fornecer indicações de manejo da floresta, com base no critério de exportação mínima de nutrientes. Após a determinação da distribuição diamétrica e sua divisão em classes de diâmetro (sete classes), foram selecionadas três árvores de cada umadelas. Utilizando-se as 21 árvores abatidas, estimou-se a biomassa dos diferentes componentes das árvores. Observou-se que a madeira, que representa cerca de 64% da biomassa arbórea, contém 50% de Ca acumulado, 21% de N, 27% de P, 30% de K, 37% de Mg, 45% de S, 25% de B, 37% Cu, 9% de Fe, 26% de Mg e 41% de Zn. Enquanto que as folhas, representando 3% da biomassa total, contêm20"},
+	{"value":5},
+	{"value":17},
+	{"value":18},
+	{"value":"The aim of this study was to estimate the content and export of carbon, macro and micronutrients in the different components (leaf, alive and dead branch, bark, wood and roots) of the Acacia mearnsii trees with 4 years old of age in Arroio dos Ratos-RS, in order to provide the forest management, based on the criterion of minimum export of nutrients. After determining the diameter distributionand its division into diameter classes (seven classes), three trees were selected in each classes. Using the 21 trees felled, the biomass of different components of trees was estimated. It was observed that wood, which represents about 64% of the biomass, contains 50% of accumulated Ca, 21% N, 27% P, 30% K, 37% Mg, 45% of S, 25% B, 37% Cu, 9% Fe, 26% Mg and 41% Zn. While the leaf, which represents 3% of total biomass, contains 20",
+	"xml:lang":"eng"
+	},
+	{"value":"19 e 6% de N, P, K, Ca, Mg, S, B, Cu, Fe, Mg e Zn, respectivamente. A exportação de nutrientes dos cultivos de A. mearnsii pode ser minimizada com a permanência dos resíduos de colheita sobre o solo, retirando apenas de madeira e casca."},
+	{"value":"19 and 6% N, P, K, Ca, Mg, S, B, Cu, Fe, Mg and Zn, respectively. The export of nutrients from the crops of A. mearnsii can be minimized with retention of crop residues on the soil removal only of wood and bark."},
+	{"value":12}
+	]
+	}}

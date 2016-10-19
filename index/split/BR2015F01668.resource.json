@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Avaliação de pastagens degradadas na região da Nova Alta Paulista ",
+	"xml:lang":"por"
+	},
+	{"value":"Evaluation of degraded pastures at Nova Alta Paulista region",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"degradation",
+	"xml:lang":"eng"
+	},
+	{"value":"brachiaria decumbens",
+	"xml:lang":"eng"
+	},
+	{"value":"pastures",
+	"xml:lang":"eng"
+	},
+	{"value":"brachiaria brizantha",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01668",
+	"dct:identifier":"BR2015F01668",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1212435268.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"LUPATINI,  G. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MEDEIROS, S. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"YAMAMOTO W. K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RONCHESEL,  J. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MINGATTO,  F. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FIGUEIREDO,  P. A. M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"7,6 e 4,3cm e para a massa de forragem 1.006, 1.378 e 1.001kg ha-1 de MS na avaliação de dezembro, abril e agosto, respectivamente. Esses valores foram baixos em relação às necessidades das plantas e dos animais, contribuindo acentuadamente para o processo de degradação das pastagens."},
+	{"value":{"value":7.6},
+	"xml:lang":"por"
+	},
+	{"value":"O estudo foi realizado em seis áreas degradadas de Brachiaria na Região da Nova Alta Paulista, no oeste do Estado de São Paulo, com o objetivo de avaliar as pastagens em diferentes épocas do ano. O levantamento das informações das propriedades foi realizado por meio de visitas e entrevistas com os produtores. Posteriormente, foi selecionada uma área (piquete) representativa de cada propriedade para o estudo da pastagem e as variáveis avaliadas foram altura do relvado, massa de forragem e composição botânica em 16 pontos amostrais, em três épocas do ano. Nessas propriedades, a maior parte da área é ocupada por pastagens, com predominância em ordem decrescente, da Brachiaria decumbens, Brachiaria brizantha e Paspalum notatum. A maioria das propriedades é caracterizada como pequena, tem a bovinocultura de leite como atividade principal e as pastagens avaliadas apresentaram grau médio a alto de degradação. Os valores médios encontrados para a altura do pasto nas áreas estudadas foram 5,6"},
+	{"value":"and 4.3cm and for dry matter forage mass 1,006, 1,378 and 1,001kg ha-1 in December, April and August, respectively. These values were low related to the plants and animals needs, contributing significantly for the process of pastures degradation."},
+	{"value":"The study was carried out in six degraded areas of Brachiaria at the Nova Alta Paulista Region, west of São Paulo State, with the objective of evaluate the pastures at different periods of the year. The survey of the information about the properties was realized by visits and interviews with the producers. A representative area (plot) of each property was selected for the study of the pasture and the main evaluations were height, forage mass and botanical composition in 16 samples at three times of the year. In the studied properties most of the area is occupied by pastures, with decreasing order of predominance at Brachiaria decumbens, Brachiaria brizantha and Paspalum notatum. The majority of the properties is characterized as small, it has milk production as main activity and the pastures evaluated presented medium to high degradation degree. The average values found for pasture height were 5.6",
+	"xml:lang":"eng"
+	}
+	]
+	}}

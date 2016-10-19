@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Contents of trichothecenes in oats during official variety, organic cultivation and nitrogen fertilization trials in Finland /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hietaniemi, Veli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kontturi, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rämö, Sari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eurola, Merja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Arjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niskanen, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saastamoinen, Marketta.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"varieties"},
+	{"value":"kaura"},
+	{"value":"mykotoksiinit"},
+	{"value":"lajikkeet"},
+	{"value":"crop yield"},
+	{"value":"trikotekeenit"},
+	{"value":"laatu"},
+	{"value":"fertilizer application"},
+	{"value":"traditional farming"},
+	{"value":"trichothecenes"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"nitrogen"},
+	{"value":"vilja"},
+	{"value":"organic agriculture"},
+	{"value":"tavanomainen viljely"},
+	{"value":"variety trials"},
+	{"value":"Avena sativa"},
+	{"value":"lannoitus"},
+	{"value":"quality"},
+	{"value":"oats"},
+	{"value":"mycotoxins"},
+	{"value":"sadon laatu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001077",
+	"dct:identifier":"FI2016001077",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

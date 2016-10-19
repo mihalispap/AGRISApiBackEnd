@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Health drink from haustorium, a novel alternative to synthetic soft drinks",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":41,
+	"dc:subject":[
+		{"value":"HEALTH DRINK"},
+	{"value":"HAUSTORIUM"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":42,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000766",
+	"dct:type":"Summary",
+	"dct:identifier":"IN2015000766",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"mar2014",
+	"dct:dateSubmitted":2016,
+	"bibo:issue":11
+	}}

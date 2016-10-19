@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Degradabilidade da matéria seca e da proteína bruta de grãos secos e de silagens de grãos úmidos de híbridos de milho (Zea mays) ",
+	"xml:lang":"por"
+	},
+	{"value":"Degradability of dry matter and crude protein of dry grains and wet grain silages from different processing corn hybrids (Zea mays)",
+	"xml:lang":"eng"
+	},
+	{"value":"   submetidos a diferentes processamentos. "}
+	],
+	"dc:subject":[
+		{"value":"nutritive value",
+	"xml:lang":"eng"
+	},
+	{"value":"degradation",
+	"xml:lang":"eng"
+	},
+	{"value":"ruminants",
+	"xml:lang":"eng"
+	},
+	{"value":"silage",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2014F00581",
+	"dct:identifier":"BR2014F00581",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1389723086.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"REIS, W."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MEIRELLES,  P. R. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA,  M.G. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FACTORI,  M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"HADLICH,  J. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTANA,  E. A. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PARIZ,  C. M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, J. A. V."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this work was to evaluate the effect of processing two corn hybridsconserved, dry and humid grains, the dry matter (DM) and crude protein (CP) degradability insitu. The particle size was determined and difference was verified in MGD (Medium GeometricDiameter) of processed ingredients. Three sheep were used with rumen canulated, in a completelyrandomized design, using a factorial outline 2 x 2 x 3, being two corn hybrid, two conservationmethods and three processing forms (whole, coarsely and finely ground), with five times ofincubation (3, 6, 12, 24 and 48 hours). The fraction A in SDC (silage of dent corn) of DM wassuperior to GDC (grain of dent corn) in all of the particles size. The ensiling process increased theDM solubility, reducing the fraction B in comparison to dry grain. The values regarding thefractions DP and DE the 5% per hour of the protein, were larger for SDC and GDC, it presents adecreasing when the incubation time advances. The fermentation rate was superior for SDC andGDC. The ensiling process has positive effect in the decreasing of DM and CP in comparison toGDC",
+	"xml:lang":"eng"
+	},
+	{"value":"Este trabalho avaliou o efeito do processamento em dois híbridos de milho secos eensilados úmidos, sobre a degradabilidade in situ da matéria seca (MS) e da proteína bruta (PB). Agranulometria apresentou diferença no DGM (Diâmetro Geométrico Médio) dos ingredientessubmetidos à moagem. Foram utilizados três ovinos fistulados no rúmen, em delineamentointeiramente casualizado, em esquema fatorial 2 x 2 x 3, sendo dois híbridos de milho (texturadura e mole), dois métodos de conservação e três processamentos (moído grosso, médio e fino),com cinco tempos de incubação (3, 6, 12, 24 e 48 horas). Os valores da fração A na SMM (silagem demilho mole) da MS foram superiores ao GMM (grão de milho mole) em todas as granulometrias.A ensilagem aumentou a solubilidade da MS dos ingredientes, diminuindo a fração B comparadaao grão seco. Os valores das frações DP e DE a 5%/h da proteína foram maiores para SMM e GMM,apresentando maior desaparecimento com avanço do tempo de incubação. Para a MS a ensilagemaumentou a degradabilidade do milho textura mole. A taxa de fermentação foi superior paraSMM e GMM. A ensilagem influencia positivamente no desaparecimento da MS e PB comparadacom o GMM",
+	"xml:lang":"por"
+	}
+	]
+	}}

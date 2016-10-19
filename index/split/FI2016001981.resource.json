@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Principles of ecological restoration of boreal forested ecosystems : Finland as an example /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aapala, Kaisu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahlroth, Petri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuusinen, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindholm, Tapio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sallantaus, Tapani.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siitonen, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tukia, Harri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nature conservation"},
+	{"value":"metsäekosysteemit"},
+	{"value":"biodiversity"},
+	{"value":"Finland"},
+	{"value":"luonnonsuojelu"},
+	{"value":"ennallistaminen"},
+	{"value":"ecosystems"},
+	{"value":"häiriödynamiikka"},
+	{"value":"boreal forests"},
+	{"value":"luonnon monimuotoisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001981",
+	"dct:identifier":"FI2016001981",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

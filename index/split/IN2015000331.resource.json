@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Purine derivatives concentration in body fluids as influenced by different energy levels in dairy cows",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1244,
+	"dc:subject":[
+		{"value":"purine",
+	"xml:lang":"fre"
+	},
+	{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"dairy cows",
+	"xml:lang":"eng"
+	},
+	{"value":"liquidos corporales",
+	"xml:lang":"esp"
+	},
+	{"value":"vacas lecheras",
+	"xml:lang":"esp"
+	},
+	{"value":"purines",
+	"xml:lang":"eng"
+	},
+	{"value":"body fluids",
+	"xml:lang":"eng"
+	},
+	{"value":"vache laitiere",
+	"xml:lang":"fre"
+	},
+	{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"purinas",
+	"xml:lang":"esp"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"liquide biologique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1247,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000331",
+	"dct:identifier":"IN2015000331",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Deshpande, K.Y."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mehra, U.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Verma, A.K."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"Purine derivative (PD) concentration in different body fluids (plasma, milk and urine) was studied in 30 dairy cows (Bos taurus Ã Bos indicus; 331 to 369 kg mean body weight and 9.8 to 10.1 kg/d average milk yield) fed on the diets having mixed green fodders and concentrate mixtures (CM-1, CM-2, CM-3) containing varying amount of maize and wheat bran in group 1 (control), group 2 and group 3, respectively, following completely randomized design. The concentration of allantoin and total PD (mmol/L) in urine was comparable between groups 1 and 2, but was significantly higher in group 3. Moreover, the concentration of allantoin, uric acid and PD (mmol/l) in milk and plasma was significantly different among 3 groups (1, 2 and 3) indicating that the small variations in TDN and ME intake through diets (1, 2 and 3) could be reflected significantly in allantoin and PD concentration in plasma and consequently in milk but not in urine samples. The correlation coefficient (r) between digestible dry matter intake (DDMI, kg/d) and milk allantoin (mmol/L) was 0.67. The correlation of total PD (mmol/l) in milk was better than that of plasma and urine. The diurnal variation in PD secretion in milk (mmol/d) could be explained to a great extent by DDMI (kg/d) (R 2  = 0.65 and 0.75 in morning and evening milk respectively). It is concluded that the assay of allantoin and total PD in milk samples can be effectively used to assess the microbial protein supply in dairy cows on account of small variation in energy levels in diets.",
+	"xml:lang":"eng"
+	}
+	}}

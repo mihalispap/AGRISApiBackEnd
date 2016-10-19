@@ -1,0 +1,99 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Characterization of Kuttiyadi ecotype of coconut (Cocos nucifera L.) using morphological and microsatellite markers",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":301,
+	"dc:subject":[
+		{"value":"Morphological characters"},
+	{"value":"recursos geneticos",
+	"xml:lang":"esp"
+	},
+	{"value":"genetic variation",
+	"xml:lang":"eng"
+	},
+	{"value":"ecotipos",
+	"xml:lang":"esp"
+	},
+	{"value":"biodiversite",
+	"xml:lang":"fre"
+	},
+	{"value":"ecotype",
+	"xml:lang":"fre"
+	},
+	{"value":"microsatellite",
+	"xml:lang":"fre"
+	},
+	{"value":"microsatelites",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"biodiversity",
+	"xml:lang":"eng"
+	},
+	{"value":"ressource genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"biodiversidad",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"variation genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"variacion genetica",
+	"xml:lang":"esp"
+	},
+	{"value":"ecotypes",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic resources",
+	"xml:lang":"eng"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"microsatellites",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":315,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000872",
+	"dct:identifier":"IN2015000872",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Manjula, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Samsudeen, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shafeeq Rahman"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajesh, M. K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"West Coast Tall (WCT) is the most popular coconut cultivar grown by the farmers in Kerala, which occupies over 95 per cent of the area under coconut. The long history of coconut cultivation throughout Kerala state has resulted in the development of many ecotypes of WCT. The present work compares the similarity/diversity of the morphological and molecular characteristics of the Kuttiyadi ecotype growing in the hilly, midland region of Kozhikode District, Kerala with those of the WCT cultivar of the coastal region of Kasaragod District, Kerala, using vegetative, reproductive and fruit component characters and microsatellite markers. Geographically, these two locations show a wide range of variation for soil and climactic factors. The vegetative, reproductive and fruit component characteristics and microsatellite markers showed wide variations between selected WCT palms from Kasaragod and Kuttiyadi. The similarity index based on Dices coefficient, obtained after pair-wise comparison of Kuttiyadi and WCT samples with 15 SSR markers, revealed that the percentage similarity varied from the coefficient range 0.20 to 0.97 between the WCT and Kuttiyadi palms. UPGMA clustering clearly distinguished the two populations with WCT and Kuttiyadi forming separate clusters. STRUCTURE analysis was also carried out, which also showed that the two populations studied were distinct.",
+	"xml:lang":"eng"
+	}
+	}}

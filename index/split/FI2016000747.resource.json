@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.lib.helsinki.fi/se/a/1239-0992/9/2/associat.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Association of antioxidative enzymes with the synergistic effect of selenium and UV irradiation in enhancing plant growth.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Xue, Tailin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hartikainen, Helinä.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ultraviolettisäteily"},
+	{"value":"Plantae"},
+	{"value":"seleeni"},
+	{"value":"selenium"},
+	{"value":"salaatti"},
+	{"value":"stress"},
+	{"value":"entsyymit"},
+	{"value":"catalase"},
+	{"value":"enzymes"},
+	{"value":"lipid peroxidation"},
+	{"value":"glutathione peroxidase"},
+	{"value":"stressi"},
+	{"value":"ultraviolet radiation"},
+	{"value":"antioxidants"},
+	{"value":"kasvu"},
+	{"value":"antioksidantit"},
+	{"value":"raiheinät"},
+	{"value":"superoxide dismutase"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000747",
+	"dct:identifier":"FI2016000747",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

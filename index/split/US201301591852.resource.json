@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of operating condition on the kinetic of color change of concentrated pineapple juice by microwave vacuum evaporation"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591852",
+	"dct:identifier":"US201301591852",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f10.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Assawarachan, Rittichai (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Noomhorm, Athapol (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Microwave vacuum evaporation (MVE) and rotary vacuum evaporation (RVE) were carried out at various operation conditions to monitor the kinetic of color change of concentrated juice during concentration. Pineapple juice with initial total soluble solid (TSS) of 12oBrix was concentrated to 60.5oBrix. The TSS and color quality change during MVE at four levels of vacuum condition (55oC and 80 kPa, 65oC and 70 kPa, 75oC and 60 kPa, 85oC and 50 kPa) were investigated. The non-enzymatic browning and Hunter color values (L*, a*, b* and total color difference, ∆E) were measured to analyze the quality change during MVE and RVE. The experimental data for TSS change prediction were applied to 2 mathematical models of two and three exponential model. The three-parameter exponential model was more accurate than two-parameter one since it gave higher correlation coefficient and lower statistical indicators (chi-square, root mean square error (RMSE), and residual sum of squares (RSS)). MVE gave faster concentration rate, less energy usage and maintained better color quality when compared to RVE in the same operating condition. The kinetic of color change in L* and b* values followed the first order while a*, ∆E and non-enzymatic browning followed the zero order. The relationship of concentration rate constant on temperature followed an Arrhenius equation. The results revealed that processing temperature had a significant effect on the color change during concentration."}
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/6/2/optimiza.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Optimization of centrifugal separation of α-lactalbumin and β-lactoglobulin.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tupasela, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koskela, Petri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pahkala, Eero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kankare, Veikko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"erotusmenetelmät"},
+	{"value":"hera"},
+	{"value":"proteiinit"},
+	{"value":"separating"},
+	{"value":"centrifuging"},
+	{"value":"optimointi"},
+	{"value":"proteins"},
+	{"value":"sentrifugointi"},
+	{"value":"whey"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001089",
+	"dct:identifier":"FI2016001089",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

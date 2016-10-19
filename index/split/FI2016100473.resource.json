@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e8.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Leaching of sulfosulfuron from two texturally different soils under saturated moisture regime"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Srivastava, Anjana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agarwal, Vikas (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Srivastava, P.C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guru, S.K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Govindra (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100473",
+	"dct:identifier":"FI2016100473",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Leaching is one of the major transportation processes responsible for ground water contamination. Since groundwater is the main source of drinking and irrigation water in many countries the leaching behavior of sulfosulfuron, a widely used sulfonylurea group of herbicide, used for controlling of Phalaris minor weed in wheat in this region, was studied. The studies were performed in soil columns (36 cm length) filled with two different types of soils namely; sandy loam and clay loam under saturated moisture regime. Percentage recovery of sulfosulfuron from fortified sample of water was found to be 90.0-92.0 and that from soil was 84.0-86.0%, respectively. The herbicide residues were estimated using HPLC technique. The rate of leaching was found to be invariably higher and faster in sandy loam as compared to clay loam soils. The concentration of sulfosulfuron was non-detectable (<0.05 mg/l) in the first fraction (0.5 l) but it was highest (4.46-4.82 mg/l) in the third fraction (1.0-1.5 l). Total leaching of sulfosulfuron during the study period (59.5 h) was 21.57 and 18.63 per cent of the initial surface-applied amount for sandy loam and clay loam soils, respectively. Leaching of sulfosulfuron could be well accounted by a first order kinetics. Rate constants also indicated that leaching was faster in sandy loam as compared to clay loam soil. The highest concentration of sulfosulfuron residues was observed in 12-18 cm section in soil columns. The retention of sulfosulfuron in different soil layers was regressed on the basis of different soil properties and soil depth using stepwise multiple regression analysis."}
+	}}

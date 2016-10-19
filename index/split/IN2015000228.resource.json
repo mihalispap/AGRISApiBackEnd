@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Tyrophagus putrescentiae Schrank on weight loss in Stored Oats and Green gram",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":90,
+	"dc:subject":[
+		{"value":"vigna radiata",
+	"xml:lang":"esp"
+	},
+	{"value":"tyrophagus putrescentiae",
+	"xml:lang":"esp"
+	},
+	{"value":"avena",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":93,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000228",
+	"dct:identifier":"IN2015000228",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Anita"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gulati, Rachna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kaushik, H.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arvind"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The weight loss was 0.8, 1.6 and 2.2% in oat grains and 1.2, 2.1 and 3.5% in oat flakes after 15, 30 and 45 days. The average Tyrophagus putrescentiae population was 70.93, 129.6, 198.4 in oat grains and 91.6, 175.53, 309.53 in oat flakes in these observation periods, respectively. Similarly, the weight loss was 0.73, 1.22 and 1.87% in green gram grains at 62.8, 104.73, 171.06 T. putrescentiae population after 15, 30 and 45 days. The average T. putrescentiae population was 79.4, 145.46 and 247.46 in green gram flakes causing 1.0, 1.7 and 2.7 % weight loss in these observation periods, respectively. In the present study, more loss in weight was witnessed in flakes compared to whole grains. In each case, significant positive correlation ( 90) was recorded between the two parameters viz., T. putrescentiae population and weight loss which suggested that with increase in mite number, there was a corresponding increase in the weight loss of grains/flakes during the study period.",
+	"xml:lang":"eng"
+	}
+	}}

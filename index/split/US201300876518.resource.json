@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Control of isolates of Fusarium species by using extracts of Rubus ulmifolius micropropagated plantlets"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876518",
+	"dct:identifier":"US201300876518",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fraternale, Daniele (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bacchiocca, Mara (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Giamperi, Laura (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ricci, Donata (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Scoccianti, Valeria (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ninfali, Paolino (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"We developed a micropropagation protocol to obtain in vitro plantlets from nodal explants of Rubus ulmifolius. The methanolic extract of dried plantlets was assayed for antifungal activity on the growth of eight isolates of Fusarium species. The molecular components of the extract, separated by column chromatography, were analysed by HPLC. Rubus ulmifolius micropropagated plantlets provide uniformly conditioned material available all year around. Their phytochemicals are characterized by a high antioxidant capacity, water-solubility and ability to inhibit the growth of the eight isolates of Fusarium species."}
+	}}

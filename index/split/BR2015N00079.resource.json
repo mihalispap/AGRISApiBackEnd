@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"DIETA DO MANDUBÉ, Ageneiosus ucayalensis (CASTELNAU, 1855), (OSTEICHTHYES: AUCHENIPTERIDAE) DO RESERVATÓRIO DA USINA HIDRELÉTRICA COARACY NUNES, FERREIRA GOMES-AMAPÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":73,
+	"bibo:volume":4,
+	"bibo:pageEnd":82,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00079",
+	"dct:identifier":"BR2015N00079",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/963",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Júlio César Sá-Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anaytatyana Góes Peixoto Maciel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Andrea Soares de Araujo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Victoria Judith Isaac-Nahum"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Coordenadoria de Vigilância Sanitária"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">O objetivo deste trabalho foi analisar a dieta de Ageneiosus ucayalensis do reservatório da Usina Hidrelétrica Coaracy Nunes, no município de Ferreira Gomes- AP. As amostragens foram feitas bimestralmente em três estações de coleta na área do reservatório entre julho/2009 e julho/2010. As coletas foram realizadas utilizando redes de espera, organizadas em baterias com sete redes cada e diferentes distâncias entre nós. Após a captura, foi realizada a biometria dos exemplares, sendo seus estômagos retirados, fixados e conservados para análise em laboratório. As proporções sexuais foram realizadas no intuito de verificar se houve diferença significativa entre os sexos. Os itens alimentares do conteúdo estomacal foram agrupados em categorias amplas e analisados através dos métodos de frequência de ocorrência e volumétrico, combinados no Índice de Importância Alimentar (IAi), por período sazonal. Os resultados evidenciaram que a proporção entre os sexos foi de 1:1, com uma leve predominância de fêmeas. Quanto à alimentação, a espécie mostrou-se carnívora, com a dieta baseada principalmente em microcrustáceos, crustáceos, peixes e material não identificável. Variações sazonais na dieta não foram nítidas e, provavelmente, estão relacionadas tanto à disponibilidade das presas na área quanto à manipulação do nível da água do reservatório pelo controle de comportas. </span><strong></strong>",
+	"xml:lang":"por"
+	}
+	}}

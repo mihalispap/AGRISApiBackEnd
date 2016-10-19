@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth performance of ostriches (Struthio camelus) in India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":176,
+	"dc:subject":[
+		{"value":"avestruz",
+	"xml:lang":"esp"
+	},
+	{"value":"croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"ostriches",
+	"xml:lang":"eng"
+	},
+	{"value":"autruche",
+	"xml:lang":"fre"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"inde",
+	"xml:lang":"fre"
+	},
+	{"value":"india",
+	"xml:lang":"esp"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":179,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000419",
+	"dct:identifier":"IN2015000419",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Selvan, S.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumarasamy, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thyagarajan, D."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Ostrich (Struthio camelus) farming is a new upcoming venture in India. Ostrich farming was started in India during 2000 with the sole objective of studying its adaptability and commercial viability. Experience revealed that rearing, feeding and nutrition of ostriches were quite different from other poultry species. Out of 68 chicks hatched, the survival percentage was 58.8% up to the age of 18 months. Chick mortality below 3 months of age was one of the most critical phase of rearing. The live body weight was 3.78 Â± 0.17 kg at 1 month of age with a feed conversion of 1.67 and 118.21 Â± 2.81 kg at 18 months with a feed conversion ratio of 7.50. The average daily body weight (ADG) gain during the period was 220g.",
+	"xml:lang":"eng"
+	}
+	}}

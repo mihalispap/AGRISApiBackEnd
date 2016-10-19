@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"FENOLOGIA REPRODUTIVA DA ESPÉCIE Carapa guianensis Aubl. (ANDIROBEIRA) EM ECOSSISTEMAS DE TERRA FIRME E VÁRZEA, AMAPÁ, BRASIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":31,
+	"bibo:volume":3,
+	"bibo:pageEnd":38,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00045",
+	"dct:identifier":"BR2015N00045",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/602",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"João da Luz Freitas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adriano Castelo dos Santos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raullyan Borja Lima e Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fernando Galvão Rabelo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Erick Silva dos Santos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Taline de Lima Silva"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Estadual de Florestas do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"São apresentados os aspectos fenológicos de Carapa guianensis Aubl., relacionados à precipitação pluviométrica da região, em dois ecossistemas de ocorrência natural da espécie. O período de monitoramento mensal foi de 28 meses. A fenofase de floração foi mais evidenciada no período de menor precipitação pluviométrica, enquanto que a frutificação ocorreu com maior intensidade durante os meses de maior precipitação pluviométrica A espécie apresentou padrão anual nas fenofases floração e frutificação no período estudado. Com relação à mudança foliar, foi detectado o padrão perenifólio com queda de folhas durante o ano todo nos dois ambientes.",
+	"xml:lang":"por"
+	}
+	}}

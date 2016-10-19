@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ESTRUTURA POPULACIONAL E PERÍODO REPRODUTIVO DO PEIXE DONZELA Stegastes fuscus (CUVIER, 1830) DAS POÇAS DE MARÉ DA PRAIA DE BÚZIOS, RIO GRANDE DO NORTE, BRASIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":85,
+	"bibo:volume":3,
+	"bibo:pageEnd":93,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00053",
+	"dct:identifier":"BR2015N00053",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/624",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Liliane de Lima Gurgel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhaskara Canan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wallace Silva Nascimento"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sathyabama Chellappa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"2SENAI DR-RN, Serviço Nacional de Aprendizagem Industrial"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Norte"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"Default\" style=\"text-align: justify;\"><span style=\"color: windowtext;\">O peixe-donzela,< Stegastes fuscus (Osteichthyes, Pomacentridae) ocorre frequentemente nas poças de maré do Rio Grande do Norte. O objetivo deste estudo foi caracterizar a estrutura populacional em comprimento e peso e período reprodutivo de S. fuscus </span><span class=\"hps\"><span style=\"color: windowtext; mso-ansi-language: PT;\" lang=\"PT\">nos arrecifes</span></span><span style=\"color: windowtext;\" lang=\"PT\"> </span><span class=\"hps\"><span style=\"color: windowtext; mso-ansi-language: PT;\" lang=\"PT\">rochosos</span></span><span style=\"color: windowtext;\" lang=\"PT\"> </span><span class=\"hps\"><span style=\"color: windowtext; mso-ansi-language: PT;\" lang=\"PT\">costeiros</span></span><span class=\"shorttext\"><span style=\"color: windowtext; mso-ansi-language: PT;\" lang=\"PT\"> </span></span><span style=\"color: windowtext;\">de Búzios, RN, Brasil. Um total de 548 peixes foi capturado, pesados e medidos, além de registrar peso das gônadas e do fígado. Para a avaliação do ciclo reprodutivo da espécie, o índice gonadossomático (IGS) foi relacionado com os parâmetros de fator de condição (K), o índice hepatossomático (IHS) e a pluviosidade. S. fuscus apresentou um crescimento do tipo alométrico positivo. As melhores condições corporais foram registradas nos meses que antecederam à desova, principalmente nos estádios inicial e intermediário de maturação gonadal. O período reprodutivo de S. fuscus foi relacionado com período de estiagem da região, quando houve baixa precipitação pluviométrica. </span>",
+	"xml:lang":"por"
+	}
+	}}

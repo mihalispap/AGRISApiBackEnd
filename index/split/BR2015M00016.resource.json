@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"O Microscópio de Força Atômica (AFM): importante ferramenta no estudo da morfologia de superfícies na escala nanométrica",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Erveton Pinheiro Pinto "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Glenda Quaresma Ramos "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Henrique Duarte da Fonseca Filho "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CNPq "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00016",
+	"dct:identifier":"BR2015M00016",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O surgimento do Microscópio de Força Atômica (AFM) promoveu um grande impacto na Ciência, de uma forma geral, devido a sua capacidade de gerar imagens com resolução atômica, proporcionando o estudo da morfologia de superfícies, condutoras ou não, em escala nanométrica. Além disso, o AFM não exige uma preparação prévia das amostras a serem estudadas, possuindo apenas uma limitação no tamanho das mesmas devido ao porta-amostras. Um breve histórico, desde o surgimento deste microscópio até os dias atuais, e uma abordagem mais aprofundada sobre o seu funcionamento serão apresentados, explicitando, dessa forma, a importância deste poderoso equipamento para a Ciência e Engenharia dos Materiais.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

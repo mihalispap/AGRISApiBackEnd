@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of embryonic malformations in pure strains of White Leghorn and their reciprocal crosses",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1182,
+	"dc:subject":[
+		{"value":"pollo",
+	"xml:lang":"esp"
+	},
+	{"value":"embryon animal",
+	"xml:lang":"fre"
+	},
+	{"value":"croisement reciproque",
+	"xml:lang":"fre"
+	},
+	{"value":"cruzamiento reciproco",
+	"xml:lang":"esp"
+	},
+	{"value":"chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"reciprocal crossing",
+	"xml:lang":"eng"
+	},
+	{"value":"poulet",
+	"xml:lang":"fre"
+	},
+	{"value":"animal embryos",
+	"xml:lang":"eng"
+	},
+	{"value":"embriones animales",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1185,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000317",
+	"dct:identifier":"IN2015000317",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Brah, G.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaudhary, M.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bajwa, I.S."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"The incidence of embryonic malformation expressed on the basis of total eggs set varied between 1.14 and 2.84% in different genetic groups. Of all the malformed embryos, the percentage of beak defects, eye defects and brain hernia varied from 37.8 to 60.0; 15.2 to 18.7 and 20.8 to 23.1 respectively. Pooled over genetic groups, the beak defects exhibited the highest anomaly (51.4%) followed by hernia (26.1%). Other anomalies which occurred with low frequencies were limb defects, absence of head, body edema, and twin embryos with common yolk, four legged and fourwinged monsters, talpid like syndrome and a three-legged alive chick. It is felt that application of cytogenetical and embryological methods may be of major relevance in studying embryonic mortality vis-a-vis genetic background and improvement of the reproduction traits of poultry species.",
+	"xml:lang":"eng"
+	}
+	}}

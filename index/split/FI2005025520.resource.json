@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of processing methods on the nutritional properties of “ogi” produced from three maize varieties"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025520",
+	"dct:identifier":"FI2005025520",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ijabadeniyi, A.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adebolu, T. T. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Three maize varieties, white local farmer’s variety, yellow farmer’s variety and quality protein maize were used to produce ogi. Traditional method of preparation and improved method were employed. There was a slight increase in the protein content of all ogi produced using the improved method of preparation showing that the improved method is more efficient than the existing traditional ogi processing system as regards the retention of protein. Fermentation reduced fibre, ash and carbohydrate content, but the fibre, ash and carbohydrate contents of ogi produced using improved processing method far exceeded that of traditional processing method. It was also observed that white local farmer’s and yellow farmer’s varieties are preferable to quality protein maize for ogi preparation with the traditional method because the former two varieties retained more protein than quality protein maize."}
+	}}

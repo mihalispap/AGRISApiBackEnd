@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"LENGTH–LENGTH AND LENGTH–WEIGHT RELATIONSHIPS FOR FISH FAUNA FROM HEADWATERS OF ONÇA PUMA MOUNTAIN RIDGE, AMAZONIAN REGION, BRAZIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":193,
+	"bibo:volume":3,
+	"bibo:pageEnd":197,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00132",
+	"dct:identifier":"BR2015N00132",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/815",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rory Romero de Sena Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marcelo Costa Andrade"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Denis Gomes Piteira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tommaso Giarrizzo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará, Laboratório de Biologia Pesqueira e Manejo dos Recursos Aquáticos, Grupo de Ecologia Aquática. Campus Universitário do Guamá, Avenida Perimetral, 2651, Terra Firme, 66040-830 Belém, Pará, Brasil."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; text-align: justify;\"><span style=\"font-size: 12.0pt; font-family: \" lang=\"EN-US\">Length–length (LLR) and length–weight (LWR) relationships are presented for 19 fish species collected between 2009 and 2011 in small tributaries and headwaters areas of the Tocantins-Araguaia basin, Itacaiúnas drainage, Southwestern Pará, Amazonian, Brazil. This study describes the first reference of LLR for 13 species and LWR for 16 fish species.</span>",
+	"xml:lang":"por"
+	}
+	}}

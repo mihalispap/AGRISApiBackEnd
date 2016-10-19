@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Indicators for sustainable agriculture - a theoretical framework for classifying and assessing indicators.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Yli-Viikari, Anja.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"indikaattorit"},
+	{"value":"socioeconomic development"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"kestävä maatalous"},
+	{"value":"ecology"},
+	{"value":"sustainability"},
+	{"value":"kestävä kehitys"},
+	{"value":"measurement"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000858",
+	"dct:identifier":"FI2016000858",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

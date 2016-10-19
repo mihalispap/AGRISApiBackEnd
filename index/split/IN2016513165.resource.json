@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"Wastewater Treatment of Industrial Enterprises Using Carbonate Sludge",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"wastewater treatment",
+	"xml:lang":"eng"
+	},
+	{"value":"industrial wastes",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513165",
+	"dct:identifier":"IN2016513165",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=35",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Larisa A. Nikolaeva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anatoliy G. Laptev"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Regina Ya. Iskhakova"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In the present article, a perspective method of biological sorption process of wastewater treatment in the chemical industry is reviewed. This article focuses on the carbonate sludge produced by heat power stations that is used as a sorption material, and adsorption properties of carbonate sludge and its influence on activated sludge are considered. Sludge is a micro and mesoporous sorbent, which is confirmed by the sorption curves for formaldehyde and ammonia nitrogen. Removal of ammonia nitrogen and reduction of COD and BOD5 in aqueous solutions by means of carbonate sludge was investigated. It was observed that the maximum removal of COD, BOD5 and ammonium nitrogen was achieved at 600 mg/L dosage adsorbent carbonate sludge. This dose helped to reduce COD in water by 91% on the average, BOD5 by 98% and ammonium nitrogen by 94%. It was found that the biological sorption process is more effective than biological wastewater treatment. A modified biological wastewater treatment line was submitted to the Kazan Synthetic Rubber Plant (Russia).",
+	"xml:lang":"eng"
+	}
+	}}

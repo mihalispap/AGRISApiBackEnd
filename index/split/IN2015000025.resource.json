@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic diversity in the assassin bug Rhynocoris marginatus fabricius (heteroptera: Reduviidae), based on RAPD analysis",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":146,
+	"dc:subject":[
+		{"value":"recursos geneticos",
+	"xml:lang":"esp"
+	},
+	{"value":"heteroptera",
+	"xml:lang":"esp"
+	},
+	{"value":"genetic resources",
+	"xml:lang":"eng"
+	},
+	{"value":"rapd",
+	"xml:lang":"esp"
+	},
+	{"value":"ressource genetique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":153,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000025",
+	"dct:identifier":"IN2015000025",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Baskar,  Arul"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ambrose,  D. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tirumurugaan,  K. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fleming, A. T."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The present paper includes the results of RAPD-PCR based molecular genetic diversity of three populations of Rhynocoris marginatus Fabricius. The in vitro enzymatic amplification of genomic DNA derived from homogenized adult males and females was carried out by using three random oligonucleotide primers, respectively. The results were analysed by using standard gene ruler and by the application of suitable software programme by considering two parameters of study i.e., band sharing analysis and dendrogram of genetic relatedness. As a result of this research it was noticed that primer OPA-2 was most reliable because, on the basis of the DNA profiles with this primer, all the male and female of the populations of R. marginatus could be two main clusters and two subclusters together. The band sharing coefficient value of 1 indicated maximum similarity between all the three populations of R. marginatus with primer OPA-2. In this respect the results revealed in dendrogram and band sharing coefficient confirm the status of genetic kinship of inter-and intraspecific nature.",
+	"xml:lang":"eng"
+	}
+	}}

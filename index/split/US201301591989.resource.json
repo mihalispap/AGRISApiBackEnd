@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Yearly permanent variation of soil apparent electrical conductivity and water content"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591989",
+	"dct:identifier":"US201301591989",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e27.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kurtuluş, Cengiz (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bozkurt, Ali (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Soil apparent electrical conductivity (ECa) and water content (Wn) of a field with composite soil types were measured during the year of 2004 in the experimental field located in Bahçecik district of Kocaeli northwest of Turkey. The soils in the experimental field consist of sandy silty clay in the upper 1.5 m. The density of the cover topsoil was 1.53 g/cm3 and that of subsoil 1.7 g/cm3. The resistivity measurements were conducted in situ using Wenner electrode system with electrode spacing of 1.0 m at 56 grid points separated with 5.0 m of interval. Conductivity was obtained inversing the apparent electrical resistivity. Collection of soil samples was performed at a depth of 30.0 cm at the ECa measuring locations. Each sample was analyzed for water content with the oven method and particle size distribution in the laboratory. The water content was measured gravimetrically and then converted to a volumetric basis using bulk density samples previously taken throughout the field. GPS based recording system was used to map conductivity. Soil water contents were regressed against ECa , and a linear correlation was detected for each month. Permanent variation in soil apparent electrical conductivity and water content represents the amount of fertilizer nutrients in soil. Field measurements of both soil apparent (ECa) and (Wn) continued to be consistent throughout the year despite annual agricultural applications. Data display a strong relationship between soil apparent electrical conductivity and water content. Based on this, soil water content at the time of measurements was the major factor contributing to soil apparent electrical conductivity survey. Amount of fertilizer nutrients tends to increase the soil apparent conductivity level."}
+	}}

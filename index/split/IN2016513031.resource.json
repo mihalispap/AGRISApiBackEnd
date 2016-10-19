@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:title":{"value":"A Model for Assessing Water Purification Capacity of Algae to Eutrophication at Large-Scale",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"water purification",
+	"xml:lang":"eng"
+	},
+	{"value":"algae",
+	"xml:lang":"eng"
+	},
+	{"value":"eutrophication",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513031",
+	"dct:identifier":"IN2016513031",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=10",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wei-zhuo  Wang"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jian-min Bian"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wenxi Lu"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"It has been observed that water in the reservoirs has a trend towards eutrophication even under natural environment, while human activity makes the situation worse. Studies on eutrophication are mainly focused on nutritive salt control. It is an effective method to remove the nutrient substance by using attached algae",
+	"xml:lang":"eng"
+	},
+	{"value":"however, due to experimental limitations, the theoretical results from the lab study are commonly inapplicable to the natural environment. In this paper, based on a case study on the Hada reservoir, we have built a hydrodynamic-quality model that represents the current state of the reservoir. With the help of the model, we can verify the development of eutrophication of the reservoir and simulate the spatial-temporal evolvement, using Cladophora, to deal with eutrophication within a shallow water reservoir."}
+	]
+	}}

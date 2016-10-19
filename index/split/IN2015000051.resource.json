@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Correlation of Seed Characters of Pulses with Host Suitability and Preference of Callosobruchus Chinensis (L.).",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":365,
+	"dc:subject":[
+		{"value":"grain legumes",
+	"xml:lang":"eng"
+	},
+	{"value":"legumineuse a grains",
+	"xml:lang":"fre"
+	},
+	{"value":"seed",
+	"xml:lang":"eng"
+	},
+	{"value":"semence",
+	"xml:lang":"fre"
+	},
+	{"value":"semillas",
+	"xml:lang":"esp"
+	},
+	{"value":"callosobruchus chinensis",
+	"xml:lang":"esp"
+	},
+	{"value":"leguminosas de grano",
+	"xml:lang":"esp"
+	},
+	{"value":"callosobruchus",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":370,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000051",
+	"dct:identifier":"IN2015000051",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Neog Pankaj"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, H.K."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Correlation studies were carried out between physical characters of eleven different pulses viz., green gram, black gram, lentil, chickpea (deshi), chickpea (kabuli), french bean, pea, pigeon pea, cowpea, soybean and rice bean and oviposition by Callosobruchus chinensis (L.) in multiple and restricted choice conditions during 2005 - 2006. It was also studied to find out any possible relationship of both physical and chemical characters with the host suitability and preference of the pest. The seed characters such as 100 seed weight, seed coat thickness, colour and texture of seed coat were not related with the ovipositional preference and host suitability of the pest to different pulse seeds. However, the biochemical characters such as total soluble sugar, reducing sugar, non-reducing sugar and amylose fraction of starch had a positive influence on host suitability (in terms of growth index) and preference (in terms of seed infestation) of C. chinensis. The starch, crude protein, free amino acid, crude oil and free fatty acid content were not significantly correlated with any of the developmental parameters of the pest.",
+	"xml:lang":"eng"
+	}
+	}}

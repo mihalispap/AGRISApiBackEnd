@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/s/elainlaakari/104/12/madottap.pdf",
+	"dct:language":"fin",
+	"dct:title":{"value":"Madot tappoivat suden Hämeessä : kuolemaan johtanut Alaria sp. -imumatoinfektio sudella /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Saari, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Westerling, Bengt.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nikander, Sven.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sisäloiset"},
+	{"value":"parasites"},
+	{"value":"imumadot"},
+	{"value":"loiset"},
+	{"value":"loistaudit"},
+	{"value":"eläintaudit"},
+	{"value":"wolves"},
+	{"value":"animal diseases"},
+	{"value":"susi"},
+	{"value":"infectious diseases"},
+	{"value":"Alaria"},
+	{"value":"petoeläimet"},
+	{"value":"helminthoses"},
+	{"value":"Canis lupus"},
+	{"value":"Cestoda"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001703",
+	"dct:identifier":"FI2016001703",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

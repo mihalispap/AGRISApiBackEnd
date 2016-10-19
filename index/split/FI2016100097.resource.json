@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-20.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative study on the interrelation between flavor related parameters of different onion (Allium cepa L.) cultivars and their applicability to forecasting onion oil yield"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Resemann, Jörg (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carle, Reinhold (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100097",
+	"dct:identifier":"FI2016100097",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Different flavor related parameters along the biochemical and chemical way of aroma genesis of onions (Allium cepa L.), i.e. bulb sulfur, γ-glutamyl-1-propenyl-L-cysteine sulfoxide (γ-GPeCSO), alk(en)yl-L-cysteine sulfoxides (ACSOs), enzymatically developed pyruvate (EPY), amount of distilled volatiles (onion oil) and headspace volatiles were compared and correlated with respect to their suitability for the evaluation of onion flavor potential and for prediction of onion oil yield. Identical material (lyophilisate and juice from same bulbs) from four onion cultivars with two of them grown at different sulfur fertilization levels (0 and 100 kg S /ha) was analyzed. For the cultivars in this study (cvs. Copra, Sturon, Golden Bear, Matador), all parameters were generally in good correlation with EPY, underlining their significance with regard to raw material assessment. Among the cultivar lines under fieldgrowing conditions the ratios of the ACSOs methyl-L-cysteine sulfoxide (MCSO) and E-1-propenyl-L-cysteine sulfoxide (PeCSO) varied only within a limited range (8:92-14:86 % µmols MCSO:PeCSO, resp.). A shift in proportions towards methylated derivatives after steam distillation was not attributable to the variability in ACSO ratios, but was assumed to be caused by the thermal lability of 1-propenyl radicals during distillation and analysis. A rapid semiquantitative gaschromatographic solidphase microextraction (SPME-GC/MS) procedure of heated onion juice was evaluated and proved to be superior to fresh juice sampling in terms of quantitative correlation to onion oil (r=0.98 vs r=0.71) and reproducibility (CV 2.7% vs 4.7%). Neither for different cultivars nor for the two applied sulfur rates a significant qualitative change in the relative peak areas of the headspace could be observed."}
+	}}

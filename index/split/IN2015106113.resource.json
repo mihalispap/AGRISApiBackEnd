@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Innovative measures for mitigating negative effects of climate change on hill agriculture in Nepal",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"climatic change",
+	"xml:lang":"eng"
+	},
+	{"value":"adaptation",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015106113",
+	"dct:identifier":"IN2015106113",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19679"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Hill Agriculture"},
+	"bibo:ISSN":{"value":"0976-7606"}
+	}
+	},
+	"dct:issued":"12/2-14",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.indianjournals.com/ijor.aspx?target=ijor%3Ajha&volume=5&issue=2&article=001",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Malla GHANASHYAM"
+	}
+	},
+	"bibo:abstract":[
+		{"value":"Agriculture plays an important role infood and nutritional security of Nepal. Climatechange is negatively affecting agriculture especiallyin hill agriculture of the country. Reviews showedthat increase in temperature in Nepal is higher (1.7oCin 30 years, i.e. 0.06oC /year) than the global average.In Nepal, both positive and negative impacts ofclimate change have been observed on agriculture.Frequency of negative impacts especiallyhydrological drought has been increased in Hillregion. Thus, to mitigate negative impacts of climatechange and its threats"},
+	{"value":"eco-friendly agriculturaladaptation measures like adaptation of stress tolerantgenotypes, integrated crop and livestock farming,agro forestry, soil and nutrition conservationalpractices, atmospheric nitrogen fixing practice,proper management of biomass and livestock waste,improving livestock and fisheries breeding andsloppy land improvement etc. should be enhanced.Similarly, climate change adaptation plans, NationalAgriculture Program of Action (NAPA), LocalAgriculture Program of Action (LAPA) and othereffective policies should be in place for theimprovement of food security in the country."}
+	]
+	}}

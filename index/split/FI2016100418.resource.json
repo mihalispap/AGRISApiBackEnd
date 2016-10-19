@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f16.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of different sources of heat on the quality of smoked fish"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Oyewole, B. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agun, B. J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Omotayo, K. F. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100418",
+	"dct:identifier":"FI2016100418",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Selected average good sizes of four species of fish, viz tilapia, mackeral, titus and clarias, were subjected to four different sources of heat treatment for smoking, viz sawdust, charcoal, rice bran and firewood, for 48 hours. Physical examination, quality assessment and microbial count under scale 10-6 were carried out to determine which of the four sources of heat gives the best result. An arithmetic average of physical examination of weight and sizes showed that sawdust had 15-36%, charcoal 30-52%, rice bran 10-27% and firewood 33-54% reduction in weight for all species. Charcoal and firewood sources of heat treatment yielded the best quality in terms of colour, taste, texture and flavour. Also, microbial count showed that use of charcoal and firewood caused the lowest level of microbial count of 4x106 while use of sawdust and rice bran caused microbial counts of 10x106 and 20x106 respectively. Furthermore, use of charcoal and firewood gave the lowest weight reduction, highest quality and lowest microbial count of all the four sources of heat."}
+	}}

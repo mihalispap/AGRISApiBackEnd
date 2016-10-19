@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of FSH on expression of cathepsin K and S during in vitro muturation of buffalo oocytes andtheir subsequent development competence",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":137,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"ovulo",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"in vitro",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"ovule",
+	"xml:lang":"fre"
+	},
+	{"value":"fsh",
+	"xml:lang":"fre"
+	},
+	{"value":"hfs",
+	"xml:lang":"esp"
+	},
+	{"value":"ova",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":142,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000412",
+	"dct:identifier":"IN2015000412",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jain, Asit"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jain, Tripti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sachdeva, G.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"De, S,"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goswami, S.L. ."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Datta, T.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Follicle stimulating hormone (FSH) has been identified as a modulator of oocyte function and antiapoptotic molecule. It has been observed that FSH decreased follicular atresia by decreasing the aspartic lysosomal enzyme (cathepsin D) in rodent. In present study, it was determined whether FSH treatment of oocytes during maturation affects expression of cathepsin K and S (cysteine cathepsins) genes, DNA fragmentation during maturation and associated developmental capacity of oocytes. COCs were collected from abattoir derived ovaries and in vitromatured in TCM-199 based serum-free medium containing 0 (control) and 10 Âµg/ml FSH at 38.5Â°C for 24 hours. After maturation transcript level of cathepsin K and S genes was determined by optimized real time PCR assay in cumulus cells. In vitrofertilization (IVF) and in vitroculture (IVC) of fertilized embryos were carried out in mSOF medium. Terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling (TUNEL) assay was carried out to count apoptotic cells. It was found that FSH may involve in attenuating cumulus cells apoptosis by decreasing the cathepsin K and S expression, which probably helps in better in-vitrooocytes maturation, in vitrofertilization and further embryonic development.",
+	"xml:lang":"eng"
+	}
+	}}

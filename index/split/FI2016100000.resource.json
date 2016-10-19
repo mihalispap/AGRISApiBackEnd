@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Compositional evaluation of cowpea (Vigna unguiculata) and scarlet runner bean (Phaseolus coccineus) varieties grown in Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Olaleke, Aremu M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Olorunfemi, Olaofe (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akintayo, T. Emmanuel (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100000",
+	"dct:identifier":"FI2016100000",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Dehulled samples of two cowpea (Vigna unguiculata) and two scarlet runner bean (Phaseolus coccineus) varieties were studied for nutritional evaluation with respect to proximate, mineral and amino acid composition. The samples contained crude protein in the range of 75.3– 526.1 g kg–1 DM with cream coat scarlet runner beans having the highest and cream coat moderate cowpea the lowest value. The crude fat varied with values ranging from 21.3±0.0 g kg-1 in white coat small cowpea to 75.3±0.1 g kg-1 in white coat scarlet runner bean. Proximate composition ranges were: moisture content 4.0–18.0, crude fibre 24.0–440, ash 36.1– 46.1 and carbohydrate (by difference) 301.1–828.3 g kg-1 DM. The most abundant minerals were Ca (594.2–664.3 g kg-1), Mg (546.1–677.1 g kg-1) and K (357.5–404.8 g kg-1 ). Generally the two legume varieties were found to be good sources of essential minerals while Co, Pb, Cd and Cr were not detected. The levels of Na/K and Ca/P ratios were desirable compared with the recommended values. The amino acid analysis revealed that all the samples contained nutritionally useful quantities of most of the essential amino acids with total essential amino acid (TEAA) (with His) ranging from 43.79 to 48.31%. The first limiting amino acid was Lys (0.51–0.59) and calculated isoeletric point (ρl) ranged between 5.49 and 5.58."}
+	}}

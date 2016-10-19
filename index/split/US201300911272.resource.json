@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of RAPD and ISSR marker profiles of cultivated peanut genotypes susceptible or resistant to foliar diseases"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911272",
+	"dct:identifier":"US201300911272",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mondal, Suvendu (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sutar, S. R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Badigannavar, A. M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Comparison of molecular profile among nineteen peanut cultivars and breeding lines with differential disease reaction against rust (Puccinia arachidis Speg.) and late leaf spot (Phaeoisariopsis personata Berk. & Curtis.) was carried out using random amplified polymorphic DNA (RAPD) and inter- simple sequence repeat (ISSR) markers. A total of 17 selected RAPD and 21 ISSR primers produced 119 and 153 amplicons respectively, of which 56 and 114 were polymorphic correspondingly. Among 21 ISSR primers, poly (GA) & poly (AG) based primers accounted 65% of total polymorphic bands. Of the two markers, ISSR revealed higher polymorphism (74.5%) than RAPD (47.1%) with the average number of polymorphic bands per assay unit being 5.4 in ISSR and 3.3 in RAPD. Besides, average effective number of patterns per assay unit, expected heterozygosity, effective multiplex ratio (EMR), resolving power (Rp) and marker index (MI) were significantly higher in ISSR than RAPD. In this study, the RAPD and ISSR matrices showed low correlation (r = -0.125) among them but RAPD+ISSR matrix showed significant correlation with both RAPD (r = 0.71) and ISSR (r = 0.75). Though clustering of genotypes was not similar between RAPD, ISSR and RAPD+ISSR dendrogram, clustering of genotypes based on RAPD dendrogram agrees better with the foliar disease reaction against rust and late leaf spot of each genotype."}
+	}}

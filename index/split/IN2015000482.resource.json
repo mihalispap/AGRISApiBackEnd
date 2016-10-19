@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Field screening of black gram, Vigna Mungo L. germplasm for resistance against pod borer complex",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":142,
+	"dc:subject":[
+		{"value":"pest control",
+	"xml:lang":"eng"
+	},
+	{"value":"urd",
+	"xml:lang":"esp"
+	},
+	{"value":"lutte antiravageur",
+	"xml:lang":"fre"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"control de plagas",
+	"xml:lang":"esp"
+	},
+	{"value":"maruca vitrata",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":148,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000482",
+	"dct:identifier":"IN2015000482",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Soundararajan, R.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chitra, N."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Field screening was carried out during kharif and rabi 2012 with 51 black gram, Vigna mungo L. germplasm for resistance against pod borer complex. The incidence of spotted pod borer, Maruca vitrata (Geyer) was assessed at flowering stage based on webbed larva per plant. The damage in the pods were estimated in the harvested pods for borer pests viz., Maruca vitrata, gram pod borer, Helicoverpa armigera (Hubn.), blue butterfly, Lampides boeticus L., pod bug, Riptortus linearis (F.). The cumulative damage was converted to Pest Score Index (PSI) for all the germplasm. The results revealed that population of spotted pod borer larva were more during kharif (0.33â4.67/plant) than rabi (0.10â1.33/plant). The PSI value indicated that none of the entry scored resistant. However, 16 entries were moderately resistant with PSI value of 3 during kharif. In rabi season 19 entries were recorded as moderately resistant and two entries as resistant with PSI 2. Nine germplasms viz., CBG 08â009, CBG 08â014, CBG 08â040, CBG 08â045, CBG 08â057, PLU 102, 5-16-7, PLS 364/42, KU 301 were scored as moderately resistant in both seasons.",
+	"xml:lang":"eng"
+	}
+	}}

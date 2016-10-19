@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Animal performance and carcass characteristics of growing Hereford bulls under insulated, uninsulated and outdoor housing conditions in Northern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huuskonen, Arto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuomisto, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Joki-Tokola, Erkki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kauppinen, Risto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sonnit"},
+	{"value":"teuraslaatu"},
+	{"value":"kasvatus"},
+	{"value":"hereford"},
+	{"value":"animal housing"},
+	{"value":"carcass composition"},
+	{"value":"Finland"},
+	{"value":"lihakarja"},
+	{"value":"beef cattle"},
+	{"value":"pihatot"},
+	{"value":"ulkokasvatus"},
+	{"value":"parsinavetat"},
+	{"value":"tuotantoympäristö"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000702",
+	"dct:identifier":"FI2016000702",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

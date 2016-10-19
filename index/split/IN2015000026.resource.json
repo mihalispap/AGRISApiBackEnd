@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Persistent toxicity of botanicals and biopesticides against Helicoverpa armigera (hubner) in cotton",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":154,
+	"dc:subject":[
+		{"value":"cotton",
+	"xml:lang":"eng"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"algodon",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"coton",
+	"xml:lang":"fre"
+	},
+	{"value":"toxicite",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":156,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000026",
+	"dct:identifier":"IN2015000026",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Borkar,  S. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarode, S. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bisane,  K. D."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"An experiment was carried out to test the persistent toxicity of Helicoverpa armigera (Hbn.) on cotton with botanicals and biopesicides in the Department of Entomology, Dr. P.D.K.V., Akola. The results revealed that the significantly higher mortalities were noticed during the first few days after application of treatments, which further declined as the days advanced. In laboratory, the treatments of NSE 5% followed by HaNPV, NSE 5% by spinosad 45 SC, azadirachtin 1500 ppm, a spinosad 45 SC, NSE 5% and HaNPV showed best performance by registering 76.38 to 100% larval mortality up to 5th days. Based on the PT values, the toxicity and persistence, the botanicals followed by biopesticides like spinosad 45 SC or HaNPV 250 LE/ha performed better than botanicals and biopesticides solely.",
+	"xml:lang":"eng"
+	}
+	}}

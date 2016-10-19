@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The attachment efficiency of cell-walled and L-forms of Listeria monocytogenes to stainless steel"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188152",
+	"dct:identifier":"FI2007188152",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f16.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jassim, S.A.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hibma, A.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Griffiths, M.W. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"There is limited knowledge regarding the attachment of cell wall-deficient forms of Listeria monocytogenes to abiotic and food contact surfaces. A typical L-form phenotype of Listeria monocytogenes was induced, propagated and recovered in both broth and plate culture by exposure to sub-lethal concentrations of ampicillin. Attachment of both cell-walled and L-forms to stainless steel were compared using viable counts. L-forms possessed no cell wall material and were present as spherical cells or small rods. L-form cells had the capacity to attach sufficiently well to stainless steel (0.3% of cells attached) with a higher efficiency than parental cells (0.002%) after 8 h exposure to culture. After longer exposure times of 18 h, the parental cells attached with slightly higher efficiency (0.8%) than L-forms cells (0.625%). The ability of Listeria monocytogenes L-forms to attach to stainless steel may suggest that a classical rigid cell wall structure is not a prerequisite for cell adhesion in vitro."}
+	}}

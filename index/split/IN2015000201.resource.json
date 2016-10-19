@@ -1,0 +1,98 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Organochlorine pesticide residues of goat tissues",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":199,
+	"dc:subject":[
+		{"value":"organochlorine compounds",
+	"xml:lang":"eng"
+	},
+	{"value":"residuos",
+	"xml:lang":"esp"
+	},
+	{"value":"tissue analysis",
+	"xml:lang":"eng"
+	},
+	{"value":"residues",
+	"xml:lang":"eng"
+	},
+	{"value":"pesticide",
+	"xml:lang":"fre"
+	},
+	{"value":"analisis de tejidos",
+	"xml:lang":"esp"
+	},
+	{"value":"pesticides",
+	"xml:lang":"eng"
+	},
+	{"value":"residu",
+	"xml:lang":"fre"
+	},
+	{"value":"analyse de tissus",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"plaguicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"compose organochlore",
+	"xml:lang":"fre"
+	},
+	{"value":"compuesto organico del cloro",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":202,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000201",
+	"dct:identifier":"IN2015000201",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Muthukumar, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, K. Sudhakar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, K. Kondal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, A. Gopala"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, D. Jagdishwar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, C. Narendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kondaiah, N."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Organochlorine (OC) pesticides viz., DDT (Dichloro Diphenyl Trichloroethane), HCH (Hexachloro Cyclo Hexane) and cyclodiene compounds (Aldrin and Endosulfan) residues in muscle and organs of goats collected from Hyderabad (Andhra Pradesh) were estimated by gas chromatograph. Majority of the analysed muscle and organs samples of goats contained residues of metabolites of DDT (p,p'DDT - para para Dichloro Diphenyl Trichlore ethane and p,p'DDE - para para Dichlorodiphenyl Dichlore Ethane), isomers of HCH (y and 5 HCH) and cyclodiene compounds. However, the levels of contamination in all the analyzed tissue were below the maximum residue limit (MRL). Further, none of the samples of goat showed presence of p,p'DDD (para para Dichloro Diphenyl Dichloroethylene), a HCH, (3 HCH and endosulfan sulphate. The contamination pattern of OC pesticides in tissues of goat were in the descending order of p,p'DDT (0.157 ppm), p,p'DDE (0.047 ppm), aldrin (0.020 ppm), a and (3 endosulfan (0.020 ppm), 5 HCH (0.014 ppm) and y HCH (0.012 ppm). Among tissues, muscle showed the highest concentration for all residues except p,p'DDE, which was more in liver samples.",
+	"xml:lang":"eng"
+	}
+	}}

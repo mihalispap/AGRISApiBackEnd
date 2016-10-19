@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Histology, histochemistry and scanning electron microscopy of the pineal gland of the pig",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1025,
+	"dc:subject":[
+		{"value":"microscopie",
+	"xml:lang":"fre"
+	},
+	{"value":"analyse histocytologique",
+	"xml:lang":"fre"
+	},
+	{"value":"pineal body",
+	"xml:lang":"eng"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"histocytological analysis",
+	"xml:lang":"eng"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"analisis histocitologico",
+	"xml:lang":"esp"
+	},
+	{"value":"glande endocrine",
+	"xml:lang":"fre"
+	},
+	{"value":"endocrine glands",
+	"xml:lang":"eng"
+	},
+	{"value":"glandulas endocrinas",
+	"xml:lang":"esp"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"glandula pineal",
+	"xml:lang":"esp"
+	},
+	{"value":"epiphyse",
+	"xml:lang":"fre"
+	},
+	{"value":"microscopy",
+	"xml:lang":"eng"
+	},
+	{"value":"microscopia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1028,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000272",
+	"dct:identifier":"IN2015000272",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Pawan"
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The present study was conducted on 10 adult pigs to reveal structure of pineal gland by light and scanning electron microscopy. The pineal gland was surrounded by a layer of dense capsule consisting of reticular and collagen fibres. At places connective tissue trabeculae from the capsule penetrated the parenchyma dividing it into lobes and lobules. The parenchyma of the gland was constituted mainly by pinealocytes whereas, 4 types of glial cells categorized on the basis of nuclear morphology, were present mainly towards the glial zones. The light and dark pinealocytes were arranged in small clusters, irregular groups, rosettes, cords and follicular patterns. At places, melanin containing cells were interspersed in between pinealocytes and glial cells. Corpora arenacea was observed only at few places throughout the pineal parenchyma. The mast cells were absent. The carbohydrates in the form of mucopolysaccharides were uniformly distributed in the cytoplasm of pinealocytes and glial cells whereas, a moderate reaction was observed in processes of pinealocytes and glial cells. The proteins in very less concentration were observed towards capsule of gland however, a moderate reaction was seen in blood capillaries containing blood cells. The lipids distribution in the gland was almost negligible. The scanning electron microscopy of dorsal surface of pineal gland presented fibrous strands oriented in different directions forming an irregular meshwork. However, cut surface of the gland depicted pinealocytes, glial cells, glial fibres and cellular debris. The surface of round to oval shaped pinealocytes was studded with microvilli like structure whereas round to oval, glial cells presented smooth surface and possessed large sized processes which frequently intermixed with those of other glial cells.",
+	"xml:lang":"eng"
+	}
+	}}

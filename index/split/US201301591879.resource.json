@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of polyphenolic composition on sensory perception of Croatian red wine Babić"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591879",
+	"dct:identifier":"US201301591879",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f30.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Budić-Leto, Irena (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zdunić, Goran (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kljusurić, Jasenka Gajdoš (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pezo, Ivan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alpeza, Ivana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lovrić, Tomislav (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The aim of this study was to establish the relationship between the large groups of polyphenols (total phenols, total anthocyanins, low molecular weight proanthocyanidins as well as high molecular weight proanthocyanidins) and sensory perception of native Croatian red wine Babić.Sensory evaluation of four types of wines produced at different pomace contact times and temperatures was conducted by 11 panellists who rated the intensity of astringency, bitterness and overall sensory impression of each wine. Complex observations of sensory and analytical values (using principal component analysis, PCA) indicate the acceptability of the wine. In order to compare the obtained results, chemometric methods, particularly principal component analysis (PCA), were conducted for sensory evaluation of the data and identification of wine. Analysis of the score plot of the PCA for the monitored values showed that over 85% of the total variance in the data can be described by PC 1 and PC 2. Results of this study demonstrate a strong correlation between the concentration of polyphenols and the sensory attributes. Decreasing macerationtemperature leads to the best perception of astringency and overall impression in younger wines. Prolongation of pomace contact time resulted in the best attributes of astringency, bitterness and overall impression in aged wines."}
+	}}

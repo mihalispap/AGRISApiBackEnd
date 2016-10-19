@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Forest habitat loss and fragmentation in Central Poland during the last 100 years.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mazgajski, Tomasz T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zmihorski, Michał.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abramowicz, Katarzyna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"metsäekosysteemit"},
+	{"value":"vanhat metsät"},
+	{"value":"fragmentation"},
+	{"value":"maisema"},
+	{"value":"agricultural structure"},
+	{"value":"historia"},
+	{"value":"landscape"},
+	{"value":"history"},
+	{"value":"forest continuity"},
+	{"value":"metsien häviäminen"},
+	{"value":"afforestation"},
+	{"value":"metsitys"},
+	{"value":"ancient forest"},
+	{"value":"metsät"},
+	{"value":"pirstoutuminen"},
+	{"value":"deforestation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000615",
+	"dct:identifier":"FI2016000615",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

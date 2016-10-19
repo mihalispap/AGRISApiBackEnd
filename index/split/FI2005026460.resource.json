@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Microbiological investigation of maggot meal, stored for use as livestock feed component"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026460",
+	"dct:identifier":"FI2005026460",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Awoniyi, T.A.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adetuyi, F.C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akinyosoye, F.A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The fresh and 9-month stored samples of freshly harvested dried, milled housefly larvae (maggots of Musca domestica) were investigated for the presence of microbes for the determination of its suitability for inclusion in livestock diet. The predominant bacteria species isolated in the samples include Bacillus cereus, Corynebacterium pyogenes, Micrococcus tetragenus, Pseudomonas aeruginosa, Staphylococcus aureus and Streptoccus faecalis. The fungi isolated include Aspergillus flavus, Fusarium moniliformis and a yeast (Saccharomyces cereus). The mean plate counts of bacteria were 2.56×10³ and 1.1×10³ cfu g-1 in the fresh and stored samples respectively, those of fungi were 0.21×10³ and 3×10³ cfu g-1 for the fresh and stored samples respectively. From the proximate analysis, the percentage moisture, fibre and ash contents of the stored maggot meal were higher (23, 7.5 and 12.5%, respectively) than for the fresh meal. Since the moisture in the stored maggot meal (23%) was higher than the peak figure of 12% stipulated by FAO for stored food product, it was concluded that the stored maggot meal was prone to deterioration by the population of fungi and bacteria in the improperly stored sample."}
+	}}

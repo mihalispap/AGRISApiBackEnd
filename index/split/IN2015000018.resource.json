@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of some insecticides against the green peach aphid, Myzus persicae (sulzer) (hemiptera: Aphididae)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":113,
+	"dc:subject":[
+		{"value":"extractos de melia",
+	"xml:lang":"esp"
+	},
+	{"value":"biopesticides",
+	"xml:lang":"eng"
+	},
+	{"value":"myzus persicae",
+	"xml:lang":"esp"
+	},
+	{"value":"bioplaguicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"biopesticide",
+	"xml:lang":"fre"
+	},
+	{"value":"neem extracts",
+	"xml:lang":"eng"
+	},
+	{"value":"extrait de neem",
+	"xml:lang":"fre"
+	},
+	{"value":"verticillium lecanii",
+	"xml:lang":"esp"
+	},
+	{"value":"capsicum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":117,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000018",
+	"dct:identifier":"IN2015000018",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"jun2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rawat, Nidhi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Rajpal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, P.L."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Laboratory bioassay of six synthetic chemical insecticides namely oxydemeton methyl, thiamethoxam, imidacloprid, acetamipirid, spiromesifen and chlorfenapyr, and one neem based insecticide, Neem Baan (1500 ppm), and one entomopathogenic fungus, Verticillium lecanii (Zimmerman) based formulation Biocatch (109 conidia/ml) was done against the green peach aphid, Myzus persicae (Sulzer) on capsicum. Among chemical insecticides, imidacloprid was the most toxic (LC50 8.87ppm) followed by acetamiprid (10.72 ppm), chlorfenapyr (12.98 ppm), thiamethoxam (48.75 ppm), spiromesifen (87.10 ppm) and oxydemeton methyl (338.02 ppm). The LC90 values obtained were 61.37, 81.28, 115.35, 239.88, 307.92 and 1281.78 ppm, for chlorfenapyr, acetamiprid, imidacloprid, thiamethoxam, spiromesifen and oxydemeton methyl, respectively. Biopesticides, Neem Baan and V. lecanii (Biocatch) resulted in dosage-dependent mortality with LC50 and LC90 values of 4.59 and 23.44 ppm, and 3.2Ã106 and 1.8Ã108 conidia/ml, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

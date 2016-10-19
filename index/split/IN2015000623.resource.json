@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Flowering and pollination biology in coconut",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":109,
+	"dc:subject":[
+		{"value":"Breeding System"},
+	{"value":"floral visitors,monoecy,reproductive biology"},
+	{"value":"cocos nucifera",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":117,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000623",
+	"dct:identifier":"IN2015000623",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Regi, J.Thomas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Josephrajkumar, A"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Coconut is a seed propagated crop and knowledge on its flowering and pollination biology will be of significance for optimizing the pollination techniques and also to design efficient conservation strategies in gene banks. Coconut palm is monoecious, with inflorescence bearing both staminate and pistillate flowers. The male flowers are the first to open, beginning at the top of each spikelet and proceeding towards the base. The male phase is followed by female phase and in tall varieties there is a gap between these two phases within the same inflorescence. Although both wind and insects bring about pollination, insect pollination is more predominant. Strategies for employing honey bee colonies in coconut plantations and seed gardens for enhancing pollination and fruit set are discussed. Future lines of work with regard to pollination biology aiming increasing fruit set in coconut seed gardens are also pointed out.",
+	"xml:lang":"eng"
+	}
+	}}

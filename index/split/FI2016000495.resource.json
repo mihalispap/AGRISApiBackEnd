@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutrient loading has a transitory effect on the nitrogen status and growth of outplanted Norway spruce seedlings.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Heiskanen, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lahti, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Luoranen, Jaana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rikala, Risto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plantation performance"},
+	{"value":"kuusi"},
+	{"value":"fertilization"},
+	{"value":"soil fertility"},
+	{"value":"kuormitus"},
+	{"value":"forest nurseries"},
+	{"value":"lannoitus"},
+	{"value":"taimitarhat"},
+	{"value":"typpiyhdisteet"},
+	{"value":"viljavuus"},
+	{"value":"forest plantations"},
+	{"value":"ravinteet"},
+	{"value":"Picea abies"},
+	{"value":"nursery fertilization"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000495",
+	"dct:identifier":"FI2016000495",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

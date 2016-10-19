@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of extracts of mulberry leaves processed differently on the activity of α-glucosidase"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591862",
+	"dct:identifier":"US201301591862",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wang, Lin-Ling (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhou, Ze-Yang (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Mulberry, a deciduous perennial woody plant, belongs to the genus Morus of the family Moraceae. It is planted widely in China for rearing silkworms and its leaf is also used as herbal medicine by Chinese herbalists. Being the only plant leaf discovered so far containing 1-deoxynojirimycin (1-DNJ), a potent inhibitor of α-glucosidase, mulberry leaf is effective in lowering blood glucose, and thus can be used in the prevention and treatment of diabetes. Furthermore, mulberry leaf is also effective in preventing and treating some other diseases, as recorded in some Chinese famous ancient medical books. In this study, extracts of mulberry leaves processed differently including fresh, freeze-dried and natural dried mulberry leaves as well as mulberry tea, were used to study their efficiency in the inhibition of α-glucosidase in vitro. Results showed that (i) both fresh and freeze-dried mulberry leaves inhibited α-glucosidase significantly and were more effective than those natural dried; and (ii) mulberry tea showed the highest inhibition efficiency due to the addition of other medicinal plants during its processing. With mulberry leaf, whose high efficiency in the inhibition of α-glucosidase was shown in this study, there is a good prospect for the development of natural, nontoxic and side- effect free plant foods to be used in lowering blood glucose."}
+	}}

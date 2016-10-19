@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Seed soak-sorting prior to sowing affects the size and quality of 1.5-year-old containerized Picea abies seedlings.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"morphology"},
+	{"value":"radiography"},
+	{"value":"seed radiography"},
+	{"value":"seedling morphology"},
+	{"value":"emergence"},
+	{"value":"Picea abies"},
+	{"value":"seedling emergence"},
+	{"value":"seed treatment"},
+	{"value":"seedlings"}
+	],
+	"bibo:doi":"10.14214/sf.1056",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001993",
+	"dct:identifier":"FI2016001993",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1056",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Himanen, Katri,
+    kirjoittaja
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nygren, Markku,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	]
+	}}

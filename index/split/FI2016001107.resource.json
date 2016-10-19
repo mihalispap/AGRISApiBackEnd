@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Cirsium arvense L. on soil physical properties and crop growth /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Reintam, Endla.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Trückmann, Katrin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuht, Jaan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toomsoo, Avo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Teesalu, Triin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Köster, Tiina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Edesi, Liina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nugis, Edvin.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Estonia"},
+	{"value":"vehnä"},
+	{"value":"tiivistyminen"},
+	{"value":"juuri"},
+	{"value":"Cirsium arvense"},
+	{"value":"roots"},
+	{"value":"maan rakenne"},
+	{"value":"soil density"},
+	{"value":"fysikaaliset ominaisuudet"},
+	{"value":"barley"},
+	{"value":"soil structure"},
+	{"value":"maaperä"},
+	{"value":"ohra"},
+	{"value":"wheats"},
+	{"value":"rikkakasvit"},
+	{"value":"weeds"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001107",
+	"dct:identifier":"FI2016001107",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

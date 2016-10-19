@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic parameters for wool traits in Finnsheep lambs /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Puntila, Marja-Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäki, Katariina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nylander, Anne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rintala, Onerva.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"villa"},
+	{"value":"genetic parameters"},
+	{"value":"finnish landrace"},
+	{"value":"animal fibres"},
+	{"value":"quality"},
+	{"value":"periytyvyys"},
+	{"value":"ominaisuudet"},
+	{"value":"sheep"},
+	{"value":"muuntelu"},
+	{"value":"laatu"},
+	{"value":"suomenlammas"},
+	{"value":"wool"},
+	{"value":"lammas"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000198",
+	"dct:identifier":"FI2016000198",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

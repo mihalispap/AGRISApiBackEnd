@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal incidence, biology and behaviour of green semilooper, Chrysodeixis acuta (Walker) on Soybean.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":306,
+	"dc:subject":[
+		{"value":"biology",
+	"xml:lang":"eng"
+	},
+	{"value":"biologie",
+	"xml:lang":"fre"
+	},
+	{"value":"chrysodeixis",
+	"xml:lang":"esp"
+	},
+	{"value":"glycine max",
+	"xml:lang":"esp"
+	},
+	{"value":"biologia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":309,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000511",
+	"dct:identifier":"IN2015000511",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Raju, G. Shali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khandwe, Nanda"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nema, K.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The appearance of the green semilooper was first observed during last week of July, 2012 recording 1 to 2 larvae/mrl with an average of 0.9 larva/mrl. The population of the pest finally disappeared from the field during first week of October; 2012. A female laid 65 to 100 eggs singly (Av. 84.6 Â± 11.86) on the dorsal surface of leaves mostly near midrib. Freshly laid eggs were round, whitish in colour and measured 0.5 to 0.6 mm in diameter. Six larval instars were observed. Newly hatched larvae were pale white in colour which turned to green in later instars. The larvae moulted five times and passed through six larval instars. Larval and pupal periods lasted for 15-21 and 7-10 days, respectively. The total life cycle period varied from 24-34 days.",
+	"xml:lang":"eng"
+	}
+	}}

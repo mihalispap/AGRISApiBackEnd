@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Litter Size on Growth, Carcass and Meat Quality Characteristics of Barbari Kids",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":68,
+	"dc:subject":[
+		{"value":"litter size",
+	"xml:lang":"eng"
+	},
+	{"value":"taille de la portee",
+	"xml:lang":"fre"
+	},
+	{"value":"tamano de la camada",
+	"xml:lang":"esp"
+	},
+	{"value":"composicion de la canal",
+	"xml:lang":"esp"
+	},
+	{"value":"composition de la carcasse",
+	"xml:lang":"fre"
+	},
+	{"value":"chevreau",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"carcass composition",
+	"xml:lang":"eng"
+	},
+	{"value":"kids",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"cabrito",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":73,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000188",
+	"dct:identifier":"IN2015000188",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Das, Arun K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajkumar, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The influence of litter size on growth, carcass and meat quality characteristics of Barbari kids was investigated. Fourteen Barbari kids were divided equally into two groups and were slaughtered at 14 months of age. Body and carcass measurements, weight at birth and slaughter were evaluated. There was a significant (p0.05) difference between single and twin born kids, while the effects on slaughter weight, empty body weight and carcass weight were not significant. The total separated fat content was significantly (p0.05) higher in the carcass of kids born as twins. The meat bone ratio was lower in the kids born as single. Saleable meat yield was not affected by litter size (9.48 vs. 9.81 kg) and it was in the range of 91%. Both single and twin born kids were similar in depot fat distribution in carcasses and chemical composition of longissimus dorsi muscle. Single born kids showed non significantly higher myofibrillar and total protein solubility, lower water holding capacity (27.13 vs. 29.90%) and higher cooking loss (37.30 vs. 36.94%) and lower pH than twin born kids (5.66 vs. 5.72). Meat from twin born kids showed significantly (p0.05) lower shear force value indicating higher tenderness than single born kids (9.38 vs. 8.41 kg/cm2). The results indicated that Barbari kids born as single or twin had desirable carcass and meat qualitative characteristics.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Phenolic compounds, ascorbic acid, carotenoids and antioxidant properties of green, red and yellow bell peppers"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Zhang, Donglin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hamauzu, Yasunori (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100161",
+	"dct:identifier":"FI2016100161",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Different colored bell peppers (Capsicum annuum L.), green, red, and yellow were examined for their content of phenolic compounds, ascorbic acid and carotenoids as well as free radical scavenging activity using DPPH assay and antioxidant activity using β-carotene/linoleic acid assay. Phenolic, ascorbic acid and carotenoid contents varied in different colored bell peppers. Green pepper had higher level of phenolics than red and yellow peppers. Red pepper had higher content of ascorbic acid than green and yellow peppers. Red and yellow peppers showed higher in carotenoid content than green peppers. In the methanol extracts red pepper showed a higher level of DPPH radical scavenging activity compared to green and yellow peppers, while green pepper showed the highest in the phenolic extracts. DPPH radical scavenging activity in the phenolic extracts accounted for 4.6-11.7% of that in the methanol extracts. The radical scavenging activity in the methanol extracts was mainly from ascorbic acid and phenolic compounds. In the antioxidant activity assay, green pepper showed the highest activity in the phenolic extracts among three coloured peppers. However, a pro-oxidant effect was observed with the methanol extracts."}
+	}}

@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Fatores que afetam as características produtivas e reprodutivas de fêmeas suínas ",
+	"xml:lang":"por"
+	},
+	{"value":"Factors that affect productive and reproductive characteristics of sows",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic improvement",
+	"xml:lang":"eng"
+	},
+	{"value":"crossbreeding",
+	"xml:lang":"eng"
+	},
+	{"value":"pork",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F05076",
+	"dct:identifier":"BR2015F05076",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1420654769.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"ROSA, L.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA FILHO, L.C.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SOUZA, M.I.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CORREA FILHO, R.A.C."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"This review collect information related to various factors that affect the productive and reproductive characteristics of sows, with the purpose of get information to assist and promote the maximization of reproductive performance of sows. The swine production is one of the most advanced areas of the livestock sector, especially by their high increase, efficiency and competitiveness and, in the last decades, the sows passed by an enormous increment in their capacity to produce piglets, accompanied by profound physiological changes, behavioral and consequently management production. Currently, the genetic selection of sows and the crossing prioritizes characteristics related to increase productivity, aiming use the best available races, in conjunction with genetic improvement by selection and crossbreeding systems, are the principal means to improve reproductive and productive efficiency of sows. With the advent of new technologies developed in modern swine production, the genetic improvement programs have advanced substantially in order to contribute to greater productive and reproductive efficiency of pigs, but also for industry profitability. However, continuous research in the area should be carried out in order to maximize the productivity of female and reduce the economic losses.",
+	"xml:lang":"eng"
+	},
+	{"value":"Esta revisão de literatura reúne informações referentes aos diversos fatores que afetam as características produtivas e reprodutivas de fêmeas suínas, com o propósito de obter informações que auxiliem e promovam a maximização do desempenho das matrizes. A suinocultura é uma das áreas mais avançadas do setor pecuário, destacando-se pelo elevado crescimento, resultante da eficácia e competitividade do setor. Nas últimas décadas, as matrizes passaram por um enorme incremento na sua capacidade de produzir leitões, acompanhado de profundas alterações fisiológicas, comportamentais e, consequentemente, de manejo de produção. Atualmente, a seleção genética de porcas e o cruzamento priorizam características ligadas ao aumento da produtividade, de forma que a utilização de raças adequadas aos sistemas, em conjunto com o melhoramento genético por meio de seleção e de sistemas de cruzamentos, são os principais meios para melhorar a eficiência produtiva e reprodutiva dos suínos. Com o advento de novas tecnologias desenvolvidas na suinocultura moderna, os programas de melhoramento genético avançaram substancialmente, de forma a contribuir para uma maior eficiência produtiva e reprodutiva dos suínos, como também para a lucratividade do setor. Porém, continuas pesquisas na área devem ser realizadas com o intuito de maximizar a produtividade da fêmea e diminuir as perdas econômicas.",
+	"xml:lang":"por"
+	}
+	]
+	}}

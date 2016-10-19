@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Indian carp polyculture integrated with ducks and poultry: Ecological and economic benefits",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":773,
+	"dc:subject":[
+		{"value":"pato",
+	"xml:lang":"esp"
+	},
+	{"value":"ecology",
+	"xml:lang":"eng"
+	},
+	{"value":"ecologie",
+	"xml:lang":"fre"
+	},
+	{"value":"piscicultura",
+	"xml:lang":"esp"
+	},
+	{"value":"environmental factors",
+	"xml:lang":"eng"
+	},
+	{"value":"ecologia",
+	"xml:lang":"esp"
+	},
+	{"value":"ducks",
+	"xml:lang":"eng"
+	},
+	{"value":"pisciculture",
+	"xml:lang":"fre"
+	},
+	{"value":"facteur du milieu",
+	"xml:lang":"fre"
+	},
+	{"value":"poultry",
+	"xml:lang":"eng"
+	},
+	{"value":"aves de corral",
+	"xml:lang":"esp"
+	},
+	{"value":"factores ambientales",
+	"xml:lang":"esp"
+	},
+	{"value":"fish culture",
+	"xml:lang":"eng"
+	},
+	{"value":"volaille",
+	"xml:lang":"fre"
+	},
+	{"value":"canard",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":780,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000149",
+	"dct:identifier":"IN2015000149",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sarkar, Paria D"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bag, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pradhan, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ganguly, S. Lahiri"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jana. S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jana B B"
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"The production and economic efficiencies of Indian carp polyculture (catla, rohu, mrigal and bata) integrated with duck farming was compared with the integration of poultry following the recommended method of stocking and management over a period of one year. About 13% enhanced fish production in the duck ponds (DP) than in poultry ponds (PP) was attributed to improved ecological conditions such as adequate dissolved oxygen (5.23 - 9.3 mg l ), relatively less amount of ammonia and total inorganic nitrogen, increased level of phosphate, higher values of primary productivity of phytoplankton (47.63â169.81 mg c m -3  h -1 ) coupled with greater abundance of zooplankton (837â5322 no./50l). In general, the fish yield was inversely related with the N/P input in these ponds suggesting that increased level of nitrogen relative to phosphate was responsible for reduced fish growth in the PP, which, on the other side, was considered as P- limited. Cost benefit analysis of the data revealed that the net profit was about 60% higher in case of DP than in PP. It may be concluded that fish farming integrated with ducks or poultry would be highly effective for achieving cost effective fish production as well as for maintaining the ecosystem health.",
+	"xml:lang":"eng"
+	}
+	}}

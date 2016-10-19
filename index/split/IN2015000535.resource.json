@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Narendra Turmeric-3: A new multiple disease resistant and high yield variety of Curcuma longa L.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":403,
+	"dc:subject":[
+		{"value":"terre a usage multiple",
+	"xml:lang":"fre"
+	},
+	{"value":"multiple land use",
+	"xml:lang":"eng"
+	},
+	{"value":"uso multiple de la tierra",
+	"xml:lang":"esp"
+	},
+	{"value":"curcuma longa",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":405,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000535",
+	"dct:identifier":"IN2015000535",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chand, Ramesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandey, V.P."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"On the basis of its growth performance under field conditions. Narendra Turmeric-3 (NDH-9) as a superior variety over national checks Rajendra Sonia and Prabha with 4.0-6.0% curcumin, 10-12% oleoresin, 2.9-3.5% essential oil, 2.0-2.5% leaf oil, 23-26% dry matter, 325-350 q/ha. fresh rhizome yield, 9.11-19.57% yield increase over national check, 15-20 q/ha. seed rate, 215-225 days crop maturity (medium maturity), good size and colour of fingers, 8.0-8.5 pH adaptability, good powder making property, orange deep yellow colour, higher aroma, moderately resistant to leaf blotch, leaf spot and Meloidogyne incognita race-1.",
+	"xml:lang":"eng"
+	}
+	}}

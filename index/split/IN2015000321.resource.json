@@ -1,0 +1,101 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of different serological tests for diagnosis of contagious agalactia in goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1201,
+	"dc:subject":[
+		{"value":"diagnostico",
+	"xml:lang":"esp"
+	},
+	{"value":"agalaxie",
+	"xml:lang":"fre"
+	},
+	{"value":"haemagglutination tests",
+	"xml:lang":"eng"
+	},
+	{"value":"reacciones de aglutinacion",
+	"xml:lang":"esp"
+	},
+	{"value":"pruebas de hemaglutinacion",
+	"xml:lang":"esp"
+	},
+	{"value":"agalaxia",
+	"xml:lang":"esp"
+	},
+	{"value":"test elisa",
+	"xml:lang":"fre"
+	},
+	{"value":"agglutination tests",
+	"xml:lang":"eng"
+	},
+	{"value":"epreuve d'hemagglutination",
+	"xml:lang":"fre"
+	},
+	{"value":"agalactia",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"elisa",
+	"xml:lang":"esp"
+	},
+	{"value":"diagnosis",
+	"xml:lang":"eng"
+	},
+	{"value":"reaction d'agglutination",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"diagnostic",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1203,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000321",
+	"dct:identifier":"IN2015000321",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kashoo, Zahid Amin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Vijendar Pal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rana, Rajneesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sankar, Muthu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gazalli, Humaira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cheema, Pawanjit Singh"
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"Contagious agalactia (CA) is an economically important disease of small ruminants caused by Mycoplasma agalactiae and the disease is characterized by mastitis, arthritis, keratoconjunctivitis and sometimes abortion. The diagnosis of CA in field is mainly based on serological tests with varying levels of specificity and sensitivity. It is important to compare the simple and available tests for routine diagnosis of the disease under field conditions. Therefore, the present study was designed to find out the field applicability of 3 serological test, viz. slide agglutination test (SAT) with coloured antigen, indirect haemagglutination test (IHA) and enzyme-linked immunosorbent assay (ELISA). Serum samples (493) from goats of various parts of Uttar Pradesh and Uttrakhand were collected and screened for CA by SAT, IHA and ELISA. Based on this study, ELISA is found a good serological test for diagnosis of CA. However, SAT can also be used in field because of its simplicity, less time consuming and easy to perform under field conditions. Further, 74% sensitivity and 96% specificity was observed in SAT and 56% &92% of sensitivity and specificity in IHA compared with ELISA.",
+	"xml:lang":"eng"
+	}
+	}}

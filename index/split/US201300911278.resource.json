@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysis of multi-environment yield trials in durum wheat based on GGE-biplot"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911278",
+	"dct:identifier":"US201300911278",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a16.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Letta, Tesfaye (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"D’Egidio, M. G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abinasa, Mohammed (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Yield data of 16 durum wheat cultivars tested across 7 rain-fed environments during the 2006-2007 growing season using RCBD in 3 replications were analyzed using the GGE (i.e., G, genotype + GEI, genotype-by-environment interaction) biplot method. E explained more variation than both G and GEI. The first 2 principal components (PC1 and PC2) were used to create a 2-dimensional GGE-biplot and explained 66.92% and 14.3% of GGE sum of squares (SS), respectively. Genotypic PC1 scores >0 detected the adaptable and/or higher-yielding genotypes, while PC1 scores <0 discriminated the non-adaptable and/or lower-yielding ones. Unlike genotypic PC1 scores, near-zero PC2 scores identified stable genotypes, whereas absolute larger PC2 scores detected the unstable ones. On the other hand, environmental PC1 scores were related to non- crossover type GEIs and the PC2 scores to the crossover type. Of the tested genotypes, G16, G15 and G9 were desirable in terms of higher yielding ability and stability. Seven test environments were sampled from the highlands of Bale and constituted 2 mega-environments (ME1 and ME2). The former included environments E6 (Selka), E3 (Gassera), E5 (Sinana) and E4 (Sinja) and the latter included E1 (Adaba), E7 (Robe) and E2 (Agarfa). On the other hand, E2 (Agarfa) was the best representative of the overall environments and the most powerful to discriminate genotypes."}
+	}}

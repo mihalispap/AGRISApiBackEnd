@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biocontrol of postharvest decay using a new strain of Pseudomonas syringae CPA-5 in different cultivars of pome fruits.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Nunes, Carla.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"biological control"},
+	{"value":"cold storage"},
+	{"value":"omena"},
+	{"value":"postharvest decay"},
+	{"value":"päärynä"},
+	{"value":"hedelmät"},
+	{"value":"varastointi"},
+	{"value":"Penicillium expansum"},
+	{"value":"varastotaudit"},
+	{"value":"pome fruits"},
+	{"value":"Botrytis cinerea"},
+	{"value":"pears"},
+	{"value":"apples"},
+	{"value":"Rhizopus stolonifer"},
+	{"value":"biologinen torjunta"},
+	{"value":"Pseudomonas syringae"},
+	{"value":"kylmävarastointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001941",
+	"dct:identifier":"FI2016001941",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

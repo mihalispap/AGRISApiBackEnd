@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on morphometric traits and body weight of sonadi sheep at lambing in their native tract",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":41,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"peso corporal",
+	"xml:lang":"esp"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"parto",
+	"xml:lang":"esp"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"parturition",
+	"xml:lang":"fre"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"rajasthan",
+	"xml:lang":"esp"
+	},
+	{"value":"poids corporel",
+	"xml:lang":"fre"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"body weight",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":43,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000363",
+	"dct:identifier":"IN2015000363",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tailor, S.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yadav, C.M."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Sonadi sheep is popular for triple purpose i.e. milk, meat and wool. Data with respect to measurements i.e. body length, height at withers and heart girth and body weights of 6979 Sonadi sheep maintained by 147 registered shepherds of eight tehsils of four districts of Sonadi breeding tract were recorded. Least-squares analysis of variance was employed to study the effect of districts and parity on the body weights and measurements. The variations due to district and parity were found to be significant for all the body measurements (P0.01) and dam's weight at lambing (P0.05/0.01). The overall least-squares means for dam's weight at lambing was 27.87Â±0.62 kg. Ewes weight at lambing and body measurements were significantly (P0.01) heavier in Chittorgarh district (31.18 kg) compared to other districts. The effect of parity on all the body measurements and weight was significant. The weight of ewes at lambing was significantly lower during I (26.54Â±0.66 kg) and II (27.64Â±0.66 kg) lactation compared to ewes in III (28.38Â±0.64) and IV (28.71Â±0.67) lactations. It may be concluded that the district-wise variation in all the body measurements and weight of adult may be due to differences in feed resources and management practices.",
+	"xml:lang":"eng"
+	}
+	}}

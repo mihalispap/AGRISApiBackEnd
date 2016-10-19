@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Kvalitetsfeil hjå søtkirsebær : sprekkedanning i fruktoverflata.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Sekse, Lars.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"plant cuticle"},
+	{"value":"fruit cracking"},
+	{"value":"imeläkirsikka"},
+	{"value":"kirsikat"},
+	{"value":"quality"},
+	{"value":"Prunus avium"},
+	{"value":"hedelmät"},
+	{"value":"Norway"},
+	{"value":"cherries"},
+	{"value":"sadon laatu"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (260 :
+    1996 :
+    Ås)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001103",
+	"dct:identifier":"FI2016001103",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

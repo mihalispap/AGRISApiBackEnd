@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Therapeutic and immunomodulatory effects of two natural products on the puerperal endometritis of dairy cows.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bogdan, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Groza, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Morar, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ciupe, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cenariu, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bogdan, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bogdan, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Petrean, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    David, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cattle"},
+	{"value":"dairy cows"},
+	{"value":"Romania"},
+	{"value":"cows"},
+	{"value":"endometritis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000933",
+	"dct:identifier":"FI2016000933",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

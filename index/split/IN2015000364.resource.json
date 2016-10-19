@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro fertilization of sheep oocytes matured in two different media",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":44,
+	"dc:subject":[
+		{"value":"ovulo",
+	"xml:lang":"esp"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"fecondation in vitro",
+	"xml:lang":"fre"
+	},
+	{"value":"ovule",
+	"xml:lang":"fre"
+	},
+	{"value":"fecundacion in vitro",
+	"xml:lang":"esp"
+	},
+	{"value":"in vitro fertilization",
+	"xml:lang":"eng"
+	},
+	{"value":"ova",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":46,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000364",
+	"dct:identifier":"IN2015000364",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Manokaran, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Veerapandian, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balasubramanian, S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The objective of the study was to assess the in vitro fertilization rate of sheep oocytes collected from ovaries at slaughterhouse using two media. Sheep oocytes were collected by slicing technique from ovaries and in vitro maturation (IVM) was carried out in tissue culture medium 199 (TCM 199) and Ham's F-10 medium supplemented with follicle stimulating hormone (FSH), luteinizing hormone (LH), 17-Ã oestradiol and fetal calf serum (FCS). IVM was assessed based on cumulus cell expansion and first polar body extrusion. There was no significant difference between the two media for the maturation of sheep oocytes and overall maturation rate ranged from 89.18 (Ham's F-10) to 92.23% (TCM 199). The matured oocytes were fertilized in vitro in modified Tyrode's medium by co-incubating with sperms capacitated with 200 Âµg/ml of heparin. The fertilization rate was assessed by cleavage rate of oocytes in TCM 199 and Ham's F-10 which was 27.94 and 16.18%, respectively. The cleavage rate was significantly (P0.01) higher in TCM 199 than in Ham's F-10 medium.",
+	"xml:lang":"eng"
+	}
+	}}

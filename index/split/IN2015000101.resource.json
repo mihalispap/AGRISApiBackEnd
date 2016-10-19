@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathology of parvovims infection in dogs.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":148,
+	"dc:subject":[
+		{"value":"canine adenovirus",
+	"xml:lang":"eng"
+	},
+	{"value":"test elisa",
+	"xml:lang":"fre"
+	},
+	{"value":"mastadenovirus canin",
+	"xml:lang":"fre"
+	},
+	{"value":"infeccion",
+	"xml:lang":"esp"
+	},
+	{"value":"pathology",
+	"xml:lang":"eng"
+	},
+	{"value":"haden virus canino",
+	"xml:lang":"esp"
+	},
+	{"value":"pathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"patologia",
+	"xml:lang":"esp"
+	},
+	{"value":"elisa",
+	"xml:lang":"esp"
+	},
+	{"value":"infection",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":151,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000101",
+	"dct:identifier":"IN2015000101",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Phukan, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakraborty, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Boro, P.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Gross and histopathological changes in intestines, liver, lungs, kidneys, heart and spleen and scanning electron microscopic changes in small intestine of eight crv infected dogs were studied. Dehydration was a significant prominent finding in all the naturally affected dogs with pale mucous membrane and soiled anus. At post-mortem in all the cases, the small intestine particularly the duodenum and jejunum showed moderate to severe congestion and haemorrhages. The most characteristic microscopic lesions were tnild to intense congestion of blood vessels in the mucosa and sub mucosa, degeneration and necrosis of the epithelium at the tip of the villi and clumping and atrophy of the villi.The SEM study in duodenum and illium revealed thickening and roughening with disruption and distortion of the villi.",
+	"xml:lang":"eng"
+	}
+	}}

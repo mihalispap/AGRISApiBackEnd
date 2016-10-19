@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/e16.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"An assessment of soil quality in Pokhare Khola watershed of the Middle Mountains in Nepal"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tiwari, Krishna R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sitaula, Bishal K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Børresen, Trond (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bajracharya, Roshan M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100047",
+	"dct:identifier":"FI2016100047",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A study was conducted in the Pokhare Khola watershed of Middle Mountain Nepal to evaluate the effects of land use and cropping patterns (CPs) on soil properties, soil nutrient reserves and soil quality. In addition, semi-structured (178 households) interviews were conducted to understand farmers’ perceptions of soil quality and fertility management. Rainfed terraces (Bari) were found to have the highest nutrient reserves among the land uses. They also had the highest soil quality index (SQI=0.59) followed by forestlands (SQI= 0.45) and irrigated paddy lands (Khet) (SQI=0.23)(out of 1). The SQI showed Khet lands to be in a ‘degraded’ condition and forest and Bari lands ‘at risk’. Among the CPs, maize-millet had a higher SQI (SQI=0.62) than intensive vegetable-vegetable CP (SQI=0.54). Of the soil properties studied, soil organic carbon (SOC) had the highest weight in determining soil quality. The change in CP from maize-millet to vegetable-vegetable decreased SOC content from 16 to 14.5g kg-1 within seven years. Farmyard manure is the main source of crop nutrients but it supplied only about 20 percent of the total requirement.Farmers’ assessment of soil quality was influenced by crop yield and economic profitability, whereas the use of soil properties as indicators of soil quality focused on soil nutrient availability for plant growth."}
+	}}

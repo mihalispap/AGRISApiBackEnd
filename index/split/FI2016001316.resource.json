@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"The contribution of abscisic acid to sorbitol accumulation in drought-stressed Malus hupehensis.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Meng, Yanling.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Xu, Xuefeng.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khanizadeh, Shahrokh.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, Maojun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wang, Qiang.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Han, Zhenhai.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"drought stress"},
+	{"value":"ABA"},
+	{"value":"sorbitol"},
+	{"value":"Malus"},
+	{"value":"Malus hupehensis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001316",
+	"dct:identifier":"FI2016001316",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

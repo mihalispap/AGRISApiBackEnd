@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-113.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Content of β-carotene in organic milk"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Toledo, Patricia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Andrén, Anders (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100039",
+	"dct:identifier":"FI2016100039",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Milk produced at organic farms was studied to determine the β-carotene content and if an extended grazing period and organic fodder had any influence on the concentration of this antioxidant. Milk samples from 31 organic farms collected during April, June, August, November (1999) and February (2000) were analysed for the content of β-carotene by HPLC after lipid extraction and fat saponification. The β-carotene content had the lowest values in April, which is the last month of the indoor period. Higher amounts were found in June, November and February, but not as expected in August. The reduced content of β-carotene in milk from August may be explained by the high temperatures and low rainfalls registered during the summer 1999 resulting in impaired pastures. The mean concentration of β-carotene was 7.6 µg g-1 fat in June and 3.8 µg g-1 fat in April. These are similar to values reported by others and any significant difference to conventional produced milk could not be found. Since off-flavour remarks is an increasing problem with organic milk, the correlation between β-carotene content and the incidences of oxidative off-flavour reported was also studied. Despite the highest values of β-carotene in the summer, most incidences of oxidative off-flavour were reported in this period. However, all those cases were of the mild type. On the other hand, the oxidative off-flavour found in the milk during March and April, coincided with low β-carotene content and was all of the severe type."}
+	}}

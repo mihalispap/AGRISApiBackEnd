@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro competitive interactions of Fusarium graminearum with Aspergillus ochraceus and Penicillium verrucosum with regard to mycotoxin production"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876499",
+	"dct:identifier":"US201300876499",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Milles, Judith (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Krämer, Johannes (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prange, Alexander (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Competitive interactions of crop contaminating fungi are discussed as one possible trigger for mycotoxin production. In vitro models of Fusarium graminearum in coculture with Penicillium verrucosum and Aspergillus ochraceus were investigated with quantitative demand concerning growth and production of the mycotoxins deoxynivalenol (DON), zearalenone (ZEA) and ochratoxin A (OTA). A strain of F. graminearum which is not able to produce DON was included in the study. All tested fungi showed a reduced growth when growing in coculture. The results reveal an unimportant role of DON in fungal interactions. Concerning ZEA the results do not allow definite conclusions."}
+	}}

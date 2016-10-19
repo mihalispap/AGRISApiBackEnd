@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Produção de biomassa e nível crítico tóxico do capim-Xaraés em função da aplicação de zinco ",
+	"xml:lang":"por"
+	},
+	{"value":"Zinc fertilization on Xaraés-grass nutrition and yield",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrition",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"mineral",
+	"xml:lang":"eng"
+	},
+	{"value":"trace elements",
+	"xml:lang":"eng"
+	},
+	{"value":"brachiaria brizantha",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"66/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01684",
+	"dct:identifier":"BR2015F01684",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2009-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1276704108.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SANTOS, Thiago M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FARIA, Ana Flávia G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"AVALHÃES, Cíntia C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PRADO,  Renato M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"A deficiência de zinco é reconhecida como problema nutricional mundial para a produção das culturas, entretanto, a aplicação de altas doses pode promover a toxicidade. Objetivou-se avaliar a nutrição, o crescimento, a produção e o nível crítico tóxico de zinco da Brachiaria brizantha cv. Xaraés em função da aplicação deste micronutriente. O experimento foi desenvolvido em casa de vegetação da FCAV/UNESP - Câmpus de Jaboticabal. Para isto, utilizaram-se seis doses de zinco (0, 15, 30, 60, 120, 360 mg dm-3), dispostas em delineamento inteiramente casualizado e quatro repetições. Cada unidade experimental foi constituída por um vaso com cinco plantas e preenchido com 3 dm3 de amostras de um Latossolo Vermelho distrófico (Zn = 0,1 mg dm-3). Foram realizados dois cortes no capim, o primeiro 40 dias após a emergência, e o segundo 35 dias após o primeiro e foi avaliado o crescimento, a produção de matéria seca e o estado nutricional. A aplicação de zinco promoveu redução nas características produtivas. O teor, o acúmulo e o nível crítico de zinco variaram de forma quadrática sendo que para o primeiro e segundo crescimentos o nível crítico tóxico foi de 161,6 e 177,0 mg kg-1 respectivamente.",
+	"xml:lang":"por"
+	},
+	{"value":"The zinc deficiency is a world nutritional problem, however, the application of high doses can promote the toxicity. The aim of this work was to evaluate yield and toxic critical level of Brachiaria brizantha cv. xaraés as a function of zinc fertilization. The experiment was carried out under greenhouse conditions at FCAV/UNESP - Câmpus of Jaboticabal. Were used six zinc rates (0, 15, 30, 60, 120, 360 mg dm-3) and four replications. The experimental design was completely randonmized. Each experimental unit consisted of a pot filled out with five plants and three dm-3 of Red latosol (Zn = 0.1 mg dm-3). Two cuts were done. The second, 35 days after the first cut. Zinc fertilization reduced yield. Toxic critical level on first and second cut was 161.55 and 176.97 mg kg-1 respectively.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/rn4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Stevioside metabolism and transport in rats and humans"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Koyama, Eriko (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100321",
+	"dct:identifier":"FI2016100321",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Stevioside, a sweetener extracted from the leaves of Stevia rebaudiana Bertoni, is the glycoside of the diterpene derivative including the aglycone steviol. The purpose of this study was to investigate intestinal degradation, absorption, and hepatic metabolism of stevioside using LC/MS/ESI or HPLC-UV analysis."}
+	}}

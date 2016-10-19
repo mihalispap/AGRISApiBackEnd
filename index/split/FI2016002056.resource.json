@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Improving the accuracy of predicted basal-area diameter distribution in advanced stands by determinig stem number.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Siipilehto, Jouni.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Weibull jakauma"},
+	{"value":"rinnankorkeusläpimitta"},
+	{"value":"forecasting"},
+	{"value":"distribution"},
+	{"value":"runkoluku"},
+	{"value":"Johnsonin SB jakauma"},
+	{"value":"tunnusluvut"},
+	{"value":"Betula pendula"},
+	{"value":"Pinus sylvestris"},
+	{"value":"jakaumat"},
+	{"value":"Betula pubescens"},
+	{"value":"ennustaminen"},
+	{"value":"Picea abies"},
+	{"value":"breast height diameter"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002056",
+	"dct:identifier":"FI2016002056",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

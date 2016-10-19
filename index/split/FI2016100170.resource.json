@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f8.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Molecular investigation of the influence of oral fed Lactobacillus reuteri on the gut microbiota of HIV-infected infants – A pilot study"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Handschur, Michael (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reid, Sharon J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abratt, Valerie (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Haslberger, Alexander G. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100170",
+	"dct:identifier":"FI2016100170",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The composition of the gut microbiota has been shown to be important to the immune system. In immune compromised patients (e.g., AIDS), the balance of health promoting bacteria might be disturbed by antibiotic treatment or the disease itself. HIV-induced diarrhea and secondary infections are a hazard especially for babies and infants, and oral treatment with probiotics has been shown to improve diarrhea and gastrointestinal problems. In this placebo-controlled preliminary study with seven patients suffering from diarrhea, the Lactobacillus gut flora was investigated before and after oral administration of a probiotic Lactobacillus reuteri strain or a placebo product. In the study, three infants were HIV-positive and four were HIV-negative; while four infants were treated in the probiotic group and three the placebo group. Lactic acid bacteria cultured from faecal samples were enumerated and molecular PCR-DGGE analysis was performed to determine the diversity and the persistence of the probiotic in vivo. After oral administration of L. reuteri, the probiotic was found in all stool samples of the treatment group but not in the placebo group. The Lactobacillus diversity was significantly different after administration of the probiotic. Molecular PCR-DGGE seems to be a promising tool for the investigation of the influence of probiotic treatment and differences in the Lactobacillus gut communities between patients and healthy persons."}
+	}}

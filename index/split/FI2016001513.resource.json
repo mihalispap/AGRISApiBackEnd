@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1125",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Krooks, Anssi,
+    kirjoittaja
+    Geodeettinen laitos
+    X0029
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaasalainen, Sanna,
+    kirjoittaja.
+    Geodeettinen laitos
+    X0029
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kankare, Ville,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Joensuu, Marianna,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Raumonen, Pasi,
+    kirjoittaja.
+    Tampereen tekn. yliopisto
+    1915
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaasalainen, Mikko,
+    kirjoittaja.
+    Tampereen tekn. yliopisto
+    1915
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Predicting tree structure from tree height using terrestrial laser scanning and quantitative structure models.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"laserkeilaus"},
+	{"value":"jakautuminen"},
+	{"value":"mallintaminen"},
+	{"value":"terrestrial lidar"},
+	{"value":"branch size distribution"},
+	{"value":"puut"},
+	{"value":"kaukokartoitus"},
+	{"value":"tree modelling"},
+	{"value":"remote sensing"},
+	{"value":"oksat"}
+	],
+	"bibo:doi":"10.14214/sf.1125",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001513",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001513",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

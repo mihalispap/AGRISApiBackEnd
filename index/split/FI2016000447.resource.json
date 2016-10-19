@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Some aspects of the sampling distribution of the apportionment index and related inference.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Koskela, Laura.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sinha, Bikas K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nummi, Tapio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"production controls"},
+	{"value":"markets"},
+	{"value":"kysyntä"},
+	{"value":"overlapping coefficient"},
+	{"value":"multinomial distribution"},
+	{"value":"tilastomenetelmät"},
+	{"value":"suunnittelu"},
+	{"value":"sahateollisuus"},
+	{"value":"harvesting"},
+	{"value":"statistical methods"},
+	{"value":"cross cutting"},
+	{"value":"sawmills"},
+	{"value":"dissimilarity index"},
+	{"value":"katkonta"},
+	{"value":"puunkorjuu"},
+	{"value":"forest products industry"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000447",
+	"dct:identifier":"FI2016000447",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

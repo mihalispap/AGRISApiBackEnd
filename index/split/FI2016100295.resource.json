@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/e11.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of some herb decoctions on in vitro mineral availability from two cultivars of cowpea (Vigna unguiculata L. Walp)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Otemuyiwa, I. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Falade, O. S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oladipo, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adewusi, S. R. A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100295",
+	"dct:identifier":"FI2016100295",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The calyx of Hibiscus sabdariffa Linn. (Malvaceae), the stalk of both red and white cultivars of Sorghum bicolor (L.) Moench (Poaceae) and the root of Theobroma cacao Linn. (Sterculiaceae) are used locally for the management of anemia. Decoctions from these herbs were investigated for their effect on mineral availability from herb decoction-cowpea composite diets and the values compared with the effect of ascorbic acid on mineral availability from the same cowpea diets. Mineral availability from the cowpea (Vigna unguiculata L. Walp) samples is low for iron (7%), zinc (1.5%), calcium (9–13%) and high for magnesium (43–48%). The soluble mineral contents of the herbal decoctions are (0.4–39 mg/dm3), (0.5–2.0 mg/dm3), (109–3527 mg/dm3) and (515–1341 mg/dm3) while the mineral availability from the herbal decoctions are (12–35%), (13–92%), (1.5–13%) and (1.2–23%) for iron, zinc, calcium and magnesium respectively. Ascorbic acid enhanced the availability of iron and zinc (108-200% and 40-43%) respectively, but inhibited calcium and magnesium from the meals (-80 and -30%) respectively. All herbal decoctions enhanced the availability of most minerals investigated but the mechanism of action seems to differ from each other. Theobroma cacao decoction had the highest enhancing effect on iron availability from the composite diets (746-823%) while Hibiscus sabdariffa had the least effect (38-40%). Decoction of Sorghum bicolor red enhanced zinc availability more than the others (475-821%) while Sorghum bicolor white gave the least values (3-5%) indicating a possible difference in their chemical composition. Hibiscus sabdariffa decoction inhibited calcium availability (-56%) while Sorghum bicolor red and white enhanced it (1020 and 505%). All the herb decoctions enhanced magnesium availability (58-860%). The study seemed to show that these herb decoctions are indeed relevant to the management of anemia."}
+	}}

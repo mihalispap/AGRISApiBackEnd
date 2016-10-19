@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"MORFOLOGIA POLÍNICA DE DUAS ESPÉCIES DE Urospatha SCHOTT (ARACEAE), OCORRENTE NO ESTADO DO AMAPÁ, BRASIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":68,
+	"bibo:volume":3,
+	"bibo:pageEnd":73,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00091",
+	"dct:identifier":"BR2015N00091",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/660",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Luciedi Cássia Leoncio Tostes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zenaide Palheta Miranda"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Léa Maria Medeiros Carreira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"IEPA"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIFAP"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"MPEG"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<span style=\"font-size: 11.0pt; font-family: \";Aldine401 BT\";,\";serif\";; mso-fareast-font-family: \";Times New Roman\";; mso-bidi-font-family: \";Times New Roman\";; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA;\">As espécies de Urospatha são ervas aquática, perenes que ocorrem em áreas de várzea e igapó. Apresentam grande diversidade de sinônimos, devido ao alto grau de variabilidade morfológica, o que torna complicado sua identificação, sendo assim este trabalho descreveu a morfologia polínica das espécies U. caudata </em>(Poepp) Schott e U.< sagittifolia </em>(Rudge) Schott. Botões florais adultos foram coletados no Estado do Amapá e de amostras depositadas no Herbário Amapaense- HAMAB, e foram submetidos à acetólise para preparo de lâminas<span style=\"color: #ff6600;\">. Os grãos de pólen foram medidos, descritos e fotomicrografados. O tamanho dos grãos das espécies varia de pequeno a médio, são heteropolares, de simetria bilateral, elíptico, e em vista frontal, esferoidal. Em vista polar são monosulcados quanto ao número de aberturas; a ornamentação da exina é reticulada, variando apenas no tamanho das perfurações. O sulco é longo e acompanha o comprimento do eixo equatorial maior. As espécies não apresentam diferenças na morfologia polínica, contudo as características polínicas podem auxiliar os estudos taxonômicos. Os grãos de pólen das espécies analisadas são semelhantes entre si principalmente quanto ao tamanho, forma e número de aberturas, porém diferem na ornamentação da exina, apesar dessa diferença na ornamentação, isso não apresenta um caráter diagnóstico para separar ou unir espécies, sugerindo-se subtipos para o grão de pólen das espécies estudadas.</span>",
+	"xml:lang":"por"
+	}
+	}}

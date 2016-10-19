@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Rice residue- management options and effects on soil properties and crop production /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mandal, Krishna G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Misra, Arun K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hati, Kuntal M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bandyopadhyay, Kali K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ghosh, Prabir K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohanty, Manoranjan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kasvijätteet"},
+	{"value":"vedenpidätyskyky"},
+	{"value":"sato"},
+	{"value":"rice"},
+	{"value":"crop residues"},
+	{"value":"maaperä"},
+	{"value":"yields"},
+	{"value":"soil fertility"},
+	{"value":"Oryza sativa"},
+	{"value":"ravinteet"},
+	{"value":"burning"},
+	{"value":"incorporation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000867",
+	"dct:identifier":"FI2016000867",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

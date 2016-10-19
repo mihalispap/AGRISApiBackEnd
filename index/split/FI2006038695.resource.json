@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"An empirical model for estimating weight loss of stored cowpea seeds"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038695",
+	"dct:identifier":"FI2006038695",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a25.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Okokon, Francis B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Umoetuk, Sylvia B.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oyerinde, Ajiboye S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper presents statistical analyses in developing an empirical model, which relates the weight of cowpea remaining after insect infestation to number of the insect pest (Callosobruchus maculatus), time and the initial weight of the cowpea seeds. The data consist of weekly measurements of the weight of cowpea remaining in each experimental plastic pot for eleven weeks. To four pots each containing 50 g of seeds at 13% moisture content (wet basis) were introduced 0, 5, 10 and 15 insects. There were three replicates. Using the least square theory, the unknown parameters were efficiently estimated. In addition, residual graphs were used to show the appropriateness and adequacy of the model. The analyses showed that the model closely predicts the results of the actual experiments. The model can be used to estimate the weight loss of cowpea due to the insect pest (Callosobruchus maculatus) infestation during storage."}
+	}}

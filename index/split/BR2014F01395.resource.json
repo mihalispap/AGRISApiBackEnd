@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   em sistema de produção em pasto "},
+	{"value":"   Curva de lactação de cabras da raça Alpina e de mestiças Boer ",
+	"xml:lang":"por"
+	},
+	{"value":"   com suplementação concentrada "},
+	{"value":"Lactation curve in Alpine and crossbred Boer goats at a pasture system production with and without concentrate supplementation",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"milk production",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2014F01395",
+	"dct:identifier":"BR2014F01395",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2010-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1287672745.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"RODRIGUES, L. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GONÇALVES,  H. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CAÑIZARES,  G. I. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MARTINS,  M. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MARQUES,  R. O"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RIBEIRO,  M. S."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Foram utilizadas 50 cabras (30 da raça Alpina e 20 ½ Boer + ½ Alpina), primíparas e multíparas, com peso corporal médio de 52,7 ± 1,07 kg, avaliadas em média até 203,9 ± 8,04 dias de lactação. Foram testados dois sistemas de produção em pasto: SP1 - com suplementação concentrada e SP2 - sem suplementação concentrada. Os animais foram mantidos em pastagem estabelecida com Panicum maximum cv. Tanzânia. O controle leiteiro foi realizado a cada 14 dias, por meio da pesagem do leite. Calculou-se as variáveis: tempo para atingir o pico, produção no pico (PP), produção de leite no tempo t e persistência (PS). O genótipo e o sistema de produção em pasto influenciaram a curva de lactação. A suplementação concentrada de cabras da raça Alpina resultou em maior tempo para atingir o pico de lactação, maiores PP e PS. No sistema de produção em pasto, cabras da raça Alpina devem ser suplementadas com ração concentrada.",
+	"xml:lang":"por"
+	},
+	{"value":"Fifty goats were used (30 Alpine and 20 ½ Boer + ½ Alpine), primiparous and multiparous, with average body weight of 52.7 ± 1.07 kg, evaluated averaging to 203.9 ± 8.04 lactation days. Were tested two pasture production systems: SP1 - with concentrate supplementation and SP2 - without concentrate supplementation. Animals were kept in pasture established with Panicum maximum cv. Tanzania. Milk control was performed every 14 days, by weighting milk. It was calculated some variables: time to reach peak, production at peak (PP), milk production on t time and persistence (PS). Genotype and pasture production system influenced the lactation curve. Concentrate supplementation of Alpine goats resulted in longer time to reach peak of lactation, higher PP and PS. Alpine goats, on pasture production system should be supplemented with concentrate.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

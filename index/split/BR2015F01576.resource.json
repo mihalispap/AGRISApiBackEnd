@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Performance of Nellore and F1 (Red Angus x Nellore) raised on pasture in southern Bahia",
+	"xml:lang":"eng"
+	},
+	{"value":"   Desempenho de novilhos Nelore e F1 (Red Angus x Nelore) criados à pasto no sul da Bahia ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"tolerance",
+	"xml:lang":"eng"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"heat",
+	"xml:lang":"eng"
+	},
+	{"value":"endoparasites",
+	"xml:lang":"eng"
+	},
+	{"value":"weight gain",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01576",
+	"dct:identifier":"BR2015F01576",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2010-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://revistas.bvs-vet.org.br/bia/article/view/8041/8314",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"WENCESLAU,  A. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA,  G. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CARVALHO,  F. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SOBRAL,  G. R."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Foram comparados 20 animais da raça Nelore e 20 animais F1 (½ Red Angus ½ Nelore), com idade média de 12 meses, criados a pasto no Sul da Bahia, em relação às características de produção: peso inicial (PI), peso final (PF), ganho de peso médio diário (GMD) e ganho de peso total (GT)"},
+	{"value":"infecção por endoparasitos e, tolerância ao calor (ITC). Para análise de efeito do grupo genético, considerou-se fixo todos os outros efeitos que poderiam influenciar essas características e fez-se a análise de variância utilizando-se o programa SAS. Os resultados do estudo mostraram que PI, PF, GMD e GT dos animais cruzados foram, estatisticamente, superiores aos dos animais zebuínos. Em relação à infecção por endoparasitos e tolerância ao calor não foram observadas diferenças significativas entre os grupos genéticos."},
+	{"value":": Twenty Nelore and twenty F1 cattle (½ Red Angus, ½ Nelore), average age 12 months were compared in pastured raised at southern Bahia, in relation to production characteristics: initial weight (IW), final weight (FW), weight gain, average daily gain (ADG) and total weight gain (WG), infection by endoparasites and heat tolerance (HT). To analyze the effect of genetic group, it was stabilished effects that could influence these characteristics and performed variance analysis using the program SAS. The results showed that IW, FW, ADG and WG of crossbred were statistically different in comparison to zebu cattle. Related to infection by endoparasites and heat tolerance there were no statistical differences between genetic groups.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

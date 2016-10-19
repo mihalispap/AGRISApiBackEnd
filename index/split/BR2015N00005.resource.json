@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"AVALIAÇÃO DA ATRATIVIDADE DE OVITRAMPAS A Aedes (Stegomyia) Aegypti LINNEUS (DIPTERA: CULICIDAE) NO BAIRRO HOSPITALIDADE, SANTANA, AMAPÁ",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":26,
+	"bibo:volume":1,
+	"bibo:pageEnd":31,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00005",
+	"dct:identifier":"BR2015N00005",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/103",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Leilane dos Santos Nunes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rose Rodrigues Trindade"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raimundo Nonato Souto"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"O vírus do Dengue tem se manifestado em forma de epidemia em centros urbanos de muitas regiões do mundo. Nas Américas, o Ae. aegypti é o único transmissor com importância epidemiológica. Este estudo visou detectar a presença de. aegypti no bairro Hospitalidade no município de Santana, bem como, comparar o efeito atrativo da infusaõ de feno dePanicum maximum Jacq a 10% e de água natural à fêmeas grávidas. As amostragens de ovos foram realizadas no período de 22.09 a 27.10.2007 (período menos chuvoso), com o uso de ovitrampas, com solução de infusão e com água natural, instaladas em 30 quadras, agrupadas em quatro blocos ;(01 a 09), B;(10 a 18), C;(19 a 26) e D(27 a 32). Nas 300 amostragens foi coletado um total de 9.820 ovos de Ae. aegypti, com IPO de 36,6% e IDO de 89, 2. Foram estimados os índices de positividade dos ovos (IPO) e  de Densidade dos ovos (IDO) por blocos, sendo, A=20,3%, B=13%, C=2,3% e D=1% e A = 117,7; B= 62,8; C=10,8 e D=36,6, respectivamente. No total das ovitrampas, com infusão coletou-se 5.947 ovos com IDO de 100,79 e IPO de 46,6 % e com água natural 3.804 ovos com IDO de 82,69 e IPO de 33,3%. Os resultados indicam que as ovitrampas representam uma ferramenta muito promissora no monitoramento do mosquito Ae. aegypti dengue, epidemiologia, Panicum maximum, vigilância entomológica.",
+	"xml:lang":"por"
+	}
+	}}

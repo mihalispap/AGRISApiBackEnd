@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Turning international conventions into national action : applying the \"ecosystem approach\" to forest management.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Frankenhauser, Dirk.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Matthes, Ulrich.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"case studies"},
+	{"value":"forest management"},
+	{"value":"biodiversity"},
+	{"value":"ekosysteemit"},
+	{"value":"kestävä metsätalous"},
+	{"value":"conventions"},
+	{"value":"kansainväliset sopimukset"},
+	{"value":"ecosystem diversity"},
+	{"value":"nature reserves"},
+	{"value":"sustainability"},
+	{"value":"kestävä kehitys"},
+	{"value":"luonnon monimuotoisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001608",
+	"dct:identifier":"FI2016001608",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-18.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Technology transfer for humanitarian use: Economic issue and market segmentation approaches"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Lybbert, Travis J. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100184",
+	"dct:identifier":"FI2016100184",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This article discusses a pragmatic approach to providing poor countries with access to patented technologies that consists of devising novel contractual strategies for segmenting markets such as licensing technologies for humanitarian use. There are, however, several complexities to technology transfer for humanitarian use. Many technologies involve multiple patent holders. Effectively targeting the poor can be challenging, and implementing a targeting program can be costly. Novel approaches to humanitarian use technology transfer should be evaluated according to principles of efficiency, optimality and feasibility. Ongoing research in this area is motivated by the observation that in a world of persistent economic inequality any technology with relevance to the poor and vested private interests might be distributed more socially optimally and transferred more efficiently as a result of a more systematic understanding of humanitarian use technology transfer."}
+	}}

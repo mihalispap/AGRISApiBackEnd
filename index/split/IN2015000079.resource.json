@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Non-Genetic Factors on Mortality Pattern in Crossbred Cattle (HF x DEONI) Holdeo",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":74,
+	"dc:subject":[
+		{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"mortalidad",
+	"xml:lang":"esp"
+	},
+	{"value":"mortality",
+	"xml:lang":"eng"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	},
+	{"value":"mortalite",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":77,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000079",
+	"dct:identifier":"IN2015000079",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Aglave, P.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mitkari, K.R.."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adangale, S.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deshmukh, A.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kale, V.A."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The studies on the mortality pattern of crossbred Holdeo animals were conducted at MAU, Parbhani. The data of total 519 animal's mortality were studied and tabulated according to generation, season, sex, age, and cause of mortality. The result revealed the F1 generation proved more susceptible to the situation than interse progeny. The highest overall mortality was observed in season S3-summer (9.28 per cent), season S1-Monsoon (7.43 per cent) and S2-winter (5.08 per cent) respectively. There was a non-significant effect of sex on mortality pattern in all genetic groups; however, higher mortality seems in female calves. Mortality due to cause of Class-II (9.78 per cent) followed by Class-I (4.40 per cent), Class-IV (3.99 per cent), Class-III (2.06 per cent) and Class-V (1.56 per cent) respectively. The mortality percentage of different age group was found as nonsignificant in all generations.",
+	"xml:lang":"eng"
+	}
+	}}

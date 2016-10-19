@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Need for protein supplementation in the diet of growing dairy bulls fed total mixed ration based on moderate digestible grass silage and barley.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huuskonen, Arto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khalili, Hannele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Joki-Tokola, Erkki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutritional requirements"},
+	{"value":"dairy cattle"},
+	{"value":"sonnit"},
+	{"value":"feeds"},
+	{"value":"barley"},
+	{"value":"animal feeding"},
+	{"value":"rehuseokset"},
+	{"value":"rehut"},
+	{"value":"bulls"},
+	{"value":"ruokinta"},
+	{"value":"protein concentrates"},
+	{"value":"valkuaistarve"},
+	{"value":"valkuaisrehut"},
+	{"value":"proteins"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000623",
+	"dct:identifier":"FI2016000623",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

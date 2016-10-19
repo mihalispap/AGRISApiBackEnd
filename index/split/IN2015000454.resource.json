@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Molecular cloning of IFN-alpha in goat (Capra hircus) and black buck (Antelope cervicapra) and evaluation of its expression in goat PBM cells",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":40,
+	"dc:subject":[
+		{"value":"respuesta inmunologica",
+	"xml:lang":"esp"
+	},
+	{"value":"interferon",
+	"xml:lang":"fre"
+	},
+	{"value":"immune response",
+	"xml:lang":"eng"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	},
+	{"value":"interferons",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"interferonas",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"reponse immunitaire",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":43,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000454",
+	"dct:identifier":"IN2015000454",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ramesh, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saini, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Swarup, Devendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, V.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Upreti, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, Asit"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, P.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Type I interferons (IFN-Â¥Ã¡/Â©Â¬), play a pivotal role linking innate and adaptive immune responses, of which interferon (IFN- Â¥Ã¡) alpha (leukocytic interferon) that was initially known for antiviral effect, but in recent days recognized as major key elements in priming innate immune response. Bacterial DNA, rich in CpG motifs, triggers the toll-like receptor-9 mediated signaling through IFN- Â¥Ã¡. The present study reports cloning and characterization of full length ORF of IFN- Â¥Ã¡ in goat and black buck and its expression profile in goat peripheral blood mononuclear cell culture in presence of Pasteurella multocida DNA. The open reading frame of IFN-Â¥Ã¡ in these species was 570 bp as in other ruminant species. The expression of IFN- Â¥Ã¡ in presence of Pasteurella multocida DNA (rich in CpG motifs) was higher as compared to unstimulated cells. It is plausible that pasteurella DNA induced TLR9 expression, which contributed to rise in the IFN- Â¥Ã¡ transcript in cultured PBM cells of goat.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n1p29.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Emerging virus and viroid pathogen species identified for the first time in horticultural plants in Finland in 1997-2010.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lemmetty, Anne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laamanen, Jaana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Soukainen, Mirkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tegel, Jukka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"globalization"},
+	{"value":"puutarhakasvit"},
+	{"value":"kauppa"},
+	{"value":"Finland"},
+	{"value":"trade"},
+	{"value":"horticulture"},
+	{"value":"viroids"},
+	{"value":"viroidit"},
+	{"value":"risk"},
+	{"value":"diagnostic techniques"},
+	{"value":"riskit"},
+	{"value":"viruses"},
+	{"value":"virukset"},
+	{"value":"diagnostiikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001508",
+	"dct:identifier":"FI2016001508",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

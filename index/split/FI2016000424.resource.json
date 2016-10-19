@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Contribution of arbuscular mycorrhizas to biological protection of micropropagated pineapple (Ananas comosus) (L.) Merr) against Phytophthora cinnamomi Rands /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Guillemin, Jean-Philippe.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gianinazzi, Silvio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gianinazzi-Pearson, Vivienne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marchal, Jean.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mikrolisäys"},
+	{"value":"kivennäisaineet"},
+	{"value":"phytophthora cinnamomi"},
+	{"value":"trooppiset hedelmät"},
+	{"value":"mykorritsasienet"},
+	{"value":"biological control organisms"},
+	{"value":"kasvitaudit"},
+	{"value":"Glomus"},
+	{"value":"mineral content"},
+	{"value":"vesicular arbuscular mycorrhizae"},
+	{"value":"ananas comosus"},
+	{"value":"glomus"},
+	{"value":"arbuskelimykorritsasienet"},
+	{"value":"Ananas comosus"},
+	{"value":"micropropagation"},
+	{"value":"ravinteiden otto"},
+	{"value":"nutrient uptake"},
+	{"value":"pot experimentation"},
+	{"value":"ananas"},
+	{"value":"Phytophthora cinnamomi"},
+	{"value":"biologinen torjunta"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000424",
+	"dct:identifier":"FI2016000424",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

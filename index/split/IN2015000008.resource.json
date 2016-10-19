@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Sodium Alginate entrapped biocontrol agents for the control of most virulent isolate of Sclerotium rolfsii",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":30,
+	"dc:subject":[
+		{"value":"betterave sucriere",
+	"xml:lang":"fre"
+	},
+	{"value":"control biologico",
+	"xml:lang":"esp"
+	},
+	{"value":"sugarbeet",
+	"xml:lang":"eng"
+	},
+	{"value":"sodio",
+	"xml:lang":"esp"
+	},
+	{"value":"alginatos",
+	"xml:lang":"esp"
+	},
+	{"value":"remolacha azucarera",
+	"xml:lang":"esp"
+	},
+	{"value":"lutte biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"alginate",
+	"xml:lang":"fre"
+	},
+	{"value":"alginates",
+	"xml:lang":"eng"
+	},
+	{"value":"biological control",
+	"xml:lang":"eng"
+	},
+	{"value":"corticium rolfsii",
+	"xml:lang":"esp"
+	},
+	{"value":"sodium",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":45,
+	"bibo:pageEnd":39,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000008",
+	"dct:identifier":"IN2015000008",
+	"dct:type":"Bibliography",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Mycology and Plant Pathology (India)"},
+	"bibo:ISSN":{"value":"0975-4180"}
+	}
+	},
+	"dct:issued":"mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thilagavathi, Rasu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nakkeeran, Sevugapperumal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raguchander, Thiruvengadam"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Samiyappan, Ramasamy"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Most virulent isolate of Sclerotium rolfsii, SrSB3 was selected out of ten isolates based on its virulence on sugarbeet plants, tubers and leaf petioles. Among different isolates, SrSB3 caused wilting symptoms even at lesser population of sclerotia, recorded more lesion length on inoculated leaf petiole and more mycelial dia on inoculated tubers. Hence, SrSB3 was considered as a most virulent isolate and for which management practices were carried out. The sensitivity of sclerotia to culture filtrates of different bio-control agents was studied by poisoned food technique. Results clearly indicated the lethal effectiveness of different culture filtrates at different levels on sclerotia of S. rolfsii. The effective bio-control agents were entrapped inside the sodium alginate beads and tested individually and in-combination against the most virulent isolate of S. rolfsii (SrSB3) under pot culture and field conditions. The result from pot culture experiment revealed that next to chemical treatment, least root rot incidence (33.3 %) was observed for the combination treatment ofPfl + TTHI which was comparable with Pfl + EPC016 (36 %) as against control (83.3 %) and individual treatments. Similarly, minimum root rot incidence was observed for the same combination treatments than individual and control treatments under field conditions. The present study suggested that alginate beads based bio-formulations could control root rot of sugarbeet by the slow and continuous release of bio-control agents in to the soil in an eco-friendly manner.",
+	"xml:lang":"eng"
+	}
+	}}

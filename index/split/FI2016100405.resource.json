@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-104.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of environmental factors and orchard management on yield and quality of sweet cherry"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Predieri, Stefano (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dris, Ramdane (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sekse, Lars (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rapparini, Francesca (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100405",
+	"dct:identifier":"FI2016100405",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Sweet cherry production is geographically limited to temperate zones that both have sufficient cold winters to meet the chilling requirement of the cherry tree and have summers that allow development of fruits of high quality. Studies of chilling showed its influence on both vegetative and generative growth, and that cyanamide to a certain extent can replace chilling in some varieties. Spring frost and adverse weather conditions during blossom caused reduced fruit set, while high temperatures during differentiation of pistil primordial cause fruit malformation, the latter problem was reduced by use of sprinkle irrigation. Water and nutrient supply to sweet cherry trees are important in the period that includes blossom, fruit growth and harvest, but also in a postharvest period when flower differentiation occurs. Balancing the supply to both vegetative and generative organs that act as sinks is crucial. It can be influenced by bioregulators such as gibberellic acids and cyanamide. Tree size is controlled mainly by choice of rootstock of which many are available from ongoing testing programs. Pruning is used to control tree size as well, but can cause injuries difficult to heal, while growth regulators such as paclobutrazol have negative environmental effects. Nutrient supply to cherry trees is highly dependent on soil types and rootstock."}
+	}}

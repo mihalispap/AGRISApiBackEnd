@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/11/3/economic.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Economic importance of parcel structure on Finnish farms.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Myyrä, Sami.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pietola, Kyösti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"taloudelliset vaikutukset"},
+	{"value":"peltolohkot"},
+	{"value":"farm size"},
+	{"value":"farm structure"},
+	{"value":"field size"},
+	{"value":"tilakoko"},
+	{"value":"costs"},
+	{"value":"maatilat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000070",
+	"dct:identifier":"FI2016000070",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

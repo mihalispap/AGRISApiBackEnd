@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of Buffalo Heifers fed on Bypass Protein: An On-farm Appraisal",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":395,
+	"dc:subject":[
+		{"value":"protein concentrates",
+	"xml:lang":"eng"
+	},
+	{"value":"investigacion en la finca",
+	"xml:lang":"esp"
+	},
+	{"value":"on-farm research",
+	"xml:lang":"eng"
+	},
+	{"value":"heifers",
+	"xml:lang":"eng"
+	},
+	{"value":"digestibilite",
+	"xml:lang":"fre"
+	},
+	{"value":"recherche a la ferme",
+	"xml:lang":"fre"
+	},
+	{"value":"digestibilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"novilla",
+	"xml:lang":"esp"
+	},
+	{"value":"genisse",
+	"xml:lang":"fre"
+	},
+	{"value":"gujarat",
+	"xml:lang":"esp"
+	},
+	{"value":"concentre de proteine",
+	"xml:lang":"fre"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"concentrados de proteina",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":12,
+	"bibo:pageEnd":402,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000066",
+	"dct:identifier":"IN2015000066",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Patel, V.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Parnerkar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jani, V.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Garg, D.D."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The effect of compounded concentrate mixture with bypass protein (formaldehyde treated) on nutrient utilization and economics of feeding was studied. The on-farm trial was conducted on 24 growing buffalo heifers for a period of 24 weeks in a tribal belt of Panchmahal district, Gujarat. The selected animals with an average age of 246Â¡Ã4.8 days and 75.2Â¡Ã2.42 kg body weight were divided in to two groups of 12 each. The selected animals were fed with compound concentrate mixture (20% CP), with bypass protein source in treatment group (T2) and without bypass protein in control group (T1). Paddy straw was offered ad lib. along with 2.0 kg of green pasture grass in both groups. The digestibility of nutrients like DM, CP, EE and CF was significantly improved (PÂ¡Ã0.05) in treatment group (T2). The DM required to achieve unit gain (kg/kg gain) was significantly higher (PÂ¡Ã0.01) in group T1 (8.43Â¡Ã0.39) than in group T2 (6.41Â¡Ã0.14). Similar significant differences were observed for intake of nutrients like CP, DCP and TDN per kg gain. The daily feed cost per kg gain was significantly (PÂ¡Ã0.01) lower in T2 (Rs.27.79) as compared to T1 (Rs.31.45). Results indicated that the nutrient utilization and economics of raising buffalo heifers could be significantly improved in feeding of bypass protein containing concentrate mixture.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Resistance development status in tea mosquito bug (Helopeltis theivora Water house) against certain insecticides",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":447,
+	"dc:subject":[
+		{"value":"Resistance"},
+	{"value":"LC50"},
+	{"value":"Resistance ratio"},
+	{"value":"median lethal dose"},
+	{"value":"Helopeltis theivora"},
+	{"value":"dosificacion",
+	"xml:lang":"esp"
+	},
+	{"value":"dose",
+	"xml:lang":"fre"
+	},
+	{"value":"dosage",
+	"xml:lang":"eng"
+	},
+	{"value":"helopeltis",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"toxicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicite",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":449,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000752",
+	"dct:identifier":"IN2015000752",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shanmugapriyan, R"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Siby Mathew"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Radhakrisnan, B."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Efeito dos sistemas consorciados à base de milho de inverno sobre o rendimento de milho ",
+	"xml:lang":"por"
+	},
+	{"value":"   ervas daninhas associadas e eficiência econômica "},
+	{"value":"Effect of winter maize-based intercropping systems on maize yield, associated weeds and economic efficiency",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"zea mays",
+	"xml:lang":"eng"
+	},
+	{"value":"productivity",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202425",
+	"dct:identifier":"BR2015202425",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/340/234",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mishra Akhilesh"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"CSAUniversity.Kapur- INDIA"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"A field experiment was conducted during winter seasons of 2003-04 and 2004-05 at Kanpur, India to study the effect of winter maize (Zea mays L.) based intercropping systems on maize yield, associated weeds and economics under irrigated condition of central Uttar Pradesh. Thirteen maize-basedcropping systems such as maize sole, potato (Solanum tuberosum L.) sole, mustard [Brassica juncea (L.) Czernj. & Cosson] sole, toria (Brassica campestris var. toria) sole, pea (Pisum sativum L.) sole, linseed (Linum usitatissimum L.) sole, wheat (Triticum aestivum L. emend. Fiori and Paol.) sole, maize + potato (1:1),maize + mustard (1:1), maize + toria (1:2), maize + pea (1:2), maize + linseed (1:2) and maize + toria (1:2), were tested in randomized block design with three replications. Maize + potato system recorded higher yield attributes and grain yield of maize followed by maize + pea than sole stand of maize. potato was showed most compatible intercrop planted with winter maize as it gave higher maize-equivalent yield, land-equivalent ratio, roductivity, monetary returns and lowered weed population, weed dry-biomass and highest weed-control efficiency under irrigated conditions of central Uttar Pradesh. Pea was the next best intercrop with winter maize.",
+	"xml:lang":"eng"
+	},
+	{"value":"Este experimento foi conduzido durante as estações de inverno de 2003-04 e 2004-05 em Kanpur, Índia, para estudar o efeito do milho safrinha (Zea mays L.), em sistemas consorciados com base no rendimento do milho, plantas daninhas e da economia sob condição irrigada, no centro de Uttar Pradesh. Treze sistemas de cultura à base de milho foram testados, somente milho, batata (Solanum tuberosum L.), mostarda [Brassica juncea (L.) Czernj. & Cosson], toria (Brassica campestris var. Toria), ervilha (Pisum sativum L.), linhaça (Linum usitatissimum L.), o trigo (Triticum aestivum L. emend. Fiori e Paol.), milho + batata (1:1), milho + mostarda (1:1), milho + toria (1:2), milho + ervilha (1:2), milho + linhaça (1:2) e milho + toria (1:2), foram testados em delineamento em blocos casualizados com três repetições. O sistema de milho + batata registrou atributos mais elevados de rendimento eprodutividade de grãos de milho, seguido pelo milho + ervilha. A batata mostrou-se com entressafra mais compatível com plantação de milho safrinha, uma vez que deu maior rendimento de milho equivalente, produtividade, retorno financeiro e reduziu a população de plantas daninhas, ervadebiomassa seca e maior eficiência no controle de plantas daninhas em condições irrigadas do centro de Uttar Pradesh . A ervilha foi o melhor consórcio com milho safrinha.",
+	"xml:lang":"por"
+	}
+	]
+	}}

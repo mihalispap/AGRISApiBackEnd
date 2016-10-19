@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nitrogen cycling in a mature mountainous beech forest.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Michopoulos, Panagiotis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Baloutsos, George.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Economou, Anastassios.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"typen kierto"},
+	{"value":"cycling"},
+	{"value":"bulk deposition"},
+	{"value":"throughfall"},
+	{"value":"Fagus sylvatica"},
+	{"value":"highlands"},
+	{"value":"stemflow"},
+	{"value":"nitrogen"},
+	{"value":"pyökki"},
+	{"value":"vuoristot"},
+	{"value":"mountain soils"},
+	{"value":"litterfall"},
+	{"value":"stream water"},
+	{"value":"kerrostumat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000206",
+	"dct:identifier":"FI2016000206",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Control by arbuscular endomycorrhizae of Pratylenchus brachyurus in pineapple microplants /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Guillemin, Jean-Philippe.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gianinazzi, Silvio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gianinazzi-Pearson, Vivienne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marchal, Jean.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mikrolisäys"},
+	{"value":"kivennäisaineet"},
+	{"value":"ankeroiset"},
+	{"value":"trooppiset hedelmät"},
+	{"value":"mykorritsasienet"},
+	{"value":"biological control organisms"},
+	{"value":"Glomus"},
+	{"value":"pratylenchus brachyurus"},
+	{"value":"mineral content"},
+	{"value":"vesicular arbuscular mycorrhizae"},
+	{"value":"ananas comosus"},
+	{"value":"glomus"},
+	{"value":"arbuskelimykorritsasienet"},
+	{"value":"Ananas comosus"},
+	{"value":"micropropagation"},
+	{"value":"tuhoeläimet"},
+	{"value":"Pratylenchus brachyurus"},
+	{"value":"ravinteiden otto"},
+	{"value":"nutrient uptake"},
+	{"value":"pot experimentation"},
+	{"value":"ananas"},
+	{"value":"biologinen torjunta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001211",
+	"dct:identifier":"FI2016001211",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

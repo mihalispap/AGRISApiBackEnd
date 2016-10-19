@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Coarse root architecture of three boreal tree species growing in mixed stands.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kalliokoski, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nygren, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sievänen, Risto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"influence area"},
+	{"value":"kuusi"},
+	{"value":"juuri"},
+	{"value":"roots"},
+	{"value":"plant developmental stages"},
+	{"value":"site type"},
+	{"value":"developmental stage"},
+	{"value":"mänty"},
+	{"value":"Betula pendula"},
+	{"value":"Pinus sylvestris"},
+	{"value":"site factors"},
+	{"value":"rauduskoivu"},
+	{"value":"paksujuuri"},
+	{"value":"juuristo"},
+	{"value":"sekametsät"},
+	{"value":"Picea abies"},
+	{"value":"branching pattern"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002132",
+	"dct:identifier":"FI2016002132",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

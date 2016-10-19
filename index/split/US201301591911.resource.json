@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Reaction of Dioscorea alata (water yam) to anthracnose disease in Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591911",
+	"dct:identifier":"US201301591911",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a13.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Aduramigba-Modupe, Adefoyeke O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asiedu, Robert (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Odebode, A. C. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Anthracnose disease, caused by the pathogen Collectotrichum gloeosporioides Penz., is a serious challenge to the cultivation of Dioscorea alata, a major source of food and income for millions of farm households in the tropics. Five breeder’s lines and eighteen landraces of D. alata from IITA’s germplasm collection were screened in the field in three agroecological zones (southern guinea savanna, derived savannah and the humid forest) of Nigeria for two years. The objective was to study their reactions to anthracnose disease and investigate the influences of environment (E) and genotype x environment (G x E) interactions on these using the Additive Main Effects and Multiplicative Interaction (AMMI) model. Environments (E), obtained as location x year combination, genotypes (G) and G x E interactions were highly significant (P<0.01) for severity of anthracnose disease and accounted for 48, 26.2 and 25.8% of the treatment (G x E combination) sum of squares, respectively. Incidence and severity of foliar symptoms were assessed on three occasions during each growing season. The disease was most severe at Umudike in the humid forest, followed by Ibadan (derived savannah) and Mokwa (southern guinea savannah). The severity was also higher in 1999 across all locations than in 2000. TDa 289 and TDa 294 were identified as the most resistant genotypes. TDa 297, TDa 95/00328, TDa 95/00197 and TDa 95/00010 were stable in their reactions to anthracnose disease across the environments. These lines could be useful in breeding for increased and more stable resistance to anthracnose disease in yam breeding programmes."}
+	}}

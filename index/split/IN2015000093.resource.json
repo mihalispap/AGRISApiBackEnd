@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Blood biochemical profiles and physical-activity parameters in neonatal buffalo calves under normal and forced calving",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":570,
+	"dc:subject":[
+		{"value":"animal recien nacido",
+	"xml:lang":"esp"
+	},
+	{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"newborn animals",
+	"xml:lang":"eng"
+	},
+	{"value":"ternero",
+	"xml:lang":"esp"
+	},
+	{"value":"calves",
+	"xml:lang":"eng"
+	},
+	{"value":"veau",
+	"xml:lang":"fre"
+	},
+	{"value":"animal nouveau-ne",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":574,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000093",
+	"dct:identifier":"IN2015000093",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"june2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prabhakar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brar, P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uppal, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prahlad Singh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gandotra, V.K."
+	}
+	}
+	],
+	"bibo:issue":6,
+	"bibo:abstract":{"value":"The evaluation of metabolic homeostasis in difficult parturition is vital to clinical recognition of underlying disorders to provide appropriate therapeutic measures. The biochemical status of buffalo calves delivered normally (n=17) and through manipulation and forced extraction (n=17) was studied over a period of 5 h immediately after calving. Plasma aspartate aminotransferase, alanine aminotransferase and alkaline phosphatase, blood glucose and total protein were estimated within 1 h after sampling. Different physical-activity parameters like time from birth till first rise of head, time from birth till sternal recumbancy, time from birth till first attempt to stand-up, duration of fetus in womb after appearance of water bag, duration of fetal extraction/expulsion and time from birth until recovery from neonatal stress were also noted and correlated with metabolic changes. Alterations in the biochemical status were suggestive of metabolic changes with some compensation immediately after delivery in normally delivered (ND) calves. The calves delivered through forced extraction (FD) had elevated enzymatic profiles, which remained elevated up to 4 h post-delivery but improved over the period of time (up to 4 h) after calving. Furthermore, wider differences were recorded in the blood glucose values in the two set of calves revealing informative significance regarding the level of stress in the FD group. An alternative diagnostic tool, which appeared in estimating the condition of a newborn calf, was different physicalactivity parameters. Thus, blood biochemical estimation should be used as a matter of intensive care and corrective measures adopted in neonates.",
+	"xml:lang":"eng"
+	}
+	}}

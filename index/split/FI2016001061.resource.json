@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The pH stress on plant growth of Arabidopsis thaliana and pearl millet in NaCl and Na₂CO₃ solutions /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ali, Ghulam M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Murtaza, N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khan, N. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Collins, J. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    McNeilly, T.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Pennisetum glaucum"},
+	{"value":"sodium chloride"},
+	{"value":"kasvit"},
+	{"value":"Arabidopsis thaliana"},
+	{"value":"phytotoxicity"},
+	{"value":"kasvu"},
+	{"value":"karbonaatit"},
+	{"value":"roots"},
+	{"value":"phytotoxins"},
+	{"value":"suolat"},
+	{"value":"myrkyllisyys"},
+	{"value":"kloridit"},
+	{"value":"salinity"},
+	{"value":"sodium carbonate"},
+	{"value":"growth"},
+	{"value":"stressi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001061",
+	"dct:identifier":"FI2016001061",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

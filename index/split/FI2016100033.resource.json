@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of organic fertilization on maize/legume intercrop in a clay loam soil and Mediterranean climate—Can the Land Equivalent Ratio (LER) index be used for root development?"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bilalis, Dimitrios J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sidiras, N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kakampouki, I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Efthimiadou, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Papatheohari, Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thomopoulos, P. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100033",
+	"dct:identifier":"FI2016100033",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A two-year field experiment was carried out in Greece in the years 2002 and 2003 to investigate the effect of organic fertilization on intercropping maize (Zea mays L., cv. Pioneer) and bean (Phaseolus vulgaris, cv. Sevilla) or cowpea (Vigna unguiculata) compared to monocrop cultivation, on soil properties, root development, L.A.I. (Leaf Area Index) and on yields (dry matter, grain yield and N uptake). Intercrop is one of the main techniques in organic agriculture for silage production in Greece. Fertilization with composts improved soil characteristics by lowering penetration resistance and increasing both porosity and MWD, thus enhancing the development of plant root systems. Root development and LAI in maize, cowpea and beanwere maximized under solo growing conditions. Land Equivalent Ratio (LER) values determined for all chosen parameters were statistically higher in control plots relative to plots treated with compost. In the maize-bean intercrop system LER values were statistically higher than in maize-cowpea. A similar trend in the LER values was reflected by root system parameters. Statistically significant correlations were observed between LER values for above ground plant characteristics and corresponding root characteristics, leading to the conclusion that the LER index may be used for root systems."}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The intermediate glucose metabolism in the nursing period of the mink.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Børsting, Christian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Damgaard, Birthe.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lactation"},
+	{"value":"glukoosi"},
+	{"value":"aineenvaihdunta"},
+	{"value":"sokerit"},
+	{"value":"minks"},
+	{"value":"imetys"},
+	{"value":"furbearing animals"},
+	{"value":"carbohydrate metabolism"},
+	{"value":"glucose"},
+	{"value":"minkki"},
+	{"value":"turkiseläimet"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000069",
+	"dct:identifier":"FI2016000069",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

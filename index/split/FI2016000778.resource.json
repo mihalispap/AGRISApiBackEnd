@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Tea beverages made from Romanas rose (Rosa rugosa Thunb.) leaves possess strongly antioxidative activity by high contents of total phenols and vitamin C.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nagai, Takeshi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kawashima, Taro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suzuki, Nobutaka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tanoue, Yasuhiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kai, Norihisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nagashima, Toshio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"phenols"},
+	{"value":"ascorbic acid"},
+	{"value":"antioxidants"},
+	{"value":"fermentation"},
+	{"value":"Rosa"},
+	{"value":"beverages"},
+	{"value":"leaves"},
+	{"value":"tea"},
+	{"value":"health foods"},
+	{"value":"medicinal properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000778",
+	"dct:identifier":"FI2016000778",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

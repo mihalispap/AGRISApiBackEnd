@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of Magra wool - nylon blended hand knotted carpets",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":207,
+	"dc:subject":[
+		{"value":"laine",
+	"xml:lang":"fre"
+	},
+	{"value":"fibre animale",
+	"xml:lang":"fre"
+	},
+	{"value":"wool",
+	"xml:lang":"eng"
+	},
+	{"value":"animal fibres",
+	"xml:lang":"eng"
+	},
+	{"value":"lana",
+	"xml:lang":"esp"
+	},
+	{"value":"fibras de origen animal",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":209,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000203",
+	"dct:identifier":"IN2015000203",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shakyawar, D.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raja, A.S.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, N.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ammayappan, L"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Rajasthan is one of the important carpet wool producing states. It produces about 10 m kg of wool annually and contributes significantly to the carpet production. Among the different carpet wool producing sheep, Magra is one of the best breeds producing excellent quality carpet wool. In this study, attempt was made to blend Magra wool with different proportions of nylon viz. 95:5, 90:10 and 85:15 in order to improve the abrasion resistance of the carpet. Nylon blended yarns as well as the pure Magra wool yarns were used to produce the carpet. The carpets made from Magra wool-nylon blends showed lower abrasion loss compared to pure Magra wool. The carpets made from 10:90 nylon-wool proportion gave very good appearance compared to 100% wool. However, carpets made from blended yarns containing more than 10% nylon showed poor recovery after dynamic loading.",
+	"xml:lang":"eng"
+	}
+	}}

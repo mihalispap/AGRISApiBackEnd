@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Multivariate analysis of the genetic diversity of pigeon pea germplasm from south-west Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009322874",
+	"dct:identifier":"FI2009322874",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Akande, S. R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akande, S. R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Germplasm collection of pigeon pea in three states (Oyo, Ondo and Ekiti) of south-west Nigeria were undertaken in 2003. The 59 collections were evaluated for genetic variability in the field. Principal component and K-means clustering analyses were used to classify the collections. The principal component analysis attributed higher loadings to eight characters, number of days to 50% flowering, plant height, pod and seed weights per plant, number of secondary branches per plant, pod length and mid leaflet length. This result indicates the importance of these characters in delineating the collections. Although significant differences were observed among the collections for the characters evaluated, 73% of the collections were grouped into 2 of the 4 clusters formed by K-means analysis. These two clusters were the most closely related with the least inter-cluster distance of 79.88 units. These results show the low level of genetic diversity among the pigeon pea collections from the three states, which can be improved through mutation breeding, introduction and recombination. However, candidate varieties may be selected from Cluster 3 which had good yield attributes for recommendation to farmers."}
+	}}

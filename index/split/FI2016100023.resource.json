@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Proximate and elemental composition and their estimated daily intake in infant formulae from developed and developing countries: A comparative analysis"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Olu-Owolabi, Bamidele I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fakayode, Sayo O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adebowale, Kayode O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Onianwa, Patricia C. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100023",
+	"dct:identifier":"FI2016100023",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The proximate compositions (moisture, protein, ash, fat, crude fiber and carbohydrate) and levels of thirty seven elements (P, Ca, Cu, Mg, Mn, Na, K, Zn, Pb, Bi, Sn, Ti, Si, Tl, Sb, Ba, Se, Sr, S, Ag, Cd, Mo, Ni, Al, As, Be, Co, Cr, Sc, V, W, Zr, B, Ce, Li, Te and U) were determined in thirteen brands infant formulae samples obtained from three developing (Nigeria, South Africa and Venezuela) and five developed (USA, France, Italy, Denmark and Germany) countries. In addition, the daily intakes of the elements from formulae from developing and developed countries were estimated and compared. The results from this study indicated that the qualities, elemental compositions and their estimated daily intake from infant formulae obtained from developing countries compare well with those from the developed countries and within statutory safe limits. However, some essential elements, such as Se, Co, Cr and Mo, were not detected in most formulae from developing as well as from developed countries."}
+	}}

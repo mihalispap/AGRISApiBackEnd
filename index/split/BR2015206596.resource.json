@@ -1,0 +1,81 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Seedling emergence mangabeira from fruits collected at different locations in the State of Goiás",
+	"xml:lang":"eng"
+	},
+	{"value":"   Emergência de plântulas de mangabeira provenientes de frutos coletados em diferentes localidades do Estado de Goiás ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"indigenous organisms",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"6/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206596",
+	"dct:identifier":"BR2015206596",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/524/300",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vieira Muza do Carmo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naves Ronaldo Veloso"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza Eli Regina Barboza de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva Gilson Dourado da"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Belo Ana Paula Marquez"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Camilo Yanuzi Mara Vargas"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal Goiano, Campus Urutaí, Urutaí, GO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal Goiano, Campus Urutaí, Urutaí, GO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal Goiano, Campus Urutaí, Urutaí, GO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal Goiano, Campus Urutaí, Urutaí, GO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal Goiano, Campus Urutaí, Urutaí, GO, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal Goiano, Campus Urutaí, Urutaí, GO, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"A mangabeira (Hancornia speciosa Gomes), espécie frutífera do Cerrado, de potencial econômico pela grande aceitação de seus frutos, encontra-se em fase de domesticação. Objetivou-se com este estudo avaliar a emergência e o índice de velocidade de emergência (IVE) de sementes demangabeiras oriundas de dez áreas localizadas no Estado de Goiás, de onde foram selecionadas, aleatoriamente, plantas que estivessem em plena produção. Das 116 plantas selecionadas, foram coletados 12 frutos, que foram posteriormente despolpados para obtenção das sementes. Obtevese amostras de 16 sementes por planta e destas, uma subamostra de duas sementes, que foram semeadas em tubetes para avaliação das seguintes características: emergência (%), e índice de velocidade de emergência (IVE) (%). Entre áreas, os dados obtidos foram submetidos à análise de variância e as médias foram comparadas pelo teste de Tukey a 5% de probabilidade. Dentro das áreas foi realizada a análise descritiva das características. Nas condições em que o estudo foi realizado observou-se que a emergência das sementes iniciou-se ao 12º dia após a semeadura (DAS), se estendendo até o 41º",
+	"xml:lang":"por"
+	},
+	{"value":"Mangabeira (Hancornia speciosa), fruit species of the Cerrado, the economic potential for wide acceptance of its fruits, is undergoing domestication. The objective of this study was to evaluate the emergence and emergence rate index (IVE) seed mangabeiras coming from ten areas in the State of Goiás, where were randomly selected plants that were in full production. Of the 116 selected plants were collected 12 fruits, which were later pulped to obtain seeds. Obtained samples of 16 seeds per plant, and these, a subsample of two seeds which were sown in plastic tubes for evaluation of the following: emergence (%) and emergence rate index (IVE) (%). Between areas, the data were subjected to analysis of variance and means were compared by Tukey test at 5% probability. Within areas was conducted a descriptive analysis of the characteristics. In conditionsin which the study was conducted it was observed that the emergence of the seeds began to 12th day after sowing (DAS), extending to 41, the average emergency H. speciosa Goias Cerrado was 55.4% and the average number of days to emergence was 22.64 (DAS).",
+	"xml:lang":"eng"
+	},
+	{"value":"a média de emergência para H. speciosa do Cerrado goiano foide 55,4 % e o número médio de dias para a emergência foi de 22,64 (DAS)."}
+	]
+	}}

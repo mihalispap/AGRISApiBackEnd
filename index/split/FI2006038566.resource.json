@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Field studies on chlorophyll a fluorescence for low temperature tolerance testing of cassava (Manihot esculenta Crantz)"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038566",
+	"dct:identifier":"FI2006038566",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f30.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Togun, Adeniyi Olumuyiwa (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akparobi, Sunday Oba (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ekanayake, Indira Janaki (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Fifteen cassava (Manihot esculenta Crantz) genotypes were grown at two field sites of Nigeria from 1994 to 1996 (Ibadan: 28±5°C, altitude 210 masl and Jos: 18±5°C, altitude of 1260 masl) to evaluate the use of chlorophyll fluorescence in screening for cold tolerance in cassava. At 12 months after planting, the total dry tuberous root weight produced at Ibadan was significantly (P<0.05) greater than at the Jos Plateau location. Genotypic differences were observed among the genotypes both across locations and within locations for dry tuberous root weight. Genotypes TMS 91934, TMS 30572, TME1 and Danwaru performed better than the other genotypes in Jos. In Jos, variable fluorescence (Fv), maximal fluorescence (Fm) and chlorophyll fluorescence ratio (Fv/Fm) of cassava leaves were significantly (P<0.05) reduced when compared to cassava leaves grown in Ibadan. The predictive capability of fluorescence parameters was assessed by comparison with a yield-based cold susceptibility index (CSI). There was a significant correlation between Fv/Fm and CSI (r = 0.64, n=15). Genotypic differences were observed both across locations and within locations for chlorophyll fluorescence parameters. The cold tolerant genotypes TME1, TMS 30572 and Danwaru had higher Fv/Fm ratios under low temperatures whereas cold sensitive genotypes, such as Isunikankiyan and TMS 4(2) 1425 had lower Fv/Fm ratios. This work suggests that chlorophyll fluorescence might be used as a screening test for chilling tolerance in cassava."}
+	}}

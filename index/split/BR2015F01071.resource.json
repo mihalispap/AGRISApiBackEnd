@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1378833276.pdf",
+	"dct:title":[
+		{"value":"Evaluation of 73 genotypes development elephant grass at Campos dos Goytacazes - RJ",
+	"xml:lang":"eng"
+	},
+	{"value":"   Avaliação do desenvolvimento de 73 genótipos de capim-elefante em Campos dos Goytacazes - RJ ",
+	"xml:lang":"por"
+	}
+	],
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"OLIVEIRA,  A. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DAHER,  R. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MENEZES,  R. F.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GRAVINA,  G. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SOUSA,  L. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GONÇALVES,   A. C. S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, M. L. F."
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"diameter",
+	"xml:lang":"eng"
+	},
+	{"value":"pennisetum purpureum",
+	"xml:lang":"eng"
+	},
+	{"value":"budding",
+	"xml:lang":"eng"
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01071",
+	"dct:identifier":"BR2015F01071",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"bibo:abstract":[
+		{"value":"O capim-elefante apresenta ampla variabilidade genética, refletida em uma grande plasticidade morfológica dentro da espécie. Assim, este estudo objetivou avaliar os efeitos de genótipo, idade e interação entre estes dois fatores sobre a altura de planta, número de perfilhos por metro linear e diâmetro de colmo, durante o desenvolvimento inicial de 73 genótipos de capim-elefante em Campos dos Goytacazes - RJ. O experimento foi conduzido em delineamento de blocos completos casualizados com duas repetições, no Campo experimental do Centro Estadual de Pesquisa em Agroenergia e Aproveitamento de Resíduos, pertencente à Empresa de Pesquisa Agropecuária do Estado do Rio de Janeiro (Pesagro-Rio). Foram realizadas cinco avaliações com intervalos de quatro semanas, sendo que a primeira ocorreu oito semanas após o plantio. Os dados foram submetidos ao teste de agrupamento de médias de Scott Knott (1974) (P",
+	"xml:lang":"por"
+	},
+	{"value":"The elephant grass has wide genetic variability reflecting in a large morphological plasticity within species. Therefore, this study aimed to evaluate the initial development of 73 genotypes of elephant grass at Campos-RJ. The characteristics studied were: plant height, number of tillers per meter and stem diameter. The experiment was conducted in a randomized block design with two replications in Pesagro Rio. Five evaluations were performed at four weeks intervals, the first of which occurred eight weeks after seeding. Data were tested for group averages, Scott Knott (1974) (P",
+	"xml:lang":"eng"
+	}
+	]
+	}}

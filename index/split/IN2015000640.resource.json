@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Production technology of coir pith cake formulation of Trichoderma harzianum",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":214,
+	"dc:subject":[
+		{"value":"coir pith,maida flour,activation,colony forming units"},
+	{"value":"control biologico",
+	"xml:lang":"esp"
+	},
+	{"value":"trichoderma",
+	"xml:lang":"esp"
+	},
+	{"value":"lutte biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"biological control",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":218,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000640",
+	"dct:identifier":"IN2015000640",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chandra Mohanan, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prabha, K.Peter"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharadraj, K.M"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Low cost formulations and delivery system are necessary for wide adoption of bio-control of plant diseases using microbial antagonists. Though several plantation crops wastes/by-products including coir pith are used for multiplication of Trichoderma species, no attempt has been made so far to develop a low cost commercial product with long shelf life and high population of antagonist. A technology has been developed to prepare a commercial product viz., Trichoderma coir pith cake (TCPC)using maida flour and Trichoderma harzianum biomass. It has been found that dried TCPC packed in polythene bags can be stored at room temperature (26-30 Â°C) for 10 months with high level of T. harzianum population. Through a simple activation process of moistening the dried TCPC and incubating under room temperature for 2 days, luxurious growth of Trichoderma covering the entire product was obtained and thus the population could be increased to a very high level. Mean T. harzianum population in dry TCPC after 10 months of storage was found to be 5.0x106 CFU gâ1  which has increased to 14.4x106 CFU g-1 on activation. Though the population after one year could be increased from 1.6x106 CFU g-1 in dry TCPC to 5.2x106  in activated, it is ideal to recommend a shelf life period of 10 months while commercializing the product. The new, simple and low cost technology developed, thus, clearly indicates that coir pith, a waste from coconut industry can be made into value added and environment friendly commercial product for management of plant diseases. Several such products can be commercially prepared for different microbial bioagents following this production technology.",
+	"xml:lang":"eng"
+	}
+	}}

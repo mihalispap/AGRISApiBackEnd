@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/49570/15791",
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality characteristics of parental lines of wheat mapping populations.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pasqualone, Antonella,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Piarulli, Luciana,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mangini, Giacomo,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gadaleta, Agata,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Blanco,  Antonio,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Simeone, Rosanna,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vehnä"},
+	{"value":"Triticum"},
+	{"value":"väri"},
+	{"value":"genes"},
+	{"value":"ominaisuudet"},
+	{"value":"laatu"},
+	{"value":"plant breeding"},
+	{"value":"protein content"},
+	{"value":"kasvinjalostus"},
+	{"value":"geenit"},
+	{"value":"colour"},
+	{"value":"vehnäjauhot"},
+	{"value":"wheat flour"},
+	{"value":"proteiinit"},
+	{"value":"quality"},
+	{"value":"genotypes"},
+	{"value":"gluteenit"},
+	{"value":"gluten"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"genotyyppi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001536",
+	"dct:identifier":"FI2016001536",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

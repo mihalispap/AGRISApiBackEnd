@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.lib.helsinki.fi/se/a/1239-0992/9/2/shortter.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Short term behavioural consequences of denied access to environmental facilities in milk.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hansen, Claus Peter Bjælke.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jeppesen, Leif Lau.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Mustela vison"},
+	{"value":"animal production"},
+	{"value":"minks"},
+	{"value":"vesialtaat"},
+	{"value":"furbearing animals"},
+	{"value":"häkit"},
+	{"value":"animal welfare"},
+	{"value":"behaviour"},
+	{"value":"käyttäytyminen"},
+	{"value":"virikkeet"},
+	{"value":"turkistarhaus"},
+	{"value":"minkki"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000701",
+	"dct:identifier":"FI2016000701",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f20.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Nature and phenotypic characterization of plantaricin UG1 resistance in Listeria monocytogenes LMG 10470"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Enan, Gamal (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100118",
+	"dct:identifier":"FI2016100118",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The 8200 AU ml-1 plantaricin UG1 concentration was necessary to saturate the adsorption sites of 2x107 colony forming units of Listeria monocytogenes LMG 10470. At this concentration, few Listeria cells were survivors and escaped the bacteriocin effect and were still sensitive to its action on agar plates. Other cells were resistant variants at a resistance frequency around 10-6. Growth of the parental strain was higher than that of the resistant strain. The resistance phenotype of Listeria cells to plantaricin UG1 was stable character; was not due to inactivation of the bacteriocin by extracellular molecules; and was due to modification in adsorption site(s) of Listeria cells which could reduced the bacteriocin binding to the cells."}
+	}}

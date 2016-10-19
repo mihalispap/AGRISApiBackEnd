@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biological evaluation of synbiotic fermented milk against lead acetate contamination in rats.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Al-Wabel, N. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mousa, H. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Omer, O. H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abdel-Salam, A. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fermented products"},
+	{"value":"antioxidants"},
+	{"value":"cultured milk"},
+	{"value":"milk"},
+	{"value":"enzyme activity"},
+	{"value":"lead"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001933",
+	"dct:identifier":"FI2016001933",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

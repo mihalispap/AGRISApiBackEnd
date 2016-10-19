@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/10/1/soilsina.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Soils in an agricultural landscape of Jokioinen, south-western Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Yli-Halla, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mokma, Delbert L.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil genesis"},
+	{"value":"maaperä"},
+	{"value":"Finland"},
+	{"value":"soil classification"},
+	{"value":"maannokset"},
+	{"value":"maannostuminen"},
+	{"value":"maannosluokitus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001956",
+	"dct:identifier":"FI2016001956",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

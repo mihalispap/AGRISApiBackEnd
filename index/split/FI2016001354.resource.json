@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Leverlipider og peroksimal β-oksidasjon hos blårev og mink.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ahlstrøm, Øystein.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Skrede, Anders.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"minks"},
+	{"value":"diet"},
+	{"value":"lipids"},
+	{"value":"ruokintakokeet"},
+	{"value":"foxes"},
+	{"value":"sinikettu"},
+	{"value":"kalaöljyt"},
+	{"value":"fish oils"},
+	{"value":"liver"},
+	{"value":"minkki"},
+	{"value":"lipidit"},
+	{"value":"turkiseläimet"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"maksa"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (253 :
+    1994 :
+    Rebild)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001354",
+	"dct:identifier":"FI2016001354",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

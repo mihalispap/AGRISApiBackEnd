@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetically modified organisms (GMOs), food and feed : current status and detection.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Shehata, Maher M.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"pakkausmerkinnät"},
+	{"value":"rehut"},
+	{"value":"valvonta"},
+	{"value":"spectrometry"},
+	{"value":"analyysimenetelmät"},
+	{"value":"muuntogeeniset elintarvikkeet"},
+	{"value":"PCR-tekniikka"},
+	{"value":"methodology"},
+	{"value":"PCR"},
+	{"value":"elintarvikevalvonta"},
+	{"value":"genetic engineering"},
+	{"value":"quality labels"},
+	{"value":"elintarvikkeet"},
+	{"value":"genetically modified foods"},
+	{"value":"EU-maat"},
+	{"value":"foods"},
+	{"value":"transgenic plants"},
+	{"value":"turvallisuus"},
+	{"value":"quality controls"},
+	{"value":"biosafety regulations"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000666",
+	"dct:identifier":"FI2016000666",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

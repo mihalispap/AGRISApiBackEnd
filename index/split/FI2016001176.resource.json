@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Tree regeneration in artificial canopy gaps established for restoring natural structural variability in a Scots pine stand.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rouvinen, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kouki, Jari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"restoration"},
+	{"value":"biodiversity"},
+	{"value":"ecosystems"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001176",
+	"dct:identifier":"FI2016001176",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

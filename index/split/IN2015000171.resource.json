@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Minerals release kinetics in the rumen from five commonly available dry fodders",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":954,
+	"dc:subject":[
+		{"value":"microorganisms",
+	"xml:lang":"eng"
+	},
+	{"value":"micro-organisme du rumen",
+	"xml:lang":"fre"
+	},
+	{"value":"microorganismos del rumen",
+	"xml:lang":"esp"
+	},
+	{"value":"digestion du rumen",
+	"xml:lang":"fre"
+	},
+	{"value":"rumen digestion",
+	"xml:lang":"eng"
+	},
+	{"value":"metabolisme des mineraux",
+	"xml:lang":"fre"
+	},
+	{"value":"digestion ruminal",
+	"xml:lang":"esp"
+	},
+	{"value":"desiccated fodders",
+	"xml:lang":"eng"
+	},
+	{"value":"microorganismos",
+	"xml:lang":"esp"
+	},
+	{"value":"rumen microorganisms",
+	"xml:lang":"eng"
+	},
+	{"value":"mineral metabolism",
+	"xml:lang":"eng"
+	},
+	{"value":"micro-organisme",
+	"xml:lang":"fre"
+	},
+	{"value":"metabolismo de minerales",
+	"xml:lang":"esp"
+	},
+	{"value":"fourrage desseche",
+	"xml:lang":"fre"
+	},
+	{"value":"forraje seco",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":960,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000171",
+	"dct:identifier":"IN2015000171",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pal, D.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Pramod"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, C.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sampath, K.T."
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"The extent to which the macro and micro minerals present in various fodders released in the rumen were studied in 5 commonly fed dry fodders (paddy straw, ragi straw, wheat straw, maize kadbi and oat hay) in 3 adult cattle fitted with rumen cannula by in sacco nylon bag technique. The dry fodders were incubated in the rumen for different periods i.e. 10 h, 24 h, 48 h and 72 h and minerals release kinetics in the rumen were studied. There were significant differences in element release in the rumen between experimental fodders and the particular minerals. The rate of release of Ca and P was higher from oat hay and maize kadbi than from paddy, ragi and wheat straws. As compared to Ca, the release of P, Mg and K at different periods of incubation in the rumen was higher from various dry fodders. The pattern of Mg release was different from Ca and P. The release of individual elements over all incubation times is very well expressed by cubic polynomials (R2  0.9). Overall, across dry fodders, the release of mineral elements ranked as follows: K  Mg  P  Cu  Mn  Zn  Ca. Among all minerals, K showed the highest (98 to 100%) and Ca and Zn showed the lowest release in the rumen at different periods of incubation from fodders. It could, therefore, be concluded that the pattern of macro and trace minerals release in the rumen varied from feeds to feeds and the time of incubation influenced the release of minerals from fodders. Calcium and zinc need a longer time for their maximum release in the rumen for making it available for absorption.",
+	"xml:lang":"eng"
+	}
+	}}

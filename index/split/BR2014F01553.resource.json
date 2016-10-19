@@ -1,0 +1,78 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Degradabilidade de grãos secos e ensilados de sorgo ",
+	"xml:lang":"por"
+	},
+	{"value":"Degradability of sorghum grain with and without tannin, and different particle size",
+	"xml:lang":"eng"
+	},
+	{"value":"   com e sem tanino "},
+	{"value":"   submetidos à ganulometrias "}
+	],
+	"dc:subject":[
+		{"value":"milling",
+	"xml:lang":"eng"
+	},
+	{"value":"grain",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"starch",
+	"xml:lang":"eng"
+	},
+	{"value":"silage",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2014F01553",
+	"dct:identifier":"BR2014F01553",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2010-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1302293224.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SOUZA,  C. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MORAIS,  J. P. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MEIRELLES,  P. R. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"REIS, W."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GONÇALVES,  H. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FACTORI,  M. A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Devido a suas características nutricionais o sorgo tem sido indicado como substituto do milho e trigo, além disso, no Brasil o sorgo não é usado na alimentação humana como o milho, o que diminue seu custo em quase 20% em relação ao custo do milho. Assim o presente trabalho foi desenvolvido na UNESP, nos Campus de Botucatu e Jaboticabal, São Paulo, Brasil, com o objetivo de avaliar o efeito da granulometria nos grãos de dois híbridos de sorgo (com e sem tanino), conservados secos ou ensilados úmidos, sobre a degradabilidade in situ da matéria seca (MS), proteína bruta (PB) e amido em ovinos,. Foram utilizados três ovinos adultos, fistulados no rúmen, distribuídos em um delineamento experimental em blocos, com arranjo fatorial de 2 x 2 x 3 , sendo dois híbridos de sorgo (com e sem tanino), duas formas de conservação (seco e ensilado), três granulometrias (inteiro, moído grosso e moído fino), e o tempo como sub parcela. Pelos resultados inferidos recomenda-se a moagem dos grãos de sorgo, pois esta estratégia proporciona aumento da degradabilidade ruminal e efetiva da matéria seca, proteína bruta e amido. A presença do tanino no grão de sorgo alterou a degradabilidade potencial da proteína bruta e amido. O melhor tratamento foi a moagem grossa no grão sem tanino armazenado na forma de grãos secos.",
+	"xml:lang":"por"
+	},
+	{"value":": Due to its nutritional characteristics sorghum has been indicated as substitute cereal to corn and wheat. Besides, in Brazil sorghum is not used for human feeding unlike corn, witch reduces its costs in almost 20% in comparison to corn costs. This research was conducted at UNESP, in Botucatu and Jaboticabal Campus, São Paulo, Brazil, with the purpose to evaluate the grinding effect on two sorghum genotypes grain (with and without tannin) preserved dry or ensiled humid above the degradability in situ of the dry matter, crude protein and starch. Three rumen fistulated sheep were used, distributed in an experimental block design, at 2 x 2 x 3 factorial outline, with two sorghum genotypes (with and without tannin), two forms of conservation (dry grain and high moisture grains silage) and three grinding ways (undivided, thick grinding and fine grinding) and the time as sub-portion. According to the results the grinding is recommended to sorghum grains because it increases the ruminal and effective degradability of the dry matter, crude protein and starch. The presence of tannin in sorghum grain changed the degrability potential of crude protein and starch. The thick grinding in dry grain without tannin was the better treatment.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

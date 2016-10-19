@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Polyphenol content and browning of Canadian icewines"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869557",
+	"dct:identifier":"US201300869557",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f10.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kilmartin, Paul A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reynolds, Andrew G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pagay, Vinay (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nurgel, Canan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Johnson, Robin (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The polyphenol composition of a range of Ontario icewines and late harvest wines was quantified. For 1999-2000 experimental wines, the FAUX icewines (harvested above -8°C and before 18 December) had high concentrations of hydroxycinnamates (10 to 37 mg/L in Riesling; 53 to 82 mg/L in Vidal) which dropped to concentrations below 10 mg/L for the REAL icewines (harvested at temperatures -8°C or below and after 28 December). However, in 2002 experimental icewines, high concentrations of hydroxycinnamates were seen in both REAL and FAUX wines (40 to 84 mg/L in Riesling; 106 to 129 mg/L in Vidal), but all of the grapes were harvested before 11 December. Low to moderate concentrations of total hydroxycinnamates were observed in commercial icewines (10 to 40 mg/L) and late harvest wines (5 to 60 mg/L). Freeze concentration during icewine making appears to have substantial impact upon polyphenol composition and concentration, but time of harvest and growing season appear to be equally important."}
+	}}

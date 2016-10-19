@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Inputing mean annual change to estimate current forest attributes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Eskelson, Bianca N. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Barrett, Tara M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Temesgen, Hailemariam.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"public ownership"},
+	{"value":"seuranta"},
+	{"value":"forest land"},
+	{"value":"paneled inventory data"},
+	{"value":"monitoring"},
+	{"value":"forest inventories"},
+	{"value":"valtionmetsät"},
+	{"value":"national forest inventories"},
+	{"value":"forest inventory and analysis"},
+	{"value":"metsäninventointi"},
+	{"value":"forest monitoring"},
+	{"value":"nearest neighbor imputation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001872",
+	"dct:identifier":"FI2016001872",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

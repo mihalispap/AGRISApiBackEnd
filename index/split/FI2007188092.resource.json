@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"An efficient method for identification and quantification of genetic modification of local, imported and food products of maize in Saudi Arabia using PCR-based markers and real-time PCR"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188092",
+	"dct:identifier":"FI2007188092",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Swailem, Abdulaziz M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shehata, Maher M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shair, Omar H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sabaan, Saeed A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Anazi, Ibrahim O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"A. Al-Shammar, Turki (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In recent years food crops have been engineered to express novel genes which impart new characteristics. The genetically modified corn “Maximizer” is resistant to the European corn borer due to the insertion and expression of the cryIA(b) gene from Bacillus thuringiensis ssp. Kurstaki. It is already widely cultivated in the U.S.A. and may find its way to Europe and Middle East as a component of a variety of food and feedstuffs. According to EU regulations, novel foods and ingredients must be labeled to allow consumers to make informed decisions regarding the foodstuffs they purchase. Analytical methods are thus necessary to show the presence or absence of GMO in raw materials and food, and need to be continuously up-dated. Consequently, the aim of this work has been to develop a qualitative and quantitative PCR method to detect genetically modified maize. We carried out a preliminary laboratory trial using conventional and real-time PCR assays to detect and identify purified extracts from pure samples of four cultivars (obtained from Ministry of Agriculture) and two processed food products (collected from the markets) of maize.The screening of 25 RAPD primers allowed selection of 18 primers, which revealed that the loci tested were polymorphic and the results are reproducible. The different profiles obtained among all samples allowed the grouping into 2 main clusters. Cluster A includes American maize 1 and froot loops with 0.47-0.51 similarity matrix. Cluster B includes American maize 2, local maize 1 and 2. Cluster B consisted of two subgroups. Subgroup 1 includes American maize 2 and subgroup 2 includes local maize 1 and 2. Only corn flakes were assigned outside of groups, suggesting that, it may be obtained from another cultivar or subjected to highly processing. Quantification methods were optimized through different real-time PCR chemistries. The correlation coefficients between ivr1 and cryIA(b) genes copy numbers ranged from -0.99 to 1.00, respectively, thus enabling calculation of the number of ivr1 copies by performing RTQ-PCR. The No. of copies of the ivr1 and cryIA(b) genes are 1.44×106 and 1.93×105, respectively. The percentage of cryIA(b) is 3.84% and the rest genes of maize constitutes 96.16%. The detection limit of the method was 0.01%, which is far below the established threshold for accidental presence of genetically modified organisms (GMO). This method is specific, highly sensitive and reliable for both identification and quantification of DNA. Therefore, it is suitable for use in routine GMO analysis. Comparison of the LightCycler system and the well-established conventional PCR revealed no statistically significant differences with respect to sensitivity and reproducibility. From our preliminary results, we can conclude that, conventional PCR method is rapid and suitable for characterization, establishment of taxonomic position and detecting maize materials and products. Real-time PCR method is highly rapid, sensitive and can detect trace amounts of GM-DNA (as low as 0.01~1%). The assays proved to be suitable for analytical purposes, with excellent limits of detection and quantification. They are also effective in indicating that commercially available maize materials are usually not mixed with GM-maize, but food products may be mixed with GM maize in Saudi Arabia. Our laboratories are continuously working on the development of other new quantitative detection methods of GM-maize. Thus, the method may be applied for control purposes and specific labeling."}
+	}}

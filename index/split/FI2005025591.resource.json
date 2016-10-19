@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Apparent digestibility of hays in horses determined by total collection of faeces and using internal marker methods"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025591",
+	"dct:identifier":"FI2005025591",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bergero, Domenico (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meineri, Giorgia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Miraglia, Nicoletta (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Peiretti, Pier Giorgio (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A remarkable subject in the field of horse nutrition concerns the reliability of different analytical methods for digestibility assessment of horse feeds and rations. The digestibility of horse hays can be determined using different techniques: calculations from the chemical composition of hays, in vitro or in vivo methods. For the determination of apparent digestibility coefficients, the total collection method, which is the reference method in the French system, could be replaced by easier internal marker method. The aim of this work was to compare indigestible internal markers, acid-insoluble ash (AIA) and acid detergent lignin (ADL), and total collection techniques for apparent digestibility estimation in horses. Analyses were carried out over three trials that differed according to the quality of hays, dry matter, organic matter, crude protein, crude fiber, ash, NDF, ADF, ADL, AIA, and the gross energy. The digestibility of all the parameters, with the exception of ADL, AIA and ash, was calculated on the basis of the total faeces collection and alternatively using AIA or ADL markers. The analysis of variance was performed to study the different digestibility coefficients. The digestibility coefficients obtained using AIA were very close to those obtained with the total collection method. Both methods can therefore be used for digestibility trials in horses. On the contrary apparent digestibility cannot be estimated using ADL as an internal marker."}
+	}}

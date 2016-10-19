@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Determination of thermal conductivity of Malaysian patin fish"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025476",
+	"dct:identifier":"FI2005025476",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abbas, K.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sapuan, S.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmad, M.M.H. Megat (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mokhtar, A.S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jamilah, B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Due to lack of thermal conductivity information data of a Malaysian fish called patin, an experimental study was conducted to determine and establish the suitable method of measuring the thermal conductivity of the above freshwater fish. Three possible methods have been selected from the literature to investigate the thermophysical property in the temperature range of 0-25°C. Direct explicit solution to the heat diffusion equation, modified Ansari’s equation and a simple correlation have been used in conjunction with experimental temperature-time records applied on slab-shaped samples of the above fish, tested in a set up which has been designed and fabricated for the purpose of this study. The results revealed that the first method was unstable and unreliable whereas the second method (Ansari’s method) shows more accuracy, reliability, simplicity and better stability in comparison with the others, but there are still some physical limitations concerning the sensor spatial location within the sample and the time after which the temperature-time records should be considered."}
+	}}

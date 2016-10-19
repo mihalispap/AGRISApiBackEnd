@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f25.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Gel permeation chromatography clean-up prior to liquid chromatography for determination of aflatoxins in spices"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Attallah, Emad R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gad, Sohair A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dogheim, Salwa M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hashem, Ahmed Ismail (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"El-Sawi, Emtithal. A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100190",
+	"dct:identifier":"FI2016100190",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A simple, rapid and reliable method using gel permeation chromatography (GPC) clean-up was developed for determination of aflatoxins B1, B2, G1 and G2 in various spices such as hot chili, dry coriander, anise seeds and nigela staveia. After extraction of samples by chloroform in the presence of sodium chloride solution and clean-up by GPC, aflatoxins and aflatoxins-TFA derivatives were determined using HPLC with fluorescence detection. The limit of quantification was found to be significantly lower than current regulatory limits for afltoxin limits of EU. Recoveries for each aflatoxin B1, B2, G1 and G2 spiked to various spices at concentration levels of 2.0 and 4.0 µg/kg was found to be 80-120%. The repeatability (RSdr%) and reproducibility (RSdR%) were in the range of 2-14 and 11-15% respectively."}
+	}}

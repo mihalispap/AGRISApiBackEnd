@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Temporal and spatial epidemic development of early blight (Alternaria solani Ell. and Mart) in Tomato as a function of different fungicides treatment",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":40,
+	"dc:subject":[
+		{"value":"disease surveillance",
+	"xml:lang":"eng"
+	},
+	{"value":"alternaria",
+	"xml:lang":"esp"
+	},
+	{"value":"tomatoes",
+	"xml:lang":"eng"
+	},
+	{"value":"fongicide",
+	"xml:lang":"fre"
+	},
+	{"value":"vigilancia de enfermedades",
+	"xml:lang":"esp"
+	},
+	{"value":"surveillance epidemiologique",
+	"xml:lang":"fre"
+	},
+	{"value":"fungicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"fungicides",
+	"xml:lang":"eng"
+	},
+	{"value":"tomate",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":45,
+	"bibo:pageEnd":47,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000009",
+	"dct:identifier":"IN2015000009",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Mycology and Plant Pathology (India)"},
+	"bibo:ISSN":{"value":"0975-4180"}
+	}
+	},
+	"dct:issued":"mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Saha, Poly"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, Srikanta"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The field experiment was conducted at university Instructional farm, Kalyani under Bidhan Chandra Krishi Viswavidyalaya in the year 2009-10 and 2010-11 to study the temporal and spatial spread of early blight (Altemaria solani Ell. and Mart.) on tomato under different chemical treatments to know the nature of progression of the disease in all fungicides treatment and also to evaluate the minimum apparent infection rate that restrict disease development at low leveL One susceptible tomato variety Patharkuchi (indeterminate type) was taken and natural epiphytotic condition was permitted. Disease severity recorded at 10 days interval and the infection rate (r or k) was calculated after logistic and gompertz transformation of the realized observed value of the disease severity (expressed as AUDPC). Among the six chemicals tested i.e., mancozeb, propiconazole, hexaconazole, carbendazim, cholothalonil and difenconazole, mancozeb showed minimum disease severity (AUDPC: 98.44 and 96.84) followed by hexaconazole (AUDPC: 98.69) and carbendazim (AUDPC: 97.68), respectively for the year 2009-10 and 2010-11. Maximum disease severity was observed in propiconazole treatment (AUDPC: 102.89 and 102.06) for both the two experimental years. Here, AUDPC is used to quantity the disease over different point of time and two growth models logistic and gompertz tested, through which disease progress curve move over time. Results revealed that the two models were not equally fit for depicting disease progress in every treatment but for linearization of area under disease progress curve (AUDPC) following the two models (logit and gompit) revealed that gompit fit better than logit for the spread of early blight disease severity over time and this was confirmed by the low standard error estimate (MSE) value of gompertz in all the treatments.",
+	"xml:lang":"eng"
+	}
+	}}

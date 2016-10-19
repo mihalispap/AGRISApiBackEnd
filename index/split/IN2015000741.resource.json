@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of morphological, physiological and molecular characteristics of cocoa accessions from Central and South America in relation to drought tolerance",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":389,
+	"dc:subject":[
+		{"value":"diversity"},
+	{"value":"drought tolerance"},
+	{"value":"physiology"},
+	{"value":"resistance a la secheresse",
+	"xml:lang":"fre"
+	},
+	{"value":"drought resistance",
+	"xml:lang":"eng"
+	},
+	{"value":"resistencia a la sequia",
+	"xml:lang":"esp"
+	},
+	{"value":"theobroma cacao",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":397,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000741",
+	"dct:identifier":"IN2015000741",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Elain Apshara, S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajesh, M. K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balasimha, D."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Eleven cocoa accessions, representing collections from five central and south American countries, were assessed for their morphological, molecular and physiological parameters. Growth characters were observed in three year old plants and initial pod yields were recorded. Photosynthesis, related parameters and chlorophyll indices, measured during two seasons, showed significant differences between non-stress and stress periods as well as among the genotypes. The transpirational water loss was reduced with increased stomatal closure, which is a favourable drought trait in crops. The results indicated that the genotypes showing higher water potential and Fv/Fm ratio can be considered as drought tolerant. The rank sums of these parameters showed that genotypes JA-1/19, POU-16/A and SC-4 were the most drought-tolerant. Microsatellite markers were used to assess the extent of genetic diversity between clones. The amplification of DNA from the 11 accessions using the 15 microsatellite loci revealed a total of 80 consistent and scorable alleles with an average of 5.33 alleles per locus and all the loci were 100 per cent polymorphic, the most polymorphic locus being mTcCIR33 with 8 alleles. The observed heterozygosity ranged from 0.36 to 0.63 with an average of 0.52. The inbreeding co-efficient (f) ranged from -0.22 (mTcCIR8) to 0.58 (mTcCIR40) with an average of 0.32. The microsatellite marker analysis revealed that the genotypes possess a wide genetic diversity. The drought tolerant types identified in this study viz., JA-1/19, POU-16/A and SC-4 could be used for cultivation in areas with moisture deficient stress and in selective cocoa breeding programs for drought tolerance.",
+	"xml:lang":"eng"
+	}
+	}}

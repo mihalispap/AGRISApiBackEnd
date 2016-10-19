@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"DINÂMICA DA DISTRIBUIÇÃO ESPACIAL DE POPULAÇÕES ARBÓREAS, AO LONGO DE UMA DÉCADA, EM CERRADÃO NA TRANSIÇÃO CERRADO-AMAZÔNIA, MATO GROSSO.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":1,
+	"bibo:volume":3,
+	"bibo:pageEnd":14,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00113",
+	"dct:identifier":"BR2015N00113",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/627",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fernando Elias"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Beatriz Schwantes Marimon"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Simone Matias de Almeida Reis"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mônica Forsthofer"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Letícia Gomes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paulo Sérgio Morandi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ben Hur Marimon-Junior"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade do Estado de Mato Grosso"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade do Estado"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">Populações de plantas se distribuem naturalmente nas formas agregada, aleatória ou uniforme. Estes padrões podem variar conforme as condições ambientais e ao longo do tempo. O presente estudo teve por objetivo avaliar a variação da densidade e da distribuição espaço-temporal das cinco principais espécies de um cerradão no leste Mato-grossense para verificar se a incidência de fogo e eventos de seca resultam em mudanças e até que ponto tais mudanças são detectáveis nos padrões espaciais destas populações. </span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">Os levantamentos foram </span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">conduzidos em uma área de cerradão no Parque Municipal do Bacaba, Nova Xavantina-MT, </span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">em fevereiro de 2002, 2005, 2008, 2010 e 2012, em 50 parcelas permanentes de 10 x 10 m. </span><em><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">Hirtella glandulosa </span></em><span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">demonstrou resiliência aos distúrbios em relação às demais espécies durante a década de estudo. Tachigali vulgaris e Xylopia aromatica</em>, apesar de apresentarem mudanças na densidade entre os anos, mantiveram o mesmo padrão de distribuição espacial ao longo do tempo. As alterações na estrutura populacional e espacial de Roupala montana e Myrcia splendens podem indicar sensibilidade dessas populações aos distúrbios.</span>",
+	"xml:lang":"por"
+	}
+	}}

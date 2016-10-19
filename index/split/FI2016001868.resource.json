@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of thinning and ditch network maintenance on the water table level in a Scots pine stand on peat soil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Päivänen, Juhani.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sarkkola, Sakari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"täydennysojitus"},
+	{"value":"ojanperkaus"},
+	{"value":"hydrology"},
+	{"value":"peatlands"},
+	{"value":"ditch cleaning"},
+	{"value":"harvesting"},
+	{"value":"drainage"},
+	{"value":"forestry"},
+	{"value":"hydrologia"},
+	{"value":"complementary ditching"},
+	{"value":"puunkorjuu"},
+	{"value":"metsäojitus"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001868",
+	"dct:identifier":"FI2016001868",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

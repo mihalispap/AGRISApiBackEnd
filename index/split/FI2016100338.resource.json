@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The antimicrobial resistance profiles of Campylobacter and E. coli O157 isolates from a cohort of clinically normal feedlot cattle"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Minihan, Donal (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"O’Mahony, Micheál (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Whyte, Paul (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fanning, Seámus (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fitzsimons, Tara (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Collins, John D. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100338",
+	"dct:identifier":"FI2016100338",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Antimicrobial resistance is a global public health concern. Food animals have been implicated as a potential source of antimicrobial resistance pathogens for man. The aim of this study was to investigate the antimicrobial resistance of Campylobacter and E. coli O157 isolates from a normal untreated cohort of Irish feedlot cattle while monitoring the antimicrobial usage in the feedlot. A cohort of 133 cattle was sampled at monthly intervals after entering a feedlot in November until their slaughter in March or April. The direct environment of this cohort of cattle was also sampled between November and February. In total the feedlot used 720 Daily Defined Doses (DDD) of antimicrobials during the study period. The antimicrobial resistance of 500 Campylobacter isolates (445 animal isolates and 55 environmental isolates) and 222 E. coli O157 isolates (163 animal isolates and 59 environmental isolates) were investigated using the agar diffusion method. A substantial level of Campylobacter antimicrobial resistance was detected for ampicillin, ceftiofur, ciprofloxacin, naladixic acid, streptomycin and trimethoprim. The levels of E. coli O157 antimicrobial resistance to ciprofloxacin, streptomycin and tetracycline were substantially lower compared to the levels of resistance observed in Campylobacter. A temporal relationship between the use of limited therapeutic fluoroquinolones in the feedlot (45 DDD) and an increase in the prevalence of Campylobacter ciprofloxacin resistance was observed. In conclusion, this study observed that different genus of bacteria from the same source can have significantly different profiles of antimicrobial resistance and that limited administration of fluoroquinolones in a feedlot can result in the dissemination of ciprofloxacin-resistant Campylobacters to untreated cattle and their environment."}
+	}}

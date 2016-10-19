@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1002",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Niemistö, Pentti.
+  "
+	}
+	},
+	"dct:title":{"value":"Effect of growing density on biomass and stem volume growth of downy birch stands on peatland in Western and Northern Finland.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"stand density"},
+	{"value":"silviculture"},
+	{"value":"energy-wood"},
+	{"value":"yields"},
+	{"value":"thinning"},
+	{"value":"crown"},
+	{"value":"pulpwood"},
+	{"value":"mortality"},
+	{"value":"fuelwood"},
+	{"value":"suometsät"}
+	],
+	"bibo:doi":"10.14214/sf.1002",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000488",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000488",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

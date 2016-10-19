@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biosensors, colorimetric tests and chemometrics to check antioxidant and prooxidant properties of several animal feeds"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591940",
+	"dct:identifier":"US201301591940",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a28.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Campanella, L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gregori, E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marini, F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tomassetti, M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In the framework of a quest for cheap and rapid instrumental tools to check the health and hygiene characteristics of animal feeds, we designed suitable methods which allow assessment of the total antioxidant capacity and the state of peroxidation of animal feeds and can be used to direct works in the livestock feed sector towards the enhancement of production and processing techniques. Two methods (one based on an amperometric biosensor, the other colorimetric) are proposed for the determination of total antioxidant capacity, and further two (both colorimetric) for peroxide assay. The total polyphenol content was also determined (using a tyrosinase biosensor) as an attempt to quantify the contribution made by polyphenols to the total antioxidant capacity. Analysed feed samples were: poultry, pig, bovine and calve feeds, all reference samples from an European Consortium and others, like maize, barley, bean, alfalfa and its hay, grass hay and a mixture of barley, maize and bean, supplied by a local stockbreeder. Complementary information was supplied by the different methods. Superoxide dismutase biosensor method determines the total antioxidant capacity without quantifying individual substances. Tyrosinase biosensor determines the polyphenolic pool that frequently is the main responsible for the antioxidant capacity of plants. OXY-Adsorbent test evaluates the antioxidant power of the sample by titration with HClO. Finally, d-ROMs test and “lipoperoxides” test, both colorimetric, evaluate the concentration of the prooxidant species in the aqueous and the lipid fractions, respectively. PCA was then used to elucidate the characteristics of the different samples and the relations among the measured experimental variables."}
+	}}

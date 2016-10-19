@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of short duration partial rootzone drying (PRD) on soilless grown tomato crop.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Dasgan, H. Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kusvuran, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kirda, C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"watering"},
+	{"value":"roots"},
+	{"value":"plant developmental stages"},
+	{"value":"crop yield"},
+	{"value":"Solanum melongena"},
+	{"value":"hydroponics"},
+	{"value":"tomatoes"},
+	{"value":"irrigation"},
+	{"value":"use efficiency"},
+	{"value":"nutrient solutions"},
+	{"value":"tomaatti"},
+	{"value":"soilless culture"},
+	{"value":"vesiviljely"},
+	{"value":"kastelu"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000400",
+	"dct:identifier":"FI2016000400",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Iron bioavailability and utilization in rats fed cassava fufu flour diets fortified with different sources of iron.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sanni, S. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oguntona, C. R. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bamgbose, A. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrient availability"},
+	{"value":"laboratory animals"},
+	{"value":"tapioca"},
+	{"value":"diet"},
+	{"value":"cassava"},
+	{"value":"flours"},
+	{"value":"animal models"},
+	{"value":"bioavailability"},
+	{"value":"iron"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000013",
+	"dct:identifier":"FI2016000013",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

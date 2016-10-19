@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Regularities and patterns in the spring phenology of some boreal trees.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Linkosalo, Tapio.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Alnus incana"},
+	{"value":"kukinta"},
+	{"value":"Betula"},
+	{"value":"kehitys"},
+	{"value":"flowering"},
+	{"value":"time series analysis"},
+	{"value":"aikasarjat"},
+	{"value":"phenology"},
+	{"value":"harmaaleppä"},
+	{"value":"sprouting"},
+	{"value":"koivut"},
+	{"value":"Alnus glutinosa"},
+	{"value":"tervaleppä"},
+	{"value":"Populus tremula"},
+	{"value":"mänty"},
+	{"value":"haapa"},
+	{"value":"mallit"},
+	{"value":"Pinus sylvestris"},
+	{"value":"silmut"},
+	{"value":"Betula sp."},
+	{"value":"fenologia"},
+	{"value":"climate"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001247",
+	"dct:identifier":"FI2016001247",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

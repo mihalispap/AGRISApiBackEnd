@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Enhanced possibilities for analyzing tree structure as provided by an interface between different modelling systems /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Dzierzon, Helge.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sievänen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kurth, Winfried.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Perttunen, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sloboda, Branislav.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"simulointi"},
+	{"value":"metsiköt"},
+	{"value":"kasvu"},
+	{"value":"puut"},
+	{"value":"forest stands"},
+	{"value":"matemaattiset mallit"},
+	{"value":"forest trees"},
+	{"value":"mathematical models"},
+	{"value":"simulation"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000221",
+	"dct:identifier":"FI2016000221",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

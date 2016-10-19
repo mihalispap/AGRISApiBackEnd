@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Neural Networks for predicting fracture toughness of individual wood samples.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Samarasinghe, Sandhya.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kulasiri, Don.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jamieson, Triston.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"video imaging"},
+	{"value":"Pinus radiata"},
+	{"value":"fractures"},
+	{"value":"neuroverkot"},
+	{"value":"halkeamat"},
+	{"value":"Neural networks"},
+	{"value":"strain energy release rate"},
+	{"value":"sitkeys"},
+	{"value":"murtumat"},
+	{"value":"ominaisuudet"},
+	{"value":"fracture toughness"},
+	{"value":"puu"},
+	{"value":"New Zealand"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000668",
+	"dct:identifier":"FI2016000668",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

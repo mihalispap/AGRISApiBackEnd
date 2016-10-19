@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"APLICAÇÃO DE ÁCIDO GIBERÉLICO E PACLOBUTRAZOL NA CULTURA DA SOJA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":72,
+	"bibo:volume":1,
+	"bibo:pageEnd":79,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00001",
+	"dct:identifier":"BR2016H00001",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/234",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Giovana Carolina Dourado Cruciol"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marli Tieme Koyanagui"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thiago Barbosa Batista"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Flávio Ferreira da Silva Binotti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maria Luiza Nunes Costa"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"As giberelinas são associadas à promoção do crescimento do caule e suaaplicação na planta pode induzir a um aumento significativo na sua altura. O paclobutrazolé considerado regulador de crescimento utilizado na agricultura com finalidade de ...",
+	"xml:lang":"por"
+	}
+	}}

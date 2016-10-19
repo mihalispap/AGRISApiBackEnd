@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The cost competitiveness of conifer stumps in the procurement of forest chips for fuel in Southern and Northern Finland.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"kannot"},
+	{"value":"lämpöarvo"},
+	{"value":"heating value"},
+	{"value":"fuelwood"},
+	{"value":"laatu"},
+	{"value":"procurement"},
+	{"value":"pre-grinding"},
+	{"value":"energiapuu"},
+	{"value":"kustannustehokkuus"},
+	{"value":"hankinta"},
+	{"value":"delimbed stems"},
+	{"value":"quality"},
+	{"value":"purchasing"},
+	{"value":"stumps"}
+	],
+	"bibo:doi":"10.14214/sf.1280",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002116",
+	"dct:identifier":"FI2016002116",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1280",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Laitila, Juha,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ranta, Tapio,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Asikainen, Antti,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jäppinen, Eero,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korpinen, Olli-Jussi,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

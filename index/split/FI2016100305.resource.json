@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-99.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Genotypic variations in physiological deterioration of cassava (Manihot esculenta Crantz) storage roots under inland valley conditions"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ekanayake, Indira J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lyasse, Omar (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100305",
+	"dct:identifier":"FI2016100305",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Cassava (Manihot esculenta Crantz) is an important starchy food crop in the inland valley ecosystem areas in West Africa where harvesting and marketing infrastructure is not optimal and post harvest losses are high. An attempt was therefore made to assess the genotypic variability of physiological deterioration (PD) of storage roots obtained from plants grown under inland valley field conditions. Cassava storage roots showed rapid PD within 48 hours after harvesting due to wounding related discoloration. After 6-months field growth under hydro-morphic conditions during the dry season, roots were harvested and the root PD scores obtained visually at 24 and 48 h after was compared among 60 genotypes. The differences in root PD reaction between these genotypes were highly significant (P<0.001) at 24 h after harvest. Genotypic differences in root PD (at 24h after) were expressed more in the distal than the proximal region of roots. At 48 h after harvest, however the genotypic differences became apparent only at proximal ends of roots. Location of the field with respect to water regime significantly (P<0.001) affected the root PD response 24 h after harvest. Rapid PD test was appropriate to differentiate the genotypic differences 24 and 48-h after root harvest. This study provides an early visual scoring method on cassava root quality and thereby aids to detect a key part of post harvest deterioration losses incurred."}
+	}}

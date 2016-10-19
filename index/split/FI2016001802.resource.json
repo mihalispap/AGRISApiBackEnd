@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Alterations in growth and canopy architecture among dwarf, semidwarf and tall oat lines grown under northern conditions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mäkelä, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Muurinen, Susanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kääpiökaura"},
+	{"value":"plant habit"},
+	{"value":"kaura"},
+	{"value":"lajikkeet"},
+	{"value":"dwarfs"},
+	{"value":"yield components"},
+	{"value":"sprouting"},
+	{"value":"versominen"},
+	{"value":"canopy"},
+	{"value":"pituus"},
+	{"value":"kasvu"},
+	{"value":"Avena sativa"},
+	{"value":"lehtipinta-ala"},
+	{"value":"satokomponentit"},
+	{"value":"plant anatomy"},
+	{"value":"sadonmuodostus"},
+	{"value":"oats"},
+	{"value":"leaf area"},
+	{"value":"leaf area index"},
+	{"value":"puolikääpiökaura"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001802",
+	"dct:identifier":"FI2016001802",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

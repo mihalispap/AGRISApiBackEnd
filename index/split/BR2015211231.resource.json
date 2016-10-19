@@ -1,0 +1,82 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Comportamento nutricional de oliveiras com a aplicação de fertilizante organomineral ",
+	"xml:lang":"por"
+	},
+	{"value":"Nutrition behavior of olive trees with the application of organomineral fertilizer",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilization",
+	"xml:lang":"eng"
+	},
+	{"value":"plant nutrition",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"6/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015211231",
+	"dct:identifier":"BR2015211231",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.comunicatascientiae.com.br/comunicata/article/download/721/321",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Carvalho Raoni Pereira de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moreira  Rodrigo Amato"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cruz  Maria do Céu Monteiro da"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira Adelson Francisco de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fagundes Miriã Cristina Pereira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal dos Vales do Jequitinhonha e Mucuri, Campus JK, Diamantina, MG Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal dos Vales do Jequitinhonha e Mucuri, Campus JK, Diamantina, MG Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal dos Vales do Jequitinhonha e Mucuri, Campus JK, Diamantina, MG Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Empresa de Pesquisa Agropecuária de Minas Gerais, Campus da UFLA, Lavras, MG Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal dos Vales do Jequitinhonha e Mucuri, Campus JK, Diamantina, MG Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"75%"},
+	{"value":"50%"},
+	{"value":"The application of organomineral fertilizers has been used to reach the nutrient demand of plants, because this practice can reduce the need for chemical sources, favoring the improvement of soil structure and utilization of nutrients by plants. Thus, this study was done to evaluate the nutritional behavior of two olive varieties with reduction of chemical fertilization and application of organomineral fertilizer. The research was conducted in the city of Diamantina, Minas Gerais, Brazil. Three-years-old olive tree varieties ‘Barnea’ and ‘Grappolo 541’, cultivated at a spacing of 5 m between rows and 3 m between plants on Quartzarenic Neosol were evaluated. The 4 x 2 factorial design was used, being the factors four fertilization and two varieties. Fertilization consisted of 100%, 75%, 50%, 0% of mineral fertilization recommended for olive tree, distributed in a randomized block design with three blocks and three plants per plot. In all the olive trees were applied three liters oforganomineral fertilizer. To assess the levels of nutrients, soil and leaf samples were taken before and at eight months after the treatments. The application of threes liters of organomineral fertilizer provided appropriate nutrient levels in the leaves of olive tree varieties ‘Barnea’ and ‘Grappolo 541’ with 100% of reduction of chemical fertilizer.",
+	"xml:lang":"eng"
+	},
+	{"value":"0% da adubação mineral recomendada para a oliveira, distribuídas em blocos casualizados, com três blocos e três plantas por parcela. Em todas as oliveiras foram aplicados três litros de fertilizante organomineral. Para avaliar os teores de nutrientes, as amostras foliares e de solo foram retiradas antes da adubação e aos oito meses após a aplicação dos tratamentos. A aplicação de três litros de fertilizante organomineral proporcionou teores adequados de nutrientes nas folhas das variedades de oliveira ‘Barnea’ e ‘Grappolo 541’ com a redução de 100% da adubação química."},
+	{"value":"A aplicação de fertilizantes organominerais vem sendo utilizada para atender a demanda nutricional das plantas, pois essa prática pode reduzir a necessidade de fontes químicas, favorecendo amelhoria da estrutura do solo e a utilização de nutrientes pelas plantas. Nesse sentido, o trabalho foi realizado com o objetivo de avaliar o comportamento nutricional de duas variedades de oliveira com redução da adubação química e aplicação do fertilizante organomineral. A pesquisa foi conduzida no município de Diamantina, Minas Gerais, Brasil. Foram avaliadas duas variedades de oliveira, ‘Barnea’ e ‘Grappolo 541’, com três anos de idade, implantadas no espaçamento de 5 m entre linhas e 3 m entre plantas, em Neossolo Quartzarênico. Utilizou-se o esquema fatorial 4 x 2, sendo os fatores quatro adubações e duas variedades. As adubações constituíram-se de 100%",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/  |z Silva Fennica",
+	"dct:language":"eng",
+	"dct:title":{"value":"Determining the impact of some wood characteristics on the performance of a mobile chipper.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Spinelli, Raffaele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Magagnotti, Natascia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Paletto, Giuseppe.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Preti, Christian.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content"},
+	{"value":"mobile equipment"},
+	{"value":"biomass"},
+	{"value":"fuel consumption"},
+	{"value":"consumption"},
+	{"value":"fuelwood"},
+	{"value":"chipping"},
+	{"value":"wood chips"},
+	{"value":"productivity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000167",
+	"dct:identifier":"FI2016000167",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

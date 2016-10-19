@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The agricultural specialists’ attitudes toward alternative sustainable agricultural paradigms: A Galileo method analysis"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rezaei-Moghaddam, K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karami, E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Woelfel, J. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100193",
+	"dct:identifier":"FI2016100193",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In an attempt to provide an agenda for sustainable agricultural development, the aim of this paper is to use Galileo methodology to illustrate the attitudes of Agricultural Organization (Jehad-e-Keshavarzi) specialists of two southern province of Iran towards the basic premises of Ecological Modernization (EM) and De-Modernization (DM) based sustainable agricultural paradigms. Data were collected from 189 agricultural specialists using a systematic random sampling method. Cognitive maps of attitude toward the two sustainable agricultural development paradigms were developed. It is concluded that there is a great distance between present and ideal agriculture of Iran. While present Iran’s agriculture is more close to the premises of DM, agricultural specialists portray the future agricultural polices around EM-based agricultural paradigm."}
+	}}

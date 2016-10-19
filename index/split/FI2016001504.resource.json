@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Mixing of litter and soil by earthworms: effects on carbon and nitrogen dynamics - a laboratory experiment.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Scheu, Stefan.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"ravinnekierto"},
+	{"value":"maaperäeläimistö"},
+	{"value":"laboratoriokokeet"},
+	{"value":"degradation"},
+	{"value":"cycling"},
+	{"value":"hiili"},
+	{"value":"hiilen kierto"},
+	{"value":"plant litter"},
+	{"value":"nitrogen"},
+	{"value":"maaperäeliöstö"},
+	{"value":"soil fauna"},
+	{"value":"lierot"},
+	{"value":"Lumbricidae"},
+	{"value":"maaperä"},
+	{"value":"carbon"},
+	{"value":"mixing"},
+	{"value":"aineiden kierto"},
+	{"value":"hajoaminen"},
+	{"value":"typpi"},
+	{"value":"ravinteet"},
+	{"value":"mineralisoituminen"},
+	{"value":"karike"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    International Colloquium on Soil Zoology
+    (11 :
+    1992 :
+    Jyväskylä)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001504",
+	"dct:identifier":"FI2016001504",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

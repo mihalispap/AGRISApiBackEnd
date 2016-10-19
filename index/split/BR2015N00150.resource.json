@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"COMPOSIÇÃO DA ICTIOFAUNA DAS BACIAS HIDROGRÁFICAS DO RIO GRANDE DO NORTE, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":126,
+	"bibo:volume":4,
+	"bibo:pageEnd":131,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00150",
+	"dct:identifier":"BR2015N00150",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/928",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wallace Silva do Nascimento"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nirlei Hirachy Costa Barros"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Andréa Soares de Araújo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Liliane de Lima Gurgel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhaskara Canan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wagner Franco Molina"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ricardo S. Rosa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sathyabama Chellappa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Norte"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Serviço Nacional de Aprendizagem Industrial, SENAI DR-RN"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal da Paraíba"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<span style=\"font-size: 11.0pt; line-height: 115%; font-family: \">Aqui é apresentado um extenso levantamento atualizado da composição das espécies de peixes de água doce das bacias hidrográficas do Estado do Rio Grande do Norte. A compilação</span><span style=\"font-size: 11pt; line-height: 115%; font-family: 'Times New Roman', serif; background-position: initial initial; background-repeat: initial initial;\"> foi realizada </span><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \">a partir de levantamentos prévios e dados da literatura sobre o registro das espécies, reportadas no período de 1983 a 2013. Foram identificadas 51 espécies, distribuídas em </span><span class=\"hps\"><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \" lang=\"PT\">dez</span></span><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \" lang=\"PT\"> <span class=\"hps\">ordens</span></span><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \"> (Cypriniformes, Characiformes, Perciformes, Siluriformes, Synbranchiformes, Cyprinodontiformes, Gymnotiformes, Gasterosteiformes, </span><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \">Pleuronectiformes e Elopiformes</span><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \">) e 25 famílias (Characidae, Curimatidae, Anostomidae, Prochilodontidae, Erythrinidae, Crenuchidae, Cichlidae, Sciaenidae, Eleotridae, Gobiidae, Mugilidae, Gerreidae, Centropomidae, Auchenipteridae, Heptapteridae, Loricariidae, Callichthydae, Synbranchidae, Cyprinidae, Poeciliidade, Rivulidae, Gymnotidae, Syngnathidae, Achiridae</span><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \"> e Megalopidae</span><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \">). Um total de 32 espécies são autóctones, nove são alóctones e dez que também habitam ambientes marinhos/estuarinos. Dentre as ordens encontradas, Characiformes </span><span class=\"hps\"><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \" lang=\"PT\">foi a mais representativa</span></span><span class=\"shorttext\"><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \" lang=\"PT\"> </span></span><span class=\"hps\"><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \" lang=\"PT\">com</span></span><span class=\"shorttext\"><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \" lang=\"PT\"> </span></span><span class=\"hps\"><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \" lang=\"PT\">42</span></span><span class=\"shorttext\"><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \" lang=\"PT\">% do total de espécies, seguida por</span></span><span style=\"font-size: 11.0pt; line-height: 115%; font-family: \"> Perciformes 30%, Siluriformes 12% e Synbranchiformes 8%. A família mais representativa foi  Characidae com 24%, seguida por Cichlidae com 14% das espécies. O levantamento apresentado, embora preliminar, possibilita o reconhecimento da fauna íctica local e a extensão de ocorrência de espécies introduzidas, contribuindo para futuros planos de manejo desta fauna.</span>",
+	"xml:lang":"por"
+	}
+	}}

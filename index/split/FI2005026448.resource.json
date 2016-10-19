@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Resource use efficiency of small-holder farmers: The case of cassava producers in Cross River State, Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026448",
+	"dct:identifier":"FI2005026448",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abang, S. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agom, D. I. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper examined the contributions of small-holder cassava farmers to the food security situation in Nigeria. Specifically, the study analyzed the efficiency of use of resources among the cassava farmers. Collected data were analysed using the ordinary least squares (OLS) regression analysis in addition to allocative efficiencies and resources elasticities. The linear model was the best fit having an R2 of 0.86 with variables farm size, labour and capital. While farm size and capital were significant, labour was not. There was also an inverse relationship between capital and output. The allocative efficiency index for land was found to be high while that of capital and labour was low. The elasticity estimates showed that the resources were inelastic. Strategies aimed at increasing farm size will significantly improve resource efficiencies of small-holder cassava farmers and these still have a significant role to play if we are to achieve food security in Nigeria."}
+	}}

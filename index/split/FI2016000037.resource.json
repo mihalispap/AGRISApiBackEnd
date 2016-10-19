@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Differences in leaf morphology between Quercus petraea and Q. robur adult and young individuals.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Boratynski, Adam.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marcysiak, Katarzyna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lewandowska, Amelia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jasinska, Anna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Iszkulo, Grzegorz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Burczyk, Jaroslaw.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biometria"},
+	{"value":"biodiversity"},
+	{"value":"Quercus petraea"},
+	{"value":"Quercus robur"},
+	{"value":"leaf polymorphism"},
+	{"value":"plant morphology"},
+	{"value":"leaves"},
+	{"value":"lehti"},
+	{"value":"polymorphism"},
+	{"value":"biometry"},
+	{"value":"genetic variation"},
+	{"value":"monimuotoisuus"},
+	{"value":"morphological diversity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000037",
+	"dct:identifier":"FI2016000037",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

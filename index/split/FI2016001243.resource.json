@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil organic carbon in Swedish spruce and pine forests : differences in stock levels and regional patterns.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Stendahl, Johan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Johansson, Maj-Britt.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eriksson, Erik.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nilsson, Åke.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Langvall, Ola.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"puulajit"},
+	{"value":"soil chemistry"},
+	{"value":"kuusi"},
+	{"value":"simulointi"},
+	{"value":"species"},
+	{"value":"forest trees"},
+	{"value":"soil organic matter"},
+	{"value":"hiili"},
+	{"value":"simulation"},
+	{"value":"temperature"},
+	{"value":"mänty"},
+	{"value":"forest management"},
+	{"value":"temperature sum"},
+	{"value":"maaperä"},
+	{"value":"carbon"},
+	{"value":"Pinus sylvestris"},
+	{"value":"soil carbon"},
+	{"value":"metsänhoito"},
+	{"value":"Picea abies"},
+	{"value":"orgaaninen aines"},
+	{"value":"lämpösumma"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001243",
+	"dct:identifier":"FI2016001243",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

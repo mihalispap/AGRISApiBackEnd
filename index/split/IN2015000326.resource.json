@@ -1,0 +1,107 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relationship between hypo-osmotic swelling response of spermatozoa with post-thaw motility in crossbred bulls",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1219,
+	"dc:subject":[
+		{"value":"conservacion biologica",
+	"xml:lang":"esp"
+	},
+	{"value":"conservation biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"congelation",
+	"xml:lang":"fre"
+	},
+	{"value":"semen preservation",
+	"xml:lang":"eng"
+	},
+	{"value":"congelacion",
+	"xml:lang":"esp"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"insemination artificielle",
+	"xml:lang":"fre"
+	},
+	{"value":"conservacion del semen",
+	"xml:lang":"esp"
+	},
+	{"value":"biological preservation",
+	"xml:lang":"eng"
+	},
+	{"value":"conservation du sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"toro",
+	"xml:lang":"esp"
+	},
+	{"value":"freezing",
+	"xml:lang":"eng"
+	},
+	{"value":"taureau",
+	"xml:lang":"fre"
+	},
+	{"value":"inseminacion artificial",
+	"xml:lang":"esp"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"artificial insemination",
+	"xml:lang":"eng"
+	},
+	{"value":"bulls",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1221,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000326",
+	"dct:identifier":"IN2015000326",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chaudhari, C.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prajapati, K.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patel, D.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patel, V.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patel, T.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaudhari, A.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sipai, R.S."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"The relationship between hypo-osmotic swelling test with post-thaw motility in crossbred bulls was studied. The samples with 50% (110) and 60% (43) PTM were examined for HOST. Sperms with various types of curling patterns were considered as reacted and sperms with no swelling/curling were considered as non-reacted. With higher motility the HOS reacted sperms were increased in count. Positive correlation between the % of post thaw motility of spermatozoa and the spermatozoa that reacted to the hypoosmotic swelling test was observed. In addition to post-thaw motility, hypo-osmotic swelling test can be used as a regular mbase test to judge the best quality cryo-preserved semen for artificial insemination programme. Further studies are required to find out the relationship of these two tests with the field fertility.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relative expression of an H19 like gene in stomach and intestine of mouse",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1141,
+	"dc:subject":[
+		{"value":"raton",
+	"xml:lang":"esp"
+	},
+	{"value":"souris",
+	"xml:lang":"fre"
+	},
+	{"value":"intestin",
+	"xml:lang":"fre"
+	},
+	{"value":"mice",
+	"xml:lang":"eng"
+	},
+	{"value":"expresion genica",
+	"xml:lang":"esp"
+	},
+	{"value":"expression des genes",
+	"xml:lang":"fre"
+	},
+	{"value":"intestines",
+	"xml:lang":"eng"
+	},
+	{"value":"gene expression",
+	"xml:lang":"eng"
+	},
+	{"value":"intestinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1142,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000292",
+	"dct:identifier":"IN2015000292",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mohan, N.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, B.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bag, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, G.T."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"In the present study expression of a H19 like gene in the stomach, small and large intestine was studied. Higher transcript concentration of this gene was observed in large intestinal regions over other regions of GIT. The present study could not, however, establish the identity of transcript as H19 itself since nucleotide sequencing was not done. Since the expression of H19 gene with development of tumors and stem cell is known, further studies are required to establish the expression of the gene presently studied and the higher incidence rate of large intestinal tumors in comparison to stomach and small intestine.",
+	"xml:lang":"eng"
+	}
+	}}

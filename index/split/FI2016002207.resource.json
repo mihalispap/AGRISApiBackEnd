@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Proximate analysis and physico-chemical properties of some leguminous seeds (Mucuna veracruz white, Mucuna pruniens utilis and Mucuna rajada).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Amoo, I. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Atasie, V. N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kolawole, O. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content"},
+	{"value":"copper"},
+	{"value":"antinutritional factors"},
+	{"value":"fats"},
+	{"value":"crude protein"},
+	{"value":"Mucuna"},
+	{"value":"lead"},
+	{"value":"carbohydrates"},
+	{"value":"crude fibre"},
+	{"value":"seeds"},
+	{"value":"chemical composition"},
+	{"value":"manganese"},
+	{"value":"mineral content"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002207",
+	"dct:identifier":"FI2016002207",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

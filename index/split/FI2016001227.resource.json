@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Meat and bone meal as nitrogen fertilizer to cereals in Norway /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jeng, Alhaji.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haraldsen, Trond Knapp.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vagstad, Nils.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grønlund, Arne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tveitnes, Steinar.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"luujauho"},
+	{"value":"nitrogen fertilizers"},
+	{"value":"phosphorus"},
+	{"value":"lihajauho"},
+	{"value":"cereals"},
+	{"value":"viljakasvit"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"typpilannoitteet"},
+	{"value":"nitrogen"},
+	{"value":"organic agriculture"},
+	{"value":"lannoitus"},
+	{"value":"meat"},
+	{"value":"pot experimentation"},
+	{"value":"typpi"},
+	{"value":"Norway"},
+	{"value":"astiakokeet"},
+	{"value":"bone meal"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001227",
+	"dct:identifier":"FI2016001227",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

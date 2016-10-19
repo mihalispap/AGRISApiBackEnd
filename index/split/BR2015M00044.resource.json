@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Operação Mãos Limpas: uma análise ética",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Luis Miranda Batista "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cleidilene da Silva Rodrigues da Cunha "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00044",
+	"dct:identifier":"BR2015M00044",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"A falta de princípios éticos e morais é um problema da classe política de qualquer país e tem como consequência a corrupção, e quando denunciados geram grande repercussão na sociedade o que leva a degradação da Instituição Política e do Estado. Neste contexto, essa pesquisa teve por objetivo fazer uma análise ética da Operação Mãos Limpas ocorrida no Estado do Amapá, no ano de 2010. A pesquisa apoiou-se em dados bibliográficos de documentos legais e científicos, os quais tiveram como embasamento os princípios: éticos, morais e políticos. Dedicamos especial ênfase aos autores Vasquez (1995) e Bittar (2002). Através da análise quantitativa e qualitativa, obtivemos entrevistas da população de modo em geral bem como de formadores de opinião, tais como: advogados, jornalistas, representantes políticos, professores e acadêmicos do município de Macapá, que propiciaram o desenvolvimento da pesquisa. Os resultados apresentados evidenciam que a falta de princípios éticos e morais trazem precariedade para o estado e grandes consequências para a sociedade, e devido a esses e outros fatores desencadeou-se a Operação Mãos Limpas a qual teve uma grande importância para o combate à corrupção e que deu novos rumos a eleição de 2010.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

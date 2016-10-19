@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of Brazilian wild Hevea germplasm in India for cold tolerance: Variability and character associations in juvenile growth phase",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":177,
+	"dc:subject":[
+		{"value":"correlations"},
+	{"value":"wild accessions"},
+	{"value":"rank sum"},
+	{"value":"tolerance au froid",
+	"xml:lang":"fre"
+	},
+	{"value":"tolerancia al frio",
+	"xml:lang":"esp"
+	},
+	{"value":"hevea brasiliensis",
+	"xml:lang":"esp"
+	},
+	{"value":"cold tolerance",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":181,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000633",
+	"dct:identifier":"IN2015000633",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prabhakara Rao, G"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saji, T.Abraham"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reghu, C. P."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Natural rubber (Hevea brasiliensis), cultivation has been extended to non-traditional regions due to limited scope of further expansion in traditional rubber growing areas in India. These areas are often confronted with various abiotic stresses especially temperature extremes. A set of 18 wild accessions, two popular clones along with two control clones RRIM 600 and Haiken 1, were evaluated in the juvenile growth phase at the Regional Experiment Station of the Rubber Research Institute of India, Nagrakata, West Bengal, a sub-Himalayan cold prone region of India. The genotypes exhibited highly significant clonal differences (P0.01) for all the eight quantitative traits. During the pre-winter period, the number of leaves per plant ranged from 14.2 (AC 3074) to 47.6 (MT 2229). In the post winter period maximum leaves per plant was recorded in MT 900 (29.27) comparable to the control clone Haiken 1 (28.20), while the accession AC 3293 recorded very high loss in leaves. An increase in number of whorls per plant during winter period was noted in MT 1020 as compared to Haiken 1 (0.80). Increment of plant height during winter ranged from 6.53 cm (AC 3293) to 45.01 cm (MT 1020) as compared to the control clone Haiken 1 (40.73 cm). Girth ranged from 5.36 cm (AC 3293) to 11.53 cm (MT 915) while the control clone Haiken 1 recorded a girth of 10.50 cm. Girth was significantly correlated with the other growth traits. Based on rank sum values, the accessions were ranked for overall performance and the top 20 per cent of the potential accessions showing early growth vigour were identified. These can be used for the development of cold tolerant clones.",
+	"xml:lang":"eng"
+	}
+	}}

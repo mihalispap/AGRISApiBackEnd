@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of part-time grazing and indoor silage feeding on milk production /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sairanen, Auvo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khalili, Hannele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Virkajärvi, Perttu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hakosalo, Jenni.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"controlled grazing"},
+	{"value":"grazing"},
+	{"value":"lypsykarja"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"säilörehu"},
+	{"value":"milk yield"},
+	{"value":"lehmät"},
+	{"value":"maitotuotos"},
+	{"value":"laiduntaminen"},
+	{"value":"haylage"},
+	{"value":"silage"},
+	{"value":"supplementary feeding"},
+	{"value":"väkirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000698",
+	"dct:identifier":"FI2016000698",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

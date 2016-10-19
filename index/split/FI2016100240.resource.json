@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-55.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Bio-intensive pest management (BIPM) in major vegetable crops: An Indian perspective"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dhandapani, N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shelkar, Umeshchandra R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Murugan, M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100240",
+	"dct:identifier":"FI2016100240",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Vegetables are the major constituents of Indian diet. However, there are several factors that limits its productively, mainly insect pests and diseases. Biointensive pest management (BIPM) is essentially a component of integrated pest management. It will help to reduce the dependence on chemical pesticides and ecological deterioration. BIPM includes biopesticides derived from microbials, parasitoids, predators, botanicals and all conventional non-chemical methods of pest control. Indian farming, which is going through a transition phase, is slowly but surely adopting the ways and means of pest management for sustainable agriculture."}
+	}}

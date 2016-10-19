@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e22.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of water deficit on dry matter remobilization and grain filling trend in three spring barley genotypes"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ebadi, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sajed, K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asgari, R. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100480",
+	"dct:identifier":"FI2016100480",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"To investigate the effects of water deficit stress on dry matter remobilization and grain filling trend in barley a split-plot experiment based on Randomized Complete Block (RCB) design with three replications was conducted at Agricultural Research Station of Ardebil, Iran, in 2004. Water deficit treatments included no-stress (full irrigation), water withholding after anthesis and severe water deficit stress (no irrigation), substituted in main plots, and barley genotypes, LB-Iran, N-81-7 and N-81-14, were placed in sub-plots. With increase in water deficit severity, the amount of dry matter remobilization from various organs of plant to grain was increased. The contribution of dry matter remobilization in severe stress and water deficit sress after anthesis was 82.5 and 36.5 percent relative to full irrigation treatment. This result showed that water deficit stress had a direct effect on reduction of the grain yield. The LB-Iran genotype in all of three water deficit stresses had higher value than other genotypes, although the grain yield of this genotype under water stress condition was 60 percent lower than under full irrigation condition."}
+	}}

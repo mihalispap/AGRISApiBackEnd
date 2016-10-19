@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of tropical feedstuffs for carbohydrate and protein fractions by CNCP system",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1154,
+	"dc:subject":[
+		{"value":"tortas oleaginosas",
+	"xml:lang":"esp"
+	},
+	{"value":"granos pienso",
+	"xml:lang":"esp"
+	},
+	{"value":"fourrage grain",
+	"xml:lang":"fre"
+	},
+	{"value":"proximate composition",
+	"xml:lang":"eng"
+	},
+	{"value":"tourteau d'oleagineux",
+	"xml:lang":"fre"
+	},
+	{"value":"composition globale",
+	"xml:lang":"fre"
+	},
+	{"value":"grain feed",
+	"xml:lang":"eng"
+	},
+	{"value":"mineral content",
+	"xml:lang":"eng"
+	},
+	{"value":"composicion aproximada",
+	"xml:lang":"esp"
+	},
+	{"value":"roughage",
+	"xml:lang":"eng"
+	},
+	{"value":"teneur en elements mineraux",
+	"xml:lang":"fre"
+	},
+	{"value":"forraje grosero",
+	"xml:lang":"esp"
+	},
+	{"value":"fourrage grossier",
+	"xml:lang":"fre"
+	},
+	{"value":"oilseed cakes",
+	"xml:lang":"eng"
+	},
+	{"value":"contenido mineral",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1160,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000295",
+	"dct:identifier":"IN2015000295",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gupta, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kundu, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jha, N."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"Seventeen feed ingredients comprising protein sources (linseed cake-LSC, mustard seed cake-MSC, cotton seed cake-CSC, soybean cake-SBC and groundnut cake-GNC), energy sources (deoiled rice bran-DORB, maize grain-MG, barley grain-BG and wheat bran-WB), legume roughages (berseem, cowpea hay-CH, Stylosanthes hamata-SH and Acacia catechu-AC) and non-legume roughages (ammoniated wheat straw-AWS, guinea grass-GG, maize fodder -MF and sorghum fodder-SF) were evaluated for carbohydrate and nitrogen fractions as well as mineral contents. In CNCP system, crude protein content of feed is partitioned into 5 fractions (A, B 1 , B 2 , B  and C) and carbohydrate into 4 fractions (A, B 1 , B 2 3  and C) according to degradation rates. The proximate composition, cell wall constituents, carbohydrate and nitrogen fractions of different feeds vary significantly amongst the groups. The CHO, C , and Cc fractions of carbohydrate were higher in energy, while C A  and C B2 NSC  fraction of CHO were more in protein sources. Total CHO and C B2  fraction of carbohydrates were more in non-legume while C A , C  and Cc fractions were higher in legume roughages. Amongst the studied feedstuffs P A  and P B NSC  fractions of protein were higher in protein sources, while P fractions were higher in energy sources. Legumes exhibited higher contents of P B2 4 , C B1 B2 , P B3 , while non-legume had higher P , P B1  and P  fraction of protein. Concentration of macro (%) and micro minerals (ppm) of feed stuffs differed across feeds (energy and protein) and roughages (legumes and non legumes). B3 It is concluded from the present study that feedstuffs chemical properties for carbohydrate and nitrogen fractions are unique and different. Therefore feed ingredients selection based on CNCPS evaluation will be more logical for formulating efficient diets for livestock.",
+	"xml:lang":"eng"
+	}
+	}}

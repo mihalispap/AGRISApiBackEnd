@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Environmental pollution by heavy metals from some industrial effluents at Sharada, Kano, Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ahmed, Ismail.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mukhtar, M. Dauda.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kawo, A. Hassan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"industrial wastes"},
+	{"value":"waste management"},
+	{"value":"Nigeria"},
+	{"value":"pollutants"},
+	{"value":"pollution"},
+	{"value":"heavy metals"},
+	{"value":"public health"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002027",
+	"dct:identifier":"FI2016002027",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of stage of harvest on the quality of cardamom(Elettaria cardamomum Maton)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":261,
+	"dc:subject":[
+		{"value":"cardamom oil,stage of harvest"},
+	{"value":"quality",
+	"xml:lang":"eng"
+	},
+	{"value":"calidad",
+	"xml:lang":"esp"
+	},
+	{"value":"qualite",
+	"xml:lang":"fre"
+	},
+	{"value":"elettaria cardamomum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":263,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000650",
+	"dct:identifier":"IN2015000650",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sreekrishna Bhat, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sudarshan, M.R"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

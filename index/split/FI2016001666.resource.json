@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Destroying a path to the past - the loss of culturally scarred trees and change in forest structure along Allmunvägen, in mid-west boreal Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ericsson, Tysk Staffan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Östlund, Lars.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Andersson, Rikard.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"history"},
+	{"value":"forests"},
+	{"value":"metsähistoria"},
+	{"value":"polut"},
+	{"value":"metsikön rakenne"},
+	{"value":"puut"},
+	{"value":"dendrochronology"},
+	{"value":"dendrokronologia"},
+	{"value":"Sweden"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001666",
+	"dct:identifier":"FI2016001666",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

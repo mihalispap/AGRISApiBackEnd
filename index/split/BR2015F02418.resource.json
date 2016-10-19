@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Crop-livestock-forest integration systems in Minas Gerais",
+	"xml:lang":"eng"
+	},
+	{"value":"   Sistemas de integração lavoura-pecuária-floresta em Minas Gerais ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"systems",
+	"xml:lang":"eng"
+	},
+	{"value":"brachiaria",
+	"xml:lang":"eng"
+	},
+	{"value":"integration",
+	"xml:lang":"eng"
+	},
+	{"value":"eucalyptus",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02418",
+	"dct:identifier":"BR2015F02418",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1403618516.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"GONTIJO NETO, M.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VIANA, M.C.M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALVARENGA, R.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, E.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SIMÃO, E.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CAMPANHA, M.M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Systems with integrated activities on farms provide positive effects on production, agricultural areas, and especially, for farmers. In this sense, we highlight the benefits of integrated crop-livestock-forest in the state of Minas Gerais, where much of farmers practice monoculture and depends on the production versatility for maintenance activities in the fields. In the article below, we discuss aspects related to the integrated production of annual crops, such as corn, soy, beans, rice, sorghum and millet, with forest, and forage species, aiming at the production of grain, maintaining the supply of food for cattle, for a longer period, and timber production. The techniques presented take into account property characteristics, agronomic factors, economic and social. Besides the technical gains, properties with integrated activities contribute to sustainable production and social welfare in the agricultural environment, since no protection to environmental resources such as water, soil organisms beneficial macrobiotic, insects, other organisms that act as natural enemies, among others. Additionally, the activities enable more efficient use of resources the landowner, mostly hand labor. Are presents recent research results that prove the positives points, as well as technical details about the organisms studied and future management systems, implementing and maintaining of this technology.",
+	"xml:lang":"eng"
+	},
+	{"value":"Os sistemas de integração de atividades, em propriedades agropecuárias, possibilitam uma série de efeitos positivos à produção, à região e, principalmente, aos agricultores. Nesse sentido, destacam-se os benefícios da integração lavoura-pecuária-floresta, em Minas Gerais, onde boa parte dos agricultores pratica a monocultura e depende da versatilidade de produção para manutenção das atividades nos campos. No artigo abaixo, são discutidos aspectos relacionados à produção integrada de culturas anuais, como milho, soja, feijão, arroz, sorgo e milheto, com espécies florestais e forrageiras, visando à produção dos grãos, manutenção da oferta de alimento para o gado, por período maior, e produção de madeira. As técnicas apresentadas levam em consideração características das propriedades, fatores agronômicos, econômicos e sociais. Além dos ganhos técnicos, as propriedades com atividades integradas contribuem para a sustentabilidade de produção e para o bem estar social no meio agrícola, uma vez que há proteção a recursos do meio ambiente, como a água, a microbiota edáfica benéfica, insetos, outros organismos que atuam como inimigos naturais, dentre outros. Adicionalmente, as atividades possibilitam a otimização na utilização dos recursos da propriedade, principalmente a mão-de-obra. São apresentados resultados de pesquisas recentes que comprovam os pontos positivos, assim como detalhes técnicos sobre os organismos estudados e futuros sistemas de manejo, aplicação e manutenção da tecnologia.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Leaf morphological and physiological responses of Quercus aquifolioides along an altitudinal gradient /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Li, Chunyang.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, Xuejiang.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu, Xingliang.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Luukkanen, Olavi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Berninger, Frank.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"leaf nitrogen content"},
+	{"value":"stomata"},
+	{"value":"nitrogen content"},
+	{"value":"isotopes"},
+	{"value":"lehtipinta-ala"},
+	{"value":"carbon"},
+	{"value":"specific leaf area"},
+	{"value":"isotoopit"},
+	{"value":"typpi"},
+	{"value":"hiili"},
+	{"value":"leaf area"},
+	{"value":"leaves"},
+	{"value":"Quercus aquifolioides"},
+	{"value":"lehti"},
+	{"value":"carbon isotope composition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001685",
+	"dct:identifier":"FI2016001685",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

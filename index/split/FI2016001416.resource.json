@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of growth prediction errors on the expected losses from forest decisions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pietilä, Ilona.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Annika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkinen, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mehtätalo, Lauri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"growth prediction"},
+	{"value":"forecasting"},
+	{"value":"forest inventories"},
+	{"value":"updating"},
+	{"value":"forest management"},
+	{"value":"metsä̈ninventointi"},
+	{"value":"kasvu"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"forest information"},
+	{"value":"ennustaminen"},
+	{"value":"inoptimality loss"},
+	{"value":"epävarmuus"},
+	{"value":"uncertainty"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001416",
+	"dct:identifier":"FI2016001416",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Using mixed estimation for combining airborne laser scanning data in two different forest areas.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Suvanto, Aki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maltamo, Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"area-based method"},
+	{"value":"forest inventories"},
+	{"value":"uudelleenkäyttö"},
+	{"value":"aerial surveying"},
+	{"value":"ilmakuvaus"},
+	{"value":"laserkeilaus"},
+	{"value":"metsä̈ninventointi"},
+	{"value":"regressioanalyysi"},
+	{"value":"airborne laser scanning"},
+	{"value":"lasers"},
+	{"value":"regression analysis"},
+	{"value":"mixed estimation"},
+	{"value":"kartoitus"},
+	{"value":"remote sensing"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001383",
+	"dct:identifier":"FI2016001383",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

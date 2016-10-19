@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Estradiol-17P levels in the ovarian follicular fluid of ankamali pigs",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":184,
+	"dc:subject":[
+		{"value":"oestrogens",
+	"xml:lang":"eng"
+	},
+	{"value":"foliculos ovaricos",
+	"xml:lang":"esp"
+	},
+	{"value":"estrogenos",
+	"xml:lang":"esp"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"ovarian follicles",
+	"xml:lang":"eng"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"follicule ovarien",
+	"xml:lang":"fre"
+	},
+	{"value":"oestrogene",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":186,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000421",
+	"dct:identifier":"IN2015000421",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Narayan, Sowmya"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Swamy, M. Narayana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Isloor, Srikrishna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Veena, T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayakumar, K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A study was carried out to determine the estradiol-17Ã¢ levels in the follicular fluid in relation to the size of ovarian antral follicles in Ankamali pigs. The ovaries were collected from apparently healthy, non pregnant and cyclic Ankamali pigs in the age group of 2 to 5 years which were brought for slaughtering at civil meat processing and production centre, Frazer town, Bangalore during the months of February to May, 2010. The surface antral follicles on the ovaries were classified into three groups on the basis of their diameter, viz., Group I (small, 3 mm), Group II (medium, 3â6.9 mm) and Group III (large, 7â12 mm). Follicular fluid was aspirated and pooled separately from these three groups of follicles, centrifuged and the supernatant was stored at −20Â°C until used for estimation of estradiol-17Ã¢ levels by enzyme linked immunosorbent assay. The results of the present study revealed that the estradiol-17Ã¢ levels were significantly (P0.05) higher in the large follicles (13.87 Â± 0.32 ng/ml) compared to small follicles (11.13 Â± 0.61 ng/ml). But, the estradiol-17Ã¢ levels in the medium follicles (12.83 Â± 0.43 ng/ml) differed non-significantly when compared with small and large follicles. It was concluded that the levels of estradiol-17Ã¢ in the ovarian follicular fluid of Ankamali pig increases with the size of follicles.",
+	"xml:lang":"eng"
+	}
+	}}

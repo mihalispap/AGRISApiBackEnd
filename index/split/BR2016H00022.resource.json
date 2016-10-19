@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:title":{"value":"ESTRUTURA FITOSSOCIOLÓGICA DE UMA ÁREA DE CERRADO NA ESTAÇÃO ECOLÓGICA DE ITAPEVA, SÃO PAULO, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":77,
+	"bibo:volume":2,
+	"bibo:pageEnd":85,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00022",
+	"dct:identifier":"BR2016H00022",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-07",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/261",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Celso Augusto Garcia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arnaldo Gonçalves dos Santos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sybelle Barreira"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A Estação Ecológica de Itapeva, SP é uma unidade de conservação administrada pelo Instituto Florestal do Estado de São Paulo e está instalada em uma área de 106, 77 hectares. Com o objetivo fornecer subsídios para futuros projetos de manejo do local, ...",
+	"xml:lang":"por"
+	}
+	}}

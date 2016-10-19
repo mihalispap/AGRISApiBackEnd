@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n3p245.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Composition of weed flora in spring cereals in Finland : a fourth survey.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Salonen, Jukka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyvönen, Terho.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jalli, Heikki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"biodiversity"},
+	{"value":"plant protection"},
+	{"value":"Viola"},
+	{"value":"conventional farming"},
+	{"value":"cereals"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"kasvinsuojelu"},
+	{"value":"Triticum aestivum"},
+	{"value":"kevätviljat"},
+	{"value":"organic agriculture"},
+	{"value":"kasvilajit"},
+	{"value":"barley"},
+	{"value":"tavanomainen viljely"},
+	{"value":"spring crops"},
+	{"value":"Avena sativa"},
+	{"value":"wheats"},
+	{"value":"rikkakasvit"},
+	{"value":"oats"},
+	{"value":"weeds"},
+	{"value":"Galium"},
+	{"value":"Elymus repens"},
+	{"value":"lajikoostumus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001731",
+	"dct:identifier":"FI2016001731",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

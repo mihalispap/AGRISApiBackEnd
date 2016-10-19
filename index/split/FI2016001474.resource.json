@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Variation of ectomycorrhizal colonisation in Norway spruce seedlings in Finnish forest nurseries.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Flykt, Enni.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Timonen, Sari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pennanen, Taina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"astiataimet"},
+	{"value":"fungal diversity"},
+	{"value":"mykorritsasienet"},
+	{"value":"mykorritsa"},
+	{"value":"sienet"},
+	{"value":"seedlings"},
+	{"value":"taimitarhat"},
+	{"value":"forest nurseries"},
+	{"value":"taimet"},
+	{"value":"pot plants"},
+	{"value":"Picea abies"},
+	{"value":"mycorrhizae"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001474",
+	"dct:identifier":"FI2016001474",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

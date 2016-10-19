@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Microdissection to isolate vascular cambium cells in poplar.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Goué, Nadia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Noël-Boizot, Nathalie.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vallance, Michel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Magel, Elisabeth.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Label, Philippe.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic engineering"},
+	{"value":"microgenomics"},
+	{"value":"Populus"},
+	{"value":"plant physiology"},
+	{"value":"ray gambial cells"},
+	{"value":"fusiform cambial cells"},
+	{"value":"cell physiology"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001359",
+	"dct:identifier":"FI2016001359",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

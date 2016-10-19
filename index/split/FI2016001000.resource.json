@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Bayesian estimation of diameter distribution during harvesting /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uusitalo, Jori.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Puustelli, Anne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kivinen, Veli-Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nummi, Tapio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sinha, Bikas K.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"diameter"},
+	{"value":"tree harvesting"},
+	{"value":"läpimittajakauma"},
+	{"value":"tavaralajimenetelmä"},
+	{"value":"harvesting"},
+	{"value":"hakkuukoneet"},
+	{"value":"statistical methods"},
+	{"value":"diameter distribution"},
+	{"value":"Bayesilainen tilastotiede"},
+	{"value":"Bayesian statistics"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001000",
+	"dct:identifier":"FI2016001000",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

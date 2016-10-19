@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of osmotic dehydration on the freeze drying kinetics of apricots.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fahloul, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lahbari, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Benmoussa, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mezdour, S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ascorbic acid"},
+	{"value":"osmotic drying"},
+	{"value":"drying"},
+	{"value":"fruits"},
+	{"value":"quality"},
+	{"value":"carbohydrate content"},
+	{"value":"dehydration"},
+	{"value":"chemical composition"},
+	{"value":"sucrose"},
+	{"value":"freeze drying"},
+	{"value":"apricots"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000703",
+	"dct:identifier":"FI2016000703",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

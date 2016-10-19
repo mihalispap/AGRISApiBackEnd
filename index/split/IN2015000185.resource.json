@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Feeding Pediococcus Acidilactici and Saccharomyces Boulardii As Probiotics in Lambs",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":53,
+	"dc:subject":[
+		{"value":"probiotics",
+	"xml:lang":"eng"
+	},
+	{"value":"saccharomyces",
+	"xml:lang":"esp"
+	},
+	{"value":"probiotique",
+	"xml:lang":"fre"
+	},
+	{"value":"lambs",
+	"xml:lang":"eng"
+	},
+	{"value":"probioticos",
+	"xml:lang":"esp"
+	},
+	{"value":"cordero",
+	"xml:lang":"esp"
+	},
+	{"value":"agneau",
+	"xml:lang":"fre"
+	},
+	{"value":"pediococcus acidilactici",
+	"xml:lang":"esp"
+	},
+	{"value":"pediococcus",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":58,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000185",
+	"dct:identifier":"IN2015000185",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Reddy, P.V.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, K. Kondal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, M. Shashi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Harikrishna, Ch."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raghunandan, T."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study was carried out on 18 lambs of either sex of Decanni breed, each weighing 7.0 kg to study the effect of feeding Pediococcus acidilactici and Saccharomyces boulardii on growth performance, serum cholesterol, serum triglycerides, serum calcium, faecal coliforms and immunity response for a period of ten weeks. The experiment comprised of three groups supplemented with Pediococcus acidilactici (PA) as the first group, Saccharomyces boulardii (SB) as the second group and control (C) as the third group. The results indicated that there was no significant difference in the serum parameters but a significant (p0.01) body weight gain was recorded in both the probiotic supplemented groups (PA and SB). The coliform counts in faeces were significantly decreased in lambs fed with probiotics (PA and SB) compared to the control group but no significant difference of hemagglutination (HI) titers against Brucellosis vaccine was observed in all the experimental groups.",
+	"xml:lang":"eng"
+	}
+	}}

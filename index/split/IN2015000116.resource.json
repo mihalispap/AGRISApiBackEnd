@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathology of naturally occurring paratuberculosis in caprine.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":221,
+	"dc:subject":[
+		{"value":"caprinae",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"paratuberculosis",
+	"xml:lang":"esp"
+	},
+	{"value":"paratuberculose",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":223,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000116",
+	"dct:identifier":"IN2015000116",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Reddy, G.B. Manjunatha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shivasharanappa, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paul, Souvik"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, D.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Paratuberculosis is a chronic granulomatous disease caused by an acid fast Mycobacteriumavium subsp. paratuberculosis. The present study was conducted to record the morphological and histological changes in naturally occurring caprine paratuberculosis. Out of 28 paratuberculosis suspected morbid cases, 8 showed gross lesions like oedematous and enlarged mesenteric lymphnodes with corrugation of intestinal mucosa. Microscopically, the lesions ranged from small granulomas (Paucibacillry; 3) with few epithelioid cells to large granulomas (Multibacillary;5)with extensive infiltration of macrophages and epithelioid cellswith acid fast organism. The over all post death prevalence of caprine tuberculosis in organized semi-intensive goat farming was 28.75%.",
+	"xml:lang":"eng"
+	}
+	}}

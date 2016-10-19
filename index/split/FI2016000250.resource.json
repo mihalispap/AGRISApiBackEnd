@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Selenium concentration dependence on soil properties.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Antanaitis, Antanas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lubyte, Jadvyga.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Antanaitis, Sarunas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Staugaitis, Gediminas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Viskelis, Pranas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"selenium"},
+	{"value":"physicochemical properties"},
+	{"value":"Lithuania"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000250",
+	"dct:identifier":"FI2016000250",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

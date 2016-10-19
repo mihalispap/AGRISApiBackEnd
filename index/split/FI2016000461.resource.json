@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1190",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Repola, Jaakko,
+    kirjoittaja
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahlund Ulvcrona, Kristina,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Modelling biomass of young and dense Scots pine (Pinus sylvestris L.) dominated mixed forests in northern Sweden.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"unmanaged stands"},
+	{"value":"biomass"},
+	{"value":"mallit"},
+	{"value":"Pinus sylvestris"},
+	{"value":"puut"},
+	{"value":"biomassa"},
+	{"value":"trees"},
+	{"value":"boreal forests"},
+	{"value":"boreaaliset metsät"}
+	],
+	"bibo:doi":"10.14214/sf.1190",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000461",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000461",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

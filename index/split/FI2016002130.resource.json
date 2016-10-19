@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Kokemuksia lampaiden tiineystarkastuksista ultraäänellä /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Helminen, Katri.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"ultraäänitutkimus"},
+	{"value":"ewes"},
+	{"value":"uuhet"},
+	{"value":"tiineystarkastus"},
+	{"value":"ultrasonics"},
+	{"value":"lammas"},
+	{"value":"pregnancy diagnosis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002130",
+	"dct:identifier":"FI2016002130",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

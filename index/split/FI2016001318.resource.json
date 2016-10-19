@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/48629/15799",
+	"dct:language":"eng",
+	"dct:title":{"value":"Commercial cultivars and farmers' access to crop diversity: a case study from the Nordic region.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Solberg, Svein,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Breian, Line,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"climatic change"},
+	{"value":"maatalous"},
+	{"value":"saatavuus"},
+	{"value":"plant breeding"},
+	{"value":"kasvinjalostus"},
+	{"value":"commercialization"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"monimuotoisuus"},
+	{"value":"arable farming"},
+	{"value":"Denmark"},
+	{"value":"kylvösiemen"},
+	{"value":"vegetable growing"},
+	{"value":"species"},
+	{"value":"agriculture"},
+	{"value":"seed industry"},
+	{"value":"finland"},
+	{"value":"vihannesviljely"},
+	{"value":"agrobiodiversity"},
+	{"value":"kasvinviljely"},
+	{"value":"kasvilajit"},
+	{"value":"Scandinavia"},
+	{"value":"diversification"},
+	{"value":"kaupallistuminen"},
+	{"value":"Iceland"},
+	{"value":"Norway"},
+	{"value":"peltoviljely"},
+	{"value":"Sweden"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001318",
+	"dct:identifier":"FI2016001318",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

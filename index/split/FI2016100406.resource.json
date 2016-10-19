@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-23.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of H2O2 and ethephon spary on seedling chilling tolerance in three tomato cultivars"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Haddad, Jameel M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Jamali, Abbas F. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100406",
+	"dct:identifier":"FI2016100406",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"It has been suggested that H2O2 and ethylene may increase tomato seedlings chilling tolerance. The effect of spraying tomato transplants with 2-chloroethyl phosphonic acid (ethephon) or H2O2 prior to exposure to chilling temperatures to protect the plants from chilling injury was studied. Three locally grown tomato cultivars: the hybrids Cecilia and Ghalia, and the open pollinated Rohaba were used. One month-old seedlings were sprayed with 0.5 M H2O2, 300 mg/L ethephon, the surfactant as a wet control in addition to the unsprayed control. Three hours after spraying all seedlings were transferred either to a cooler or to a cold storage room to be chilled for 96 hours at 4°C in the dark. The number of seedlings that died of chilling after being returned to room temperature were counted. When conducted in the cooler, seedlings treated with ethephon survived less than the H2O2 treated and the corresponding controls. When conducted in the cold storage room, no death occurred but H2O2 and ethephon treated seedlings performed better than their controls according to visual scoring. Control seedlings of the cultivar Ghalia were the most injured while those treated survived the chilling stress better than the other two cultivars. H2O2 and ethephon treatments helped reduce the chilling injury of the tomato seedlings inside the cold storage room, whereas the cooler introduced additional stresses which reduced the benefit of the sprays. There was a significant difference in cultivar response in increasing chilling tolerance where the most susceptible (Ghalia) benefitted most from the treatments."}
+	}}

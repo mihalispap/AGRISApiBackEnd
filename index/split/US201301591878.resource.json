@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Morbidity of Harmonia axyridis mediates ladybug taint in red wine"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591878",
+	"dct:identifier":"US201301591878",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f29.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pickering, G. J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Spink, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kotseridis, Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brindle, I. D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sears, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Inglis, D. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Harmonia axyridis (Pallas) (Coleoptera: Coccinellidae; the Multicolored Asian Lady Beetle; MALB) is recognised as a novel vineyard pest in many grape and wine regions of the world due to tainting of juice and wine from excretion or extraction of 2-isopropyl-3-methoxypyrazine (IPMP) when beetles are harvested with the grapes during processing. This complex of off-odors and flavors in juice and wine is known as ‘ladybug taint’ (LBT). The use of insecticidal sprays in the vineyard has been advocated to mitigate the problem, however, the resulting dead beetles are often inadvertently incorporated in with the grape bunches during harvesting operations. The main objective of this study was to quantify the impact of dead MALB on LBT in red wine. Duplicate wines were produced from Cabernet Sauvignon with the addition of 10 beetles/L juice, added either live or at 1, 3, 7, or 60-days post-mortem. A control wine with no added beetles was also included. Finished wines were evaluated using a trained sensory panel and descriptive analysis techniques. The intensities of aroma and flavour attributes associated with LBT were highest in live beetle wines. Sensory data were inconclusive for the remaining wines, although they suggest that MALB did not affect wine quality after 3 days post- mortem and beyond. Concentrations of IPMP were strongly and positively correlated with 6 atypical aroma and flavour attributes (r=0.902 – 0.966), confirming the association between IPMP and LBT, and the intensity of LBT was linearly related to IPMP concentration (LBT = 3.059 + 0.048*IPMP; R2 = 0.934). These results quantify the impact of dead MALB on wine quality and should help in establishing grape quality parameters and inform decisions regarding the use of insecticides in the vineyard."}
+	}}

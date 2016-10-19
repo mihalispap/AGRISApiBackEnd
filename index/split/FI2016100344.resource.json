@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e28.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Groundwater quality in Körfez Municipality (Kocaeli), northwest of Turkey"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bozkurt, Ali (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kurtuluş, Cengiz (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100344",
+	"dct:identifier":"FI2016100344",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Community wells in rural areas of Körfez Municipality of Izmit-Kocaeli, north of Turkey, were tested in 2007 to determine the contamination from iron, sulphate, fluoride, organic matter and coliform bacteria. Other quality parameters such as pH, hardness, dissolved oxygen (DO), conductivity and nitrate were also tested for 22 water supplies. pH values of the water samples ranged between 6.61 and 7.9 indicating that the well waters are acidic and do not pose any health risk. The hardness of the well waters tested soft (11-43) and the amount of sulphate (SO4) was detected very low (20.2-24 mg L-1). Nitrate and ammonia were not detected in the water samples collected from the wells but iron was detected in most of the water samples at levels not exceeding the recommended limit. Total coliforms were tested to measure the microbial quality of the groundwater. The water samples from the wells tested positive for total coliforms. Fluoride was detected in all water samples at concentrations less than recommended health based guideline value. More than 105.000 people reside in the rural areas where testing was conducted and 30% of them depend upon groundwater for their drinking water. The study employed water quality testing and GIS analysis to identify rural communities at greater risk of exposure to contaminants so that treatment strategies can be prioritized and implemented to reduce that risk. However, the water quality results indicated that the quality parameters of the samples collected from 22 wells were below the Turkish government drinking water standard and WHO (2000) permissible limits. "}
+	}}

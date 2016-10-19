@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Adsorption of benzene and naphthalene to modified montmorillonite"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007190081",
+	"dct:identifier":"FI2007190081",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/e4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"El-Nahhal, Yasser (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Safi, Jamal (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This study aims to characterize the adsorption pattern of benzene and naphthalene on montmorillonite modified with hexadecyltrimethylammonium (HDTMA), tetramethylammonium (TMA), tetraethylammonium (TEA), tetrabutylammonium (TBA) or benzyltrimethylammonium (BTMA). Adsorption isotherms of benzene and naphthalene from water followed Langmuir and Freundlich models respectively. The Langmuir form of the isotherms suggests that benzene and naphthalene adsorbed to the surfaces as a monolayer. Binding coefficient of naphthalene increased as the molecular weight of the pre-adsorbed surfactant increased. Adsorption of benzene and naphthalene follows the sequence: montmorillonite-benzyltrimethylammonium > montmorillonite hexadecyltrimethylammonium > montmorillonite-tetrabutylammonium > montmorillonite-tetraethylammonium > montmorillonite-tetramethylammonium. The results indicate that using those complexes can be useful in removing pollutants from water."}
+	}}

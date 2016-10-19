@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Tree mortality after prescribed burning in an old-growth Scots pine forest in northern Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Linder, Per.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jonsson, Peter.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niklasson, Mats.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"metsäpalot"},
+	{"value":"controlled burning"},
+	{"value":"luonnonsuojelu"},
+	{"value":"kulotus"},
+	{"value":"forest litter"},
+	{"value":"forest management"},
+	{"value":"nature conservation"},
+	{"value":"puut"},
+	{"value":"kuolleisuus"},
+	{"value":"mortality"},
+	{"value":"trees"},
+	{"value":"metsänhoito"},
+	{"value":"forest fires"},
+	{"value":"karike"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002128",
+	"dct:identifier":"FI2016002128",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

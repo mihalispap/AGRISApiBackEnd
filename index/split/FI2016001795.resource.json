@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of genetic variation and presence of nitrate reductase gene (NR) in different lettuce genotypes using PCR-based markers /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Al-Redhaiman, K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Motawei, M. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    El-Shinawy, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abdel-Ltif, T. H.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"DNA fingerprinting"},
+	{"value":"merkkigeenit"},
+	{"value":"leaf vegetables"},
+	{"value":"nitrate reductase"},
+	{"value":"genetic variation"},
+	{"value":"salaatit"},
+	{"value":"genotypes"},
+	{"value":"muuntelu"},
+	{"value":"Lactuca sativa"},
+	{"value":"genotyyppi"},
+	{"value":"lettuces"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001795",
+	"dct:identifier":"FI2016001795",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

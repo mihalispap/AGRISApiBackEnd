@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n3p191.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of barley grain compared to commercial concentrate or rapeseed meal supplementation on performance of growing dairy bulls offered grass silage-based diet.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Huuskonen, Arto.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"rehut"},
+	{"value":"beef cattle"},
+	{"value":"rehuohra"},
+	{"value":"säilörehu"},
+	{"value":"valkuaisrehut"},
+	{"value":"sonnit"},
+	{"value":"kotieläintuotanto"},
+	{"value":"rehunkäyttökyky"},
+	{"value":"silage"},
+	{"value":"rypsirouhe"},
+	{"value":"animal feeding"},
+	{"value":"lihakarja"},
+	{"value":"ruokinta"},
+	{"value":"protein concentrates"},
+	{"value":"energiasisältö"},
+	{"value":"animal performance"},
+	{"value":"feed conversion efficiency"},
+	{"value":"lihantuotanto"},
+	{"value":"nautakarja"},
+	{"value":"teuraslaatu"},
+	{"value":"barley"},
+	{"value":"rapeseed meal"},
+	{"value":"bulls"},
+	{"value":"rehutiivisteet"},
+	{"value":"väkirehut"},
+	{"value":"supplementary feeding"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001870",
+	"dct:identifier":"FI2016001870",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

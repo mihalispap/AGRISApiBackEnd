@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The assessment of the uncertainty of updated stand-level inventory data.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Haara, Arto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leskinen, Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"simulointi"},
+	{"value":"forest inventories"},
+	{"value":"measurement error"},
+	{"value":"uncertainity"},
+	{"value":"simulation"},
+	{"value":"measurement"},
+	{"value":"kuvioittainen arviointi"},
+	{"value":"metsiköt"},
+	{"value":"observed error"},
+	{"value":"statistical methods"},
+	{"value":"stand-level-inventory"},
+	{"value":"forest stands"},
+	{"value":"mittausvirheet"},
+	{"value":"metsäninventointi"},
+	{"value":"non-parametric methods"},
+	{"value":"mittaus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001556",
+	"dct:identifier":"FI2016001556",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

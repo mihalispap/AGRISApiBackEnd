@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n3p206.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Improved extraction of prolamins for gluten detection in processed foods.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kanerva, Päivi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sontag-Strohm, Tuula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Brinck, Outi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salovaara, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vehnä"},
+	{"value":"elintarviketekniikka"},
+	{"value":"kaura"},
+	{"value":"analyysimenetelmät"},
+	{"value":"extraction"},
+	{"value":"cereals"},
+	{"value":"prolamiinit"},
+	{"value":"barley"},
+	{"value":"ohra"},
+	{"value":"valkuaisaineet"},
+	{"value":"wheats"},
+	{"value":"gluten"},
+	{"value":"gluteeni"},
+	{"value":"keliakia"},
+	{"value":"prolamines"},
+	{"value":"rye"},
+	{"value":"coeliac disease"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000518",
+	"dct:identifier":"FI2016000518",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

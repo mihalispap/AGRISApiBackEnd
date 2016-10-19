@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1145",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Siitonen, Juha,
+    kirjoittaja
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	"dct:title":{"value":"Ips acuminatus kills pines in southern Finland.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"mänty"},
+	{"value":"Phaenops cyanea"},
+	{"value":"Pinus sylvestris"},
+	{"value":"kuivuus"},
+	{"value":"Ips acuminatus"},
+	{"value":"kuolleisuus"},
+	{"value":"mortality"},
+	{"value":"trees"},
+	{"value":"drought"}
+	],
+	"bibo:doi":"10.14214/sf.1145",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000255",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000255",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

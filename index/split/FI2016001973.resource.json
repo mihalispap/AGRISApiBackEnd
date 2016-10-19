@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Mehiläisen immuunipolypeptidit /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kauko, Lassi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Glinski, Zdzislaw.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"bacterioses"},
+	{"value":"antimikrobiset yhdisteet"},
+	{"value":"immunology"},
+	{"value":"immunological factors"},
+	{"value":"rojalisiini"},
+	{"value":"immunopolypeptidit mehiläiset"},
+	{"value":"mehiläiset"},
+	{"value":"abekiini"},
+	{"value":"peptides"},
+	{"value":"proteins"},
+	{"value":"hymenoptekiini"},
+	{"value":"honey bees"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001973",
+	"dct:identifier":"FI2016001973",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Vitamin E og mineraler i fôr til blårev og mink.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ahlstrøm, Øystein.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Skrede, Anders.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nordstoga, Knut.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"E-vitamiini"},
+	{"value":"kivennäisaineet"},
+	{"value":"minks"},
+	{"value":"kettu"},
+	{"value":"vitamiinit"},
+	{"value":"animal nutrition"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"foxes"},
+	{"value":"sinikettu"},
+	{"value":"furbearing animals"},
+	{"value":"ravintoaineet"},
+	{"value":"minkki"},
+	{"value":"mineral nutrients"},
+	{"value":"turkiseläimet"},
+	{"value":"vitamin E"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000238",
+	"dct:identifier":"FI2016000238",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

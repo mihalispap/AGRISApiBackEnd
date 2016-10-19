@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of a water-hyacinth based sewage treatment system in Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876530",
+	"dct:identifier":"US201300876530",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e26.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ezeilo, Fabian E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Obika, Chukwuemeka O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ayotamuno, Josiah M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kogbara, Reginald B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper reports on a study carried out to determine the effectiveness of an alternative, low cost and appropriate option that could be employed in the collection, treatment and disposal of sewage generated in the offices and residences of a large industrial setting in a developing country. The development of the sewage treatment system emanated from the need to acquire a new system that is more hygienic and environmentally friendly than an existing one at the Bonny terminal of the Shell Petroleum Development Company, Rivers State, Nigeria. The treatment system comprises lift stations, network of pipelines and a central sewage treatment plant. Employed in the treatment process is Eichornea crassipes (water hyacinth), an aquatic plant with a proven ability to remove pollution from raw sewage, if properly adapted to sewage toxicity. The system was designed to handle a maximum daily inflow rate of 500 m3, alongside an influent biochemical oxygen demand of 350 mg/l, which results in an effluent of 20 mg/l. It has the capacity of treating an influent with total suspended solids, 300 mg/l to as low as 30 mg/l. A comparison of the quality of the system’s effluent with that of potable raw water indicates that it compares favorably with potable raw water, which implies that it could be discharged to terrestrial and aquatic environments to serve as fertilizer and as well boost fish production while guaranteeing environmental quality and health. Hence a low cost, environmental friendly and appropriate sewage treatment system has been achieved."}
+	}}

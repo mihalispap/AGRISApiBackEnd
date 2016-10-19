@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of pumpkin (Cucurbita ficifolia L.) to some growth regulators /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ntui, V. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uyoh, E. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Udensi, O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Enok, L. N.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"flowering"},
+	{"value":"plant growth substances"},
+	{"value":"Cucurbita"},
+	{"value":"internodes"},
+	{"value":"precocity"},
+	{"value":"application rates"},
+	{"value":"leaf area"},
+	{"value":"growth inhibitors"},
+	{"value":"IAA"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000098",
+	"dct:identifier":"FI2016000098",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

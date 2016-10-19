@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Community-level physiological profiling in monitoring rehabilitative effects of Acacia auriculiformis plantation on degraded land in Sakaerat, Thailand.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Doi, Ryoichi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ranamukhaarachchi, Senaratne L.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Acacia auriculiformis"},
+	{"value":"soil bacterial community"},
+	{"value":"statistical analysis"},
+	{"value":"land degradation"},
+	{"value":"bacterial flora"},
+	{"value":"ennallistaminen"},
+	{"value":"kasviyhdyskunnat"},
+	{"value":"soil analysis"},
+	{"value":"mikro-organismit"},
+	{"value":"bakteerit"},
+	{"value":"land degradation and rehabilitation"},
+	{"value":"soil degradation"},
+	{"value":"maaperä"},
+	{"value":"multivariate analysis"},
+	{"value":"kasvifysiologia"},
+	{"value":"hajoaminen"},
+	{"value":"plant communities"},
+	{"value":"plant physiology"},
+	{"value":"community-level physiological profile"},
+	{"value":"monimuuttujamenetelmät"},
+	{"value":"forest rehabilitation"},
+	{"value":"rehabilitation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000889",
+	"dct:identifier":"FI2016000889",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

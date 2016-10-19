@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Mineral availability and growth of banana (Musa acuminate var. Dwarf Cavendish) explant under various relative matric potential in vitro"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amiri, Mohammad E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arzani, Kazem (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100398",
+	"dct:identifier":"FI2016100398",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The inter-relationships between plant growth, mineral uptake, medium water potential and mineral movement through the medium were studied. Plant growth in vitro is though to be associated with the amount of mineral uptake. The growth increase of banana (Musa acuminate var. Dwarf Cavendish) explants was assumed to be related to the mineral uptake during culture. The mineral uptake was proportional to both available (soluble) minerals and the medium water. Growth rate and water potential decreased linearly as agar concentration increased from 4 to 12 g l-¹. At high agar concentration (up to 10 g l-¹) under gel water deficit, mineral availability and thus growth was very low. The total proportion (% supply) of available minerals decreased significantly (P = 0.05) as concentrations increased from 0.2x to 2x (the basal 1x composition of the mineral component approximated that of the half strength MS levels). Only a small proportion of minerals (especially PO4²-, Ca²+ and Fe²+) remained available in the soluble form after 8 weeks, even at 2x mineral concentration medium. A considerable amount of the residual minerals was water- insoluble (total precipitation and fixed to gel matrix, as unavailable). The highest proportions (% w/v) of ions insoluble residual occurred for Fe²+(42%), PO4³- (31%) and Ca²+ (30%) at 2x mineral concentration medium. Low amount of mineral diffusion through the gelled medium was main reason for their low uptake and their deficiency in vitro. PO4³-, Ca²+ and Fe²+ diffused slowly, whereas SO4²-, K+and Mg²+ diffused rapidly."}
+	}}

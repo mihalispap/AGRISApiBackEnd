@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n4p341.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Cultivar improvement and environmental variability in yield removed nitrogen of spring cereals and rapeseed in northern growing conditions according to a long-term dataset.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jauhiainen, Lauri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rapeseed"},
+	{"value":"varieties"},
+	{"value":"oil crops"},
+	{"value":"spring crops"},
+	{"value":"crop yield"},
+	{"value":"growth period"},
+	{"value":"cereals"},
+	{"value":"protein content"},
+	{"value":"nitrogen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001610",
+	"dct:identifier":"FI2016001610",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

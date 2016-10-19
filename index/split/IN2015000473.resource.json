@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of rabi sorghum genotypes against rice weevil, Sitophilus oryzae in storage",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":87,
+	"dc:subject":[
+		{"value":"stockage",
+	"xml:lang":"fre"
+	},
+	{"value":"storage",
+	"xml:lang":"eng"
+	},
+	{"value":"almacenamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"sitophilus oryzae",
+	"xml:lang":"esp"
+	},
+	{"value":"sorghum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":91,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000473",
+	"dct:identifier":"IN2015000473",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kudachi,  D.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balikai, R.A."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A laboratory experiment was conducted to know the reaction of rabi sorghum genotypes against rice weevil, Sitophilus oryzae L. during 2007â08. Twenty five rabi sorghum genotypes were evaluated based on parameters like % of damaged seeds, % germination, % loss in weight of seed and population build up recorded at 30, 90 and 180 days after storage. Results revealed that, cumulative seed damage at 180 days after storage was minimum in DJ 6514 (17.0%) followed by RS 585, CSV 216R, SPV570, BRJ 356 with minimum % damage ranging from 21.00 to 24.00 indicating their high degree of resistance and maximum viability was noticed in RS 585 (78.00%) followed by BRJ 356 (76.50%). Grain weight loss was significantly minimum in IS 2312 (4.80%) followed by IS 2205 (5.60%) and DJ 6514 (6.30%) and maximum in Y 75 (23.06%), RSE 03 (20.32%) and DSV 4 (20.08%) at 180 days after storage. The genotype, CSV 8R showed high degree of resistance with minimum population buildup of 55.00 followed by RS 585 (56.0) and CSV 216R (56.00) and more number of adult weevils emerged in the RSE 03 (180.00), 5-4-1 (152.50) and Y 75 (154.50) followed by Dagadi Solapur (133.00).",
+	"xml:lang":"eng"
+	}
+	}}

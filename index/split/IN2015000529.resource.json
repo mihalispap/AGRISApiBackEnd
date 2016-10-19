@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Post-harvest storage fungi of Almonds (Prunus amygdalus Batsch.) and its sensitivity against Plant volatiles",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":378,
+	"dc:subject":[
+		{"value":"prunus dulcis",
+	"xml:lang":"esp"
+	},
+	{"value":"lippia",
+	"xml:lang":"esp"
+	},
+	{"value":"fungal diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"enfermedades fungosas",
+	"xml:lang":"esp"
+	},
+	{"value":"maladie fongique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":381,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000529",
+	"dct:identifier":"IN2015000529",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pandey, Shailja"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Pooja"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Major post-harvest deteriorating fungi isolated from stored seeds of almonds were Aspergillus flavus, A. niger, Fusarium nivale, Mucor mucedo and Penicillium expansum. A.flavus and A.niger had higher % incidence than other isolated fungi. Twenty essential oils were screened against A.flavus and A.niger. Out of which, oil of Lippia alba showed absolute fungitoxicity at 40 Ã¬l/ml against both the test fungi. Study revealed that L. alba oil can be harnessed as effective preservative of almonds during storage.",
+	"xml:lang":"eng"
+	}
+	}}

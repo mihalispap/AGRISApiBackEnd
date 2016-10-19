@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Objectives and motivations of small-scale forest owners : theoretical modelling and qualitative assessment.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hugosson, Mårten.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ingemarson, Fredrik.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"small-scale forestowners"},
+	{"value":"metsäala"},
+	{"value":"ammattilaiset"},
+	{"value":"landowners"},
+	{"value":"forest owners' motivations"},
+	{"value":"cultural values"},
+	{"value":"forest management"},
+	{"value":"forest owners' values"},
+	{"value":"family farms"},
+	{"value":"arvot"},
+	{"value":"forest owners' objectives"},
+	{"value":"metsänomistajat"},
+	{"value":"metsänhoitajat"},
+	{"value":"metsätalous"},
+	{"value":"professional foresters"},
+	{"value":"tavoitteet"},
+	{"value":"metsänhoito"},
+	{"value":"foresters"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001236",
+	"dct:identifier":"FI2016001236",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

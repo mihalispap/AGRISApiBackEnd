@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Puzzlements in an evolving commodity chain:The case of tender coconut market in kerala",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":228,
+	"dc:subject":[
+		{"value":"TENDER COCONUT"},
+	{"value":"commercialisation",
+	"xml:lang":"fre"
+	},
+	{"value":"marketing",
+	"xml:lang":"eng"
+	},
+	{"value":"consumo",
+	"xml:lang":"esp"
+	},
+	{"value":"mercadeo",
+	"xml:lang":"esp"
+	},
+	{"value":"consommation",
+	"xml:lang":"fre"
+	},
+	{"value":"consumption",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":230,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000822",
+	"dct:identifier":"IN2015000822",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jayasekhar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandran, K.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Radhika, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Muralidharan, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thamban, C."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/e4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Bioremediation of a petroleum-hydrocarbon polluted agricultural soil at different levels of water application in Port Harcourt, Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ayotamuno, Josiah M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kogbara, Reginald B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Taleat, Muideen O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100189",
+	"dct:identifier":"FI2016100189",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A combination of field cells was used in experiments involving biostimulation with agricultural fertilizers to evaluate the bioremediation of a crude oil polluted agricultural soil at different levels of soil water. Petroleum pollution of an agricultural soil was simulated on the field by pouring crude oil on the cells from perforated cans. Remediation options involving the introduction of mineral fertilizers and periodic application of different amounts of water to the contaminated soils were then utilized for treatment. Laboratory analysis of soil characteristics showed an increase in the total heterotrophic bacterial (THB) counts and a corresponding reduction in soil organic carbon and total hydrocarbon content (THC) at the end of the six-week remediation period. The percentage of THC reduction ranged from 44% to 90% in the five treatment cells. The control site, which received no treatment, revealed no significant hydrocarbon loss (3%) within the study period. The results of the total heterotrophic bacterial (THB) counts revealed that petroleum-degrading bacteria responded to variations in soil water level during their metabolic activity; this corroborated with the correlation analysis between percent of THC reduction and time across the treatment cells, which indicated significance at 5% probability level thus highlighting the position that different soil moisture levels induces marked differences in biodegradation rates as remediation period increases. This implies that the level of water in the soil is a major factor that affect biodegradation rate and hence attention has to be given to the control of the moisture level in the soil to optimum, in order to achieve an accelerated biological clean up of petroleum polluted agricultural soils in Port Harcourt, Nigeria."}
+	}}

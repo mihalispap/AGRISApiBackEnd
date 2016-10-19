@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Testing for granger-causality in the Finnish roundwood market.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Toppinen, Anne.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"raakapuumarkkinat"},
+	{"value":"stumpage value"},
+	{"value":"time series analysis"},
+	{"value":"ennusteet"},
+	{"value":"forecasting"},
+	{"value":"aikasarja-analyysi"},
+	{"value":"statistical analysis"},
+	{"value":"kantohinnat"},
+	{"value":"market research"},
+	{"value":"roundwood"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000444",
+	"dct:identifier":"FI2016000444",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

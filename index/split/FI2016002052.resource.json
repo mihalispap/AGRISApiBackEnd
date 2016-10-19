@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Precommercial thinning in naturally regenerated Scots pine stands in northern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ruha, Tommi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Varmola, Martti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"diameter"},
+	{"value":"luontainen uudistaminen"},
+	{"value":"natural regeneration"},
+	{"value":"laatu"},
+	{"value":"oksat"},
+	{"value":"felling"},
+	{"value":"mänty"},
+	{"value":"kasvu"},
+	{"value":"harvennushakkuu"},
+	{"value":"puusto"},
+	{"value":"Pinus sylvestris"},
+	{"value":"paksuus"},
+	{"value":"forest stands"},
+	{"value":"quality"},
+	{"value":"branches"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002052",
+	"dct:identifier":"FI2016002052",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

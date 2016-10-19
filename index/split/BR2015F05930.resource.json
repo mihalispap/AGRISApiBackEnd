@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Effect of nitrogen fertilization on the forage production, crude protein content and stocking rate of ryegrass pastures",
+	"xml:lang":"eng"
+	},
+	{"value":"   Efeito da adubação nitrogenada na produção de forragem ",
+	"xml:lang":"por"
+	},
+	{"value":"   teor de proteína bruta e taxa de lotação em pastagens de azevém "}
+	],
+	"dc:subject":[
+		{"value":"crop rotation",
+	"xml:lang":"eng"
+	},
+	{"value":"lactation",
+	"xml:lang":"eng"
+	},
+	{"value":"lolium multiflorum",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F05930",
+	"dct:identifier":"BR2015F05930",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1427134576.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"QUATRIN, M.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVO, C.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"AGNOLIN, C.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MACHADO, P.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NUNES, J.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CORREA, M.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RODRIGUES, P.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRATZ, V.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SIMONETTI, G.D."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"2,95 e 3,32 UA/ha para os tratamentos de 50, 100 e 150 kg de N/ha, respectivamente. O nível máximo de nitrogênio recomendado é de 100 kg de N/ha."},
+	{"value":"21,51 e 22,82%"},
+	{"value":"O objetivo desta pesquisa foi avaliar a produção e o teor de proteína bruta da forragem de três pastagens de azevém (Lolium multiflorum Lam) cv. Comum, adubadas com 50, 100 e 150 kg de N/ha, na forma de ureia, de maio a outubro de 2012, onde foram conduzidos cinco ciclos de pastejo. Na avaliação da pastagem de azevém foram usadas vacas da raça Holandesa (530 kg PC) que receberam diariamente suplementação alimentar de 4,5 kg de concentrado. Avaliou-se a massa de forragem no pré e no pós-pastejo, a composição botânica e estrutural do azevém, e a taxa de lotação. Foram coletadas amostras de forragem pelo método de simulação de pastejo para análise de proteína bruta. O delineamento experimental foi o inteiramente casualizado com três tratamentos (níveis de N) e três repetições (piquetes). Os valores médios para produção de forragem, teor de proteína bruta e taxa de lotação foram: 4827"},
+	{"value":"2,3"},
+	{"value":"The objective of this study was to evaluate the forage production and crude protein content of three ryegrass stands (Lolium multiflorum Lam. cv. Comum) fertilized with 50, 100 and 150 kg N/ha in the form of urea from May to October 2012. Five grazing cycles were conducted. Holstein cows (530 kg body weight) supplemented daily with 4.5 kg concentrate were used for the evaluation of ryegrass pasture. Pre- and post-grazing forage mass, the botanical and structural composition of ryegrass, and stocking rate were evaluated. Forage samples were collected by the pasture simulation method for the analysis of crude protein. A completely randomized experimental design consisting of three treatments (N levels) and three repetitions (paddocks) was used. The mean forage production, crude protein content and stocking rate were 4827, 6344 and 6123 kg/ha",
+	"xml:lang":"eng"
+	},
+	{"value":"20.17, 21.51 and 22.82%, and 2.3, 2.95 and 3.32 AU/ha for the treatments with 50, 100 and 150 kg N/ha, respectively. The maximum nitrogen level recommended is 100 kg N/ha.",
+	"xml:lang":"por"
+	},
+	{"value":"20,17"},
+	{"value":"6344 e 6123 kg/ha"}
+	]
+	}}

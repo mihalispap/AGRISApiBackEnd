@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors influencing the perception of constraints by self help group members and non-members in livestock farming",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":276,
+	"dc:subject":[
+		{"value":"autoassistance",
+	"xml:lang":"fre"
+	},
+	{"value":"constraints",
+	"xml:lang":"eng"
+	},
+	{"value":"explotaciones agrarias",
+	"xml:lang":"esp"
+	},
+	{"value":"production animale",
+	"xml:lang":"fre"
+	},
+	{"value":"exploitation agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"produccion animal",
+	"xml:lang":"esp"
+	},
+	{"value":"contrainte",
+	"xml:lang":"fre"
+	},
+	{"value":"coaccion",
+	"xml:lang":"esp"
+	},
+	{"value":"farms",
+	"xml:lang":"eng"
+	},
+	{"value":"animal production",
+	"xml:lang":"eng"
+	},
+	{"value":"self help",
+	"xml:lang":"eng"
+	},
+	{"value":"esfuerzo propio",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":279,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000436",
+	"dct:identifier":"IN2015000436",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Varathan, B. Jaya"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prabu, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandian, A. Serma Saravana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Senthil, Kumar G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Selva, Kumar K.N."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A study was carried out in Tiruvannamalai district of Tamil Nadu to assess the constraints faced by women SHG members and non-members in rearing livestock and to identify and analyze the factors influencing the constraint intensity. A detailed questionnaire concerning various aspects of livestock rearing and the commonly occurring constraints in livestock rearing were enlisted under five different categories viz., production, marketing, social, economical and political. The women livestock farmers from SHG members and non-members in the study area were asked to give the scores for each constraint which affected their performance in rearing livestock and the cumulative constraint score was arrived out. Multiple linear regression analysis was carried out on this cumulative score to identify the factors influencing the perception of constraint intensity. The results showed that age and livestock income were positively associated with the perception of constraint intensity whereas, the level of education and total income were negatively associated. The result portrays the responsibility of education in livestock farming. Hence, programmes focused towards education should be implemented at its highest point so that the farmer is in a position to successfully absorb and make use of the information he received through training programmes. The result also clearly dwells upon the fact that membership in self help group did not make the farmers insulated from perceiving the severity of constraints in livestock rearing. Decision makers at the policy level should realise this reality and reach practical conclusions thereby the sustainability of the Self Help Group Programme is may be well ensured.",
+	"xml:lang":"eng"
+	}
+	}}

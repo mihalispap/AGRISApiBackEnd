@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Linieavl og liniekrydsning hos mink.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lund Nielsen, Ulla.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Therkildsen, Niels.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"crossbreeding"},
+	{"value":"minks"},
+	{"value":"inbreeding"},
+	{"value":"risteytys"},
+	{"value":"jalostusmenetelmät"},
+	{"value":"minkki"},
+	{"value":"kotieläinjalostus"},
+	{"value":"turkiseläimet"},
+	{"value":"inbred lines"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (253 :
+    1994 :
+    Rebild)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001680",
+	"dct:identifier":"FI2016001680",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

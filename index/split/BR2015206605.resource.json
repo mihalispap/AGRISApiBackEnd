@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Tratamento químico na qualidade sanitária e na germinação de sementes de Jatropha curcas L. (Euphorbiaceae) ",
+	"xml:lang":"por"
+	},
+	{"value":"Chemical treatment on health quality and germination of Jatropha curcas L. (Euphorbiaceae) seeds",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":{"value":"inoculation",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"6/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206605",
+	"dct:identifier":"BR2015206605",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/538/301",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Cardoso Acleide Maria Santos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"David Andréia Márcia Santos de Souza"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carvalho Aparecida Rodrigues de Jesus"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sales Rafael Pereira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira Patrícia Cristina do Carmo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza Maria das Dores da Cruz"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Lavras, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Departamento de Ciências Agrárias, Janauba, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Departamento de Ciências Agrárias, Janauba, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Departamento de Ciências Agrárias, Janauba, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Departamento de Ciências Agrárias, Janauba, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Departamento de Ciências Agrárias, Janauba, MG, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Jatropha curcas, também conhecido como pinhão-manso é considerado uma cultura promissora para a produção de biodiesel, contudo, pesquisas sobre controle de qualidade das sementes ainda são incipientes. Objetivou-se com o trabalho avaliar a eficiência de fungicidas na qualidadesanitária e na germinação de sementes de Jatropha curcas. A presença de patógenos foi avaliada por meio do teste de sanidade (Blotter test). Para a identificação dos patógenos presentes nas sementes foram utilizados lupa estereoscópica e microscópio ótico, e os resultados foram expressosem porcentagem. Os produtos químicos utilizados foram Captan, Priori e Thiram. As sementes tratadas e a testemunha foram submetidas novamente ao “Blotter test” e ao teste padrão de germinação. Foi utilizado o delineamento experimental inteiramente casualizado, com quatrorepetições de 50 sementes para os dados de germinação. As sementes de J. curcas apresentam incidência de patógenos independente da desinfestação superficial. Houve predominância de fungos dos gêneros Aspergillus sp., Colletotrichum sp., Fusarium sp., Lasiodiplodia sp., Memnoniella sp., Penicillium sp., e Pestalotiopsis sp. A germinação de sementes de J. curcas é influenciadapelo seu tratamento químico, sendo que, os fungicidas Thiram e Priori reduzem à incidência de patógenos e proporcionam maiores porcentagens de germinação de sementes, com destaque para o fungicida Priori.",
+	"xml:lang":"por"
+	},
+	{"value":"The Jatropha curcas, also known as physic nut is considered a promising crop for biodiesel production, however, research on quality control of seeds are still incipient. This study aimed to evaluate the efficiency of fungicides on health quality and germination of J. curcas seeds. The presence of pathogens was evaluated by the sanity test (Blotter test). Stereomicroscopy and optical microscope were used in order to identify pathogens in the seeds, and the results were expressed in percentage. The used chemicals products were ‘Captan’, ‘Thiram’ and ‘Priori’. The treated seeds and the witnesses were subjected again to the “Blotter test” and the standard germination test. A completely randomized design was used with four replicates for of 50 seeds for germination data. The Jatropha seeds present pathogen incidence independent of surface disinfection. There was predominance of the fungi genera Aspergillus sp., Colletotrichum sp., Fusarium sp., Lasiodiplodiasp., Memnoniella sp., Penicillium spp. and Pestalotiopsis sp. Fungicides Thiram and Priori reduce the incidence of pathogens in J. curcas seeds. The germination of J. curcas seeds is influenced by chemical treatment, with the fungicide Thiram and Priori and reduce the incidence of pathogens inseeds and provide highest germination of seeds, especially to the Priori fungicide.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

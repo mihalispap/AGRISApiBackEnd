@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of correction factors for age at first calving in sahiwal cows",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":253,
+	"dc:subject":[
+		{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"pruebas de rendimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"performance testing",
+	"xml:lang":"eng"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"controle de performance",
+	"xml:lang":"fre"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":257,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000432",
+	"dct:identifier":"IN2015000432",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Balasubramaniam, Sivamani"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Mohan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Subodh"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A total of 403 first lactation records of Sahiwal cows sired by 30 bulls, spread over 53 years maintained at Government Cattle Breeding Farm, Anjora, Durg were utilized to develop additive (ACF) and multiplicative (MCF) age correction factors for first lactation 305 days milk yield. The MCFs were found to be more effective for correcting the data on the basis of mean, coefficient of variation, between class variance and F ratio.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of meloxicam co-treatment on pharmacokinetics of ceftriaxone in sheep",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":216,
+	"dc:subject":[
+		{"value":"propiedades medicinales",
+	"xml:lang":"esp"
+	},
+	{"value":"medicinal properties",
+	"xml:lang":"eng"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"propriete pharmacologique",
+	"xml:lang":"fre"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":219,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000402",
+	"dct:identifier":"IN2015000402",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ranjan, Rajeev"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ranjan, Amita"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Roy, Birender Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, Raju"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"In the present study, effect of meloxicam co-treatment on pharmacokinetic parameters of ceftriaxone (CTRX) was investigated in sheep. Plasma CTRX concentration in meloxicam co-treated animals (G-II) remained higher than in animals given CTRX alone (G-I). Pharmacokinetic analysis revealed that regression coefficient for distribution phase (Ã¡), half-life of distribution phase (t1/2Ã¡), rate of drug diffusion from peripheral to central compartment (K12), elimination rate constant from central compartment (Kel) and periphera/central compartment drug concentration ratio (P/C) did not differ significantly between the two groups. In G-II, volume of distribution in area under curve (Vdarea)and total body clearance (ClB) were lower, while area under the plasma concentration (AUC) curve was higher than G-I. Comparatively higher value of P/C ratio suggested higher tissue CTRX concentration in G-II. It can be concluded that meloxicam co-treatment enhances the plasma concentration as well as tissue distribution of ceftriaxone.",
+	"xml:lang":"eng"
+	}
+	}}

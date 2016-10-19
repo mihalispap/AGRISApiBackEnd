@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Physicochemical and sensory characteristics of palm olein and peanut oil blends.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Myat, M. W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abdulkarim, S. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ghazali, H. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Roselina, K.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"organoleptic analysis"},
+	{"value":"groundnuts"},
+	{"value":"olein"},
+	{"value":"fatty acids"},
+	{"value":"mixing"},
+	{"value":"physicochemical properties"},
+	{"value":"palm oils"},
+	{"value":"linoleic acid"},
+	{"value":"chemical composition"},
+	{"value":"palmitic acid"},
+	{"value":"plant oils"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000271",
+	"dct:identifier":"FI2016000271",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

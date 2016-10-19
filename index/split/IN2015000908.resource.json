@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Plant-age preference for oviposition by Sesamia inferens (Walker) on maize, Zea mays L.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":245,
+	"dc:subject":[
+		{"value":"mais",
+	"xml:lang":"fre"
+	},
+	{"value":"maiz",
+	"xml:lang":"esp"
+	},
+	{"value":"sesamia inferens",
+	"xml:lang":"esp"
+	},
+	{"value":"maize",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":249,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000908",
+	"dct:identifier":"IN2015000908",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kaur Jaswinder"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar Pradyumn"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh Jagbir"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suby SB"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Studies to find out the most preferred host plant-age for oviposition by Sesamia inferens (Walker) on maize were conducted during Spring, 2012 in green house under controlled conditions at Directorate of Maize Research, Indian Agricultural Research Institute, New Delhi. To get the variable oviposition expression, a highly susceptible maize cultivar, Basi-local and a least susceptible cultivar, HQPM1 were used and age profile of 4 to 24 day-old plants was exposed to S. inferens adult pairs in a versatile insect rearing cage. The total number of eggs was found more on HQPM1 compared to Basi local both in multi-choice as well as no-choice tests. In multi-choice test with HQPM1, the average number of eggs laid per plant by S. inferens was 124.4 on 12-day old plant which was significantly higher than the number of eggs laid on 4, 8, 16, 20 and 24-day old plants. In multi-choice test for Basi local, the number of eggs laid on 12 and 16-day old plants were highest and significantly more than the number of eggs laid on other plant ages. The lowest number of eggs was found to be laid on 24-day old plants. In nochoice test with HQPM1 however, the number of eggs laid on 8, 12 and 16 day old plants were significantly higher than the number of eggs laid on other plant ages. Similarly 12 and 16-day old plant of Basi local received significantly higher number of eggs followed by 20, 24 and 8-day old plant under no-choice test. The fecundity expression was better observed in choiced scenario than in no choice",
+	"xml:lang":"eng"
+	}
+	}}

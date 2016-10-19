@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Phosphorus content of ditch sediments as indicator of critical source areas.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jansson, Håkan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäntylahti, Väinö.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Närvänen, Aaro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uusitalo, Risto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"fosfori"},
+	{"value":"vesiensuojelu"},
+	{"value":"kuormitus"},
+	{"value":"phosphorus"},
+	{"value":"maanviljely"},
+	{"value":"analysis"},
+	{"value":"valumavesi"},
+	{"value":"water conservation"},
+	{"value":"ojat"},
+	{"value":"environmental control"},
+	{"value":"ravinteet"},
+	{"value":"cultivation"},
+	{"value":"ympäristönvalvonta"},
+	{"value":"leaching"},
+	{"value":"huuhtoutuminen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000369",
+	"dct:identifier":"FI2016000369",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

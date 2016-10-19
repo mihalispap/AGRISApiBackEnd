@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ipekpp.com/admin/upload_files/Report_1_14_Indiarsquos_2437139091.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"India’s Global Resource Footprint in Food, Energy and Water (FEW)",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khurana Indira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar Shiv"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PRK Sohanbabu"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Knowledge Partnership Programme- IPE Global Pvt Ltd"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015409948",
+	"dct:identifier":"IN2015409948",
+	"dct:type":"Report",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19704"
+	},
+	"bibo:abstract":{"value":"One of the most serious challenges for addressing global food security is adequate food production. According to the UN, food output must grow by 60 per cent to feed a population of nine billion or more in 2050. Food production systems are complex. Production of food requires considerable inputs of energy and water, resources over which there are conflicting demands. Already, agriculture accounts for more than 70 per cent of water use and demands will only increase unless growing practices change. Water resources are under stress. Growing evidence indicates that food production systems and water resources are being affected due to a changing climate: Efforts at conversation and efficiency improvement are now non-negotiables. Adopting a FEW (food energy and water) nexus approach will facilitate improved planning, allocation, usage of resources in food production. This report informs abound India’s global FEW footprint and some of the relevant policies and practices adopted to address the challenges of climate change. The nexus approach and these measures offer potential for learning for formulation of policies and practices.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a22.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Stability studies of hybrid yam (Dioscorea rotundata Poir.) genotypes in Ghana"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Otoo, Emmanuel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Okonkwo, Christian C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asiedu, Robert (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100403",
+	"dct:identifier":"FI2016100403",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Seven white yam (Dioscorea rotundata Poir.) genotypes (1 local and 6 hybrids from IITA) were evaluated in 13 environments using randomised complete block design (RCBD) with 3 replications. The environments were Fumesua (forest) from 2000 to 2004 and Wenchi (forest Guinea savannah transition) from 2000 to 2003 and Bodwease (forest-coastal savannah transition) from 2000-2004. The yield data were analysed using the Mixed Model version of the additive main effects multiplicative interaction (AMMI) with one multiplicative term (AMMI1) statistical model in SAS version 8. Highly significant (P<0.001) genotype (G), environments (E) and G x E effects were observed on yield of the tested genotypes. Genotype accounted for 8.9, environment 30.8 and G x E 43.7% of the total sum of squares. The Akaike’s Information Criterion (AIC) value was -817.6 indicating a high degree of statistical fit of the yield data. Using the Additive Main Effects and Multiplicative Interaction (AMMI) model with one multiplicative term (AMMI1), four groupings were identified: low yielding and highly unstable (Dorban and TDr 95/18944); low yielding but very stable (TDr 95/19158); high and stable yielding (TDr 89/02665 and TDr 95/19177) and high but unstable yielding genotypes, (TDr 95/18949 and TDr 89/18894). TDr 89/02665 has therefore been formally released as a new variety (Mankrong Pona) in Ghana in 2005. Bodwease, Wenchi and Fumesua were identified as most favourable and stable environments for yam improvement studies in that order of importance. Bodwease generally had lower leaf spot disease pressure compared with locations that exhibited unstable yields such as Fumesua with higher temperature and relative humidity. Yam improvement therefore should be focused on multiple disease and pest resistance, which would guarantee stability of crop performance."}
+	}}

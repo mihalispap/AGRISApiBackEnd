@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Acessibilidade ao portador de limitação física: aspectos externos e internos do ambiente hospitalar",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Carla Dayanne Cardoso Cipriano "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maurício Mitsuo Monção "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00022",
+	"dct:identifier":"BR2015M00022",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Este artigo aborda as barreiras arquitetônicas referentes ao setor hospitalar, tendo como base 09 artigos nacionais que tratam a respeito das condições de acessibilidade. A partir de uma revisão de literatura, buscou-se identificar quais aspectos externos e internos de acessibilidade aos portadores de limitações físicas foram abordados nas referidas publicações científicas.  Para categorização dos aspectos físicos, foram consideradosos requisitos da ANVISA e da Associação Brasileira de Normas Técnicas a respeito da acessibilidade de pessoas portadoras de deficiências físicasem edificações hospitalares. Os resultados demonstram que a maioria dos artigos encontrados não se guiaram, na íntegra, em suas análises sobre o tema, a partir das recomendações da norma da NBR/ABNT 9050. A análise dos dados contemplou os seguintes aspectos: opercurso casa/hospital, ao entorno do hospital, no interior do prédio e sobre as instalações sanitárias, na qual os resultados foram apresentados em forma de gráficos. Ao final, percebe-se que os hospitais requerem melhores estruturas com vistas a minimizar as barreiras arquitetônicas do deficiente físico a esses serviços",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

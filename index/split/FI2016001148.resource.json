@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Utilization of buckwheat flour in gluten-free egg noodle production.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Bilgiçli, Nermin.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"colour"},
+	{"value":"foods"},
+	{"value":"buckwheat  flour"},
+	{"value":"cereal products"},
+	{"value":"noodles"},
+	{"value":"flours"},
+	{"value":"cooking quality"},
+	{"value":"gluten"},
+	{"value":"buckwheat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001148",
+	"dct:identifier":"FI2016001148",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

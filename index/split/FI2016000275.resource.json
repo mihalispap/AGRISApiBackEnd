@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/8558/6658",
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of growing and finishing dairy bulls offered diets based on whole-crop barley silage with or without protein supplementation relative to a grass silage-based diet.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Huuskonen, Arto.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"carcass composition"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"whole crop silage"},
+	{"value":"lihakarja"},
+	{"value":"beef cattle"},
+	{"value":"ruokinta"},
+	{"value":"dairy cattle"},
+	{"value":"meat production"},
+	{"value":"teuraslaatu"},
+	{"value":"kotieläintuotanto"},
+	{"value":"urea"},
+	{"value":"kasvu"},
+	{"value":"rapeseed meal"},
+	{"value":"bulls"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000275",
+	"dct:identifier":"FI2016000275",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

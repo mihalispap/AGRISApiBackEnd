@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Stem straightness and compression wood in a 22-year-old stand of container-grown Scots pine trees.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Warensjö, Mats.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rune, Göran.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"reaktiopuu"},
+	{"value":"mänty"},
+	{"value":"stem form"},
+	{"value":"Pinus sylvestris"},
+	{"value":"reaction wood"},
+	{"value":"pot plants"},
+	{"value":"stems"},
+	{"value":"runkomuoto"},
+	{"value":"eccentricity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001886",
+	"dct:identifier":"FI2016001886",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

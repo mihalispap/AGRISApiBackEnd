@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of pooled lactation production and reproduction traits in Sahiwal cattle",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":600,
+	"dc:subject":[
+		{"value":"lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"milk performance",
+	"xml:lang":"eng"
+	},
+	{"value":"aptitude laitiere",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"aptitud lechera",
+	"xml:lang":"esp"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"lactacion",
+	"xml:lang":"esp"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":604,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000095",
+	"dct:identifier":"IN2015000095",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"june2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amit Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gandhi, R.S."
+	}
+	}
+	],
+	"bibo:issue":6,
+	"bibo:abstract":{"value":"The pooled lactation records of Sahiwal cows maintained at 3 different farms over a period of 40 years were analysed to evaluate the production and reproduction performance.The overall least squares means of lactation traits for pooled data over the herds and lactations were: 1708.10Â±11.32 kg for 305DMY, 1793.09Â±12.63 kg for LMY, 286.32Â±1.52 days for LL, 155.33Â±2.15 days for SP, 148.61Â±1.97 days for DP and 445.92Â±2.38 days for CI. The effect of herd was significant on all production and reproduction traits. The season was highly significantly influencing 305DMY and LL, whereas it had no significant effect of LMY. The season of calving had significant effect on SP and CI; while it had no significant effect on DP. The effect of period was significant on all production and reproduction traits. The effect of parity was highly significant on all production and reproduction traits. It was observed that first lactation reproduction traits were comparatively of longer duration than the later lactations indicating better reproductive efficiency in later lactations/age of cows.",
+	"xml:lang":"eng"
+	}
+	}}

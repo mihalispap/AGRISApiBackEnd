@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of perch on feed consumption and behaviour of caged laying hens.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Valkonen, Eija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rinne, Reine.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valaja, Jarmo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"egg production"},
+	{"value":"häkkikanalat"},
+	{"value":"animal behaviour"},
+	{"value":"muninta"},
+	{"value":"animal welfare"},
+	{"value":"orret"},
+	{"value":"cages"},
+	{"value":"feed consumption"},
+	{"value":"käyttäytyminen"},
+	{"value":"hens"},
+	{"value":"kana"},
+	{"value":"tuotantoympäristö"},
+	{"value":"rehunkulutus"},
+	{"value":"hyvinvointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000305",
+	"dct:identifier":"FI2016000305",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

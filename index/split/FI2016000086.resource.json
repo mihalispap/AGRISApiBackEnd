@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of rooting media and auxin treatments on the rooting ability of Rupestris du Lot (Vitis rupestris) rootstock cuttings /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sabir, Ali.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kara, Zeki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Küçükbasmact, Ferhan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yücel, Namik Kemal.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rooting"},
+	{"value":"kasvihormonit"},
+	{"value":"pistokaslisäys"},
+	{"value":"vegetative propagation"},
+	{"value":"IBA"},
+	{"value":"auksiinit"},
+	{"value":"cuttings"},
+	{"value":"juurtuminen"},
+	{"value":"juurrutus"},
+	{"value":"growing media"},
+	{"value":"pistokkaat"},
+	{"value":"juurrutushormonit"},
+	{"value":"auxins"},
+	{"value":"viiniköynnökset"},
+	{"value":"Vitis rupestris"},
+	{"value":"kasvullinen lisäys"},
+	{"value":"kasvualustat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000086",
+	"dct:identifier":"FI2016000086",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

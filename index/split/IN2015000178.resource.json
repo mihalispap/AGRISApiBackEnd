@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Time, costs and farmers' perceptions: The case of livestock service delivery in Tamil Nadu",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":209,
+	"dc:subject":[
+		{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"analyse de series chronologiques",
+	"xml:lang":"fre"
+	},
+	{"value":"elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"time series analysis",
+	"xml:lang":"eng"
+	},
+	{"value":"animal husbandry",
+	"xml:lang":"eng"
+	},
+	{"value":"ganaderia",
+	"xml:lang":"esp"
+	},
+	{"value":"ganado",
+	"xml:lang":"esp"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"betail",
+	"xml:lang":"fre"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"analisis de series cronologicas",
+	"xml:lang":"esp"
+	},
+	{"value":"livestock",
+	"xml:lang":"eng"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":4,
+	"bibo:pageEnd":211,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000178",
+	"dct:identifier":"IN2015000178",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_9a9655b4"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Veterinary World (India)"},
+	"bibo:ISSN":{"value":"0972-8988"}
+	}
+	}
+	],
+	"dct:issued":"may2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kathiravan, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thirunavukkarasu, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Selvam, S."
+	}
+	}
+	],
+	"bibo:issue":5,
+	"bibo:abstract":{"value":"A study was undertaken in southern peninsular State of India, the Tamil Nadu State, (i) to ascertain the time costs of animal health care and bovine breeding services, and (ii) to comprehend the perceptions of farmers on the livestock services rendered by different service providers. The districts of the state were categorized as 'Livestock Developed' (LD) and 'Livestock Under Developed' (LUD) based on initial base line developed. Travel, waiting and service time were among the primary non-price factors that affected service quality. Average travel time was highest for visiting the public veterinary centre in both LUD (23.05 min.) and LD (21.32 min.) districts. Waiting time with regard to veterinarians providing home services in LUD districts was highest (23.01 min.), followed by public veterinary centre services at LUD districts (22.35 min.), home services by para-veterinarians (22.01 min.) and public veterinary centre services at LD districts (20.10 min.). Both travel and waiting time were much higher in case of breeding services compared to curative services, which could be due to the fact that the farmers preferred Artificial Insemination (AI) over its close substitute, the natural service. However, the service time was relatively less in case of insemination services vis-Ã -vis curative services both in LUD and LD districts. The quality perceptions of farmers on livestock services revealed that the home services rendered by veterinarians as the best one (0.83), followed by private veterinary clinics (0.75), home services by para-veterinarians (0.74), public veterinary centres (0.64) and co-operative veterinary centres (0.48).",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,79 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":[
+		{"value":"Male effect associated with suckling interruption on the reproductive performance of Santa Inês ewes",
+	"xml:lang":"eng"
+	},
+	{"value":"   Efeito macho associado ao desmame temporário no desempenho reprodutivo de ovelhas Santa Inês ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"breast feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"gestation",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F07788",
+	"dct:identifier":"BR2015F07788",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1435341211.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"CALDAS, E. L. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERREIRA-SILVA, J.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FREITAS NETO, L. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VELOSO NETO, H. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MOURA, M.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LIMA, P. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, M. H. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, M. A. L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"em DT24, amamentação interrompida por 24 horas e em DT48, interrupção da amamentação por 48 horas. Distribuição de estro foi observada em 31 (DT0), 27 (DT24) e 38 (DT48) dias da estação de monta. Sincronização de estro até o quinto dia da estação de monta foi observada em 15% (DT0), 30% (DT24) e 25% (DT48) das fêmeas, não havendo diferença entre os tratamentos. Percentagens de estro foram de 90% (DT0), 100% (DT24) e 100% (DT48), não havendo diferença entre os tratamentos. As taxas de prenhez foram de 38,4% (DT0), 60,0% (DT24) e 45,0% (DT48), sem diferença entre os tratamentos. A prolificidade foi de 1,43 (DT0), 1,17 (DT24) e 1,22 (DT48), e não diferiu entre os tratamentos. Em conclusão, o desmame temporário associado ao efeito macho é eficiente na indução do estro, embora não seja eficiente na sincronização de estros e não aumente as taxas de gestação e prolificidade das ovelhas Santa Inês durante uma estação de monta de 45 dias."},
+	{"value":"in DT24, suckling was interrupted for 24 hours, and in DT48, sucking was interrupted for 48 hours. Estrous distribution was observed within 31 (DT0), 27 (DT24) and 38 (DT48) days of the breeding season. Estrous synchronization up to the 5th day of the mating season was observed in 15% (DT0), 30% (DT24) and 25% (DT48) of the females, with no difference among treatments. Estrous percentages were 90% (DT0), 100% (DT24) and 100% (DT48), with no difference among treatments. Pregnancy rates were 38.4% (DT0), 60.0% (DT24) and 45.0% (DT48) with no difference among treatments. Prolificacy was 1.43 (DT0), 1.17 (DT24) and 1.22 (DT48) and did not differ between treatments. In conclusion, temporary suckling interruption associated with the male effect is efficient to induce estrous but not to synchronize estrous or increase the pregnancy rates and prolificacy of Santa Inês ewes during a 45-day breeding season."},
+	{"value":"in DT0, there was no suckling interruption",
+	"xml:lang":"por"
+	},
+	{"value":"O estudo teve como objetivo avaliar o efeito do desmame temporário associado ao efeito macho sobre o desempenho reprodutivo de ovinos Santa Inês. As fêmeas foram mantidas distantes dos machos por 60 dias e aleatoriamente distribuídas em três tratamentos associados ao efeito macho (DT0, DT24 e DT48), no qual em DT0, não houve interrupção da amamentação"},
+	{"value":"This study aimed to evaluate the effect of temporary suckling interruption associated with the male effect on reproductive performance of pluriparous Santa Inês ewes. The females were kept apart from the males for 60 days and then randomly distributed into three treatments associated with the male effect (DT0, DT24 and DT48)",
+	"xml:lang":"eng"
+	}
+	]
+	}}

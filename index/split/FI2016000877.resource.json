@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Survey of yam production system and the impact of government policies in southwestern Nigeria /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Agbaje, G. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ogunsumi, L. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oluokun, J. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akinlosotu, T. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"plant production"},
+	{"value":"agricultural policies"},
+	{"value":"marketing"},
+	{"value":"jamssit"},
+	{"value":"maatalouspolitiikka"},
+	{"value":"kasvintuotanto"},
+	{"value":"production economics"},
+	{"value":"yams"},
+	{"value":"trooppiset juurekset"},
+	{"value":"Dioscorea rotundata"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000877",
+	"dct:identifier":"FI2016000877",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

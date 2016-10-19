@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nature tourists monitoring and management with the help of the educational nature paths.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Petrova, Elena.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"seuranta"},
+	{"value":"suunnittelu"},
+	{"value":"monitoring"},
+	{"value":"luontopolut"},
+	{"value":"luontomatkailu"},
+	{"value":"tourism"},
+	{"value":"Russian Federation"},
+	{"value":"recreation"},
+	{"value":"virkistyskäyttö"},
+	{"value":"management"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000520",
+	"dct:identifier":"FI2016000520",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Does scale matter? : cost-effectiveness of agricultural nutrient abatement when target level varies.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Iho, Antti.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"ympäristö"},
+	{"value":"agricultural policies"},
+	{"value":"vesiensuojelu"},
+	{"value":"Finland"},
+	{"value":"maatalous"},
+	{"value":"vesistöt"},
+	{"value":"agriculture"},
+	{"value":"vesistönkuormitus"},
+	{"value":"nutrients"},
+	{"value":"kustannustehokkuus"},
+	{"value":"environment"},
+	{"value":"water conservation"},
+	{"value":"cost analysis"},
+	{"value":"ravinteet"},
+	{"value":"efficiency"},
+	{"value":"leaching"},
+	{"value":"water pollution"},
+	{"value":"environmental policies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002153",
+	"dct:identifier":"FI2016002153",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Timing of seed dispersal in Pinus sylvestris stands in central Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hannerz, Mats.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Almqvist, Curt.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hörnfeldt, Roland.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"seed trees"},
+	{"value":"luontainen uudistaminen"},
+	{"value":"maanmuokkaus"},
+	{"value":"aika"},
+	{"value":"natural regeneration"},
+	{"value":"seed crops"},
+	{"value":"temperature"},
+	{"value":"siemenpuut"},
+	{"value":"mänty"},
+	{"value":"lämpötila"},
+	{"value":"siemensato"},
+	{"value":"Pinus sylvestris"},
+	{"value":"soil scarification"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000688",
+	"dct:identifier":"FI2016000688",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"MORCEGOS (MAMMALIA, CHIROPTERA) EM CAVERNAS NO MUNICÍPIO DE URUARÁ, PARÁ, NORTE DO BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":81,
+	"bibo:volume":4,
+	"bibo:pageEnd":86,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00144",
+	"dct:identifier":"BR2015N00144",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/888",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Reinaldo Lucas Cajaiba"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade de Trás-os-Montes e Alto Douro, Portugal"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<span style=\"font-size: 11.0pt; line-height: 115%; font-family: \">O presente estudo teve como objetivo inventariar as espécies de quirópteros em cinco cavernas no município de Uruará-PA. As coletas foram realizadas entre os meses de outubro e novembro de 2013 através de redes de neblina (<mist nest)</em>. Um total de 166 indivíduos foram capturados, distribuídos em nove espécies, três famílias e cinco guildas tróficas. Como resultado, obtivemos uma maior dominância de Desmodus rotundus</em>, seguido por Carollia perspicilata e Pteronotus parnellii</em>. O índice de Diversidade de Shannon foi mais elevado para cavernas mais preservadas, enquanto que em cavernas com maior nível de antroponização tiveram uma maior dominância (Índice de Berger-Parker). A curva de rarefação de espécies não atingiu a assíntota, indicando que não foram encontradas todas as espécies de quirópteros ocorrentes nas cavernas amostradas, demostrando a importância da continuidade dos inventários com maior número de levantamentos, não apenas nestas cavernas estudadas, mas em outras existentes na região.</span>",
+	"xml:lang":"por"
+	}
+	}}

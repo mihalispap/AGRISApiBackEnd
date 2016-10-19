@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality deterioration of Malaysian Patin fish during cold storage"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188151",
+	"dct:identifier":"FI2007188151",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f15.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abbas, K. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mokhtar, A. S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sapuan, S. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mawlood, M.K. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The present paper deals with quality deterioration of Malaysin Patin fish during cold storage in the temperature range of 0 to 10°C. A fresh batch of typical samples was stored in four chillers of different temperatures for a period of 28 days. During the course of storage, the samples were subjected to pH and sensory tests periodically performed by trained panelists. A correlation was developed between the sensory tests and the storage time and temperatures via the acidity (pH) test. The correlation was presented graphically to form simple tool to the fish market retailers by which the quality and the shelf life of the displayed fish commodity could be estimated."}
+	}}

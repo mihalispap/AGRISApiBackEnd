@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Productive performance and economic analysis of Santa Inês sheep slaughtered at different subcutaneous fat levels",
+	"xml:lang":"eng"
+	},
+	{"value":"   Desempenho produtivo e análise econômica de cordeiros Santa Inês abatidos com diferentes espessuras de gordura subcutânea ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"performing animals",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"carcasses",
+	"xml:lang":"eng"
+	},
+	{"value":"costs",
+	"xml:lang":"eng"
+	},
+	{"value":"feedlots",
+	"xml:lang":"eng"
+	},
+	{"value":"profitability",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p46",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00016",
+	"dct:identifier":"BR2016F00016",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p46",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"QUEIROZ, L.O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MACÊDO, F. A. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, G.R.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MORA, N. H. A. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TORRES, M. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTANA, T. E. Z."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"3,0 e 4,0 mm de espessura de gordura subcutânea. O delineamento experimental adotado foi o inteiramente casualizado, com três tratamentos e oito repetições por tratamento. Foram considerados como produtividade, o peso corporal final, a ingestão de matéria seca, os ganhos de peso diário e total, e a conversão alimentar. Já para determinação da espessura de gordura economicamente viável para abate, foram considerados apenas os custos diretos de produção, como a aquisição dos cordeiros, os custos com ração e as despesas com mão de obra e analisado a receita, despesa e lucro. O peso corporal final e ganho de peso total apresentaram diferenças significativas (P"},
+	{"value":"The objective of this study was to evaluate the productive and economic performance of feedlot-finished Santa Inês lambs slaughtered at three subcutaneous fat levels. Twenty-four uncastrated male lambs with 100 ± 10 days of age and an initial body weight of 22.6 ± 3.9 kg were randomly assigned to three treatments and slaughtered at a subcutaneous fat thickness of 2.0, 3.0 and 4.0 mm. A completely randomized design consisting of three treatments and eight repetitions per treatment was adopted. Productivity parameters included final body weight, dry matter intake, daily and total weight gains, and feed conversion. For the determination of economically viable fat thickness for slaughter, only direct production costs such as lamb purchase costs, feed costs and cost of labor were considered, and revenue, expenses and profit were analyzed. The final body weight and total weight gain differed significantly (P",
+	"xml:lang":"eng"
+	},
+	{"value":"O objetivo desse trabalho foi avaliar o desempenho produtivo e econômico de cordeiros da raça Santa Inês em confinamento, abatidos com três espessuras de gordura subcutânea. Vinte e quatro cordeiros, machos não castrados, com 100 ± 10 dias de idade e peso corporal inicial de 22,60 ± 3,90 kg, foram alocados aleatoriamente em três tratamentos e abatidos com 2,0",
+	"xml:lang":"por"
+	}
+	]
+	}}

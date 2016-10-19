@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Teaching environmental ethics : from theory to practice.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kuczynski, Tadeusz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuczynska, Alicja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ethical reasoning"},
+	{"value":"ethics"},
+	{"value":"koulutus"},
+	{"value":"ympäristöetiikka"},
+	{"value":"ethical choice"},
+	{"value":"education"},
+	{"value":"päättely"},
+	{"value":"environmental ethics"},
+	{"value":"environmental policies"},
+	{"value":"valinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001538",
+	"dct:identifier":"FI2016001538",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

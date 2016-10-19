@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Molecular detection of begomovirus causing French bean (Phaseolus vulgaris L.) yellow mosaic disease",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":352,
+	"dc:subject":[
+		{"value":"bemisia tabaci",
+	"xml:lang":"esp"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":354,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000523",
+	"dct:identifier":"IN2015000523",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jeevan, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jagadeesh, E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, H.D. Vinay"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Kartar"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"French bean yellow mosaic virus is a whitefly (Bemisia tabaci) transmitted by begomovirus causing a serious disease of french bean in southern India. The typical symptoms of present isolate showed brilliant yellow or golden yellow colour on leaves which may be partially or completely yellow. The importance of this disease has promoted a great need for rapid identification of yellow mosaic virus infecting french bean. Polymerase chain reaction (PCR) is the most sensitive approach to detect a minute amount of viral nucleic acid. In this study, geminivirus specific primers were employed to detect yellow mosaic virus infecting french bean by PCR based approach. One primer pair amplified yellow mosaic virus DNA fragment of coat protein gene was used a PCR amplified fragment of about 1 KB was obtained. This approach was highly useful for an early detection of french bean yellow mosaicvirus.",
+	"xml:lang":"eng"
+	}
+	}}

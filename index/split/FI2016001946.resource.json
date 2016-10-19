@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutrient uptake and biomass accumulation for eleven different field crops.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hakala, Kaija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Keskitalo, Marjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eriksson, Christian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pitkänen, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant production"},
+	{"value":"peltokasvit"},
+	{"value":"nutrient intake"},
+	{"value":"viljelykasvit"},
+	{"value":"biomass"},
+	{"value":"ravinteiden otto"},
+	{"value":"biomassa"},
+	{"value":"crops"},
+	{"value":"phosphorus"},
+	{"value":"nitrogen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001946",
+	"dct:identifier":"FI2016001946",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

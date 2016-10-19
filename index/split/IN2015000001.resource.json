@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Agricultural mechanisation development in India",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"mecanisation",
+	"xml:lang":"fre"
+	},
+	{"value":"materiel agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"agricultura",
+	"xml:lang":"esp"
+	},
+	{"value":"planes de desarrollo",
+	"xml:lang":"esp"
+	},
+	{"value":"farm equipment",
+	"xml:lang":"eng"
+	},
+	{"value":"mecanizacion",
+	"xml:lang":"esp"
+	},
+	{"value":"mechanization",
+	"xml:lang":"eng"
+	},
+	{"value":"agriculture",
+	"xml:lang":"fre"
+	},
+	{"value":"development plans",
+	"xml:lang":"eng"
+	},
+	{"value":"equipo de la explotacion agraria",
+	"xml:lang":"esp"
+	},
+	{"value":"plan de developpement",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:pageStart":64,
+	"bibo:volume":70,
+	"bibo:pageEnd":82,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000001",
+	"dct:identifier":"IN2015000001",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f451062e"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal Of Agricultural Economics (India)"},
+	"bibo:ISSN":{"value":"0019-5014"}
+	}
+	}
+	],
+	"dct:issued":"jan-mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Singh, Gajendra"
+	}
+	},
+	"bibo:issue":1
+	}}

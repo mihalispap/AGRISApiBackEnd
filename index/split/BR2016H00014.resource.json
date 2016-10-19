@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"EMERGÊNCIA DE PICÃO-PRETO EM DIFERENTES PROFUNDIDADES DE SEMEADURA E DIFERENTES AMBIENTES",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":60,
+	"bibo:volume":2,
+	"bibo:pageEnd":65,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00014",
+	"dct:identifier":"BR2016H00014",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/250",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"André Cirilo de Sousa Almeida"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fernando Castro de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maurilio de Sousa Netto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bruna do Carmo Vieira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cleiton Gredson Sabin Benett"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Entender a dinâmica da semente de planta daninha em função da profundidade é fundamental para promover atividade de controle. O objetivo deste trabalho foi avaliar a emergência de sementes de picão-preto submetidas a diferentes profundidades de ...",
+	"xml:lang":"por"
+	}
+	}}

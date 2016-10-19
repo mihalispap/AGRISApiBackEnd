@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical compositions and antimicrobial property of three edible and medicinal Cordyceps species.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Xiao JianHui
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Xiao DaiMin
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sun ZhongHua
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Xiong Qing
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liang ZongQi
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhong JianJiang
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"zinc"},
+	{"value":"edible fungi"},
+	{"value":"essential amino acids"},
+	{"value":"selenium"},
+	{"value":"polysaccharides"},
+	{"value":"nutritive value"},
+	{"value":"antimicrobial properties"},
+	{"value":"Cordyceps"},
+	{"value":"nucleosides"},
+	{"value":"unsaturated fatty acids"},
+	{"value":"quality"},
+	{"value":"chemical composition"},
+	{"value":"aspartic acid"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001255",
+	"dct:identifier":"FI2016001255",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

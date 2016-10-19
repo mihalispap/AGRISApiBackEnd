@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Immunosuppressive activity of polysaccharides from Cordyceps gunnii mycelia in mice in vivo/vitro /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Xiao, Jian-hui.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liang, Zong-qi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu, Ai-ying.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chen, Dai-xiong.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Xiao, Yu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu, Jin-wei.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wan, Wei-hong.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Cordyceps"},
+	{"value":"lääkkeet"},
+	{"value":"entomogenous fungi"},
+	{"value":"immunosuppressants"},
+	{"value":"polysaccharides"},
+	{"value":"polysakkaridit"},
+	{"value":"kehittäminen"},
+	{"value":"sienet"},
+	{"value":"medicinal properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001026",
+	"dct:identifier":"FI2016001026",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

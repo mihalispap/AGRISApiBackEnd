@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-62.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Materials for the calibration of the FTC pea tenderometer"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gariépy, Yvan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vigneault, Clément (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ragahvan, Vijaya G.S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100144",
+	"dct:identifier":"FI2016100144",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The price of green peas for processing is related to its tenderness. The precision in the measurement of this characteristic is then very important and is based on the accuracy of the calibration of the tenderometer used. FTC tenderometers are the most widely used tenderometers in North America. Trials were conducted to determine the tenderness of seven different materials that could be used as a substitute to fresh peas in the calibration of the FTC tenderometers. The calibration of a FTC tenderometer was then attempted with some of these materials. Of all materials tested, only thawed frozen-peas and rehydrated freeze-dried peas appeared to have the required characteristics to be a useful substitute to fresh peas for the calibration of the FTC tenderometers. Observations pointed to the test cell as one of the weaknesses of the instrument. In addition, the cell appeared predisposed to uneven ware and it was difficult to clean."}
+	}}

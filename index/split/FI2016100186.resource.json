@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-22.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Selection of antagonistic yeasts to greend mold disease of Citrus in Morocco"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bouzerda, L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Boubaker, H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Boudyach, E.H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akhayat, O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aoumar, A. Ait Ben (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100186",
+	"dct:identifier":"FI2016100186",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A total of 46 yeast isolates, antagonistic to Penicillium digitatum Sacc., the causal agent of green mold of citrus, were isolated from the fruit surface of three citrus cultivars ‘Clementine’, ‘Salustiana’ and ‘Valencia-late’ from different orchards in the Souss Valley, Agadir, Morocco. The selection of antagonistic yeasts was based on their efficacy to protect artificial wounds inoculated by P.digitatum. Nineteen strains reduce the incidence of the disease by 50% or more compared to the untreated control and two of them (L13 and L22) limited the percentage of infection to 2%. The isolate L22 significantly reduced green mold on citrus during 30 days of storage at 4°C followed by 7 days at 25°C. The population of this isolate increased in wounds of citrus fruits at 25°C and 4°C and remained viable over a period of 30 days."}
+	}}

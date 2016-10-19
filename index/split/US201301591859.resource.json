@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Investigation of multi-drug resistant microbes in retail meats"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591859",
+	"dct:identifier":"US201301591859",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f15.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chan, Philip A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wakeman, Sarah E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Angelone, Adele (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mermel, Leonard A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Methicillin-resistant Staphylococcus aureus and other multi-drug resistant organisms have been identified in retail meat from Europe and Asia, but no published reports regarding meat products in the United States. Uncooked beef, chicken and pork from 10 butcher shops and supermarkets were sampled for the presence of methicillin-resistant S. aureus, vancomycin-resistant Enterococcus, extended-spectrum beta-lactamase producing Gram-negative bacteria and Escherichia coli 0157:H7. Only one of 36 samples (3%) grew any of these microbes, the extended-spectrum beta-lactamase producing Gram-negative bacterium Serratia fonticola, found in a pork sample. Staphylococcus aureus was isolated from four samples, but all were methicillin-susceptible isolates. Both “natural” and “conventional” meat products were tested. A potential source of multi-drug resistant bacteria in humans may be contaminated commercial meat products. However, based on our preliminary study, the prevalence of such potential pathogens in the Northeast US meat supply may be relatively low at this time."}
+	}}

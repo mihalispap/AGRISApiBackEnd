@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal incidence and damage of major insect pests of pigeon pea, Cajanus cajan (L.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":202,
+	"dc:subject":[
+		{"value":"pest insects",
+	"xml:lang":"eng"
+	},
+	{"value":"maruca vitrata",
+	"xml:lang":"esp"
+	},
+	{"value":"insectos daninos",
+	"xml:lang":"esp"
+	},
+	{"value":"insecte nuisible",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":206,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000901",
+	"dct:identifier":"IN2015000901",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sujithra M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chander Subhash"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Seasonal dynamics of insect pests in pigeonpea cultivar, Pusa 992 during kharif 2011 and kharif 2012 revealed that pest activity commenced from 36th standard meteorological week (SMW) and continued until 46th SMW. The 38th and 39th SMW were found to be more congenial for pest attack in pigeon pea. Highest larval population of Maruca vitrata was found to be 8.10 and 17.77 larva per plant while that of Grapholita critica was 5.77 and 6.07 larva per plant during two years, respectively. During kharif 2012, pod borer complex caused 19.11 per cent pod damage that could be attributed to M. vitrata (9.7 %), pod fly (5.3%), gram pod borer (2.6%) and leaf webber (2.3%).To undertake an effective IPM strategy in pigeonpea crop, location specific information on occurrence and seasonal dynamics of insect pests is indispensible.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of water deficit on growth, grain yield and osmotic adjustment in rapeseed"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2012447808",
+	"dct:identifier":"FI2012447808",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a36.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Norouzi, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toorchi, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Salekdeh, Gh. Hosseini (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohammadi, S. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Neyshabouri, M. R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aharizad, S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Drought is one of the most important environmental factors limiting the growth and productivity of field crops. Rapeseed cultivated in semiarid area usually face water deficit during the flowering stage which reduces the grain production dramatically in susceptible genotypes. This study was conducted during two growing seasons (2005-2007) to evaluate the response of fourteen rapeseed (Brassica napus L.) genotypes to water stress and to determine the key physiological traits associated with drought tolerance during the flowering period. The experiments were carried out in field under two well-watered and water stress conditions and physio-morphological traits were measured under both the conditions. The results showed that the number of pods per plant was affected more than other yield components under water deficit condition. Increment of root:shoot dry weight ratio and reduction in leaf water potential and leaf osmotic potential were observed for all the genotypes under water stress condition. Free proline was increased in the leaves under water deficit condition. All the genotypes showed some degree of osmotic adjustment (OA) in response to water deficit. Osmotic adjustment was positively correlated with shoot dry weight (r = 0.74; P<0.01) and grain yield (r = 0.57; P<0.05) under water deficit condition but not under well-watered condition. The Fv/Fm (maximum quantum yield of photosystem II) values were decreased in water deficit condition compared to well-watered condition, but the difference was not significant statistically. Cluster analysis could divide the genotypes Okapi and Orient as tolerant, Fornax and Dexter as sensitive and the remaining genotypes as moderately tolerant to water deficit stress. This experiment showed the contribution of OA through increasing proline concentration, among the others, to improve the performance of rapeseed genotypes subjected to drought under field condition."}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Ecology of species living on dead wood : lessons for dead wood management.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jonsson, Bengt Gunnar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kruys, Nicholas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ranius, Thomas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lahopuu"},
+	{"value":"lajit"},
+	{"value":"elinympäristö"},
+	{"value":"habitats"},
+	{"value":"species"},
+	{"value":"deadwood"},
+	{"value":"epixylic species"},
+	{"value":"landscaping"},
+	{"value":"coarse woody debris"},
+	{"value":"forest management"},
+	{"value":"Fennoscandian forests"},
+	{"value":"woodland key habitats"},
+	{"value":"maisemasuunnittelu"},
+	{"value":"landscape conservation"},
+	{"value":"metsäekologia"},
+	{"value":"metsänhoito"},
+	{"value":"forest ecology"},
+	{"value":"saproxylic species"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002233",
+	"dct:identifier":"FI2016002233",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

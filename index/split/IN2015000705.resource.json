@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Strategies for increasing coconut production, productivity and farmers income",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":28,
+	"dc:subject":[
+		{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"produccion",
+	"xml:lang":"esp"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"production",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvi",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000705",
+	"dct:identifier":"IN2015000705",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Romulo N. Arancon"
+	}
+	},
+	"bibo:issue":8
+	}}

@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Contrasting tree-ring data with fire record in a pine-dominated landscape in the Komi Republic (Eastern European Russia) : recovering a common climate signal.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Drobyshev, Igor.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niklasson, Mats.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Angelstam, Per.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"seasonal dating"},
+	{"value":"metsäpalot"},
+	{"value":"natural disturbance"},
+	{"value":"natural disasters"},
+	{"value":"kevätpuu"},
+	{"value":"luonnononnettomuudet"},
+	{"value":"kesäpuu"},
+	{"value":"vuodenajat"},
+	{"value":"weather control"},
+	{"value":"boreaaliset metsät"},
+	{"value":"growth rings"},
+	{"value":"earlywood"},
+	{"value":"chronology"},
+	{"value":"sää"},
+	{"value":"seasons"},
+	{"value":"ilmasto"},
+	{"value":"latewood"},
+	{"value":"boreal forests"},
+	{"value":"climate"},
+	{"value":"forest fires"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001930",
+	"dct:identifier":"FI2016001930",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

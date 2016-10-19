@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of blood metabolites and metabolic hormones on response and conception in postpartum Sahiwal cows after Ovsynch treatment",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":665,
+	"dc:subject":[
+		{"value":"periodo perinatal",
+	"xml:lang":"esp"
+	},
+	{"value":"tiroxina",
+	"xml:lang":"esp"
+	},
+	{"value":"perinatal period",
+	"xml:lang":"eng"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"triiodothyronine",
+	"xml:lang":"fre"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"periode perinatale",
+	"xml:lang":"fre"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"thyroxine",
+	"xml:lang":"fre"
+	},
+	{"value":"triyodotironina",
+	"xml:lang":"esp"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":668,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000135",
+	"dct:identifier":"IN2015000135",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ali, Sarfraj"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Awasthi, M.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, J.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiwari, R.P."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"Present investigation was conducted to investigate the influence of blood metabolites and metabolic hormones on  conception after Ovsynch treatment in postpartum Sahiwal cows. Experimental animals (12) were randomly divided in  to 2 groups, of 6 animals each. Animals of group 1 were treated with traditional Ovsynch protocol beginning on day 60  postpartum (day 0 of Ovsynch protocol), while animals of group 2 were treated with a modified Ovsynch protocol,  where first GnRH injection was replaced with hCG. Treated animals were inseminated at fixed time between  14 and 20 h after second GnRH injection without estrus detection. Blood samples were collected from each experimental  animal on days 50, 60 and 68 postpartum; and blood glucose and serum concentrations of non-esterified fatty acid  (NEFA), insulin, tri iodothyronine (T3) thyroxin (T4) and progesterone (P4) were determined. Non-conceived animals  recorded significantly higher mean serum NEFA concentration than in conceived animals on days 50, 60 and 68  postpartum. Conceived animals had significantly higher blood glucose concentration on day 68, significantly higher  serum insulin concentration on days 50, 60 and 68, significantly higher serum T4   concentration on days 60 and 68 and  significantly higher serum T4 concentration on day 60 postpartum than in non-conceived animals. From the present  study, it may be concluded that decreased serum NEFA concentration and an increased level of blood glucose and serum  concentrations of insulin, T3  and T4 probably favoured to achieve conception in Ovsynch treated postpartum Sahiwal  cows.",
+	"xml:lang":"eng"
+	}
+	}}

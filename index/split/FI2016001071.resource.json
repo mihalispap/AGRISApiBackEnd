@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Erosion of the rule of law in timber production in Sub-Sahara Africa : a case from the Tanzanian forest sector.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Hildebrand, E. Shayo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"wood products"},
+	{"value":"hakkuu"},
+	{"value":"rikollisuus"},
+	{"value":"trade"},
+	{"value":"United Republic of Tanzania"},
+	{"value":"legislation"},
+	{"value":"logging"},
+	{"value":"compliance"},
+	{"value":"puukaupat"},
+	{"value":"timber trade"},
+	{"value":"Sub-Sahara Tanzania"},
+	{"value":"lainsäädäntö"},
+	{"value":"law enforcement"},
+	{"value":"illegal practices"},
+	{"value":"illegal logging"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001071",
+	"dct:identifier":"FI2016001071",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

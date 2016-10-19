@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"User perspections of the FRA 2000.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Matthews, Emily.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grainger, Alan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methods"},
+	{"value":"forest resources"},
+	{"value":"metsävarat"},
+	{"value":"forest inventories"},
+	{"value":"metsäninventointi"},
+	{"value":"menetelmät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001848",
+	"dct:identifier":"FI2016001848",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

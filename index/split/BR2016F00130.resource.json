@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   no periparto "},
+	{"value":"Metabolic profile of santa inês ewes whith low body condition score during peripartum",
+	"xml:lang":"eng"
+	},
+	{"value":"   Perfil metabólico em ovelhas Santa Inês ",
+	"xml:lang":"por"
+	},
+	{"value":"   com baixo escore de condição corporal "}
+	],
+	"dc:subject":[
+		{"value":"nutrition",
+	"xml:lang":"eng"
+	},
+	{"value":"calcium",
+	"xml:lang":"eng"
+	},
+	{"value":"parturition",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"energy",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"69/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00130",
+	"dct:identifier":"BR2016F00130",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1366027738.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"NASCIUTTI,  N. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TSURUTA,  S. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA,  R. S. B. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BISINOTO,  M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"HEADLEY,  S. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MUNDIM,  A. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NOLETO,  P. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SAUT,  J. P. E."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this study was to analyse the variations in the metabolic profile of protein, energy enzyme and mineral of Santa Inês ewes with low body condition score (BCS) during peripartum. Blood samples were collected from 12 animals by jugular venipuncture to determine the serum biochemical profiles of protein, energy, mineral and enzyme metabolisms. Samples were collected on the following days: days 28, 21, 14, and 7 before lambing, at birth and, at days 2, 4, 7, 14, 21, and 28 postpartum (dpp). The samples were centrifuged and the serum analysed by Automated-Analyser. There was no alteration of the BCS during the 28 dpp, between 0.6 and 2.1 ± 2.4 ± 0.5, and was considered, as lean. The values of the total serum protein, globulin, albumin, and albumin/globulin ratio were reduced effective from the period before birth until 28dpp. The values of beta-hydroxybutyrate, calcium, phosphorus and magnesium remained below those of reference values. The concentrations of alanin aminotransferase (ALT) were decreased particularly during the weeks before delivery. It was concluded that Santa Inês sheep with low body condition score demonstrated a reduction in the metabolism of proteins, energy, mineral and enzyme during peripartum.",
+	"xml:lang":"eng"
+	},
+	{"value":"Com o objetivo de estudar a variação do perfil metabólico protéico, energético, enzimático e mineral em ovelhas da raça Santa Inês com baixo escore de condição corporal no periparto (ECC), foram coletadas amostras de sangue de 12 animais por venopunção jugular para a realização do perfil bioquímico sérico dos metabólitos, protéico, energético, enzimático e mineral no 28, 21, 14 e 7 dias,pré-parto, no dia do parto e aos 2, 4, 7, 14, 21 e 28 dias pós-parto (dpp). As amostras foram centrifugadas e o soro analisado em Analisador automático. O ECC não variou durante os 28 dpp e permaneceu entre 2,1±0,6 e 2,4±0,5 considerado magro. Os valores séricos das proteínas totais, globulina, albumina e relação albumina/globulina mantiveram-se menores desde o período que antecedeu o parto até os 28 dpp. O beta-hidroxibutirato se manteve abaixo dos valores de referência. Os minerais cálcio, fósforo e magnésio mantiveram-se inferiores aos valores de referência. Os valores da alanina aminotransferase (ALT) estavam baixos principalmente nas semanas que antecederam o parto. Concluiu-se que ovelhas Santa Inês com baixo escore de condição corporal apresentam diminuição nos metabolismos protéico, energético, mineral e enzimático no periparto.",
+	"xml:lang":"por"
+	}
+	]
+	}}

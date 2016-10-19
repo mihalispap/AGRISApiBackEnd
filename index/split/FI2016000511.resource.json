@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of inoculated lactic acid bacteria in fermenting sour cabbage.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Petäjä, Esko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Myllyniemi, Päivi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Petäjä, Pasi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ollilainen, Velimatti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Piironen, Vieno.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vihannekset"},
+	{"value":"lactic acid bacteria"},
+	{"value":"Lactobacillus"},
+	{"value":"gabbages"},
+	{"value":"maitohappokäyminen"},
+	{"value":"fermented foods"},
+	{"value":"vegetables"},
+	{"value":"maitohappobakteerit"},
+	{"value":"kaalit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000511",
+	"dct:identifier":"FI2016000511",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

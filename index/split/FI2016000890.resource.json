@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n3p207.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of different models for the estimation of genetic parameters of body weight traits in Moghani sheep.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hossein-Zadeh, Navid.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ardalan, Mehrnaz.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"animal models"},
+	{"value":"ominaisuudet"},
+	{"value":"paino"},
+	{"value":"lihantuotanto"},
+	{"value":"heritabiliteetti"},
+	{"value":"kasvu"},
+	{"value":"genetic parameters"},
+	{"value":"meat animals"},
+	{"value":"birth weight"},
+	{"value":"sheep"},
+	{"value":"heritability"},
+	{"value":"lammas"},
+	{"value":"syntymäpaino"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000890",
+	"dct:identifier":"FI2016000890",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

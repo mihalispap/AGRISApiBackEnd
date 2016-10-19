@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Processing of milk and its effects on milk components from the viewpoint of human nutrition and health : a review.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Frølich, Wenche.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"elintarviketekniikka"},
+	{"value":"terveysvaikutukset"},
+	{"value":"heat treatment"},
+	{"value":"ravitsemus"},
+	{"value":"homogenization"},
+	{"value":"human nutrition"},
+	{"value":"quality"},
+	{"value":"homogenointi"},
+	{"value":"lämpökäsittely"},
+	{"value":"laatu"},
+	{"value":"maito"},
+	{"value":"health"},
+	{"value":"elintarvikkeiden laatu"},
+	{"value":"cow milk"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF/NMR-seminar
+    (252 :
+    1995 :
+    Turku)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000525",
+	"dct:identifier":"FI2016000525",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

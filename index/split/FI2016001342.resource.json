@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1008",
+	"dct:title":{"value":"Spatial statistics in ecological analysis: from indices to functions.",
+	"xml:lang":"   "
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Szmyt, Janusz,
+    kirjoittaja.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"ekologia"},
+	{"value":"spatial ecology"},
+	{"value":"spatial analyses"},
+	{"value":"spatial functions"},
+	{"value":"tilamallit"},
+	{"value":"spatial indices"},
+	{"value":"avaruudellinen hahmottaminen"}
+	],
+	"bibo:doi":"10.14214/sf.1008",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001342",
+	"dct:identifier":"FI2016001342",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

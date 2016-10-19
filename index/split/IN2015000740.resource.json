@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of medicinal and aromatic plants as intercrops in coconut plantations in Konkan region of Maharashtra",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":384,
+	"dc:subject":[
+		{"value":"medicinal and aromatic plants"},
+	{"value":"intercrop"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"plantas medicinales",
+	"xml:lang":"esp"
+	},
+	{"value":"plante medicinale",
+	"xml:lang":"fre"
+	},
+	{"value":"drug plants",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":388,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000740",
+	"dct:identifier":"IN2015000740",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nagwekar, D.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sawant, V.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Haldankar, P.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jadhav, B.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arulraj, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maheswarappa, H. P."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A field experiment was conducted at Regional Coconut Research Station, Bhatye, Ratnagiri (AICRP on Palms) during 2006-2011 to develop appropriate cropping system with medicinal and aromatic plants as intercrops compatible with coconut. The experiment consisted shatavari (Asparagus racemosus), adulasa (Adhatoda vasica), arrowroot (Maranta arundincea), lemon grass (Cymbopogum citratus) and citronella  (Cymbopogum winterianus) replicated four times in randomized block design. The yield of different medicinal/aromatic plants was maximum in  lemon grass (31 t ha-1)followed by citronella (22 t ha-1), arrowroot (16 t ha-1), adulsa (2.1 t ha-1) and shatavari (0.8 t ha-1). The yield of intercrops in terms of coconut equivalent yield was higher with lemongrass (7750 nuts ha-1) followed by arrowroot (6000 nuts ha-1), adulasa (4725 nuts ha-1), citronella  (4125 nuts ha-1) and shatavari(3500 nuts ha-1). The yield of coconut increased from 12 to 21 per cent after planting the intercrops. The net return was maximum in coconut + lemongrass (Rs. 96,200/- per ha) followed by coconut + arrowroot (Rs. 93,200/- per ha), coconut + shatavari (Rs. 83,300/- per ha), coconut + adulasa (Rs. 78,300/- per ha) and coconut + citronella (Rs. 73,800/- per ha). Further, it was observed that shatavarin and saponins in shatavari, alkaloid in adulasa, citranol in citronella and sugar in arrowroot were higher with intercropping whereas citral in lemon grass slightly reduced with intercropping. Considering the performance of different medicinal crops as intercrop and market demand, arrowroot, lemongrass, adulasa, citronella and shatavari have been recommended as intercrops in coconut plantation for Konkan region of Maharashtra.",
+	"xml:lang":"eng"
+	}
+	}}

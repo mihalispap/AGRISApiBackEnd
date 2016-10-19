@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The use of Isubgol and Sequestrene 138 for the in vitro propagation of the highbush blueberry (Vaccinium corumbosum L.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Clapa, Doina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fira, Alexandru.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rusu, Teodor.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"husks"},
+	{"value":"in vitro culture"},
+	{"value":"Vaccinium corymbosum"},
+	{"value":"varieties"},
+	{"value":"micropropagation"},
+	{"value":"shoots"},
+	{"value":"vigour"},
+	{"value":"plant propagation"},
+	{"value":"growing media"},
+	{"value":"iron"},
+	{"value":"gels"},
+	{"value":"chlorosis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002039",
+	"dct:identifier":"FI2016002039",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Surface runoff, subsurface drainflow and soil erosion as affected by tillage in a clayey Finnish soil /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Turtola, Eila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alakukku, Laura.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uusitalo, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaseva, Antti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pintavalunta"},
+	{"value":"Finland"},
+	{"value":"erosion"},
+	{"value":"maanmuokkaus"},
+	{"value":"valunta"},
+	{"value":"drainage"},
+	{"value":"kevennetty maanmuokkaus"},
+	{"value":"eroosio"},
+	{"value":"muokkaus"},
+	{"value":"soil structure"},
+	{"value":"maaperä"},
+	{"value":"clay soils"},
+	{"value":"runoff"},
+	{"value":"tillage"},
+	{"value":"savimaat"},
+	{"value":"rakenne"},
+	{"value":"minimum tillage"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000331",
+	"dct:identifier":"FI2016000331",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

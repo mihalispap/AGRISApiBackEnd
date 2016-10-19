@@ -1,0 +1,85 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Qualidade sanitária de sementes de mamona (cv. IAC-226) ",
+	"xml:lang":"por"
+	},
+	{"value":"Sanitary quality of castor bean seeds (cv. IAC-226)",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"biodiesel",
+	"xml:lang":"eng"
+	},
+	{"value":"fungi",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202853",
+	"dct:identifier":"BR2015202853",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/452/258",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Márcia Santos de Souza David Andréia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fontes Araujo Eduardo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fontes Araujo Roberto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hiydu Mizobutsi Edson"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiago Ribeiro Amaro Hugo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tavares Dos Reis Sidnei"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Janauba, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Viçosa, Viçosa, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Empresa de Pesquisa Agropecuária de Minas Gerais, Viçosa, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Janauba, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Viçosa, Viçosa, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Janauba, MG, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Objetivou-se com este trabalho avaliar a eficiência de fungicidas na qualidade sanitária de sementes de mamona, cultivar IAC-226. As sementes foram tratadas com duas doses dos fungicidas captan (250 e 300 g i.a 100 kg-1 de sementes), tiofanato-metílico (100 e 150 g i.a 100 kg-1 de sementes) e tiabendazol (100 e 150 g i.a 100 kg-1 de sementes). Sementes sem tratamento constituíram atestemunha. Para a avaliação da qualidade sanitária das sementes pelo teste de sanidade, utilizou-se de 10 repetições de 20 sementes por tratamento/lote, desinfestadas superficialmente (com hipoclorito de sódio) e acondicionadas em caixas plásticas tipo gerbox, com papel de filtro e água destilada esterilizados, permanecendo sob temperatura controlada de 25 ºC por 20 dias. Examinaram-se as sementes individualmente com auxílio de lupa estereoscópica e microscópio ótico, e os resultados expressos em porcentagem de sementes infectadas. O delineamento utilizado foi o inteiramente casualizado, em arranjo fatorial (2 x 7), sendo dois lotes e sete tratamentos, com dez repetições. Os fungicidas captan, tiabendazol e tiofanato-metilíco reduziram a incidência de fungos, sendo eficientes para o tratamento de sementes de mamona. Houve predominância dos fungos Alternaria alternata, Aspergillus flavus, Aspergillus niger, Bipolares, Botrytis ricini, Curvularia sp.Penicillium sp. e Rhizopus sp.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this work was to evaluate the fungicides efficacy on the castor seeds IAC-226 sanitary quality. The seeds were treated with two doses of the fungicides captan (250 and 300 g ai 100 kg-1 seed), thiophanate-methyl (100 and 150 g ai 100 kg-1 seed) and thiabendazole (100 and 150g kg ai 100 seeds). Seeds without fungicide treatment were the control. The seeds sanitary quality was evaluated by sanity test, using 10 replications of 20 seeds per treatment/lot, superficially sterilized (sodium hypochlorite) and placed in plastic boxes (gerbox) with filter paper and sterilized distilledwater, under controlled temperature 25°C for 20 days. Seeds were examinated individually using a stereoscopic microscope and optical microscope. The results were expressed as percentage of infected seeds. The experimental design was completely randomized in a factorial arrangement (2 x 7), two lots and seven treatments, with ten repetitions. The fungicides captan, tiabendazol andtiofanato-metílico reduced the incidence of fungi, being recommended for the castor seeds IAC-226 treatment. There was a predominance of fungi Alternaria alternata, Aspergillus flavus, Aspergillus niger, Bipolar, Botrytis ricini, Curvularia sp., Penicillium sp. and Rhizopus sp.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

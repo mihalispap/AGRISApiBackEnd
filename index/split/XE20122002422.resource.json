@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1E142-144conserving.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Conserving wild bees for crop pollination"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Goulson, Dave (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/XE20122002422",
+	"dct:identifier":"XE20122002422",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11445"
+	},
+	"bibo:abstract":{"value":"A substantial proportion of the worlds crops rely on insect pollination, yet for many we have little or no information as to which pollinators are most effective. Pollinator management has traditionally focussed exclusively on one species, the honeybee, Apis mellifera. Yet this bee is not able to adequately pollinate some crops, and is an unreliable pollinator in cold and wet climates. Natural populations of wild bee species and other insects probably contribute greatly to pollination of many crops. Yet many of these insects have declined greatly in the last 50 years as a result of agricultural intensification. It seems certain that the yield of some crops is now limited by inadequate pollination, and that opportunities for diversification into novel crops may be reduced through a lack of suitable pollinators. Agri-environment schemes provide an opportunity to enhance pollinator populations in farmland, but at present little is known as to which schemes are most suitable. Large-scale field trials are needed to assess how best to encourage and sustain populations of wild pollinators on farmland."}
+	}}

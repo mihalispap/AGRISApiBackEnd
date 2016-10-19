@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Changes in wood and stem properties of Pinus sylvestris caused by provenance transfer.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Ståhl, Erik G.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"mänty"},
+	{"value":"silviculture"},
+	{"value":"provenance"},
+	{"value":"tuotos"},
+	{"value":"yields"},
+	{"value":"kasvu"},
+	{"value":"Pinus sylvestris"},
+	{"value":"puun ominaisuudet"},
+	{"value":"metsänhoito"},
+	{"value":"phenology"},
+	{"value":"alkuperä"},
+	{"value":"wood properties"},
+	{"value":"fenologia"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001947",
+	"dct:identifier":"FI2016001947",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

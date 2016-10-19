@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a24.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Crop production systems of market gardens in Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ojeifo, I.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Emuh, F.N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Denton, O.A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100015",
+	"dct:identifier":"FI2016100015",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"There is a dearth of information on market gardens in Nigeria. This study was conducted to establish a current status and practices in the market garden. The country, Nigeria, was stratified into six zones and 600 market gardeners were interviewed through personal visits, direct interviews and questionnaires on market garden practices with respect to crop production. The result showed that male and female with different ratios were generally actively involved in market gardens except in North-West and North-Eastern zones, where it was solely men. The age of gardeners generally ranged from 20 to 65, males ranged from 30 to 65 while female ranged from 20 to 50 years. The classes of market garden practitioners identified were full-time and part-time practitioners, and the crops were either grown alone, in mixtures or relayed. Generally, there was definite geographical distribution and differences in vegetables in the market gardens with respect to production and consumption. Some crops such as Amaranthus, tomatoes and pepper were found to have national importance while such crops as Telfairia, Corchorus and waterleaf tend to have regional importance. Most of the exotic vegetables such as lettuce, watermelon and cabbage are grown mainly in the north and to a very limited extent in the south. Intensive market gardening is carried out mainly during the dry season and this commands higher price. During the wet season, greater attention is given to arable crops because of low returns from vegetable production."}
+	}}

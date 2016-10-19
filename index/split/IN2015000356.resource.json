@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessing the Osmotic fragility of Erythrocytes of rural and semiurban Camels (Camelus dromedarius)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":75,
+	"dc:subject":[
+		{"value":"camello",
+	"xml:lang":"esp"
+	},
+	{"value":"secado osmotico",
+	"xml:lang":"esp"
+	},
+	{"value":"chameau",
+	"xml:lang":"fre"
+	},
+	{"value":"osmotic drying",
+	"xml:lang":"eng"
+	},
+	{"value":"camels",
+	"xml:lang":"eng"
+	},
+	{"value":"sechage osmotique",
+	"xml:lang":"fre"
+	},
+	{"value":"dromadaire",
+	"xml:lang":"fre"
+	},
+	{"value":"dromedarios",
+	"xml:lang":"esp"
+	},
+	{"value":"dromedaries",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":1,
+	"bibo:pageEnd":78,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000356",
+	"dct:identifier":"IN2015000356",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Camel: An International Journal of Veterinary Sciences (India)"},
+	"bibo:ISSN":{"value":"2321-709X"}
+	}
+	},
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ghoke, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jadhav, K.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thorat, K.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Dromedary camel, despite subjected to harsh environmental condition, has been adapted to arid and dry climate. Camel has shown exceptional ability to withstand considerable period of dehydration and camel erythrocytes have the ability to expand twice their volume without rupturing in hypotonic solution. Osmotic fragility of camel erythrocyte of rural and semi urban area was compared especially in relation to exposure to pollutants. Camel erythrocyte did not show any hemolysis when suspended to descending concentration of NaCl solution. The greater resistance of camel erythrocyte to osmotic fragility was attributed to their morphological characteristics and its membrane protein, Spectrin.",
+	"xml:lang":"eng"
+	}
+	}}

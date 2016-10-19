@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Impacts of moose (Alces alces) browsing on paper birch (Betula papyrifera) morphology and potential timber quality.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Rea, Roy  V.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"silviculture"},
+	{"value":"hardwood"},
+	{"value":"ungulates"},
+	{"value":"quality"},
+	{"value":"forestry"},
+	{"value":"deciduous plants"},
+	{"value":"Alces"},
+	{"value":"wood properties"},
+	{"value":"Betula papyrifera"},
+	{"value":"browsing damage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000376",
+	"dct:identifier":"FI2016000376",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

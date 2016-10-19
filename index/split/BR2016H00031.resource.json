@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:title":{"value":"INFLUÊNCIA DO SUBSTRATO E DO TEOR DE ÁGUA SOBRE A GERMINAÇÃO DE SEMENTES DE SOJA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":97,
+	"bibo:volume":1,
+	"bibo:pageEnd":102,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00031",
+	"dct:identifier":"BR2016H00031",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-12",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/219",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Júlia Terra Dourado Jacinto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Katiane Santiago Silva Benett"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cleiton Gredson Sabin Benett"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Na cultura da soja, nos períodos de germinação-emergência, bem como na fase de floração-enchimento de grãos a disponibilidade de água é de extrema importância para a cultura. O objetivo foi avaliar a influência de diferentes teores de água em diferentes ...",
+	"xml:lang":"por"
+	}
+	}}

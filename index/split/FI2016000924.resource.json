@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Degradation of four fungicides in tropical soils from Hainan, China.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Han, BingJun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chen, LiXia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peng, LiXu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"residues"},
+	{"value":"fungisidit"},
+	{"value":"soil types"},
+	{"value":"maaperä"},
+	{"value":"tropical soils"},
+	{"value":"trooppiset alueet"},
+	{"value":"application rates"},
+	{"value":"weather"},
+	{"value":"fungicides"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000924",
+	"dct:identifier":"FI2016000924",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

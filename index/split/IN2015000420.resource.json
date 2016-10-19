@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Reproductive performance of dairy cows under field condition of Assam state",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":180,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"gestation period",
+	"xml:lang":"eng"
+	},
+	{"value":"periodo de gestacion",
+	"xml:lang":"esp"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"periode de gestation",
+	"xml:lang":"fre"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"assam",
+	"xml:lang":"esp"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":183,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000420",
+	"dct:identifier":"IN2015000420",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hussain, Jakir"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Roychoudhury, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, G.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mili, D.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goswami, R.N."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The data was generated on field scale by personal interviews with the livestock owners in Assam. The least square means of service period, gestation period and calving interval for Jersey X Local cows were 118.33 Â± 1.63, 275.74 Â± 0.46 and 393.68 Â± 1.64 days, respectively. The corresponding values for Holstein Friesian X Local were 146.96 Â± 1.85, 275.81 Â± 0.53 and 422.26 Â± 1.85 days and that of Local cows as 265.06 Â± 1.87, 274.12 Â± 0.53 and 538.32 Â± 1.85 days, respectively. The effect of genetic group, season of calving and parity was highly significant (p0.01) on service period and calving interval. The gestation period was significantly (p0.05) influenced by genetic group.",
+	"xml:lang":"eng"
+	}
+	}}

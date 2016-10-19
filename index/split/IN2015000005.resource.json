@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relevance of Fungicides in the present day crop protection and the way ahead",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":4,
+	"dc:subject":[
+		{"value":"plant protection",
+	"xml:lang":"eng"
+	},
+	{"value":"protection des plantes",
+	"xml:lang":"fre"
+	},
+	{"value":"mecanismos de defensa",
+	"xml:lang":"esp"
+	},
+	{"value":"methods",
+	"xml:lang":"eng"
+	},
+	{"value":"mecanisme de defense",
+	"xml:lang":"fre"
+	},
+	{"value":"proteccion de las plantas",
+	"xml:lang":"esp"
+	},
+	{"value":"fongicide",
+	"xml:lang":"fre"
+	},
+	{"value":"metodos",
+	"xml:lang":"esp"
+	},
+	{"value":"methode",
+	"xml:lang":"fre"
+	},
+	{"value":"fungicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"defence mechanisms",
+	"xml:lang":"eng"
+	},
+	{"value":"fungicides",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":45,
+	"bibo:pageEnd":12,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000005",
+	"dct:identifier":"IN2015000005",
+	"dct:type":"Bibliography",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Mycology and Plant Pathology (India)"},
+	"bibo:ISSN":{"value":"0975-4180"}
+	}
+	},
+	"dct:issued":"mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Thind, T.S."
+	}
+	},
+	"bibo:issue":1
+	}}

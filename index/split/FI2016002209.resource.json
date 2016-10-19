@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Responses of silver birch saplings to low soil temperature /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Aphalo, Pedro J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lahti, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lehto, Tarja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Repo, Tapani.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rummukainen, Aino.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mannerkoski, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Finér, Leena.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"electrical properties"},
+	{"value":"kivennäisaineet"},
+	{"value":"vesitalous"},
+	{"value":"biomass"},
+	{"value":"plant water relations"},
+	{"value":"transpiraatio"},
+	{"value":"soil temperature"},
+	{"value":"lämpötila"},
+	{"value":"stomata"},
+	{"value":"electrical impedance"},
+	{"value":"maaperä"},
+	{"value":"Betula pendula"},
+	{"value":"fotosynteesi"},
+	{"value":"transpiration"},
+	{"value":"biomassa"},
+	{"value":"mineral nutrients"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002209",
+	"dct:identifier":"FI2016002209",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

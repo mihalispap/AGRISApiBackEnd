@@ -1,0 +1,72 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Spatial tree community structure in three stands across a forest succession gradient in northern boreal Fennoscandia.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"community composition"},
+	{"value":"succession"},
+	{"value":"kuusi"},
+	{"value":"Betula"},
+	{"value":"luonnonmetsät"},
+	{"value":"boreaalinen vyöhyke"},
+	{"value":"spatial structure"},
+	{"value":"koivut"},
+	{"value":"boreaaliset metsät"},
+	{"value":"Picea abies (L.) H. Karst."},
+	{"value":"point pattern analysis"},
+	{"value":"primary forests"},
+	{"value":"metsiköt"},
+	{"value":"sukkessio"},
+	{"value":"natural forest"},
+	{"value":"forest stands"},
+	{"value":"age structure"},
+	{"value":"northern boreal"},
+	{"value":"Picea abies"},
+	{"value":"boreal forests"},
+	{"value":"rakenne"}
+	],
+	"bibo:doi":"10.14214/sf.1279",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002196",
+	"dct:identifier":"FI2016002196",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1279",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kreutz, Andreas,
+    kirjoittaja
+    Helsingin yliopisto
+    1901
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aakala , Tuomas,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grenfell, Russell,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	}
+	]
+	}}

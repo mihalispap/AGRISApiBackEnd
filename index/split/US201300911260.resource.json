@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The physico-chemical, eating and sensorial properties of germinated brown rice"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911260",
+	"dct:identifier":"US201300911260",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/f21.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jiamyangyuen, Sudarat (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ooraikul, Buncha (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Effects of germination process and germination time on selected physico-chemical, eating and sensorial properties of germinated brown rice were studied. Germination process included soaking rice in water for 6 or 12 h before draining and leaving it to germinate for the periods of 0, 6, 12, 18 and 24 h. Results showed that effects of germination process on cooking and textural properties of cooked rice were more pronounced when rice was soaked and germinated for a longer period. During germination, α-amylase plays important roles and altered structure in rice kernels. Compared to cooked regular brown rice, panelists rated intensity of attributes in cooked germinated rice as being sweeter, softer, more swelled and cohesive. For rice soaked for 6 or 12 h, there was significant positive correlation between germinating time and α-amylase activity (r = 0.859 and 0.807), size expansion, gel consistency (r = 0.889, r = 0.956) and alkaline spreading value (r = 0.850, r = 0.992). On the other hand, hardness (r = -0.952, r = -0.834), amylose content (r = -0.989, r = -0.990), bulk density (r = - 0.882, r = - 0942), pasting properties, cooking time (r = -0.802, r = -0.788), % water uptake (r = -0.981, r = -0.959) and % volume expansion (r = -0.954, r = -0.964) showed significant negative correlation with germinating time."}
+	}}

@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic polymorphism of SLC35A3 gene in Karan Fries bull calves",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":951,
+	"dc:subject":[
+		{"value":"polymorphisme genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"trastornos geneticos",
+	"xml:lang":"esp"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"trouble genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	},
+	{"value":"genetic polymorphism",
+	"xml:lang":"eng"
+	},
+	{"value":"ternero",
+	"xml:lang":"esp"
+	},
+	{"value":"calves",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic disorders",
+	"xml:lang":"eng"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"veau",
+	"xml:lang":"fre"
+	},
+	{"value":"polimorfismo genetico",
+	"xml:lang":"esp"
+	},
+	{"value":"rflp",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":953,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000170",
+	"dct:identifier":"IN2015000170",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yathish, H.M. Sharma, Ashwani Vijay Kumar Jain, Asit Chakraborty, D.  Avtar Singh Tantia, M.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yathish, H.M. Sharma, Ashwani Vijay Kumar Jain, Asit Chakraborty, D.  Avtar Singh Tantia, M.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yathish, H.M. Sharma, Ashwani Vijay Kumar Jain, Asit Chakraborty, D.  Avtar Singh Tantia, M.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yathish, H.M. Sharma, Ashwani Vijay Kumar Jain, Asit Chakraborty, D.  Avtar Singh Tantia, M.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yathish, H.M. Sharma, Ashwani Vijay Kumar Jain, Asit Chakraborty, D.  Avtar Singh Tantia, M.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yathish, H.M. Sharma, Ashwani Vijay Kumar Jain, Asit Chakraborty, D.  Avtar Singh Tantia, M.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yathish, H.M. Sharma, Ashwani Vijay Kumar Jain, Asit Chakraborty, D.  Avtar Singh Tantia, M.S."
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"Solute carrier family 35 member 3 (SLC35A3) gene encodes the nucleotide sugar transporter that plays a pivotal role in the development of skeletal system. Point mutation from guanine (G) to thymine (T) at nucleotide position 559 of bovine SLC35A3 gene causes an inherited autosomal recessive disorder called complex-vertebral-malformation (CVM). In the present study 55 young Karan Fries bull calves born during the period of 2006â09, maintained at NDRI, Karnal were screened for the presence of CVM affected or carrier animals. PCR-RFLP band pattern using Pst I restriction enzyme showed the products of 287 bp in size, which confirmed the animals we screened are neither carrier nor affected. This work is important in suggesting our country to make the screening of HF crossbreds for various recessive genetic disorders as mandatory to contain their spread, eventually to make the animal husbandry an economical endeavour.",
+	"xml:lang":"eng"
+	}
+	}}

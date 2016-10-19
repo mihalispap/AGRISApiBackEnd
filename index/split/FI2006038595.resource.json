@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"High-selenium wheat: Agronomic biofortification strategies to improve human nutrition"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038595",
+	"dct:identifier":"FI2006038595",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lyons, Graham H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lewis, Jim (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lorimer, Michelle F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Holloway, Robert E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brace, Dot M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Stangoulis, James C. R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Graham, Robin D. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Selenium (Se) is an essential micronutrient for human and animal health, with antioxidant, anti-cancer and anti-viral properties, and wheat is a major dietary source of Se. Field trials on two soil types in South Australia showed that grain Se concentration increased progressively with applied Se, whether soil- or foliar-applied. Soil-applied Se increased grain Se concentration by 20- to 133-fold, and foliar by 6- to 20-fold. A maximal grain Se concentration of 12 mg kg-1 was achieved, which equates to a 10% recovery of applied Se. Grain yield and protein were not affected by applied Se ranging from 4-120 g ha-1. In another trial, a relatively low rate of 30 kg ha-1 of S applied to the soil reduced grain Se concentration by 16%. It may be necessary to add Se to gypsum and high-S fertilisers, which are widely used in Australia, to maintain food crop Se concentrations. These trials did not reveal a significant effect of variety on grain Se concentration, perhaps because of the extreme variability in available soil Se concentration, that varied more than 100-fold between sites. Grain yield was not affected by variety or by the application of Se, S or N. Grain protein and S, but not Se, concentrations were increased by late-applied foliar urea. Fertilisation with sodium selenate is an inexpensive, practical method to produce wheat that contains concentrations of Se high enough to provide likely health benefits to consumers, including reduced cancer risk."}
+	}}

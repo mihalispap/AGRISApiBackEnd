@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Conventional reduced tillage and no-tillage systems for cotton growing under Mediterranean conditions : a cultural and economic approach.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mygdakos, Efthimios.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Avgoulas, Christos.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bilalis, D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"zero tillage"},
+	{"value":"sato"},
+	{"value":"suorakylvö"},
+	{"value":"puuvilla"},
+	{"value":"crop yield"},
+	{"value":"kevennetty maanmuokkaus"},
+	{"value":"conventional tillage"},
+	{"value":"Gossypium"},
+	{"value":"kasvinviljely"},
+	{"value":"Gossypium hirsutum"},
+	{"value":"minimum tillage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001977",
+	"dct:identifier":"FI2016001977",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

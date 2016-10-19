@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"High density planting - an option for higher productivity of rubber (Hevea brasiliensis) in north eastern region of India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":338,
+	"dc:subject":[
+		{"value":"high density"},
+	{"value":"timber volume"},
+	{"value":"yields",
+	"xml:lang":"eng"
+	},
+	{"value":"rendimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"rendement",
+	"xml:lang":"fre"
+	},
+	{"value":"crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"hevea",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":342,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000733",
+	"dct:identifier":"IN2015000733",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dey, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Datta, B."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The effect of planting density in rubber (Hevea brasiliensis) was studied in an experiment conducted with three densities viz., 420, 620, 824 trees ha-1. It was observed that lower density had higher percentage of trees ready for tapping during initial years, due to better growth. However, higher density achieved required girth in subsequent years. In spite of decrease in plant number over the years, the highest density had always lower girth even after 24 years of planting. Higher density also has higher percentage of too small trees, not suitable for harvesting latex. The higher plant densities resulted  taller plants, increased crotch height and decreased the number of branches and thereby plant density affected yield per tree and yield per unit area. Though the yield per hectare increased with increased plant density during initial years, however declined later period. High yield per tree per tap was observed in the lowest density with lower yield per unit area. Yield increased in all densities with application of stimulant. Percentage of yield increase due to application of stimulant was higher (40%) in medium density (620 trees ha-1 ) compared to other plant densities. Percentage of wind damage was lower in high density planting during initial years. Total timber volume per hectare was high in higher planting density and lower per tree volume of log compared to lower density. Maintaining a density of 620 trees per hectare appears to be most suitable for north eastern region of India.",
+	"xml:lang":"eng"
+	}
+	}}

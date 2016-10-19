@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Maintain high coconut prices to foster a sustainable rural economy",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":24,
+	"dc:subject":[
+		{"value":"productividad",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"prices",
+	"xml:lang":"eng"
+	},
+	{"value":"productivite",
+	"xml:lang":"fre"
+	},
+	{"value":"prix",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"productivity",
+	"xml:lang":"eng"
+	},
+	{"value":"precios",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":26,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000760",
+	"dct:identifier":"IN2015000760",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"mar2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Mary George"
+	}
+	},
+	"bibo:issue":11
+	}}

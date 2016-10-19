@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Evaluation of two Panicum maximum cultivars under two nitrogen rates, in rotational stocking by sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"   Avaliação de duas cultivares de Panicum maximum Jacq. submetidas a doses de nitrogênio em lotação rotacionada com ovinos ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"united republic of tanzania",
+	"xml:lang":"eng"
+	},
+	{"value":"varieties",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"panicum maximum",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02218",
+	"dct:identifier":"BR2015F02218",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1242239868.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MATTOS, W. T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"WERNER,  J. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COLOZZA, M. T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GERDES,  L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS,  L. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GIACOMINI, A. A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O presente estudo foi conduzido no Instituto de Zootecnia de Nova Odessa - SP. Teve por objetivos avaliar: massa de forragem e seus componentes, acúmulo de forragem, taxa diária de acúmulo de forragem e altura do dossel de duas cultivares de Panicum maximum (Aruana e Tanzânia) submetidas a doses de nitrogênio (150 e 300kg ha-1 de N) e pastejadas por ovinos em sistema de lotação rotacionada, com três a sete dias de pastejo e período de descanso variável. As variáveis foram avaliadas em seis, sete e oito ciclos de pastejo no primeiro, segundo e terceiro anos experimentais, respectivamente. O delineamento experimental foi de blocos completos casualizados (quatro), com duas repetições dentro do bloco, em esquema de parcelas subdivididas, sendo o fator cultivar as parcelas e doses de N as subparcelas, com medidas repetidas no tempo. O Tanzânia apresentou maior acúmulo de forragem em relação ao Aruana somente no terceiro ano e maior taxa diária de acúmulo de forragem no segundo e terceiro ano. Apresentou maiores altura e massa de forragem pós-pastejo que o Aruana, por apresentar colmos mais grossos e rijos que dificultaram o rebaixamento do relvado pelos animais. A dose de 300kg de N/ha/ano proporcionou maior acúmulo e taxa diária de acúmulo de forragem que a dose de 150kg de N/ha/ano. Entretanto, a eficiência de utilização do N foi maior na menor dose.",
+	"xml:lang":"por"
+	},
+	{"value":"The present study was carried out at Instituto de Zootecnia, Nova Odessa - SP. The objective was to evaluate: forage mass and their components, forage accumulation, daily forage accumulation rate, and sward height from two Panicum maximum Jacq. cultivars (Aruana and Tanzania), under two nitrogen rates (150 and 300kg ha-1 de N), and grazed by sheep in rotational stocking with three to seven grazing days and variable resting periods. The variables were evaluated in six, seven and eight grazing cycles in the first, second and third experimental years, respectively. The experimental design was in complete randomized block (four) with two replicates within each block, with grasses as plots (paddocks) and the nitrogen rates as sub-plots, with repeated measures in time. Tanzania grass presented more annual forage accumulation than Aruana grass only in the third experimental year and more daily forage accumulation rate in the second and third years. It showed greater height and forage mass left after grazing than Aruana grass because it presents thicker and stiffer stems that makes difficult the sward lowering by animals. The rate of 300kg of N/ha/year presented greater values than the one of 150kg in the total forage accumulation rate. But when it is considered the ratio: quilogram of forage mass produced per quilogram of nitrogen applied it was less efficient than the one of 150kg.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

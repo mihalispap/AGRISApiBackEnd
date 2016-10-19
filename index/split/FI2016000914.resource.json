@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Intra- and interspecific factors in the dynamics of vendace (Coregonus albula (L.)) populations.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Auvinen, Heikki.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"population structure"},
+	{"value":"Coregonus albula"},
+	{"value":"vuosiluokat"},
+	{"value":"population density"},
+	{"value":"kalakantojen vaihtelu"},
+	{"value":"pituus-paino-suhde"},
+	{"value":"muikku"},
+	{"value":"fertility"},
+	{"value":"population dynamics"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000914",
+	"dct:identifier":"FI2016000914",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

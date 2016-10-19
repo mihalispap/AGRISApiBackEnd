@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Odor management in swine finishing operations : cost effectiveness /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huang, Haixiao.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Miller, Gay Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ellis, Michael.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Funk, Ted.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, Yuanhui.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hollis, Gilbert.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heber, Albert J.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"smell"},
+	{"value":"ympäristöhaitat"},
+	{"value":"waste gases"},
+	{"value":"sikatalous"},
+	{"value":"animal housing"},
+	{"value":"lantakaasut"},
+	{"value":"hajuhaitat"},
+	{"value":"costs"},
+	{"value":"animal husbandry"},
+	{"value":"piggeries"},
+	{"value":"kustannukset"},
+	{"value":"sikalat"},
+	{"value":"haju"},
+	{"value":"pollution control"},
+	{"value":"kotieläimet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000862",
+	"dct:identifier":"FI2016000862",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

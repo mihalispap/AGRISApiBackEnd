@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"CARACTERIZAÇÃO DAS APREENSÕES DE FAUNA SILVESTRE NO ESTADO DO AMAPÁ, AMAZÔNIA ORIENTAL, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":65,
+	"bibo:volume":4,
+	"bibo:pageEnd":73,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00142",
+	"dct:identifier":"BR2015N00142",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/862",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Miguel Benedito Ferreira Dias Junior"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Helenilza Ferreira Albuquerque Cunha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Teresa Cristina Albuquerque de Castro Dias"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Unifap"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Ibama e Unifap"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<span style=\"line-height: 150%; font-family: \">Este trabalho objetivou </span><span style=\"line-height: 150%; font-family: \">caracterizar as apreensões de fauna silvestre no Estado do Amapá. Foram analisados registros constantes dos </span><span style=\"line-height: 150%; font-family: \">Autos de Infração Ambiental lavrados pelos órgãos de fiscalização ambiental (IBAMA, SEMA, IMAP e BPMA) no período de 2005 a 2009. Os resultados mostraram que foram </span><span style=\"line-height: 150%; font-family: \">apreendidos 1.986 animais silvestres que geraram R$ 694.937,00 em multas. <span style=\"mso-no-proof: yes;\">As apreensões ocorreram em 13 dos 16 municípios amapaenses, com destaque para Macapá e Santana que concentraram 87% dos procedimentos. A</span></span><span style=\"line-height: 150%; font-family: \">s infrações mais cometidas foram “a posse ou manutenção de animais em cativeiro” e “transporte de carne e de animais da fauna silvestre”, com 38,14% e 30,77%, respectivamente.</span><span style=\"line-height: 150%; font-family: \"> Os Répteis, Aves e Mamíferos constituíram 48%, 45% e 7% das apreensões, respectivamente.</span><span style=\"line-height: 150%; font-family: \"> </span><span style=\"line-height: 150%; font-family: \">Do total de espécimes apreendidos, 736 pertencem a nove espécies constantes da lista de espécies ameaçadas, das quais, sete constam simultaneamente nas listas da IUCN e da CITES. <span style=\"mso-bidi-font-style: italic;\">Concluiu-se que a falta de uniformidade nos procedimentos aplicados pelos órgãos ambientais e a desproporcionalidade geográfica de suas ações são os principais fatores limitantes à diminuição da utilização ilícita da fauna silvestre no Estado do Amapá. </span></span>",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Reduction of cadmium in fermented squid gut sauce using cadmium-absorbing bacteria isolated from food sources"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903848",
+	"dct:identifier":"US201300903848",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/f8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kawasaki, Ken-Ichi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Matsuoka, Toru (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Satomi, Masataka (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ando, Masashi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tukamasa, Yasuyuki (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kawasaki, Susumu (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Squid is a major marine resource in Japan both for raw material and for processed food. Fishery waste such as squid viscera could be used for various purposes including preparation of processed feeds and food supplements. However, the viscera of mollusks such as squid and yezo scallop are known to contain toxic heavy metals and high concentrations of cadmium accumulated in mollusks. Therefore, the application of squid viscera to food is extremely limited. It is necessary to establish effective methods for removing cadmium in order to utilize the viscera of mollusks. In this study, we screened salt-fermented food for bacteria with high salt resistance and cadmium-absorbing capability and examined their optimal conditions for cadmium-absorbing capability, in an attempt to establish a method for using them to remove cadmium from fermented fish sauce. In addition, laboratory-prepared fermented sauce made of squid gut was examined to determine the cadmium absorbing capability of the isolated bacteria. Four strains of bacteria with cadmium-absorbing capability were isolated from fermented foods made of fiddler crab and opossum shrimp. The cadmium-absorbing bacteria were identified as three strains of genus Staphylococcus and one strain of genus Halobacillus. These isolated strains could remove cadmium in a medium with salt concentrations of 0 to 20% at pH 5.0 to 7.0 and 35°C. The cadmium-removal rate was 80 to 90% after 48 hours of incubation under optimal conditions. However, when laboratory-prepared fermented sauce samples made of squid gut were inoculated with these four strains of bacteria individually, the cadmium concentration was reduced to 30% after 48 hours of incubation under optimal conditions. Since these four bacteria were isolated from food sources and are able to grow in high salt media, they could be useful for reducing the cadmium in foodstuffs. It will be possible to further reduce cadmium concentration of fish sauce by combining this method using cadmium-absorbing bacteria."}
+	}}

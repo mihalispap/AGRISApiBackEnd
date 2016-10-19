@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biology of Gesonia gemma (Swinhoe) on Soybean",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":300,
+	"dc:subject":[
+		{"value":"biology",
+	"xml:lang":"eng"
+	},
+	{"value":"biologie",
+	"xml:lang":"fre"
+	},
+	{"value":"glycine max",
+	"xml:lang":"esp"
+	},
+	{"value":"biologia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":302,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000509",
+	"dct:identifier":"IN2015000509",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Raju, G. Shalil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khandwe, Nanda"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A female laid eggs from 149 to 247 (Av. 182 Â± 36.97) on the upper surface of the leaves. Most of the eggs were deposited near midrib and basal part of the leaves. There were 5 larval instars, differing in colouration. Fully grown larvae measured 18.0â22.0 mm in length and 2.0â2.5 mm in width.Prolegs were present on 4th, 5 th, 6 th and last abdominal segment. The duration of the egg, larval and pupal periods was 2-3, 9-17 and 7-8 days, respectively. The total duration from egg to adult emergence was completed in 18-28 days. The size of the pupa was 8-9 mm in length and 1.9 to 2.1 mm in width. Female pupa was comparatively long in size than male. Medium sized moth measuring 6.0-8.0 mm body length 15.0-17.0 mm wing expand. The longevity of adult male and female was 3 to 6 and 2 to 8 days, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

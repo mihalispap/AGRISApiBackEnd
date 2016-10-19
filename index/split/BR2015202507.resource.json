@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Cowpea cultivars under differents water regimes",
+	"xml:lang":"eng"
+	},
+	{"value":"   Cultivares de feijão-caupi submetidas a diferentes regimes hídricos ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"growth",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202507",
+	"dct:identifier":"BR2015202507",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/351/244",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Júnior Aderson Soares de Andrade"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Filho João Irene"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ferreira José Orlando Piauilino"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ribeiro Valdenir Queiroz"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bastos Edson Alves"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Embrapa Meio-Norte, Teresina, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Campus “Professora Cinobelina Elvas”, Universidade Federal do Piauí, Bom Jesus, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Campus “Professora Cinobelina Elvas”, Universidade Federal do Piauí, Bom Jesus, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Embrapa Meio-Norte, Teresina, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Embrapa Meio-Norte, Teresina, PI, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Objetivou-se avaliar o crescimento de cultivares de feijão-caupi de porte semi-ereto e semiprostrado em resposta a aplicação de lâminas de irrigação nas condições de solo e clima do município de Bom Jesus – PI. O experimento foi conduzido no Sitio São Luiz, localizado a 3 km da cidade de Bom Jesus - PI, durante o período de junho a agosto de 2011. Foram avaliadas o número de folhas, massa seca das folhas, massa seca dos ramos, massa seca das vagens, massa seca total das plantas e taxa de radiação fotossinteticamente ativa das cultivares de feijão-caupi BRS Aracê (semi-prostrado) e BRS Tumucumaque (semi-ereto) submetidas a cinco lâminas de irrigação (108,2 mm, 214,7 mm, 287,9 mm, 426,1 mm e 527,7 mm). A cultivar BRS Aracê apresentou maior número de folhas que a cultivar BRS Tumucumaque. A cultivar BRS Tumucumaque produziu 17,09% a maisde matéria seca total que a cultivar BRS Aracê com a aplicação de uma lâmina de irrigação de 401,9mm. A taxa de radiação fotossinteticamente ativa mínima, que reflete maior cobertura do solo pelo dossel, é obtida com a cultivar BRS Aracê.",
+	"xml:lang":"por"
+	},
+	{"value":"The study aimed to evaluate the growth of semi-erect and semi-prostrate cowpea cultivars as a function of water irrigation of to soil under climate conditions of Bom Jesus-Piauí. The experiment was conducted in São Luiz Farm, located 3 km far from Bom Jesus - Piauí, from June to August 2011. There were evaluated the number of leaves, dry leaves, dry branches, dry matter of pods and total dry matter of plants rate and photosynthetically active radiation of the BRS Aracê (semi-prostrado) and BRS Tumucumaque (semi-erect) cowpea cultivars submitted to five irrigation regimes (108.2 mm, 214.7 mm, 287.9 mm, 426.1 mm and 527, 7 mm). The BRS Aracê had a higher number of leaves than BRS Tumucumaque. The BRS Tumucumaque has produced 17.09% more dry matter than BRS Aracê under a water depth of 401.9 mm. The minimum rate of photosynthetically active radiation, which reflects greater soil cover by the canopy, is obtained with BRS Aracê.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

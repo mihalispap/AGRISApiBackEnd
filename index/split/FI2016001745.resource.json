@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"pH of streams in western Finland : a perspective from the Middle Ages into teh mid 21st century /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Åström, Mats.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sundström, Robert.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Holmberg, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Storberg, Karl-Erik.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"acid sulphate soils"},
+	{"value":"viljelymaa"},
+	{"value":"maaperä"},
+	{"value":"drainage"},
+	{"value":"open ditch drainage"},
+	{"value":"farmland"},
+	{"value":"acidification"},
+	{"value":"ojitus"},
+	{"value":"sulfaattimaat"},
+	{"value":"happamoituminen"},
+	{"value":"maankäyttö"},
+	{"value":"arable soils"},
+	{"value":"land use"},
+	{"value":"happamuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001745",
+	"dct:identifier":"FI2016001745",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

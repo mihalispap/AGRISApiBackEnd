@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Simulation of geometric thinning systems and their time requirements for young forests /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bergström, Dan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergsten, Urban.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nordfjell, Tomas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lundmark, Tomas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"simulointi"},
+	{"value":"thinning"},
+	{"value":"harvennusmallit"},
+	{"value":"working hours"},
+	{"value":"forestry operations"},
+	{"value":"nuoret metsiköt"},
+	{"value":"simulation"},
+	{"value":"bioenergy"},
+	{"value":"harvennus"},
+	{"value":"work study"},
+	{"value":"forest technology"},
+	{"value":"bioenergia"},
+	{"value":"aikatutkimus"},
+	{"value":"multi-stem"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001110",
+	"dct:identifier":"FI2016001110",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-56.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of pruning and spacing on the yield and quality of eggplant"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pessarakli, Mohammad Mahdi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dris, Ramdane (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100415",
+	"dct:identifier":"FI2016100415",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The purpose of this review article is to provide a clear and brief information on the effects of pruning and spacing, major cultural practices, on the yield and quality of eggplants. Various suggestions on pruning and spacing of eggplants and the most suitable pruning as well as the optimum spacing to increase the yield and quality of eggplant given by different investigators are discussed in this manuscript. In general, proper pruning and optimum spacing substantially increase eggplant yield and improve its fruit quality."}
+	}}

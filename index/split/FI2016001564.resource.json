@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Cyber extension communication : a strategic model for agricultural and rural transformation in Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Adekoya, A. E.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"farmers"},
+	{"value":"Nigeria"},
+	{"value":"rural development"},
+	{"value":"information technology"},
+	{"value":"communication"},
+	{"value":"extension activities"},
+	{"value":"information services"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001564",
+	"dct:identifier":"FI2016001564",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Deficit irrigation effects on lettuce (Lactuca sativa var. Olenka) yield in unheated greenhouse condition"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2012447817",
+	"dct:identifier":"FI2012447817",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a42.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yazgan, Senih (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ayas, Serhat (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Demirtas, Cigdem (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Büyükcangaz, Hakan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Candogan, B. Nazmi (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This study was conducted to determine effect of deficit irrigation on yield for lettuce grown under unheated greenhouse condition. The research was carried out at the Agricultural Research Station of YeniÍehir High School of Uludag University in Bursa, Turkey, in 2007. In the study, water was applied to lettuce as 100, 75, 50, 25 and 0% (as control) of evaporation from a Class A Pan corresponding to 2 day irrigation frequency. Irrigation water applied to crops ranged between 51.4 and 484.5 mm, and water consumption ranged between 78 and 511 mm. There were significant differences between treatments in yield, plant height, head diameter, dry matter and mean leaf number. The highest yields were 15.10 and 12.05 t ha-1 for the K1cp and K2cp treatments, respectively. Crop yield response factor (ky) was found as 1.096. The highest values for water use efficiency (WUE) and irrigation water use efficiency (IWUE) were found to be 2.96 and 2.70 kg mm-1 for the K2cp treatment. Under the conditions that water resources are scarce, it can be recommended that K2cp treatment is most suitable as a water application level for lettuce irrigation by drip irrigation under unheated greenhouse condition."}
+	}}

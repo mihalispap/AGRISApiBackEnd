@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Spatial structure of alpine trees in Mountain Baima Xueshan on the southeast Tibetan Plateau.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zhang, Qiaoying.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, Yunchun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peng, Shaolin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yirdaw, Eshetu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wu, Ning.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"spatial point pattern"},
+	{"value":"Treeline"},
+	{"value":"Juniperus"},
+	{"value":"puuraja"},
+	{"value":"Abies"},
+	{"value":"Timberline"},
+	{"value":"metsänraja"},
+	{"value":"puulajikoostumus"},
+	{"value":"populaatiot"},
+	{"value":"population structure"},
+	{"value":"Juniperus saltuaria"},
+	{"value":"Abies forestii var. georgei"},
+	{"value":"trees"},
+	{"value":"rakenne"},
+	{"value":"latvusto"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001443",
+	"dct:identifier":"FI2016001443",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

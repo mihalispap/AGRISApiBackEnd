@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2014,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Análise fitoquímica das folhas de Tabebuia serratifolia (Vahl) Nicholson (Ipê Amarelo)",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Líbio José Tapajós Mota "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheylla Susan Moreira da Silva de Almeida "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jonatas Lobato Duarte "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00004",
+	"dct:identifier":"BR2015M00004",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Este estudo teve como objetivo realizar a análise fitoquímica nas folhas de <em>Tabebuia serratifolia</em> (Vahl) Nicholson (Bignoniaceae) para avaliar a presença dos principais grupos de metabólitos secundários através do extrato bruto etanólico. O material vegetal foi coletado no interior do Campus da Universidade Federal do Amapá (UNIFAP) sendo, posteriormente secas, trituradas e submetidas à extração em etanol 70% para a obtenção do Extrato Bruto Etanólico de <em>Tabebuia serratifolia (Vahl) Nicholson (Bignoniaceae). O experimento foi realizado no Laboratório de Farmacognosia e Fitoquímica da mesma instituição. Foram realizados 9 (nove) ensaios fitoquímicos, indicando resultado positivo para açúcares redutores, ácidos orgânicos, alcaloides, depsídeos e depsidonas, saponinas espumídicas , fenóis e taninos <strong></strong><!--[endif] -->",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

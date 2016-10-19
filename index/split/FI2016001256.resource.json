@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of seawater salinity on salt accumulation and barley (Hordeum vulgare L.) growth under different meteorological conditions /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Al-Busaidi, Ahmed.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yamamoto, Tahei.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Inoue, Mitsuhiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Irshad, Muhammad.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mori, Yasushi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tanaka, Satoshi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"salt tolerance"},
+	{"value":"water uptake"},
+	{"value":"barley"},
+	{"value":"sea water"},
+	{"value":"saline water"},
+	{"value":"saline soils"},
+	{"value":"irrigation"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001256",
+	"dct:identifier":"FI2016001256",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

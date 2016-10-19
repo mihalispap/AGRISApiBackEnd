@@ -1,0 +1,78 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic diversity analysis among rice accessions differing in drought tolerance using molecular markers /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vivek, K. T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gomez, S. Michael.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suresh, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kumar, S. Satheesh.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yogameenakshi, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chezhian, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boopathi, N. Manikanda.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shanmugasundaram, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Babu, R. Chandra.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"resistenssi"},
+	{"value":"rice"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"kuivuudenkestävyys"},
+	{"value":"markkerit"},
+	{"value":"kuivuus"},
+	{"value":"Oryza sativa"},
+	{"value":"RAPD"},
+	{"value":"muuntelu"},
+	{"value":"genetic markers"},
+	{"value":"genetic variation"},
+	{"value":"riisi"},
+	{"value":"genotypes"},
+	{"value":"drought resistance"},
+	{"value":"genotyyppi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001780",
+	"dct:identifier":"FI2016001780",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ABUNDÂNCIA SAZONAL DE Phalacrocorax brasilianus (AVES, PHALACROCORACIDAE) NA PORCÃO NORTE DA BACIA AMAZÔNICA, MACAPÁ, AMAPÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":64,
+	"bibo:volume":4,
+	"bibo:pageEnd":67,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00063",
+	"dct:identifier":"BR2015N00063",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/885",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Eliane Furtado Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rafael Homobono Naif"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Francisco Diego Barros Barata"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lucas Silva Santos Junior"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pedro Ferreira França"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carlos Eduardo Costa Campos"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Empresa BIOORNITOS"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapa"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p style=\"margin: 0cm; margin-bottom: .0001pt; text-align: justify;\">O biguá, Phalacrocorax brasilianus é uma ave aquática gregária pertencente à família Phalacrocoracidae. No Brasil, populações de biguás são comuns no Norte do Brasil, com registros da espécie na zona costeira do Estado do Amapá. Considerando a carência de informações sobre a abundância de P. brasilianus na região Norte, o presente estudo tem como objetivo fornecer informações relativas à distribuição e abundância sazonal desta espécie em um trecho do Canal Norte do Rio Amazonas, Amazônia Oriental. Para este estudo utilizamos censo visual em quatro pontos amostrais em intervalos de horas distintos: I (6:00 – 7:00); II (8:00 – 9:00); III (11:00 - 12:00); e IV (15:00 -16:00). Os censos foram realizados ao longo dos 30 km de extensão da orla da cidade de Macapá até o porto de Santana, localizado no município de Santana, Amapá. A pesquisa teve duração de 36 meses (janeiro de 2006 a dezembro de 2008). A população de P. brasilianus na porção Norte do Rio Amazonas apresentou ao longo do período de estudo um padrão uniforme de flutuação na abundância, com redução gradativa a partir do mês de janeiro até atingir as menores abundâncias médias entre abril-junho. As menores abundâncias sazonais foram registradas em junho/2007 (7 indivíduos) e as maiores em janeiro/2006 (518,25). O monitoramento das assembleias de aves aquáticas disponibiliza informações fundamentais sobre as variações sazonais, contribuindo para a compreensão das interações entre as espécies e na avaliação da importância destas populações no contexto regional.<strong></strong>",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Screening of rose cultivars against rose aphid, Macrosiphum rosae L. (Hemiptera: Aphididae)",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"aphididae",
+	"xml:lang":"esp"
+	},
+	{"value":"pest insects",
+	"xml:lang":"eng"
+	},
+	{"value":"insectos daninos",
+	"xml:lang":"esp"
+	},
+	{"value":"insecte nuisible",
+	"xml:lang":"fre"
+	},
+	{"value":"macrosiphum rosae",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":262,
+	"bibo:volume":76,
+	"bibo:pageEnd":263,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000915",
+	"dct:identifier":"IN2015000915",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sharma Devinder"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmad Hafeez"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Srivastva Kuldeep"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jamwal V.V.S."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

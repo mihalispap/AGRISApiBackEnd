@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Polyphenol content and browning of Canadian icewines.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kilmartin, Paul A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Reynolds, Andrew G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pagay, Vinay.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nurgel, Canan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Johnson, Robin.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"wines"},
+	{"value":"coumaric acids"},
+	{"value":"varieties"},
+	{"value":"harvesting date"},
+	{"value":"grapes"},
+	{"value":"browning"},
+	{"value":"polyphenols"},
+	{"value":"freezing"},
+	{"value":"chemical composition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000404",
+	"dct:identifier":"FI2016000404",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

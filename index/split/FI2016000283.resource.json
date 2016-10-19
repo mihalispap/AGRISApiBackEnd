@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biomass equations for birch in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Repola, Jaakko.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"biomass"},
+	{"value":"hieskoivu"},
+	{"value":"tree biomass"},
+	{"value":"forest mensuration"},
+	{"value":"biomass of tree components"},
+	{"value":"mallit"},
+	{"value":"Betula pendula"},
+	{"value":"puut"},
+	{"value":"biomassa"},
+	{"value":"biomass functions"},
+	{"value":"rauduskoivu"},
+	{"value":"trunks"},
+	{"value":"runko"},
+	{"value":"juuristo"},
+	{"value":"Betula pubescens"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000283",
+	"dct:identifier":"FI2016000283",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

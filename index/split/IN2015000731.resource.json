@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysis of genetic relationships in cashew (Anacardium occidentale L.) varieties using morphological characters and ISSR markers",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":312,
+	"dc:subject":[
+		{"value":"morphological character"},
+	{"value":"ISSR marker"},
+	{"value":"genetic similarity"},
+	{"value":"anacardium occidental",
+	"xml:lang":"esp"
+	},
+	{"value":"anacardium occidentale",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":329,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000731",
+	"dct:identifier":"IN2015000731",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dasmohapatra, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rath, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rout, G.R."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"In the present paper genetic relationships of twenty five varieties of cashew are described on the basis of morphological characters and ISSR markers. Results obtained for the phenotypic characters based on similarity coefficient were divided into four clusters with 70 per cent similarity. By means of similarity coefficients (SG), at 70 per cent phenon level the genotypes were broadly grouped into four clusters  i.e., cluster I and cluster II both comprising of a single variety Bhaskara and Chintamani-1 respectively, cluster III having six varieties and cluster IV with 17 varieties. The analysis using ISSR markers allowed us to distinguish 25 varieties. A total of 81 distinct DNA fragments ranging from 0.1 to 2.5 kb were amplified by using 10 selected ISSR primers. Genetic similarity analysis was conducted for the presence or absence of bands in the ISSR profile. Cluster analysis clearly showed that 25 varieties of cashew could be grouped into two major clusters based on similarity indices. The first major cluster consists of Priyanka and Madakkathara-1, two moderate yielding varieties. The other major cluster was divided into two sub-minor clusters, one sub-minor cluster having single variety and the other sub-minor cluster was represented by 22 varieties. Among the 25 varieties, Kanaka and Vridhachalam-3 showed the highest similarity indices (92%). The analysis of genetic relationships in cashew using morphological traits and ISSR banding data can be useful for plant improvement, descriptions of new varieties and also for assessment of varietal purity in plant certification programmes.",
+	"xml:lang":"eng"
+	}
+	}}

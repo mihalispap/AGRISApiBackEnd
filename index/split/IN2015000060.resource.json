@@ -1,0 +1,101 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Supplementation of Concentrate on Growth Performance of Grazing Ganjam Goats in its Native Tract",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":335,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"grazing",
+	"xml:lang":"eng"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"paturage",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"digestibilite",
+	"xml:lang":"fre"
+	},
+	{"value":"concentrates",
+	"xml:lang":"eng"
+	},
+	{"value":"digestibilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"piensos concentrados",
+	"xml:lang":"esp"
+	},
+	{"value":"pastoreo",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"aliment concentre pour animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":12,
+	"bibo:pageEnd":342,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000060",
+	"dct:identifier":"IN2015000060",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Das, U. Mohan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Swain, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dehuri, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dash, S.K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"In order to study the effect of supplementation of concentrates, 40 male kids were randomly divided into four equal groups and kept either on normal browsing (as per farmers practice; (G1) alone or with additional supplementation of concentrate mixture at 50 (G2) 100 (G3) and 150 (G4) g per day per kid. During the experimental period of 120 days, BW of kids was recorded fortnightly. Blood was collected at monthly interval. A digestibility trial was conducted at the end of experimental feeding period employing indicator method. Further, 27 top feed resources were identified in order to study the availability of top fodders to grazing Ganjam goats in the native tract. The average CP, EE, CF, NFE, total ash and Ca were observed to be 16.15Â¡Ã0.89, 5.59Â¡Ã0.34, 20.98Â¡Ã0.72, 48.68Â¡Ã1.25, 8.57Â¡Ã0.47 and 1.94Â¡Ã0.13 percent on DM basis, respectively. The ADG of the kids was 31.32Â¡Ã0.47, 41.45Â¡Ã0.38, 54.02Â¡Ã0.19 and 62.84Â¡Ã0.37 g in G1, G2, G3 and G4 respectively, with significant difference (PÂ¡Ã0.05) among all the groups. Blood glucose and cholesterol levels were significantly (PÂ¡Ã0.05) higher in G3 and G4 compared to G1 and G2; however, no differences (PÂ¡Ã0.05) were observed in serum levels of total protein, albumin, urea and calcium. The digestibility of DM and other nutrients were significantly (PÂ¡Ã0.05) higher in G4 compared to G1. It is concluded that, provision of 150g concentrate mixture significantly improved growth performance of Ganjam goats attributable to a more efficient utilization of the native pasture.",
+	"xml:lang":"eng"
+	}
+	}}

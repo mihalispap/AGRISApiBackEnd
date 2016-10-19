@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Polluted soil rehabilitation using genetically engineered mix microbial inoculum"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007190082",
+	"dct:identifier":"FI2007190082",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/e5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Isinguzo, N. S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bello, O. S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Every natural system is self purifying. This is made possible by the diverse micro- and macroflora and -fauna in soils. Bacteria and fungi constitute the greatest population in soils implying that in the case of pollution, microbes are the major agents of purification. A study was carried out in situ with Nigerian crude oil (Bonny light) in polluted teak soil using axenic cultures of bacteria and fungi, a mix culture of bacteria and fungi and a mixed culture of genetically engineered bacteria (Bacillus sp.) and a fungus (Aspergillus niger). The ability to degrade crude oil was measured directly (spectrophotometrically) by oil disappearance and indirectly by the amount of CO2 produced in a controlled environment. Results showed that mixed cultures of the isolated bacteria and fungi degraded the crude oil in the teak soil better than axenic cultures by about 85% over a month period. This is a reduction of the pollution to less than 15%, while the genetically engineered mix culture (mutant Bacillus sp. and Asp. niger) degraded crude oil in a similar soil and condition by 99.3% over the same period, thus reducing pollution to less than 1% and can be applied in bioremediation."}
+	}}

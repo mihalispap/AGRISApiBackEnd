@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Adaptive responses to progressive drought stress in two poplar species originating from different attitudes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Yang, Fan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Miao, Ling-Feng.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"malondialdehyde"},
+	{"value":"drought stress"},
+	{"value":"antioxidants"},
+	{"value":"proline"},
+	{"value":"Populus"},
+	{"value":"antioksidantit"},
+	{"value":"kuivuus"},
+	{"value":"antioxidant enzymes"},
+	{"value":"hydrogen peroxide"},
+	{"value":"vetyperoksidi"},
+	{"value":"entsyymit"},
+	{"value":"free proline"},
+	{"value":"enzymes"},
+	{"value":"proliini"},
+	{"value":"stressi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001900",
+	"dct:identifier":"FI2016001900",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

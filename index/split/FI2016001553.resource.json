@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of basal leaf removal on the chemical composition of Sauvignon Blanc and Riesling wines.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kozina, Bernard.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karoglan, Marko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Herjavec, Stanka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jeromel, Ana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Orlic, Sandi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"wines"},
+	{"value":"plant production"},
+	{"value":"defoliation"},
+	{"value":"varieties"},
+	{"value":"aromatic compounds"},
+	{"value":"Vitis vinifera"},
+	{"value":"quality"},
+	{"value":"leaves"},
+	{"value":"chemical composition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001553",
+	"dct:identifier":"FI2016001553",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

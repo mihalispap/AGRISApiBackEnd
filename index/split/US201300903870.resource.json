@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Tenure system and the value of agricultural land in Uganda"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903870",
+	"dct:identifier":"US201300903870",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/e3.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bashaasha, Bernard (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kasozi, Sarah M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Diiro, G. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The study uses regression analysis to study the effect of institutional, spatial and productivity factors on the price of farm land in rural Uganda. Data for 4,727 parcel level observations from the 2005/06 Uganda National Household Survey are used to undertake the analysis. The results show that size of the parcel, rent and freehold tenure system are the key determinants of the price of a parcel of land. The results also show that the effect of mailo land tenure system on the price of land is probably discounted (dampened) by the double-layered ownership structure. However, the conjecture that mailo land ownership negatively affects the price of a parcel of land is rejected. The results also show that topographic location, land investments and legal ownership of land are not yet important determinants of land price in Uganda. The study recommends policy changes to strengthen the freehold system while at the same time mitigating the constraints on mailo tenureship. A public information campaign is also recommended to increase the knowledge level of land owners and enhance the impact of spatial and land investment attributes on the value of land in rural areas. Further research is recommended to clearly understand the role of a legal certificate of land ownership on land value, ownership and land transfers in rural Uganda."}
+	}}

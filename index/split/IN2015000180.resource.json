@@ -1,0 +1,98 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of tree foliage supplementation to Cenchrus ciliaris hay diet on rumen microbial population, enzyme activities and water kinetics in sheep.  Range Management and Agroforestry (India). (Dec 2011) v.32(2) p.113-117 KEYWORDS:",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":113,
+	"dc:subject":[
+		{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"microorganisms",
+	"xml:lang":"eng"
+	},
+	{"value":"enzyme activity",
+	"xml:lang":"eng"
+	},
+	{"value":"actividad enzimatica",
+	"xml:lang":"esp"
+	},
+	{"value":"hojas",
+	"xml:lang":"esp"
+	},
+	{"value":"eau",
+	"xml:lang":"fre"
+	},
+	{"value":"activite enzymatique",
+	"xml:lang":"fre"
+	},
+	{"value":"water",
+	"xml:lang":"eng"
+	},
+	{"value":"trees",
+	"xml:lang":"eng"
+	},
+	{"value":"agua",
+	"xml:lang":"esp"
+	},
+	{"value":"cenchrus ciliaris",
+	"xml:lang":"esp"
+	},
+	{"value":"arboles",
+	"xml:lang":"esp"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"feuille",
+	"xml:lang":"fre"
+	},
+	{"value":"micro-organisme",
+	"xml:lang":"fre"
+	},
+	{"value":"microorganismos",
+	"xml:lang":"esp"
+	},
+	{"value":"arbre",
+	"xml:lang":"fre"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"leaves",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":32,
+	"bibo:pageEnd":117,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000180",
+	"dct:identifier":"IN2015000180",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_e869f97f"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Range Management and Agroforestry (India)"},
+	"bibo:ISSN":{"value":"0971-2070"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, Sultan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, B.B."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Four adult male sheep of local breed each with mean body weight 29.0Â±4.03 and 22.32Â±2.14 kg were fed Cenchrus ciliaris-Leucaena leucocephala (CC-LL) and Cenchrus ciliaris-Grewia optiva (CC-GO) diets separately. Grass (CC) and tree leaves (LL and GO) were fed in 75:25 proportions, respectively for 90 days on each diet. Rumen liquor samples were drawn at 0 and 4 h post feeding twice at 60 and 90 days feeding on each diet to enumerate the rumen microbes and enzymes and for water kinetics once at 90 days feeding. Total protozoa, entodiniomorphs and holotrichs counts were comparable in rumen liquor of sheep on CC-LL and CC-GO diets. Sheep rumen liquor had similar activity/number of total viable bacteria, cellulolytic and amylolytic bacteria on both diets, while proteolytic bacteria activity was higher (P0.05) on CC-GO diet. Entodiniomorphs and holotrichs constituted 80.05 &19.95% and 78.5 &21.5 % of total protozoa on CC-LL and CC-GO diet, respectively. In rumen liquor Isotricha and entodinium occurrence (%) was highest, and that of polyplastron and ophryoscolex was least. Rumen liquor of sheep fed C-GO had (P0.05) higher glutamate oxaloacetate transaminase (GOT), glutamate pyruvate transaminase (GPT) and glutamate dehydrogenase (GDH). Sheep rumen liquor had higher (P0.05) cellulase activity and outflow rate (l/d) on CC- LL diet.  Inclusion of GO at 25 % level in grass based diet of sheep produced response similar to LL on microbes number, enzyme activity and water kinetics except rumen dilution rate.",
+	"xml:lang":"eng"
+	}
+	}}

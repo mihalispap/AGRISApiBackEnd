@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathomorphological changes induced by chlorpyrifos in broilers and their amelioration with selenium",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":262,
+	"dc:subject":[
+		{"value":"selenium",
+	"xml:lang":"fre"
+	},
+	{"value":"selenio",
+	"xml:lang":"esp"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"chlorpyrifos",
+	"xml:lang":"fre"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"clorpirifos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":265,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000130",
+	"dct:identifier":"IN2015000130",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Upendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Srivastava, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar,  Sanjiv"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gangwar, N. K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A total of fifty four broilers aged 25 days were randomly divided into three equal groups. The chlorpyrifos was given@ 3 mg/kg body weight orally daily in birds of group-II and group-III. The feed of the birds of group-III was supplemented with sodium selenite@0.25ppm. The birds of the group-I were kept as control. Six broilers from each group were slaughtered at day 14, 28 and 42. The weight oflungs, heart,kidneys, brain and spleen was found to be significantly lower in group-II and group-III as compared to control group-I. In group II birds, there were degenerative to necrotic changes in liver. Lung showed congestion, oedema, focal consolidation, extravasation of erythrocytes with inflammation and occasionally giant cells formation. Kidneys showed mild to moderate congestion with degenerative changes in the tubular epithelium and glomerular tufts with or without hypercellularity. Heart showed congestion, extravasation of erythrocytes and degenerative necrotic changes of myofibres. Proventriculous showed degeneration and desquamation of epithelial lining of the mucosa with or without inflammatory cells. Intestine showed mucinous degeneration and necrosis at the tip of the villi. Perivascular and perineuronal oedema,satellitosis and spongiosis were seen in brain. Mild depletion of lymphoid cells in malpighian corpuscles of spleen and in follicles of bursa of Fabricius were also observed. Similar mild morbid lesions except pneumonia and myocarditis were also recorded in birds of group III administered sodium selenite @0:25 ppm in feed which suggested ameliorative effect of antioxidants on the parenchymatous organs and other body tissues.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Optimum extraction and high-throughput detection of cordycepic acid from medicinal macrofungi Cordyceps jiangxiensis, Cordyceps taii and Cordyceps gunnii.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Xiao JianHui
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Xiao DaiMin
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Xiong Qing
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liang ZongQi
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhong JianJiang
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"metabolites"},
+	{"value":"Cordyceps"},
+	{"value":"extracts"},
+	{"value":"mycelium"},
+	{"value":"medicinal properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000801",
+	"dct:identifier":"FI2016000801",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

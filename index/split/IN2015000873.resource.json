@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on nutrient solubilization, biocontrol and plant growth promoting traits of Burkholderia cepacia from tea soil",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":316,
+	"dc:subject":[
+		{"value":"Tea Soil"},
+	{"value":"Potassium Solubilizing Bacteria"},
+	{"value":"antagonismo",
+	"xml:lang":"esp"
+	},
+	{"value":"engrais phosphate",
+	"xml:lang":"fre"
+	},
+	{"value":"phosphate fertilizers",
+	"xml:lang":"eng"
+	},
+	{"value":"antagonisme",
+	"xml:lang":"fre"
+	},
+	{"value":"potassium",
+	"xml:lang":"fre"
+	},
+	{"value":"potasio",
+	"xml:lang":"esp"
+	},
+	{"value":"abonos fosfatados",
+	"xml:lang":"esp"
+	},
+	{"value":"antagonism",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":322,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000873",
+	"dct:identifier":"IN2015000873",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bhagyalakshmi, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ponmurugan, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balamurugan, A."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A study was undertaken to isolate a novel indigenous bacterial strain namely Burkholderia cepacia from tea soils to solubilize potassium (K) and phosphorus (P) sources respectively. The isolated strain was screened based on its solubilization potential in both broth and agarized medium amended with various K and P sources. Plant growth promoting traits and biocontrol activity of the purified strain against tea pathogens such as Pestalotiopsis theae, Glomerella cingulata, Poria hypolateritia, Phomopsis theae and Hypoxylon serpens were studied. Results revealed a significant solubilizing zone in agar medium blended with muriate of potash (MOP) (2.0 cm), sulphate of potash (SOP) (1.2 cm), rock phosphate (1.6 cm) and single super phosphate (0.8 cm). The release of available K was quantified in liquid medium supplemented with MOP and was found to be higher (41.5 mg L-1) than SOP. Among different P sources, rock phosphate (35.2 mg L-1) showed higher solubilization than single super phosphate (30.2 mg L-1) by the test organism on 5th day of incubation. B. cepacia was found to produce a large amount of bioactive compounds like siderophore (12.3 μg mL-1), IAA (263.3 μg mL-1 ) and GA3(14.9 μg mL-1) including exo-polysaccharides (46.8 ppm).The test organism also showed a remarkable biocontrol activity against  P. theae (52.5%), G. cingulata (42.5%), H. serpens (47.5%), Phomopsis theae (32.7%) and P. hypolateritia (30.9%). The secondary metabolites production by an efficient strain B. cepacia revealed that the strain could produce a wide range of volatile compounds.",
+	"xml:lang":"eng"
+	}
+	}}

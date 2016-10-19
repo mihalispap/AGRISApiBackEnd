@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Cultivation of kenaf in north-east Greece. Part I - Effect of variety, plant density and irrigation on growth and dry yield"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alexopoulou, Efthimia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kipriotis, Evripidis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Papatheohari, Yolanda (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moskov, Georgi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Georgiadis, Stergios (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100055",
+	"dct:identifier":"FI2016100055",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Kenaf is a rapidly growing annual crop that is cultivated mainly for its stem with numerous end uses (paper, insulation mats, oil/chemical absorbent, energy production, etc.). The growth and adaptability of several varieties have already been tested in central Greece for the period 1994-1997. This specific work aimed to evaluate the effect of variety (Tainung 2, Mal 1, Everglades 41), plant density (32 and 17 plants/m2) and irrigation (100 and 60% of PET) on growth and dry yields of kenaf in north-east Greece (Komotini). After three years of experimentation (1997-1999), it was found that the most productive variety of the three was Tainung 2 with mean peak dry stem yields of 21 t/ha, followed by Mal 1 (19 t/ha) and Everglades 41 (16.7 t/ha). At the same time the mean dry stem yield in the plots with high density was 19.4 t/ha, while in the ones with the low density 18.1 t/ha. Almost the same dry stem yields were recorded for the two irrigation rates with yields of 19.5 t/ha (100% of PET) and 18.1 (60 % of PET). At that time the bark content on dry basis was 39% for Tainung 2, 40% for Mal 1 and 41% for Everglades 41 and the moisture content of the stem was 58%. When the harvesting was postponed 50-60 days after reaching the highest dry stem yields, the moisture content of the harvested material was reduced from 58 to 25% but at the same time the dry yields were reduced 27% (from 18.8 to 13.6 t/ha) and the bark content was 35%, averaged overall treatments."}
+	}}

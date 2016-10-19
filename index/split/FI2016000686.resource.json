@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of feeding on milk fat content and fatty acid composition : new research experiences and feeding practice in Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Emanuelson, Margareta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bertilsson, Jan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"feeds"},
+	{"value":"fatty acids"},
+	{"value":"lypsykarja"},
+	{"value":"rasvat"},
+	{"value":"milk fat"},
+	{"value":"ruokinta"},
+	{"value":"maitorasva"},
+	{"value":"animal breeding"},
+	{"value":"rasvahapot"},
+	{"value":"maito"},
+	{"value":"koostumus"},
+	{"value":"cow milk"},
+	{"value":"lehmät"},
+	{"value":"lipid content"},
+	{"value":"lipidit"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF/NMR-seminar
+    (252 :
+    1995 :
+    Turku)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000686",
+	"dct:identifier":"FI2016000686",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

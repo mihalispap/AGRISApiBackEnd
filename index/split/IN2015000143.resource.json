@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Production of proteases and lignolytic enzymes during solid state fermentation (SSF) of finger millet straw (Eleusine coracana)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":723,
+	"dc:subject":[
+		{"value":"straw",
+	"xml:lang":"eng"
+	},
+	{"value":"paja",
+	"xml:lang":"esp"
+	},
+	{"value":"protease",
+	"xml:lang":"fre"
+	},
+	{"value":"proteasas",
+	"xml:lang":"esp"
+	},
+	{"value":"proteases",
+	"xml:lang":"eng"
+	},
+	{"value":"paille d'orge",
+	"xml:lang":"fre"
+	},
+	{"value":"rumiante",
+	"xml:lang":"esp"
+	},
+	{"value":"barley straw",
+	"xml:lang":"eng"
+	},
+	{"value":"paja de cebada",
+	"xml:lang":"esp"
+	},
+	{"value":"fermentacion",
+	"xml:lang":"esp"
+	},
+	{"value":"paille",
+	"xml:lang":"fre"
+	},
+	{"value":"ruminants",
+	"xml:lang":"eng"
+	},
+	{"value":"fermentation",
+	"xml:lang":"fre"
+	},
+	{"value":"ruminant",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":729,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000143",
+	"dct:identifier":"IN2015000143",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sridhar, Manpal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Senani, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhatta, R."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"The effect of fermentation on secretion of proteases and lignolytic enzymes was evaluated in non pretreated (UT), steamed for 10 min (ST) and 4% urea treated (UrT) finger millet straw for 5 days in bulk quantities under laboratory conditions with 4 species of white rot fungi, viz. Pleurotus sajorcaju,Pleurotus ostreatus, Voriallae volvoraceae and Phanerochaete chrysosporium. Fermentation with V. volvoraceae recorded the minimum increase in protein of 1.99,2.22 and 2.98% respectively in the untreated,steamed and urea treated straw. Dry matter showed a decrease for the 3 treatments upon fermentation with P.chrysosporium while the highest losses ranging between 10.99 for the untreated to 15.75% for the urea treated straw were observed upon fermentation with V.volvoraceae.Though the ash contents increased the difference was not significant. There were also consistent significant decreases in the values obtained for cell wall components (NDF, ADF ADL). In vitro dry matter digestibility increased with all the 3 treatments in the 4 fungi as compared to control value of 40.0 Â± 3.65. P.chrysosporium recorded highest values of 76.10Â±3.86for UT, 82.70Â±0.45 for ST and 87.20Â±2.02 for UrT followed by P.ostreatus and P.sajor caju while lowest increase in digestibility values of 58.09Â±0.54for UT, 59.23 0.64for ST and 62.57 Â± 2.6 for UrT was obtained in V.volvoraceae. A concomitant increase in the lignolytic enzymes laccase, manganese peroxidase and lignin peroxidase was obtained for all the 3 treatments up to the fifth day of fermentation. High protease activity was observed during the first 2 days of fermentation with steamed ragi straw fermented with P. chrysosporium recording the highest activity of 2641units on the second day. In conclusion, P.chrysosporium and P. ostreatus proved the most promising strains for improving the digestibility of finger millet straw for ruminants and secretion of these enzymes by these fungi for pretreating lignocellulosics for feeding ruminants can safely be manipulated.",
+	"xml:lang":"eng"
+	}
+	}}

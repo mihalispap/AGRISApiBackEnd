@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Hvordan han nordisk samarbeid åpne veier for samarbeid mellom Norden og Baltikum.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Aksnes, Kjell.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"tutkimus"},
+	{"value":"maataloustutkimus"},
+	{"value":"Estonia"},
+	{"value":"Scandinavia"},
+	{"value":"pohjoismainen yhteistyö"},
+	{"value":"yhteistyö"},
+	{"value":"kansainvälinen yhteistyö"},
+	{"value":"agriculture"},
+	{"value":"international cooperation"},
+	{"value":"Lithuania"},
+	{"value":"Latvia"},
+	{"value":"research"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-symposium
+    (1994 :
+    Arlanda)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002123",
+	"dct:identifier":"FI2016002123",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

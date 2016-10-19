@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Managing Sonchus arvensis using mechanical and cultural methods /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vanhala, Petri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lötjönen, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hurme, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salonen, Jukka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"crop rotation"},
+	{"value":"weed control"},
+	{"value":"cultural control"},
+	{"value":"control methods"},
+	{"value":"hoeing"},
+	{"value":"mekaaninen torjunta"},
+	{"value":"torjunta"},
+	{"value":"peltovalvatti"},
+	{"value":"Sonchus arvensis"},
+	{"value":"rikkakasvit"},
+	{"value":"physical control"},
+	{"value":"perennial weeds"},
+	{"value":"viljelytekniikka"},
+	{"value":"tillage"},
+	{"value":"weeds"},
+	{"value":"Sonchus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000016",
+	"dct:identifier":"FI2016000016",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,98 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Ambient Temperature Rise on Heat Storage in Murrah Buffaloes During Different Seasons",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":66,
+	"dc:subject":[
+		{"value":"temperatura del cuerpo",
+	"xml:lang":"esp"
+	},
+	{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"saison",
+	"xml:lang":"fre"
+	},
+	{"value":"environmental factors",
+	"xml:lang":"eng"
+	},
+	{"value":"biological rhythms",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"ritmos biologicos",
+	"xml:lang":"esp"
+	},
+	{"value":"facteur du milieu",
+	"xml:lang":"fre"
+	},
+	{"value":"body temperature",
+	"xml:lang":"eng"
+	},
+	{"value":"temperature corporelle",
+	"xml:lang":"fre"
+	},
+	{"value":"rythme biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"factores ambientales",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"estaciones del ano",
+	"xml:lang":"esp"
+	},
+	{"value":"seasons",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":69,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000078",
+	"dct:identifier":"IN2015000078",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vaidya, M.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Parveen"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kushwaha, Raju"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pathan, M.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balhara, A.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Rhythmicity in physiological parameters is an important process both as convenient and reliable markers of operation of the biological clock and as an indicator of general health of an animal. In order to find out the heat storage in adult and growing Murrah buffaloes, 6 each of growing and adult female Murrah buffaloes were selected from National Dairy Research Institute (NDRI) herd for this study. The experiment was conducted in three seasons i.e. winter (Dec-Jan), spring (Feb-March) and summer (April-May). Rectal temperature (RT) and skin temperature (ST) were recorded during 4.00 hrs interval i.e. 6.00, 10.00, 14.00, 18.00, 22.00 and 2.00 hrs. The circadian variation in Skin temperature and rectal temperature was found to be maximum at 2.00 PM during summer season compared to spring and winter season. The heat storage was also observed highest at 2.00 PM in adult Murrah compared to growing during summer season. Physiological parameters (RT and ST) increased significantly (P0.01) during spring and summer season compared to winter in both growing and adult buffaloes. Therefore young buffaloes should be protected from extreme hot conditions and direct sun exposure be avoided.",
+	"xml:lang":"eng"
+	}
+	}}

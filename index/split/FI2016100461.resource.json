@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of photoperiod and gibberellic acid (GA3) on the growth and flowering of cowpea [Vigna unguiculata (L.) Walp]"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mukhtar, Fatimah B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, B. B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100461",
+	"dct:identifier":"FI2016100461",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effects of different levels of photoperiod (p; h d-1) and 50 ppm gibberellic acid (GA3) were studied on the vegetative growth, phenology and yield of a selected, unimproved but popular cowpea variety Kanannado. The different photoperiods used were 10, <12.5, >12.5 and 14 h d-1 . The GA3 was foliar applied in three doses before bud initiation. Greater growth was observed in the long day lengths (p>12.5 and p=14 h d-1) except for hypocotyls length and stem circumference which were not significantly affected (p≥0.05). Flowering and pod maturity were enhanced under short photoperiods (p=10 and p<12.5) while yield was higher in the long photoperiods (p>12.5 and p=14 h d-1 ).The GA3 stimulated an increase in the growth of the cowpea, enhanced its flowering and pod maturity by 1-5 days and increased yield under all the photoperiods. The significance of this study is that as efforts are being made towards maximising yield of this crop in the dry season (with irrigation) efforts should be made on improving not only reproductive development but vegetative growth as well. Foliar application of GA3 appears promising and more work should be carried out to determine optimum concentration of the hormone as well as explore the possibility of using other hormones and/or combined hormones."}
+	}}

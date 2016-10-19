@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical composition and pasting properties of iron-fortified maize flour"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591888",
+	"dct:identifier":"US201301591888",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f36.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sanni, S. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adebowale, A. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Olayiwola, I. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maziya-Dixon, B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The aim was to study the chemical composition and pasting properties of iron-fortified maize flour. The maize flour was mixed with different quantities (25, 35 and 45 mg/kg) of iron fortificants (iron EDTA, iron sulphate and iron fumarate). The flour samples were analyzed for proximate, mineral and heavy metal composition as well as pasting profile. There were significant differences (P<0.05) in the proximate composition of the fortified maize flour, except in moisture and fat contents. Fortification of maize flour significantly affected the mineral contents of the flours. Compared to unfortified samples, fortification increased the values of iron contents of the fortified flours from 16.1 to 29.7 mg/kg. The values of heavy metals in the fortified maize flour were very low to constitute a health hazard to the consumer. Addition of iron fortificants to maize flour significantly (P<0.05) affected its pasting parameters, except time to attain peak viscosity."}
+	}}

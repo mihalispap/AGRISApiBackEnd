@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The effects of arbuscular mycorrhizal fungi and water stress on leaf chlorophyll production of cassava (Manihot esculenta Crantz)"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029261",
+	"dct:identifier":"FI2007029261",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ekanayake, Indira J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oyetunji, O. Jacob (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Osonubi, O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lyasse, Omar (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Arbuscular mycorrhizal (AM) fungi are well known phyto-stimulators of various growth processes of its symbiotic plants. Semi-controlled experiments were conducted in large container cultured cassava to investigate the influence of AM inoculation and water stress on leaf chlorophyll production from sprouting to 6 months after sprouting with the aim to better understand stressful conditions on its growth habit. Two AM species Glomus clarum and G. mosseae were used to inoculate two cassava cultivars, TMS 4(2) 1425 (an improved cultivar) and TME1 (a landrace). A 3-factor factorial complete randomized design, with three replications was used to arrange the containers. Water stress was begun one month after planting (MAP) and compared to non-water stressed. The results indicated that plant water stress levels based on more negative leaf Y had a detrimental effect on leaf chlorophyll contents of both genotypes. There were significant cultivar x AM species x irrigation treatment interactions during stress and post-stress recovery periods. The introduced AM fungi species were also found to enhance chlorophyll production both under well watered and water stressed conditions. G. clarum remained more effective on chlorophyll synthesis under both water regimes. The improved cultivar also responded more positively to AM fungi inoculation with regard to chlorophyll production. Our data suggest that genotypic differences between the Glomus spp. and also that of cassava genotypes and their interactions have to be considered in the successful use of AM technology in cassava cultivation."}
+	}}

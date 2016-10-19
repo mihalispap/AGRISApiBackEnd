@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Occurrence of gastrointestinal pathogens in soil of potato field treated with liquid dairy manure"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301574995",
+	"dct:identifier":"US201301574995",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-65.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Liao, Ching-Hsing (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Honeycutt, C. Wayne (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Griffin, Tim S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jemison, John M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In parallel with a study of liquid dairy manure (LDM) effects on potato (Solanum tuberosum) production, an investigation was conducted to monitor the occurrence of three major foodborne pathogens in soil amended with LDM under field conditions. LDM was added prior to planting potatoes in experimental plots (randomized complete block design, 5 replications) in 1999 and in 2000. Soil samples were collected periodically from plots treated with or without LDM and analyzed for the presence of Listeria monocytogenes, Salmonella sp., generic Escherichia coli, and E. coli O157:H7. In the 1999 potato-growing season, L. monocytogenes was consistently detected in LDM-treated, but not in untreated, soil samples during the first six weeks after LDM application. However, L. monocytogenes became undetectable approximately ten weeks after LDM application. A rapid decline in the number of generic E. coli, from 292 cfu g-1 soil in June to 10 cfu g-1 soil in July, was also observed. Salmonella and E. coli O157:H7 were not detected in 120 soil and potato samples analyzed. In the 2000 potato-growing season, no pathogen was detected in 60 soil and potato samples analyzed, although generic E. coli was detected once at a very low level (2 cfu g-1 soil). This study indicates that L. monocytogenes can be present in soils during the first 40 to 70 days after LDM application."}
+	}}

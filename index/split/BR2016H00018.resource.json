@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"BIOESTIMULANTE VIA FOLIAR EM ALFACE APÓS O TRANSPLANTIO DAS MUDAS",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":49,
+	"bibo:volume":2,
+	"bibo:pageEnd":56,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00018",
+	"dct:identifier":"BR2016H00018",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-07",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/257",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tarcel Henrique Correia Izidório"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sebastião Ferreira de Lima"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eduardo Pradi Vendruscolo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jorgiani de Ávila"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rita de Cássia Félix Alvarez"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A alface é considerada a hortaliça folhosa de maior importância nacional. O aumento da demanda e exigência sobre a qualidade do produto estimula a utilização de novas tecnologias, como os bioestimulantes, na etapa produtiva. O objetivo, neste ..",
+	"xml:lang":"por"
+	}
+	}}

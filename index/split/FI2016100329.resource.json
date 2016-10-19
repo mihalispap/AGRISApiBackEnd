@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Vanilla (Vanilla planifolia Andrews) crop systems used in the Totonacapan area of Veracruz, Mexico: Biological and productivity evaluation"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Castro-Bobadilla, G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Garcia-Franco, J. G. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100329",
+	"dct:identifier":"FI2016100329",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The genus Vanilla (Orchidaceae) includes around 100 species distributed in the tropics, but only three of them are cultivated commercially, although one of the most used is Vanilla planifolia Andrews. In this study we evaluated the three current vanilla production techniques carried out in area of The Totonacapan, Mexico. During two years (1999 and 2000) environmental characteristics (soil moisture and pH, environmental humidity and temperature and canopy covering) were determined. We found a relationship between these factors with the survival of the fruits (as a production parameter). The fruit survival was different in the studied orchards in both years. The temperature showed a significant correlation, as well as the relative humidity of the atmosphere. The cultivation system and the handling used in semi-technician parcels (St) allowed to obtain a great number of fruits per infructescence, fruits were of a high size and weight and had a high survival rate. Our investigation showed that the water and its maintenance in the cultivation in form of environmental relative humidity play an important role for the good development of the fruits."}
+	}}

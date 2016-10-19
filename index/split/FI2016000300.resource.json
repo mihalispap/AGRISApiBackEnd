@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n2p131.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The phytotoxic effects and biodegradability of stored rapeseed oil and rapeseed oil methyl ester.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vauhkonen, Ville.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lauhanen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ventelä, Sarita.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suojaranta, Juhani.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pasila, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuokkanen, Toivo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Prokkola, Hanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Syväjärvi, Sanna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biodegradation"},
+	{"value":"metyyliesteri"},
+	{"value":"fytotoksisuus"},
+	{"value":"biopolttoaineet"},
+	{"value":"rapeseed  oil"},
+	{"value":"biofuels"},
+	{"value":"laatu"},
+	{"value":"biohajoaminen"},
+	{"value":"keeping quality"},
+	{"value":"groundwater"},
+	{"value":"environment"},
+	{"value":"barley"},
+	{"value":"phytotoxicity"},
+	{"value":"rypsiöljy"},
+	{"value":"quality"},
+	{"value":"säilyvyys"},
+	{"value":"contamination"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000300",
+	"dct:identifier":"FI2016000300",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

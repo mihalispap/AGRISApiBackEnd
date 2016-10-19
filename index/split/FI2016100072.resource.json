@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal and structural changes of flavones in alfalfa (Medicago sativa) aerial parts"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Stochmal, Anna (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oleszek, Wieslaw (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100072",
+	"dct:identifier":"FI2016100072",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Flavonoids are the group of secondary metabolites that can be found in most of the plant families. They have an important physiological function for plant by protecting it against UV-B and some biotic stresses, but also are of great interest from the nutritional point of view, predominantly as natural antioxidants. Liquid chromatography (HPLC) was used to determine the flavonoid profiles, their total concentration as well as the changes in the amount of twenty two flavones found in aerial parts of ten alfalfa (Medicago sativa L.) varieties, grown in a field for three consecutive years. It was shown that dominant flavonoids of alfalfa were the flavones: tricin and apigenin glycosides (around 40% of the total each). The concentration of luteolin and chrysoeriol glycosides did not exceed 10% of the total. The total concentration of flavones was rather high and ranged between 27 and 37 mg/g d.m.,but there were no significant differences between varieties. A successive decrease in the total flavonoid concentration was found between the cuts; the concentration was highest in the first spring cut and decreased for the second and third cut. At the same time, the ratio of flavones acylated with hydroxycinnamic acids to nonacylated increased from 1.5 in the first to 1.8 for the second and third cuts. This finding may indicate the importance of acylated forms for protection of the plant against UV-B during the summer time."}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"The volume and composition of dead wood on traditional and forest fuel harvested clear-cuts.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Eräjää, Sini.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Halme, Panu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kotiaho, Janne S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Markkanen, Anni.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toivanen, Tero.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest fuel harvesting"},
+	{"value":"lahopuu"},
+	{"value":"wood"},
+	{"value":"avohakkuu"},
+	{"value":"energiametsät"},
+	{"value":"grading"},
+	{"value":"fuelwood"},
+	{"value":"deadwood"},
+	{"value":"fine woody debris (FWD)"},
+	{"value":"clear felling"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000859",
+	"dct:identifier":"FI2016000859",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"High Temperature Induced Antioxidant Status in the Diapausing Pupae of Tasar Silkworm, Antheraea Mylitta Drury.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":321,
+	"dc:subject":[
+		{"value":"antheraea mylitta",
+	"xml:lang":"esp"
+	},
+	{"value":"calor",
+	"xml:lang":"esp"
+	},
+	{"value":"ver a soie",
+	"xml:lang":"fre"
+	},
+	{"value":"pupe",
+	"xml:lang":"fre"
+	},
+	{"value":"silkworms",
+	"xml:lang":"eng"
+	},
+	{"value":"antioxidants",
+	"xml:lang":"eng"
+	},
+	{"value":"pupa",
+	"xml:lang":"esp"
+	},
+	{"value":"pupae",
+	"xml:lang":"eng"
+	},
+	{"value":"chaleur",
+	"xml:lang":"fre"
+	},
+	{"value":"antioxydant",
+	"xml:lang":"fre"
+	},
+	{"value":"gusano de seda",
+	"xml:lang":"esp"
+	},
+	{"value":"antioxidantes",
+	"xml:lang":"esp"
+	},
+	{"value":"antheraea",
+	"xml:lang":"esp"
+	},
+	{"value":"heat",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":324,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000042",
+	"dct:identifier":"IN2015000042",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Patra Chandra Gauranga"
+	}
+	},
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Antioxidant levels in the haemolymph and fat bodies were studied in the diapausing pupae of tasar silkworm, Antheraea mylitta Drury exposed to high temperature (37Â° C) for a period of 15 days and compared with that of control (kept at 25Â°Â±3Â°C). Protein, ascorbic acid and glutathione content in the fat body and haemolymph tissues were found to increase due to high temperature. Reduction in lipid peroxidation (malondialdehyde =MDA content) in the fat body tissue showed a protective mechanism to limit the tissue oxidation. The results suggest that, high temperature induces antioxidant status of the pupae of tasar silkworm A. mylitta Drury.",
+	"xml:lang":"eng"
+	}
+	}}

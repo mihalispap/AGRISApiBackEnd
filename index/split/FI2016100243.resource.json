@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Interaction of sulphur dioxide and seed gall nematode, Anguina tritici, on wheat"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kausar, Shamee (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, Abrar A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raghav, Deepali (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100243",
+	"dct:identifier":"FI2016100243",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The interaction of sulphur dioxide (0.2 ppm) and seed gall nematode, Anguina tritici was observed on five wheat varieties. LOK-1, HD-2329, Raj-3765, PPW-154, UP-2328 in artificial condition. SO2 alone significantly reduced plant growth of all the varieties. Reduction in growth was more in nematode inoculated and exposed to SO2 sets as compared to nematode alone-inoculated sets. However, highest reduction in yield was observed in nematode alone-inoculated sets. Numbers of cockles were varied variety to variety in nematode alone-inoculated sets. However, none or few cockles were formed when nematode inoculated plants were exposed to SO2. The antagonistic interaction was observed between nematode and SO2 when both combined together."}
+	}}

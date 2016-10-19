@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Establishing forest inventory reference definitions for forest and growing stock : a study towards common reporting /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vidal, Claude.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lanz, Adrian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tomppo, Erkki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schadauer, Klemens.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gschwantner, Thomas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cosmo, Lucio di.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Robert, Nicolas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"reference definitions"},
+	{"value":"yhdenmukaistaminen"},
+	{"value":"national forest inventory"},
+	{"value":"puusto"},
+	{"value":"forest inventories"},
+	{"value":"analytical decomposition"},
+	{"value":"metsäninventointi"},
+	{"value":"growing stock"},
+	{"value":"menetelmät"},
+	{"value":"valtakunnan metsien inventointi"},
+	{"value":"harmonisation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001167",
+	"dct:identifier":"FI2016001167",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

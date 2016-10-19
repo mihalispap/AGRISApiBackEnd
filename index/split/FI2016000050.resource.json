@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"What explains the widening gap between the retail and producer prices of food?",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kuosmanen, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemi, Jyrki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hinnat"},
+	{"value":"elintarvikkeet"},
+	{"value":"agricultural policies"},
+	{"value":"foods"},
+	{"value":"producer prices"},
+	{"value":"consumer prices"},
+	{"value":"kuluttajahinnat"},
+	{"value":"prices"},
+	{"value":"price formation"},
+	{"value":"tuottajahinnat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000050",
+	"dct:identifier":"FI2016000050",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

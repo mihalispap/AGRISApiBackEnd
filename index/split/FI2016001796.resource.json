@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelling variability in full-field displacement profiles and Poisson ratio of wood in compression using stochastic neural networks.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ling, Hong.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Samarasinghe, Sandhya.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kulasiri, G. Don.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"stochastic neural networks"},
+	{"value":"digitaalikuvaus"},
+	{"value":"displacement profiles"},
+	{"value":"wood"},
+	{"value":"digital image correlation"},
+	{"value":"variability"},
+	{"value":"muuntelu"},
+	{"value":"mathematical models"},
+	{"value":"Poisson ratio"},
+	{"value":"neuroverkot"},
+	{"value":"ultrastructure"},
+	{"value":"matemaattiset mallit"},
+	{"value":"neural networks"},
+	{"value":"puu"},
+	{"value":"rakenne"},
+	{"value":"image analysis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001796",
+	"dct:identifier":"FI2016001796",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

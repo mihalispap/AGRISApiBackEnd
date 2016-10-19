@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of approaches to integrate energy wood estimation into the Finnish compartment inventory system /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tahvanainen, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaartinen, Kalle.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pukkala, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maltamo, Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"harvennus"},
+	{"value":"calibration estimation"},
+	{"value":"diameter"},
+	{"value":"puutavaralajit"},
+	{"value":"thinning"},
+	{"value":"forest inventories"},
+	{"value":"tuotanto"},
+	{"value":"fuelwood"},
+	{"value":"diameter distribution"},
+	{"value":"metsäninventointi"},
+	{"value":"compartment inventory"},
+	{"value":"energiapuu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001321",
+	"dct:identifier":"FI2016001321",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

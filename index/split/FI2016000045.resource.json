@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1064",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ersson, Back Tomas,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergsten, Urban,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindroos, Ola,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Reloading mechanized tree planting devices faster using a seedling tray carousel.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"silviculture"},
+	{"value":"kustannus-hyötyanalyysi"},
+	{"value":"istutuskoneet"},
+	{"value":"time study"},
+	{"value":"containerized seedling"},
+	{"value":"tuottavuus"},
+	{"value":"seedlings"},
+	{"value":"tree planting machine"},
+	{"value":"cost analysis"},
+	{"value":"pot plants"},
+	{"value":"seedling feed"},
+	{"value":"aikatutkimus"},
+	{"value":"metsänhoito"},
+	{"value":"planting equipment"},
+	{"value":"metsänuudistus"},
+	{"value":"productivity"}
+	],
+	"bibo:doi":"10.14214/sf.1064",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000045",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000045",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

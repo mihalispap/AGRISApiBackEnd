@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/8/1/comparsi.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of two breeding systems for timing of whelpings in farmed silver foxes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Harri, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mononen, Jaakko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rekilä, Teppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rouvinen, Kirsti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lisääntymiskäyttäytyminen"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"furbearing animals"},
+	{"value":"behaviour"},
+	{"value":"lisääntyminen"},
+	{"value":"tarhaus"},
+	{"value":"reproduction"},
+	{"value":"foxes"},
+	{"value":"hopeakettu"},
+	{"value":"reproductive performance"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000195",
+	"dct:identifier":"FI2016000195",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

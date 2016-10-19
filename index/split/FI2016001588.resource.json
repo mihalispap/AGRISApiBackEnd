@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Undersowing Italian ryegrass diminishes nitrogen leaching from spring barley.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lemola, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Turtola, Eila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eriksson, Christian.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maanmuokkaus"},
+	{"value":"crop yield"},
+	{"value":"nitrates"},
+	{"value":"field experimentation"},
+	{"value":"kenttäkokeet"},
+	{"value":"sato"},
+	{"value":"barley"},
+	{"value":"Lolium multiflorum"},
+	{"value":"aluskasvit"},
+	{"value":"ohra"},
+	{"value":"cover plants"},
+	{"value":"Italian raiheinä"},
+	{"value":"typpi"},
+	{"value":"tillage"},
+	{"value":"leaching"},
+	{"value":"lysimeters"},
+	{"value":"huuhtoutuminen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001588",
+	"dct:identifier":"FI2016001588",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

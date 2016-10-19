@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficacy of indigenous oils on growth and development of Callosobruchus chinensis infesting Black gram",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":283,
+	"dc:subject":[
+		{"value":"plant oils",
+	"xml:lang":"eng"
+	},
+	{"value":"vigna mungo",
+	"xml:lang":"esp"
+	},
+	{"value":"huile vegetale",
+	"xml:lang":"fre"
+	},
+	{"value":"callosobruchus chinensis",
+	"xml:lang":"esp"
+	},
+	{"value":"aceites vegetales",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":286,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000505",
+	"dct:identifier":"IN2015000505",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Namdev, Hari Prakash"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Ram Subhag"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anuragi, M.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandramani"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A laboratory study was conducted to investigate the bioefficacy of indigenous oils i.e. ground nut, mustard, sunflower, mahua, linseed, neem, sesame, taramira, coconut and soybean against the pulse beetle, Callosobruchus chinensis on Vigna mungo. These oils were applied in two doses i.e. 2 ml and 3 ml/kg with three replications. The both doses of indigenous oils significantly reduced fecundity, emergence of F1 adults and enhanced developmental period. On which 3 ml /kg of indigenous oil were found most effective. The neem oil was noticed as effective grain protectant had maximum reduction in fecundity (89.1%), emergence of F1 adult (97.9%) and increase developmental period (14.4) at 3 ml/kg seed dose. It was followed by taramira oil and mustard oil which had 67.2 and 83.3%; 66.0 and 83.2% reduction in fecundity, 95.1 and 97.1%; 95.0 and 97.1%, reduction in adult emergence and 11.1 and 13.3%, 10.9 and 13.6% increase in developmental period, respectively at 2 ml and 3 ml/kg seed of black gram.",
+	"xml:lang":"eng"
+	}
+	}}

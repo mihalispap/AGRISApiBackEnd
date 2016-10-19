@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Population dynamics of tobacco caterpillar, Spodoptera litura (fabricius)",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"larvae",
+	"xml:lang":"eng"
+	},
+	{"value":"larve",
+	"xml:lang":"fre"
+	},
+	{"value":"larvas",
+	"xml:lang":"esp"
+	},
+	{"value":"spodoptera litura",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":158,
+	"bibo:volume":76,
+	"bibo:pageEnd":159,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000487",
+	"dct:identifier":"IN2015000487",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, R.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, M.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, H.M."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

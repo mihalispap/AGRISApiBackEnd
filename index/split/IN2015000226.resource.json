@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bio-efficacy of insecticides in management of Helicoverpa armigera (HÃ¼bner) in Kharif Sorghum",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":83,
+	"dc:subject":[
+		{"value":"sorghum bicolor",
+	"xml:lang":"esp"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":86,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000226",
+	"dct:identifier":"IN2015000226",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gandhi, B. Kiran"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shekharappa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balikai, R.A."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A field trial was carried out comprising of sorghum hybrid CSH-16 to evaluate the bioefficacy of spinosad 45SC (0.1ml/l), cypermethrin 10EC (0.5ml/l), novaluran 10EC(1ml/l), azardirachtin 5% and Bacillus thringiensis (1ml/l) insecticides against earhead caterpillar Helicoverpa armigera in sorghum. spinosad 45SC (0.1ml/l), novaluran 10EC(1ml/l) and azardirachtin 5 % emerged as superior by recording 72.0, 66.0 and 63.0 % population reduction producing a grain loss of 43.46, 42.23 and 41.16 q/ha, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

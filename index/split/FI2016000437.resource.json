@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of the functional-structural tree model LIGNUM to growth simulation of short-rotation eastern cottonwood.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lu, Miaoer.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nygren, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Perttunen, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pallardy, Stephen G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Larsen, David R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"photon flux interception"},
+	{"value":"L-system"},
+	{"value":"carbon"},
+	{"value":"Populus deltoides"},
+	{"value":"voxel model"},
+	{"value":"carbon allocation"},
+	{"value":"forestry production"},
+	{"value":"photosynthetic production"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000437",
+	"dct:identifier":"FI2016000437",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

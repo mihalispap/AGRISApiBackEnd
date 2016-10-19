@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Kappa casein gene in water buffaloes using polymerase chain reaction and sequence specific oligonucleotide probes (PCR-SSOP)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":856,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"caseina",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"milk protein",
+	"xml:lang":"eng"
+	},
+	{"value":"polymorphism",
+	"xml:lang":"eng"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	},
+	{"value":"polymorphisme",
+	"xml:lang":"fre"
+	},
+	{"value":"casein",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"proteine du lait",
+	"xml:lang":"fre"
+	},
+	{"value":"proteinas de la leche",
+	"xml:lang":"esp"
+	},
+	{"value":"polimorfismo",
+	"xml:lang":"esp"
+	},
+	{"value":"caseine",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":858,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000156",
+	"dct:identifier":"IN2015000156",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"aug2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Malik, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Satish Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajni Rani"
+	}
+	}
+	],
+	"bibo:issue":8,
+	"bibo:abstract":{"value":"Polymorphism of kappa casein gene was studied in genomic DNA samples isolated from peripheral blood lymphocytes of 24 animals of Murrah breed of buffaloes using polymerase chain reaction and sequence specific oligonucleotide probes. The primer and probes for the amplification and hybridization of the variable fragments of the CASK gene was designed from the published nucleotide sequence of the cattle. PCR amplification of buffalo DNA samples and probe hybridization confirmed the homology between the 2 species at nucleotide level. In spite of homology, buffalo DNA samples did not show any polymorphism, instead monomorphism was observed at CASK gene. However, in kappa casein gene an interesting hybridization pattern was observed. The kappa casein gene shows monomorphism but it is like CASK-A allele of cattle at codon 136 i.e. ACC (Thr) and like B allele of cattle at codon 148 i.e. GCT (Ala) at the nucleotide level confirming the earlier report on protein sequence.",
+	"xml:lang":"eng"
+	}
+	}}

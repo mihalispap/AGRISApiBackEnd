@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n4p315.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of different tillage-fertilization practices on the mycoflora of wheat grains.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Suproniene, Skaidre.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mankeviciene, Audrone.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kadziene, Grazina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Feiziene, Dalia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Feiza,  Virginijus.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Semaskiene, Roma.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dabkevicius, Zenonas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vehnä"},
+	{"value":"Triticum"},
+	{"value":"mykotoksiinit"},
+	{"value":"jyvä"},
+	{"value":"kasvitaudit"},
+	{"value":"viljakasvit"},
+	{"value":"muokkaus"},
+	{"value":"fungi"},
+	{"value":"fertilization"},
+	{"value":"lannoitus"},
+	{"value":"grain"},
+	{"value":"wheats"},
+	{"value":"viljelytekniikka"},
+	{"value":"tillage"},
+	{"value":"contamination"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000820",
+	"dct:identifier":"FI2016000820",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

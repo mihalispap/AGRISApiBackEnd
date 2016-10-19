@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Agenda 2000:n vaikutus Suomen maatalouteen /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ala-Mantila, Ossi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lehtonen, Heikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aakkula, Jyrki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Knaapinen, Petri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laurila, Ilkka P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemi, Jyrki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"agricultural policies"},
+	{"value":"Agenda 2000"},
+	{"value":"maatalouden tukipolitiikka"},
+	{"value":"Finland"},
+	{"value":"maatalouspolitiikka"},
+	{"value":"maatalous"},
+	{"value":"horticulture"},
+	{"value":"agriculture"},
+	{"value":"Euroopan unioni"},
+	{"value":"CAP"},
+	{"value":"European union"},
+	{"value":"puutarhatalous"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000462",
+	"dct:identifier":"FI2016000462",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

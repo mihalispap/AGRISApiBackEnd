@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   Níveis de fósforo e fitase para poedeiras comerciais leves ",
+	"xml:lang":"por"
+	},
+	{"value":"Phosphorus and phytase levels for layer hens",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"eggs",
+	"xml:lang":"eng"
+	},
+	{"value":"calcium",
+	"xml:lang":"eng"
+	},
+	{"value":"bones",
+	"xml:lang":"eng"
+	},
+	{"value":"quality",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01184",
+	"dct:identifier":"BR2015F01184",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1378908976.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"REZENDE, J. C. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LAURENTIZ,  A. C"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FILARDI,  R. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FASCINA,  V. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BERTO,  D. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FILHO,  S. T."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Objetivou-se com esta pesquisa avaliar o desempenho e a qualidade óssea de poedeiras na fase de pós pico de postura, alimentadas com dietas contendo níveis de fósforo e fitase. Foi realizado um experimento com 384 poedeiras da linhagem Hy-line branca distribuídas em delineamento inteiramente casualizado em esquema fatorial 4 x 3, com 4 níveis de fósforo disponível e 3 níveis de fitase. O período experimental foi dividido em quatro ciclos de 28 dias, ao final de cada ciclo experimental foram determinados o consumo de ração, produção de ovos, peso de ovos, conversão alimentar, mortalidade, peso médio do ovo, espessura de casca, unidades Haugh e gravidade específica dos ovos. Ao final do período experimental foram determinadas as quantidades de cálcio e fósforo excretadas pelo método de coleta total de excretas e uma ave por unidade experimental foi sacrificada por deslocamento da articulação crânio-cervical para retirada dos ossos e avaliação da largura, comprimento e índice de robustez do fêmur e tíbia. Houve interação entre os níveis de fósforo e fitase para consumo de ração, conversão alimentar e percentual de postura. Para os níveis de inclusão de fitase todas as variáveis de qualidade de ovo não apresentaram diferenças significativas. Os tratamentos não afetaram as características ósseas das poedeiras.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this research was to evaluate the performance and bone quality of laying hens after peak production fed diets containing phosphorus levels and phytase. An experiment was conducted with 384 Hy-line distributed in a completely randomized in a factorial 4 x 3 with 4 levels of available phosphorus and 3 levels of phytase. The experimental period was divided into four periods of 28 days, at the end of each cycle were determined experimental feed intake, egg production, egg weight, feed conversion, mortality, and average egg weight, shell thickness, Haugh units and specific gravity. At the end of the experimental period were determined amounts of calcium and phosphorus excreted by the method of total excreta collection and a fowl per experimental unit was sacrificed for collection of bones and evaluation of width, length and level of robustness from femur and tibia. There was interaction between phosphorus levels and phytase on feed intake, feed conversion and percentage of posture. For inclusion levels of phytase all egg quality variables showed no significant differences. The treatments did not affect bone characteristics of laying hens.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

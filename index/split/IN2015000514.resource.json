@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bio efficacy of Bifenazate 240 SC (Floramite) against mites on Grape, Vitis vinifera",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":317,
+	"dc:subject":[
+		{"value":"tetranychus urticae",
+	"xml:lang":"esp"
+	},
+	{"value":"vitis vinifera",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":319,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000514",
+	"dct:identifier":"IN2015000514",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Biradar, A.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nadaf, A.M."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"There was a significant reduction of mite population in bifenazate 240 SC @ 0.50 ml/l (Floramite) (0.30 mites / 3 leaves) which was followed by propargite 57 EC @ 1.50 ml/l (0.30 mites / leaves) and bifenazate 240 SC @ 1.0 ml/l (1.7 mites / 3 leaves) and dicofol 25 EC @ 2.00 ml/l (1.70 mites / 3 leaves). However, all these treatments were significantly superior over untreated control. The pooled analysis of two year data indicated that there was a significant reduction of mites population in bifenazate (0.7 mites / 3 leaves), propergite (0.7 mites / 3 leaves) and abamectin (0.7 mites / 3 leaves) over other treatments. The similar trend of superiority of treatments was recorded after second spray. Significantly highest yield of grape fruits was recorded in bifenazate (15.40 kg / plant) and abamectin as compared to rest of the treatments.",
+	"xml:lang":"eng"
+	}
+	}}

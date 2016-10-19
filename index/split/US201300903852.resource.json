@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Serological evidence of influenza virus infections in domestic animals and birds in North-Eastern Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903852",
+	"dct:identifier":"US201300903852",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/f12.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abubakar, M.B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"El-Yuguda, A.D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baba, S.S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Retrospective surveys for prevalence of influenza (FLU) virus types A and B antibodies among various species of domestic animals in North- Eastern Nigeria were carried out using haemagglutination inhibition (HI) test. The results of the retrospective antibody survey showed an overall prevalence rate of 64% of FLU virus antibodies among the domestic animals and birds. The highest prevalence of 83% was found in Guinea fowls followed in descending order by 75% in horses, 74% goat, 73% in sheep, 72% in chicken 63% in donkeys and 58% in pigeons. Statistically significant difference (p<0.05) was observed in the prevalence between the various animal species. The study therefore provided a serological evidence of high prevalence of FLU virus HI antibodies among domestic animals in the study area. Consistently high prevalence of monotypic infections with FLU A virus when compared with FLU B has also been observed. High geometric mean titre (GMT) values of the reciprocal of HI antibody titres between 25 and 112 were recorded with FLU A while low to moderate GMT values of 21 to 41 were observed among FLU B positive sera. There was significant difference in the prevalence of mixed virus infections with both FLU serotypes between animal species. The highest prevalence of mixed infection was observed in goats (52%) followed in descending order of prevalence by sheep (42%), Guinea fowl (36%), horse (33%), pigeon (19%), chicken (15%) and donkey (13%). The presence of FLU virus HI antibodies in horses, donkeys, chickens, pigeons and Guinea fowls in this environment was observed for the first time in this study. It is suggested that the various domestic animals investigated may be playing some important roles in the epidemiology of influenza virus infection in this environment which could be of great veterinary and public health importance in phase of the recent outbreaks of highly pathogenic avian influenza (HPAI) in Nigeria."}
+	}}

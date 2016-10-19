@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Reproductive status of sirohi goats under field conditions",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":143,
+	"dc:subject":[
+		{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"rajasthan",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":144,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000387",
+	"dct:identifier":"IN2015000387",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Upendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagda, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, S.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Data on reproductive traits of the Sirohi goats were recorded during the years 2002â2008. Abortions and stillbirths were the highest (11.70%) during 2005 and the lowest (4.35%) during 2008. Twining and triplet percentages ranged between 11.76 and 27.15 and from 0 to 1.10, respectively. The overall least squares means for age at first service, age at first kidding, weight at first service and weight at first kidding were 513.70Â±9.01days, 662.92Â±9.23 days, 26.25Â±0.12 kg and 28.63Â±0.12 kg, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

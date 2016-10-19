@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/e7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Aluminum influence on growth and uptake of micronutrients by cacao"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Baligar, Virupax C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fageria, Nand K. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100068",
+	"dct:identifier":"FI2016100068",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Cacao (Theobroma cacao L) productivity in tropical soils is largely determined by aluminum toxicity and inadequate supply of essential available nutrient. However, information on micronutrient requirements by cacao in acid soils is scarce. A growth chamber experiment was conducted to evaluate soil Al saturation (0.2, 19 and 26% of CEC) effects on root and shoot growth and micronutrient uptake parameters (concentration, uptake efficiency ratios, influx and transport) by cacao. Root and shoot growth were significantly reduced by higher soil Al saturations, however, root growth was more sensitive to Al toxicity than shoot growth. Critical soil Al saturation (soil Al saturation at which 10% reduction of optimal growth is achieved) for root growth was 2% and for shoot growth it was 15%. Uptake of Cu, Fe, Mn and Zn decreased quadratically with increasing soil Al saturation in the range of 0.2 to 26% but uptake for B increased with increasing soil Al saturation. Among the micronutrients, maximum uptake was for Mn and minimum uptake was for Cu. Micronutrient use efficiency ratio (ER, mg shoot dry wt produced/mg of element in shoot) was in the order of Cu >B > Zn > Fe > Mn. The ER for B, Mn and Zn increased quadratically and significantly with increasing soil Al saturation. Positive quadratic relations were observed for soil Al saturation and influx of micronutrients with the exception of Fe. The transport of Cu, Fe, Mn and Zn to shoots decreased quadratically with increasing soil Al saturation. Applications of micronutrients are generally required for improving yield potential of cacao in highly weathered tropical soils."}
+	}}

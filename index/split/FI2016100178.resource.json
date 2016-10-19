@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Prediction of the gross energy value of Mediterranean forages"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Peiretti, P.G. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100178",
+	"dct:identifier":"FI2016100178",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A data set of 551 samples of grass and legume harvested at different locations and at different stages of maturity were examined to develop and evaluate some prediction equations for the gross energy of Mediterranean forages. The sample set covered a broad range of forage species including 339 samples of lucerne (Medicago sativa), 103 samples of Italian ryegrass (Lolium multiflorum Lam.), 72 samples of sulla (Hedysarum coronarium L.), 27 samples of sainfoin (Onobrychis viciifolia Scop.) and 10 samples of red clover (Trifolium pratense). These samples were collected and analysed for crude protein (CPo) and gross energy (GEo), expressed per kg of organic matter (OM) in order to eliminate the influence of the ash contents. Of all the regression equations derived from the data for the prediction of GEo, the following one in particular gives a good prediction: GEo (kcal/kg OM) = 4354 + 2.131CPo ±14 (r=0.81; n=551). Its use represents an immediate system for predicting the energy content of Mediterranean forages and it is a valid alternative to the direct determination using an adiabatic bomb calorimeter."}
+	}}

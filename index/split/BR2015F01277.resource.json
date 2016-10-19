@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:title":[
+		{"value":"Physical and chemical characterization of fruits of mulberry cultivars from genus Morus",
+	"xml:lang":"eng"
+	},
+	{"value":"   Caracterização física e química de frutos de cultivares de amoreira do gênero Morus ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"measure",
+	"xml:lang":"eng"
+	},
+	{"value":"varieties",
+	"xml:lang":"eng"
+	},
+	{"value":"fruit",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"69/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01277",
+	"dct:identifier":"BR2015F01277",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1366025969.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"OKAMOTO,  F"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PALHARINI,  M. C. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VIDAL,   A. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FUNAI,  C. H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FURLANETO,  F. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MARTINS,  A. N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"JERÔNIMO,  E. M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O trabalho teve como objetivo a avaliação das características físicas e químicas de frutos de cultivares de amoreira (Morus spp.). O experimento foi conduzido em Marília, São Paulo, onde foram avaliados frutos de dez cultivares de amoreira, sendo elas IZ 1/1, IZ 1/2, IZ 1/3, IZ 1/12, IZ 2/1, IZ 3/1, IZ 4/1 e IZ 15/1, além de Korin e Miura. As características físicas e químicas dos frutos de amoreira variaram entre as cultivares. A cultivar Korin se destacou por conter maior teor de sólidos solúveis e maior teor de acidez, requisitos importantes para frutos de melhor sabor. Quando considerado o volume para processamento, as cultivares IZ 1/3, IZ 1/12 e IZ 15/1 apresentaram maior massa.",
+	"xml:lang":"por"
+	},
+	{"value":"This study aimed to evaluate the physical and chemical characteristics of mulberry cultivars fruits (Morus spp.). The experiment was conducted at Marilia, State of Sao Paulo, Brazil, it was evaluated fruits of ten mulberry cultivars, IZ 1/1, IZ 1/2, IZ 1/3, IZ 1/12, IZ 2/1, IZ 3/1, IZ 4/1, IZ 15/1, Korin and Miura. The physical and chemical characteristics of mulberry fruits varied according to cultivar. Cultivar Korin stood out because showed higher soluble solids content and higher acidity, important requirements for better tasting fruit. When considering the volume for processing, the cultivars IZ 1/3, IZ 1/12 and IZ 15/1 had a higher mass.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

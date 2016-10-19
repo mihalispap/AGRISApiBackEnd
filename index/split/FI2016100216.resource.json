@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a21.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"A comparative study of the ultrastructure of spring wheat genotype DH83Z118.32, its albino progeny and their photosynthetic pigments"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Redha, Amina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Afzal, Mohammad (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100216",
+	"dct:identifier":"FI2016100216",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In order to better understand the mechanism of albinism in wheat plants, we have compared the leaf chloroplast ultrastructure and photosynthetic pigments of the of spring wheat genotype DH83Z118.32 plants. Leaf samples were taken from donor plants regenerated them by anther cultures that resulted in green and albino plantlets. The albino plants showed clear changes in their chloroplast ultrastructure. A contraction in the intergrana lamellae and its disorientation were observed. Disruption of the internal structure with vesiculated plasmalemma, accumulation of lipid droplets, and starch granules, vacuolation of cytoplasm along with disruption of chloroplast were mainly observed in these mutant plants. Plastids differentiated exclusively into amyloplasts accumulating starch and losing their thylakoids as well as their capacity to divide. Mutant phenotypes were analyzed for their photosynthetic pigments and results show accumulation of phytoene in albino regenerated plants, along with chlorophyll-b with few carotenoids, all at very low concentrations. A comparison of these results with those obtained from green plants showed severe chloroplast damage in spring wheat albino plants."}
+	}}

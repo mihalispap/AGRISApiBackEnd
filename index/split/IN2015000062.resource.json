@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Dietary Cadmium on Growth, Nutrient Utilization and Immune Response in Kids",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":353,
+	"dc:subject":[
+		{"value":"respuesta inmunologica",
+	"xml:lang":"esp"
+	},
+	{"value":"cadmio",
+	"xml:lang":"esp"
+	},
+	{"value":"croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"chevreau",
+	"xml:lang":"fre"
+	},
+	{"value":"cadmium",
+	"xml:lang":"fre"
+	},
+	{"value":"crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"immune response",
+	"xml:lang":"eng"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"kids",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	},
+	{"value":"reponse immunitaire",
+	"xml:lang":"fre"
+	},
+	{"value":"cabrito",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":12,
+	"bibo:pageEnd":362,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000062",
+	"dct:identifier":"IN2015000062",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sethy, Kamdev"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dass, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Garg, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhadane, K.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaturvedi, V.K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Twenty four male kids (3-4 months, 9.1Â¡Ã0.03 kg BW) were divided into four groups of six animals in each and fed on a wheat straw based total mixed ration (TMR) added with cadmium as (cadmium chloride) at 0 (Cd0, control), 1.5 (Cd1.5), 3.0 (Cd3.0) and 4.5 (Cd4.5) ppm levels. Experimental feeding was done for a period of 126 days including a 6-day metabolism trial. To assess the growth performance, kids were weighed every seven days throughout the experimental period. After 90 days of experimental feeding, all the kids were intramuscularly inoculated with a single dose (2 ml) of Pasteurella multocida formalin inactivated antigen, and blood was collected on 0, 7, 14, 21 and 28 days of post vaccination to evaluate humoral immune response. Cell mediated immune (CMI) response of kids was assessed by in vivo delayed type hypersensitivity reaction using phytohaemaglutinin-P as a mitogen. Results revealed that supplementation of Cd had no effect (PÂ¡Ã0.05) on intake and digestibility of dry matter, organic matter, crude protein, ether extract, neutral detergent fiber, acid detergent fiber and hemicellulose; and balances of phosphorus, zinc, iron and copper. However, Cd supplementation had an adverse effect on calcium balance and also increased (PÂ¡Ã0.05) the retention of Cd. Average daily gain was significantly (PÂ¡Ã0.05) reduced in group Cd4.5 (28.76 g); however, growth performance in group Cd1.5 (37.46 g) and Cd3.0 (39.12 g) was comparable to control (Cd0) group (41.60 g). Humoral immune response and CMI response were significantly (PÂ¡Ã0.05) reduced in all the Cd supplemented groups as compared to control group. These results indicated that while growth rate was adversely affected at 4.5 ppm level of Cd supplementation, immune response was hampered even at as low as 1.5 ppm level of Cd supplementation in goat kids.",
+	"xml:lang":"eng"
+	}
+	}}

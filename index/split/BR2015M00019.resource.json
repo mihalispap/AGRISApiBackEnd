@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Análise fitoquímica das cascas do caule do cajueiro (Anacardium occidentale L. – Anacardiaceae)",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Anna Eláyne da Silva e Silva "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheylla Susan Moreira da Silva de Almeida "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00019",
+	"dct:identifier":"BR2015M00019",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O cajueiro (Anacardium occidenlale L.) pertence à família Anacardiaceae, o qual inclui árvores e arbustos tropicais e subtropicais. O cajueiro é popularmente utilizado o chá das cascas com finalidades anti-inflamatória, cicatrizante, antiglicêmico e afins. O objetivo deste estudo foi à realização da triagem fitoquímica da <em>Anacardium occidenlale L. A identificação da espécie (<em>Anacardium occidenlale L.) foi realizada pelo Herbário Amapaense (HAMAB) do Instituto de Pesquisas Científicas e Tecnológicas do estado do Amapá (IEPA), Macapá - A - Brasil. Posteriormente, para a triagem fitoquímica, realizou-se a coleta das cascas do caule de cajueiro, em Macapá - AP - Brasil, após isso foi realizado um levantamento de informações científicas do vegetal para a identificação. Obteve-se o extrato bruto etanólico para a triagem fitoquímica, onde foram identificadas as classes de metabólitos secundários, tais como: ácidos orgânicos, açúcares redutores e fenóis e taninos. Por fim, foi possível verificar que algumas propriedades dos metabólitos secundários detectados neste estudo se correlacionam com as atividades encontradas na literatura com as atividades alegadas pela população, demonstrando o grande potencial da espécie na busca de princípios ativos.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

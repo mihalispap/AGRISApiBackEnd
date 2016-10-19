@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ENTOMOLOGIA FORENSE: HISTÓRICO E CONTEXTUALIZAÇÃO NO ESTADO DO AMAPÁ",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":123,
+	"bibo:volume":5,
+	"bibo:pageEnd":127,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00201",
+	"dct:identifier":"BR2015N00201",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1206",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sérgio Sampaio Figueira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raimundo Nonato Picanço Souto"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIVERSIDADE FEDERAL DO AMAPÁ"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 7.0pt; mso-bidi-font-family: TwCenMT-Regular;\">A Entomologia Forense é uma ciência que se aplica ao estudo dos insetos a métodos legais, sendo utilizados como evidência física nas perícias, seja em causas cíveis, empresariais e criminais. O objetivo deste estudo visa elaborar um perfil histórico e uma contextualização das pesquisas científicas com insetos de importância forense. A metodologia teve como base os estudos forenses envolvendo a entomologia no Estado do Amapá, realizados sob a coordenação de pesquisadores do Laboratório de Arthropoda da Universidade Federal do Amapá, da Polícia Técnico Cientifica do Estado do Amapá e da Fundação Oswaldo Cruz, do Rio de Janeiro. Estes estudos iniciaram a partir de 2007, em áreas de savana amazônica, mata de várzea, de terra firme, de galeria e de ambiente urbano, utilizando como metodologia carcaças de animais protegidos em gaiolas, como isca para coleta de insetos de importância forense. Nestes estudos foram gerados dados sobre a taxonomia, sucessão, bionomia, ecologia, entomotoxicologia e de parasitoides de espécies de insetos de importância forense, disponíveis em bancos de dados do Laboratório de Artrópodes da Universidade Federal do Amapá, contribuindo para a formação de acadêmicos no âmbito de graduação e de pós-graduação, gerando Trabalhos de Conclusão de Curso, Monografias, Resumos de Congressos, Capítulos de Livros, Artigos e Notas Científicas. Este estudo fornece subsídios em âmbito nacional e da região Norte sobre a construção da Entomologia Forense para o campo jurídico, a fim de que busque a promoção da interação entre as atividades acadêmicas e de </span><span style=\"font-size: 7pt;\">pesquisa com a finalidade de promover a ampliação de uma área do conhecimento, ainda que incipiente na resolução criminal, cível e empresarial no Estado do Amapá.</span><p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><strong><span style=\"font-size: 7.0pt; mso-bidi-font-family: \";TwCenMT-Regular\,Bold\";;\">Palavras-Chave: </span></strong><span style=\"font-size: 7pt;\">história forense, insetos, Amapá.</span>",
+	"xml:lang":"por"
+	}
+	}}

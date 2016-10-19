@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"FERTILIZANTE FOLIAR EM FEIJOEIRO DE INVERNO E SUA INFLUÊNCIA NA PRODUTIVIDADE E QUALIDADE FISIOLÓGICA DAS SEMENTES",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":57,
+	"bibo:volume":2,
+	"bibo:pageEnd":67,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00023",
+	"dct:identifier":"BR2016H00023",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-07",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/262",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ítalo Bazzo de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gabriel Wanderley de Mendonça"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Flávio Ferreira da Silva Binotti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alexandre de Araújo Ascoli"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Edilson Costa"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Aplicação de nutrientes via foliar pode propiciar efeito direto no crescimento do feijoeiro e consequentemente na produtividade e qualidade das sementes. O objetivo foi avaliar nas cultivares BRS pontal e pérola a resposta da aplicação de nutrientes via foliar ...",
+	"xml:lang":"por"
+	}
+	}}

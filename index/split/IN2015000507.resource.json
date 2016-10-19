@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Insect pest diversity in Cauliflower, Brassica oleracea var. botrytis Linn.and its relation to Abiotic factors",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":291,
+	"dc:subject":{"value":"brassica oleracea",
+	"xml:lang":"esp"
+	},
+	"bibo:volume":22,
+	"bibo:pageEnd":295,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000507",
+	"dct:identifier":"IN2015000507",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, Rudra Pratap"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pal Sundar"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The maximum population of Spodoptera litura was recorded 3.75 larvae/10 plants in 51st during second year at a temperature range of 5.0 -23.6oC and Relative humidity 68.8% were recorded. The maximum larvae of Plutella xylostella were noted in 50th SW during both the years at temperature range of 11.0-25.9oC and RH 64.4% in 2009-2010 and 7.3-24.0oC and RH 68.9% in 2010-2011. Pieris brassicae reached to its maximum in 5th SW at temperature range of 7.1-24.9oC and RH 64.7% during 2009-2010 and 6.0-23.7oC and 70.5% RH with a population range of 0.33-2.58/10 plants during 2010- 2011. Maximum population of Thysanoplusia orichalcea was recorded at which maximum temperature was 25.4oC and RH was 72.9%. All insect pests had negative correlation with minimum and maximum temperatures during both the years.",
+	"xml:lang":"eng"
+	}
+	}}

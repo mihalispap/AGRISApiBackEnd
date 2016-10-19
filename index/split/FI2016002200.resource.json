@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Socioecological landscape planning : an approach to multi-functional forest management.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kangas, Jyrki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Store, Ron.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"aluesuunnittelu"},
+	{"value":"alue-ekologia"},
+	{"value":"sociology"},
+	{"value":"ekologia"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"regional planning"},
+	{"value":"ecology"},
+	{"value":"sosiologia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002200",
+	"dct:identifier":"FI2016002200",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

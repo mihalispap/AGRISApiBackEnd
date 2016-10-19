@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"GERMINAÇÃO E EMERGÊNCIA DE SEMENTES DE MILHO DE DIFERENTES TAMANHOS SUBMETIDAS À TRATAMENTOS QUÍMICOS",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":86,
+	"bibo:volume":2,
+	"bibo:pageEnd":94,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00024",
+	"dct:identifier":"BR2016H00024",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-07",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/263",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lucas Guilherme Bulegon"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deise Dalazen Castagnara"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Claudio Yuji Tsutsumi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marcos Cristiano Erig"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiago Zoz"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Com o atual sistema de cultivo intensivo cresce a necessidade de práticas culturais que possibilitem uma emergência e um desenvolvimento inicial adequado de plântulas. Assim, no presente trabalho objetivou-se estudar os efeitos de diferentes ...",
+	"xml:lang":"por"
+	}
+	}}

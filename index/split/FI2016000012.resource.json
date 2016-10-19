@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Beef export restrictions in Argentina: impact on the beef industry and national welfare.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rossi, Paula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kagatsume, Masaru.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"exports"},
+	{"value":"export control"},
+	{"value":"trade liberalization"},
+	{"value":"beef"},
+	{"value":"food security"},
+	{"value":"trade policies"},
+	{"value":"food industry"},
+	{"value":"welfare economics"},
+	{"value":"trade barriers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000012",
+	"dct:identifier":"FI2016000012",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

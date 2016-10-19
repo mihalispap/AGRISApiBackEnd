@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of pruning on wood characters in hybrid aspen.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rytter, Lars.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jansson, Gunnar.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"twig diameter"},
+	{"value":"pystykarsinta"},
+	{"value":"diameter"},
+	{"value":"twig angle"},
+	{"value":"laatu"},
+	{"value":"wood properties"},
+	{"value":"Populus tremula x Populus tremuloides"},
+	{"value":"oksat"},
+	{"value":"cicatrisation"},
+	{"value":"Populus tremula"},
+	{"value":"pruning"},
+	{"value":"spurs"},
+	{"value":"faultless wood"},
+	{"value":"puu"},
+	{"value":"Populus tremuloides"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001786",
+	"dct:identifier":"FI2016001786",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

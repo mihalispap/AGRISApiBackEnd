@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of precommercial thinning strategies on stand structure and growth in a mixed even-aged stand of Scots pine, Norway spruce and birch in southern Sweden.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"puulajit"},
+	{"value":"perkaus"},
+	{"value":"simulointi"},
+	{"value":"cleaning"},
+	{"value":"yield"},
+	{"value":"heterogeneous forest"},
+	{"value":"growth simulator"},
+	{"value":"simulation"},
+	{"value":"puuston kasvu"},
+	{"value":"puusto"},
+	{"value":"dimensions"},
+	{"value":"sekametsät"},
+	{"value":"mixed forest stands"},
+	{"value":"dimension distribution"},
+	{"value":"growth"}
+	],
+	"bibo:doi":"10.14214/sf.1302",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001741",
+	"dct:identifier":"FI2016001741",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1302",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ekö, Per Magnus,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Petersson, Nils,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

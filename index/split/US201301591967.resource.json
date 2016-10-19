@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relations between solid fractal dimension and some physical properties of soils formed over alluvial and colluvial deposits"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591967",
+	"dct:identifier":"US201301591967",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kutlu, Turgut (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ersahin, Sabit (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yetgin, Buket (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Results of many studies showed that fractal dimension of particle-size distribution (PSD) was useful to evaluate the relationship between soil texture and its associated properties. In this study we evaluated relationship between solid fractal dimension (Ds) and some of the physical properties of soils (Mollic Ustifluvent, Typic Ustifluvent and Typic Ustorthent) formed over alluvial and colluvial deposits in North Central Anatolia of Turkey. An area of nine ha was sampled intensively, collecting 168 disturbed and undisturbed soil samples. Ds for each sample was calculated from particle size distribution data. Soils were further analyzed for texture, organic matter content (OM), bulk density (BD), saturated hydraulic conductivity (Ks), field capacity (FC) and van Genuchten parameters (α and n). Relations between Ds and soil physical properties were analyzed by regression technique. Ds ranged from 2.64 to 2.91, finer textures yielding greater Ds values. In contrast to significant and positive correlations occurred between Ds and each of clay, Ks, FC and α, correlations between Ds and each of sand, silt and n were negative. The results showed that Ds has significant relations with soil physical properties and may be used as an integrating index in modeling studies."}
+	}}

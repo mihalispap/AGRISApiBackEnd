@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f22.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Control of lipid oxidarion and fungal spoilage of roasted peanut (Arachis hypogea) using the spice Aframomum danielli"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Adegoke, G.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Falade, K.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Babalola, O.C. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100003",
+	"dct:identifier":"FI2016100003",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Aframomum danielli antioxidant extract showed reduction in rancidity, fungal count but better sensory attributes in roasted peanut (Arachis hypogea). Roasted peanut samples treated were with different concentrations (100, 200, 300 and 400 ppm) of A.danielli antioxidant extract. Samples were packed into high density polyethylene (100 ìm) and stored at 30°C. Peroxide and free fatty acid values of control and treated samples were evaluated for 35 days. Antioxidants effectiveness (AE) was calculated from the peroxide value. For both control and treated peanuts, while the peroxide values (PV) and free fatty acid (FFA) levels increased with increased storage time, the PV and FFA decreased with increased A.danielli antioxidant extract concentration in treated samples. After 35 days of storage, the % antioxidant effectiveness of A.danielli antioxidant extract on peanut samples treated with 100, 200, 300 and 400 ppm extract was 71.0, 73.0, 80.3 and 92.1%, respectively. While fungal counts increased in the control peanuts during storage, the counts decreased with increased A.danielli antioxidant concentration in treated peanuts. Roasted peanut treated with 400 ppm A.danielli antioxidant extract received better scoring than the control and other treated samples in all attributes, except colour and flavour."}
+	}}

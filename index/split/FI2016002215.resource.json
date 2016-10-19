@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se//a/1239-0992/8/4-5/theenvir.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The environmental effectiviness of alternative agri-environmental policy reforms : theoretical and empirical analysis.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lankoski, Jussi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ollikainen, Markku.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"agricultural policies"},
+	{"value":"ohjauskeinot"},
+	{"value":"maatalous"},
+	{"value":"buffer zone"},
+	{"value":"taloudelliset mallit"},
+	{"value":"päästöt"},
+	{"value":"ympäristöpolitiikka"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"acreage subsidy"},
+	{"value":"support measures"},
+	{"value":"tukimuodot"},
+	{"value":"maatalouden tukipolitiikka"},
+	{"value":"Finland"},
+	{"value":"nitrogen runoff"},
+	{"value":"environmental impact"},
+	{"value":"losses from soil"},
+	{"value":"agri-environmental policy"},
+	{"value":"fertilizer application"},
+	{"value":"nutrients"},
+	{"value":"ympäristönsuojelu"},
+	{"value":"ympäristövaikutukset"},
+	{"value":"runoff"},
+	{"value":"fertilizer tax"},
+	{"value":"subsidies"},
+	{"value":"ravinteet"},
+	{"value":"environmental policies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002215",
+	"dct:identifier":"FI2016002215",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

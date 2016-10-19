@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a9.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of different harvest times on the yield and oil composition of spearmint (Mentha spicata L. var. spicata)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kizil, Süleyman (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tonçer, Özlem (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100075",
+	"dct:identifier":"FI2016100075",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The study reports determination of appropriate harvest time and its effect on essential oil composition of spearmint. The results indicated that the highest yield in terms of fresh herbage, dry herbage and dry leaf was obtained when harvesting was done after full flowering stage. However, the highest essential oil content was obtained at full flowering stage. Carvone with range of 48.6-57.9%, ρ-cymene with range of 9.6-20.5% and 1,8-cineole with range of 14.6-19.3% were determined as major components of spearmint essential oil."}
+	}}

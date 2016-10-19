@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Transient expression of β-glucuronidase reporter gene in date palm (Phoenix dactylifera L.) embryogenic calli and somatic embryos via microprojectile bombardment"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911268",
+	"dct:identifier":"US201300911268",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Habashi, Ali A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kaviani, Mina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mousavi, Amir (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khoshkam, Soghra (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The date palm, Phoenix dactylifera L. ‘Khorma’ (Persian), is an example of a tree crop that can benefit immediately from the applications of the modern biotechnology. Despite the importance as an economic plant, there is no report on its genetic transformation. Palm tree is the target for several pests and diseases, so it is necessary to focus on its in vitro propagation and genetic engineering technology (date palm transformation) to overcome some of these problems. The objective of this study was to identify the major parameters controlling DNA delivery by particle bombardment to date palm embryogenic calli and somatic embryos. The main factors studied were osmotic conditioning of explants before and after bombardment (osmotic and non-osmotic), type of explants (embryogenic callus and somatic embryo) and different bombardment parameters like acceleration pressure (900 and 1100 psi), bombardment distance (6 and 9 cm) and gold particle size (1 and 0.6 µm). Efficiency of DNA (gus gene) delivery was assessed by scoring transient GUS expression in bombarded tissues. Statistical analysis of blue spots produced by GUS histochemical assay showed that all parameters significantly affected the transient GUS expression. Results of mean comparison showed that GUS transient expression increased when 1.0 µm gold particle, 1100-psi rupture disk, 6 cm bombardment distance, osmotic medium and mature somatic embryos were used."}
+	}}

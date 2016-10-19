@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"COMPOSIÇÃO E ESTRUTURA DE FLORESTA OMBRÓFILA DENSA DO EXTREMO NORTE DO ESTADO DO AMAPÁ, BRASIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":1,
+	"bibo:volume":3,
+	"bibo:pageEnd":10,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00084",
+	"dct:identifier":"BR2015N00084",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/610",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Marcelo de Jesus Veiga Carim"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jean-Louis Bernard Guillaumet"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"José Renan da Silva Guimarães"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Luciedi de Cassia Leôncio Tostes"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto de Pesquisas Cientificas e Tecnológicas do Estado do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Muséum National d'Histoire Naturalle, Laboratoire de Phanérogamie, Paris, França."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12.0pt; font-family: \">Este trabalho analisou a Composição e Estrutura de uma Floresta Ombrófila Densa, correspondendo ao eixo de ligação que se estende do município de Calçoene ao Oiapoque no extremo norte do Estado do Amapá. Distribuiu-se assistematicamente 17 parcelas de 20m x 100m. Anotou-se o nome vernacular, perímetro e altura de todos os indivíduos arbóreos a circunferência (CAP) foi medida com auxílio de fita métrica a 1,30m de altura do solo e igual ou superior a 33  cm. A altura foi retirada com auxílio de uma vara de 6 m com marcações de 1m em 1m. Foram registrados 1804 indivíduos, distribuídos em 30 famílias, 70 gêneros e 93 espécies. As famílias Fabaceae, foram as que mais destacaram-se em quase todos os parâmetros analisados. No geral, a estrutura florística mostrou-se diversificada, Protium pubescens destacou-se, como a mais importante com 24,59 de IVI, como também a que apresentou o maior número de indivíduos na comunidade (144), seguida de Dipteryx odorata com 13,99 de IVI e 43 indivíduos e Hymenaea courbaril</em>, com 11,45 de IVI e 29 indivíduos. </span>",
+	"xml:lang":"por"
+	}
+	}}

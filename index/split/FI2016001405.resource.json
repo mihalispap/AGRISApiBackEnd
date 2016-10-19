@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/10/4/bluestic.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Blue sticky traps are more efficient for the monitoring of Lygus rugulipennis (Heteroptera, Miridae) than yellow sticky traps.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Holopainen, Jarmo K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Raiskio, Sakari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wulff, Anu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tiilikkala, Kari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hyönteispyydykset"},
+	{"value":"peltolude"},
+	{"value":"Finland"},
+	{"value":"forecasting"},
+	{"value":"ennustemenetelmät"},
+	{"value":"pyydykset"},
+	{"value":"kasvinsuojelu"},
+	{"value":"colour"},
+	{"value":"sticky traps"},
+	{"value":"pest control"},
+	{"value":"Lygus rugulipennis"},
+	{"value":"tuhoeläimet"},
+	{"value":"Lygus"},
+	{"value":"pests of plants"},
+	{"value":"luteet"},
+	{"value":"Lygus kalmi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001405",
+	"dct:identifier":"FI2016001405",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

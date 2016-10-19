@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Inheritance of alkaloid and its components in white lupine (Lupinus albus L).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Fritea, M.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"metabolites"},
+	{"value":"palkokasvit"},
+	{"value":"perinnöllisyys"},
+	{"value":"alkaloids"},
+	{"value":"lupiinit"},
+	{"value":"genetic inheritance"},
+	{"value":"alkaloidit"},
+	{"value":"plant breeding"},
+	{"value":"Lupinus albus"},
+	{"value":"kasvinjalostus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001051",
+	"dct:identifier":"FI2016001051",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathology of spontaneous cases of early chick mortality in Odisha",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":258,
+	"dc:subject":[
+		{"value":"histopatologia",
+	"xml:lang":"esp"
+	},
+	{"value":"histopathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"histopathology",
+	"xml:lang":"eng"
+	},
+	{"value":"mortalite",
+	"xml:lang":"fre"
+	},
+	{"value":"poussin",
+	"xml:lang":"fre"
+	},
+	{"value":"pollito",
+	"xml:lang":"esp"
+	},
+	{"value":"escherichia",
+	"xml:lang":"esp"
+	},
+	{"value":"orissa",
+	"xml:lang":"esp"
+	},
+	{"value":"mortalidad",
+	"xml:lang":"esp"
+	},
+	{"value":"mortality",
+	"xml:lang":"eng"
+	},
+	{"value":"chicks",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":261,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000129",
+	"dct:identifier":"IN2015000129",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Beheral, Debasish"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Panda, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Samal, Ashabaree"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The present retrospective study was undertaken to gain an insight on the loss in poultry due to disease and mortality ill the early life of chicks. Post mortem of chicks within the age of 3 weeks in three calendar years were taken into account for this study. The disease conditions associated were identified as omphalitis, colibacillosis, enteritis, salmonellosis, aspergillosis, coccidiosis, infectious bronchitis,infectious bursal disease (IBD),visceral gout, ascites, hepatitis, nephritis and some unidentified miscellaneous conditions. More than 50%of young chicks died due to omphalitis, colibacillosis and enteritis associated with Escherichiacoli infection.",
+	"xml:lang":"eng"
+	}
+	}}

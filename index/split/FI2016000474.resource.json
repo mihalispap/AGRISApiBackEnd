@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelling mean above and below ground litter production based on yield tables.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wutzler, Thomas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mund, Martina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"harvesting residues"},
+	{"value":"thinning"},
+	{"value":"biomass"},
+	{"value":"taulukot"},
+	{"value":"hakkuutähteet"},
+	{"value":"hiili"},
+	{"value":"accounting"},
+	{"value":"production"},
+	{"value":"tilastomenetelmät"},
+	{"value":"forest litter"},
+	{"value":"harvennus"},
+	{"value":"tuotos"},
+	{"value":"maaperä"},
+	{"value":"sensitivity analysis"},
+	{"value":"carbon"},
+	{"value":"statistical methods"},
+	{"value":"biomassa"},
+	{"value":"hiilenkierto"},
+	{"value":"logging wastes"},
+	{"value":"uncertainty"},
+	{"value":"karike"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000474",
+	"dct:identifier":"FI2016000474",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

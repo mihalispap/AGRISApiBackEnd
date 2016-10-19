@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Applicability of portable tools in assessing the bearing capacity of forest roads.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"elastic modulus"},
+	{"value":"forest roads"},
+	{"value":"bearing capacity"},
+	{"value":"stiffness"},
+	{"value":"light weight deflectometer"},
+	{"value":"dynamic cone penetrometer"},
+	{"value":"falling weight deflectometer"},
+	{"value":"metsätiet"},
+	{"value":"kantavuus"}
+	],
+	"bibo:doi":"10.14214/sf.1239",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001348",
+	"dct:identifier":"FI2016001348",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1239",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kaakkurivaara, Tomi,
+    kirjoittaja
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vuorimies, Nuutti,
+    kirjoittaja.
+    Tampereen tekn. yliopisto
+    1915
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kolisoja, Pauli,
+    kirjoittaja.
+    Tampereen tekn. yliopisto
+    1915
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uusitalo, Jori,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	]
+	}}

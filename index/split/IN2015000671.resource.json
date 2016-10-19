@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Top 10 evidence-based health benefits of coconut oil",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":22,
+	"dc:subject":[
+		{"value":"aceite de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"salud",
+	"xml:lang":"esp"
+	},
+	{"value":"health",
+	"xml:lang":"eng"
+	},
+	{"value":"coconut oil",
+	"xml:lang":"eng"
+	},
+	{"value":"huile de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"sante",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":24,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000671",
+	"dct:type":"Summary",
+	"dct:identifier":"IN2015000671",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"oct2013",
+	"dct:dateSubmitted":2016,
+	"bibo:issue":6
+	}}

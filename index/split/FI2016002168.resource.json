@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Post-planting effects of early-season short-day treatment and summer planting on Norway spruce seedlings.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"istutus"},
+	{"value":"summer planting"},
+	{"value":"short-day treatment"},
+	{"value":"pituuskasvu"},
+	{"value":"planting"},
+	{"value":"planting date"},
+	{"value":"height"},
+	{"value":"bud burst"},
+	{"value":"summer"},
+	{"value":"Picea abies"},
+	{"value":"survival"},
+	{"value":"kesä"},
+	{"value":"growth"}
+	],
+	"bibo:doi":"10.14214/sf.1300",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002168",
+	"dct:identifier":"FI2016002168",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1300",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Luoranen, Jaana,
+    kirjoittaja
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rikala, Risto,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	]
+	}}

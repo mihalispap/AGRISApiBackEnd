@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Forestry ethics in practice : the current forest policy dialogue in Germany.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Oesten, Gerhard.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"forestry policies"},
+	{"value":"ethics"},
+	{"value":"metsätalous"},
+	{"value":"metsänhoito"},
+	{"value":"Germany"},
+	{"value":"metsäpolitiikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001540",
+	"dct:identifier":"FI2016001540",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

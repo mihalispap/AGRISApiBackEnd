@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"DESEMPENHO DE TRÊS TRATORES AGRÍCOLAS EM ENSAIOS DE TRAÇÃO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":68,
+	"bibo:volume":2,
+	"bibo:pageEnd":76,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00020",
+	"dct:identifier":"BR2016H00020",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-07",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/258",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Diego Augusto Fiorese"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Indiamara Marasca"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bárbara Barreto Fernandes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jefferson Sandi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Francielle Morelli-Ferreira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kléber Pereira Lanças"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":" A avaliação de desempenho de tratores agrícolas, levando-se em consideração a condição do solo, é importante para identificar a máxima capacidade de tração e o consumo de combustível de acordo com os níveis de esforços exigidos. Neste sentido, o ...",
+	"xml:lang":"por"
+	}
+	}}

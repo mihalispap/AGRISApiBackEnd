@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Antioxidant activities of newly developed day-neutral and June-bearing strawberry lines.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Khanizadeh, Shahrokh.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tao, Shuthian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, Shaoling.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tsao, Rong.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rekika, Djamila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yang, Raymon.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Charles, Marie Thérèse.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"genetics"},
+	{"value":"antioxidants"},
+	{"value":"polyphenols"},
+	{"value":"strawberries"},
+	{"value":"phenolic compounds"},
+	{"value":"plant breeding"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000565",
+	"dct:identifier":"FI2016000565",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

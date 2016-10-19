@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Baiting through PVC Pipe Bait Stations - A low cost baiting technique for Rodent control in Rice",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":167,
+	"dc:subject":[
+		{"value":"bromadiolona",
+	"xml:lang":"esp"
+	},
+	{"value":"polyvinyl chloride",
+	"xml:lang":"eng"
+	},
+	{"value":"policloruro de vinilo",
+	"xml:lang":"esp"
+	},
+	{"value":"bandicota bengalensis",
+	"xml:lang":"esp"
+	},
+	{"value":"polychlorure de vinyle",
+	"xml:lang":"fre"
+	},
+	{"value":"oryza sativa",
+	"xml:lang":"esp"
+	},
+	{"value":"bromadiolone",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":171,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000248",
+	"dct:identifier":"IN2015000248",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rao, N. Srinivasa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kishore, M. Nanda"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"PVC pipe bait stations effectively delivered the bromadiolone 0.005% poison bait and bait consumption was relatively more from these bait stations. Bait consumption was high during August and September in kharif and January and February in rabi season, when the crop was in vegetative phase and it was decreased once the crop entered into reproductive phase. Rodent incidence and tiller damage was low in the fields received poison baits through PVC pipe bait stations. The bait was protected from rain and weathering and baiting through these bait stations against rodents found economical, eco-friendly and safe to non target organisms.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutritional status of olives grown on clay soils under rainfed farming conditions in Tunisia"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"El-Fouly, M.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"El-Hassanin, A.S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"El-Sayed, A.A (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shaaban, S.H.A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100111",
+	"dct:identifier":"FI2016100111",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The study was carried-out during 1996-1997 seasons on olive orchards, grown on clay soils under rainfed farming conditions in North Tunisia. Results revealed that soil of the areas of North Tunisia contains adequate levels of most macro- and micronutrients. Nutrient deficiencies are conceptually related to factors affecting their solubility and availability. However, results of olive leaf analysis revealed that nutrient levels (% of samples taken) below normal were 61, 44, 94, 33 and 22% for N, P, K, Mg and Ca and 100, 22, 89, 61 and 18% for Fe, Mn, Zn, Cu and B, respectively, in the first season, while in the second season they were 94, 18, 88, 18 and 18% for N, P, K, Mg and Ca and 88, 6, 52, 45 and 21% for Fe, Mn, Zn, Cu and B, respectively. Calculating the discrimination factor showed that olive trees have more ability (preferability) to take up B and Fe in higher quantities than the other micronutrients."}
+	}}

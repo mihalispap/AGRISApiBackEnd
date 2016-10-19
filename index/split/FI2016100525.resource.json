@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/commentary1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of the adequacy of methodology and testing systems for detection and identification of GMOs"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Al-Hafedh, Yousef S. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100525",
+	"dct:identifier":"FI2016100525",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Monitoring of genetically modified organisms (GMOs) and their products that might pose threats to human and environmental health is an important step in formulating the regulations on GMOs. The implementation of such regulations requires accurate sampling protocols aided by advanced analytical methodologies allowing accurate determination of the content of the GMOs in a sample. In view of the health risks of genetically modified (GM) foods, there is a serious debate among the scientists and policy makers whether there are adequate methods of safety testing of these foods. Generally safety assessments of foods containing GMOs or their products are not as rigorous as those for new chemicals or drugs. Present document deals with the current state of detection methodologies being used in different parts of the world. Objectives of the detection and identification process are to monitor potential effects of foods containing GMOs on human or environmental health, to mark products that pose risks and to regulate and control the implementation requirements. Moreover, current needs and limitations in GMO detection are also discussed. Common methods for GMO detection include bioassays, protein-based methods and DNA-based methods but GMO testing technologies are evolving fast, new methodologies like the use of microarrays, mass spectrometry and surface plasmon resonance are also being used. Evaluation of GMO detection methodology can be done by studying a clear idea of risk assessment considerations, the authenticity of reference materials, details of sampling and sub-sampling, technique of DNA extraction, fragment length of DNA, any inhibitory factors as well as the nature of reference genomes and primers. The significance of all the above and some other points have been discussed in this document that are of immense use while making the final decision on the detection of GMO in the food sample."}
+	}}

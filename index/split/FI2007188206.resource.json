@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro effect of condensed tannins from tropical fodder crops against eggs and larvae of the nematode Haemonchus contortus"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188206",
+	"dct:identifier":"FI2007188206",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a11.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"López, J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ibarra, O. F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cantó, G.J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vásquez, C.G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tejada, Z.I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shimada, A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The efficacy of condensed tannins contained in some tropical fodder crops (Arachis pintoi, Guazuma ulmyfolia, Leucaena leucocephala and Manihot esculenta Crantz) that are known to be suitable for ruminant feeding, in controlling eggs and larvae of the parasitic nematode Haemonchus contortus was studied in vitro. Five concentrations (0.1, 0.3, 0.9, 4.5 and 45 ppm) of condensed tannins (purified through Sephadex LH-20) from each plant species were evaluated in a 5 x 5 factorial arrangement of treatments on a completely randomised design, with a commercial nematicide (albendazole) being included as a positive control. In the first experiment, the effects of the condensed tannins on H. contortus’ eggs and larvae (L3) were tested. The results showed only a 0–2% reduction in the number of eggs, regardless of the condensed tannins source and dose studied. As for the larvae, A. pintoi was found to control 11.5-100%, G. ulmyfolia 20.9-99.4%, L. leucocephala 5.9-74.2% and M. esculenta 14.7-100% of the larvae, depending on the concentration used. Albendazole was effective against 24.4-98.4% of the larvae. In a second experiment, L3 larvae were reduced 32.3-98.8% by A. pintoi, 33.7-98.8% by G. ulmyfolia, 6.3-98.4% by L. leucocephala, 24.4-98.8% by M. esculenta and 29.5-98.7% by albendazole. Therefore, it was concluded that the condensed tannins contained in the tropical fodder crops tested were effective in controlling L3 larvae of H. contortus at concentrations of 4.5 and 45 ppm, but had little or no ovicidal effect."}
+	}}

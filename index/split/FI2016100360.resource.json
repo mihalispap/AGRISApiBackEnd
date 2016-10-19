@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f9.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of processed lablab bean (Lablab purpureus) meal supplementation on the digestibility and growth response of carp (Cyprinus carpio)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Adeparusi, E. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eleyinmi, A. F. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100360",
+	"dct:identifier":"FI2016100360",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effect of processed lablab (PLB) bean meal supplementation in the diet of Cyprinus carpio was investigated. Soybean was substituted for using raw lablab (RLB) and PLB bean meals on equal nitrogen basis in conventional fishmeal. The diets were subjected to proximate analysis and digestibility studies. Results show that PLB bean diets have comparable crude protein and lipid digestibility coefficients. The carbohydrate digestibility was highest in fish fed fermented LB bean diet and lowest in those fed on RLB bean diet. Crude fiber digestibility coefficients of fish fed on control and PLB bean diets differ significantly from those fed on RLB bean diet. Gross energy of PLB bean diets range from 17.1 to 17.8 kJ/g. Energy retention of 15.0, 12.6 and 12.0% was obtained in fishes fed on cooked, control and fermented diets respectively. The feed conversion efficiency was 166.6 in fish fed the control diet, and differs significantly (P < 0.05) from those fed on PLB bean diets (152-159). Fishes fed the control and cooked LB bean diets had the highest specific growth rate and feed conversion ratio. A direct positive linear and quadratic relationship exists between final weight and feeding period in C. carpio fed on the test diets."}
+	}}

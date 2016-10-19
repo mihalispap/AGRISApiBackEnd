@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Availabilty of energy and agricultural mechanization in Ghana"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Josiah, M.N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bani, R.J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahama, A.A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100330",
+	"dct:identifier":"FI2016100330",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A variety of definitions have been postulated for food security. The bottom line, however, is the availability of food of good quality at an affordable cost to all and at all times. Many approaches have been adopted to achieve an increase in the availability of food. These include among others increased use of mechanization to expand area under cultivation. Many developing countries have adopted agricultural mechanization to modernize and speed up the process of agricultural land expansion. The available land in Ghana that is suitable for mechanization is put at 8 million hectares for which an estimated energy input of 6 x 106 kW is required. Of this amount only 3.1% is available. Analysis have shown that out of the 1.6 million hectares of land currently under mechanized cultivation the required energy input is 12 x 105 kW out of which only 15.6% is available. This shows a wide gap between the energy required and what is available to meet the objectives of agricultural mechanization."}
+	}}

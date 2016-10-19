@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Thermophysical properties of some species of Malaysian freshwater fish in unfrozen state"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911244",
+	"dct:identifier":"US201300911244",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/f2.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abbas, K. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdulkarim, S. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jamilah, B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Five widely consumed species of freshwater fish in Malaysia were investigated to determine their thermophysical properties due to their handling need for food industry sector from the viewpoint of the heat transfer calculations. These properties encompassed thermal conductivity, specific heat and thermal diffusivity. The species under study were black tilapia, red tilapia, catfish, yellowtail catfish and red pomphret. The major components (moisture, fat, protein, carbohydrate and ash contents) of the fish muscle were determined for each species in a fresh state. Mathematical formulae, which correlate between the components’ values and the thermophysical properties were used to calculate these properties and their variation with temperature. The results were compared with the existing literature of other fish. Slight differences were noticed, however, the results were still within the common range of fish thermophysical values. The differences may be attributed to the different cultural and growing conditions. A logistic model correlated between the thermal diffusivity and temperature variation was developed in this work. It represents the basic requirement to the solution of heat transfer equation by which the thermal processing problems could be solved."}
+	}}

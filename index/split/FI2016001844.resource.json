@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Maize silage yield and quality response to starter phosphorus fertilizer in high phosphorus soils in New York /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ketterings, Quirine M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Swink, Sheryl N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Godwin, Greg.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Czymmek, Karl J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Albrecht, Greg L.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"phosphate fertilizers"},
+	{"value":"USA"},
+	{"value":"sato"},
+	{"value":"maissi"},
+	{"value":"Zea mays"},
+	{"value":"maize"},
+	{"value":"fosforilannoitus"},
+	{"value":"quality"},
+	{"value":"crop yield"},
+	{"value":"säilörehu"},
+	{"value":"silage"},
+	{"value":"sadon laatu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001844",
+	"dct:identifier":"FI2016001844",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

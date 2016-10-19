@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:title":{"value":"Application of D Numbers to the Environmental Impact Assessment of HighwayApplication of D Numbers to the Environmental Impact Assessment of Highway",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"environmental impact assessment",
+	"xml:lang":"eng"
+	},
+	{"value":"road construction",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513194",
+	"dct:identifier":"IN2016513194",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=40",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Sepahvand Leila"
+	}
+	},
+	"bibo:abstract":{"value":"Environmental impact assessment (EIA) is an important technique to ensure that possible effects of developmental projects have been fully identified and calculated for environment, and also its main purpose is accurate predicting, identifying and analysing the all positive and negative impacts on the natural and human environment. Assessment of the environmental impact requires a method or methods to do it. Due to the lack of sufficient knowledge, potential effects of projects are qualitative for nature, and they cannot be numerical exactly. One way to overcome this problem is using different types of uncertainty on EIA process. The theory of D numbers is a new provision of unreliable information and it is developed version of Dempster-Shafer theory. In this research, an assessment of environmental impact arising from the construction and operation of Ghomeishlou highway has been evaluated using D theory of numbers.",
+	"xml:lang":"eng"
+	}
+	}}

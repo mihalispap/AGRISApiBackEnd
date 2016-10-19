@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutrient loading of Norway spruce seedlings hastens bud burst and enhances root growth after outplanting.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Luoranen, Jaana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rikala, Risto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrients"},
+	{"value":"nitrogen content"},
+	{"value":"fertilization"},
+	{"value":"bud burst"},
+	{"value":"roots"},
+	{"value":"Picea abies"},
+	{"value":"growth"},
+	{"value":"seedlings"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001646",
+	"dct:identifier":"FI2016001646",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Linking resource-based view with business economics of woodworking industry : earlier findings and future insights.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Lähtinen, Katja.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"resources"},
+	{"value":"kilpailukyky"},
+	{"value":"wood products"},
+	{"value":"markets"},
+	{"value":"woodworking"},
+	{"value":"strategy"},
+	{"value":"strategia"},
+	{"value":"enterprises"},
+	{"value":"forest resources"},
+	{"value":"metsävarat"},
+	{"value":"yritykset"},
+	{"value":"competitiveness"},
+	{"value":"puuteollisuus"},
+	{"value":"markkinat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000133",
+	"dct:identifier":"FI2016000133",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

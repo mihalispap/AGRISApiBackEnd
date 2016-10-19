@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Changes in total protein and protease activity in dehydrating recalcitrant sal (Shorea robusta) seeds.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Chaitanya, K. S. Krishna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Keshavkant, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Naithani, S. C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"proteases"},
+	{"value":"siemen"},
+	{"value":"viability"},
+	{"value":"kosteus"},
+	{"value":"proteiinit"},
+	{"value":"seeds"},
+	{"value":"itävyys"},
+	{"value":"varastointi"},
+	{"value":"protein content"},
+	{"value":"Shorea robusta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001005",
+	"dct:identifier":"FI2016001005",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

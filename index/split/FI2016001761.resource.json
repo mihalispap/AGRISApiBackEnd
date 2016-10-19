@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of the susceptibility of local cocoa germplasms in Nigeria to Phytophthora pod rot disease using the leaf discs technique.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Otuonye, A. H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adeoti, A. Y. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Agbeniyi, S. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aikpokpodion, P. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Enikomehin, O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Popoola, T. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"clones"},
+	{"value":"disease resistance"},
+	{"value":"Theobroma cacao"},
+	{"value":"screening"},
+	{"value":"fungal diseases"},
+	{"value":"germplasm"},
+	{"value":"plant diseases"},
+	{"value":"Phytophthora"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001761",
+	"dct:identifier":"FI2016001761",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Fluctuations in extra-cellular proteins collected from epicotyls of Japanese morning glory treated by high temperature and dehydration stresses"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025610",
+	"dct:identifier":"FI2005025610",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/e8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yanohara, Taishi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hongye, Zhao (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Matsuo, Tomoaki (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Japanese morning glory (Pharbitis nil cv. Violet) is a plant sensitive to environmental stresses. It has been used as a biological marker of environmental changes, especially regarding the levels of air pollution in populated areas. Evidence suggests that it is a good biological marker which evidently responds to some environmental stimuli. Treatment at a high temperature (HT) of 34°C caused a significant suppression of growth. Compared with untreated morning glory plants, growth in the epicotyl was lowered to 48% in plants treated for 2 days and fell to 40% in plants treated for 5 days. Dehydration (DH) induced a severe decrease in the growth of the epicotyls, to 64% of that of the control plants after 1 day, and then to 10% after 2 days. After 4 days of treatment, the epicotyl growth of the plants was inhibited to less than 1% of that of controls. The fresh weight of the leaves also decreased to 77% of that of the control plants after 3 days and to 65% after 5 days. Extra-cellular solutions (ECS) were collected by the centrifugation method. The activity of guaiacol-peroxidase in the ECS from epicotyls of the plant showed a constant level during the first 2 days of the two types of treatments but significantly increased 3 days after exposure to the HT or the DH. It was kept until 5 days after the onset of treatment. More than 100 polypeptides were detected by the 2D-PAGE analysis with silver staining in the extra-cellular solution prepared from epicotyl of the morning glory plants. The majority of protein spots found in the profile showed molecular weights between 10 and 30 kDa and pI from pH 5.5 to 6.5. From the analytical results using PDQUEST software (PDI Co., USA), seventy-three percent of fluctuating proteins were common between plants treated by both stresses. These stresses both induced increase in the size of protein spots with the pI of about pH 6. Ten protein spots with molecular weight of about 60 kDa decreased in size under both stresses. In epicotyls of dehydration-plants, four protein spots with MW of about 15 kDa increased in size in comparison with those prepared from control plants and were present on the acid side of the gel. These findings showed significantly that the extra-cellular proteins from epicotyls of morning glory plants treated by HT and DH altered considerably in quality and quantity."}
+	}}

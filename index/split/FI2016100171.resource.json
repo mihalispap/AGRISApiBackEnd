@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Oil extraction from olive foot cake with acidic ethanol"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Moussaoui, Ramdane (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Youyou, Ahcene (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100171",
+	"dct:identifier":"FI2016100171",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Techniques of oil recovery from oleaginous seeds and olive foot cake using a solvent are steadily progressing thanks to the development of new types of solvents presenting specific advantages as weak toxicity, a low cost and a low flash point allowing work at moderate temperatures. The use of ethanol near its boiling point is an interesting alternative solution to hexane, which is the traditional solvent for this type of extraction. When acetic acid is added to ethanol, the yield of the extraction, conducted in a batch reactor, increases with acid concentration. The optimal output is obtained with a solution of 1.6 mol/l of acid in ethanol. An increase of 10.68% in total lipids was observed compared to the use of ethanol 96%. Oils obtained are rich in unsaponifiable components, phospholipids and unsaturated fatty acids of which oleic acid is the most abundant element. The fatty and exhausted olive foot cake contains a non-negligible amount of proteins."}
+	}}

@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Molecular and Epigenetic Study of H19 Gene in Goat (Capra Hircus)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":15,
+	"dc:subject":[
+		{"value":"animal biotechnology",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"biotechnologie animale",
+	"xml:lang":"fre"
+	},
+	{"value":"biotecnologia animal",
+	"xml:lang":"esp"
+	},
+	{"value":"genetica molecular",
+	"xml:lang":"esp"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"genetique moleculaire",
+	"xml:lang":"fre"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"molecular genetics",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":21,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000070",
+	"dct:identifier":"IN2015000070",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lal, S.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumari, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Due to the high incidence of abnormalities and the inefficiency of generating goat kids through somatic cell nuclear transfer (SCNT), the development of a model system in goat to investigate potential problems is warranted. In nuclear transfer, where genomic imprinting has been implicated as a major cause for these problems, epigenetic regulation of developmentally important genes may give us the clue regarding the probable reasons for the low efficiency observed in SCNT. H19 is one such paternally imprinted gene. The present investigation was undertaken to study the methylation status of CTCF III binding region in the upstream of H19 gene before and after reprogramming by serum starvation method, in cultured fibroblast cells. Fibroblast cells were cultured up to sixth passage and genomic DNA was extracted before and after reprogramming. Genomic DNA samples were then used to amplify 295 bp fragment of H19 CTCF III binding region. The nucleotide sequence identified in this fragment had 19 CpG motifs. Genomic DNA samples were then treated with sodium bisulphite to analyse the methylation status of identified CpG motifs. The bisulphite converted genomic DNA was amplified by bisulphite sequencing primer (BSP) set. The amplified fragments of bisulphite converted genomic DNA samples of reprogrammed and non-reprogrammed cells were then sequenced. Variation in the sequences were obtained from bisulphite converted genomic DNA of reprogrammed and non-reprogrammed cells. The nucleotide sequence analysis of bisulphite converted cultured non-reprogrammed cells revealed methylation of 6 CpG motifs. The level of methylation observed in the study for 295 bp gene fragment was about 31.5%. However, in reprogrammed cells the CpG motifs were found to be unmethylated. Therefore, it is concluded that a reduction in the level of methylation was observed in reprogrammed fibroblast cells after serum starvation.",
+	"xml:lang":"eng"
+	}
+	}}

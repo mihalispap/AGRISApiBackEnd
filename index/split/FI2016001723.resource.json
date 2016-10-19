@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Morphological diversity among local germplasm of fluted pumpkin (Telfairia occidentalis Hook.F.) collected in Makurdi, Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Odiaka, Ngozi Ifeoma.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Telfairia"},
+	{"value":"trooppiset vihannekset"},
+	{"value":"leaf vegetables"},
+	{"value":"vihannekset"},
+	{"value":"genetic variation"},
+	{"value":"lehtivihannekset"},
+	{"value":"plant anatomy"},
+	{"value":"genotypes"},
+	{"value":"muuntelu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001723",
+	"dct:identifier":"FI2016001723",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

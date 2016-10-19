@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/commentary2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Photopedogenesis: Concept and application"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mishra, B. B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gebrekidan, Heluf (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Beyene, Sheleme (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100168",
+	"dct:identifier":"FI2016100168",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Soil is a soul of infinite lives, but its science is still at youthful stage. Photopedogenesis is a new emerging chapter in Soil Science that opens wide range of its applicability in order to expose the inherent behaviour of soil system for better crop production. The concept of photopedogenesis has come into existence with the advancement of the Theory of Photopedology and deserves appreciation in terms of both short and long wavelength solar radiations."}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/environment-14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"A conceptual framework for modeling soil quality dynamics on Loess plateau of China"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"He, Xiubin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tian, Junliang (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100074",
+	"dct:identifier":"FI2016100074",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Soil quality is defined as “The capacity of a specific kind of soil to function within natural or managed ecosystem boundaries, to sustain biological productivity, maintain environmental quality, and promote plant and animal health”. It is increasingly proposed as an integrative indicator of environmental quality, food security and economic viability. However, there are a number of constraints to adoption so that indices of soil quality can provide decision tools for policy-makers and help identify the most sustainable management practices for farmers and other land managers. The present research intends to develop a strategy for selecting minimum data set for soil quality indicators in the case area: the Loess Plateau of China, and to develop a conceptual framework for monitoring and modeling the dynamics of soil quality, and finally setup a Web-GIS-based information system to collect the data of soil quality change and predict its in response to potential disturbances."}
+	}}

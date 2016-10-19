@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficacy of plant oils against leaf webber (Glyphodes pyloalis Walker) on Mulberry (Morus alba L.) and biosafety to Silkworm",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":53,
+	"dc:subject":[
+		{"value":"morus alba",
+	"xml:lang":"esp"
+	},
+	{"value":"extractos de melia",
+	"xml:lang":"esp"
+	},
+	{"value":"extrait de neem",
+	"xml:lang":"fre"
+	},
+	{"value":"neem extracts",
+	"xml:lang":"eng"
+	},
+	{"value":"bombyx mori",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":56,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000219",
+	"dct:identifier":"IN2015000219",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bandyopadhyay, U.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chatterjee, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maji, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bindroo, B.B."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Compiled data revealed that Pongamia oil was very effective for reducing the pest population up to 15 days after spray followed by neem oil and agro spray oil. Bioassay of three pesticides on bivoltine silkworm race (SK6 x SK7) showed that mortality of silkworm was very low in case of neem oil followed by agro spray oil and pongamia oil after 15 days of spray. Bioassay revealed that feeding of 1% neem oil treated mulberry leaves resulted 93% ERR (Effective Rate of Rearing) and 19% S.R. (Shell ratio) which was on par with the control lots. Based on the economics and residual toxicity on silkworm, 1% neem oil (azadirachtin 1500 ppm) were found to be most effective for controlling leaf webber on mulberry.",
+	"xml:lang":"eng"
+	}
+	}}

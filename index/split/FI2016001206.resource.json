@@ -1,0 +1,78 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal dry deposition and canopy leaching of base cations in a subtropical evergreen mixed forest, China /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zhang, Gong.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zeng, Guang-ming.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jiang, Yi-min.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Du, Chun-yan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huang, Guo-he.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yao, Jia-mei.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zeng, Mei.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, Xi-lin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tan, Wei.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"throughfall"},
+	{"value":"base cations"},
+	{"value":"kuivalaskeuma"},
+	{"value":"canopy exchange"},
+	{"value":"evergreen forest"},
+	{"value":"evergreen mixed forests"},
+	{"value":"canopy"},
+	{"value":"dry deposition"},
+	{"value":"ainavihannat sekametsät"},
+	{"value":"precipitation"},
+	{"value":"kationit"},
+	{"value":"cations"},
+	{"value":"leaching"},
+	{"value":"sadanta"},
+	{"value":"latvusto"},
+	{"value":"bulk preciptation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001206",
+	"dct:identifier":"FI2016001206",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

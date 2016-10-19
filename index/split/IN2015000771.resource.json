@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Intercropping in coconut garden and model coconut farms",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":26,
+	"dc:subject":[
+		{"value":"COCONUT FARM"},
+	{"value":"COCONUT GARDEN"},
+	{"value":"intercropping",
+	"xml:lang":"eng"
+	},
+	{"value":"cultivo intercalado",
+	"xml:lang":"esp"
+	},
+	{"value":"culture intercalaire",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":29,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000771",
+	"dct:identifier":"IN2015000771",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"apr-may2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Krishnakumar, V."
+	}
+	},
+	"bibo:issue":12
+	}}

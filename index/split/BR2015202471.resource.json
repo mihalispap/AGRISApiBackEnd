@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Population dynamics of weeds in succession oats / corn with use of manure",
+	"xml:lang":"eng"
+	},
+	{"value":"   Dinâmica de populações de plantas daninhas na sucessão aveia/milho com uso de cama de aviário ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"zea mays",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202471",
+	"dct:identifier":"BR2015202471",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/374/239",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bulegon Lucas Guilherme"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Castagnara Deise Dalazen"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira Paulo Sergio Rabello de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Neunfeld Tania Helena"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ohland Tatiane"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Estevez Rogério Lopes"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual do Oeste do Paraná, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pampa, Uruguaiana, RS, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual do Oeste do Paraná, Marechal Cândido Rondon, PR, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual do Oeste do Paraná, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual do Oeste do Paraná, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual do Oeste do Paraná, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"6,0 t ha-1 CA +43 kg de N"},
+	{"value":"This study aimed to evaluate the incidence and dynamics of weed populations in succession oats/corn in integrated crop-livestock under different doses of manure (CA). For this, was developed an experiment in a randomized block design, with seven treatments and four replications, which constituted in different doses of manure, supplemented with mineral N (Fallow",
+	"xml:lang":"eng"
+	},
+	{"value":"3,0 t ha-1 CA +91 kg de N"},
+	{"value":"3,0 t ha-1 CA +91kgN"},
+	{"value":"7,5 t ha-1 CA +19kgN) applied before sowing oats, for later deployment of maize. Was evaluated absolute frequency, relative frequency, absolute density, relative density, the absolute dominance, dominance relative and the importance value index of weeds in corn. The results showed thatincreasing the dose of manure, increased the production of oat straw, thus reducing the importance value index of weeds, except for Commelina benghalensis, which had an increase in their index."},
+	{"value":"7,5 t ha-1 CA +19 kg de N) aplicada antes da semeadura da aveia, para posterior implantação da cultura do milho. Avaliou-se a frequência absoluta, a frequência relativa, a densidade absoluta, a densidade relativa, a dominância absoluta, a dominânciarelativa e o índice de valor de importância das plantas daninhas na cultura do milho. Os resultados demonstraram que o aumento da dose de cama de aviário, incrementou a produção de palhada de aveia, reduzindo assim o índice de valor de importância das plantas daninhas, exceto para aCommelina benghalensis, que teve uma elevação no seu índice."},
+	{"value":"1,5 t ha-1 CA+116 kg de N"},
+	{"value":"4,5 t ha-1 CA +67kgN"},
+	{"value":"Objetivou-se avaliar a incidência e a dinâmica de populações de plantas daninhas na sucessão aveia/milho em sistema de integração lavoura-pecuária sob diferentes doses de cama de aviário (CA). Para isso, foi desenvolvido um experimento em blocos ao acaso, com quatro repetições. Os tratamentos constituíram de doses de cama de aviário, suplementada com N mineral (Pousio"},
+	{"value":"0,0 t ha-1 CA +140kgN",
+	"xml:lang":"por"
+	},
+	{"value":"4,5 t ha-1 CA +67 kg de N"},
+	{"value":"1,5 t ha-1 CA+116kgN"},
+	{"value":"0,0 t ha-1 CA +140 kg de N ha-1"},
+	{"value":"6,0 t ha-1 CA +43kgN"}
+	]
+	}}

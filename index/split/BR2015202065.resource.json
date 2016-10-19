@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Statistical methods in determination of reference flow",
+	"xml:lang":"eng"
+	},
+	{"value":"   Métodos estatísticos na determinação de vazão de referência ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"sustainability",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202065",
+	"dct:identifier":"BR2015202065",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/277/229",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Almeida Isabel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sobrinho Teodorico"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Santos Bruno"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Steffen Jorge"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bacchi Cláudia"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso do Sul"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"In this study we aimed to provide the foundation studies of water availability in the Miranda river basin, Mato Grosso do Sul, Brazil. Therefore, this study aimed to analyze the application of Normal,Log-Normal, Weibull, Gumbel and Log-Gumbel theoretical probability methods to data of minimumflows for seven consecutive days of the basin. To verify the adherence to the estimated probabilities of observed frequencies, we applied the Kolmogorov-Smirnov test. The results show that the Log-Gumbel distribution show greater accuracy in the data representation of the series and reach the best fit value of Q7,10.",
+	"xml:lang":"eng"
+	},
+	{"value":"Neste trabalho buscou-se fornecer embasamento a estudos de disponibilidade hídricana subbacia hidrográfica do Rio Miranda, Estado de Mato Grosso do Sul, Brasil. Para tanto, objetivou-se analisar a aplicação dos métodos de distribuição de probabilidade teórica Normal, Log-Normal, Weibull, Gumbel e Log-Gumbel aos dados de vazões mínimas de sete dias consecutivos da bacia. Para verificar a aderência das probabilidades estimadas às frequências observadas, aplicou-se o teste de Kolmogorov-Smirnov. Os resultados obtidos comprovam que a distribuição Log-Gumbel demonstra maior precisão na representação dos dados da série histórica e alcança o melhor ajuste do valor da Q7,10.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Alfa-toksisen Staphylococcus aureuksen aiheuttama nekrotisoiva mastiitti : tapausselostus /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tast, Anssi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pyörälä, Erkki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pyörälä, Satu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"utaretulehdus"},
+	{"value":"lehmät"},
+	{"value":"mastitis"},
+	{"value":"eläintaudit"},
+	{"value":"Staphylococcus aureus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002131",
+	"dct:identifier":"FI2016002131",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

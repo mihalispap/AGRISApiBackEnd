@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Transport behavior of entomopathogenic nematodes, Steinernema carpocapsae, in nursery field soils"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876522",
+	"dct:identifier":"US201300876522",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e22.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dennis, Sam O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Harrison, Robert E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tsegaye, Teferi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aburime, Sunnie A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Entomopathogenic nematodes (ENs) are potential bio-control agents for soil-borne pests like the Japanese beetle grubs. The transport of Steinernema carpocapsae TN25 strain, an entomopathogenic nematode, was investigated in soil packed columns. This was done by comparing the fate and transport properties of entomopathogenic nematodes (ENs) with that of bromide, a solute tracer, in field soils. The objective of the study was to develop a better understanding of the transport behavior of entomopathogenic nematodes (ENs) in nursery soils. Two field soils, one collected from Alabama (Decatur silt loam) and the other collected from Tennessee (Waynesboro sandy clay loam soil) were used to pack the soil columns. Water from rainfall simulators was used to facilitate movements of the nematodes in disturbed soil columns at an application rate (flux) of 0.8 cm hr-1. Leachate samples were assayed for nematode and bromide concentrations. Bromide and nematode breakthrough curves were used to provide evidence of the entomopathogenic nematode transport. Nematode transport was retarded compared to bromide in both field soils, suggesting that sorption might be a key factor in determining nematode transport in soils. A mass balance ranging from 97-99% was achieved for the applied bromide, while 99.9% of the entomopathogenic nematodes remained within the soil matrix. The amount of ENs sorbed was tested with two adsorption isotherms (Freundlich and Langmuir). A good fit of the data was obtained with the Freundlich isotherm while the Langmuir isotherm exhibited a non-linear fit."}
+	}}

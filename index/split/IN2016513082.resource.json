@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"Evaluation of Water Quality Using Principal Component Analysis",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"water quality",
+	"xml:lang":"eng"
+	},
+	{"value":"analysis",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513082",
+	"dct:identifier":"IN2016513082",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=18",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"An Shuquan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Xie  Xiufan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ma  Ying"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Principal component analysis is a way to reduce original dimension, to make multiple variables into a few comprehensive index. According to the characteristics of water quality evaluation model, principal component analysis method is developed to evaluate surface water quality using SPSS software at representative sections. By the combination of variables index, adjusting the combinatorial coefficient to make the new variables representative independent. The process is introduced in the paper in detail. The results indicate that the principal component model is suitable for water quality evaluation. By analysis, it is important to pay attention to bring into effective measures for pollution control.",
+	"xml:lang":"eng"
+	}
+	}}

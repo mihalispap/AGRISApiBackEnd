@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Identification of sources of resistance to blast and false smut of Rice and their management with fungicides",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"mecanismos de defensa",
+	"xml:lang":"esp"
+	},
+	{"value":"charbons",
+	"xml:lang":"fre"
+	},
+	{"value":"mecanisme de defense",
+	"xml:lang":"fre"
+	},
+	{"value":"carbones",
+	"xml:lang":"esp"
+	},
+	{"value":"fongicide",
+	"xml:lang":"fre"
+	},
+	{"value":"fungicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"rice",
+	"xml:lang":"eng"
+	},
+	{"value":"defence mechanisms",
+	"xml:lang":"eng"
+	},
+	{"value":"smuts",
+	"xml:lang":"eng"
+	},
+	{"value":"arroz",
+	"xml:lang":"esp"
+	},
+	{"value":"riz",
+	"xml:lang":"fre"
+	},
+	{"value":"fungicides",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:pageStart":55,
+	"bibo:volume":45,
+	"bibo:pageEnd":59,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000011",
+	"dct:identifier":"IN2015000011",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Mycology and Plant Pathology (India)"},
+	"bibo:ISSN":{"value":"0975-4180"}
+	}
+	},
+	"dct:issued":"mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, Ram"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sunder, S."
+	}
+	}
+	],
+	"bibo:issue":1
+	}}

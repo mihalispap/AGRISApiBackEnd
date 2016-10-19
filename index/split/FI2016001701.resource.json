@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Adaptive and neutral variation of the resprouter Nothofagus antarctica growing in distinct habitats in north-western Patagonia /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Steinke, Lina R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Premoli, Andrea C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Souto, Cintia P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hedrén, Mikael.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"South America"},
+	{"value":"leaf traits"},
+	{"value":"morfologia"},
+	{"value":"Nothofagus antartica"},
+	{"value":"muuntelu"},
+	{"value":"entsyymit"},
+	{"value":"temperate forests"},
+	{"value":"metsät"},
+	{"value":"lauhkea vyöhyke"},
+	{"value":"isoenzymes"},
+	{"value":"lehti"},
+	{"value":"morphological variation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001701",
+	"dct:identifier":"FI2016001701",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

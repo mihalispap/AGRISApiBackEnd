@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Direct 31P NMR spectroscopic measurement of phosphorus forms in dairy manures"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301848651",
+	"dct:identifier":"US201301848651",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/e13.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jayasundera, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schmidt, W. F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reeves III, J. B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dao, T. H. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Quantitative assessments of the distribution of phosphorus (P) from agricultural sources in environmental matrices require the simultaneous identification of changes, over time, among the multiple forms of P. Organic P is synthesized from inorganic P by living plants and microbes. These same organic forms can agriculturally revert back to inorganic forms of P as the biomass degrades. In plants consumed by animals, this degradation forms manures. Since about half the P in poultry manures can be organic (phytate P), measuring only inorganic P would account for the environmental fate of about half the P from poultry manures. As dairy cattle are ruminants that have the digestive phytase enzymes which convert phytate into inorganic P, dairy manures were predicted to contain primarily inorganic P. Instead, phytate was a major component in almost all the agriculturally diverse dairy manures examined. Although digested plant material may have been effectively converted to inorganic P (e.g., absorbed as a nutrient), much of the plant material that remained undigested was not, i.e. it retained the form of P present in the plant material before it was ingested. Organic P must be strongly held within such a matrix, or the ruminant digestive fluids would have solubilized and hydrolyzed it. Solid state 31P MAS NMR techniques enabled analysis of the forms of P in manure samples from commercial dairy farms without chemically altering the manures. This technique avoids the possibility of hydrolyzing phytate P into organic P via the harsh chemical extraction procedures used to solubilize the organic P. Organic and inorganic P can complex with cations such as Fe+3 and Ca+2 present in animal diets, but forage is predominantly an organic matrix. Mineral content at the levels in manures, unlike those in soils, did not interfere with the 31P NMR spectroscopy of these intact solids. Organic and inorganic forms of P (including inorganic P complexed with Ca+2) were simultaneously identified in dairy manures by this technique. Organic P (i.e., phytate) was a primary reservoir of P in dairy cattle manures, indicating a significant fraction of plant phytate P in manures can remain as undigested phytate P. The forms of P that build up in manure treated agricultural soils over time depend upon the forms of P that are being added to this reservoir."}
+	}}

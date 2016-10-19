@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/5005/4538",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of pre- and post-transplant inoculation with commercial arbuscular mycorrhizal (AM) fungi on pelargonium (Pelargonium hortorum) and its microorganism community.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Csima, Gergely.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hernádi, Ildikó.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Posta, Katalin.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mycorrhizal infection"},
+	{"value":"Pelargonium"},
+	{"value":"microbial flora"},
+	{"value":"pelargonit"},
+	{"value":"mykorritsasienet"},
+	{"value":"Geranium"},
+	{"value":"inokulointi"},
+	{"value":"mykorritsa"},
+	{"value":"mycorrhizae"},
+	{"value":"mikro-organismit"},
+	{"value":"beneficial organisms"},
+	{"value":"microorganisms"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000834",
+	"dct:identifier":"FI2016000834",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

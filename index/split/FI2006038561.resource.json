@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Electrophoretic study of mushroom proteins"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038561",
+	"dct:identifier":"FI2006038561",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f26.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Petrovska, Biljana Bauer (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Panov, Sasho (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zafirovska, Danica Roganovic (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kulevanova, Svetlana (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Edible mushrooms have a high protein content. The qualitative and quantitative analysis of their proteins revealed great intra and inter species differences. This variety can also be seen in their different nutritive parameters especially in their nutritional value. The heterogeneity of the structural and physico-chemical properties of the mushroom proteins may be the main cause of such differences, however there are only a few reports referring to this problem. In this investigation, mushroom proteins have been studied in order to evaluate their subunit constitutions. For that purpose SDS-PAGE was performed on whole mushroom protein extracts obtained from seven species of Macedonian edible cultured or wild mushrooms of Agaricus (Agaricus bisporus), Boletus (Boletus edulis, Boletus luridus), Lactarius (Lactarius deliciosus), Leccinium (Leccinium aurantiacum), Macrolepiota (Macrolepiota procera) and Suillus (Suillus granulatus) genera. SDS-PAGE analysis of the investigated mushrooms proteins has demonstrated a great heterogeneity in the separated protein fractions. However, some similarities could be noticed among the mushroom samples from the same mushroom family. Thus in the Boletaceae family a lower number of protein fractions were separated (4-6) compared with other mushroom families. Agaricaceae mushroom samples contained from 13 to 16 protein fractions and 13 protein fractions were separated from the Lactarius deliciosus mushroom which derives from the Russulaceae family. Among the separated protein fractions from the investigated mushroom samples those with an approximate molecular mass of 30, 45, 65 and 90 kDa dominated. The obtained results indicated that the mushroom’s protein constitution is influenced by the genera’s biological characteristics."}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n1p34.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficacy of fungicide tebuconazole in barley varieties with different resistance level.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sooväli, Pille.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koppel, Mati.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"treatment date"},
+	{"value":"crop yield"},
+	{"value":"fungicides"},
+	{"value":"kasvitaudit"},
+	{"value":"laatu"},
+	{"value":"fungisidit"},
+	{"value":"tebuconazole"},
+	{"value":"sato"},
+	{"value":"barley"},
+	{"value":"ohra"},
+	{"value":"torjunta"},
+	{"value":"torjunta-aineet"},
+	{"value":"quality"},
+	{"value":"ajoitus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000287",
+	"dct:identifier":"FI2016000287",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/7/4/effectso.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of fertilisation and irrigation practices on yield, maturity and storability of onions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Suojala, Terhi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salo, Tapio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pessala, Raili.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sipulit"},
+	{"value":"onions"},
+	{"value":"sato"},
+	{"value":"yields"},
+	{"value":"lannoitus"},
+	{"value":"application rates"},
+	{"value":"Allium cepa"},
+	{"value":"laatu"},
+	{"value":"varastointi"},
+	{"value":"kastelu"},
+	{"value":"fertilizer application"},
+	{"value":"keeping quality"},
+	{"value":"storage"},
+	{"value":"irrigation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000072",
+	"dct:identifier":"FI2016000072",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

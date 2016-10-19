@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Lactic acid improves the efficacy of anti-microbial washing solutions for apples"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rupasinghe, H. P. Vasantha (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Boulter-Bitzer, Jeanine (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Odumeru, Joseph A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100154",
+	"dct:identifier":"FI2016100154",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The market potential of fresh-cut apples is rapidly expanding in the fresh-cut produce industry. The removal of microbial contaminants of apples before processing is an important step in assuring the safety and extending the shelf life of fresh-cut apples. The goal of this study was to identify efficient anti-microbial washing solution(s) utilizing acceptable amounts of generally regarded as safe disinfectants. Ten selected decontaminant solutions were evaluated for the efficacy of removing Escherichia coli, Listeria monocytogenes and Salmonella enterica subsp. enterica serovar Newport. The most efficient wash treatments consisted of 1% (v/v) lactic acid with 200 ppm sodium hypochlorite and 1.5% (v/v) lactic acid in combination with either 1% (v/v) hydrogen peroxide or 80 ppm peroxyacetic acid. These three wash treatments were also highly effective in reducing the level of total aerobic mesophilic native flora of apples. The hydrogen peroxide and lactic acid combination was identified as the most effective sanitizer for stored apples based on its efficiency in removing L. monocytogenes."}
+	}}

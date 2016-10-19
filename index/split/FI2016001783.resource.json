@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Clostridium tetanin todennäköisesti aiheuttama jäykkäkouristus nautaeläimellä : kaksi tapausselostusta /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Finni, Marko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pyörälä, Erkki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pyörälä, Satu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lehmät"},
+	{"value":"tetanus"},
+	{"value":"jäykkäkouristus"},
+	{"value":"bakteeritaudit"},
+	{"value":"eläintaudit"},
+	{"value":"cattle"},
+	{"value":"Clostridium tetani"},
+	{"value":"animal diseases"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001783",
+	"dct:identifier":"FI2016001783",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

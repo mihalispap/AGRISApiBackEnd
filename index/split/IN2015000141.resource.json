@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of Sahiwal cattle for lifetime traits in an organized herd",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":708,
+	"dc:subject":[
+		{"value":"lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"numero de lactacion",
+	"xml:lang":"esp"
+	},
+	{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"rendimiento lechero",
+	"xml:lang":"esp"
+	},
+	{"value":"milk performance",
+	"xml:lang":"eng"
+	},
+	{"value":"lactation duration",
+	"xml:lang":"eng"
+	},
+	{"value":"rendement laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"aptitude laitiere",
+	"xml:lang":"fre"
+	},
+	{"value":"duree de la lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"numero de lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"aptitud lechera",
+	"xml:lang":"esp"
+	},
+	{"value":"lactacion",
+	"xml:lang":"esp"
+	},
+	{"value":"lactation number",
+	"xml:lang":"eng"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	},
+	{"value":"duracion de la lactancia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":710,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000141",
+	"dct:identifier":"IN2015000141",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, Umesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arun Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sushil Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Beniwal, B.K."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"The present study was undertaken on 752 lactation records of 190 Sahiwal cows maintained at Government Sahiwal Cattle Breeding Farm, Chakganjaria, Lucknow, over 17 years (1983â1999) to evaluate the performance of lifetime traits. The traits were considered for study as herd life (longevity), productive herd life, life time calf production, life time milk yield, and total lactation length, age at first service and age at first calving traits. The average herd life (longevity) and productive herd life (PHL) were 3199.39Â±100.48 days and 1872.28Â±100.28 days, respectively. The herd life and productive life were significantly influenced by period of birth whereas season of birth had no significant effect. The cows born in the first period (1983â87) had longest herd life (3449.25Â±166.43 days) and PHL (2093.02Â±166.11 days), however, shortest herd life (2923.59Â±200.79 days) and productive herd life (1585.80Â±200.41 days) were observed in the third period (1994â99). The average number of total calves produced by each cow during its life time was 4.19Â±0.20. It was significantly affected by period of birth whereas season of birth had no effect. The highest number of total calves born was observed in winter season (4.45) and first period of birth (4.55). However, it was lowest in rainy season (3.95) and third period of birth (3.71). The average age at first service and age at first calving were 1053.53Â±16.85 days and 1329.25Â±14.53 days, respectively. The average life time milk yield and total lactation length were 5615.98Â±372.12 kg and 1183.92Â±67.81 days, respectively. The season and period of birth had no effect on life time milk yield and total lactation length. However significant effects were reported on AFS and AFC. Variability in traits indicated that there is scope of improvement through management.",
+	"xml:lang":"eng"
+	}
+	}}

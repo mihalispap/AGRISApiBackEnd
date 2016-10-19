@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Evaluation of nutrition facts and of the physicochemical and microbiological characteristics of different brands of pasteurized and UHT milk",
+	"xml:lang":"eng"
+	},
+	{"value":"   Avaliação da rotulagem nutricional e das características físico-químicas e microbiológicas de diferentes marcas de leite pasteurizado e leite UHT ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"quality",
+	"xml:lang":"eng"
+	},
+	{"value":"milk",
+	"xml:lang":"eng"
+	},
+	{"value":"legislation",
+	"xml:lang":"eng"
+	},
+	{"value":"consumer protection",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p32",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00015",
+	"dct:identifier":"BR2016F00015",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p32",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"WESCHENFELDER, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PAIM, M. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GERHART, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"WIEST, J. M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O objetivo do estudo foi verificar se diferentes marcas de leite pasteurizado e leite UHT integral atendem aos parâmetros de rotulagem e ao regulamento técnico de identidade e qualidade estabelecido pela legislação brasileira. Foram avaliadas dez marcas de leite integral, sendo duas de leite pasteurizado e oito de leite UHT. Quanto à rotulagem, todas as marcas apresentaram conformidade em relação aos parâmetros exigidos pela legislação. Uma marca de leite pasteurizado e três de leite UHT não estavam em conformidade em pelo menos dois, dos cinco lotes avaliados para parâmetros como percentual de gordura, extrato seco desengordurado, peroxidase e contagem de micro-organismos mesófilos aeróbios estritos e facultativos viáveis. Os resultados encontrados apontam que, em quatro das dez marcas avaliadas, existe a necessidade de maior monitoramento das etapas de beneficiamento do leite, uma vez que os alimentos industrializados oferecidos à população devem atender aos parâmetros estabelecidos pela legislação, sendo sinônimos de qualidade e segurança para quem os consome.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to determine whether different brands of pasteurized and UHT whole milk meet the labeling standards and technical regulations on identity and quality established by the Brazilian legislation. Ten whole milk brands, including two pasteurized milk brands and eight UHT milk brands, were evaluated. With respect to labeling, all brands were in accordance with the standards required by the legislation. In the case of one pasteurized milk brand and three UHT milk brands, at least two of the five batches analyzed were not in accordance with the standards for fat percentage, defatted dry extract, peroxidase, and counts of viable strict and facultative aerobic mesophilic microorganisms. The results show that four of the 10 brands studied require better monitoring of the milk processing steps since processed foods offered to the population must meet the standards established by the legislation, which are synonymous with quality and safety for those who consume them.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

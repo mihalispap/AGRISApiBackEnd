@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Diversidade de perfilhos em pasto de Brachiaria decumbens manejado em regime de lotação contínua ",
+	"xml:lang":"por"
+	},
+	{"value":"Tiller diversity on Brachiaria decumbens pasture managed under continuos stocking",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"grazing",
+	"xml:lang":"eng"
+	},
+	{"value":"vegetative period",
+	"xml:lang":"eng"
+	},
+	{"value":"aeration",
+	"xml:lang":"eng"
+	},
+	{"value":"tillering",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"68/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01449",
+	"dct:identifier":"BR2015F01449",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2011-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1326988369.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SANTOS,  M. E. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FONSECA,  D. M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GOMES, V. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CASTRO,  M. R. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALBINO,  R. L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":{"value":20},
+	"xml:lang":"por"
+	},
+	{"value":"30 and 40 cm) living at the same pasture were evaluated. Randomized block design with three replications was used. Tillers were classified according to their stage of development, growth origin, defoliation level and size. The number of vegetative tillers reduced linearly, while the number of reproductive tillers and dead tillers increased linearly according to the plant height. The number of aerial tillers showed a quadratic response in relation to the plant height. The pastures having grasses of 10, 20, 30 and 40 cm in height had respectively 292, 408, 496 and 344 aerial tillers/m2. The population density of defoliated tillers reduced linearly according to the plant height. The population density of tillers without the apical shoot showed quadratic response to the signal grass height, being the smallest values found for places having grasses of 10 cm (176 tillers/m2) and 40 cm (180 tillers/m2) in height. The number of tillers without defoliation quadratic responded to the plant height, being the highest values found for places having grasses extremely high. The areas with the highest grasses also showed the highest numbers of tallest tillers. There is indeed a spatial variability of the vegetation and a high morphological diversity of tillers on Brachiaria decumbens cv. Basilisk pastures managed under the continuous stocking system."},
+	{"value":"O experimento foi conduzido com o objetivo de classificar e quantificar as categorias de perfilhos deBrachiaria decumbens cv. Basilisk existentes em locais com alturas variáveis em um mesmo pasto. Os tratamentos foram quatro alturas de plantas (10, 20, 30 e 40 cm) avaliadas dentro de uma mesma pastagem. O delineamento experimental foi em blocos casualizados, com três repetições. Os perfilhos foram classificados quanto ao estádio de desenvolvimento, à origem de crescimento, ao nível de desfolhação e ao tamanho. O número de perfilho vegetativo reduziu linearmente, enquanto que os números de perfilhos reprodutivos e mortos incrementaram linearmente com a altura da planta no mesmo. O número de perfilho aéreo apresentou padrão de resposta quadrático em função da altura da planta, sendo que os locais do pasto com 10, 20, 30 e 40 cm de altura possuíram, respectivamente, 292, 408, 496 e 344 perfilhos aéreos/m2. A densidade populacional de perfilhos desfolhados reduziu de forma linear com a altura da planta. A densidade populacional de perfilhos sem o meristema apical apresentou resposta quadrática à altura da planta de capim-braquiária, observando-se os menores valores nos locais com 10 cm (176 perfilhos/m2) e com 40 cm (180 perfilhos/m2) de altura. O número de perfilhos sem desfolhação respondeu de forma quadrática à altura da planta, com maiores valores nos locais do pasto com as alturas extremas. Os locais mais altos do pasto possuíram maior participação de perfilhos mais compridos. Em pasto de Brachiaria decumbens cv. Basilisk manejada em lotação contínua existe variabilidade espacial da vegetação e grande diversidade morfológica de perfilhos."},
+	{"value":"The experiment was carried out aiming to classify and quantify tiller categories of Brachiaria decumbens cv. Basilisk from different heights found on the same pasture. Four different plant heights (10",
+	"xml:lang":"eng"
+	}
+	]
+	}}

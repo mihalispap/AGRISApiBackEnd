@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f23.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of high-pressure treatment on survival of Escherichia coli O157:H7 population in tomato juice"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bari, Md. Latiful (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ukuku, Dike O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mori, Mayuka (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kawamoto, Shinichi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yamamoto, Kazutaka (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100027",
+	"dct:identifier":"FI2016100027",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Liquid foods have been implicated in numerous food-borne outbreaks and recalls. Tomato juice and phosphate buffer saline inoculated with Escherichia coli 0157:H7 at 108 cfu/ml was exposed to continuous or repeated cycles of high-pressure (300 to 600 MPa) treatment at 25°C. Treatments using moderate pressure at 300, 350 and 400 MPa for up to 60 min reduced the population of inoculated E. coli O157:H7 by approximately 3.0, 3.0 and 5.0 log cycles, respectively in tomato juice. Population of E. coli O157:H7 in all samples tested was decreased when temperature was increased from 30 to 40°C. However, increase in temperature and a 600 MPa pressure resulted in more sub-lethal injury on cells inoculated in phosphate buffer than tomato juice. It appeared that the acidity of the tomato juice killed and prevented recovery of the injured bacteria. Repeating the pressure 4 times at 300 MPa for a total of 40 min at room temperature was significant (p<0.05) in reducing E. coli population by extra 1.0 log. The results of this study suggest that repeating high-pressure treatment at least 4 times at 300 MPa for a total of 40 min would inactivate more E. coli O157:H7 strains in tomato juice than using continuous pressure for the same amount of time."}
+	}}

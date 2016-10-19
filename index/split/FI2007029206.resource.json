@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of variety and olive ripeness on nutritional quality and oxidative stability of extra virgin olive oils"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029206",
+	"dct:identifier":"FI2007029206",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f22.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Esti, Marco (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cinquanta, Luciano (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Panfili, Gianfranco (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manzi, Pamela (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marconi, Stefania (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pizzoferrato, Laura (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The composition and the stability to oxidative reactions of Italian extra virgin olive oils, in relation to olive varieties and ripeness, have been studied. Nutritional quality has been evaluated comparing nutrient contents with the recommended daily intake for the Italian population. Oxidative vulnerability has been studied following three different approaches: i) a predictive approach (calculation of the degree of antioxidant protection or DAP index); ii) a descriptive approach (loss of some natural antioxidants during storage); iii) a confirmatory approach (oven test method). This study demonstrated that the olive variety and ripeness degree are important determinants of the nutritional value of virgin olive oils. The DAP index is a useful tool to evaluate the comprehensive effect of these variables. The evolution of natural antioxidant levels during storage can be utilised to evaluate the modification of the nutritional quality, but it is not a suitable index of oil oxidation. The predictive stability scale of virgin oils, drawn by the DAP values, is confirmed by the peroxide determination in oil thermally stressed. The DAP index is well correlated, particularly during the oxidation induction period, with the oven test elaborated by an original mathematical method."}
+	}}

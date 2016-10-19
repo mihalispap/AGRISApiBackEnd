@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Epidemiology and seasonal dynamics of Ixodid ticks of dairy animals of Punjab state, India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":661,
+	"dc:subject":[
+		{"value":"vache laitiere",
+	"xml:lang":"fre"
+	},
+	{"value":"punjab",
+	"xml:lang":"esp"
+	},
+	{"value":"dairy cows",
+	"xml:lang":"eng"
+	},
+	{"value":"pendjab",
+	"xml:lang":"fre"
+	},
+	{"value":"vacas lecheras",
+	"xml:lang":"esp"
+	},
+	{"value":"metastigmata",
+	"xml:lang":"esp"
+	},
+	{"value":"ixodidae",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":664,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000134",
+	"dct:identifier":"IN2015000134",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Haque, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jyoti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, N.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rath, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghosh, S."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"Cattle (890) and buffaloes (636) were examined from 8 districts of Punjab state, India with an overall prevalence of 85.28 and 57.10% Rhipicephalus (Boophilus) microplus, 20.45 and 52.20% Hyalomma anatolicum anatolicum and 5.73 and 9.90% mixed infestation in cattle and buffalo population, respectively. R. microplus was the predominant tick in cattle population (85.28%).",
+	"xml:lang":"eng"
+	}
+	}}

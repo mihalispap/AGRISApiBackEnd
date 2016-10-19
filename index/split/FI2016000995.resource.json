@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Search reversion within s-metaheuristics: impacts illustrated with a forest planning problem.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"tabu search"},
+	{"value":"threshold accepting"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"heuristics"},
+	{"value":"forest planning"},
+	{"value":"spatial harvest scheduling"},
+	{"value":"adjacency contraints"},
+	{"value":"forest management planning"},
+	{"value":"mixed integer goal programming"}
+	],
+	"bibo:doi":"10.14214/sf.1232",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000995",
+	"dct:identifier":"FI2016000995",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1232",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bettinger, Pete,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Demirci, Mehmet,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boston, Kevin,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

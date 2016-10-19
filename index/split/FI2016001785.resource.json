@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"The evaluation of durum wheat landraces for resistance to wheat yellow rust (Puccinia striiformis f. sp. tritici) in the Southeastern Anatolia Region, Turkey.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Alp, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sagr, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Puccinia striiformis"},
+	{"value":"disease resistance"},
+	{"value":"vehnä"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"Turkey"},
+	{"value":"rusts"},
+	{"value":"Uredinales"},
+	{"value":"taudinkestävyys"},
+	{"value":"fungal diseases"},
+	{"value":"ruostesienet"},
+	{"value":"plant diseases"},
+	{"value":"Triticum durum"},
+	{"value":"resistance to disease"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001785",
+	"dct:identifier":"FI2016001785",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

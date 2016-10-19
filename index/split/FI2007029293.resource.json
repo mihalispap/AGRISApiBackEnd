@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Rescue of multiple embryos in almond through in vivo micrografts"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029293",
+	"dct:identifier":"FI2007029293",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Martínez-Gómez, Pedro (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sánchez-Pérez, Raquel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dicenta, Federico (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gradziel, Thomas M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Multiple embryos (two or three embryos within the same seedcoat) occur spontaneously in certain almond [Prunus dulcis (Mill.) D.A. Webb] cultivars including ‘Nonpareil’ and ‘Mission’. Seedlings from the same multiple-seeded ovule are frequently viable, though often, one of the seedlings shows weak growth and develops poorly (aberrant seedlings). These aberrant seedlings have recently been identified as aneuploids, and so are useful for genetic studies of almond. In this work, we examine the success of in vivo micrografting for the early propagation of this weak material. Variables evaluated included genotype (aneuploid or diploid), type of micro-scion and growth stage of the rootstock. Micro-scions tested consisted of small (3 mm) micro-wedges from sprouted apical buds from two-weeks-old seedlings. In addition, both direct and inverse approach micrografts were assayed. Results showed a lower success for micrograft of aberrant seedlings (aneuploids) (5%) relative to normal seedlings (diploids) (42.5%). Inverse approach micrografts onto very young rootstocks showed the best results for aberrant seedlings (aneuploid) with a 15% success rate. Significant differences were observed in the growth of micrografted aberrant seedlings (aneuploid) as compared to seedlings growing on their own roots."}
+	}}

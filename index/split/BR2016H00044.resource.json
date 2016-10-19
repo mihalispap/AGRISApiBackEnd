@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":"2016-06-01",
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"PRODUCTION OF 'FORMOSA' PAPAYA SEEDLINGS IN DIFFERENT PROTECTED ENVIRONMENTS AND ORGANIC SUBSTRATES"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Santos, Érica Letícia Leal dos, Eng Agr.; UEMS/Aquidauana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva, Anne Karolyne da, Master, Graduate Program in Agronomy (Plant Production), UEMS/Aquidauana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Curi, Thayla Morandi Ridolfi de Carvalho, Universidade Estadual de Campinas, Faculdade de Engenharia Agrícola,  Av. Cândido Rondon, 501, Barão Geraldo, 13083-875, Campinas-SP"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Costa, Edilson , UEMS, Cassilândia, MS"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jorge, Marçal Henrique Amici, Embrapa Hortaliças, Brasília, DF, Brasil"
+	}
+	}
+	],
+	"dct:extent":"16-24",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00044",
+	"dct:identifier":"BR2016H00044",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"bibo:abstract":{"value":"It is aimed to evaluate the effect of cattle manure, and ground crushed cassava branches based substrates in the growth of 'Formosa' papaya seedlings under different environmental conditions. Four protected environments were tested: greenhouse in arched, covered with polyethylene film with a thermo reflective screen underneath it; similar greenhouse but without the reflective screen; monofilament nursery with 50% shade screen and thermo reflective nursery with 50% shade screen. In the protected environments, seedlings were accomodated in polyethylene bags (15.0 x 25.0 cm) were filled with cattle manure, and ground cassava branches based substrates in the following proportions: 100% cassava branches; 80% cassava branches and 20% cattle manure; 60% cassava branches and 40% cattle manure; 40% cassava branches and 60% cattle manure; 20% cassava branches and 80% cattle manure and 100% cattle manure. Because there was no repetition of the culture environment, each one was considered as an experiment. The substrates with 80 and 100% cattle manure promoted better growth. The cassava branches alone is a poor substrate. The black screened and the thermo reflective proved to be the best environments."},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"REVISTA DE AGRICULTURA NEOTROPICAL"}
+	}
+	}
+	}}

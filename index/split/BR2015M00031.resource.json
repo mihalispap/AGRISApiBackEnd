@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"HIV na gestação",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rafael Cleison Silva dos Santos "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maria Josiane Aguiar de Souza "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00031",
+	"dct:identifier":"BR2015M00031",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"A Síndrome da Imunodeficiência Adquirida é a infecção, pelo vírus chamado HIV, do sistema imunológico com destruição dos linfócitos T CD4+ e associada a três vias principais de transmissão: sexual, sanguínea e vertical. Este trabalho tem como objetivo realizar uma revisão integrativa da literatura sobre gestantes sororeagentes para o HIV. Trata-se de uma pesquisa descritiva, que utilizou o método de Revisão Integrativa da Literatura. Os dados foram adquiridos através da seleção de artigos da literatura nacional indexados nas bases de dados LILACS e BDENF no período entre 2005 a 2010. Após o levantamento dos artigos a amostra final foi composta por cinco estudos que atenderam aos critérios de inclusão. É consenso por parte dos autores estudados que o diagnóstico da infecção pelo HIV no início da gestação possibilita o melhor controle da infecção materna, e, consequentemente, os melhores resultados da profilaxia da transmissão vertical desse vírus. Entretanto, é necessário que o teste anti-HIV seja oferecido a todas as gestantes no início de seu pré-natal. Conclui-se que o risco de transmissão vertical da doença ainda é elevado nas gestantes que não receberam a terapia anti-retroviral durante o pré-natal ou não a realizaram no momento do trabalho de parto e parto.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

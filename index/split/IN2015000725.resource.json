@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of SSR markers for Robusta coffee (Coffea canephora)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":277,
+	"dc:subject":[
+		{"value":"ESTs"},
+	{"value":"SSR marker"},
+	{"value":"robusta coffee",
+	"xml:lang":"eng"
+	},
+	{"value":"cafe robusta",
+	"xml:lang":"esp"
+	},
+	{"value":"bioinformatique",
+	"xml:lang":"fre"
+	},
+	{"value":"bioinformatics",
+	"xml:lang":"eng"
+	},
+	{"value":"bioinformatica",
+	"xml:lang":"esp"
+	},
+	{"value":"coffea canephora",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":286,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000725",
+	"dct:identifier":"IN2015000725",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jeena Devasia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Madhura, J.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raj  Kumar,  R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Seshasayee, M. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kulkarni, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Udayakumar, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayarama"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Coffee has long been bred with the view of improving important agronomic characteristics such as yield, bean size, cup quality, caffeine content, disease, drought resistance etc. However, the progress in coffee breeding using conventional approaches has been slow due to the narrow genetic base of cultivated coffee and the long generation time. The use of modern tools of molecular biology holds great promise for the faster development of improved varieties. A primary prerequisite is the availability of suitable marker systems. Co-dominant maker systems like SSRs provides comprehensive genome coverage, are locus specific and multi allelic. However, the number of SSR markers available for coffee is limited and there is an urgent need for generating large number of microsatellite markers. Aim of the study was to develop and characterize a comprehensive set of genomic and genic SSR markers for Robusta coffee by pre-cloning enrichment strategy and also by annotating Robusta specific unigene sequences. The pre-cloning enrichment (selective hybridization) strategy followed in the study resulted in identification of 405 SSRs in 267 sequences. The 405 SSRs isolated consisted of more of mono-nucleotide repeats (40.2%) followed by penta (33.3%), di (12.1%), tri (10.6%) and tetra (3.7%) nucleotide repeats. Among the genic SSRs identified, 43.7 per cent contained penta-repeat motifs followed by 22.5 per cent and 22.5 per cent sequences with hexa and mono repeat motifs respectively. The remaining identified motifs consisted of 5.5 per cent tri nucleotide repeat motifs, 3.5 per cent di repeat motifs and 2.2 per cent tetra repeat motifs. The study resulted in development of 31 genomic SSRs and 86 genic SSRs which were validated for locus specific amplification.",
+	"xml:lang":"eng"
+	}
+	}}

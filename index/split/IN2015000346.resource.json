@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative Nutritional Status of Lactating Dairy Animals in Rural Dairy Farm Houses and Peri-urban Dairy Complexes in Punjab State of India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":89,
+	"dc:subject":[
+		{"value":"lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"ganado de leche",
+	"xml:lang":"esp"
+	},
+	{"value":"dairy cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"etat nutritionnel",
+	"xml:lang":"fre"
+	},
+	{"value":"pendjab",
+	"xml:lang":"fre"
+	},
+	{"value":"bovin laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"estado nutricional",
+	"xml:lang":"esp"
+	},
+	{"value":"dairy farms",
+	"xml:lang":"eng"
+	},
+	{"value":"punjab",
+	"xml:lang":"esp"
+	},
+	{"value":"nutritional status",
+	"xml:lang":"eng"
+	},
+	{"value":"lactacion",
+	"xml:lang":"esp"
+	},
+	{"value":"granjas lecheras",
+	"xml:lang":"esp"
+	},
+	{"value":"exploitation laitiere",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":98,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000346",
+	"dct:identifier":"IN2015000346",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wadhwa, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bakshi, M.P.S"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The objective of this study was to compare the nutritional status of animals in rural dairy farm houses (RDFHs) and peri-urban dairy complexes (PUDCs) in Punjab State of India. The PUDCs had higher (P0.01) number of adult cattle units (ACUs) as compared to RDFHs. Buffaloes predominated in both types of dairies (78.95%). But the relative proportion of buffaloes was higher (P0.05) in PUDCs as compared to RDFHs. The healthier animals (P0.01) in PUDCs as compared to RDFHs (537.4 vs. 487.7 kg BW) had higher (P0.01) milk yield (7.34 vs. 5.84 kg/animal/day) and milk urea nitrogen (MUN). However reverse trend was observed in the urinary excretion ofpurine derivatives (PDs). The animals in PUDCs were offered higher (P0.01) proportion of concentrate in the diet as compared to those of RDFHs (29.34 vs. 19.61%), reverse but significant (P0.01) trend was observed in roughage proportion. Within the roughage, green fodder constituted the bulk of DM and the relative proportion of green fodder and straw was 67.78 and 32.28%, respectively, but were statistically comparable in both the systems. The CP content in the complete feed was comparable, but the NDF and EE contents in the diet were higher (P0.01) in RDFHs as compared to those of PUDCs. On an average the complete feed contained 10.51% CP, 65.98% NDF and 2.32% EE. The daily consumption of DM and CP was comparable, while that of EE was higher (P0.05) in animal of RDFHs as compared to those of PUDCs. It was concluded that the animals in the PUDCs of Punjab state were fed higher proportion of concentrate mixture and were better off than the RDFHs but there is need to motivate the farmers to supplement the diet with mineral mixture and common salt in order to improve the productive and reproductive efficiency of the animals.",
+	"xml:lang":"eng"
+	}
+	}}

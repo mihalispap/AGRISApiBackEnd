@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Post-fire development of canopy structure and composition in black spruce forests of Abitibi, Québec : a landscape scale study /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Harper, Karen A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergeron, Yves.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gauthier, Sylvie.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Drapeau, Pierre.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Choristoneura"},
+	{"value":"metsätuhot"},
+	{"value":"canopy"},
+	{"value":"wind damage"},
+	{"value":"Picea mariana"},
+	{"value":"latvuskerros"},
+	{"value":"mustakuusi"},
+	{"value":"boreal forests"},
+	{"value":"rakenne"},
+	{"value":"latvusto"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000201",
+	"dct:identifier":"FI2016000201",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

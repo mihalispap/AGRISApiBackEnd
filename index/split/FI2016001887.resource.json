@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of variability for salt tolerance at seedling stage in Gossypium hirsutum L.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hanif, Mamoona.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Noor, Etrat.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Murtaza, Naveed.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Qayyum, Abdul.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Malik, Waqas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"salt tolerance"},
+	{"value":"cotton"},
+	{"value":"genetic variation"},
+	{"value":"plant breeding"},
+	{"value":"salinity"},
+	{"value":"heritability"},
+	{"value":"selection"},
+	{"value":"seedlings"},
+	{"value":"Gossypium hirsutum"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001887",
+	"dct:identifier":"FI2016001887",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth performance and meat wholesomeness of broiler chickens reared on different types of litter materials.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Adebayo, I. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Awoniyi, T. A. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akenroye, A. H.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"wood residues"},
+	{"value":"sawdust"},
+	{"value":"sand"},
+	{"value":"animal housing"},
+	{"value":"broiler chickens"},
+	{"value":"poultry"},
+	{"value":"microbial flora"},
+	{"value":"rice husks"},
+	{"value":"intestinal flora"},
+	{"value":"feed intake"},
+	{"value":"litter for animals"},
+	{"value":"feed conversion efficiency"},
+	{"value":"Brachystegia"},
+	{"value":"duodenum"},
+	{"value":"chickens"},
+	{"value":"weight gain"},
+	{"value":"chicken meat"},
+	{"value":"rearing techniques"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000813",
+	"dct:identifier":"FI2016000813",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Betydelsen av om farmrävens taklya har en vägg öppen eller inte.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rekilä, T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mononen, J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahola, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harri, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kettu"},
+	{"value":"furbearing animals"},
+	{"value":"häkit"},
+	{"value":"behaviour"},
+	{"value":"myllyt"},
+	{"value":"cages"},
+	{"value":"turkiseläimet"},
+	{"value":"foxes"},
+	{"value":"seinät"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001986",
+	"dct:identifier":"FI2016001986",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

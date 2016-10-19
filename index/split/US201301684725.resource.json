@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of nitrogen fertilisation reduction on yield, quality and N utilisation on processing spinach"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301684725",
+	"dct:identifier":"US201301684725",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a12.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Canali, Stefano (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Montemurro, Francesco (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tittarelli, Fabio (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Masetti, Olimpia (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Nitrogen (N) fertilizer is one of the main growth limiting nutrients in leafy crops and represents one of the highest input costs in horticultural systems and a potential concern for the environment. As a consequence, any environmental and economic considerations need a deep analysis of N fertiliser utilisation in vegetable production. This study was carried out to evaluate the effect of the reduction of N fertilisation on yield, quality, N uptake and N utilisation efficiency of processing spinach (Spinacia oleracea L.). To accomplish this objective two field experiments were carried out in the Foggia Plain (Southern Italy) to determine the optimum N-application level and ways of modulating it during the growing cycle through the application of different N rates. In a completely randomized experimental design with four replications the following three N fertilization treatments were compared: 50% (N 150 kg ha-1), 75% (N 225 kg ha-1) and 100% (N 300 kg ha-1) of the normal rate applied by the farmers in the trial area. Subdividing the total amounts in equal parts, the urea fertiliser was broadcasted in three times: before sowing, at the stage of second couple of leaves (38 days after sowing, DAS) and at fast growing stage (81 DAS). The results indicate that lower N fertilization level ensured a satisfactory yield, quality (dry matter and nitrate contents), N uptake and N utilisation pattern. It also decreased the amount of N available for leaching during the whole cropping cycle. The higher quantity of N applied at the maximum level did not increase the majority of the measured parameters, whereas the N utilization efficiency decreased significantly from the intermediate to the highest N treatment level in both field experiments. The results of this research indicated the way to optimise N fertilisation of processing spinach, in terms of quantity and time of fertiliser application, to obtain satisfactory crop performances and reducing environmental risks."}
+	}}

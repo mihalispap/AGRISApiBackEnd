@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors affecting Agrobacterium-mediated genetic transformation in fruit and nut crops – An overview"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029324",
+	"dct:identifier":"FI2007029324",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a32.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gill, Manav Indra Singh (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Zora (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agrez, Vaughan (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In most fruit and nut crops, the frequency of genetic transformation via Agrobacterium is quite low, therefore hindering the routine production of transgenics in these crops. It is therefore important to understand the various critical factors involved in Agrobacterium-mediated genetic transformation, as each and every factor affects transformation frequency and needs to be optimised for routine production of transgenics in fruit and nut crops. This review highlights and explores the important factors contributing to the success of Agrobacterium-mediated transformation in fruit and nut crops. Some of these critical factors affecting success of Agrobacterium-mediated gene transfer in fruit crops include: genotype, explant, method of transformation, Agrobacterium strain, gene construct, infection/co-cultivation conditions and antibiotics both to kill Agrobacterium after infection and for selection of putative transgenic plants. In addition, this review also provides a current ‘snapshot’ of transgenic fruit and nut crops that have been produced via Agrobacterium-mediated transformation, with improved horticultural traits including disease resistance, insect/pest resistance, herbicide tolerance, cold tolerance, salt tolerance and improved plant and fruit characteristics and shelf life. Agrobacterium-mediated gene transfer in fruit crops should be considered as an important complementary tool to existing technologies and conventional fruit breeding, not a substitute."}
+	}}

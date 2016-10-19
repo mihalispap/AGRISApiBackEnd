@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pollen-mediated genetic transformation of cotton with the Arabidopsis thaliana hmgr  cDNA using the particle gun"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188197",
+	"dct:identifier":"FI2007188197",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gounaris, Yannis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Galanopoulou, Stella (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Galanopoulos, Nikos (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ladopoulos, Alexis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Michailidis, Zisis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Theophilou, Stelios (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The particle gun procedure was used to introduce a cDNA copy of the Arabidopsis thaliana 3’-hydroxylmethyl glutaryl coenzyme A reductase (hmgr) gene, combined with the neomycin phosphotransferase (nptII) gene for kanamycin resistance, into mature pollen of cotton (Gossypiumhirsutum cv. Christina). The bombarded pollen was used in pollination experiments. Four thousand seeds from plants pollinated by the bombarded pollen were germinated in the presence of 160 µg ml-1 kanamycin. Sixty five kanamycin resistant seedlings were further studied as potentially containing the transgene and allowed to mature and produce seeds. DNA from these second-generation seeds was used in polymerase chain reaction (PCR) amplification experiments to detect the presence of the hmgr transgene and the upstream cauliflower mosaic virus (CaMV) 35S promoter. Seeds from twelve of the 65 kanamycin-selected plants were found to contain the 35S promoter of the hmgr gene but only three of the twelve contained almost the full-length hmgr cDNA sequence. The methodology is presented as a versatile and easy way of achieving genetic transformation of cotton cultivars and varieties."}
+	}}

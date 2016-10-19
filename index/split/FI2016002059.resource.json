@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of vermicompost on the growth and yield of spinach (Spinacia oleracea L.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peyvast, Gh.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Olfati, J. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Madeni, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Forghani, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil amendments"},
+	{"value":"yields"},
+	{"value":"organic fertilizers"},
+	{"value":"spinach"},
+	{"value":"Spinacia oleracea"},
+	{"value":"chemical composition"},
+	{"value":"fertilizer application"},
+	{"value":"growth"},
+	{"value":"vermicomposting"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002059",
+	"dct:identifier":"FI2016002059",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

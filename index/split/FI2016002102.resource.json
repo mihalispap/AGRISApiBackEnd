@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Soils of Ethiopia : perceptions, appraisal and constraints in relation to food security.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mishra, B. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gebrekidan, Heluf.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kibret, Kibebew.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil types"},
+	{"value":"soil fertility"},
+	{"value":"viljavuus"},
+	{"value":"elintarviketuotanto"},
+	{"value":"food security"},
+	{"value":"maankäyttö"},
+	{"value":"viljelymaa"},
+	{"value":"Ethiopia"},
+	{"value":"maaperä"},
+	{"value":"afforestation"},
+	{"value":"metsitys"},
+	{"value":"food supply"},
+	{"value":"maalajit"},
+	{"value":"arable soils"},
+	{"value":"land use"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002102",
+	"dct:identifier":"FI2016002102",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

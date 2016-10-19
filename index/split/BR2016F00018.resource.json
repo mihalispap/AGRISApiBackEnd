@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Efeito da produtividade diária de leite no impacto econômico da mastite em rebanhos bovinos ",
+	"xml:lang":"por"
+	},
+	{"value":"Effect of daily milk production on the economic impact of mastitits in cattle herds",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy farms",
+	"xml:lang":"eng"
+	},
+	{"value":"product quality",
+	"xml:lang":"eng"
+	},
+	{"value":"milk",
+	"xml:lang":"eng"
+	},
+	{"value":"economic situation",
+	"xml:lang":"eng"
+	},
+	{"value":"bovine mastitis",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p53",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00018",
+	"dct:identifier":"BR2016F00018",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p53",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"DEMEU,  F. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LOPES, M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, G. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ROCHA, C. M. B. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, G."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"20 e 30 litros de leite/dia. Foram consideradas como prevenção as despesas com monitoramento da incidência de mastite (cultura e antibiograma, contagem de células somáticas no tanque e contagem de células somáticas por animal), pré e pós dipping, vacinação e tratamento de vacas secas. Como medidas curativas consideraram-se os tratamentos com casos clínicos, com ocorrência de 7% do total de vacas em lactação. O impacto da mastite foi estimado como sendo o total em perdas (redução na produção e descarte de leite durante o tratamento e período de carência do antibiótico) acrescido das despesas com prevenção e tratamento de casos clínicos. O aumento da produtividade diária por animal diminuiu o impacto econômico da mastite. As maiores produtividades apresentaram menores valores de impacto econômico, por litro de leite comercializado, devido à otimização dos produtos e materiais utilizados por animal, reduzindo as despesas operacionais. As despesas com tratamento preventivo representaram, no máximo, 13,5% do impacto econômico, sendo esta menor que o impacto econômico das despesas com tratamento curativo, o que demonstra vantagens em investir nessa prática, pois a mesma contribuirá para a diminuição do impacto econômico da mastite."},
+	{"value":"The objectives of this study were to analyze and quantify the effect of daily productivity per animal on the economic impact of mastitis in dairy cattle herds. A simulation study was conducted using the CU$TO MASTITE computational program. Dairy herds with an average production of 10, 20 and 30 liters of milk/day were considered. As preventive measures, expenses with mastitis incidence monitoring (culture and antibiogram, somatic cell count in the tank and somatic cells count per animal), pre and post dipping, vaccination, and treatment of dry cows were computed. Treatments of clinical cases, which corresponded to 7% of all lactating cows, were considered as curative measures. The impact of mastitis was estimated as total losses (reduction in production and milk disposal during treatment and antibiotic withdrawal period) plus expenses with prevention and treatment of clinical cases. An increase in daily productivity per animal reduced the economic impact of mastitis. Higher productivity was associated with lower economic impact values, per liter of commercialized milk, due to optimization of the products and materials used per animal, reducing operating expenses. The expenses with preventive treatment corresponded to a maximum of 13.5% of economic impact. This percentage was lower than the economic impact of expenses with curative treatment. These results demonstrate the advantages of investing in preventive treatment, which will contribute to reduce the economic impact of mastitis.",
+	"xml:lang":"eng"
+	},
+	{"value":"Os objetivos desta pesquisa foram analisar e quantificar o efeito da produtividade diária por animal no impacto econômico da mastite em rebanhos bovinos leiteiros. A pesquisa foi realizada por meio de simulação no sistema computacional CU$TO MASTITE, considerando rebanhos leiteiros com produtividade média diária de 10",
+	"xml:lang":"por"
+	}
+	]
+	}}

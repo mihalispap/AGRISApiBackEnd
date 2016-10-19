@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Immediate effects of logging, mounding and removal of logging residues and stumps on coarse woody debris in managed boreal Norway spruce stands.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rabinowitsch-Jokinen, Ruut.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vanha-Majamaa, Ilkka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kannot"},
+	{"value":"kuusi"},
+	{"value":"logs"},
+	{"value":"tukit"},
+	{"value":"maanmuokkaus"},
+	{"value":"CWD"},
+	{"value":"hakkuutähteet"},
+	{"value":"stump harvesting"},
+	{"value":"coarse woody derbis"},
+	{"value":"bioenergy"},
+	{"value":"forest management"},
+	{"value":"bioenergia"},
+	{"value":"site preparation"},
+	{"value":"harvesting"},
+	{"value":"maanpinnan valmistus"},
+	{"value":"Picea abies"},
+	{"value":"logging wastes"},
+	{"value":"metsänhoito"},
+	{"value":"stumps"},
+	{"value":"puunkorjuu"},
+	{"value":"picea abies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001700",
+	"dct:identifier":"FI2016001700",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

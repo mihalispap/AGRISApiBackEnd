@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Bioactivity of medicinal plant extracts against Listeria monocytogenes isolated from food.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pirbalouti, A. G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chaleshtori, A. R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tajbakhsh, E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Momtaz, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rahimi, E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shahin, F.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"poultry"},
+	{"value":"timjami"},
+	{"value":"biological contamination"},
+	{"value":"liha"},
+	{"value":"drug plants"},
+	{"value":"Thymus"},
+	{"value":"antimicrobial properties"},
+	{"value":"food preservation"},
+	{"value":"medicinal properties"},
+	{"value":"food contamination"},
+	{"value":"elintarvikkeet"},
+	{"value":"antimikrobiset yhdisteet"},
+	{"value":"foods"},
+	{"value":"food additives"},
+	{"value":"essential oils"},
+	{"value":"chicken meat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001620",
+	"dct:identifier":"FI2016001620",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

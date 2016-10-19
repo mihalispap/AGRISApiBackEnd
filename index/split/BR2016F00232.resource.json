@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Caracterização dos consumidores de peixe do Município de Lavras ",
+	"xml:lang":"por"
+	},
+	{"value":"Characterization of fish consumers in the town of Lavras, Minas Gerais.",
+	"xml:lang":"eng"
+	},
+	{"value":"   Minas Gerais "}
+	],
+	"dc:subject":[
+		{"value":"research methods",
+	"xml:lang":"eng"
+	},
+	{"value":"fish",
+	"xml:lang":"eng"
+	},
+	{"value":"consumer behaviour",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.3",
+	"bibo:doi":"10.17523/bia.v72n3p178",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00232",
+	"dct:identifier":"BR2016F00232",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n3p178",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MELO, C. C. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FABRINI, B. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, A. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MATTOS, B. O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, L. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FREITAS, R. T. F."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this study was to evaluate and characterize the fish consumption profile in the town of Lavras, Minas Gerais. A descriptive-quantitative study was conducted. A structured questionnaire elaborated using previously formulated questions and answers was used for data collection. The questionnaire was applied between March and May 2014 to the household reference person. A total of 402 households were sampled. The data were analyzed by analysis of the distribution of frequencies using the SPSS program. The results showed that fish meat occupied fourth place in the preference of household consumption in the town of Lavras, after beef, poultry and pork meat. It was also observed that fish is usually purchased as fillet and is consumed occasionally in the households. The price is an important factor for the choice of meat. Most respondents prefer to consume fried fish. The species most appreciated by consumers in the town of Lavras is Dourado. Most respondents usually buy less than 2.0 kg/household/year.",
+	"xml:lang":"eng"
+	},
+	{"value":"Objetivou-se com este trabalho avaliar e caracterizar o perfil de consumo de peixe na cidade de Lavras, MG. Para a obtenção dos dados foi realizada uma pesquisa descritivo-quantitativa. A técnica de coleta de dados utilizada foi o questionário estruturado, elaborado com perguntas e respostas previamente formuladas. O questionário foi aplicado de março a maio de 2014 e voltado à pessoa de referência do domicílio. Foram amostrados 402 domicílios. Para a análise dos dados, foi utilizada a técnica de análise de distribuição de frequências, através do programa estatístico SPSS versão 12.0. Como resultado, observou-se que a carne de peixe está em quarto lugar no ranking de preferência de consumo das famílias na cidade de Lavras, perdendo para a carne bovina, aves e suína. Constatou-se também que normalmente o peixe é adquirido na apresentação filé e que o consumo é eventual nos domicílios. O preço representou um fator importante para escolha da carne. A maioria dos entrevistados prefere consumir o peixe frito. A espécie mais apreciada pelos consumidores da cidade de Lavras foi o Dourado. A maioria dos entrevistados costuma comprar menos de 2,0 kg/domicílio/ano.",
+	"xml:lang":"por"
+	}
+	]
+	}}

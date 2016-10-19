@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:title":{"value":"DISTRIBUIÇÃO DE GOTAS DE UM PULVERIZADOR HIDRÁULICO DE BARRAS DE BAIXO CUSTO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":19,
+	"bibo:volume":2,
+	"bibo:pageEnd":25,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00021",
+	"dct:identifier":"BR2016H00021",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-07",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/259",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bruno Peres Romeiro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jorge Alfredo luiz França"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wagner Santos Gonçalves"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cleiton Gredson Sabin Benett"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Em meio à diversidade de componentes do processo de produção agrícola, destaca-se a tecnologia de aplicação de produtos fitossanitários, que é a responsável pela colocação correta dos produtos no alvo. Assim, objetivou-se nesse trabalho avaliar a ...",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Indução da ovulação e características ovarianas de marrãs pré-púberes tratadas com gonadotrofina coriônica humana ou kisspeptina ",
+	"xml:lang":"por"
+	},
+	{"value":"Induction of ovulation and ovarian characteristics of prepubertal gilts treated with human chorionicgonadotropin or kisspeptin",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"ovulation",
+	"xml:lang":"eng"
+	},
+	{"value":"lh",
+	"xml:lang":"eng"
+	},
+	{"value":"sexual maturity",
+	"xml:lang":"eng"
+	},
+	{"value":"gonadotropin releasing hormone",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p9",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00014",
+	"dct:identifier":"BR2016F00014",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p9",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"NATAL, F. L. N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MELO, A. J. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"JIMENEZ FILHO, D. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DUARTE,  K. M. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALVAREZ, R. H."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"In view of its similar structure and function to luteinizing hormone (LH), human chorionic gonadotropin (hCG) has conventionally been used as the main hormone to induce estrus and ovulation in sows. Recently, it has been demonstrated that the neuropeptide kisspeptin is associated with pituitary LH release in different mammalian species, including swine. Thus, the aim of this study was to determine whether kisspeptin-10 combined with equine chorionic gonadotropin (eCG) could be an efficient method to induce ovulation in prepubertal gilts. Thirty 5-month-old gilts weighing 78.0 ± 8.4 kg were randomly divided into five groups of six animals each. Groups 1, 2 and 3 received 750 IU eCG, while groups 4 and 5 received saline solution. After 72 hours, the animals received 380 nmol kisspeptin-10 (group 2), 500 IU hCG (groups 3 and 4), or saline (groups 1 and 5). The treatments were applied by a single intramuscular injection. The animals were slaughtered 7 days later and ovulation was confirmed by the presence of corpora lutea in the recovered ovaries. Data were analyzed by the Kruskal-Wallis and Fisher exact tests. The number of gilts that ovulated was similar in groups 2 and 3. This number was higher in group 5 (P",
+	"xml:lang":"eng"
+	},
+	{"value":"Devido à semelhança na estrutura e função com o hormônio luteinizante (LH), a gonadotrofina coriônica humana (hCG) tem sido convencionalmente o principal hormônio utilizado para induzir o estro e a ovulação nas fêmeas suínas. Recentemente, foi demonstrado que o neuropeptídio kisspeptina é o precursor da descarga de LH em diferentes espécies de mamíferos, incluindo a suína. Dessa forma, o presente estudo objetivou determinar se uma das formas dessa substância (kisspeptina-10) associada à gonadotrofina coriônica equina (eCG) pode ser um método eficiente para induzir a ovulação de marrãs pré-púberes. Trinta marrãs de 5 meses de idade, com peso médio de 78,0 ± 8,4 kg, foram distribuídas aleatoriamente em cinco grupos de seis animais cada. Os grupos 1, 2 e 3 receberam 750 UI de eCG, enquanto que os grupos 4 e 5 receberam solução fisiológica. Setenta e duas horas após, o grupo 2 recebeu 380 nmol de kisspeptina-10, os grupos 3 e 4 receberam 500 UI de hCG e os grupo 1 e 5 receberam solução fisiológica. As injeções foram aplicadas em dose única, utilizando a via intramuscular. Os animais foram abatidos sete dias após e a ovulação foi constatada pela presença de corpos lúteos nos ovários recuperados. Os dados foram analisados pelo teste de Kruscal-Wallis e teste exato de Fisher. O número de fêmeas que ovulou foi semelhante nos grupos 2 e 3. Essa resposta foi superior ao grupo 5 (P",
+	"xml:lang":"por"
+	}
+	]
+	}}

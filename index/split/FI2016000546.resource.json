@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Antifungal properties of Origanum glandulosum Desf. extracts /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Belhattab, Rachid.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Larous, Larbi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kalantzakis, Georgios.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boskou, Dimitrios.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Exarchou, Vassiliki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"antifungal properties"},
+	{"value":"antimikrobiset yhdisteet"},
+	{"value":"antioxidants"},
+	{"value":"drug plants"},
+	{"value":"essential oils"},
+	{"value":"haihtuvat orgaaniset yhdisteet"},
+	{"value":"Origanum"},
+	{"value":"lääkekasvit"},
+	{"value":"antimicrobial properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000546",
+	"dct:identifier":"FI2016000546",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"INDICADORES DE CAPACIDADE DE USO DA TERRA PARA ESCALA DE PROPRIEDADE RURAL: DEFICIÊNCIA DE FERTILIDADE DO SOLO.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":1,
+	"bibo:volume":2,
+	"bibo:pageEnd":7,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00031",
+	"dct:identifier":"BR2015N00031",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/414",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Murielly de Sousa Nóbrega"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paulo Guilherme Salvador Wadt"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lúcia Helena Cunha dos Anjos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marcos Gervasio Pereira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Secretaria de Planejamento do Estado do Acre"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Embrapa Acre"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal Rural do Rio de Janeiro"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Avaliou-se a capacidade de indicadores atividade de argila, saturação de bases, saturação de alumínio, carbono orgânico, teor de areia e fósforo remanescente em discriminar corretamente os diferentes graus de limitação para deficiência de fertilidade do solo, utilizando-se dados de setenta e nove glebas de quinze propriedades rurais da região sul ocidental da Amazônia, coletadas por amostragem não probabilística, a profundidade de 0 a 25 cm. Algoritmos computacionais baseados nos indicadores classificaram as glebas quanto a limitação de deficiência de fertilidade em: nula, ligeira, moderada, forte e muito forte. Foram identificados quatro graus de limitação quanto à deficiência de fertilidade do solo: nulo (N), ligeiro (L), moderado (M) e forte (F). Os indicadores fósforo remanescente, teor de areia e saturação de bases foram os mais relevantes na distinção dos diferentes grupos de limitação, seguido pelos indicadores atividade de argila e carbono orgânico e, com menor relevância, a saturação de alumínio. Os indicadores utilizados não se mostraram suficientes para as distinções dos ambientes quanto ao graus de limitação de deficiência de fertilidade do solo, implicando na necessidade de novas regras e, ou, indicadores, para melhor caracterização da deficiência de fertilidade do solo.",
+	"xml:lang":"por"
+	}
+	}}

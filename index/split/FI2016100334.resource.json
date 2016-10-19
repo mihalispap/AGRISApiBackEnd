@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f16.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of drying and storage on flavour quality of orange (Citrus cinensis (Linn) Osbeck) peel for cupcakes"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Benjamin, Avis C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akingbala, John O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baccus-Taylor, Gail S. H. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100334",
+	"dct:identifier":"FI2016100334",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Grated sweet orange peel was freeze-dried and converted into orange peel powder. The peel powder was stored under N2 and in air and placed inside a dark cupboard and on a laboratory countertop (in light) for four months. Oil was extracted from fresh peel samples and the stored peel powder using supercritical fluid extraction, with carbon dioxide as the extractant. The oils were analysed for flavour compounds. The fresh peel and the stored peel powders were used to flavour cupcakes, and the effects of processing and storage conditions on sensory quality of the cupcakes were determined. Yield of oil extract was significantly affected by moisture content, length of storage, storage gas atmosphere and light. The rates of extraction in increasing order were: fresh peel < peel powder stored in N2 in light< fresh peel powder < peel powder stored in N2 in the dark <peel powder stored in air in the dark. There were differences in concentrations of sabinene, limonene, decanal, octanal, myrcene, linalool, ethyl butyrate, geranyl acetate and neral in the peels due to differences in storage conditions of the peel powders and stability of the compounds. The compounds which appeared to have affected cake flavour significantly included myrcene, limonene, octanal, linalool and decanal."}
+	}}

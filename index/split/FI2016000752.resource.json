@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of two working methods for small tree harvesting with a multi tree felling head mounted on farm tractor.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Belbo, Helmer.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"harvesters"},
+	{"value":"biomass"},
+	{"value":"forest biomass harvesting"},
+	{"value":"nuoret metsiköt"},
+	{"value":"forestry"},
+	{"value":"kustannusfunktiot"},
+	{"value":"cost functions"},
+	{"value":"hakkuukoneet"},
+	{"value":"harvesting"},
+	{"value":"biomassa"},
+	{"value":"cost analysis"},
+	{"value":"Picea abies"},
+	{"value":"metsät"},
+	{"value":"Norway"},
+	{"value":"puunkorjuu"},
+	{"value":"young stands"},
+	{"value":"multi-tree handling"},
+	{"value":"picea abies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000752",
+	"dct:identifier":"FI2016000752",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

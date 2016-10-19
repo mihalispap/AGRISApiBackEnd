@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Incidence of butt rot at final felling and at first thinning of the subsequent rotation of Norway spruce stands in south-western Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rönnberg, Jonas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Berglund, Mattias.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Johansson, Ulf.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kiertoaika"},
+	{"value":"kantokäsittely"},
+	{"value":"kuusi"},
+	{"value":"disease transmission"},
+	{"value":"Heterobasidion parviporum"},
+	{"value":"kuusenjuurikääpä"},
+	{"value":"männynjuurikääpä"},
+	{"value":"Picea abies"},
+	{"value":"Heterobasidion annosum"},
+	{"value":"metsänhoito"},
+	{"value":"stump treatment"},
+	{"value":"consecutive rotations"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000161",
+	"dct:identifier":"FI2016000161",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

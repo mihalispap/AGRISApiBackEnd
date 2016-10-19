@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"CONTRIBUIÇÃO AO CONHECIMENTO DE Eperua bijuga  MART. EX BENTH. (LEGUMINOSAE: CAESALPINIOIDEAE)",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":22,
+	"bibo:volume":5,
+	"bibo:pageEnd":26,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00184",
+	"dct:identifier":"BR2015N00184",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/970",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Maria Maricélia Félix-da-Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maria de Nazaré do Carmo Bastos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ely Simone Cajueiro Gurgel"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Museu Paraense Emilio Goeldi"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:HyphenationZone>21</w:HyphenationZone> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> </w:Compatibility> <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument> </xml><![endif]--> <p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\">Este trabalho representa uma contribuição para o estudo de Eperua bijuga Mart. ex Benth. Analisaram-se coleções depositadas em herbários nacionais, pelo método de dissecção das partes vegetativas e reprodutivas em estereomicroscópio, seguindo-se descrição e ilustração do material. Para a microscopia eletrônica de varredura, foram utilizados folíolos e flores não acetolisados. São fornecidos descrição, ilustrações inéditas, dados sobre floração, frutificação, hábitat e comentários sobre a morfologia.<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><strong>Palavras-chave: </strong>Fabales, Detarieae, muirapiranga, wallaba</em>, taxonomia. <!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=\"false\" LatentStyleCount=\"156\"> </w:LatentStyles> </xml><![endif]--><!--[if gte mso 10]> <mce:style><!   /* Style Definitions */  table.MsoNormalTable {mso-style-name:\"Tabela normal\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:\"\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:\"Times New Roman\"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} --> <!--[endif] -->",
+	"xml:lang":"por"
+	}
+	}}

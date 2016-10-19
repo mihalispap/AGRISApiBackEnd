@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Operational standards and guidelines for biodiversity management in tropical and subtropical forest plantations - how widely do they cover an ecological framework?.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Marjokorpi, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salo, Jukka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"nature conservation"},
+	{"value":"indikaattorit"},
+	{"value":"biodiversity"},
+	{"value":"kriteerit"},
+	{"value":"kestävä metsätalous"},
+	{"value":"afforestation"},
+	{"value":"metsitys"},
+	{"value":"reforestation"},
+	{"value":"sustainability"},
+	{"value":"metsiensuojelu"},
+	{"value":"luonnon monimuotoisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001743",
+	"dct:identifier":"FI2016001743",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

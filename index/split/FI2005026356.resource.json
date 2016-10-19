@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Water sorption isotherms and heat of sorption of osmotically pretreated and oven-dried papaya varieties"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026356",
+	"dct:identifier":"FI2005026356",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/f7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Falade, K.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uzo-Peters, P. I. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Adsorption isotherms of osmotically pretreated and subsequently oven-dried papaya (Carica papaya) varieties (Sunrise Solo, Homestead Green, Homestead Purple) were investigated using gravimetric static method. Ripe papaya varieties were cut into 10 mm x 10 mm x 50 mm slabs and immersed into 52, 60 and 68°B sucrose solutions maintained at 25°C in water bath. A fruit:solution ratio of 1:20 was maintained for 12 hours. Osmosed papaya slabs were subsequently oven-dried at 60°C for 72 hours. Adsorption isotherms of osmotically pretreated and oven-dried papaya varieties followed the type III (J-shaped) isotherms. Depression of water activity occurred in preosmosed oven-dried papaya slabs pretreated at higher sucrose solution concentrations. Guggenheim-Anderson-deBoer (GAB) model was used to fit the experimental data and to calculate monolayer moisture (Mm) content. Mm increased with an increase in pretreatment sucrose solution concentration. However, Mm decreased with increased equilibrium temperature. Isosteric heat of sorption increased with decreased moisture contents and pretreatment sucrose solution concentration. Heat of sorption of preosmosed oven-dried papaya slices was in the following order: ‘Homestead Purple’ > ‘Homestead Green’ > ‘Sunrise Solo’."}
+	}}

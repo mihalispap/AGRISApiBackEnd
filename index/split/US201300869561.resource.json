@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Fruit phenolics as natural antimicrobial agents: Selective antimicrobial activity of catechin, chlorogenic acid and phloridzin"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869561",
+	"dct:identifier":"US201300869561",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f15.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Muthuswamy, Sivakami (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rupasinghe, H. P. Vasantha (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Fruit phenolics have attracted a great interest recently as potential natural antimicrobial agents that could be used to extend the shelf life of valueadded fruit and vegetable products. The antimicrobial activity of catechin, chlorogenic acid and phloridzin at 1, 5, 10 and 25 mM concentrations was assessed against three marker pathogenic bacteria, one probiotic bacterium, two yeasts and one food spoilage fungus using the turbidity assay. The growth of pathogenic bacteria, Escherichia coli O157:H7, Listeria innocua and the food spoilage fungus, Penicillium chrysogenum, were suppressed by all the phenolics at 25 mM but the growth of food spoilage yeast Saccharomyces cerevisiae was inhibited only by chlorogenic acid and phloridzin. Chlorogenic acid exhibited a greater inhibitory effect on opportunistic pathogen, Candida albicans, than that of catechin and phloridzin. The growth of probiotic bacterium, Lactobacillus rhamnosus, was not affected by the three phenolics at any tested concentrations except by 25 mM phloridzin."}
+	}}

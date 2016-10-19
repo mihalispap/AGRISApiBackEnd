@@ -1,0 +1,22 @@
+{"resource": {
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Resuscitation of eight-year VBNC Providencia stuartii"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dhiaf, Amel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bakhrouf, Amina (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911315",
+	"dct:identifier":"US201300911315",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"bibo:abstract":{"value":"Providencia stuartii was stressed by incubation in soilmicrocosms for eight years. After five years of starvation, no culturable strain was observed. Incubation of samples in nutrient-rich broth medium not supplemented with growth factors, however, allowed resuscitation of VBNCcells so that subsequent platingyielded observable colonies for significantly extended periodsof time. Recovery of VBNC Providencia stuartii was obtained by incubation in nutrient broth even after eight years of starvation. To see whether the samples contained the same strain of Providencia stuartiiin oculated eight years ago, the complete 16S rRNA gene was PCR amplified and sequenced from initial, stressed and revived strains of Providencia stuartii. The 16S rRNA gene sequences from eight-year stressed strains were homologous with a high degree of similarityto the GenBank reference strain and were identical to each other."},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	}
+	}}

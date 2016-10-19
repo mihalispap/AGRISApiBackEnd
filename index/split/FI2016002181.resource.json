@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Environmental activity and forest certification in marketing of forest products : a case study in Europe.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kärnä, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hansen, Eric.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Juslin, Heikki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"metsäteollisuus"},
+	{"value":"Finland"},
+	{"value":"marketing"},
+	{"value":"forest products"},
+	{"value":"forestry"},
+	{"value":"metsäsertifiointi"},
+	{"value":"environmental protection"},
+	{"value":"United Kingdom"},
+	{"value":"metsäntuotteet"},
+	{"value":"certification"},
+	{"value":"ympäristökysymykset"},
+	{"value":"marketing techniques"},
+	{"value":"markkinointi"},
+	{"value":"ympäristöarvot"},
+	{"value":"Germany"},
+	{"value":"Sweden"},
+	{"value":"forest products industry"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002181",
+	"dct:identifier":"FI2016002181",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

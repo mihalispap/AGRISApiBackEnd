@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"LEVANTAMENTO DAS ESPÉCIES CONHECIDAS COMO PEDRA-UME-CAÁ (MYRTACEAE), COM ÊNFASE NAS COMERCIALIZADAS NA CIDADE DE BELÉM, PARÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":7,
+	"bibo:volume":5,
+	"bibo:pageEnd":15,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00191",
+	"dct:identifier":"BR2015N00191",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/955",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fabiane Késia Silva da Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alessandro Silva do Rosário"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ricardo de Souza Secco"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maria das Graças Bichara Zoghbi"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\">Foram estudadas as espécies de Myrtaceae conhecidas popularmente como pedra-ume-caá, enfatizando aquelas reconhecidas e comercializadas na cidade de Belém. As amostras foram obtidas principalmente em estabelecimentos comerciais, e coletadas com os produtores e/ou fornecedores de pedra-ume-caá. A identificação das espécies foi feita com base nas coleções dos Herbários IAN e MG, e também na literatura especializada. A literatura destaca sete espécies conhecidas como pedra-ume-caá: Eugenia punicifolia (Kunth) DC., Myrcia amazonica DC., M. citrifolia (Aubl.) Urb., M. guianensis (Aubl.) DC., M. multiflora (Lam.) DC., M. salicifolia DC. e M. speciosa (Amshoff) McVaugh. Na cidade de Belém foram identificadas três espécies comercializadas com este nome popular: Eugenia biflora (L.) DC., Myrcia multiflora (Lam.) DC. e Myrcia sylvatica (G.Mey.) DC. Nesse trabalho, E. biflora e M. sylvatica estão sendo citadas pela primeira vez como pedra-ume-caá. Uma chave para identificação das espécies conhecidas como pedra-uma-caá, bem como informações sobre distribuição geográfica, habitats e fenologia são apresentadas.<p class=\"MsoNormal\" style=\"text-align: justify;\"><strong>Palavras-chave:</strong> Eugenia biflora</em>, Myrcia multiflora</em>, Myrcia sylvatica</em>, taxonomia, Amazônia.<!--[endif] -->",
+	"xml:lang":"por"
+	}
+	}}

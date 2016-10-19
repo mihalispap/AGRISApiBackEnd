@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/41471/13863",
+	"dct:language":"eng",
+	"dct:title":{"value":"Reproducibility of suppression of Pythium wilt of cucumber by compost.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vestberg, Mauritz,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kukkonen, Sanna,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Parikka, Päivi,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yu, Dan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Romantschuk, Martin,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"wilts"},
+	{"value":"komposti"},
+	{"value":"plant diseases"},
+	{"value":"bioassays"},
+	{"value":"composts"},
+	{"value":"Pythium"},
+	{"value":"lakastumistaudit"},
+	{"value":"kurkku"},
+	{"value":"kasvitaudit"},
+	{"value":"cucumbers"},
+	{"value":"kasvualustat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000934",
+	"dct:identifier":"FI2016000934",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

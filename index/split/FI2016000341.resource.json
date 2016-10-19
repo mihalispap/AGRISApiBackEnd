@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A model for simulating structure-function relationships in Walnut tree growth processes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Le Dizés, Séverine.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cruiziat, Pierre.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lacointe, André.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sinoquet, Hervé.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Le Roux, Xavier.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Balandier, Philippe.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jacquet, Patrick.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pystykarsinta"},
+	{"value":"aineenvaihdunta"},
+	{"value":"simulointi"},
+	{"value":"kehitys"},
+	{"value":"ekofysiologia"},
+	{"value":"latvus"},
+	{"value":"measurement"},
+	{"value":"saksanpähkinä"},
+	{"value":"mallit"},
+	{"value":"fotosynteesi"},
+	{"value":"kasvu"},
+	{"value":"kasvifysiologia"},
+	{"value":"hengitys"},
+	{"value":"stems"},
+	{"value":"Juglans regia"},
+	{"value":"tree form"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000341",
+	"dct:identifier":"FI2016000341",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

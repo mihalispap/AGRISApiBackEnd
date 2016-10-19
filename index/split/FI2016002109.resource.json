@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The linkages between national information needs : situation in Poland and international reporting requirements.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Michalak, Roman.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"national forest inventory"},
+	{"value":"kansainvälinen yhteistyö"},
+	{"value":"Poland"},
+	{"value":"forest inventories"},
+	{"value":"international cooperation"},
+	{"value":"metsäninventointi"},
+	{"value":"valtakunnan metsien inventointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002109",
+	"dct:identifier":"FI2016002109",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/f3.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro antibacterial activity of aqueous garlic (Allium sativum Linn.) extract on isolates from surface wounds"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kudi, Ayuba A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ngbede, Joshua E. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100089",
+	"dct:identifier":"FI2016100089",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In vitro antibacterial activity of aqueous extract of garlic (Allium sativum Linn.), a useful food condiment and herbal medicine in many countries of Africa, was investigated on isolates from surface wounds. Seven different bacterial species were identified from the total 121 bacteria isolated. The in vitro susceptibility test showed that Staphylococcus aureus, Escherichia coli, Proteus sp. and Klebsiella sp. were susceptible to the extract at dilution of 1:8, Streptococcus sp. at 1:4 dilution and Enterobacter and Pseudomonas species at 1:2 dilution. We therefore recommend the use of garlic extract in controlling of susceptible bacteria from wound infection since it has no toxic effect on wounds. It is cheap and readily available in the locality, thus economical in treatment of susceptible bacteria in surface wounds. "}
+	}}

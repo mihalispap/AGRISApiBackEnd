@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Haustetidspunkt i pære.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Hjeltnes, Stein Harald.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"sadonkorjuu"},
+	{"value":"harvesting date"},
+	{"value":"fruit crops"},
+	{"value":"päärynä"},
+	{"value":"hedelmät"},
+	{"value":"Pyrus communis"},
+	{"value":"Norway"},
+	{"value":"korjuuajankohta"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (260 :
+    1996 :
+    Ås)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001809",
+	"dct:identifier":"FI2016001809",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

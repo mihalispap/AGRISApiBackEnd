@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of systemic fungicides, culture media, temperature and pH on growth of Sclerotinia sclerotiorum (Lib.) de Bary causing White mold of Chick pea",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":136,
+	"dc:subject":[
+		{"value":"milieu de culture",
+	"xml:lang":"fre"
+	},
+	{"value":"cicer arietinum",
+	"xml:lang":"esp"
+	},
+	{"value":"medio de cultivo",
+	"xml:lang":"esp"
+	},
+	{"value":"culture media",
+	"xml:lang":"eng"
+	},
+	{"value":"sclerotinia sclerotiorum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":139,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000240",
+	"dct:identifier":"IN2015000240",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, Monika"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, O.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhagat, Someshwar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandey, Neetu"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Fungicides such as carbendazim, thiophanate methyl and captan showed the maximum radial growth inhibition at 100 and 200ppm (100%). The fungus was found to grow best on sabouraud dextrose agar medium and potato dextrose agar, potato dextrose broth. Sclerotia produced were black in colour, round to irregular and maximum sclerotia size measured was 4.0 x 4.1mm. Optimum temperature and pH for the growth of fungus were 25-30oC and pH 5.6-7.0, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

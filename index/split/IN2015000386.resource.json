@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Study on morphological traits and physiological parameters of Sonadi sheep in its native tract",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":141,
+	"dc:subject":[
+		{"value":"temperatura del cuerpo",
+	"xml:lang":"esp"
+	},
+	{"value":"tasa de respiracion",
+	"xml:lang":"esp"
+	},
+	{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"body temperature",
+	"xml:lang":"eng"
+	},
+	{"value":"temperature corporelle",
+	"xml:lang":"fre"
+	},
+	{"value":"taux de respiration",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"respiration rate",
+	"xml:lang":"eng"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":142,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000386",
+	"dct:identifier":"IN2015000386",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yadav, C.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tailor, S.P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Data on morphological traits (ear, leg and tail length) and physiological parameters (rectal temperature and respiration rate) were recorded every month on 3681 Sonadi sheep maintained by 115 shepherds of 8 tehsils of 4 districts of native breeding tract in southern Rajasthan. The ear, leg and tail lengths were 11.84, 26.86 and 17.26 cm at birth which reached to 18.80, 42.31 and 31.72 cm at  18 months of age. The differences with respect to districts were found significant for ear, leg and tail length at all the stages of life. The effect of sex on all the morphological traits was to be found non-significant. The overall least squares means for body temperature and respiration rate were 38.54 Â± 0.39Â°C and 28.13Â±0.74/min at birth, 38.40Â±0.09Â°C and 26.69 Â± 0.26/min at 3 months, 37.95Â±0.12Â°C and 25.97Â±0.33/min at 6 month of age. The variations due to district and sex were non-significant on both the physiological parameters at all the ages in young stock.",
+	"xml:lang":"eng"
+	}
+	}}

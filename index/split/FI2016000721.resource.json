@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Genotoxic effect of fermented bamboo shoot.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Guneshwor, Kshetrimayum.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haripyaree, Adhikarimayum.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Damayanti, Maibam.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"carcinogens"},
+	{"value":"elintarvikkeet"},
+	{"value":"mutagens"},
+	{"value":"toxic substances"},
+	{"value":"fermented foods"},
+	{"value":"mutageenit"},
+	{"value":"myrkylliset aineet"},
+	{"value":"Bambusa"},
+	{"value":"chemical composition"},
+	{"value":"root vegetables"},
+	{"value":"bamboo shoots"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000721",
+	"dct:identifier":"FI2016000721",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

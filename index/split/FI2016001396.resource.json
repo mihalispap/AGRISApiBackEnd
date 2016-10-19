@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Paratuberkuloosi : yleiskatsaus ja tilanne Suomessa /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hintikka, Eeva-Liisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Seuna, Eija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lehmät"},
+	{"value":"Finland"},
+	{"value":"diagnosis"},
+	{"value":"paratuberculosis"},
+	{"value":"märehtijät"},
+	{"value":"eläintaudit"},
+	{"value":"ruminants"},
+	{"value":"diagnostiikka"},
+	{"value":"animal diseases"},
+	{"value":"paratuberkuloosi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001396",
+	"dct:identifier":"FI2016001396",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

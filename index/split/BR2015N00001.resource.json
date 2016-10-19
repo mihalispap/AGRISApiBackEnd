@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ESTUDOS PRELIMINARES DA ATIVIDADE INSETICIDA DE ÓLEOS ESSENCIAIS DE ESPÉCIES DE PIPER LINNEUS (PIPERACEAE) EM OPERÁRIAS DE SOLENOPIS SAEVISSIMA F SMITH (HYMENOPTERA: FORMICIDAE), EM LABORATÓRIO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":42,
+	"bibo:volume":1,
+	"bibo:pageEnd":48,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00001",
+	"dct:identifier":"BR2015N00001",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/161",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Raimundo Nonato Picanço Souto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ana Yoshi Harada"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"José Guilherme de Souza Maia"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Museu Paraense Emilio Goeldi"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Este estudo objetivou em caráter preliminar avaliar a atividade inseticida de óleos essenciais de Piper aduncum, P. callosum P. divaricatum G. Mey.,Jacq. var.anisatum P. marginatum Jacq var.marginatum em operárias adultas de Solenopsis saevissima, em laboratório. Para a avaliação da atividade inseticida por contato em superfície contaminada, foram utilizados papéis-filtro impregnados com 1 mL das concentrações 100, 500 e 1000 ppm dos óleos essenciais e da substância controle acetona. Nos períodos de 24 e 48 horas após o inicio dos experimentos foram registrados os números de formigas mortas. O percentual de mortalidade ocorrido em cada tratamento foi determinado utilizando-se a formula, % mortalidade = No. de mortos no controle - No. de mortos no tratamento / No. de mortos no controle x 100. Entre os óleos das cinco espécies de, o melhor potencial inseticida foi constatado. aduncum com mortalidade média de 100% (1000 ppm), 85(500 ppm) e 55% (100 ppm) em 24 horas e 100 % (1000 e 500 ppm) e 76,6% (100 ppm) em 48 horas. Atribui-se que a ação inseticida, conferida por P. aduncum deve-se a composição química de seu óleo essencial, devido a presença marcante de dilapiol (50-97%). controle, dilapiol, inseticidas vegetais, formiga-de-fogo. ",
+	"xml:lang":"por"
+	}
+	}}

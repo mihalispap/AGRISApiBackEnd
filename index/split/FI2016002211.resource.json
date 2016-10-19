@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of restriction of silage fermentation with formic acid on milk production /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jaakkola, Seija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rinne, Marketta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heikkilä, Terttu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toivonen, Vesa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huhtanen, Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rypsirouhe"},
+	{"value":"dairy cows"},
+	{"value":"käyminen"},
+	{"value":"täydennysrehut"},
+	{"value":"formic acid"},
+	{"value":"animal feeding"},
+	{"value":"säilörehu"},
+	{"value":"milk yield"},
+	{"value":"maitotuotos"},
+	{"value":"propyleeniglykoli"},
+	{"value":"haylage"},
+	{"value":"fermentation"},
+	{"value":"muurahaishappo"},
+	{"value":"silage"},
+	{"value":"väkirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002211",
+	"dct:identifier":"FI2016002211",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

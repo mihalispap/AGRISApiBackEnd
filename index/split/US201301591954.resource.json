@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Input cost of tractor operations in Ghana using the Farmtrac 70 tractor"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591954",
+	"dct:identifier":"US201301591954",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a41.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mahama, Aliu Aduna (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Josiah, Malcolm (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bani, Richard (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Musah, Seidu (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The Government of Ghana in an attempt to modernize agriculture is embarking on establishing agricultural mechanization service and support centres using Farmtrac tractors. This is to make mechanization services readily available to majority of the rural farmers who cannot acquire their own machines. One of the most important but difficult jobs for the Ghanaian farmer is the management of farm machinery and equipment. Farmers in Ghana are faced with farm machinery operation charges that are not realistic. They are either too low resulting in poor maintenance and unsustainable management of farm machines by their owners, or too high with the resultant high production cost and low returns on investment. This study attempts to analyze and show application of field performance data of the aggregation using Farmtrac tractor. The technical specifications and other literature review were studied on the Farmtrac 70 tractor and its aggregations. Field capacities were investigated and used to determine input cost. It was concluded that tractor operations using the Farmtrac could be cost effective. Details of the results of study are presented in this paper."}
+	}}

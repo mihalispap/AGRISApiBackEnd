@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of total solids concentration of municipal solid waste in anaerobic batch digestion on the biogas produced"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Igoni, Asinyetogha H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abowei, Millonaire F. N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ayotamuno, Josiah M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eze, Chibuogwu L. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100025",
+	"dct:identifier":"FI2016100025",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Municipal solid waste (MSW) contains a relatively high proportion of organic matter, which, when allowed to decompose under the actions of microorganisms, yields biogas. The amount of water available, dictating the level of pH, temperature, etc. of the system, largely influences the conditions for the effective performance of the microorganisms in the decomposition process. Total solids concentration expresses the relative proportion of the amounts of solids and liquid in the system. This work investigated various proportions of solids and liquid in MSW in an anaerobic batch digester and the corresponding amounts of biogas produced with a view to optimizing gas production from the system. Five laboratory-scale anaerobic batch digesters of 5 litres volume each were set up for the anaerobic batch digestion of 2 kg of shredded MSW diluted to a percentage total solids concentration of 26.7%. From the results of the investigation, mathematical relationships were developed to evaluate the operation of the digester and solved using the Microsoft Visual Basic version 6.0 Programme. The digester’s operation was then simulated over a range of percentage total solids concentration of 4-30, at a maximum fractional conversion of 0.8 to cater for system inefficiencies. The amount of biogas produced in the digester was a power function of the percentage total solids concentration, indicating that at some point in time any marginal increase in the percentage total solids concentration was not relevant to the increasing volume of biogas produced. The results showed that optimum biogas production occurred at 20% total solids concentration."}
+	}}

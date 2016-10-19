@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors affecting market price of cattle and buffalo in Odisha",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1189,
+	"dc:subject":[
+		{"value":"market prices",
+	"xml:lang":"eng"
+	},
+	{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"prix de marche",
+	"xml:lang":"fre"
+	},
+	{"value":"orissa",
+	"xml:lang":"esp"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	},
+	{"value":"precios de mercado",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1190,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000319",
+	"dct:identifier":"IN2015000319",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Biswal, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sanjay Kumar"
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"An investigation on factors associated with the market price of cattle and buffalo transacted in 12 markets of 6 districts of Odisha has been done during 2009. It has been found that milk yield, breed, temperament and reason of sale are the most significant contributory factors for price variation in female cattle and buffaloes. Cattle and buffaloes sold for meeting the urgent financial needs of the owner had lower market prices than the normal price. The study suggests the farmers to upgrade their indigenous cattle and buffaloes by adopting crossbreeding technology to get higher price.",
+	"xml:lang":"eng"
+	}
+	}}

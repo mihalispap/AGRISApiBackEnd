@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:title":{"value":"Change in Water Consumption and its Effect on the Land Cover of the Oasis in the Tarim River Basin, Xinjiang, China",
+	"xml:lang":"eng"
+	},
+	"dc:subject":{"value":"land use",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513228",
+	"dct:identifier":"IN2016513228",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=46",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Zhao Honggang"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lao Ruixin"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Water resources have major effects on the temporal and spatial distribution of land use in oases and arid regions. To determine the response relation between water consumption and the land use of the oasis in the Tarim river basin, Xinjiang, China, we conducted a study analyzing the temporal and spatial synchronization in this basin by employing hydrological data, land-use maps (for 2000, 2005, and 2010), and the spatial analysis tool ArcGIS. Results show that the water consumption in the Tarim river basin fluctuated noticeably from 2000 to 2010 and was mainly concentrated in July. A close relationship was established between land-use type and water body, and the range of land fluctuation was related to the distance between these two variables. A turning point was observed two kilometers from the land site to the water body for most land-use types. The dynamic degree of unused land, forest land and grassland decreased continuously, whereas that of cultivated land, farmland and residential land increased continuously. The increase and decrease were primarily concentrated in the cultivated and unused lands, respectively. These findings also have implications in the exploration of water resources management, changing water consumption and its effects on the land use of oasis in Tarim river basin.",
+	"xml:lang":"eng"
+	}
+	}}

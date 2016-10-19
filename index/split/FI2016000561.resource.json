@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies regarding the myrosinase enzymatic activity from black mustard (Brassica nigra) seeds.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Stoin, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pirsan, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Radu, F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Poiana, M. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alexa, E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dogaru, D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"glucosinolates"},
+	{"value":"mustard"},
+	{"value":"siemen"},
+	{"value":"sinapit"},
+	{"value":"enzyme activity"},
+	{"value":"seeds"},
+	{"value":"entsyymit"},
+	{"value":"Brassica nigra"},
+	{"value":"enzymes"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000561",
+	"dct:identifier":"FI2016000561",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

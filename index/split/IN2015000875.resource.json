@@ -1,0 +1,82 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of extraction processes on physiochemical properties and antioxidant activity of virgin coconut oil",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":329,
+	"dc:subject":[
+		{"value":"virgin coconut oil"},
+	{"value":"physiochemical properties"},
+	{"value":"extraccion",
+	"xml:lang":"esp"
+	},
+	{"value":"phenolic content",
+	"xml:lang":"eng"
+	},
+	{"value":"antioxidants",
+	"xml:lang":"eng"
+	},
+	{"value":"huile de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"extraction",
+	"xml:lang":"fre"
+	},
+	{"value":"contenido fenolico",
+	"xml:lang":"esp"
+	},
+	{"value":"huile",
+	"xml:lang":"fre"
+	},
+	{"value":"antioxydant",
+	"xml:lang":"fre"
+	},
+	{"value":"aceite de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"oils",
+	"xml:lang":"eng"
+	},
+	{"value":"antioxidantes",
+	"xml:lang":"esp"
+	},
+	{"value":"coconut oil",
+	"xml:lang":"eng"
+	},
+	{"value":"teneur en phenols",
+	"xml:lang":"fre"
+	},
+	{"value":"aceites",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":335,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000875",
+	"dct:identifier":"IN2015000875",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Agarwal, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bosco, S.J.D."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The present study was to investigate the physiochemical and antioxidant properties of virgin coconut oil (VCO) through different extraction processes including aqueous extraction (AE), aqueous enzymatic extraction (AEE), cold extraction (CE), hotplate heating process (HPH) and microwave extraction (MOH). Physiochemical properties of all the extracted oils were observed to be within the range of Asian and Pacific Coconut Community (APCC) standards with lower iodine, peroxide and free fatty acid values in AE, AEE and CE than those observed in MOH and HPH methods with reference to commercial VCO. However, total phenolic content ranged from 26.4 to 42.1 mg GAE 100 g-1 of oil with the effect of extraction processes. As correlation analysis showed significant correlation between total phenolic content and 1,1-diphenyl-2-picryl-hydrazyl (DPPH)scavenging activity,β-carotene bleaching activity and total antioxidant activity, oils extracted by CE, AE and AEE had the highest antioxidant activity corresponding to their highest phenolic content as compared to those of HPH and MOH with reference to commercial VCO. Hence, the present study concluded that CE, AE and AEE could extract VCO with desirable quality and highest antioxidant activity than the other methods of extraction.",
+	"xml:lang":"eng"
+	}
+	}}

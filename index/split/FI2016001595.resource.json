@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Eroahdistus : koiran yleinen käytösongelma /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kuussaari, Jukka.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"ahdistus"},
+	{"value":"masennus"},
+	{"value":"dogs"},
+	{"value":"pet animals"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"apatia"},
+	{"value":"behaviour"},
+	{"value":"käyttäytyminen"},
+	{"value":"lemmikkieläimet"},
+	{"value":"abnormal behaviour"},
+	{"value":"eläinlääkintä"},
+	{"value":"käyttäytymishäiriöt"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001595",
+	"dct:identifier":"FI2016001595",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

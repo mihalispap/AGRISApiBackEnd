@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Chicken growth hormone gene polymorphism and its associations with growth traits",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"pollo",
+	"xml:lang":"esp"
+	},
+	{"value":"chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"poulet",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":82,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000468",
+	"dct:identifier":"IN2015000468",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ghormade, Vaishali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Parmar, S.N.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thakur, M.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahajan, Vikas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Gurudutt"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patel, Mayank"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Present study was conducted on chicken growth hormone (cGH) gene polymorphism in Kadaknath, Kadaknath crosses and synthetic colored dual type birds using polymerase chain reaction- restriction fragment length polymorphism (PCRRFLP) method. The 770 bp PCR product was obtained and digested with MspI restriction enzyme. Three different RFLP patterns were obtained at 2 restriction sites corresponding to AA, AB and BB genotypes. The allelic frequencies in indigenous Kadaknath, Kadaknath crosses and synthetic colored dual type birds for A allele were found to be 0.49, 0.64 and 0.46 and for B allele 0.51, 0.36 and 0.54 respectively. The highly significant Chi-square value in Kadaknath crosses showed that the population is not in Hardy Weinberg equilibrium, however non significant. Chi-square value in other two breeds showed that the population is in equilibrium. Among the traits considered the least squares analysis of variance for different genotypes in all the 3 breeds revealed significant differences for adult body weight at 20 weeks and 40 weeks. Genotype AB was superior to AA and BB for adult body weight at 20 weeks and 40 weeks. The significant differences between genotypic least squares means at 20 and 40 weeks of age among all the 3 breeds indicate the effect of growth hormone gene locus on growth traits. Higher body weight was observed for AB genotype among all the 3 breeds clearly indicating the superiority of AB genotypes than AA and BB genotypes. Hence it is recommended that birds having AB genotype may be selected as parents for future breeding.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Sub-montane Norway spruce as alternative seed source for a changing climate? : a genetic and growth analysis at the fringe of its natural range in Austria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Schiessl, Eduard.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grabner, Michael.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Golesch, Gerald.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Geburek, Thomas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schueler, Silvio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ilmastonmuutokset"},
+	{"value":"climatic requirements"},
+	{"value":"kasvu"},
+	{"value":"climatic change"},
+	{"value":"crown"},
+	{"value":"mitochondrial genetics"},
+	{"value":"mitokondrio-DNA"},
+	{"value":"Picea abies"},
+	{"value":"latvus"},
+	{"value":"growth rate"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000745",
+	"dct:identifier":"FI2016000745",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

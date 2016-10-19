@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ATRIBUTOS TECNOLÓGICOS, STAND E PRODUTIVIDADE DA CANA-PLANTA CORRELACIONADOS COM ASPECTOS DA FERTILIDADE DO SOLO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":75,
+	"bibo:volume":1,
+	"bibo:pageEnd":91,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00037",
+	"dct:identifier":"BR2016H00037",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-12",
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/255",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vinicius Alves"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rafael Montanari"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Morel de Passos e Carvalho"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adriany Rodrigues Correa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cassiano Garcia Roque"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A agricultura de precisão, que pode ser aplicada em qualquer etapa da produção de cana-de-açúcar, visa proporcionar maior produtividade, redução do impacto ambiental e melhor rendimento econômico pela aplicação correta dos insumos agrícolas. Objetivou-se com este trabalho caracterizar as zonas específicas de manejo do solo, empregando-se correlações lineares e espaciais entre atributos da cultura da cana-de-açúcar e atributos químicos de um Latossolo Vermelho-Amarelo distrófico, no sentido de indicar aquele que mais eficientemente esteja relacionado com o aumento da produtividade. O trabalho foi desenvolvido no ano agrícola de 2012/13, no município de Chapadão do Céu, Goiás, Brasil. Foram analisadas as correlações lineares e espaciais entre atributos da cana-de-açúcar e de alguns atributos químicos do solo, em duas profundidades (0-0,25 e 0,25-0,50 m). Para isso, foi instalado um grid geoestatístico (230 m x 228 m; 5,244 ha), onde foram alocados 121 pontos amostrais para coleta dos dados. Portanto, com o aumento do número de plantas por metro quadrado ocorreu também o aumento da produtividade de colmos de cana-de-açúcar. Os teores de fósforo do solo, por evidenciarem correlações lineares e espaciais com a produtividade de colmos, constituíram-se indicadores de zonas específicas de manejo do solo fortemente associadas à produtividade da cana-de-açúcar.",
+	"xml:lang":"por"
+	}
+	}}

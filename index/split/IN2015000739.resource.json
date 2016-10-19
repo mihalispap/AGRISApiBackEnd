@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Agro-economic evaluation of different weed control methods in rubber plantation",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":380,
+	"dc:subject":[
+		{"value":"rubber plantation"},
+	{"value":"cost of weed control"},
+	{"value":"weed regeneration"},
+	{"value":"control methods",
+	"xml:lang":"eng"
+	},
+	{"value":"desherbage",
+	"xml:lang":"fre"
+	},
+	{"value":"escarda",
+	"xml:lang":"esp"
+	},
+	{"value":"methode de lutte",
+	"xml:lang":"fre"
+	},
+	{"value":"weed control",
+	"xml:lang":"eng"
+	},
+	{"value":"metodos de control",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":-383,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000739",
+	"dct:identifier":"IN2015000739",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Phebe Joseph"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jessy, M.D."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The selection of the most suitable method of weed control has an important role in the efficient and economical control of weeds in rubber plantations. A comparative evaluation of work capacity, energy consumption, cost of operation and rate of weed regeneration (efficiency of weed control) of different weed control methods were studied in a field experiment at the Central Experiment Station of the Rubber Research Institute of India, Chethackal, Central Kerala. The weeding methods included slashing of weeds with sickle (manual weeding), spraying of herbicide (glyphosate 2 L ha-1) and mechanical weeding by weed cutters. The results of the study revealed that there was significant difference in work capacity, energy consumption, cost of operation and rate of regeneration of weeds among different weed control methods.The highest work capacity of 16 h ha-1  was observed in the mechanical weed control whereas the energy consumption (38.03 MJ ha-1) and rate of regeneration of weeds were the lowest in chemical weed control method. Compared to manual weeding, the cost comparison of different weed control methods showed that the weeding cost can be reduced by 65 and 75 per cent by chemical and mechanical weed control methods respectively. Considering the long term sustainability, environmental factors, scarcity of labourers and economics, mechanical weed control by weed cutters is the most suitable method for weed control in rubber plantations.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Carbon dioxide and photosynthetic photon flux density effects on growth and mineral uptake of cacao /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Baligar, V. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bunce, J. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bailey, B. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Machado, R. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pomella, A. W. V.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"juuri"},
+	{"value":"roots"},
+	{"value":"verso"},
+	{"value":"lehti"},
+	{"value":"carbon dioxide"},
+	{"value":"nutrients"},
+	{"value":"Theobroma cacao"},
+	{"value":"kasvu"},
+	{"value":"fotosynteesi"},
+	{"value":"hiilidioksidi"},
+	{"value":"ravinteiden otto"},
+	{"value":"shoots"},
+	{"value":"leaf area"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001835",
+	"dct:identifier":"FI2016001835",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"UMIDADE DE EQUILÍBRIO EM MADEIRA TERMORRETIFICADA DE CUPIÚBA DA REGIÃO AMAZÔNICA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":99,
+	"bibo:volume":5,
+	"bibo:pageEnd":104,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00198",
+	"dct:identifier":"BR2015N00198",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1161",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fábio Pereira dos Anjos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adriano Marlisom Leão de Sousa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal Rural da Amazônia"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 7.0pt; mso-bidi-font-family: TwCenMT-Regular;\">O tratamento térmico promove menor umidade de equilíbrio em madeiras, trazendo melhorias em suas propriedades físicas e tecnológicas, bem como reduzindo a higroscopicidade e melhorando sua estabilidade dimensional. O objetivo deste estudo foi analisar a curva de ganho de umidade e o teor de equilíbrio higroscópico sofrido entre as amostras de madeira termorretificadas da espécie </span><em><span style=\"font-size: 7.0pt; mso-bidi-font-family: \";TwCenMT-Regular\,Italic\";;\">Goupia glabra </span></em><span style=\"font-size: 7.0pt; mso-bidi-font-family: TwCenMT-Regular;\">Aubl. (cupiúba). Foram testadas temperaturas de 140 °C, 160 °C e 180 °C durante três horas de tempo, em corpos-de-prova de dimensões de 2x3x5cm, estabeleceu-se 15 corpos-de-prova para cada tratamento. Antes da termorretificação as amostras foram submetidas à sala climatizada calibrada em 12% de umidade de equilíbrio higroscópico, após termorretificadas as amostras retornaram à sala com calibração de 18% de equilíbrio higroscópico para fins de ganho de umidade. Observou-se curva de ganho de umidade crescente na condição de 18% de equilíbrio higroscópico após o processo de termorretificação, sendo que as testemunhas absorveram menos umidade dos que as amostras termo tratadas, porém as amostras submetidas a 180°C absorveram menos umidade do que as de 160 e 140°C, por conta da perda de constituintes hidrófilos. Na mesma condição observou-se que a umidade de equilíbrio dos corpos-deprova foi maior nas testemunhas, seguidas das temperaturas de 140, 160 e 180 °C respectivamente. Contudo o experimento demonstra que o teor de equilíbrio higroscópico e curva de ganho de umidade influenciaram na redução da higroscopicidade do material madeireiro analisado.</span><p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><strong><span style=\"font-size: 7.0pt; mso-bidi-font-family: \";TwCenMT-Regular\,Bold\";;\">Palavras-chave: </span></strong><span style=\"font-size: 7pt;\">tratamento térmico, higroscopicidade, dessorção, adsorção.</span><!--[endif] -->",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"PCR-RFLP and nucleotide sequencing of mx1 gene in chicken",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":718,
+	"dc:subject":[
+		{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"polimorfismo",
+	"xml:lang":"esp"
+	},
+	{"value":"polymorphism",
+	"xml:lang":"eng"
+	},
+	{"value":"rflp",
+	"xml:lang":"esp"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"polymorphisme",
+	"xml:lang":"fre"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":722,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000142",
+	"dct:identifier":"IN2015000142",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mishra, Chinmoy"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, Dharmeswar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pushpendra Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Arjava"
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"Mx1 gene is an interferon induced gene which inhibits the proliferation of single stranded RNA viruses including influenza virus. Single nucleotide polymorphism in the Mx1 gene was reported to be associated with resistance to influenza virus. However, the indigenous breeds of India are not screened for Mx1 gene previously. In the present investigation partial intron 13 and partial exon 14 of Mx1 gene was studied using PCR-RFLP technique in 153 Aseel breed of chicken. A 100 bp PCR amplified products were digested with Rsa I restriction enzyme which revealed 2 genotypes (RS and SS) and 2 different alleles (R and S). The RR genotype could not be found in this population. The genotype frequency was 0.655 and 0.345 for RS and SS genotypes and 0.33 and 0.67 for R and S alleles, respectively. PCR product of both the alleles were sequenced and submitted to NCBI GenBank data. The analysis of sequence data by DNASTAR programme revealed differences at one (72nd) position in 100 bp fragment. There is an urgent need of wide search for detection of polymorphism in Mx1 gene of chicken and its possible association with the traits of economic importance.",
+	"xml:lang":"eng"
+	}
+	}}

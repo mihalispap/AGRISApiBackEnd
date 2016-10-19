@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A rapid and simple chitinase assay to screen tea genotypes for resistance against blister blight",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":210,
+	"dc:subject":[
+		{"value":"chitine",
+	"xml:lang":"fre"
+	},
+	{"value":"te",
+	"xml:lang":"esp"
+	},
+	{"value":"chitin",
+	"xml:lang":"eng"
+	},
+	{"value":"chitinase",
+	"xml:lang":"fre"
+	},
+	{"value":"the",
+	"xml:lang":"fre"
+	},
+	{"value":"quitina",
+	"xml:lang":"esp"
+	},
+	{"value":"tea",
+	"xml:lang":"eng"
+	},
+	{"value":"quitinasa",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":214,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000819",
+	"dct:identifier":"IN2015000819",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nisha, S.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prabu, G.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal,  A.K.A."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of barley grinding method and sodium polyacrylate supplement in the diet on the performance and stomach ulcer development of growing finishing pigs /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Alaviuhkola, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hautala, Marja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suomi, Kaija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vuorenmaa, Juhani.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lihasika"},
+	{"value":"feed additives"},
+	{"value":"jauhatus"},
+	{"value":"rehujen lisäaineet"},
+	{"value":"ruokintakokeet"},
+	{"value":"eläintaudit"},
+	{"value":"ruoansulatuselinten taudit"},
+	{"value":"digestive system diseases"},
+	{"value":"animal diseases"},
+	{"value":"feed conversion efficiency"},
+	{"value":"barley"},
+	{"value":"ohra"},
+	{"value":"natriumpolyakrylaatti"},
+	{"value":"feed processing"},
+	{"value":"swine"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001219",
+	"dct:identifier":"FI2016001219",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

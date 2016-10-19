@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Structural characteristics of a Brachiaria decumbens Stapf cv. Basilisk pasture under nitrogen doses",
+	"xml:lang":"eng"
+	},
+	{"value":"   Características estruturais de uma pastagem de Brachiaria decumbens Stapf cv. Basilisk sob doses de nitrogênio ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"leaf area index",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"herbage crops",
+	"xml:lang":"eng"
+	},
+	{"value":"leaf area",
+	"xml:lang":"eng"
+	},
+	{"value":"tillering",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02365",
+	"dct:identifier":"BR2015F02365",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1403618184.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"VITOR,  C. M. T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, P. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VILELA, S.D.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LEONEL, F. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERNANDES, C.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALMEIDA, G.O."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Vários estudos têm demonstrado resposta acentuada das forrageiras tropicais a doses de adubação nitrogenada. Dessa maneira objetivou-se avaliar o perfilhamento, a relação lâmina:colmo, o índice de área foliar e o acúmulo de forragem da Brachiaria decumbens Stapf cv. Basilisk em função de doses de nitrogênio (0, 100, 200 e 400 kg/ha) utilizando uréia parcelada em três aplicações. O delineamento experimental utilizado foi o inteiramente casualizado com três repetições. A adubação nitrogenada aumentou o número de perfilhos vivos e mortos, o índice de área foliar e a taxa de acúmulo de forragem do capim-braquiária, devendo assim ser utilizada como opção de manejo.",
+	"xml:lang":"por"
+	},
+	{"value":"Several studies have shown marked response of nitrogen increasing fertilization doses of tropical pastures. Tillering, leaf:stem ratio, leaf area index and accumulated forage of Brachiaria decumbens Stapf cv. Basilisk, under nitrogen increasing doses condition (0, 100, 200 and 400 kg/ha) using urea in three applications, were evaluated. The experiment design was a completely randomized with three replications. Nitrogen fertilization increased the number of tillers, leaf area index and herbage accumulation rate of signal grass and should therefore be used as a management option.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

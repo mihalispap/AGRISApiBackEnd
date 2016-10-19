@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of extenders on preservability of chilled beetal buck semen",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":138,
+	"dc:subject":[
+		{"value":"conservacion del semen",
+	"xml:lang":"esp"
+	},
+	{"value":"conservation du sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"semen",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"semen preservation",
+	"xml:lang":"eng"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":140,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000385",
+	"dct:identifier":"IN2015000385",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Borah, B.K.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka, B.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nath, K.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Biswas, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarmah, B.C."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Twenty-five ejaculates (five from each of five Beetal bucks) were used to study the preservability of Beetal buck semen in three extenders viz., Tris, Tes-Tris and Egg yolk phosphate. The mean sperm motility and live sperm at 72 h of preservation at 5Â°C in Tris, Tes-Tris and Egg yolk phosphate extenders were 59.60Â±1.44 and 67.64Â±1.62, 57.40Â±1.39 and 64.46Â±1.50, 53.00Â±1.19 and 61.88Â±1.58%, respectively. The interaction between extender and hour of preservation was not significant. The mean per cent sperm motility was significantly (P0.01) higher in Tris and Tes-Tris than in Egg yolk phosphate extender and the mean per cent live sperm was significantly (P0.01) higher in Tris than Tes-Tris and Egg yolk phosphate extender. It is concluded that Tris extender is superior to Tes-Tris and Egg Yolk phosphate extender for preservation of Beetal buck semen at 5Â°C under the agro-climatic conditions of Assam.",
+	"xml:lang":"eng"
+	}
+	}}

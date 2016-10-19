@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Molecular investigation of the influence of oral fed Lactobacillus reuteri on the gut microbiota of HIV-infected infants : a pilot study.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Handschur, Michael.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Reid, Sharon J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abratt, Valerie.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haslberger, Alexander G.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lactic acid bacteria"},
+	{"value":"immune system"},
+	{"value":"HIV infections"},
+	{"value":"intestinal flora"},
+	{"value":"human diseases"},
+	{"value":"probiotics"},
+	{"value":"diarrhoea"},
+	{"value":"infants"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000166",
+	"dct:identifier":"FI2016000166",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

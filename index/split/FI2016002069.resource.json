@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Spectrophotometric quantification of absorbic acid contents of fruit and vegetables using the 2,4-dinitrophenylhydrazine method.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Al-Ani, Majeed.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Opara, Linus U.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Bahri, Dalila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Rahbi, Nadia.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"spectrophotometry"},
+	{"value":"ascorbic acid"},
+	{"value":"fruits"},
+	{"value":"analytical methods"},
+	{"value":"vegetables"},
+	{"value":"chemical composition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002069",
+	"dct:identifier":"FI2016002069",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

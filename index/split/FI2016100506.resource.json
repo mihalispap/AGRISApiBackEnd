@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a8.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Plant and soil nitrogen indicators and performance of tomato grown at different nitrogen fertilization levels"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Montemurro, Francesco (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maiorana, Michele (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lacertosa, Giovanni (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100506",
+	"dct:identifier":"FI2016100506",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This research was aimed to determine the relationship between some nitrogen (N) indicators (plant N status and soil characteristics) and yield and quality of tomato (Lycopersicon esculentum Mill.) cropped in a winter greenhouse. Therefore, it was studied the possibility: i) to evaluate the potential of the indicators as a tool to predict plant yields; ii) to avoid salt accumulation in the soil and nitrate pollution; iii) to find the best N fertilization rate and application time. The experiment was carried out in Mediterranean environment in a complete randomized block experimental design with four replications. Based on different conductivities of irrigation water, two extreme N fertilizing levels (unfertilized control and N 500 kg ha-1) were compared with a treatment at low environmental impact (N 100 kg ha-1). Plant characteristics (number of both flowers and fruits setting, fruits maturity), soil parameters (nitrate content, electrical conductivity, pH) and plant N status (petiole nitrate concentration, leaf SPAD readings) were recorded during the tomato cropping cycle. At harvest, yields (total, marketable, green and overripe) and fruit quality (morphological and chemical parameters) were determined. The results highlighted that petiole nitrate concentration, nitrate content and electrical conductivity of the soil can be considered reliable diagnostic indicators to develop a recommended N level in greenhouse tomato crops. No significant difference among treatments was found in SPAD readings, due to the specific conditions of greenhouse (low daylight). Nitrate content and electrical conductivity in the soil were significantly greater in the highest N fertilization level during the whole growing cycle and at final harvest (13.7 and 3.7 times the unfertilized control, respectively), indicating that a share of N fertilizer remained in the soil, with a possible accumulation or leaching. Conversely, the lower N fertilization treatment showed no significant difference in soil nitrate and only a slight increase in electrical conductivity in respect to the control. No significant yielding difference was found between the two N fertilization treatments, but they showed an increase of about 17% in total yield, compared to unfertilized treatment. The results of this research pointed out that the treatment with N 100 kg ha-1 seems to allow a good balance among productivity, quality, plant nitrate utilization and pollution risks."}
+	}}

@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Transport behavior of entomopathogenic nematodes, Steinernema carpocapsae, in nursery field soils.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Dennis, Sam O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harrison, Robert E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tsegaye, Teferi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aburime, Sunnie A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"entomophilic nematodes"},
+	{"value":"grubs"},
+	{"value":"biological control"},
+	{"value":"pests of plants"},
+	{"value":"pest insects"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002152",
+	"dct:identifier":"FI2016002152",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of genotypes, cultural practices and growing location on Phytophthora fruit rot and yield of Tomato in participatory approach",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":374,
+	"dc:subject":[
+		{"value":"metodos de cultivo",
+	"xml:lang":"esp"
+	},
+	{"value":"phytophthora",
+	"xml:lang":"esp"
+	},
+	{"value":"mode de culture",
+	"xml:lang":"fre"
+	},
+	{"value":"lycopersicon esculentum",
+	"xml:lang":"esp"
+	},
+	{"value":"cultural methods",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":377,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000528",
+	"dct:identifier":"IN2015000528",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, H.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Satyapriya"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Performance of tomato varieties and cultural practices at different climatic variable locations were evaluated for most devastating tomato disease phytophthora fruit rot in farmer participatory approach in district Poonch of Jammu. It was observed that among four tomato varieties DRT-1 gave significantly higher fruit yield (451q/ha) with minimum disease at foliar stage (PDI 8.1) and fruit rot % (6.5). Punjab Keshri showed maximum disease (PDI 68.2 and 23.6% fruit rot) with yield of 238.5 q/ha. Among cultural practices, staking markedly reduced disease development at both foliar (PDI 21.0) and fruit rot (13.8%) with mean higher fruit yield (390.34 q/ha). Higher mean fruit yield 376.16 q/ha was recorded at mid hill location while lower fruit rot incidence (12.6%) at temperate location.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"New distributional record of red palm weevil, Rhynchophorus ferrugineus (Olivier) infesting arecanut in Assam, India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":258,
+	"dc:subject":[
+		{"value":"arecanut,red palm weevil"},
+	{"value":"assam",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":260,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000649",
+	"dct:identifier":"IN2015000649",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Himadri Rabha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ranjana Chakrabarty"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Acharya, G.C"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

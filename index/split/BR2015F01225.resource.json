@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   características de carcaça e cortes cárneos comerciais em bovinos Zebu e Caracu "},
+	{"value":"Relation ships among biometric measurements, carcass traits and meat commercial cuts in Zebu and Caracu bulls",
+	"xml:lang":"eng"
+	},
+	{"value":"   Relações entre medidas biométricas ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"measurement",
+	"xml:lang":"eng"
+	},
+	{"value":"beef cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"carcasses",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"69/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01225",
+	"dct:identifier":"BR2015F01225",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1355399368.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"CYRILLO,  J. N. S. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NARDON,   R. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MERCADANTE,  M. E. Z."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BONILHA,  S. F. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ARNANDES,  R. H. B"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Em três anos consecutivos foram analisados registros de 144 bovinos machos das raças zebuínas Nelore, Guzerá e da raça Caracu, selecionados para peso pós-desmame, terminados em confinamento e abatidos com idade média de 19 meses, em três diferentes graus de maturidade. A análise multivariada (MANOVA) foi utilizada com o objetivo de estimar as correlações residuais entre medidas corporais e características de carcaça. O modelo de ajuste incluiu os efeitos de grupos genéticos, ordem de abate e ano de nascimento. O coeficiente de correlação entre a altura na garupa e peso de carcaça foi de 0,37, sendo antagônico à quantidade de gordura renal (-0,14). Altos coeficientes de correlação foram estimados entre perímetro torácico e peso de carcaça (0,77), paleta (0,57) e acém (0,67) e correlações positivas foram estimadas entre perímetro torácico e gordura renal (0,38) e gordura na carcaça (0,52). O coeficiente de correlação estimado entre comprimento do corpo e peso de carcaça foi 0,38. Os coeficientes de correlação estimados entre comprimento do dorso, comprimento da garupa e distância entre ísquios e todos os cortes cárneos comerciais analisados variaram de 0,24 a 0,56. Além de peso vivo, o perímetro torácico e a distância entre os íleos podem ser considerados auxiliares na avaliação de características de carcaça de bovinos Zebu e Caracu. As outras medidas corporais analisadas resultaram em baixa ou nula correlação com características de carcaça.",
+	"xml:lang":"por"
+	},
+	{"value":"During three consecutive years a total of 144 bull records from the Zebu breeds Nellore, Guzerah and Caracu breed, selected for post-weaning weight, finished in feedlot and slaughtered at an average age of 19 months, with three different degrees of maturity, were analyzed. Multivariate procedure (MANOVA) was used to estimate the residual correlations between body measurements and carcass traits. The model fitted the effects of genetic groups, order of slaughter and year of birth. Correlation coefficient between hip height and carcass weight was 0.37, antagonistic to the amount of kidney fat (-0.14). High correlation coefficients were estimated between chest girth and carcass weight (0.77), blade (0.57), and chuck (0.67) and positive correlations were estimated between chest girth and kidney fat (0.38) and carcass fat (0.52). The estimated correlation coefficient between body length and carcass weight was 0.38. Correlation coefficients between dorsal line length, rump length and distance among pin bones and all the meat cuts of commercial interest analyzed ranged from 0.24 to 0.56. In addition to live body weight, chest girth and distances between hip bones can be considered an auxiliary tool for evaluation of carcass traits in Zebu and Caracu bulls. Other body measurements analyzed resulted in low or null relationship to carcass traits.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

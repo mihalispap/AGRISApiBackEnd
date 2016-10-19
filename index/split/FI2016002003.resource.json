@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Strategies of WECAMAN to promote the adoption of sustainable maize production technologies in West and Central Africa /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Badu-Apraku, Baffour.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fakorede, Dele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ajala, Samuel O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fontem, Lum.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maissi"},
+	{"value":"agricultural research"},
+	{"value":"maatalous"},
+	{"value":"kasvintuotanto"},
+	{"value":"agriculture"},
+	{"value":"Central Africa"},
+	{"value":"kestävä kehitys"},
+	{"value":"agricultural extension"},
+	{"value":"plant production"},
+	{"value":"tutkimus"},
+	{"value":"West Africa"},
+	{"value":"farmers"},
+	{"value":"verkostoituminen"},
+	{"value":"neuvonta"},
+	{"value":"sustainability"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002003",
+	"dct:identifier":"FI2016002003",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n4p302.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Wilting and inoculation of Lactobacillus buchneri on intercropped triticale-fava silage: effects on nutritive, fermentative and aerobic stability characteristics.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Martínez-Fernádez, Adela.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Soldado, Ana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vicento, Fernando.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Martínez, Antonio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    de la Roza-Delgado, Begoña
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Lactobacillus buchneri"},
+	{"value":"fermented products"},
+	{"value":"wilting"},
+	{"value":"silage making"},
+	{"value":"fermentation"},
+	{"value":"nutritive value"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001457",
+	"dct:identifier":"FI2016001457",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

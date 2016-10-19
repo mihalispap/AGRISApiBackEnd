@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Theories of regional development and their relevance to the forest sector.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tykkyläinen, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyttinen, Pentti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mononen, Ari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rakennemuutos"},
+	{"value":"geography"},
+	{"value":"maantiede"},
+	{"value":"regional development"},
+	{"value":"structural change"},
+	{"value":"aluekehitys"},
+	{"value":"forest policies"},
+	{"value":"metsäekonomia"},
+	{"value":"economics"},
+	{"value":"rural communities"},
+	{"value":"metsäpolitiikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000895",
+	"dct:identifier":"FI2016000895",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of production traits in Nili-Ravi buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1231,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"desempeno animal",
+	"xml:lang":"esp"
+	},
+	{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"rendimiento lechero",
+	"xml:lang":"esp"
+	},
+	{"value":"performance animale",
+	"xml:lang":"fre"
+	},
+	{"value":"rendement laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"heritability",
+	"xml:lang":"eng"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"heritabilite",
+	"xml:lang":"fre"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"heredabilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"animal performance",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1238,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000329",
+	"dct:identifier":"IN2015000329",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, T.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, K.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deb, S.M."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"The data on production performance of 1479 Nili Ravi buffaloes, born out of 86 sires, spread over from 1990 to 2006, were analyzed to estimate the effects of sire, parity, season, period and sex of calf using mixed model. Effects of sire, parity, season and period were significantly contributing to the variation in most of the production traits. The estimates of heritability and repeatability of production traits were low. The phenotypic and genetic trends ranged from -4.92 days (LL) to 17.19 kg (305 MY) and -46.39 kg (TLMY) to 4.24 days (LL), respectively. The phenotypic and genetic correlations ranged from â0.152 to 1.0 and â0.061 to 0.909, respectively. The endeavour to conserve this breed and to produce Nili Ravi bulls to inseminate female Nili Ravi population in their home tract is in right direction. These findings will help to plan better breeding programme for Nili Ravi buffaloes in India.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Morpho-physiological evaluation and RAPD markers-assisted characterization of date palm (Phoenix dactylifera L.) varieties for salinity tolerance.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kurup, S. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hedar, Y. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Dhaheri, M. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    El-Heawiety, A. Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aly, M. A. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alhadrami, G.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"salt tolerance"},
+	{"value":"photosynthesis"},
+	{"value":"polymorphism"},
+	{"value":"varieties"},
+	{"value":"dates"},
+	{"value":"plant morphology"},
+	{"value":"pigments"},
+	{"value":"DNA"},
+	{"value":"plant introduction"},
+	{"value":"genetic diversity"},
+	{"value":"salinity"},
+	{"value":"leaves"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000048",
+	"dct:identifier":"FI2016000048",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

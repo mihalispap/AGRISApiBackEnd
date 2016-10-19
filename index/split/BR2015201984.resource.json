@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Temperature seedling emergence of four papaya cultivars",
+	"xml:lang":"eng"
+	},
+	{"value":"   Temperatura na emergência de quatro variedades de mamoeiro ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"seed",
+	"xml:lang":"eng"
+	},
+	{"value":"plant propagation",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"4/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015201984",
+	"dct:identifier":"BR2015201984",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/272/211",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Andrade Renata"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jasper Samir"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual Paulista"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"This research was realized to check the response of four varieties of papaya for emergence at different temperatures. The experiment was conducted at UNESP, Campus of Jaboticabal city, São Paulo state, Brazil, using seeds of four varieties of papaya, two of the group Solo (Sunrise Solo722 and Golden) and two of the group Formosa (Rubi Incaper 511 and Calimosa), submitted to four temperatures: constant at 20oC, 25oC, 30oC and alternating 20/30oC (8 hours at 30oC and the remainder at 20oC), with a photoperiod of 8 hours of light/day. The study was conducted in factorial 4 x 4 (four varieties of papaya and four temperatures), using a completely randomized design with four replicates per treatment and 20 seeds in each. The percentage of emergence was evaluated weekly and the data were subjected to analysis of variance and comparison of means by Tukey test at 5% probability. The results showed that the highest percentage of emergency occurs in alternating temperatures (20/30oC) and the varieties of the group Solo also emerge satisfactorily at temperatures of 25oC and 30oC constant.",
+	"xml:lang":"eng"
+	},
+	{"value":"O trabalho foi realizado com o objetivo de avaliar a resposta de quatro variedades de mamoeiro quanto à emergência em diferentes temperaturas. O experimento foi realizado no Laboratório de Sementes Frutíferas do Departamento de Produção Vegetal, Faculdade de Ciências Agrárias e Veterinárias/UNESP – Campus de Jaboticabal, utilizando-se sementes de quatro variedades de mamoeiro, sendo duas do grupo Solo (Sunrise Solo 722 e Golden) e duas do grupo Formosa (Rubi Incaper 511 e Calimosa), que foram submetidas a quatro temperaturas: constante a 20ºC, 25ºC,30ºC e alternada 20/30ºC (8 horas a 30ºC e o restante a 20ºC), em fotoperíodo de 8 horas de luz/dia. O trabalho foi conduzido em esquema fatorial 4 x 4 (quatro variedades de mamoeiro e quatro temperaturas), em delineamento inteiramente casualizado, com quatro repetições por tratamento e 20 sementes em cada. A porcentagem de emergência foi avaliada semanalmente e os dados foram submetidos à análise de variância e comparação de médias pelo Teste de Tukey a 5% de probabilidade. A maior porcentagem de emergência ocorre em temperatura alternada(20/30ºC) e as variedades do grupo Solo emergem satisfatoriamente em temperaturas de 25ºC e 30ºC constantes.",
+	"xml:lang":"por"
+	}
+	]
+	}}

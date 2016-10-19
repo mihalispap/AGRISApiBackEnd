@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of enterovirulent E. coli (EVEC) with other bacterial enteropathogens isolated from diarrhoeal specimens in Jos hospitals, Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ngbede, J. E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jideani, I. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agbo, E. B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100095",
+	"dct:identifier":"FI2016100095",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The place of enterovirulent Escherichia coli in relation with other enteropathogenic bacteria in diarrhoeal disease in Jos hospitals was investigated. Faecal specimens from 850 diarrhoeal patients and 200 non-diarrhoeal (control) patients were investigated for 2 years. In this prospective study, three enterovirulent E. coli (EVEC) were identified: (enterotoxigenic E. coli (ETEC), enteropathogenic E. coli (EPEC) and enterohaemorrhagic E. coli (EHEC). ETEC and EPEC were identified by polyvalent and monovalent antisera. EHEC serotype was identified by culture on sorbitol MacConkey agar, latex agglutination and immobilization test in semi-solid agar containing E. coli 0157:H7 flagella antiserum. Of diarrhoeal patients 26 (3.1%) and none from control patients were infected with E. coli 0157:H7. ETEC strains were harboured in 48 (5.6%) diarrhoeal patients and from non-diarrhoeal patients 9 (4.5%) also harboured ETEC strains. EPEC strains were identified from 31 (3.6%) diarrhoeal patients while 5 (2.5%) of the control patients also harboured EPEC strains. ETEC strains were the most frequently identified enteric pathogens in this study and accounting for 5.6% of the diarrhoeal cases, followed by Salmonella spp., (4.9%) and EPEC (3.6%). The frequencies of other enteropathogens from diarrhoeal cases were: EHEC (3.1%), Shigella spp. (1.8%), Y. enterocolitica (0.6%) and Campylobacter coli (0.5%). Campylobacter jejuni was detected from 1.3% of diarrhoeal patients and 0.5% from non-diarrhoeal patients. This study revealed the significance of enterovirulent E. coli in diarrhoeal disease among the indigenous population visiting hospitals in Jos for diarrhoeal illness."}
+	}}

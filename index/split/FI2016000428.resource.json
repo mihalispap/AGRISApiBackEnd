@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Protein quality evaluation and hematological parameters of rats fed complementary diets.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Onabanjo, O. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maziya-Dixon, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oguntona, C. R. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dixon, A. G. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"laboratory animals"},
+	{"value":"tapioca"},
+	{"value":"haematology"},
+	{"value":"diet"},
+	{"value":"cassava"},
+	{"value":"animal models"},
+	{"value":"protein quality"},
+	{"value":"malnutrition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000428",
+	"dct:identifier":"FI2016000428",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

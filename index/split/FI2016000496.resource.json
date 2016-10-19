@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of insecticide spraying regimes and cultivar on insect pests and yield of cowpea in the dry savannas of north-eastern Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kamara, A. Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chikoye, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Omoigui, L. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dugje, I. Y.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"insecticides"},
+	{"value":"varieties"},
+	{"value":"Maruca"},
+	{"value":"insect control"},
+	{"value":"cowpeas"},
+	{"value":"tuhohyönteiset"},
+	{"value":"pest resistance"},
+	{"value":"Niger"},
+	{"value":"Vigna unguiculata"},
+	{"value":"ripsiäiset"},
+	{"value":"torjunta"},
+	{"value":"lehmänpapu"},
+	{"value":"pest insects"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000496",
+	"dct:identifier":"FI2016000496",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Stump removal to control root rot in forest stands : a literature study /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vasaitis, Rimvydas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stenlid, Jan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Thomsen, Iben M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Barklund, Pia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dahlberg, Anders.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Phellinus weirii"},
+	{"value":"kasvu"},
+	{"value":"puusto"},
+	{"value":"biopolttoaineet"},
+	{"value":"Heterobasidion"},
+	{"value":"Armillaria"},
+	{"value":"biofuels"},
+	{"value":"forest disturbance"},
+	{"value":"stand growth"},
+	{"value":"Phellinus"},
+	{"value":"mesisienet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000975",
+	"dct:identifier":"FI2016000975",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

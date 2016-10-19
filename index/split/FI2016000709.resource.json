@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of satellite and field information in a forest damage survey of eastern Finnish Lapland in 1993.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Mattila, Eero.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"satelliitit"},
+	{"value":"metsätuhot"},
+	{"value":"Finland"},
+	{"value":"kenttätutkimus"},
+	{"value":"forest surveys"},
+	{"value":"forest pathology"},
+	{"value":"valtakunnan metsien inventointi"},
+	{"value":"kaukokartoitus"},
+	{"value":"metsävauriot"},
+	{"value":"remote sensing"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000709",
+	"dct:identifier":"FI2016000709",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Accumulation and translocation of sparingly soluble manure phosphorus in different types of soil after long-term excessive inputs /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uusitalo, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ylivainio, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Turtola, Eila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Arjo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lanta"},
+	{"value":"fosfori"},
+	{"value":"turkiseläinten lanta"},
+	{"value":"maaperä"},
+	{"value":"Finland"},
+	{"value":"furbearing animals"},
+	{"value":"organic fertilizers"},
+	{"value":"lannoitus"},
+	{"value":"phosphorus"},
+	{"value":"liukoisuus"},
+	{"value":"solubility"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000991",
+	"dct:identifier":"FI2016000991",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/8161/10199",
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of housing on the diurnal behavioural profile of beef heifers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hickey, Mary,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    French, Padraig,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moloney, Aidan,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lehmät"},
+	{"value":"animal behaviour"},
+	{"value":"animal housing"},
+	{"value":"grazing"},
+	{"value":"heifers"},
+	{"value":"ruokinta"},
+	{"value":"feeding"},
+	{"value":"kotieläinhoito"},
+	{"value":"hiehot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001420",
+	"dct:identifier":"FI2016001420",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Non-Genetic Factors Affecting First Lactation Reproductive Traits in Murrah buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":205,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"correlation genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"heredite",
+	"xml:lang":"fre"
+	},
+	{"value":"genetic inheritance",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic correlation",
+	"xml:lang":"eng"
+	},
+	{"value":"correlacion genetica",
+	"xml:lang":"esp"
+	},
+	{"value":"herencia genetica",
+	"xml:lang":"esp"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":207,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000426",
+	"dct:identifier":"IN2015000426",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Patil, C.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakravarty, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Vijay"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dongre, V.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Pankaj"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"In the present investigation, the effect of non genetic factors on performance of various first lactation reproduction traits in Murrah buffaloes has been studied. In this study 707 first lactation production records of Murrah buffaloes maintained at National Dairy Research Institute (NDRI), Karnal were collected and analysed. The present study revealed that the overall least-squares means for age at calving was estimated as 44.85 Â±0.13 months for first lactation in Murrah buffaloes. The overall least-squares means for First Service Period (FSP) was estimated as 161.65Â±4.60 days for first lactation in Murrah buffaloes. The overall least-squares means for number of services per conception (NS/C) was estimated as 1.92Â±0.75 days for first lactation in the present study. In Murrah buffaloes, the overall least-squares means for Waiting Period (WP) or days to first service (DFS) was estimated at 107.09 Â±3.40 days for first lactation in Murrah buffaloes.",
+	"xml:lang":"eng"
+	}
+	}}

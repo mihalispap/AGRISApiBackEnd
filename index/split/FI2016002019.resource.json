@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of sowing date and cultivar on yield and quality of turnip-rooted parsley (Petroselinum crispum ssp. tuberosum).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Petropoulos, Spiridon A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akoumianakis, Constantinos A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Passam, Harold C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"persilja"},
+	{"value":"Petroselinum crispum ssp. tuberosum"},
+	{"value":"sato"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"crop yield"},
+	{"value":"sowing date"},
+	{"value":"Petroselinum crispum"},
+	{"value":"parsley"},
+	{"value":"kylvöaika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002019",
+	"dct:identifier":"FI2016002019",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

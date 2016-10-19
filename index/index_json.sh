@@ -13,7 +13,7 @@ content="$(cat tmp)"
 
 #exit
 
-id="$(cat $1 | grep \"identifier\": | sed 's/\"identifier\":\{1,\}//' | sed 's/\"//' | sed 's/\s\{1,\}//' | sed 's/,//' | sed 's/"//')"
+id="$(cat $1 | grep \"dct:identifier\": | sed 's/\"dct:identifier\":\{1,\}//' | sed 's/\"//' | sed 's/\s\{1,\}//' | sed 's/,//' | sed 's/"//')"
 
 #appuri="$(cat $1 | grep \"appuri\": | sed 's/\"appuri\":\s\{1,\}//' | sed 's/\"//' | sed 's/\s\{1,\}//' | sed 's/,//' | sed 's/"//')"
 

@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of amplified fragment length polymorphism (AFLPs) analysis to plant breeding and genetics : procedures, applications and prospects.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sorkheh, K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shiran, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aranzana, M. J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohammadi, S. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Martinez-Gomez, P.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biotekniikka"},
+	{"value":"genetic engineering"},
+	{"value":"plant biotechnology"},
+	{"value":"DNA fingerprinting"},
+	{"value":"polymorphism"},
+	{"value":"jalostusmenetelmät"},
+	{"value":"genetic markers"},
+	{"value":"breeding methods"},
+	{"value":"plant breeding"},
+	{"value":"kasvinjalostus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001210",
+	"dct:identifier":"FI2016001210",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

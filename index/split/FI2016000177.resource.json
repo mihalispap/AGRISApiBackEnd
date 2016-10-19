@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n2p119.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Policy harmonized approach for the EU agricultural sector modelling.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Salputra, Guna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chantreuil, Frédéric.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hanrahan, Kevin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Donnellan, Trevor.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leeuwen, Myrna van .
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Erjavec, Emil.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"agricultural policies"},
+	{"value":"support measures"},
+	{"value":"maatalouden tukipolitiikka"},
+	{"value":"production policies"},
+	{"value":"maatalouspolitiikka"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"European union countries"},
+	{"value":"maataloustuotanto"},
+	{"value":"models"},
+	{"value":"EU-maat"},
+	{"value":"production economics"},
+	{"value":"subsidies"},
+	{"value":"CAP"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000177",
+	"dct:identifier":"FI2016000177",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

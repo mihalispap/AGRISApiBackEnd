@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:title":{"value":"Impact of Soil and Water Conservation Measures on Runoff and Sediment Environment in Wei River Basin",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"soil conservation",
+	"xml:lang":"eng"
+	},
+	{"value":"water conservation",
+	"xml:lang":"eng"
+	},
+	{"value":"runoff water",
+	"xml:lang":"eng"
+	},
+	{"value":"sedimentation",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513011",
+	"dct:identifier":"IN2016513011",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=7",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wang Hongjie"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gao Jianen"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wang Hong"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Liu Li"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The impact of the soil and water conservation measures in the process of river runoff and sediment discharge has caused wide attention. The Wei River, which has a serious water shortage and a high sediment concentration, was selected as the research watershed. Based on the measured data of rainfall, runoff and sediment, the statistical methods of wavelet analysis, Mann-Kendall test, and double cumulative curve were used to analyse the impact of soil and water conservation on runoff and sediment environment in Wei River Basin. The results showed that the river transported sediment increased during 1930s-1970s, and the average increasing rate was about 0.035×108 t/a. And the river transported sediment decreased after 1970s and the average decreasing rate was about 0.047×108 t/a. The relationship between water and sediment in Wei River Basin can be divided into two phases i.e., from 1940-1970s and after 1970s. From the 1940s to 1970s, there was less human activity, such as soil and water conservation, in the Wei River Basin, so the runoff and sediment yield changes were mainly affected by climate change. When the runoff was larger, the sediment load was larger and when the runoff was smaller, the sediment load was also smaller. After 1970s, large-scale measures of soil and water conservation were developed, which has great impact on soil erosion and sediment yield of basin and resulted in changing of laws between the runoff and sediment load. When the runoff was larger, the sediment load was smaller and when the runoff was smaller, the sediment load was also smaller, especially after 1997. It was concluded that the soil and water conservation play an important role in the reduction of the sediments of river. And when the comprehensive treatment reaches a certain level of governance, it has positive environmental benefits for both sediment and runoff.",
+	"xml:lang":"eng"
+	}
+	}}

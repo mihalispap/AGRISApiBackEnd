@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Alternative projections of the impacts of private investement on southern forests: a comparison of two large-scale forest sector models of the United States.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Alig, Ralph.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adams, Darius.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mills, John.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haynes, Richard.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ince, Peter.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moulton, Robert.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"puuntarjonta"},
+	{"value":"forests"},
+	{"value":"metsäsektori"},
+	{"value":"forecasting"},
+	{"value":"forest plantations"},
+	{"value":"viljelymetsät"},
+	{"value":"forestry"},
+	{"value":"investoinnit"},
+	{"value":"investment"},
+	{"value":"yksityismetsät"},
+	{"value":"models"},
+	{"value":"forest resources"},
+	{"value":"private ownership"},
+	{"value":"USA"},
+	{"value":"metsävarat"},
+	{"value":"mallit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001490",
+	"dct:identifier":"FI2016001490",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

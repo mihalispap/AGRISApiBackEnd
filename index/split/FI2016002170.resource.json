@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Total, soluble and insoluble oxalate content of bran and bran products.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Boontaganon, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jehanno, E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Savage, G. P.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rice"},
+	{"value":"cereal products"},
+	{"value":"wheats"},
+	{"value":"oxalates"},
+	{"value":"oats"},
+	{"value":"chemical composition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002170",
+	"dct:identifier":"FI2016002170",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

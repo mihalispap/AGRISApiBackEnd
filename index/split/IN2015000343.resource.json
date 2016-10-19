@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Jatropha (Jatropha curcas) Seed Cake as a Feed Ingredient in the Rations of Sheep",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":57,
+	"dc:subject":[
+		{"value":"jatropha",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"piensos",
+	"xml:lang":"esp"
+	},
+	{"value":"ingredient",
+	"xml:lang":"fre"
+	},
+	{"value":"feeds",
+	"xml:lang":"eng"
+	},
+	{"value":"ingredientes",
+	"xml:lang":"esp"
+	},
+	{"value":"aliment pour animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"jatropha curcas",
+	"xml:lang":"esp"
+	},
+	{"value":"ingredients",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":67,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000343",
+	"dct:identifier":"IN2015000343",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Elangovan A.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gowda, N.K.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Satyanarayana, M.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suganthi, R.U."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, S.B.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sridhar, Manpal"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was conducted to assess the detoxification of the commercially available jatropha cake and the feasibility of its use in the diet of lambs. The chemical processing of jatropha cake indicated 3% sodium hydroxide or sodium bicarbonate was effective in reducing the phorbol esters to the extent of 55% level and curcin completely. For experimental feeding, 36 Deccani lambs (BW 11.41Â±0.312 kg) of 46 months of age were randomly divided into six groups (six lambs in each group) and fed with three rations, viz., control (group 1, 2); raw jatropha cake (group 3, 4), and 3% sodium bicarbonate-treated jatropha cake (group 5, 6) both at 25% level in the concentrate mixture. The feeding of jatripha cake led to appearance of clinical signs, first observed on day 3 or 4, in terms of dullness, inappetence, diarrhoea, moaning and recumbency resulting in the mortality of lambs irrespective of treatment, and within 4â11 days of experimental feeding, there were eight mortalities. The blood biochemical parameters with respect to serum protein, alanine amino transferase, aspartate amino transferase and alkaline phosphatase were all significantly (P0.01) affected due to the jatropha-diets. The gross pathological changes indicated hydro-pericardium and enlargement of heart, congestion in kidney with apparently normal liver in lambs died within 6d of feeding, whereas, liver was dark, congested in lambs which died after 10d of feeding. The feeding of jatropha cake was discontinued after 11d of experimental feeding; mortality was completely checked after 13d. The lambs gradually improved from the dullness and depression to normal activity in about one month post-recovery period and no further mortality was recorded. The results indicated that the jatropha cake feeding should be carried out only after ensuring its complete detoxification.",
+	"xml:lang":"eng"
+	}
+	}}

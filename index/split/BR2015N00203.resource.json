@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"COMPOSIÇÃO FLORÍSTICA DE REMANESCENTES FLORESTAIS NA ÁREA DE INFLUÊNCIA DO RESERVATÓRIO DA USINA HIDRELÉTRICA (UHE) DE TUCURUÍ, PARÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":10,
+	"bibo:volume":5,
+	"bibo:pageEnd":17,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00203",
+	"dct:identifier":"BR2015N00203",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/981",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Waldemiro de Oliveira Rosa-Junior"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maria de Nazaré do Carmo Bastos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dario Dantas do Amaral"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cintia da Cunha Soares"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Empresa de Assistência Técnica e Extensão Rural do Pará - EMATER"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Museu Paraense Emílio Goeldi - MPEG"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto de Desenvolvimento Florestal do Estado do Pará - IDEFLOR"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 12.0pt; font-family: \";Tw Cen MT\";,sans-serif;\" A floresta amazônica, nos últimos anos, vem sofrendo com a perda de áreas frente ao avanço do desmatamento ligado às políticas de desenvolvimento da região. Desta forma, o trabalho teve como objetivos estudar a composição florística e a diversidade de remanescentes florestais na área de influencia do reservatório da UHE de Tucuruí e analisar seus padrões de semelhanças. Foram instaladas quatro parcelas de 100 m x 100 m (1 ha), divididas em 25 sub-parcelas de 20  m x 20 m, em cada sub-parcela, foram registrados todos os indivíduos com DAP ≥ 10 cm. A diversidade foi calculada através do Índice Shannon e Equabilidade de Pielou. A similaridade foi estimada através dos índices de Jaccard e Sorensen. Para os quatros hectares inventariados foram encontrado um total de 1.720 indivíduos, distribuídos em 49 famílias, 156 gêneros e 305 espécies. O número de famílias e espécies entre as parcelas variou de 32 a 43, e 76 a 156, respectivamente. Entre as famílias mais representativas em número de espécies Fabaceae e Mimosaceae apresentaram maior destaque no geral. Sapotaceae, Chrysobalanaceae e Lecythidaceae foram as mais representativas somente na parcela III. A parcela III apresentou o maior valor de diversidade (4,40) e parcela I o menor (3,55). Entre as parcelas os maiores valores de similaridade foram registrados para as I e II e os menores para I e III. Os resultados mostraram que os remanescentes estudados apresentaram diferenças com relação ao número de famílias e espécies, embora estes estejam inseridos na mesma matriz florística.</span><p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; text-align: justify;\"><strong><span style=\"font-size: 12.0pt; font-family: \";Tw Cen MT\";,sans-serif; mso-fareast-font-family: \";Times New Roman\";; mso-bidi-font-family: \";Times New Roman\";; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA;\" Palavras-chave:</span></strong><span style=\"font-size: 12.0pt; font-family: \";Tw Cen MT\";,sans-serif; mso-fareast-font-family: \";Times New Roman\";; mso-bidi-font-family: \";Times New Roman\";; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA;\"  florística, similaridade, diversidade.</span><!--[endif] -->",
+	"xml:lang":"por"
+	}
+	}}

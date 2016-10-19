@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Description of Changthangi Sheep of Ladakh",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":32,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"desempeno animal",
+	"xml:lang":"esp"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"performance animale",
+	"xml:lang":"fre"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"animal performance",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":40,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000182",
+	"dct:identifier":"IN2015000182",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ganai, T.A.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Misra, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheikh, F.D."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Changthangi sheep, locally known as Changluk, is a potential breed found in the Changthang area of Leh district of Jammu and Kashmir state. Changthangi sheep are seasonal breeders and the major breeding season is from July to December. This sheep is mainly reared by a nomadic tribe called Changpa alongwith pashmina producing Changthangi goat. The economy of Changpas is largely dependent on animal rearing. It is reared for multiple purposes (mutton, wool, pelt, manure and dung energy). The Changpas also use the pelts as clothing as well as flooring material, which keeps their tents warm in the freezing temperature. The study was conducted in 12 strata comprising of more than 40 villages and their adjoining areas distributed throughout the breeding tract of this sheep. The data were collected on climate of the breeding tract, managemental practices, physical characteristics, production and reproduction traits, carcass characteristics, disease incidence and mortality traits of Changthangi sheep breed. The population size was declining and their distribution was restricted mainly to Changthang area only. The coat colour was white but some black or brown were also found. The ears were pendulous. Both horned and polled animals are found. The tail is medium to short in length. The males were heavier than the females and superior in different body measurement traits. The average wool production was 1.42 kg. The information generated from the present study can be utilized for developing package of managemental practices, breeding plan and conservation initiatives for this unique sheep breed.",
+	"xml:lang":"eng"
+	}
+	}}

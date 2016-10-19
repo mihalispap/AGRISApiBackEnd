@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Consistency of technology adoption among farmers in Northern Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Adekoya, A. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Babaleye, T.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"governmental organizations"},
+	{"value":"groundnuts"},
+	{"value":"rice"},
+	{"value":"maize"},
+	{"value":"nongovernmental organizations"},
+	{"value":"cowpeas"},
+	{"value":"crop management"},
+	{"value":"technology transfer"},
+	{"value":"attitudes"},
+	{"value":"innovation adoption"},
+	{"value":"farmers"},
+	{"value":"participation"},
+	{"value":"sustainable development"},
+	{"value":"soybeans"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001050",
+	"dct:identifier":"FI2016001050",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of importance of sapwood senescence on tree growth using the model lignum.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sievänen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nikinmaa, Eero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Perttunen, Jari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"sapwood"},
+	{"value":"mallit"},
+	{"value":"kasvu"},
+	{"value":"kasvupaikka"},
+	{"value":"puun kasvu"},
+	{"value":"senescence"},
+	{"value":"pintapuu"},
+	{"value":"vanheneminen"},
+	{"value":"kasvumallit"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000884",
+	"dct:identifier":"FI2016000884",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

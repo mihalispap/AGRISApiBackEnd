@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Identifying and mapping soil fertility constraints for coconut in Coimbatore and Tiruppur districts of Tamil Nadu state,India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":348,
+	"dc:subject":[
+		{"value":"Constraints mapping"},
+	{"value":"coaccion",
+	"xml:lang":"esp"
+	},
+	{"value":"fertilite du sol",
+	"xml:lang":"fre"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"soil fertility",
+	"xml:lang":"eng"
+	},
+	{"value":"constraints",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"fertilidad del suelo",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"contrainte",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":357,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000878",
+	"dct:identifier":"IN2015000878",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Selvamani, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Duraisami, V.P."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The plantation crops like coconut being perennial in nature mine nutrients from limited volume of soil for a long time and hence, to sustain the high productivity, soil nutrients status should be monitored and have to be replenished. The present study was carried out to identify and map the soil fertility constraints for enabling site-specific nutrient management to enhance the productivity of soil. Study area was the coconut land cover of Coimbatore and Tiruppur districts of Tamil Nadu state. In this study, survey was carried out in the coconut plantations of these districts (73 sites in Coimbatore and 37 sites in Tiruppur) and soil samples were collected and analyzed for their physico-chemical and chemical properties. Using the analytical results thematic maps on soil fertility constraints were prepared. The developed maps showed that 62 and 30 per cent of soils of coconut land cover found to be in moderately alkaline and alkaline condition respectively. Around 96 per cent area was in non-saline condition. Organic carbon status was low in 65 per cent of the coconut land cover. Available N, P, and K were low in 65, 0.8 and 0.02 per cent area respectively and S was deficient in 0.05 per cent area.  Fe deficiency was recorded in 7 per cent of the area and there was no Mn deficiency in the study area. Available Zn, Cu and B were deficient in 89, 62 and 5 per cent area respectively.",
+	"xml:lang":"eng"
+	}
+	}}

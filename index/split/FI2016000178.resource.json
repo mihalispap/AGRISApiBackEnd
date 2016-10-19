@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"Vitality and height growth of two Larix species and provenances in a field trial located in north-west Russia.",
+	"xml:lang":"   "
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Fedorkov, Aleksey,
+    kirjoittaja.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Tree and stand measurement"},
+	{"value":"kasvukunto"},
+	{"value":"larix"},
+	{"value":"Larix sukazcewii"},
+	{"value":"provenance trials"},
+	{"value":"puusto"},
+	{"value":"tree condition"},
+	{"value":"provenienssi"},
+	{"value":"lehtikuuset"},
+	{"value":"korkeus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000178",
+	"dct:identifier":"FI2016000178",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

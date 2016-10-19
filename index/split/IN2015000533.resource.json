@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of yield loss and evaluation of Urdbean genotypes against Web blight",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":395,
+	"dc:subject":[
+		{"value":"yields",
+	"xml:lang":"eng"
+	},
+	{"value":"genotypes",
+	"xml:lang":"eng"
+	},
+	{"value":"genotype",
+	"xml:lang":"fre"
+	},
+	{"value":"rendimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"vigna mungo",
+	"xml:lang":"esp"
+	},
+	{"value":"rhizoctonia solani",
+	"xml:lang":"esp"
+	},
+	{"value":"rendement",
+	"xml:lang":"fre"
+	},
+	{"value":"genotipos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":397,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000533",
+	"dct:identifier":"IN2015000533",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Santosh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chand, Gireesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tripathi, H.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Amarandra"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Results revealed that with the increased levels of web blight severity, the corresponding yield decreased significantly. Per plant reduction in seed yield varied from 24.2 to 60.4% under resistant (grade 1) to highly susceptible (grade 9) in comparison to healthy control. On an average 35.6% reduction in seed yield were assessed on moderate level of susceptibility (grade 5) over healthy control. Out of 45 genotypes evaluated against web blight. IPU 8-18, KU 99-19, IPU 7-19, VBG 04- 008, OBG 31, IPU 94-1and IPU 05-13 showed highly resistant reaction with disease score 1. The genotypes viz., CU-5, SB 25-19 IVT, NDU 9-15, UH 4-06, Pant U 30, M 1-1, KUG 222, UL 416, UL 417, KKB 20055 and UH 04-65showed moderately resistant reaction with disease score 3.",
+	"xml:lang":"eng"
+	}
+	}}

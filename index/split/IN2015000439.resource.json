@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Knowledge level of farm women of Wayanad district, Kerala, about rabbit rearing",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":292,
+	"dc:subject":[
+		{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"kerala",
+	"xml:lang":"esp"
+	},
+	{"value":"femme",
+	"xml:lang":"fre"
+	},
+	{"value":"lapin (oryctolagus)",
+	"xml:lang":"fre"
+	},
+	{"value":"tecnicas de crianza",
+	"xml:lang":"esp"
+	},
+	{"value":"conejo (oryctolagus)",
+	"xml:lang":"esp"
+	},
+	{"value":"mujeres",
+	"xml:lang":"esp"
+	},
+	{"value":"rearing techniques",
+	"xml:lang":"eng"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"women",
+	"xml:lang":"eng"
+	},
+	{"value":"rabbits",
+	"xml:lang":"eng"
+	},
+	{"value":"technique d'elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":294,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000439",
+	"dct:identifier":"IN2015000439",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"George, P. Reeja"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dinesh, C.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rehna, Hassan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Simon, Shibu"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A study was conducted in Wayanad district of Kerala on the knowledge of farmwomen about rabbit rearing. Proportionate stratified random sampling was used to select 34 farm women who had been selected for loans to set up rabbit units in 2006 under the State Poverty Eradication Programme from the three taluks. Knowledge of rabbit farming was assessed by preparing an arbitrary knowledge test containing 26 items. It was found that most of the women had good knowledge regarding breeds and housing. But fewer women had correct knowledge about breeding, feeding and management of rabbits.",
+	"xml:lang":"eng"
+	}
+	}}

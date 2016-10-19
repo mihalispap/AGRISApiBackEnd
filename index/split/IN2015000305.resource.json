@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Clove Powder and Modified Atmosphere Packaging on Storage Quality of Chicken Meat Caruncles During Ambient Storage (35Â±2oC)conditions",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":51,
+	"dc:subject":[
+		{"value":"quality",
+	"xml:lang":"eng"
+	},
+	{"value":"calidad",
+	"xml:lang":"esp"
+	},
+	{"value":"almacenamiento atmosfera controlada",
+	"xml:lang":"esp"
+	},
+	{"value":"carne de aves",
+	"xml:lang":"esp"
+	},
+	{"value":"qualite",
+	"xml:lang":"fre"
+	},
+	{"value":"viande de volaille",
+	"xml:lang":"fre"
+	},
+	{"value":"stockage en atmosphere controlee",
+	"xml:lang":"fre"
+	},
+	{"value":"controlled atmosphere storage",
+	"xml:lang":"eng"
+	},
+	{"value":"poultry meat",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":11,
+	"bibo:pageEnd":55,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000305",
+	"dct:identifier":"IN2015000305",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_13ab7667"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Veterinary Public Health"},
+	"bibo:ISSN":{"value":"0972-7485"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sahoo, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chatli, M.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Biswas, A.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Chicken meat caruncles were prepared by utilizing 65% spent hen meat. Treated samples were added with 0.2% clove powder as natural preservative. These were packaged aerobically as well as under modified atmosphere conditions using 50:50 CO 2 /N 2  gas mixture and stored at 35Â±2 C and 70% RH for a storage period of 60 days. The physico-chemical and microbiological qualities were assessed on 0, 10, 20, 30, 40, 50 and 60 days. At beginning of the storage, modified atmosphere packaged control and treated samples showed significantly lower (P0.05) pH than aerobic samples but there was no significant difference between variants at the end of storage period. Free fatty acid (%) value was significantly lower (P0.05) in modified atmosphere packaged control and treated samples than aerobic counterparts (day 40). Clove treated both aerobic and modified atmosphere packaged samples showed significantly lower (P0.05) peroxide value than their control counterparts. Standard plate count was found to be significantly lower (P0.05) in treated aerobic and treated modified atmosphere packaged samples than their control counterparts throughout the storage period except day 20. Coliform count, S. aureus and yeast and mold count were not detected in any of the test sample throughout the storage. The present study showed that 0.2% clove powder and modified atmosphere packaging showed synergistic effect in terms of free fatty acid value but independent inhibitory action on peroxide value and standard plate count.",
+	"xml:lang":"eng"
+	}
+	}}

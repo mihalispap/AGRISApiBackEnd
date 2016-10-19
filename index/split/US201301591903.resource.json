@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Iron bioavailability and utilization in rats fed cassava-based complementary diets"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591903",
+	"dct:identifier":"US201301591903",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Onabanjo, Oluseye O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maziya-Dixon, Busie (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oguntona, Clara R.B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Olayiwola, Ibiyemi O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oguntona, Babatunde E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dixon, Alfred G.O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The study evaluated the iron bioavailability and utilization in rats fed cassava-based complementary diets. Bioavailability and utilization were determined in Sprague-Dawley rats using the iron balance and hemoglobin depletion-repletion methods in a 6 x 8 randomized block design. Rats were depleted by feeding them a low iron casein diet for 14 days. During the repletion period, the rats were fed four composite diets formulated using iron improved cassava varieties as the base ingredients. Hemoglobin was determined at the end of depletion and repletion periods. Iron bioavailability expressed as hemoglobin regeneration efficiency (HRE) was higher in the rats that consumed the positive control diet than in those fed test (improved with iron) diets. The present study also found an inverse correlation between diet iron content and bioavailability (r = - 0.88, P < 0.05), and a direct relationship between the gain in hemoglobin and iron utilization (r = 0.95, P < 0.05). Further, most of the rats recovered their hemoglobin and packed cell volume status after repletion (Hb > 12 g/dl) except for rat fed the negative control suggesting that iron was poorly utilized. The study confirmed that the overall iron bioavailability expressed as hemoglobin regeneration efficiency (HRE) from composite flour formulated from cassava is low."}
+	}}

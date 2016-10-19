@@ -1,0 +1,18 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Meat in emulsion type sausages – An overview"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188156",
+	"dct:identifier":"FI2007188156",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f19.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Mittal, G.S. (author)"
+	}
+	},
+	"bibo:abstract":{"value":"This paper provides a critical overview of the utilisation and use of various types of meat and animal fat in emulsion type sausages. Emphasis has been placed on the functionality of beef, pork, poultry, fish and mutton in the meat emulsions. Meat raw material selection has an important influence on the yield, texture and microstructure of comminuted sausage products. It is difficult to evaluate the large amount of data due to the use of varying techniques in obtaining these data. Hence, standardization of these methods is required. Further research is needed to improve methodology to determine the functional properties of meat systems. Mathematical models are required to describe the behavior of various meat systems in meat emulsions. These models will assist in the optimization of the functionality of final product, and the optimum and proper utilisation of different meat products. Further investigations are required to determine the effects of various ingredients in structure forming properties of the sausages."}
+	}}

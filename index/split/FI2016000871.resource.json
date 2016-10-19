@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Behovstilpassing av nitrogen til grønnsaker.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Guttormsen, Gunnar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Riley, Hugh.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lannoitustarve"},
+	{"value":"nutritional requirements"},
+	{"value":"vihannekset"},
+	{"value":"lannoitus"},
+	{"value":"Norway"},
+	{"value":"typpilannoitus"},
+	{"value":"fertilizer application"},
+	{"value":"plant nutrition"},
+	{"value":"vegetable crops"},
+	{"value":"plant requirements"},
+	{"value":"nitrogen"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (266 :
+    1996 :
+    Höör)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000871",
+	"dct:identifier":"FI2016000871",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

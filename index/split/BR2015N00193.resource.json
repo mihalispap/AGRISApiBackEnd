@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ESTUDO FITOQUÍMICO DE Bauhinia forficata (FABACEAE)",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":27,
+	"bibo:volume":5,
+	"bibo:pageEnd":31,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00193",
+	"dct:identifier":"BR2015N00193",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/985",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ranggel Carvalho Simões"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheylla Susan Moreira da Silva de Almeida"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\">O presente trabalho descreve resultados de prospecção fitoquímica preliminar, bioensaio com Artemia salina e atividade antimicrobiana da Bauhinia forficata Link, conhecida popularmente como Pata-de-vaca. O gênero Bauhinia é pantropical, suas espécies são utilizadas em vários tratamentos, como antidiabético, infecções e processos dolorosos. O “screening” fitoquímico foi realizado com o Extrato Bruto Etanóico (EBE) sendo o mesmo obtido a partir da percolação do pó das cascas do caule da B. forficata Link com o solvente etanol, que posteriormente foi concentrado. O método de análise de toxicidade com Artemia salina utilizou a taxa de metanauplios mortos para determinar sua CL<sub>50</sub>. E para a avaliação da atividade antimicrobiana, foi utilizado o teste de difusão a disco, com cepas de Klebsiella pneumoniae </em>(ATCC13883), Staphylococcus aureus </em>(ATCC 25923) e Escherichia coli </em>(ATCC 25922) e antibióticos padronizados, para o teste o EBE foi utilizado nas concentrações 25mg/mL, 50mg/mL e 100mg/mL. Observou-se a presença de metabólitos secundários Açúcares Redutores, Depsídeos e Depsidonas, Fenóis e Taninos, Antraquinonas e Flavonóides na constituição do EBE. Na avaliação da citoxicidade do EBE a CL<sub>50%</sub> foi de 853,80μg/mL, apresentando baixa toxicidade. Para o teste antimicrobiano não se observou inibição em nenhuma das concentrações testadas. A presença de algumas classes de metabólitos secundários corrobora em parte com as atividades alegadas pela população, principalmente flavonóides, que apresentam ação hipoglicemiante, em estudos posteriores serão realizados teste para a comprovação desta ação farmacológica.<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><strong>Palavras-chave: </strong>pata-de-vaca, prospecção fitoquímica, ensaio toxicológico, ação Antibacteriana.",
+	"xml:lang":"por"
+	}
+	}}

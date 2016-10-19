@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Simulation of spring wheat responses to elevated CO₂ and temperature by using CERES-wheat crop model.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Laurila, Heikki.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"air temperature"},
+	{"value":"crop yield"},
+	{"value":"kevätvehnä"},
+	{"value":"phenology"},
+	{"value":"viljakasvit"},
+	{"value":"carbon dioxide"},
+	{"value":"Triticum aestivum"},
+	{"value":"lämpötila"},
+	{"value":"kasvifysiologia"},
+	{"value":"hiilidioksidi"},
+	{"value":"satokomponentit"},
+	{"value":"plant physiology"},
+	{"value":"cereal crops"},
+	{"value":"sadonmuodostus"},
+	{"value":"triticum"},
+	{"value":"climate"},
+	{"value":"fenologia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000896",
+	"dct:identifier":"FI2016000896",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

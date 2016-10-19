@@ -1,0 +1,79 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"LTTRPred: A tool for prediction of LysR-type transcriptional regulator of pyoluteorin pathway in plant growth promoting Pseudomonas spp.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":377,
+	"dc:subject":[
+		{"value":"potassium solubilizing bacteria"},
+	{"value":"phosphate solubilizer"},
+	{"value":"phosphates",
+	"xml:lang":"eng"
+	},
+	{"value":"suelo",
+	"xml:lang":"esp"
+	},
+	{"value":"te",
+	"xml:lang":"esp"
+	},
+	{"value":"antagonisme",
+	"xml:lang":"fre"
+	},
+	{"value":"the",
+	"xml:lang":"fre"
+	},
+	{"value":"soil",
+	"xml:lang":"eng"
+	},
+	{"value":"sol",
+	"xml:lang":"fre"
+	},
+	{"value":"antagonismo",
+	"xml:lang":"esp"
+	},
+	{"value":"phosphate",
+	"xml:lang":"fre"
+	},
+	{"value":"fosfatos",
+	"xml:lang":"esp"
+	},
+	{"value":"tea",
+	"xml:lang":"eng"
+	},
+	{"value":"antagonism",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":385,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000882",
+	"dct:identifier":"IN2015000882",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Anil Paul"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hemalatha, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajesh, M.K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Plant growth promoting Pseudomonas  spp. produce an antifungal compound called pyoluteorin (Plt) that suppress diseases caused by phytopathogenic fungi. The pathway specific regulator PltR, a typical LysR-type transcriptional regulator (LTTR), is responsible for the transcriptional activation of the Plt biosynthetic operon. The LTTR family represents one of the largest classes of bacterial transcriptional regulatory proteins. A large number of LTTRs possess function as global transcriptional activators or repressors of unlinked genes or operons involved in metabolism, quinoline signal, virulence etc. The proposed method, LTTRPred, is an useful tool developed for identifying and predicting the LTTR, which is responsible for the activation of Plt transcription regulators, from whole genomes of various Pseudomonas spp. LTTRPred was developed using support vector machine (SVM) and Waikato Environment for Knowledge Analysis (WEKA) based on the composition of amino acid and amino acid pairs. Modules in SVM were developed using traditional amino acid, dipeptide (n+1) and hybrid amino acid composition modules and an overall accuracy of 100, 100 and 98 per cent respectively, was achieved. Modules in WEKA were also developed using the same modules and an overall accuracy of 100 per cent achieved for all. The performance of the tool was tested using various datasets of LTTR genes from different Pseudomonas  spp. The best performing SVM and WEKA modules from the present investigation was implemented as a dynamic web server LTTRPred, which is freely available and can be accessed online (http://210.212.229.56/lttrpred/). This tool can be used for the functional annotation of the Pseudomonas spp. possessing LTTR genes.",
+	"xml:lang":"eng"
+	}
+	}}

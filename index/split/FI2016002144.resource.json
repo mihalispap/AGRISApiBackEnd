@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Phytate from edible beans : chemistry, processing and health benefits /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Shi, John.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Arunasalam, Konesh A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yeung, David.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kakudo, Yokio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mittal, Gauri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"food processing"},
+	{"value":"pavut"},
+	{"value":"elintarviketekniikka"},
+	{"value":"terveysvaikutukset"},
+	{"value":"phytates"},
+	{"value":"vegetable legumes"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"health"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002144",
+	"dct:identifier":"FI2016002144",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

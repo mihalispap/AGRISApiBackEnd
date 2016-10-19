@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biomass production potential in the Batini barley landrace from Oman"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188473",
+	"dct:identifier":"FI2007188473",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a23.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jaradat, A. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shahid, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Maskri, A. Y. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Diversity available in seven subpopulations of the Batini barley landrace was quantified for pre- and post-anthesis thermal time, filling period, biological and grain yield, number of tillers and plant height. We identified grain, forage and dual-purpose types and selected elite germplasm for breeding purposes. Patterns of phenotypic variation and co-variation in the phenological and agronomic traits, measured on 2,040 landrace accessions, subdivided the collection into 14 phenological classes in three (grain, dual-purpose and forage) end-use types, each with distinct phenological trait combinations. The dual-purpose type was more polymorphic and had significantly higher total diversity and differentiation than the grain and forage types. Directional selection, especially in the phenological traits, resulted in large, idiosyncratic changes in plant phenotypes. Targeting traits that have a disproportionately large influence on differences in the mean covariance will help identify sources of variation for breeding purposes."}
+	}}

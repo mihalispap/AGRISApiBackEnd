@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Characterization of insulin like growth factor-1 (IGF-1) partial gene in mithun",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":89,
+	"dc:subject":[
+		{"value":"factor de crecimiento igf",
+	"xml:lang":"esp"
+	},
+	{"value":"insulin-like growth factor",
+	"xml:lang":"eng"
+	},
+	{"value":"bovina",
+	"xml:lang":"esp"
+	},
+	{"value":"facteur de croissance igf",
+	"xml:lang":"fre"
+	},
+	{"value":"bovinae",
+	"xml:lang":"fre"
+	},
+	{"value":"polimorfismo",
+	"xml:lang":"esp"
+	},
+	{"value":"polymorphism",
+	"xml:lang":"eng"
+	},
+	{"value":"polymorphisme",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":91,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000467",
+	"dct:identifier":"IN2015000467",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Panigrahi, Manjit"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Subodh Kumar."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deb, , S.M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mitra, Abhijit"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Arjava"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bujarbaruah, K.M."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A 396 bp fragment of insulin like growth factor-1 (IGF-1) gene, which included complete exon 5, was amplified in mithun (Bos frontalis). The PCRâRFLP analysis showed the absence of polymorphism in this fragment with respect to MspI restriction enzyme and showed 1 restriction site, which produced 2 fragments of 273 and 123 bp. Only 2 single nucleotide differences existed in mithun sequences when compared to that of cattle. The genomic sequence homology between mithun and cattle was 99.5%, whereas the deduced amino acid sequences showed 100% homology. The sequence of the wild allele, which was the first report on exon 5 of mithun IGF-1, was submitted to GenBank (Accession number EF686016).",
+	"xml:lang":"eng"
+	}
+	}}

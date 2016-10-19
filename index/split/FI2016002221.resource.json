@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1304",
+	"dct:language":"eng",
+	"dct:title":{"value":"Challenges in publishing: producing, assuring and communicating quality.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kangas, Annika,
+    kirjoittaja
+    Itä-Suomen yliopisto
+    10088
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hujala, Teppo,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"open access"},
+	{"value":"altmetrics"},
+	{"value":"vertaisarviointi"},
+	{"value":"peer review"},
+	{"value":"viiteanalyysi"},
+	{"value":"citation index"}
+	],
+	"bibo:doi":"10.14214/sf.1304",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002221",
+	"dct:identifier":"FI2016002221",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

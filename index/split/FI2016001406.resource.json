@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of variety and olive ripeness on nutritional quality and oxidative stability of extra virgin olive oils /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Esti, Marco.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cinquanta, Luciano.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Panfili, Gianfranco.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Manzi, Pamela.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marconi, Stefania.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pizzoferrato, Laura.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maturity"},
+	{"value":"oliivit"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"oxidation"},
+	{"value":"nutritive value"},
+	{"value":"kasviöljyt"},
+	{"value":"olive oil"},
+	{"value":"ravintoarvo"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"olives"},
+	{"value":"oliiviöljy"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001406",
+	"dct:identifier":"FI2016001406",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

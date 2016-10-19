@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nitrogen and phosphorus losses from a feedlot for suckler cows.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Uusi-Kämppä, Jaana.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kylmäpihatot"},
+	{"value":"fosfori"},
+	{"value":"herds"},
+	{"value":"emolehmät"},
+	{"value":"feedlots"},
+	{"value":"farmyard manure"},
+	{"value":"valunta"},
+	{"value":"pihatot"},
+	{"value":"phosphorus"},
+	{"value":"nitrogen"},
+	{"value":"valumavesi"},
+	{"value":"ympäristön saastuminen"},
+	{"value":"nautakarja"},
+	{"value":"ympäristökuormitus"},
+	{"value":"maaperä"},
+	{"value":"runoff"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"typpiyhdisteet"},
+	{"value":"leaching"},
+	{"value":"karjanlanta"},
+	{"value":"huuhtoutuminen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000208",
+	"dct:identifier":"FI2016000208",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

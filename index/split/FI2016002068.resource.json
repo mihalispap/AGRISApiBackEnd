@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"In vivo antioxidative capacities of rapeseed meal polysaccharides.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sun HanJu
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jiang ShaoTong
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mu Pan
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Qi Ding
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"antioxidants"},
+	{"value":"rapeseed meal"},
+	{"value":"polysaccharides"},
+	{"value":"in vitro"},
+	{"value":"carbohydrates"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002068",
+	"dct:identifier":"FI2016002068",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A model of organic matter accumulation in a developing fen/raised bog complex.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gilmer, Alan J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Holden, Nicholas M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ward, Shane M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Brereton, Anthony.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Farrell, Edward P.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"rahkasammal"},
+	{"value":"Sphagnum"},
+	{"value":"simulation models"},
+	{"value":"tuottavuus"},
+	{"value":"peat"},
+	{"value":"mallit"},
+	{"value":"turve"},
+	{"value":"ilmasto"},
+	{"value":"climate"},
+	{"value":"bogs"},
+	{"value":"productivity"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001762",
+	"dct:identifier":"FI2016001762",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

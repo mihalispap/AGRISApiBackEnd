@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Dietary Supplementation of Combination of Probiotics on the Growth Performance and Immune Response of Broiler Chickens",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":15,
+	"dc:subject":[
+		{"value":"alimentation complementaire",
+	"xml:lang":"fre"
+	},
+	{"value":"probiotics",
+	"xml:lang":"eng"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"supplementary feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"alimentacion complementaria",
+	"xml:lang":"esp"
+	},
+	{"value":"probiotique",
+	"xml:lang":"fre"
+	},
+	{"value":"probioticos",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":25,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000339",
+	"dct:identifier":"IN2015000339",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar Latesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandramoni,"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar Manoj"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was conducted to evaluate the effects of different probiotics i.e Lactiflora (Lactobacillus acidophilus), Provisacc (Saccharomyces cerevisiae) on the growth performance, nutrient retention and immune responses of broiler chickens. Two hundred forty day-old broiler chicks (Vencobb) were randomly allotted to one of four treatments on the basis of body weight in a randomized complete block design. Each treatment had 60 chicks arranged in 3 replicates of 20 chicks each and reared for a period of 42 days. Dietary treatments were basal diet without any probiotics (control, T1 basal diet only), T2 (T1 + Lactiflora @ 0.05%), T3 (T1 + Provisacc @ 0.05%) and T4 (T1 + Lactoiflora @ 0.05% + Provisacc @ 0.05%). Chicks were vaccinated with New Castle Disease Virus (NDV) and Infectious Bursal Disease Virus (IBDV) and antibody titer was determined to assess the humoral immune response. Blood parameters analysis and a metabolism trial of three days duration was conducted during 6th week of growing periods. Dietary supplementation of probiotics significantly (P0.05) enhanced growth performance by improving body weight gain, performance index and protein efficiency ratio. Growth performance and nutrient retention of Lactiflora supplemented group (T2) was significantly (P0.05) better then control (T1) and Provisacc supplemented group (T3) but comparable to combination group (T4). Broiler chickens fed diet supplemented with probiotics showed a significant decrease (P0.05) in cholesterol concentration compared to control group. Supplementation of Lactobacillus acidophilus and Saccharomyces cerevisiae either alone or in combination improved the antibody titres to NDV and IBDV as compared to untreated control group for all period of observation. It was concluded that combined supplementation of Lactobacillus acidophilus and Saccharomyces cerevisiae supplementation at the rate of 0.05% each is beneficial in improving growth performance, nutrient utilization and immune response of broiler chicken",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of high-pressure treatment on survival of Escherichia coli 0157-H7 population in tomato juice.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bari, Latiful.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ukuku, Dike O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mori, Mayuka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kawamoto, Shinichi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yamamoto, Kazutaka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"elintarvikkeet"},
+	{"value":"elintarviketekniikka"},
+	{"value":"foods"},
+	{"value":"high pressure technology"},
+	{"value":"vihannesmehut"},
+	{"value":"vegetable juices"},
+	{"value":"Escherichia coli"},
+	{"value":"laatu"},
+	{"value":"tomatoes"},
+	{"value":"elintarvikehygienia"},
+	{"value":"acidity"},
+	{"value":"contamination"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000347",
+	"dct:identifier":"FI2016000347",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

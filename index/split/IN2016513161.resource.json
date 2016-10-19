@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:title":{"value":"Pollution Monitoring by Algae in a Sacred Water Body of Belgaum District",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"pollution control",
+	"xml:lang":"eng"
+	},
+	{"value":"algae",
+	"xml:lang":"eng"
+	},
+	{"value":"water",
+	"xml:lang":"eng"
+	},
+	{"value":"bacillariophyceae",
+	"xml:lang":"eng"
+	},
+	{"value":"chlorophyceae",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513161",
+	"dct:identifier":"IN2016513161",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=34",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Giriyappanavar  B. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shivalli P. B."
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Biological evaluation is a useful alternative for rating the ecological quality of aquatic ecosystems, as biological communities amalgamate the environmental effects of water chemistry. To recognize the nature of species composition of phytoplankton and their significance, the present surveillance was made for a period of twelve months in a sacred water body in Belgaum district. The study exposed the occurrence of 50 phytoplankton species belonging to 26 genera. Among these, 19 genera are identified as most pollution tolerant genera. According to the list, dominant group was represented by Bacillariophyceae followed by Chlorophyceae and Euglenophyceae. The algal flora of this sacred water body showed the dominance of Scenedesmus, Pediastrum, Ankistrodesmus, Coelastrum, Cyclotella, Navicula, Nitzschia, Synedra, Melosira, Euglena, Lepocinclis and Phacus. These floating, inconspicuous primary producers of aquatic ecosystem are indicators of organic pollution. The present paper highlights the assessment of water quality status using pollution index based on the phytoplankton community of water.",
+	"xml:lang":"eng"
+	}
+	}}

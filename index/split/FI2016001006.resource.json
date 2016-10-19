@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The role of nitrophenol on delaying abscission of tomato flowers and fruits /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Djanaguiraman, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Devi, D. Durga.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shanker, Arun K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sheeba, J. Annie.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bangarusamy, U.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"variseminen"},
+	{"value":"kukat"},
+	{"value":"fruits"},
+	{"value":"hedelmät"},
+	{"value":"tomatoes"},
+	{"value":"oxidants"},
+	{"value":"oksidantit"},
+	{"value":"kasvifysiologia"},
+	{"value":"abscission"},
+	{"value":"senescence"},
+	{"value":"tomaatti"},
+	{"value":"phenolic compounds"},
+	{"value":"flowers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001006",
+	"dct:identifier":"FI2016001006",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

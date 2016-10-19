@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f24.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative quality characterization and molecular profiling of Indian, Sri Lankan and Guatemalan cardamoms"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thomas, Elizabeth (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kizhakkayil, Jaleel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zachariah, T. John (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Syamkumar, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sasikumar, B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100373",
+	"dct:identifier":"FI2016100373",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Traded (exported) cardamoms from India, Sri Lanka and Guatemala are characterized based on physical and biochemical parameters and molecular techniques. For most of the physical quality parameters and for the biochemical traits, such as starch and crude fiber, Indian cardamom is found superior to the other produces. Further GC profile of the oil of Indian cardamom indicated high quantity of α-terpinyl acetate and 1,8-cineole which imparts aroma and flavour to the cardamom, thus reinforcing the legendary belief of high intrinsic quality of the Indian cardamom. Molecular profiling using RAPD/ISSR primers did not reveal much polymorphism among the three cardamoms. This aspect is discussed in relation to the origin and transnational spread of cardamom."}
+	}}

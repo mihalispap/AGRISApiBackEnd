@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil formation processes in the gangue heaps resulted in surface mining in Cluj County (Romania).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Clapa, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rusu, T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pacurar, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fira, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mining"},
+	{"value":"soil pH"},
+	{"value":"soil genesis"},
+	{"value":"soil profiles"},
+	{"value":"reclamation"},
+	{"value":"sivutuotteet"},
+	{"value":"phosphorus"},
+	{"value":"kaivostoiminta"},
+	{"value":"uudelleenkäyttö"},
+	{"value":"Robinia"},
+	{"value":"iron"},
+	{"value":"nitrogen"},
+	{"value":"kasvukunto"},
+	{"value":"maa-aines"},
+	{"value":"humus"},
+	{"value":"regosols"},
+	{"value":"maaperä"},
+	{"value":"Pinus sylvestris"},
+	{"value":"potassium"},
+	{"value":"Robinia pseudoacacia"},
+	{"value":"Romania"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001660",
+	"dct:identifier":"FI2016001660",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

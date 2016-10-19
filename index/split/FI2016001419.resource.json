@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Variation in flowering abundance and its impact on the genetic diversity of the seed crop in a Norway spruce seed orchard.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nikkanen, Teijo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ruotsalainen, Seppo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"clones"},
+	{"value":"kuusi"},
+	{"value":"kukinta"},
+	{"value":"flowering"},
+	{"value":"vaihtelu"},
+	{"value":"kloonit"},
+	{"value":"seed crops"},
+	{"value":"geenit"},
+	{"value":"runsaus"},
+	{"value":"clonal variation"},
+	{"value":"siemensato"},
+	{"value":"genetic variation"},
+	{"value":"monimuotoisuus"},
+	{"value":"taimitarhat"},
+	{"value":"Picea abies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001419",
+	"dct:identifier":"FI2016001419",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

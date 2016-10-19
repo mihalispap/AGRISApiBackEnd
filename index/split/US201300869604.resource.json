@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"QTL analysis for cold resistance-related traits in Brassica napus using RAPD markers"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869604",
+	"dct:identifier":"US201300869604",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Asghari, Ali (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohammadi, Seied Abolgasem (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moghaddam, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohammaddoost, Hamid Reza (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Winter survival is an important characteristic of oilseed Brassica and affects by genetic variation for other cold regulated traits. In order to identify the RAPD markers linked to chromosomal regions governing cold resistance-related traits in rapeseeds, an F2:3 population of 200 families derived from crossing between cv. SLMO46 (winter type and cold resistant) and cv. Quantum (spring type and susceptible to low temperature) were used. The number of leaves/plant (L/P) in rosette stage, crown wet weight (CWW), crown dry weight (CDW) and crown water content (CWC) were measured as cold resistance indices in F3 families. The parental polymorphism was assessed using 250 RAPD primers. The 47 RAPD polymorphic markers between parental lines were used to screen F2 individuals. Linkage map was constructed using polymorphic markers. The markers were assigned into 9 linkage groups with total length of 869.7 cM and an average distance of 20.71 cM between adjacent markers. The relationship between measured traits and genotypic data was analyzed using composite interval mapping (CIM) method and totally 8 putative QTLs were detected. The identified QTLs explained various amounts of phenotypic variance of each trait. Some of these QTLs located in the same genomic regions."}
+	}}

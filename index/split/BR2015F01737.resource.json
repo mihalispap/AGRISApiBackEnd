@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Efeito do zinco nos componentes metabólitos dos capins Tanzânia e Marandú ",
+	"xml:lang":"por"
+	},
+	{"value":"Zinc in metabolites components of Tanzania grass and Palisade grass",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"organic compounds",
+	"xml:lang":"eng"
+	},
+	{"value":"panicum maximum",
+	"xml:lang":"eng"
+	},
+	{"value":"plant nutrition",
+	"xml:lang":"eng"
+	},
+	{"value":"trace elements",
+	"xml:lang":"eng"
+	},
+	{"value":"brachiaria brizantha",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"66/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01737",
+	"dct:identifier":"BR2015F01737",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2009-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1278611947.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"FONSECA, Ivana M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PRADO,  Renato M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VALE,  Diego W."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FELTRIN, Mariana S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CORREIA, Marcus A. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CAZETTA, Jairo O."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Growth and productivity of forage plants are dependent on organic compounds stored in the plants and can be affected by zinc nutrition. Faced applicable, it was aimed to evaluate the effect of zinc fertilizer in the metabolic compounds tanzania grass and palisadegrass. The experiment was realized in greenhouse in pots filled with 3 dm3 of medium texture Oxisol with five plants. The experimental design was completely randomized in factorial scheme 2x3 (two grasses: Panicum maximum cv. Tanzania and Brachiaria brizantha cv. Marandu, and three zinc rates: 0, 60 and 240 mg dm-3) with four replicates. There were difference between cultivars for all variables, except for free aminoacids and nitrate. However, the increase in Zn rates did not promote difference in the organic compounds of the plants. The application of Zn did not affect the synthesis of metabolites components tanzaniagrass and palisadegrass. The tanzania grass had higher uptake of Zn and N, and higher capacity for synthesis of soluble carbohydrates and crude protein than palisadegrass, showing higher biomass yield.",
+	"xml:lang":"eng"
+	},
+	{"value":"O crescimento e a produtividade de plantas forrageiras são dependentes dos compostos orgânicos armazenados nas plantas, podendo ser afetados pela nutrição com zinco. Diante disso, objetivou-se avaliar o efeito da adubação com Zn nos componentes metabólitos dos capins tanzânia e marandu. Desenvolveu-se o estudo em casa de vegetação em vaso preenchido com 3 dm3 de amostra de um Latossolo Vermelho distrófico textura média com cinco plantas. O delineamento experimental utilizado foi o inteiramente ao acaso, em esquema fatorial 2x3, sendo duas cultivares de forrageiras (Panicum maximum cv. Tanzânia e Brachiaria brizantha cv. Marandu) e três doses de zinco no solo (0, 60 e 240 mg dm-3), com quatro repetições. Avaliaram-se as concentrações de glicose, sacarose, amido, aminoácidos livres, nitrito, nitrato, proteína solúvel, os teores de Zn e de N nas plantas e a produção de massa seca. Verificou-se diferença entre as cultivares para todas as variáveis analisadas, exceto para aminoácidos livres e nitrato. Entretanto, o aumento das doses de Zn não promoveu diferença nos compostos orgânicos nas plantas. A aplicação de Zn não afetou a síntese dos compostos metabólitos nas plantas dos capins tanzânia e marandu. O capim-tanzânia apresentou maior absorção de Zn e N, além de maior capacidade de síntese de carboidratos solúveis e de proteína bruta do que o capim-marandu, obtendo maior produção de biomassa.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Accumulation of RNA in the senescing root modular cells of soybean (Glycine max (L.) Merrill) : histochemical evidence /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Shivananda, T. N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chandrika, K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Joshi, Syamasundara.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rudraswamy, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gowda, T. K. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Viswanath, D. P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siddaramappa, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dris, R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"juurinystyrät"},
+	{"value":"RNA"},
+	{"value":"soijapapu"},
+	{"value":"root nodules"},
+	{"value":"senescence"},
+	{"value":"Bradyrhizobium japonicum"},
+	{"value":"vanheneminen"},
+	{"value":"Glycine max"},
+	{"value":"soybeans"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001557",
+	"dct:identifier":"FI2016001557",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

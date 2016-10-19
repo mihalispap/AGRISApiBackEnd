@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modeling carbon sequestration and timber production in a regional case study.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Backéus, Sofia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wikström, Peder.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lämås, Tomas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"carbon sequestration"},
+	{"value":"forest biofuel"},
+	{"value":"planning"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"biopolttoaineet"},
+	{"value":"optimization methods"},
+	{"value":"biofuels"},
+	{"value":"carbon cycle"},
+	{"value":"boreal forests"},
+	{"value":"optimointi"},
+	{"value":"hiilitase"},
+	{"value":"hiilen kierto"},
+	{"value":"boreaaliset metsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000506",
+	"dct:identifier":"FI2016000506",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

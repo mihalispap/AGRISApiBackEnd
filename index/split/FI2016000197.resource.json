@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of growing medium in some postharvest characteristics of cut flowers in six cultivars of Asiatic hybrid lilies (Lilium longiflorum L.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Asil, Moazzam Hassanpour.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"postharvest physiology"},
+	{"value":"Lilium"},
+	{"value":"varieties"},
+	{"value":"plant growth substances"},
+	{"value":"quality"},
+	{"value":"growing media"},
+	{"value":"cut flowers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000197",
+	"dct:identifier":"FI2016000197",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

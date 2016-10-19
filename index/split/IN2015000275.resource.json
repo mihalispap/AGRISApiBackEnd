@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of dietary supplementation of organic and inorganic copper on growth and nutrient utilization in crossbred female calves",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1044,
+	"dc:subject":[
+		{"value":"copper",
+	"xml:lang":"eng"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"cobre",
+	"xml:lang":"esp"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"ternero",
+	"xml:lang":"esp"
+	},
+	{"value":"calves",
+	"xml:lang":"eng"
+	},
+	{"value":"cuivre",
+	"xml:lang":"fre"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"veau",
+	"xml:lang":"fre"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1048,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000275",
+	"dct:identifier":"IN2015000275",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nirmalan T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mondal, B.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiwari, D.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anil Kumar"
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"Crossbred female calves (15), aged 12 to 15 months with average body weight of 134 kg, were randomly divided into 3 uniform groups of 5 each. All the calves were fed ad lib. green oats and measured quantity of concentrate mixture. The calves in group 2 were supplemented with 25 mg organic copper/calf/day as copper propionate and in group 3 were supplemented with 50 mg inorganic copper/calf/day as copper sulphate whereas calves in group 1 kept as control. The feeding trial lasted for 90 days, including six days digestion trial. The daily average DMI during entire feeding trial was 5.60Â±0.05, 5.68Â±0.14 and 5.73Â±0.04 kg in groups 1, 2 and 3, respectively and there was no significant difference in DMI among different groups. The digestibility of DM, OM, EE, NFE and NDF were significantly higher in group 3 than in group 1, and comparable with group 2. However digestibility of CF and ADF was significantly higher in group 3 than groups 1 and 2. The CP digestibility differed significantly among different groups. Total weight gain and FCR were significantly improved in groups 2 and 3 supplemented with copper as compared to control. From the present studies, it may be concluded that copper supplementation as copper sulphate or copper propionate in the ration of crossbred calves had better performance in terms of growth, nutrient utilization and feed efficiency under existing feeding.",
+	"xml:lang":"eng"
+	}
+	}}

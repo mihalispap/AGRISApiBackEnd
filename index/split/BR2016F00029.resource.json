@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Effects of weed plants on tiller characteristics in brachiaria pasture",
+	"xml:lang":"eng"
+	},
+	{"value":"   Caracterização de perfilhos em relação à planta daninha no pasto de capim-braquiária ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"composition",
+	"xml:lang":"eng"
+	},
+	{"value":"solanum",
+	"xml:lang":"eng"
+	},
+	{"value":"weeds",
+	"xml:lang":"eng"
+	},
+	{"value":"feed crops",
+	"xml:lang":"eng"
+	},
+	{"value":"tillering",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.2",
+	"bibo:doi":"10.17523/bia.v73n2p103",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00029",
+	"dct:identifier":"BR2016F00029",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n2p103",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"CARVALHO, R.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PIMENTEL, R. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FONSECA,  D. M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, Manoel E. R."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Objetivou-se avaliar os efeitos da planta daninha Solanum sisymbrifolium (joá-bravo) sobre o número e as características de perfilhos de Urochroa decumbens cv. Basilisk em pasto sob lotação contínua com bovinos. Foram avaliados dois locais do mesmo pasto, sendo um próximo, localizado a 0,5 m do caule principal da planta daninha, e outro distante, onde não havia ocorrência desta planta em 2,0 m de raio, por meio da quantificação do número, peso e morfologia dos perfilhos. O delineamento foi inteiramente ao acaso com três repetições. No local distante da planta daninha houve maior densidade populacional de perfilhos com desfolhação e sem o meristema apical. Os números de perfilhos basais e aéreos foram menores próximo da planta daninha. Este local também apresentou menores números de perfilhos vegetativos, reprodutivos, vivos, mortos e totais, quando comparado ao local distante da planta daninha. Os pesos de perfilhos vegetativos e reprodutivos foram maiores no local próximo do que no distante da planta daninha. Os perfilhos próximos da planta daninha apresentaram maiores comprimento do pseudocolmo e de lâmina foliar, superior número de folha viva e inferior número de folha pastejada em relação aos distantes. A ocorrência da planta S. sisymbrifolium ocasiona variabilidade espacial da vegetação no pasto de U. decumbens cv. Basilisk.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to evaluate the effects of the weed Solanum sisymbriifolium (sticky nightshade) on the number and characteristics of Urochloa decumbens cv. Basilisk tillers in pasture continuously stocked by cattle. Two sites of the same pasture were evaluated, one site located close (0.5 m) to the main stalk of the weed and the other located at a distance where no weed was growing within a radius of 2.0 m. The number, weight and morphology of the tillers were evaluated in a completely randomized design with three repetitions. At the site distant from the weed, a higher population density of defoliated tillers without apical meristem was observed. The number of basal and aerial tillers was smaller close to the weed plant. This site was also characterized by smaller numbers of vegetative, reproductive, live, dead and total tillers when compared to the site distant from the weed plant. The weight of vegetative and reproductive tillers was higher at the site close to the weed plant. Tillers close to the weed plant exhibited a greater length of the pseudostem and leaf blade, a larger number of live leaves, and fewer grazed leaves compared to distant tillers. The occurrence of S. sisymbriifolium results in spatial variability of vegetation in U. decumbens cv. Basilisk pasture.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

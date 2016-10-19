@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":"01/2-15",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ipekpp.com/admin/upload_files/Report_1_17_Best_5734438155.pdf",
+	"dct:title":{"value":"Best Practices in Decentralised Renewable Energy Access: A Knowledge Transfer Initiative from India to Africa and other ASEAN Regions",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Centre for Innovation, Incubation &amp"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"amp"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"entrepreneurship CIIE"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"The International Renewable Energy Agency IRENA"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Knowledge Partnership Programme- IPE Global Pvt Ltd"
+	}
+	}
+	],
+	"dc:subject":{"value":"natural resources management",
+	"xml:lang":"eng"
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015410033",
+	"dct:identifier":"IN2015410033",
+	"dct:type":"Report",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19704"
+	},
+	"bibo:abstract":{"value":"This summary report informs on the journey of knowledge transfer on decentralised energy access from India to Africa and other Asian countries, the outcomes and the next steps.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Desordens neurológicas de pacientes com HTLV",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Elinaldo da Conceição dos Santos "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ártemis do Socorro Nascimento Rodrigues "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00041",
+	"dct:identifier":"BR2015M00041",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O objetivo deste trabalho foi identificar as alterações neurológicas funcionais já instaladas nos pacientes HTLV positivos. Foram aplicados questionários em pacientes provenientes do Centro de Reabilitação do Amapá, portadores do vírus. Os resultados demonstraram que todas as desordens neurológicas propostas estavam presentes, pois, 91,3% apresentaram fraqueza muscular, 89,9% dor característica, 81,2% parestesias, 65,2% impotência ou frigidez, 55,1% obstipação, 50,7% espasticidade, 50,7% incontinência urinária e 33,3% retenção urinária. Contudo, os comprometimentos neurológicos funcionais predominantes foram: impotência ou frigidez (65,2%), parestesia nos MMII (81.2%), dor característica (89.9%) e fraqueza nos MMII (89.9%)",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

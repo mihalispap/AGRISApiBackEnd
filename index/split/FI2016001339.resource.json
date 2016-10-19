@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Stand structure and spatial pattern of regeneration of Pinus sylvestris in a natural treed mire in Latvia.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Brūmelis, Guntis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Strazds, Māris.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eglava, Žanna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"mänty"},
+	{"value":"regeneration"},
+	{"value":"luonnonmetsät"},
+	{"value":"Pinus sylvestris"},
+	{"value":"suometsät"},
+	{"value":"Latvia"},
+	{"value":"metsänuudistus"},
+	{"value":"virgin forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001339",
+	"dct:identifier":"FI2016001339",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

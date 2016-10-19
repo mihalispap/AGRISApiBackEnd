@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relationship between proline metabolism and NAD kinase in green bean plants subjected to short-term salt stress"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025588",
+	"dct:identifier":"FI2005025588",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ruiz, Juan M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rivero, Rosa M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Romero, Luis (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The aim of the study was to determine whether short-term salt stress increases concentration of cytoplasmic Ca²+ ([Ca²+]cyt) by activating the enzyme Ca²+-calmodulin-dependent nicotinamide adenide dinucleotide kinase (Ca²+-CaM-NAD kinase; EC 2.1.7.23), and whether these stress-induced variations trigger changes in the adaptive response of plants, as in proline metabolism. To address this question, we subjected 15-d-old green bean plants to salt stress (250 mM of NaCl) for 3 h. Plants showed foliar accumulation of proline, defining the enzymes Δ¹-pyrroline-5-carboxylate synthetase (P5CS; EC 2.7.2.11/1.2.2.41) and proline dehydrogenase (PDH; EC 1.5.99.8) as determinant in the foliar accumulation of this amino acid during salt stress. In addition, we found a close relationship between Ca²+-CaM-dependent NAD kinase and proline metabolism, suggesting that the adaptive responses or acclimation of plants under salt stress are preceded by an increase in the concentration of cytoplasmic Ca²+."}
+	}}

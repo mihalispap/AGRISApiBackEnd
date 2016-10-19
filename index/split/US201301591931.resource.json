@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic variability for agronomic and malting quality traits in some sorghum (Sorghum bicolor (L.) Moench) genotypes"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591931",
+	"dct:identifier":"US201301591931",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a22.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yeye, M. Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alhassan, U. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Twenty genotypes of sorghum (Sorghum bicolor (L.) Moench) obtained from Institute for Agricultural Research (IAR), Zaria, International Crop Research Institute for Semi-Arid Tropics (ICRISAT) and West and Central African Sorghum Research Network (WCASRN) at Bamako, Mali, were evaluated at IAR, Zaria, Nigeria, for genetic variability in agronomic and malting quality traits. NRL-3, SSVL2019 and SSVL2027 combined high yielding and good malting qualities. The presence of genetic variability for both malting and agronomic traits suggests that further improvement of these genotypes for the traits is feasible."}
+	}}

@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of inoculation of Azospirillum sp. in maize seeds under field conditions /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Dalla Santa, Osmar R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Soccol, Carlos R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ronzelli, Pedro,
+    Junior.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fernández Hernández, Ramona.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Michelena Alvarez, Georgina L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dalla Santa, Herta S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pandey, Ashok.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Azospirillum"},
+	{"value":"inoculation"},
+	{"value":"siemen"},
+	{"value":"ymppäys"},
+	{"value":"maissi"},
+	{"value":"Zea mays"},
+	{"value":"maize"},
+	{"value":"typensidonta"},
+	{"value":"seed"},
+	{"value":"nitrogen fixation"},
+	{"value":"kylvösiemen"},
+	{"value":"crop performance"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001156",
+	"dct:identifier":"FI2016001156",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

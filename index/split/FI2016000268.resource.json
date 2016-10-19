@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Dietary preferences of weaned piglets offered diets containing organic acids.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Partanen, Kirsi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siljander-Rasi, Hilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suomi, Kaija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"feed additives"},
+	{"value":"rehujen lisäaineet"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"palatability"},
+	{"value":"diarrhoea"},
+	{"value":"orgaaniset yhdisteet"},
+	{"value":"hapot"},
+	{"value":"piglets"},
+	{"value":"organic acids"},
+	{"value":"maittavuus"},
+	{"value":"porsaat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000268",
+	"dct:identifier":"FI2016000268",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

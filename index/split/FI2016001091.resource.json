@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Export of dissolved organic carbon, nitrogen and phosphorus following clear-cutting of three Norway spruce forest growing on drained peatlands in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Nieminen, Mika.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"nutrients"},
+	{"value":"suometsätiede"},
+	{"value":"peatlands"},
+	{"value":"vesikemia"},
+	{"value":"regeneration"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"losses"},
+	{"value":"forestry"},
+	{"value":"Picea abies"},
+	{"value":"leaching"},
+	{"value":"metsänuudistus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001091",
+	"dct:identifier":"FI2016001091",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

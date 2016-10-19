@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bio-intensive pest management of Mustard Aphid, Lipaphis erysimi Kalt.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":327,
+	"dc:subject":[
+		{"value":"gestion de lucha integrada",
+	"xml:lang":"esp"
+	},
+	{"value":"lipaphis erysimi",
+	"xml:lang":"esp"
+	},
+	{"value":"integrated pest management",
+	"xml:lang":"eng"
+	},
+	{"value":"brassica",
+	"xml:lang":"esp"
+	},
+	{"value":"gestion integree des ravageurs",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":331,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000517",
+	"dct:identifier":"IN2015000517",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, D.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pal, Sundar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dwivedi, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Anjani Kumar"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Results revealed that all the treatments were significantly superior over the control. Out of these, dimethoate @ 1ml lit-1 was found most compatible with Pochonia lecanii @ 108 CS ml-1 was significantly superior for aphid population decrease followed by dimethoate @ 1ml lit-1 followed by Coccinella septempunctata @ 5000 beetles ha-1 and it was recorded as 14.50 (85.5%), 10.65 (89.3%) and 4.35 (95.6%) aphids plant-1 at 3, 7 and 10 DAS, respectively. The highest increase yield (925.0 kg ha-1) was recorded from treated with dimethoate @ 1ml lit-1 followed by P. lecanii @ 108 CS ml-1 over the control, and the maximum cost benefit ratio (1:37.43) was recorded in dimethoate followed by Coccinella septempunctata.",
+	"xml:lang":"eng"
+	}
+	}}

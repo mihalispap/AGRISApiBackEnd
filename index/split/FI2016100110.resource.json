@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Crop-livestock interaction in the savannas of Nigeria: Nature and determinants of farmer decision to use manure for soil fertility maintenance"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chianu, J. N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tsujii, H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manyong, V. M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100110",
+	"dct:identifier":"FI2016100110",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In Nigeria, increased land-use intensity has depressed the use of fallow for soil fertility restoration. Crop yields have fallen, threatening food security. High cost limits farmers’ access to fertilizers. Reliance on crop-livestock interaction is plausible because animals provide manure. This paper evaluates the nature of crop-livestock interactions in the savannas of northern Nigeria, assesses its capability to maintain productivity, and uses logit model to estimate determinants of farmers’ decision to adopt manure for fertility maintenance. Results show that although 86% of the farmers indicated some interaction between crops and livestock, the interaction is weak. Manure is inadequately provided, only 56% of the farmers applied manure (40–67% of requirement) to their largest upland plot. Results of the logit model indicate that farmers’ characteristics and perceptions are the most crucial factors. The paper concludes with recommendations to promote crop-livestock integration and the use of manure for fertility maintenance in the savannas of Nigeria and similar ecologies."}
+	}}

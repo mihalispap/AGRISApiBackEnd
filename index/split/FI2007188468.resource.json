@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Maize silage yield and quality response to starter phosphorus fertilizer in high phosphorus soils in New York."},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188468",
+	"dct:identifier":"FI2007188468",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ketterings, Quirine M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Swink, Sheryl N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Godwin, Greg (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Czymmek, Karl J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Albrecht, Greg L. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Dairy producers are facing increasing pressure to reduce phosphorus (P) inputs in the form of concentrates and fertilizer. However, many producers are concerned about sacrificing maize (Zea mays L.) yield and quality if starter P applications are reduced or eliminated for fields testing beyond the agronomic critical level. A state-wide project was initiated in New York in 2001 targeting fields that tested high or very high in soil test P. Silage yield and quality were determined for maize grown in plots without starter fertilizer, without P in the starter band, or with P banded at two levels. Trials were conducted 2001-2003 on farms (62 trials) and research stations (9 trials). There was a significant yield response to a modest P application (P2O5 <28 kg ha-1) for soils testing high in P in only one out of three years. No yield benefits were obtained in the other two years or for maize grown on very high P soils. Planting date and recent manure history did not affect the results and soil test P levels were not well correlated with dry matter yields. Forage quality was not impacted by the treatments. The average P concentration in the silage was 2.1 mg kg-1 in the research trials and 2.3 mg kg-1 in the on-farm trials. We conclude that on sites that test high in P and have no manure applications planned for the season, P starter applications can be reduced to less than 28 kg P2O5 ha-1 while on sites that test very high in P or when manure is applied to high testing sites, P could be eliminated from the starter without a yield or quality penalty."}
+	}}

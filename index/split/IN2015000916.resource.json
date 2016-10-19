@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Dates of sowing and land races against rice ear head bug complex in rice in Nagaland",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"rice",
+	"xml:lang":"eng"
+	},
+	{"value":"pest insects",
+	"xml:lang":"eng"
+	},
+	{"value":"arroz",
+	"xml:lang":"esp"
+	},
+	{"value":"nagaland",
+	"xml:lang":"esp"
+	},
+	{"value":"insectos daninos",
+	"xml:lang":"esp"
+	},
+	{"value":"riz",
+	"xml:lang":"fre"
+	},
+	{"value":"insecte nuisible",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:pageStart":264,
+	"bibo:volume":76,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000916",
+	"dct:identifier":"IN2015000916",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Sema Tinatoly"
+	}
+	},
+	"bibo:issue":3
+	}}

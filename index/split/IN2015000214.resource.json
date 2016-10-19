@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of management strategies against leaf and fruit Scarring beetle (Nodostema subcostatum) of Banana",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":33,
+	"dc:subject":[
+		{"value":"quality",
+	"xml:lang":"eng"
+	},
+	{"value":"calidad",
+	"xml:lang":"esp"
+	},
+	{"value":"qualite",
+	"xml:lang":"fre"
+	},
+	{"value":"musa",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":36,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000214",
+	"dct:identifier":"IN2015000214",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bhagabati, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka, M.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Management strategies against (Nodostema subcostatum) showed that all the treatments significantly reduced the infestation of the pest and increased the yield and improved the quality. However, carbaryl 0.3% (20 ml poured into heart of plant) was found to be most effective in reducing the beetle population and increasing the yield of banana. Likewise, quinalphos 0.05% (20ml into heart of plant) also gave significant control of pest and enhancement of yield attributing parameters. The number of hands/ bunch and fingers/hand were also increased with all the different treatments than the untreated control. The bunch weight was also increased due to treatments as compared to untreated control. The quality parameters viz. titrable acidity(%),total soluble solid(%),total sugar(%),reducing sugar(%),non reducing sugar(%),sugar- acid ratio and pulp peel ratio increased due to reduction of pest infestation. The titrable acidity percentage was found to be highest(0.35%) in the treatment tilling and clean cultivation followed by 0.31% in quinalphos 0.05% . The total soluble solid and total and reducing sugar all were drastically reduced due to infestation of the pest. However, these parameters increased significantly and quality of the fruit was improved.",
+	"xml:lang":"eng"
+	}
+	}}

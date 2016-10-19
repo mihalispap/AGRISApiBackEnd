@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Physico-chemical, rheological and sensory characteristics of British commercial chapatti flours"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rehman, Salim-ur- (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paterson, Alistair (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Piggott, John R. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100422",
+	"dct:identifier":"FI2016100422",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Wheat varieties grown in Britain are commonly bred for good bread making qualities, but the performance of good bread making flours is not granted well to produce satisfactory chapatti due to high gluten strength and lack of good sheeting properties. The objective was comparative evaluation of commercial chapatti flours marketed in Britain for flour parameters relevant to suitability for production of chapattis, steam-leavened breads. Two commercial flours, Mehrani Wholemeal and Mehrani Brown, were not significantly different in some of key physico-chemical, rheological and sensory characteristics. Mehrani Wholemeal had excellent chapatti making qualities: formed a benchmark for comparison."}
+	}}

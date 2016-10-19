@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of microbial phytase supplementation of a barley-soybean meal diet the performance and bone mineralization of growing-finishing pigs /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Helander, Eija.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"calcium"},
+	{"value":"lihasika"},
+	{"value":"fosfori"},
+	{"value":"phytase"},
+	{"value":"carcass composition"},
+	{"value":"fytaasi"},
+	{"value":"kivennäisaineet"},
+	{"value":"rehut"},
+	{"value":"feed intake"},
+	{"value":"phosphorus"},
+	{"value":"ruokintakokeet"},
+	{"value":"entsyymit"},
+	{"value":"luusto"},
+	{"value":"mineral content"},
+	{"value":"teuraslaatu"},
+	{"value":"sulavuus"},
+	{"value":"digestibility"},
+	{"value":"bones"},
+	{"value":"kalsium"},
+	{"value":"weight gain"},
+	{"value":"supplements"},
+	{"value":"swine"},
+	{"value":"rehunkäyttökyky"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000386",
+	"dct:identifier":"FI2016000386",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

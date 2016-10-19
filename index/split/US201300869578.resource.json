@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Mineral contents and physicochemical properties of natural honey produced in Al-Qassim region, Saudi Arabia"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869578",
+	"dct:identifier":"US201300869578",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f29.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Osman, Khaled A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Doghairi, Mohamed A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Rehiayani, Suloiman (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"D. Helal, Mohamed I. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The characterization of natural honeys produced in different areas of Al-Qassim region, Saudi Arabia, was carried out on the basis of either their physicochemical properties or metal contents. The ranges of physicochemical properties were: moisture 14.45-15.95%, total sugars 58.98-80.60%, pH 3.88-4.58, total acidity 10.90-21.84 meq kg-1, ash content 0.139-0.398% and colour light amber-yellowish. According to these values, honey samples met all national and international specifications. Heavy metal analysis was carried out by using atomic absorption spectrometry to detect pollution in the provinces where the honey samples were collected. Mg was the most abundant element in honey samples followed by Fe, Zn, Mn, Cu, Pb and Cd. All these metals were found in non-significant values and are in safety baseline levels for human consumption."}
+	}}

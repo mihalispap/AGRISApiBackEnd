@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Transfer of vitamin A, E and β-carotene from feed to milk at various stages of lactation and its importance for milk stability.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jensen, Søren Krogh.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nielsen, Kirsten Nyholm.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lactation"},
+	{"value":"feeds"},
+	{"value":"dairy cows"},
+	{"value":"lypsykausi"},
+	{"value":"vitamiinit"},
+	{"value":"animal feeding"},
+	{"value":"lypsykarja"},
+	{"value":"rehut"},
+	{"value":"hapettuminen"},
+	{"value":"oxidation"},
+	{"value":"ruokinta"},
+	{"value":"retinol"},
+	{"value":"maito"},
+	{"value":"laatu"},
+	{"value":"carotenoids"},
+	{"value":"elintarvikkeiden laatu"},
+	{"value":"koostumus"},
+	{"value":"cow milk"},
+	{"value":"nutrients"},
+	{"value":"lehmät"},
+	{"value":"quality"},
+	{"value":"deterioration"},
+	{"value":"vitamin E"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF/NMR-seminar
+    (252 :
+    1995 :
+    Turku)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000643",
+	"dct:identifier":"FI2016000643",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

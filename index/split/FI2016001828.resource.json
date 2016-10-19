@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of clinoptilolite on ¹³⁷Cs binding in broiler chickens.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vitorovic, Gordana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Slavata, Branislava.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stosic, Katarina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mladenovic, Verica.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vitorovic, Dusko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"broiler chickens"},
+	{"value":"rehujen lisäaineet"},
+	{"value":"zeolites"},
+	{"value":"radioactive contamination"},
+	{"value":"ruokinta"},
+	{"value":"broilerit"},
+	{"value":"broilerinliha"},
+	{"value":"elintarvikkeet"},
+	{"value":"foods"},
+	{"value":"cesium"},
+	{"value":"caesium"},
+	{"value":"radioaktiiviset aineet"},
+	{"value":"clinoptilolite"},
+	{"value":"clinoptiloliitti"},
+	{"value":"adsorbents"},
+	{"value":"radioaktiivinen saastuminen"},
+	{"value":"adsorptio"},
+	{"value":"chicken meat"},
+	{"value":"radioactive decontamination"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001828",
+	"dct:identifier":"FI2016001828",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

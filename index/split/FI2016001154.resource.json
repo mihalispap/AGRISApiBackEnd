@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Addition of stabilized wood ashes to Swedish coniferous stands on mineral soils : effects on stem growth and needle nutrient concentrations.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Jacobson, Staffan.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"lehtianalyysi"},
+	{"value":"mänty"},
+	{"value":"kuusi"},
+	{"value":"neulasanalyysi"},
+	{"value":"Pinus sylvestris"},
+	{"value":"nitrogen fertilizers"},
+	{"value":"Picea abies"},
+	{"value":"tissue analysis"},
+	{"value":"leaves"},
+	{"value":"typpilannoitteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001154",
+	"dct:identifier":"FI2016001154",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

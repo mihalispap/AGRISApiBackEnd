@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:issued":"2016-06-30",
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"OCORRÊNCIA DE LAGARTAS EM FUNÇÃO DO MANEJO DE INSETICIDAS E UTILIZAÇÃO DE CULTIVARES DE ALGODOEIRO"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pereira, Amanda Casagrande, UEMS."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Martins, Gustavo Luís Mamoré, Universidade Estadual de Mato Grosso do Sul, Unidade Universitária de Cassilândia."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tomquelski, Germison Vital, Fundação Chapadão. Chapadão do Sul, MS."
+	}
+	}
+	],
+	"dct:extent":"62-67",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00046",
+	"dct:identifier":"BR2016H00046",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"bibo:abstract":{"value":"O objetivo do trabalho foi avaliar a ocorrência de lagartas em função do manejo de inseticidas e modos de utilização de cultivares de algodoeiro. O delineamento foi em blocos casualisados, em esquema fatorial 2 x 3, com seis tratamentos e cinco repetições, totalizando 30 parcelas. Os tratamentos foram: 1) Cultivar Nuopal (com inseticida) (100% Bt); 2) Cultivar Deltaopal (com inseticida) (100% não Bt); 3) Cultivar Nuopal centro (80%) e bordadura Deltaopal (20%) (com inseticida) (80% Bt + 20% não Bt); 4) Cultivar Nuopal (sem inseticida) (100% Bt); 5) Cultivar Deltaopal (sem inseticida) (100% não Bt) e 6) Cultivar Nuopal centro (80%) e bordadura deltaopal (sem inseticida) (80% Bt + 20% não Bt). Realizaram-se amostragens semanais em 10 plantas por parcela de Alabama argillacea, Heliothis virescens e Spodoptera frugiperda. A ocorrência de A. argillacea e H. virescens foi menor nos tratamentos com a cultivar transgênica. Não ocorreram diferenças entre a cultivares quanto à ocorrência de S. frugiperda. O manejo das cultivares com inseticida obteve maior eficiência comparada ao tratamento sem inseticida no controle das lagartas."},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"REVISTA DE AGRICULTURA NEOTROPICAL"}
+	}
+	}
+	}}

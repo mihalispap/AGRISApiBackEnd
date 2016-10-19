@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-19.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of substitution of acha for maize on the growth and economic performance of Oreochromis niloticus"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nwanna, L. C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fagbenro, O. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kehinde, O. L. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100116",
+	"dct:identifier":"FI2016100116",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Growth and digestibility experiments were conducted to determine the effects of replacing maize with Acha (Digitaria exilis) at 0, 20, 40, 60, 80, 100 % for diets 1, 2, 3, 4, 5, 6 of Oreochromis niloticus. The digestibility experiment was conducted for 14 days in indoor glass tanks while the feeding trial was carried out for 63 days in outdoor concrete tanks. In both experiments, the fishes were fed at 4% body weight twice daily. Results indicated no significant difference (p > 0.05) in the apparent digestibility coefficient (ADC) for protein and energy in the diets. There were no significant differences (p > 0.05) in the survival (%), mean weight grain (MWG), specific growth rate (SGR) and food conversion ratio (FCR) of the fishes fed the diets. However, the fishes fed diets of 20, 40, 60, 80 and 100% of Acha had better (p > 0.05) MWG, SGR and FCR than the fishes fed the diet without Acha (control diet). Fishes fed the diets 1 – 6 had similar (p > 0.05) haematocrit values and there was no histopathological effects as a result of the dietary treatments. Economic analysis showed that fishes fed diets up to 100% replacement of Acha for maize had higher profit index than those fed the control diet. Consequently, complete replacement of maize with Acha in the diets of O. niloticus is recommended for best economic returns."}
+	}}

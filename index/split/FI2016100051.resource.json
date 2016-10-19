@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-25.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Some quality characteristics of pheasant (P. colchicus) eggs"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kirikçi, Kemal (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Günlü, Aytekin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Çetin, Orhan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Garip, Mustafa (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100051",
+	"dct:identifier":"FI2016100051",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In this study, some external and internal quality characteristics of pheasant eggs were determined. In the material of 200 eggs following values were found for quality characteristics: egg weight 31.03 g, specific gravity 0.938, shape index 80.69, yolk index 43.19, albumen index 1.477, yolk weight 10.20 g, albumen weight 17.57, shell thickness 0.242 mm, shell weight 3.22 g, membrane thickness 0.004 mm, membrane weight 0.639 g and Haugh Unit 96.335. Egg weight correlated significantly with shell thickness (r=0.17**), shell weight (r=0.46***), yolk weight (r=0.35***) and albumen weight (r=0.58***)."}
+	}}

@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth, development and quality attributes of miniature golden apple fruit (Spondias cytherea Sonn). Part II: Physicochemical and organoleptic attributes associated with ripening"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Graham, Owen S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wickham, Lynda D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohammed, Majeed (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100056",
+	"dct:identifier":"FI2016100056",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Miniature golden apple (Spondias cytherea) fruit were stored at 21°C and 31°C for 10 days and evaluated for changes in respiration, ethylene production rates and physicochemical and organoleptic quality attributes. The number of days fruit took to attain full skin colour development associated with ripening varied with storage temperature and stage of development. Accordingly, at 21°C and 31°C respectively, immature fruit took 8 and 6 days, mature-green fruit 10 and 8 days and breaker fruit 7 and 6 days. Mature-green fruit had less decay and marketable quality attributes were maintained over a longer period of time. At both temperatures increased skin colour was associated with a climacteric pattern of respiration and higher soluble solids concentration and total sugar content. Generally, at the climacteric simultaneous peaks in CO2 and C2H4 production were attained for each of the three developmental stages used in this investigation. Peaks in CO2 and C2H4 production for both immature and breaker fruit were attained after 6 days but after 7 days for mature-green fruit at 31°C. However at 21°C peaks in CO2 and C2H4 production were attained for breaker fruit after 7 days but after 8 days for both immature and mature-green fruit. Storage at 21°C delayed the initiation of climacteric CO2 production by immature fruit and the initiation of climacteric C2H4 production by both mature-green and breaker fruit."}
+	}}

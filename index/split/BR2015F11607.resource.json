@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Carcass morphology and quality of goat from the region of “Alto Camaquã” slaughtered at different ages",
+	"xml:lang":"eng"
+	},
+	{"value":"   Morfologia e qualidade da carcaça de cabritos naturalizados do “Alto Camaquã” abatidos em diferentes idades ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"quality labels",
+	"xml:lang":"eng"
+	},
+	{"value":"loins",
+	"xml:lang":"eng"
+	},
+	{"value":"composition",
+	"xml:lang":"eng"
+	},
+	{"value":"tissue",
+	"xml:lang":"eng"
+	},
+	{"value":"slaughter value",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.3",
+	"bibo:doi":"10.17523/bia.v72n3p193",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F11607",
+	"dct:identifier":"BR2015F11607",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n3p193",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MARTINS, L. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OSÓRIO, J.C.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OSÓRIO, M.T.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BORBA, M. F. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERREIRA, O. G. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, R. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LEMES, J. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FARIAS, P. P."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O objetivo deste estudo foi avaliar a morfologia e a qualidade da carcaça de caprinos abatidos aos 8-9 meses e 11-12 meses de idade, criados de forma extensiva, procedentes do “Alto Camaquã”, RS, Brasil. Foram avaliadas carcaças de 37 caprinos machos castrados, sendo 14 abatidos com 8-9 meses de idade e 23 com 11-12 meses de idade. Na meia carcaça direita foram obtidos cinco cortes: paleta, perna, costelas flutuantes mais lombo com vazio, costelas fixas e peito, que foram posteriormente dissecados para determinação da composição tecidual do músculo, osso, gordura subcutânea, gordura intermuscular e outros tecidos. Houve diferença significativa entre idade de abate no rendimento de carcaça quente, rendimento comercial, perdas por resfriamento, comprimento da carcaça e perna e profundidade da perna e peito. Houve interação da idade de abate e corte da carcaça para a relação músculo:gordura, porcentagens de músculo, gordura total, gordura intermuscular e gordura subcutânea, e peso e porcentagem de outros tecidos. Para as variáveis osso, músculo, peso total dos cortes, relação músculo:osso e percentual do osso verificou-se efeito da idade de abate, independentemente do corte. Com o avanço da idade aumenta o rendimento comercial e de carcaça quente. Entretanto, a composição tecidual de animais abatidos com idade inferior apresenta melhor relação músculo:gordura nos diferentes cortes.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to evaluate the carcass morphology and quality of goats slaughtered at 8-9 and 11-12 months of age, which were reared extensively in the region of “Alto Camaquã”, Rio Grande do Sul, Brazil. The carcasses of 37 male castrated goats, including 14 animals slaughtered at 8-9 months of age and 23 at 11-12 months, were evaluated. The following five cuts were obtained from the right half-carcass: foreleg, hind leg, fluctuating ribs plus loin and flank, fixed ribs and chest. These cuts were then dissected for determination of the composition of muscle, bone, subcutaneous fat, intermuscular fat, and other tissues. There was a significant difference in hot carcass yield, commercial cut yield, cooling losses, carcass and leg length, and leg and chest depth between slaughter ages. An interaction between slaughter age and carcass cut was observed for muscle/fat ratio, muscle percentage, total fat, intermuscular and subcutaneous fat, and weight and percentage of other tissues. There was an effect of slaughter age, regardless of cut, on the variables bone, muscle, total cut weight, muscle/bone ratio and bone percentage. Commercial cut yield and hot carcass weight increase with age. However, the tissue composition of animals slaughtered at a younger age is characterized by a better muscle/fat ratio in the different cuts.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

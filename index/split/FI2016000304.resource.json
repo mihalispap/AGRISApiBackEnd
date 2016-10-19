@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Ekinokokin jälkilypsy : Kuusamon koirien suuri ulostetukimus talvella 1993 /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Oksanen, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laaksonen, Sauli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"parasites"},
+	{"value":"dogs"},
+	{"value":"faeces"},
+	{"value":"loiset"},
+	{"value":"Echinococcus granulosus"},
+	{"value":"loistaudit"},
+	{"value":"eläintaudit"},
+	{"value":"zoonoosit"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000304",
+	"dct:identifier":"FI2016000304",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

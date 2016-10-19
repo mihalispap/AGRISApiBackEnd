@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Intervenção fisioterapêutica em casos de pacientes admitidos por trauma torácico: um estudo retrospectivo",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kátia Cirílo Costa Nóbrega "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jessika Vanessa de Matos Pereira "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Daniela Silva Da Costa "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00043",
+	"dct:identifier":"BR2015M00043",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O fisioterapeuta pode atuar junto à equipe multidisciplinar na unidade de emergência através de uma intervenção precoce em pacientes com trauma torácico. O objetivo da pesquisa foi verificar a relação da intervenção fisioterapêutica com o tempo de internação, dos casos admitidos. A pesquisa iniciou após aprovação do Comitê de Ética e Pesquisa da Universidade Federal do Estado do Amapá, com base na coleta de dados dos prontuários de pacientes com trauma torácico admitidos no Hospital de Emergência de Macapá, no período de janeiro de 2009 a dezembro de 2010. Com as variáveis de estudo idade, sexo, mês de admissão, tempo de internação, tipo de ferimento, entre outros. Sendo utilizados como critérios de inclusão pacientes com diagnostico trauma torácico, admitido no Hospital de Emergência de Macapá, permanência acima de 24 horas no hospital de emergência, ferimento de arma de fogo ou arma branca, sendo excluídos da pesquisas os que não se encaixarem aos mesmos. Observou-se estatisticamente a correlação entre o tempo de internação e o tratamento fisioterapêutico, que são diretamente proporcionais para uma boa evolução do paciente. Pois a fisioterapia no paciente com trauma torácico traz uma melhor recuperação, um tempo de internação reduzido e com diminuição de complicações do quadro clinico.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

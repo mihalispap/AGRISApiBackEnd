@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of undercompensation and small remunerations on the regional economy of fishing in the Province of Central Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sipponen, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Latikka, Anna-Leena.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kansantalous"},
+	{"value":"inland waters"},
+	{"value":"fishing areas"},
+	{"value":"kalavedet"},
+	{"value":"kalatalousvelvoitteet"},
+	{"value":"fishing"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000797",
+	"dct:identifier":"FI2016000797",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

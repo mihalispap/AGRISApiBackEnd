@@ -1,0 +1,82 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/49331/16755",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of storage time and temperature on stability of bioactive compounds in aseptically packed beverages prepared from rose hips and sea buckthorn berries.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Andersson, Staffan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ekholm, Anders,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Johansson, Eva,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Olsson, Marie,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sjöholm, Ingegerd,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nyberg, Lena,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nilsson, Annika,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rumpunen, Kimmo,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vitamiinit"},
+	{"value":"soft fruits"},
+	{"value":"juomat"},
+	{"value":"beverages"},
+	{"value":"tyrni"},
+	{"value":"varastointi"},
+	{"value":"marjamehut"},
+	{"value":"Rhamnus"},
+	{"value":"fruit juices"},
+	{"value":"antioxidants"},
+	{"value":"antioksidantit"},
+	{"value":"ruusunmarja"},
+	{"value":"säilyvyys"},
+	{"value":"rose hips"},
+	{"value":"bioaktiiviset yhdisteet"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000982",
+	"dct:identifier":"FI2016000982",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Public perceptions of GMOs in food in Turkey : a pilot survey /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Basaran, Pervin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kilic, Birol.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Soyyigit, Hatice.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sengun, Hayriye.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Turkki"},
+	{"value":"regulations"},
+	{"value":"kuluttajat"},
+	{"value":"muuntogeeniset elintarvikkeet"},
+	{"value":"consumers"},
+	{"value":"kuluttajansuoja"},
+	{"value":"turvallisuusmääräykset"},
+	{"value":"elintarvikkeet"},
+	{"value":"genetically modified foods"},
+	{"value":"transgenic plants"},
+	{"value":"food safety"},
+	{"value":"genetically modified organisms"},
+	{"value":"transgenic animals"},
+	{"value":"consumer protection"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000846",
+	"dct:identifier":"FI2016000846",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

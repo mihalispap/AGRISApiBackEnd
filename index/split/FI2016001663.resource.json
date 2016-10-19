@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Dry matter partitioning and plant development as function of environmental factors in wheat (Triticum aestivum L.) cv. Avalon /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Laghari, Karim B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Munir, Muhammad.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Farrar, John F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mahar, Ali N.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dry matter content"},
+	{"value":"environmental factors"},
+	{"value":"valo"},
+	{"value":"vehnä"},
+	{"value":"juuri"},
+	{"value":"roots"},
+	{"value":"kehitysvaiheet"},
+	{"value":"verso"},
+	{"value":"kuiva-aine"},
+	{"value":"lämpötila"},
+	{"value":"Triticum aestivum"},
+	{"value":"kasvu"},
+	{"value":"shoots"},
+	{"value":"typpi"},
+	{"value":"ympäristötekijät"},
+	{"value":"chemical composition"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001663",
+	"dct:identifier":"FI2016001663",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

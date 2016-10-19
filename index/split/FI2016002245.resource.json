@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1192",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hökkä, Hannu,
+    kirjoittaja
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkelä, Hanna,
+    kirjoittaja.
+    Lapin yliopisto
+    1918
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Post-harvest height growth of Norway spruce seedlings in northern Finland peatland forest canopy gaps and comparison to partial and complete canopy removals and plantations .",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"advance growth"},
+	{"value":"pituuskasvu"},
+	{"value":"growth models"},
+	{"value":"height growth"},
+	{"value":"kasvumallit"},
+	{"value":"esikasvos"},
+	{"value":"canopy"},
+	{"value":"height"},
+	{"value":"canopy gaps"},
+	{"value":"Picea abies"},
+	{"value":"latvusto"},
+	{"value":"suot"}
+	],
+	"bibo:doi":"10.14214/sf.1192",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016002245",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002245",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

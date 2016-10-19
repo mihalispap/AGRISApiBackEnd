@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Green tea and health: An overview"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903837",
+	"dct:identifier":"US201300903837",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/f1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pham-Huy, Lien Ai Nguyen (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"He, Hua (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pham-Huy, Chuong (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Tea is the most widely consumed beverage in the world, except water. Recently, numerous researches have discovered the strong antioxidant potential mostly in green tea. This property is essentially due to catechins belonging to the polyphenolic flavonoids. These compounds are strong scavengers of free radicals and oxidants that could develop many ailments such as cancer, cardio-vascular disorders, inflammatory diseases, etc. Recent in vitro, animal and human studies have reported that green tea or its catechins may prevent cancer development, reduce cholesterol levels and hypertension, protect neurodegenerative diseases, improve dental health, etc. Although the antioxidant potential of green tea is evident, the results from epidemiological and clinicalstudies of the relationship between green tea and prevention of these diseases in humans are mixed. More controlled, well-designed clinical trials are needed to determine the effectiveness of green tea in human chemoprevention. The aim of this overview article is to revise the most recent medicinal studies of green tea, its chemical composition, its catechin pharmacokinetics and its side-effects."}
+	}}

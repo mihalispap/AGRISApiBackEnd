@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   oportunidades e ameaças para a ovinocultura no Estado de São Paulo "},
+	{"value":"Favorable and unfavorable points, pportunities and threats to sheep production in the state of São Paulo",
+	"xml:lang":"eng"
+	},
+	{"value":"   Pontos fracos e fortes ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"agroindustrial sector",
+	"xml:lang":"eng"
+	},
+	{"value":"production technology",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"productivity",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"66/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01840",
+	"dct:identifier":"BR2015F01840",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2009-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1277308647.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SOUZA,  Francisco A. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LOPES, Marco A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DEMEU, Fabiana A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this work was to identify the strong points, weak points, opportunities and the threats of Sao Paulo's sheep production and from this knowledge, to propose short, medium and long term strategies in order that it establishes adequately in the Sao Paulo agribusiness. A qualitative, semi-structured questionnaire containing five questions was utilized, applied in April of 2005. The answers of 48 questionnaires answered by three retail dealers, three raisers, 14 raising technicians (agronomists, veterinary physicians, animal scientists) and 28 technicians (agronomists, veterinary physicians, animal scientists) acting in the area of sheep production were analyzed. As to the strong points, weak points, threats and opportunities and challenges to the establishment of Sao Paulo sheep production, the results showed that there is a lack of coordination among links of the productive chain. The sectorial camera of the sheep production from Sao Paulo should take the responsibility of the coordination and to arbitrate, when is needed, all the links of the ovine chain production.",
+	"xml:lang":"eng"
+	},
+	{"value":"O objetivo desta pesquisa foi identificar os pontos fortes, os pontos fracos, as oportunidades e as ameaças da ovinocultura paulista e, a partir destes conhecimentos, proporem estratégias de curto, médio e longo prazo, a fim de que ela se estabeleça no agronegócio paulista. Utilizou-se um questionário qualitativo semiestruturado contendo cinco questões, aplicados em abril de 2005. Foram analisadas as respostas de 48 questionários respondidos por três varejistas, três produtores, 14 técnicos criadores (agrônomos, médicos veterinários e zootecnistas) e 28 técnicos (agrônomos, médicos veterinários e zootecnistas) atuantes na área da ovinocultura. A análise dos pontos fortes e fracos, das ameaças, oportunidades e desafios para o estabelecimento da ovinocultura paulista, mostrou haver falta de coordenação entre os elos da cadeia produtiva. A câmara setorial da ovinocultura paulista deve chamar para si a responsabilidade de coordenar e arbitrar, quando houver necessidade, todos os elos da cadeia produtiva.",
+	"xml:lang":"por"
+	}
+	]
+	}}

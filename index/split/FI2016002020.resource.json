@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Reappearance of old-growth elements in lowland woodlands in northern Belgium : do the associated species follow?",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vandekerkhove, Kris.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Keersmaeker, Luc de.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Walleyn, Ruben.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Köhler, Frank.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Crevecoeur, Luc.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Govaere, Leen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Thomaes, Arno.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Verheyen, Kris.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"saprolytic species"},
+	{"value":"very large trees"},
+	{"value":"dominated trees"},
+	{"value":"deadwood"},
+	{"value":"forest trees"},
+	{"value":"colonisation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002020",
+	"dct:identifier":"FI2016002020",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

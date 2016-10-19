@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of biostimulants in floating system for improving rocket quality"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vernieri, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Borghesi, E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ferrante, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Magnani, G. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100479",
+	"dct:identifier":"FI2016100479",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The traditional agricultural production systems are evolving more and more towards organic, sustainable or environmental friendly systems. On the other hand, it is important to keep the yield and the quality of crops. The reduction of fertilisers has to be substituted by strategies that improve the nutrients uptake or their utilisation by the plants. The aim of our work was to verify if applications of a biostimulant (Activawe®, Valagro S.p.A.) could reduce the fertilisers use without compromising the production and the quality of rocket (Eruca sativa Mill.) leafy vegetables. The experiments were performed in floating system with standard nutrient solution (NS100%) and ¼ reduced nutrient solution (NS25%) with or without 0.3 ml L-1 Activawe. The Activawe dose-effect studies were carried out using NS25% without biostimulat (control) or in combination with 0.08, 0.17, 0.3, 0.7, 1.3 or 2.7 mL L-1. Results showed that Activawe increased the nutrient use efficiency in all treatments. In fact, yield and chlorophyll content in NS100% compared with NS25% plus 0.3 mL L-1 Activawe were not statistically different. Moreover, Activawe lowered the leaf nitrate content by 11% in NS100% and by 33% in NS25%. The dose-effect studies showed that increasing Activawe concentration, from 0.08 to 0.3 mL L-1 in the nutrient solution, increased yield and chlorophyll content (values doubled). The effect of Activawe on lowering nitrate content was visible at 0.17 mL L-1, higher concentrations did not give any additional benefit. No phytotoxic effects were observed using Actiwave at all the concentrations tested."}
+	}}

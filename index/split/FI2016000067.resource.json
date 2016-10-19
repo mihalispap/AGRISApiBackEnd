@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Sensitization to common food and inhalant allergens in children attending Allergy and Asthma Pediatric Clinic in Doha, Qatar.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kerkadi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Althani, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Boainain, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Janahi, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rajiv Singh
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"casein"},
+	{"value":"hypersensitivity"},
+	{"value":"groundnuts"},
+	{"value":"milk"},
+	{"value":"immunological diseases"},
+	{"value":"fish"},
+	{"value":"bananas"},
+	{"value":"allergens"},
+	{"value":"children"},
+	{"value":"food allergies"},
+	{"value":"morbidity"},
+	{"value":"egg yolk"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000067",
+	"dct:identifier":"FI2016000067",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A study of feeding preferences of a summer pasture in hare (Lepus europaeus)"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876498",
+	"dct:identifier":"US201300876498",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Meineri, Giorgia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mussa, Pier Paolo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bergero, Domenico (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prola, Liviana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Peiretti, Pier Giorgio (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The aim of this research, carried out in an enclosure for hares restocking practice, was to study the evolution of dry matter, chemical composition and gross energy of pasture mainly composed by lucerne (Medicago sativa) and Johnson grass (Sorghum halepense) during summer period and to evaluate food preferences using acid insoluble ash (AIA) as marker. The evolution of the quality of both lucerne and Johnson grass is related to the ageing of the plant, with a progressive increase of the fibrous fraction (NDF and ADF) and a decrease of the crude protein content. The same trend was found in the faeces. In this study the AIA level in lucerne was not detectable whereas the AIA content of the faeces was lower than that on Johnson grass. The progressive reduction of AIA in the faeces can be induced by a progressive higher consumption of lucerne that is preferred by hares because it maintains a higher nutritional value during the season. In conclusion, the feeding preferences of the hare vary with the season, according to our data. This could be of utmost importance because feeding is a major point for the survival of restocking hares."}
+	}}

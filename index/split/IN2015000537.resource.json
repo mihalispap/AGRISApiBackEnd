@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of temperatures on infectivity of Entomopathogenic Nematodes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":410,
+	"dc:subject":[
+		{"value":"nematode entomopathogene",
+	"xml:lang":"fre"
+	},
+	{"value":"nematodos entomofilos",
+	"xml:lang":"esp"
+	},
+	{"value":"temperatura",
+	"xml:lang":"esp"
+	},
+	{"value":"entomophilic nematodes",
+	"xml:lang":"eng"
+	},
+	{"value":"temperature",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":413,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000537",
+	"dct:identifier":"IN2015000537",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pervez, Rashid"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devasahayam, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eapen, Santhosh J."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The infectivity of eight native isolates of EPNs, Heterorhabditis sp. (IISR-EPN 01), Steinernema sp. (IISR-EPN 02), S. ramanai (IISR-EPN 03), S. carpocapsae (IISR-EPN 06), Oscheius spp. (IISREPN 04, 05 &08) and O. gingeri (IISR-EPN 07) were tested against lepidopteran insect pest, Galleria mellonella larva and multiplication into host at different temperatures viz., 20, 25, 30 and 35oC. The temperature significantly affected the pathogenicity and multiplication ability of all tested EPNs. Among the test temperature, maximum mortality of larvae was found at 30oC followed by 25oC, whereas the least mortality of insects was recorded at 20 and 35oC. Maximum number of infective juveniles of EPNs were multiplied at 30oC, followed by 25oC, whereas, minimum multiplication was recorded at 35oC. However, no multiplication of EPNs was recorded at 20oC. Therefore, the optimal temperature for infection and multiplication of EPNs was 30Â°C.",
+	"xml:lang":"eng"
+	}
+	}}

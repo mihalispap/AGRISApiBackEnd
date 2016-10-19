@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Determination of harvesting time effect on quality and quantity of olive (Olea europea L.) oil in Roudbar regions"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911282",
+	"dct:identifier":"US201300911282",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hamidoghli, Yousef (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jamalizadeh, Sedigheh (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Malakroudi, Mohammad Ramzani (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This investigation was carried out to assess the impact of harvesting time on olive oil quality and quantity from three olive varieties cultivated in Roudbar regions. For this reason fruits of selected cultivars, Roghani, Zard and Lechino, were harvested with ten-day intervals from 23 September till 11 November. Then quantity and quality of oil were analyzed. The results showed that oil content (in dry and fresh matter), free fatty acids, UV absorption at 232 nm (K232), linoleic acid and estearic acid increased and peroxide value, UV absorption at 270 nm (K270), oleic acid and polyphenols decreased during ripening. The amount of palmitic acid did not change significantly during harvesting period. The optimum harvesting time for these cultivars was from 20 October to 1 November."}
+	}}

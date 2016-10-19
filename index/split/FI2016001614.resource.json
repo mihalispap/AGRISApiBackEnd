@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Optimizing thinnings and rotation of Scots pine and Norway spruce mixtures.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vettenranta, Jouni.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Miina, Jari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"thinning"},
+	{"value":"simulointimallit"},
+	{"value":"optimization methods"},
+	{"value":"simulation models"},
+	{"value":"harvennus"},
+	{"value":"mänty"},
+	{"value":"mixed forests"},
+	{"value":"Pinus sylvestris"},
+	{"value":"sekametsät"},
+	{"value":"metsänhoito"},
+	{"value":"Picea abies"},
+	{"value":"optimointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001614",
+	"dct:identifier":"FI2016001614",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

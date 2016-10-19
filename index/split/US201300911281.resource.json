@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The effects of seed size on emergence and yield of durum wheat"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911281",
+	"dct:identifier":"US201300911281",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Akinci, Cuma (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yildirim, Mehmet (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bahar, Bilge (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A two years study was conducted in the 2004/2005 and 2005/2006 growing seasons to determine the effect of seed size on seedling emergence, yield and quality of ‘Ceylan 95’ durum wheat. In the study, seeds were separated with different sieves and 4 different size groups were prepared. Seed sizes were smaller than 2.2 mm, 2.2-2.5 mm, 2.5-2.8 mm and bigger than 2.8 mm. The seed density of each group was 450 seeds m-2. The trial was performed according to the completely randomized block design with three replications. Grain yield was increased with uniform large seeds in both years. The use of largest seeds resulted in a more competitive cropping system, improving grain yields by 15%. Germination and emergence rates were higher in bigger seeds. The 1000 kernel weight and test weight of smaller seeds were higher than those of bigger seeds because of poor emergence rate. The use of uniform large seeds increased seedling emergence and grain yield. Results demonstrate that commercial seeds >2.2 mm wide can be successfully used in wheat production."}
+	}}

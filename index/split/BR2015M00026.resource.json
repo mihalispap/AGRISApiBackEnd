@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Tecnologia dos diodos orgânicos emissores de luz: uma visão físico-ambiental",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Willians Lopes Almeida "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vinícius Batista Campos "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raimundo de Moura Rolim Neto "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00026",
+	"dct:identifier":"BR2015M00026",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Este trabalho apresenta uma reflexão sobre a tecnologia dos diodos orgânicos emissores de luz com aplicação no setor de iluminação sob a perspectiva da redução no consumo de energia elétrica. Para tanto, faz-se necessário uma revisão na literatura a cerca da história do desenvolvimento da tecnologia enfatizando, logo em seguida, seu conceito, configuração do dispositivo, processo de fabricação, princípio de funcionamento e algumas aplicações. Também são apresentados alguns problemas ambientais voltados para questão energética, sendo estes a motivação para que possamos pensar em tecnologias que visem o uso sustentável dos recursos \"provenientes\" do meio ambiente. Assim, ao final, são apresentadas as considerações acerca do que a tecnologia dos diodos orgânicos emissores de luz podem vir a contribuir para redução dos problemas ambientais relacionados ao setor energético.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

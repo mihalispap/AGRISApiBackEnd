@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutrient distribution in Picea likiangensis trees growing in a plantation in West Sichuan, Southwest China /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Liu, Xingliang.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Xu, Haiyun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Berninger, Frank.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Luukkanen, Olavi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Li, Chunyang.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plantations"},
+	{"value":"nutrients"},
+	{"value":"kulkeutuminen"},
+	{"value":"Picea"},
+	{"value":"ravinteet"},
+	{"value":"Picea likiangensis"},
+	{"value":"translocation"},
+	{"value":"Sichuan"},
+	{"value":"distribution"},
+	{"value":"China"},
+	{"value":"taimikot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002097",
+	"dct:identifier":"FI2016002097",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

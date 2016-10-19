@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"Performance Evaluation of Sewage Treatment Plants (STPs) in Multistoried Buildings",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"sewage",
+	"xml:lang":"eng"
+	},
+	{"value":"buildings",
+	"xml:lang":"eng"
+	},
+	{"value":"aeration",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513113",
+	"dct:identifier":"IN2016513113",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=25",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ganesan Jayanthi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Namasivayam Vasudevan"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The enormous generation of wastewater in a relatively small area i.e., in a multistoried building, makes mandatory to have a mini Sewage Treatment Plant (STP) inside the premises itself. In a developing country like India, where competition for freshwater supplies will continue to increase, it is better to reuse the treated wastewater to meet the demand. Many treatment technologies are available currently, hence it is essential to find an appropriate technology for treating the wastewater. This study is to know about the different STP’s installed in the multistoried buildings, to analyse the performance of each technology, its design concepts and the life cycle costing of each system. Four technologies, namely Extended Aeration, SBR, MBR and FBBR were selected for the study. From the study, it was observed that, extended aeration is a preferred technology as per as the efficiency of the plant in treating the wastewater. From this study, it is concluded that, even though efficiency of the system is very important, a decision is made in finding an appropriate technology based on its relative closeness to its both, positive ideal solution and negative ideal solution (using TOPSIS) and found that SBR is a best technology based on the criteria selected.",
+	"xml:lang":"eng"
+	}
+	}}

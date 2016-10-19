@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The potential of plant resistance to the brassica root flies in integrated and organic vegetable production.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Taksdal, Gudmund.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"vihannekset"},
+	{"value":"resistenssi"},
+	{"value":"isokaalikärpänen"},
+	{"value":"lanttu"},
+	{"value":"tuhohyönteiset"},
+	{"value":"Brassica napobrassica"},
+	{"value":"plant breeding"},
+	{"value":"Delia floralis"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"vegetable crops"},
+	{"value":"kasvinjalostus"},
+	{"value":"resistenssijalostus"},
+	{"value":"organic gardening"},
+	{"value":"pest resistance"},
+	{"value":"kukkakaali"},
+	{"value":"tuholaiskestävyys"},
+	{"value":"tuhoeläimet"},
+	{"value":"pest insects"},
+	{"value":"Brassica oleracea botrytis"},
+	{"value":"Norway"},
+	{"value":"integroitu torjunta"},
+	{"value":"integrated pest management"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF Seminar
+    (1995 :
+    Lillehammer)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001801",
+	"dct:identifier":"FI2016001801",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

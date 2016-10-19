@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Production and distribution of planting materials- A thrust area of Board",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":32,
+	"dc:subject":[
+		{"value":"PLANTING MATERIALS"},
+	{"value":"economic distribution",
+	"xml:lang":"eng"
+	},
+	{"value":"distribucion economica",
+	"xml:lang":"esp"
+	},
+	{"value":"distribution economique",
+	"xml:lang":"fre"
+	},
+	{"value":"produccion",
+	"xml:lang":"esp"
+	},
+	{"value":"production",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvi",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000585",
+	"dct:identifier":"IN2015000585",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"apr2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Deepthi, R."
+	}
+	},
+	"bibo:issue":1
+	}}

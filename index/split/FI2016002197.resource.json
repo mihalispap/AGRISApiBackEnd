@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"An integrated simulation model to evaluate national measures for the abatement of agricultural nutrients in the Baltic Sea.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hyytiäinen, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahtiainen, Heini.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heikkilä, Jaakko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Helin, Janne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huhtala, Anni.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Iho, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koikkalainen, Kauko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Miettinen, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pouta, Eija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vesterinen, Janne.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vesiensuojelu"},
+	{"value":"simulointimallit"},
+	{"value":"Finland"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"cost benefit analysis"},
+	{"value":"simulation models"},
+	{"value":"vesistönkuormitus"},
+	{"value":"nutrients"},
+	{"value":"meret"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"ravinteet"},
+	{"value":"leaching"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002197",
+	"dct:identifier":"FI2016002197",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

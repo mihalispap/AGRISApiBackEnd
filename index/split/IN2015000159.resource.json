@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Determination of immune reactive proteins in cystic membrane of Cysticercus tenuicollis of goat origin",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":822,
+	"dc:subject":[
+		{"value":"technique immunologique",
+	"xml:lang":"fre"
+	},
+	{"value":"respuesta inmunologica",
+	"xml:lang":"esp"
+	},
+	{"value":"tecnicas inmunologicas",
+	"xml:lang":"esp"
+	},
+	{"value":"immunoblotting",
+	"xml:lang":"esp"
+	},
+	{"value":"immune response",
+	"xml:lang":"eng"
+	},
+	{"value":"immunological techniques",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"taenia hydatigena",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"reponse immunitaire",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":823,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000159",
+	"dct:identifier":"IN2015000159",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"aug2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sanyal, Prabir Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nath, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pal, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal, S. C."
+	}
+	}
+	],
+	"bibo:issue":8,
+	"bibo:abstract":{"value":"The SDS-PAGE profiles of membrane antigens of C. tenuicollis revealed 15 polypeptides bands having MW of 10 â131 kDa. Immunoblotting results revealed bands of 66, 58, 44, 34 and 14 kDa on the nitrocellulose membrane in the anti-membrane goat hyperimmune serum, while the bands of 90, 66, 58, 44, 38, 34, 31 and 14 kDa were noticed in the rabbit anti-membrane hyperimmune serum and 34 and 14 kDa were found in the naturally infected goat serum. Thus bands of 34 and 14 kDa being common could be explored for the diagnosis of Taenia hydatigena cysticercosis in goat.",
+	"xml:lang":"eng"
+	}
+	}}

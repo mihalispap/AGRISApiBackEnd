@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Status of oxidative stress and antioxidant enzymes in normally calved and dystocia affected buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":915,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"dystocie",
+	"xml:lang":"fre"
+	},
+	{"value":"distocia",
+	"xml:lang":"esp"
+	},
+	{"value":"stress",
+	"xml:lang":"fre"
+	},
+	{"value":"dystocia",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"estres",
+	"xml:lang":"esp"
+	},
+	{"value":"antioxidants",
+	"xml:lang":"eng"
+	},
+	{"value":"oxydation",
+	"xml:lang":"fre"
+	},
+	{"value":"antioxydant",
+	"xml:lang":"fre"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"antioxidantes",
+	"xml:lang":"esp"
+	},
+	{"value":"oxidacion",
+	"xml:lang":"esp"
+	},
+	{"value":"oxidation",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":918,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000162",
+	"dct:identifier":"IN2015000162",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bansal, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cheema, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brar, P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gandotra, V.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prabhakar, S."
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"The present study was undertaken to assess the activity of antioxidant enzymes, viz. superoxide dismutase, glutathione peroxidase, glutathione reductase and glutathione-S-transferase; and extent of oxidative stress/lipid peroxidation (LPO) in the blood plasma and uterine fluid of normally calved and dystocia affected Murrah buffaloes (fetal dystocia, dystocia due to uterine torsion. The results showed that both in the blood plasma and uterine fluid of dystocia affected animals (fetal dystocia and uterine torsion), malondialdehyde (MDA) production was significantly higher than in normally calved buffaloes. Significant changes were observed in the enzymatic antioxidant status (GPx, GR and SOD) of normally calved buffaloes and those suffering from dystocia in the 2 types of fluid, which could be used as a marker to assess the level of oxidative stress in the latter ones during immediate calving. An alternative diagnostic substrate which appeared to be effective in estimating the quantum of oxidative stress was uterine fluid. In conclusion, severe damage in the cases of fetal dystocia and uterine torsion indicated progression towards deteriorative action of various reactive oxygen species and possibly severe oxidative stress which have been generated during the time of parturition.",
+	"xml:lang":"eng"
+	}
+	}}

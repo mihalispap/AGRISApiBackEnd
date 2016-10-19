@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro antibacterial effects of single or combined plant extracts"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025474",
+	"dct:identifier":"FI2005025474",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yasar, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sagdic, O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kisioglu, A.N. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Single or combined extracts of black thyme, fennel, sage, wild tea and wild mint were used to evaluate in vitro antibacterial activity against common pathogenic and lactic acid bacteria. The combined plant extracts (1 to 1 mixing ratio) provided an entire antibacterial effect against pathogenic bacteria compared to the single plant extracts. The inhibition of lactic acid bacteria was weaker by single plant extracts than the combined plant extract. Of the plant extracts, black thyme had the strongest antibacterial activity, and this was followed by the sage, wild tea and wild mint in a descending order. The combined plant extracts with strong inhibition against pathogenic bacteria also exhibited strong inhibition against lactic acid bacteria. Therefore, the combined plant extracts with moderate inhibitory effects against both pathogenic and lactic acid bacteria could be sufficiently optimal when considering a natural feed additive to improve animal’s gut health."}
+	}}

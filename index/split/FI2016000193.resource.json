@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Matter and nutrient dynamics of pine (Pinus tabulaeformis) and oak (Quercus variabilis) litter in North China.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Liu, Chun-Jiang.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Westman, Carl J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ilvesniemi, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrients"},
+	{"value":"degradation"},
+	{"value":"metsämaa"},
+	{"value":"hajoaminen"},
+	{"value":"Quercus"},
+	{"value":"ravinteet"},
+	{"value":"China"},
+	{"value":"Pinus"},
+	{"value":"Pinus tabulaeformis"},
+	{"value":"forest litter"},
+	{"value":"Quercus variabilis"},
+	{"value":"karike"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000193",
+	"dct:identifier":"FI2016000193",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

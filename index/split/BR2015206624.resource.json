@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Ureia revestida com polímero de liberação controlada na qualidade fisiológica de sementes de quiabo ",
+	"xml:lang":"por"
+	},
+	{"value":"Urea polymer coated with controlled release in physiological quality okra seeds",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":{"value":"germination",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"6/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206624",
+	"dct:identifier":"BR2015206624",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/493/303",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Assis Miquéias de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Costa Annanda Mendes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"David Andréia Márcia Santos de Sousa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alves Igor Santos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rocha Josiele Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alves Pablo Fernando Santos"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Viçosa, Viçosa, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Viçosa, Viçosa, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Janaúba, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal dos Vales do Jequitinhonha e Mucuri, Diamantina, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Janaúba, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Montes Claros, Janaúba, MG, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this work was to evaluate the influence of urea coated with controlled release polymer in the seed quality of okra cultivar Santa Cruz 47.The experimental design was completely randomized with four replications.The experiment consisted of two parts. At first, we evaluated fourdoses of nitrogen (0, 48, 96, and 144 kg ha-1) applied using as a source, a commercial mixture containing 30% urea and 70% common urea polymer controlled release. In the second part, we tested the effect of two nitrogen sources, urea and conventional urea polymer controlled release ata dose of 120 kg ha-1. In the first part, the treatment means were compared by regression analysisand the second, the “t” test at 5%. To evaluate the physiological quality of seeds, the following tests and / or determinations were carried out: moisture, seedling emergence, speed of emergence index, seedling length, fresh and dry weight of seedlings, and electrical conductivity. The seed quality of okra cultivar Santa Cruz 47, reduces to the application of doses of conventional commercial mixturecontaining urea and urea polymer coated controlled release. The nitrogen sources used did not affect the physiological quality of seeds of okra.",
+	"xml:lang":"eng"
+	},
+	{"value":"Objetivou-se com este trabalho avaliar a influência da ureia revestida com polímero de liberação controlada na qualidade fisiológica de sementes de quiabo, cultivar Santa Cruz 47. O delineamento experimental utilizado foi inteiramente casualizado com quatro repetições. O experimento constoude duas partes. Na primeira, foram avaliadas quatro doses de nitrogênio (0, 48, 96, e 144 kg ha-1) aplicadas utilizando-se como fonte, uma mistura comercial contendo 30% de ureia comum e 70% de ureia com polímero de liberação controlada. Na segunda parte, testou-se o efeito de duas fontes de nitrogênio, ureia convencional e ureia com polímero de liberação controlada, na dose de 120 kg ha-1. Na primeira parte, as médias dos tratamentos foram comparadas pela análise de regressão e na segunda, pelo teste “t” em nível de 5%. Para a avaliação da qualidade fisiológica das sementes, os seguintes testes e/ou determinações foram realizados: teor de água, emergência de plântulas, índice de velocidade de emergência, comprimento de plântulas, massa frescae seca de plântulas, e condutividade elétrica. A qualidade fisiológica de sementes de quiabo, cultivar Santa Cruz 47, reduz com a aplicação das doses de mistura comercial contendo ureia convencional e uréia revestida com polímero de liberação controlada. As fontes de nitrogênioutilizadas não influenciaram a qualidade fisiológica das sementes de quiabo.",
+	"xml:lang":"por"
+	}
+	]
+	}}

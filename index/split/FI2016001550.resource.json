@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of compression wood on surface roughness and surface absorption of medium density fiberboard.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Akbulut, Turgay.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ayrilmis, Nadir.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fiberboards"},
+	{"value":"kuitulevyt"},
+	{"value":"reaktiopuu"},
+	{"value":"surface properties"},
+	{"value":"compression wood"},
+	{"value":"surface analysis"},
+	{"value":"medium density fiberboard"},
+	{"value":"reaction wood"},
+	{"value":"ominaisuudet"},
+	{"value":"properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001550",
+	"dct:identifier":"FI2016001550",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

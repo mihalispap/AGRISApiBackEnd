@@ -1,0 +1,72 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effectiveness of zinc, copper and manganese applied in organic forms in diets of high milk yielding cows /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kinal, Stefania.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korniewicz, Daniel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jamroz, Dorota.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korniewicz, Adolf.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stupczyńska, Maja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bodarski, Rafal.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ziemiński, Ryszard.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Osięglowski, Stanislaw.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dymarski, Ireneusz.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lactation"},
+	{"value":"zinc"},
+	{"value":"dairy cows"},
+	{"value":"copper"},
+	{"value":"mineral supplements"},
+	{"value":"animal feeding"},
+	{"value":"milk"},
+	{"value":"trace elements"},
+	{"value":"manganese"},
+	{"value":"cows"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002046",
+	"dct:identifier":"FI2016002046",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

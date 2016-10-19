@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Public perception of food handling practices and food safety in Turkey.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Cagri-Mehmetoglu, A.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"food handling"},
+	{"value":"milk"},
+	{"value":"food safety"},
+	{"value":"fish"},
+	{"value":"meat"},
+	{"value":"consumers"},
+	{"value":"food hygiene"},
+	{"value":"foodborne diseases"},
+	{"value":"salads"},
+	{"value":"attitudes"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002159",
+	"dct:identifier":"FI2016002159",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/41454/13853",
+	"dct:language":"eng",
+	"dct:title":{"value":"Mycotoxin survey of wheat samples graded according to their technological quality.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Slikova, Svetlana,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gavurniková, Son̆a,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mináriková, Martina,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Greková, Edita,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Šudyová, Valéria,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vomitoxin"},
+	{"value":"Triticum aestivum"},
+	{"value":"vehnä"},
+	{"value":"sato"},
+	{"value":"Slovak Republic"},
+	{"value":"mykotoksiinit"},
+	{"value":"grain"},
+	{"value":"quality"},
+	{"value":"laatu"},
+	{"value":"contamination"},
+	{"value":"vilja"},
+	{"value":"mycotoxins"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002247",
+	"dct:identifier":"FI2016002247",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

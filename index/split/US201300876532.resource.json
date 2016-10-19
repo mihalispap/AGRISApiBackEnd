@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic variation of some botanical and cultivar varieties of Acer sp."},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876532",
+	"dct:identifier":"US201300876532",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e28.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rzepka-Plevneš, D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Smolik, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Drzewiecka, K. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Genetic variation of two botanical varieties of Acer sp. (Acer palmatum var. heptalobum, Acer palmatum f. atropurpureum) and seven its cultivars (Acer palmatum ‘Dissectum Atropurpureum’, Acer palmatum ‘Dissectum Ornatum’, Acer palmatum ‘Garnet’, Acer palmatum ‘Osakazuki’, Acer palmatum ‘Nicholsonii’, Acer japonicum ‘Aconitifolium’ and Acer shirasavanum ‘Aureum’) from the collection of the Przelewice Dendrological Garden were investigatedusing inter simple sequence repeat (ISSR) markers. Thirty ISSR primers were screened and 11 were selected for their ability to produce clear and reproducible patterns of multiple bands. A total of 142 loci of 200 – 2750 bp were amplified, of which 84 (59.2%) were polymorphic, 8 (5.6%) monomorphic and 50 (35.2%) were accession-specific. In addition, specific ISSR loci were obtained for all of the nine accessions tested. A dendrogram generated using the UPGMA, based on a similarity measure of total character difference, showed that the Acer cultivars and varieties clustered into three main groups (a, b and c). The first group ‘a’ included Acer palmatum ‘Dissectum Ornatum’ and Acer palmatum var. heptalobum (52% similarity), the second one ‘b’ included 5 cultivars, Acer palmatum ‘Nicholsonii’, Acer palmatum f. atropurpureum, Acer palmatum ‘Osakazuki’, ‘Garnet’ and Acer japonicum ‘Aconitifolium’ (71.5% similarity) and the third one ‘c’ Acer shirasavanum ‘Aureum’ and Acer palmatum ‘Dissectum Atropurpureum’ (57% similarity)."}
+	}}

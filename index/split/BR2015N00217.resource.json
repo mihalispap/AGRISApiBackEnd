@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"PESCA COMERCIAL E ESTRUTURA POPULACIONAL DA SERRA, Scomberomorus brasiliensis (COLLETTE, RUSSO & ZAVALA, 1978), DESEMBARCADA EM UM PÓLO PESQUEIRO NA COSTA NORTE DO BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":99,
+	"bibo:volume":5,
+	"bibo:pageEnd":106,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00217",
+	"dct:identifier":"BR2015N00217",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1611",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ramon Carlos Maia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bianca Bentes Da Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Luciano de Jesus Gomes Pereira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Francisco Carlos Alberto Fonteles Holanda"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Foram realizadas visitas periódicas ao município de Salinópolis (PA) para o levantamento de dados referentes às embarcações atuantes na captura da serra, espécie comercialmente importante nos desembarques pesqueiros, e demais dados de produção. As embarcações catalogadas (49) são de madeira com baixa autonomia e poucos equipamentos de comunicação e localização de cardumes. As capturas são feitas por meio de redes 'serreiras' que é o principal petrecho utilizado, esta por sua vez possui panagem confeccionada em poliamida monofilamento e cabos de boia e pesos em polietileno multifilamento, grande parte das redes atuam na superfície da água. Adicionalmente, foram adquiridos mensalmente 30 indivíduos da presente espécie oriundos das capturas supracitadas. Dentre os exemplares mensurados as fêmeas apresentaram comprimento e peso total superiores aos dos machos. As alometrias morfométricas foram negativas em grande parte. O L50 encontrado através do comprimento padrão foi de 40,07 cm. Os estágios gonadais apresentaram indivíduos em sua maioria maturos e desovados. Foi predominante o numero de fêmeas em relação aos machos. Observa-se uma redução no tamanho de primeira maturação ao longo da costa Norte-Nordeste. De forma positiva, as capturas comerciais que desembarcam no município de Salinópolis atuam em grande parte sobre os indivíduos adultos de serra, entretanto, esta assertiva deve ser tratada com cautela, uma vez que em médio e longo prazos pode levar à sobrepesca de recrutamento. Scombridae, Salinópolis, rede serreira, pesca artesanal.",
+	"xml:lang":"por"
+	}
+	}}

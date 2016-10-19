@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Metastatic behavior of human tumour xenografts in immuno-compromised mouse model",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":192,
+	"dc:subject":[
+		{"value":"raton",
+	"xml:lang":"esp"
+	},
+	{"value":"souris",
+	"xml:lang":"fre"
+	},
+	{"value":"mice",
+	"xml:lang":"eng"
+	},
+	{"value":"virus des invertebres",
+	"xml:lang":"fre"
+	},
+	{"value":"pulmones",
+	"xml:lang":"esp"
+	},
+	{"value":"invertebrate viruses",
+	"xml:lang":"eng"
+	},
+	{"value":"virus de invertebrados",
+	"xml:lang":"esp"
+	},
+	{"value":"cytokine",
+	"xml:lang":"fre"
+	},
+	{"value":"liver",
+	"xml:lang":"eng"
+	},
+	{"value":"lungs",
+	"xml:lang":"eng"
+	},
+	{"value":"foie",
+	"xml:lang":"fre"
+	},
+	{"value":"cytokines",
+	"xml:lang":"eng"
+	},
+	{"value":"citoquinas",
+	"xml:lang":"esp"
+	},
+	{"value":"higado",
+	"xml:lang":"esp"
+	},
+	{"value":"metastigmata",
+	"xml:lang":"esp"
+	},
+	{"value":"poumon",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":197,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000110",
+	"dct:identifier":"IN2015000110",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ingle, Arvind"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hosetti, Basaling"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The continued growth of metastatic tumour cells in distant organs, as a result of dissemination of tumour cells from primary site, isa major cause of mortality in human! animal cancer patients. A mechanistic understanding of the metastatic process and development of antimetastatic modalities may bring down morbidity and mortality. The present study was undertaken to study the metastatic behaviour of four types of human tumours in non-obese diabetic-severe combined immunodeficient (NOD SCID)mice. Fresh human tumours of breast, brain, oral cavity and muscle origin collected from the operation theater of the Advanced Centre for Treatment, Research and Education in Cancer (ACTREC)by the Biorepository Laboratory, ACTREC, were obtained for this study and were implanted surgically under subcutis of the NOD SCID mice. Acceptance of the tumour in these mice was ascertained histologically as well as by PCR using short tandem repeat (SIR) methods. Metastases in lungs and liver, if any, was screened histologically and by STR methods. Breast, brain, oral cavity and muscle tumour did not show lungs or liver metastases. However, lungs DNA samples from some of the breast, brain and oral cavity tumour transplanted mice could confirm the presence of circulating tumour cellsby PCR method. Further long term studies are required to establish use of SCID mice, for xenografts of histologically intact tissues of serially transplanted tumour, as useful model for study of metastases.",
+	"xml:lang":"eng"
+	}
+	}}

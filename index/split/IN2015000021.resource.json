@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation and validation of non-chemical IPM and inm technology for bell pepper (Capsicum annum var. Frutescens L.) through farmers' participatory approach",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":127,
+	"dc:subject":[
+		{"value":"gestion de lucha integrada",
+	"xml:lang":"esp"
+	},
+	{"value":"agriculture biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"integrated pest management",
+	"xml:lang":"eng"
+	},
+	{"value":"organic agriculture",
+	"xml:lang":"eng"
+	},
+	{"value":"piment doux",
+	"xml:lang":"fre"
+	},
+	{"value":"chili dulce",
+	"xml:lang":"esp"
+	},
+	{"value":"sweet peppers",
+	"xml:lang":"eng"
+	},
+	{"value":"agricultura organica",
+	"xml:lang":"esp"
+	},
+	{"value":"gestion integree des ravageurs",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":131,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000021",
+	"dct:identifier":"IN2015000021",
+	"dct:type":"Non-Conventional",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sardana, H.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhat,  M. N.,"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sehgal,  Mukesh"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Non-chemical IPM &INM technologies (Organic) along with IPM farm trials were carried out on bell pepper (Capsicum annum var. frutescens L.) in Daha, Karnal, Haryana during 2009â10 and 2010â11 in a Farmers Participatory mode. Farmers practices (FP) consisting entirely of pesticidal sprays were also included in trial. The non-chemical (organic) integrated nutrient and pest management technology which included application of FYM @ 20 tonnes/ha fortified with Trichoderma sp., seedling dip before transplanting in Pseudomonas fluroscens, soil application of neem cake @ 1.5 tonnes/ha in three split doses, erection of pheromone traps @ 15/ha for fruit borer, four sprays of HaNPV @ 250 LE/ha in the initial stages, need based sprays of neem for aphids in early stages of crop, application of spinosad and proclaim biopesticides for thrips and fruit borer, respectively, releases of Trichogramma sp @ 1.5 lakh/ha for fruit borer, collection, destruction and rouging out of borer damaged fruits and mosaic virus complex affected plants; though resulted in lower yields (172.5 &138.0 q/ha) and so the lower CBR (1: 2.49 &1: 2.32) in non-chemical (organic) trial than IPM-yield (205.0 &180.0 q/ha); CBR (1: 3.78 &1: 3.07) and Farmers Practices-yield (190 &164.6 q/ha); CBR (1: 3.51 &1: 2.85), but yielded clean &better quality produce as reflected by pesticide residue studies conducted separately. Therefore, the IPM technology used was not only directly environment friendly but also more sustainable vide increase in biodiversity (natural enemies, soil flora &fauna).",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/e10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Towards a paradigm shift for agricultural extension: An environmental sociology perspective"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hayati, Dariush (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rezaei-Moghaddam, Kurosh (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100130",
+	"dct:identifier":"FI2016100130",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This paper provides a conceptual framework for sustainability of extension efforts. A case illustration of extension and agricultural development activities of Iran indicates that these activities are not sustainable. The perceptions and assumptions about the relationship between society and environment based on environmental sociology worldview are presented to reconstruct the theoretical basis of agricultural extension. It has concluded that at the age of environment, the environmental sociology worldview could be used to paradigm shift for agricultural extension."}
+	}}

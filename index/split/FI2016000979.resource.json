@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/49532/16515",
+	"dct:language":"eng",
+	"dct:title":{"value":"Plant uptake of phosphorus from sparingly available P- sources as affected by Trichoderma asperellum T34.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Garcia-Lopez, Ana Maria,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aviles, Manuel,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Delgado, Antonio,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"phytase"},
+	{"value":"kasvit"},
+	{"value":"ritsosfääri"},
+	{"value":"plants"},
+	{"value":"phosphorus"},
+	{"value":"rhizosphere"},
+	{"value":"phosphates"},
+	{"value":"nutrients"},
+	{"value":"maaperä"},
+	{"value":"Trichoderma"},
+	{"value":"ravinteiden otto"},
+	{"value":"nutrient uptake"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000979",
+	"dct:identifier":"FI2016000979",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-111.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Head bugs: components of host-plant resistance in sorghum (Sorghum bicolor (L.) Moench)"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Showemimo, F. A. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100454",
+	"dct:identifier":"FI2016100454",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Six internationally known sorghum cultivars were evaluated for 2 seasons (years) to investigate their response to artificially infested panicle insect pest (Eurystylus oldi Poppius; also known as head bug), panicle characteristics associated with their responses and economic importance of the pest. The experimental layout was randomized block design replicated thrice. Differences among cultivars was significant (P < 0.01) for number of head bugs/5 panicles, grain damage rating, 1000 grain weight and grain yield. Percent reduction ranged from 2% to 32% for 1000-grain weight, while grain yield reduction ranged between 4% for Malisor 84-7 and 30% for Nagawhite. Loose and semi—compact panicle types and high percent glume coverage are important in determining resistant or susceptible cultivar (s). The high percent loss in grain yield indicated the economic importance of the panicle pest. Malisor 84-7, IS 17610 and IS 20368 are potential sources of resistance to E. oldi Poppius."}
+	}}

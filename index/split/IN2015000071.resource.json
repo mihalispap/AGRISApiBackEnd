@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of Detection Threshold of Different Pasteurella Multocida Specific PCRS",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":28,
+	"dc:subject":[
+		{"value":"pasteurella multocida",
+	"xml:lang":"esp"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":33,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000071",
+	"dct:identifier":"IN2015000071",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jonathan, Lalsiamthara"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arora, Anil Kumar"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study was undertaken to determine the detection threshold of five different Pasteurella multocida PCRs using a standard vaccine strain P52 as DNA template. The purified genomic DNA was diluted ten-fold serially and then subject to polymerase chain reaction. Among the primers assessed, IPFWD or IPREV primers showed the highest sensitivity, detecting purified DNA at 5 fg concentration (~2 bacterial cells). KMT1T7 &KMT1SP6, KTSP61 &KTT72 and PSL-(forward &reverse) primers could detect P52 DNA at the levels of 500, 50 and 50 pg respectively. PM23F1 &PM23R2 primers were the least sensitive and could detect P52 DNA at 5 ng concentration only.",
+	"xml:lang":"eng"
+	}
+	}}

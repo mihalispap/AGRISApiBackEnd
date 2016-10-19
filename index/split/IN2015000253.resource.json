@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Occurrence of Insect Pests on Rapeseed, Brassica Rapa (Var. Yst-151) and its Association with Weather Variables in Eastern Uttar Pradesh",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"graine de colza",
+	"xml:lang":"fre"
+	},
+	{"value":"semilla de colza",
+	"xml:lang":"esp"
+	},
+	{"value":"pest insects",
+	"xml:lang":"eng"
+	},
+	{"value":"insectos daninos",
+	"xml:lang":"esp"
+	},
+	{"value":"insecte nuisible",
+	"xml:lang":"fre"
+	},
+	{"value":"brassica",
+	"xml:lang":"esp"
+	},
+	{"value":"rapeseed",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:pageStart":183,
+	"bibo:volume":74,
+	"bibo:pageEnd":210,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000253",
+	"dct:identifier":"IN2015000253",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, C"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lal, M.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, P.S."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Gender division of labour and decision making in goat farming in Tamil Nadu",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":160,
+	"dc:subject":[
+		{"value":"genre (femmes/hommes)",
+	"xml:lang":"fre"
+	},
+	{"value":"decision making",
+	"xml:lang":"eng"
+	},
+	{"value":"papel de la mujer",
+	"xml:lang":"esp"
+	},
+	{"value":"elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"animal husbandry",
+	"xml:lang":"eng"
+	},
+	{"value":"ganaderia",
+	"xml:lang":"esp"
+	},
+	{"value":"prise de decision",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"gender",
+	"xml:lang":"eng"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"role des femmes",
+	"xml:lang":"fre"
+	},
+	{"value":"toma de decisiones",
+	"xml:lang":"esp"
+	},
+	{"value":"genero",
+	"xml:lang":"esp"
+	},
+	{"value":"role of women",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":162,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000393",
+	"dct:identifier":"IN2015000393",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sakthivel, K.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Narmatha, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uma, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akila, N."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was conducted among the140 goat farmers of Namakkal district of Tamil Nadu with the objective of identifying gender-wise division of labour and decision making in goat farming. The study revealed that women were mainly involved in routine activities like feeding, watering, grazing, cleaning and care of young ones. But joint activities and decision making were high in sale of animals, credit acquisition and use and income spending",
+	"xml:lang":"eng"
+	}
+	}}

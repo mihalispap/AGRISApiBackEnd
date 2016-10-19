@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Desempenho do sistema de tratamento de água residuária de laticínios e os efeitos de sua disposição em Argissolo",
+	"xml:lang":"por"
+	},
+	{"value":"   Performance of treatment system for dairy wastewater and the effects of their disposal in Argisol ",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":{"value":"water reuse",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"2/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015301786",
+	"dct:identifier":"BR2015301786",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/18074"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Water Resources and Irrigation Management"},
+	"bibo:ISSN":{"value":"2316-6886"}
+	}
+	},
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ufrb.edu.br/wrim/images/wrim-2-2-2013/v02n02a04.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lima Valéria Ingrith Almeida"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alves Sandra Maria Campos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira Jacineumo Falcão de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Batista Rafael Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pinheiro Janeto Gurgel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Di Souza Luiz"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"a aplicação da ARL proporcionouaumento nos valores de K+, Ca2+ e pH nas cinco profundidades do Argissolo"},
+	{"value":"the application of ARL resulted in increase of K+, Ca2+ and pH in five layers of Argisol and the highest levelsof K+ and Na+ occurred in the surface layer of Argisol (0 to 0.10 m) fertigated with ARL."},
+	{"value":"This study aimed to analyse the performance of a treatment plant of wastewater of dairy industry(ARL), as well as the effects of its use on chemical characteristics of Argisol in Mossoró, RN, Brazil. The ARL wastreated first in a grating system and later in an aerated lagoon (hydraulic detention time of 11 days). During theperiod from March to June 2013, the Biochemical Oxygen Demand (DBO), Chemical Oxygen Demand (DQO),total solids (ST), suspended solids (SS), dissolved solids (SD), K+, pH, Na+, Ca2+, Mg2+, salinity and hardness ofthe ARL of treated water were characterized. In parallel, the values of K+, Na+, Ca2+, Mg2+ and pH in five depthsof Argisol (0 to 0.10, 0.10 to 0.20, 0.20 to 0.30, 0.30 to 0 40"},
+	{"value":"No presente trabalho objetivou-se analisar o desempenho de uma estação de tratamento de águaresiduária de laticínios (ARL) e os efeitos do uso da ARL nas características químicas de Argissolo em Mossoró-RN.A ARL foi tratada em sistema constituído de gradeamento e lagoa aerada com tempo de detenção hidráulico de 11dias. No período de março a junho de 2013 caracterizou-se a Demanda Bioquímica de Oxigênio (DBO), DemandaQuímica de Oxigênio (DQO), os sólidos totais (ST), os sólidos suspensos (SS), os sólidos dissolvidos (SD), K+,pH, Na+, Ca2+, Mg2+, a salinidade e a dureza da ARL no sistema de tratamento. Paralelamente, determinaram-seos valores de K+, Na+, Ca2+, Mg2+ e pH em cinco camadas do Argissolo (0 a 0,10",
+	"xml:lang":"por"
+	},
+	{"value":"and 0.40 to 0.50 m) with and without applicationof ARL, the application rate of 35 L m-2 day-1 for a period of five years were determined. The results indicated thatthe treatment system of ARL presented removal efficiency higher than 50% only for the DBO, DQO, ST, SS andMg2+"},
+	{"value":"0,30 a0,40"},
+	{"value":"e os maiores teores de K+ e Na+ocorreram na camada superficial do Argissolo (0 a 0,10 m) fertirrigado com ARL."},
+	{"value":"0,10 a 0,20",
+	"xml:lang":"eng"
+	},
+	{"value":"e 0,40 a 0,50 m) com e sem aplicação de ARL, na taxa de aplicação de 35 L m-2 dia-1, durante um períodode cinco anos. Os resultados indicaram que o sistema de tratamento da ARL apresentou eficiência de remoçãosuperior a 50% somente para as características DBO, DQO, ST, SS e Mg2+"},
+	{"value":"0,20 a 0,30"}
+	]
+	}}

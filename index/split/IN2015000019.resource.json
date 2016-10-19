@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A.M.U., Aligarh(India). Department of Zoology, Section of Entomology.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":118,
+	"dc:subject":[
+		{"value":"biodiversite",
+	"xml:lang":"fre"
+	},
+	{"value":"biodiversity",
+	"xml:lang":"eng"
+	},
+	{"value":"biodiversidad",
+	"xml:lang":"esp"
+	},
+	{"value":"orthoptera",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":123,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000019",
+	"dct:identifier":"IN2015000019",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rafi, Uzma"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Usmani,  M.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar,  Dipak"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The study was carried out during October'10-September'11. Twentyfive species representing ninteen genera belonging to the family Acrididae were collected. Inferences of the diversity variation and population dynamics of grasshoppers belonging to family Acrididae (Orthoptera) were drawn. Data generated suggests a relationship between diversity and seasonal temperature. The species composition and population of grasshoppers was also found to differ among the localities of Aligarh.",
+	"xml:lang":"eng"
+	}
+	}}

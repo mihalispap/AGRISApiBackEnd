@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Distribution of particles of calcium carbonate in the soil matrix and casts of Aporrectodea trapezoides (Duges) and its response to gradients in soil pH.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Naidu, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    McClure, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Davoren, C. W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Doube, Bernard M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maaperäeliöstö"},
+	{"value":"soil fauna"},
+	{"value":"maaperäeläimistö"},
+	{"value":"lierot"},
+	{"value":"maaperä"},
+	{"value":"kalsiumkarbonaatti"},
+	{"value":"calcium carbonate"},
+	{"value":"kalsiumyhdisteet"},
+	{"value":"Aporrectodea trapezoides"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    International Colloquium on Soil Zoology
+    (11 :
+    1992 :
+    Jyväskylä)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001460",
+	"dct:identifier":"FI2016001460",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

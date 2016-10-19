@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/  |z Silva Fennica",
+	"dct:language":"eng",
+	"dct:title":{"value":"Democratic legitimacy of the forest sector and nature conservation decision-making in Finnish print media discussion.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Rantala, Tapio.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"nature conservation program"},
+	{"value":"national planning"},
+	{"value":"nature conservation"},
+	{"value":"foresty policies"},
+	{"value":"mass media"},
+	{"value":"nature conservation policy"},
+	{"value":"newspapers"},
+	{"value":"policy evaluation"},
+	{"value":"legitimacy"},
+	{"value":"national forest program"},
+	{"value":"democracy"},
+	{"value":"evaluation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000978",
+	"dct:identifier":"FI2016000978",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

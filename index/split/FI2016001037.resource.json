@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Saw log recovery and stem quality of birch from thinnings in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kilpeläinen, Harri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindblad, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heräjärvi, Henrik.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Verkasalo, Erkki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"thinning"},
+	{"value":"Betula pendula"},
+	{"value":"sawlogs"},
+	{"value":"stemwood"},
+	{"value":"cross cutting"},
+	{"value":"Betula pubescens"},
+	{"value":"defects"},
+	{"value":"recovery"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001037",
+	"dct:identifier":"FI2016001037",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

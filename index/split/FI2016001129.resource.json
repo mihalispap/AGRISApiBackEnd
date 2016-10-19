@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Segmentation of model localization sub-areas by Getis statistics.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Räty, Minna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Annika.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuvankäsittely"},
+	{"value":"eCognition"},
+	{"value":"forest inventories"},
+	{"value":"mathematical models"},
+	{"value":"kuva-analyysi"},
+	{"value":"form height"},
+	{"value":"spatial distribution"},
+	{"value":"local indicators of spatial association"},
+	{"value":"metsä̈ninventointi"},
+	{"value":"image processing"},
+	{"value":"matemaattiset mallit"},
+	{"value":"Getis statistics"},
+	{"value":"arviointimenetelmät"},
+	{"value":"image analysis"},
+	{"value":"image segmentation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001129",
+	"dct:identifier":"FI2016001129",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of the nutritional quality of processed horse eye bean (Mucuna urens) by in vivo rat bioassay"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Umoren, U. E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Effiong, O. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akpan, I. E. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100232",
+	"dct:identifier":"FI2016100232",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A study was conducted to assess the nutritional quality of processed Mucuna urens by in vivo studies using albino rats. Processing methods employed were autoclaving, cooking, roasting and germination. Results showed that rats fed autoclaved, roasted, cooked and germinated Mucuna urens diets recorded weight losses, while animals fed raw diet died within 5 days of the experimental period. Rats fed autoclaved and cooked Mucuna urens diets survived to the end of the study. The protein efficiency ratio, net protein ratio and protein retention efficiency varied significantly (p<0.05) and were negative in all diets. Faecal and urinary nitrogen output varied significantly (p<0.05) among treatment. Rats fed germinated diet had the highest faecal and urinary nitrogen of 0.037 and 0.023 g, respectively. Apparent digestibility (AD), true digestibility (TD), biological value (BV) and net protein utilization (NPU) varied significantly (p<0.05) among treatments. Rats fed germinated diet recorded least AD, TD, BV and NPU values, corresponding to 23.5, 42.13, 4.64 and 8.82%, respectively, while rats fed autoclaved diet recorded the highest BV and NPU values of 37.38 and 23.73%, respectively. Thus it was concluded that the Mucuna urens processed in the present form is of poor nutritional quality."}
+	}}

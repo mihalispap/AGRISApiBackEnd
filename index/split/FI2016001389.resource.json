@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1394",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Karvinen, Sari,
+    kirjoittaja
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nummelin, Tuomas,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Finnish wood harvesting contractors' risks in Russia.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"riskianalyysi"},
+	{"value":"contracting"},
+	{"value":"wood harvesting"},
+	{"value":"contracts"},
+	{"value":"logging"},
+	{"value":"puunkorjuu"}
+	],
+	"bibo:doi":"10.14214/sf.1394",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001389",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001389",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

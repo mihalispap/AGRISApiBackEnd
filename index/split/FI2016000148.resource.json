@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of grafting and modified atmosphere packaging (MAP) on melon quality parameters during storage /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Christakou, Evangelia C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Arvanitoyannis, Ioannis S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khah, Ebrahim M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bletsos, Fotios.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Cucumis melo"},
+	{"value":"pakkaaminen"},
+	{"value":"postharvest decay"},
+	{"value":"Fusarium oxysporum"},
+	{"value":"maalevintä"},
+	{"value":"varastointi"},
+	{"value":"meloni"},
+	{"value":"keeping quality"},
+	{"value":"sienitaudit"},
+	{"value":"grafting"},
+	{"value":"controlled atmosphere storage"},
+	{"value":"taudinkestävyys"},
+	{"value":"packaging"},
+	{"value":"melons"},
+	{"value":"säilyvyys"},
+	{"value":"varttaminen"},
+	{"value":"sadon laatu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000148",
+	"dct:identifier":"FI2016000148",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

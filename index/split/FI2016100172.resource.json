@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f23.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Structure and performance evaluation of cocoa marketing institutions in South-Western Nigeria: An economic analysis"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Folayan, J.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Daramola, G.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oguntade, A.E. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100172",
+	"dct:identifier":"FI2016100172",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This study employs various measures of parameters of market structure such as concentration ratio, Gini Coefficients and Herfindahl Index and Market performance such as cost and return and multiple regression analyses in an attempt to examine empirically structural performance of cocoa marketing institutions in South-Western Nigeria using cross sectional data collected from 140 cocoa marketers in the study area. The empirical results revealed that based on the outcome of various parameters measure of market concentration indexes, cocoa market was found to be perfectly competitive. Also, the result of market performance analysis revealed that cocoa marketing is profitable while the postulated regressors explained about 96 percent variation in the quantity of cocoa purchased in the study area."}
+	}}

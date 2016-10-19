@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Levels of benzoic and sorbic acid preservatives in commercially produced yoghurt in Lebanon.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mroueh, Mohamad.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Issa, Dina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khawand, Jesele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haraty, Bassam.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Malek, Alam.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kassaify, Zeina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toufeili, Imad.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"foods"},
+	{"value":"preservatives"},
+	{"value":"yoghurt"},
+	{"value":"food safety"},
+	{"value":"cultured milk"},
+	{"value":"food additives"},
+	{"value":"Lebanon"},
+	{"value":"food preservation"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000299",
+	"dct:identifier":"FI2016000299",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

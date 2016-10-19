@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of the spot urine sampling technique to assess urinary pseudouridine excretion in lactating dairy cows.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Shingfield, Kevin J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Offer, Nicholas W.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lactation"},
+	{"value":"aineenvaihdunta"},
+	{"value":"dairy cows"},
+	{"value":"määritysmenetelmät"},
+	{"value":"lypsykarja"},
+	{"value":"maidonmuodostus"},
+	{"value":"metabolism"},
+	{"value":"analytical methods"},
+	{"value":"pseudouridine"},
+	{"value":"urine"},
+	{"value":"näytteenotto"},
+	{"value":"creatine"},
+	{"value":"nautakarja"},
+	{"value":"lehmät"},
+	{"value":"pseudouridiini"},
+	{"value":"kreatiini"},
+	{"value":"virtsa"},
+	{"value":"sampling"},
+	{"value":"proteiinit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001697",
+	"dct:identifier":"FI2016001697",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

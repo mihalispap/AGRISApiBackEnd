@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Morphological and physiological variation among isolates of Alternaria solani causing early Blight of Tomato",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":386,
+	"dc:subject":[
+		{"value":"alternaria solani",
+	"xml:lang":"esp"
+	},
+	{"value":"lycopersicon esculentum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":389,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000531",
+	"dct:identifier":"IN2015000531",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dushyant"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khatri, N.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, Jagdish"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maheshwari, S.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"All the isolates were found to be pathogenic and isolate Bikaner recorded maximum growth (89.33 mm) followed by Sriganganagar (85.67 mm). Among the carbon sources tested, glucose supported maximum dry mycelial weight 488.66 mg in Bikaner isolate. The nitrogen sources, asparagine supported maximum dry mycelial weight 402.00 and 397.00 mg in Bikaner and Sriganganagar isolates. Maximum mycelial growth of isolate Bikaner was observed at pH value 6.5 with mycelial growth of 88.33 mm. Maximum mycelial growth of isolate Bikaner (89.33 mm) was observed at 25Â°C.",
+	"xml:lang":"eng"
+	}
+	}}

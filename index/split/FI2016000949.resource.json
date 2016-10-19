@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Inclusion of wheat bran in barley-soybean meal diets with different phosphorus levels for growing-finishing pigs :",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Helander, Eija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Partanen, Kirsi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lihasika"},
+	{"value":"fosfori"},
+	{"value":"vehnä"},
+	{"value":"carcass composition"},
+	{"value":"fytaasi"},
+	{"value":"rehut"},
+	{"value":"triticum aestivum"},
+	{"value":"sivutuotteet"},
+	{"value":"phosphorus"},
+	{"value":"entsyymit"},
+	{"value":"ruokintakokeet"},
+	{"value":"feed conversion efficiency"},
+	{"value":"luusto"},
+	{"value":"teuraslaatu"},
+	{"value":"phytates"},
+	{"value":"bones"},
+	{"value":"weight gain"},
+	{"value":"swine"},
+	{"value":"leseet"},
+	{"value":"rehunkäyttökyky"},
+	{"value":"bran"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000949",
+	"dct:identifier":"FI2016000949",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

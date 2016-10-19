@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/f1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Survey of the microbial flora of a hospital environment in South-Western Nigeria"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Adebolu, T.T. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100372",
+	"dct:identifier":"FI2016100372",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Eight strategic areas of the Ondo State Specialist Hospital, Akure, South-Western Nigeria, were sampled. Standard microbiological procedures were followed to investigate the types of bacteria and fungi that are present in the hospital environment. The following bacteria were isolated: Staphylococcus aureus, Bacillus anthracis, Bacillus cereus, Pseudomonas aeruginosa, Streptococcus pyogenes, Streptococcus pneumoniae and Micrococcus luteus but the most frequently encountered species was Staphylococcus aureus. It was found in all the areas sampled. The fungi isolated were Neurospora crassa, Aspergillus fumigatus, Harknessia eucalypti, Mucor mucedo, Botrytis cinerea, Varicosporium elodeae and Rhizopus stolonifer. Neurospora crassa was discovered to be the most frequently encountered fungus. Most of the organisms isolated are highly pathogenic and can seriously affect the health of workers and recuperating patients."}
+	}}

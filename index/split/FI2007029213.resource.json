@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Fate of Salmonella in baby powder milk"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029213",
+	"dct:identifier":"FI2007029213",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f26.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dhiaf, Amel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chnity, Neziha (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bakhrouf, Amina (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Gastroenteritis infections due to Salmonella species caused significant morbidity and mortality at 3 Tunisian hospitals from February 2000 through July 2000. Infective baby powder milk is the main cause of this epidemiology. The recovery of injured Salmonella was experimentally obtained by long-term incubation in nutrient broth and also, by gastrointestinal tracts passage into mice. The germ appeared in several organs (stomach, intestines, liver and lungs)."}
+	}}

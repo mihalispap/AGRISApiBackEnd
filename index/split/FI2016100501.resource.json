@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Life cycle assessment applied to coffee production: Investigating environmental impacts to aid decision making for improvements at company level"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Salomone, Roberta (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100501",
+	"dct:identifier":"FI2016100501",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Coffee production has grown by nearly 200 percent since 1950; after oil it is the most important traded commodity in the world. Although it is only grown in tropical and equatorial areas (it is the primary export of many developing countries), the majority of coffee is consumed in the developed world (the United States and the European Community combined import two out of every three bags of coffee produced in the world). Considering that the coffee chain is very wide-ranging, involving many companies of different types and sizes, each environmental decision, at any point of the coffee chain, should be taken under a \"life cycle thinking\" perspective. It was with this intention that Life Cycle Assessment methodology was applied to analyse the environmental impacts connected to a coffee business located in Sicily. System boundaries were defined to include all life cycle steps: from coffee growing through to its distribution to consumers, consumption and disposal. The aim of the study was to identify the \"hot spots\" in the stages of the product's life cycle in which environmental improvements were easily achievable and to suggest alternatives to minimise the environmental impact of production phases, thereby improving processes and company performance."}
+	}}

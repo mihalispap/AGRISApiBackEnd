@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nursery and field response of sissoo plants (Dalbergia sissoo) to Rhizobium inoculation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sah, S. P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dutta, I. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haq, M. S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"juurinystyrät"},
+	{"value":"root nodulation"},
+	{"value":"maaperä"},
+	{"value":"typensidonta"},
+	{"value":"metsitys"},
+	{"value":"Rhizobium"},
+	{"value":"reclamation"},
+	{"value":"Dalbergia sissoo"},
+	{"value":"nitrogen fixation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001605",
+	"dct:identifier":"FI2016001605",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

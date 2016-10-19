@@ -1,0 +1,25 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Expert Meeting on Harmonizing forest-related definitions for use by various stakeholders.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"concept"},
+	{"value":"definition"},
+	{"value":"terminology"},
+	{"value":"käsitteet"},
+	{"value":"metsätalous"},
+	{"value":"forestry"},
+	{"value":"metsät"},
+	{"value":"määritelmät"},
+	{"value":"terminologia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000626",
+	"dct:identifier":"FI2016000626",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Determination of age of prenatals and histomorphological changes of cervix of sheep during different stages of pregnancy",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":56,
+	"dc:subject":[
+		{"value":"gestacion",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"anatomie animale",
+	"xml:lang":"fre"
+	},
+	{"value":"periodo perinatal",
+	"xml:lang":"esp"
+	},
+	{"value":"anatomia animal",
+	"xml:lang":"esp"
+	},
+	{"value":"pregnancy",
+	"xml:lang":"eng"
+	},
+	{"value":"perinatal period",
+	"xml:lang":"eng"
+	},
+	{"value":"gestation",
+	"xml:lang":"fre"
+	},
+	{"value":"periode perinatale",
+	"xml:lang":"fre"
+	},
+	{"value":"animal morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":59,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000367",
+	"dct:identifier":"IN2015000367",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khatun, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wani, G. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Choudhury, A.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, M.Z."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Islam, R."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Female genitalia (86) of healthy adult ewes (both pregnant and non-pregnant, 1- 4 years of age) were collected from the local slaughter houses in and around Srinagar city. The gravid uteri of sheep ranging from 14 to 140 days of gestation were divided into five groups viz., G-1 (14â57 days), G-2 (58â74 days), G-3 (75â93 days), G-4 (94â120 days) and G-5 (121â140 days). A new graph was constructed incorporating embryonic lengths for determining practical age of embryos and foetuses from 12 days up to termination of pregnancy. Epithelial lining of the cervix of non-pregnant and early pregnant sheep was simple low columnar with goblet cells which was non-ciliated containing shorter mucosal folds and the lamina propria-submucosa possessed numerous smaller glands. As the gestation period advanced, increased height and loosening of the lamina epithelial mucosa occurred with longer mucosal folds. The glands became larger gradually and their proliferation also occurred with increasing gestational age. Vascular proliferation occurred from lamina propria up to the tunica serosa with increase in gestation periods.",
+	"xml:lang":"eng"
+	}
+	}}

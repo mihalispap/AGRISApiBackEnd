@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of deficit irrigation and partial rootzone drying on growth, dry matter partitioning and water use efficiency in young coffee (Coffea arabica L.) plants"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591936",
+	"dct:identifier":"US201301591936",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a25.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tesfaye, S.G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Razi, Ismail Mohd (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maziah, Mahmood (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effects of three irrigation regimes (partial root zone drying, PRD; normal deficit irrigation, NDI and full irrigation or well watering, WW) on vegetative growth, dry matter yield and irrigation water use efficiency (IWUE) of Arabica coffee (Coffea arabica L. cv. F-59) were studied under a rain shelter in Ethiopia. Relative water content (RWC) of leaves and stomatal conductance decreased by NDI and PRD treatments, but plants grown in PRD had leaf RWC values closer to those of WW plants on some measurement occasions. Shoot growth and total dry matter yield were significantly reduced by NDI and PRD. Root: shoot ratio was higher for plants in the PRD compared with WW or NDI. PRD also saved 50% of the water required for full irrigation and resulted in significantly (21 to 43%) higher IWUE compared to NDI and WW treatments. Therefore, it was concluded that PRD could be practically advantageous for the production of coffee seedlings in areas where water is scarce for irrigation and dry spells are prolonged."}
+	}}

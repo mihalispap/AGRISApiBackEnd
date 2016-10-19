@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of size of farm operation on resource use efficiency in small scale farming : evidence from southwestern Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ajibefun, Igbekele A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abdulkadri, Abdullahi O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"kannattavuus"},
+	{"value":"farm size"},
+	{"value":"pientilat"},
+	{"value":"tilakoko"},
+	{"value":"resource management"},
+	{"value":"small farms"},
+	{"value":"productivity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000818",
+	"dct:identifier":"FI2016000818",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

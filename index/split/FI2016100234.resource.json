@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1A80-86hydroponics.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Hydroponics: A modern technology supporting the application of integrated crop management in greenhouse"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Savvas, Dimitrios (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100234",
+	"dct:identifier":"FI2016100234",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Commercial hydroponics is a modern technology involving plant growth on inert media in place of the natural soil, in order to uncouple the performance of the crop from problems associated with the ground, such as soil-borne diseases, nonarable soil, poor physical properties, etc. Various non-toxic porous materials are used as plant growth substrates, including rockwool, perlite, pumice, expanded clay, various volcanic materials, polyurethane foam, coir dust, etc. A balanced distribution of small and larger pores is required in a substrate to ensure adequate availability of water to the plants without to affect the supply of oxygen to the roots. Hydroponics has no adverse effect on the quality of fruits and flowers produced in such systems. In contrast, the complete control of nutrition via the nutrient solution may enable an enhancement of product quality, particularly in vegetable crops, such as tomato, melon, and lettuce. The switching over from the soil to hydroponics results in a decreased application of pesticides and other toxic agrochemicals, which are necessary in soil-grown crops to disinfect the soil and to control soil-borne pathogens. Moreover, the recycling of the excess nutrient solution that drains off after each watering application may contribute to a considerable reduction of nitrate and phosphate leaching to surface- and groundwater resources. To restrict costs and increase profitability, hydroponics is increasingly based on automation of nutrient and water supply. Future developments in hydroponics are mainly focused on further automation of the nutrient solution management, particularly in closed systems in which the excess nutrient solution is recycled, as well as on a complete standardization of the substrate analysis in order to obtain more reliable results and to facilitate their interpretation."}
+	}}

@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Characteristics and challenges of forest sector communication in the EU.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Janse, Gerben.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"forestry policies"},
+	{"value":"metsäsektori"},
+	{"value":"tiedonvälitys"},
+	{"value":"communication"},
+	{"value":"forestry"},
+	{"value":"Euroopan Unioni."},
+	{"value":"European union"},
+	{"value":"metsäpolitiikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000549",
+	"dct:identifier":"FI2016000549",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

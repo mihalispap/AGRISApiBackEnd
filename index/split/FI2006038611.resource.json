@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro studies on pollen germination and pollen tube growth in maize"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038611",
+	"dct:identifier":"FI2006038611",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Geetha, K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vijayabaskaran, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayaraman, N. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A study on pollen germination and pollen tube growth in in vitro was made in maize. Different concentrations of sucrose and boric acid was used in the culture medium . For this study five entries of maize were selected and pollen germination was observed after 15 hours and 20 hours. Pollen germination percentage ranged from 22.21 to 64.66. The entry J 1006 recorded the maximum germination percentage compared to other entries in a culture medium containing 100 per cent sucrose and 10 per cent boric acid after 20 hours. Pollen tube growth was observed after 15,18,21 and 24 hours. Length of pollen tube ranged from 47.25 to 239.63 μm and it was maximum in J 1006 (239.63 μm) in a medium containing 100% sucrose and 10% boric acid after 24 hours."}
+	}}

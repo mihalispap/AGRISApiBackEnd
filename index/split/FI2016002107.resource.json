@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1176",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Al-Hawija, Batoul N,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wagner, Viktoria,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Partzsch, Monika,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hensen, Isabell,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Germination differences between natural and afforested populations of Pinus brutia and Cupressus sempervirens.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"silviculture"},
+	{"value":"planting stock"},
+	{"value":"cold stratification"},
+	{"value":"nursery"},
+	{"value":"local adaptation"},
+	{"value":"Stratification"},
+	{"value":"adaptation"},
+	{"value":"kylmäkäsittely"},
+	{"value":"drought stress"},
+	{"value":"cold"},
+	{"value":"suolapitoisuus"},
+	{"value":"salt tress"},
+	{"value":"taimitarhat"},
+	{"value":"sopeutuminen"},
+	{"value":"metsänhoito"},
+	{"value":"Syria Arab Republic"},
+	{"value":"osmotic stress"}
+	],
+	"bibo:doi":"10.14214/sf.1176",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016002107",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002107",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

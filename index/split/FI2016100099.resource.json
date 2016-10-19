@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a23.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Determinants of rural farmers’ improved soybean adoption decisions in northern Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ojiako, Ifeanyi A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manyong, Victor M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ikpi, Anthony E. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100099",
+	"dct:identifier":"FI2016100099",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The deficient agronomic qualities of the local soybean germplasm and the need to develop varieties with desirable attributes, such as promiscuous nodulation, low pod shattering, sustained seed viability and resistance to bacterial diseases and viruses necessitated the introduction of new varieties to farmers in northern Nigeria. This study investigates the factors that influenced the soybean farmers’ decisions about adoption and use intensity of these improved soybean varieties. A multistage random sampling design was used to select a sample of 307 respondents from a list of soybean growers obtained through households listing conducted by trained enumerators. Data were collected from respondents using a structured questionnaire. The logit and Tobit regression models were used in the analysis for comparison. Empirical results reveal that the farmers’ adoption decisions were significantly (P<0.01) influenced by soybean yield, expenditure on labour, memberships of associations and meeting groups, exposure to extension services and ecology. The two models confirm that increases in each of the identified adoption characteristics will lead to increases in the probability of adoption and use intensity. However, the effect of a one-percent increase in each variable is higher for the Tobit than for the logit adoption elasticities. Moreover, the decomposed elasticity values of the Tobit model reveal that a one percentage increase in the variables would result in a higher change in the elasticity of use intensity than in the elasticity of adoption of the improved soybeans. The results have significant implications for research scientists, extension agents and policy-makers. Apart from providing justification for strengthening the extension capacities of the national research systems, the findings underscore the relevance of networks that promote farmer-to-farmer interactions in the circulation of new echnologies."}
+	}}

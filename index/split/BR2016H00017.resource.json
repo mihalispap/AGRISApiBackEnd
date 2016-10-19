@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"NUTRIENTES E GIBERELINA NO CONDICIONAMENTO FISIOLÓGICO SOB A QUALIDADE DE SEMENTES DE BRAQUIÁRIA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":10,
+	"bibo:volume":2,
+	"bibo:pageEnd":16,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00017",
+	"dct:identifier":"BR2016H00017",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/253",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thiago Barbosa Batista"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eliana Duarte Cardoso"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Flávio Ferreira da Silva Binotti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marco Eustáquio de Sá"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kuniko Iwamoto Haga"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A aplicação de agentes químicos em sementes via condicionamento fisiológico, pode incrementar a produção e melhorar a qualidade fisiológica das mesmas. Objetivou–se avaliar a influencia de ciclos de condicionamento fisiológico com diferentes nutrientes e ...",
+	"xml:lang":"por"
+	}
+	}}

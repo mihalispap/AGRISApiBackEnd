@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of breeding objective for Estonian Holstein cattle /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pärna, Elli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kiiman, Heli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vallas, Mirjam.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Viinalass, Haldja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saveli, Olev.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pärna, Kalev.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Estonia"},
+	{"value":"holstein-friisiläinen"},
+	{"value":"lypsykarja"},
+	{"value":"animal breeding"},
+	{"value":"milk yield"},
+	{"value":"tuotantoekonomia"},
+	{"value":"maito"},
+	{"value":"selection criteria"},
+	{"value":"agricultural economics"},
+	{"value":"dairy cattle"},
+	{"value":"maitotuotos"},
+	{"value":"milk"},
+	{"value":"jalostusominaisuudet"},
+	{"value":"kotieläinjalostus"},
+	{"value":"reproductive performance"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001808",
+	"dct:identifier":"FI2016001808",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

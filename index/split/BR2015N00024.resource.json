@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"FECUNDIDADE E TIPO DE DESOVA DO PORAQUÊ, Electrophorus electricus, (LINNAEUS, 1766) (OSTEICHTHYIES: GYMNOTIFORMES: GYMNOTIDAE) DA ÁREA DE PROTEÇÃO AMBIENTAL – APA – DO RIO CURIAÚ, MACAPÁ-AP.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":32,
+	"bibo:volume":2,
+	"bibo:pageEnd":36,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00024",
+	"dct:identifier":"BR2015N00024",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/433",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Júlio César Sá-Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raimundo Nonato Gomes Mendes-Jr"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIFAP"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Chico Mende-ICMBio"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 7.5pt; font-family: \" O presente estudo objetivou estimar a fecundidade e o tipo de desova do peixe-elétrico <em style=\"mso-bidi-font-style: normal;\">Electrophorus electricus da Área de Proteção Ambiental - APA do Rio Curiaú, Macapá-Amapá. As análises foram realizadas a partir de </span><span style=\"font-size: 7.5pt; font-family: \" 96 exemplares do peixe</span><span style=\"font-size: 7.5pt; font-family: \"  coletados no período de </span><span style=\"font-size: 7.5pt; font-family: \" março de 2006 a fevereiro de 2007</span><span style=\"font-size: 7.5pt; font-family: \" lang=\"PT-BR\">. Análises do ciclo anual de estádios de maturação gonadal, exames macro e microscópico das gônadas, verificação dos diâmetros e contagens dos ovócitos foram realizadas. O número de ovócitos relacionados a uma dimensão corpórea (comprimento total) e ao Peso Total (g) foi ajustado a uma regressão linear. Os resultados revelaram que a desova é do tipo total e sincrônico, ocorrendo no início do inverno (janeiro-fevereiro). A fecundidade, estimada variou de <span style=\"color: black;\">1.730 a <span style=\"color: black;\">3.063 ovócitos vitelogênicos. A fecundidade mostrou correlação positiva com o comprimento total e peso total do corpo, aumentando proporcionalmente com o tamanho de<em style=\"mso-bidi-font-style: normal;\"> Electrophorus electricus</em>.</span><span style=\"font-family: Arial;\"> <strong style=\"mso-bidi-font-weight: normal;\"><span style=\"font-size: 7.5pt; font-family: \" Palavras-chave:</span></strong><em style=\"mso-bidi-font-style: normal;\"><span style=\"font-size: 7.5pt; font-family: \"  </span></em><span style=\"font-size: 7.5pt; font-family: \" biologia reprodutiva, Amapá, estádios de maturação gonadal, Brasil.</span> <span style=\"font-size: 7.5pt; font-family: \" DOI: <a href=\"http://dx.doi.org/10.18561/2179-5746/biotaamazonia.v2n1p32-36\">http://dx.doi.org/10.18561/2179-5746/biotaamazonia.v2n1p32-36</a></span></span>",
+	"xml:lang":"por"
+	}
+	}}

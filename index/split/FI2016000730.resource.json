@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of inoculation with arbuscular mycorrhizas on rooting, weaning and subsequent growth of micropropagated Malus (L.) Moench /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uosukainen, Marjatta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vestberg, Mauritz.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rooting"},
+	{"value":"mikrolisäys"},
+	{"value":"omena"},
+	{"value":"malus"},
+	{"value":"mykorritsasienet"},
+	{"value":"Glomus"},
+	{"value":"juurrutus"},
+	{"value":"kasvihuoneviljely"},
+	{"value":"vesicular arbuscular mycorrhizae"},
+	{"value":"glomus"},
+	{"value":"arbuskelimykorritsasienet"},
+	{"value":"micropropagation"},
+	{"value":"puut"},
+	{"value":"sopeutuminen"},
+	{"value":"greenhouses"},
+	{"value":"pot experimentation"},
+	{"value":"Malus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000730",
+	"dct:identifier":"FI2016000730",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

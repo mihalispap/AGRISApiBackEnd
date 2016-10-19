@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/commentary2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutraceuticals and functional foods: II. Current international regulatory status"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tsao, Rong (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akhtar, M. Humayoun (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100114",
+	"dct:identifier":"FI2016100114",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Our ancestors consumed plant materials and animal products to live. As civilization progressed there were realizations that for sustenance of life and good health food should be composed of proper amounts of carbohydrate, protein, lipids and minerals. Carbohydrates provide the needed calories, while protein supplies the essential amino acids the body needs but cannot produce. Similarly, human body is also in need of certain mineral nutrients for body structure as well survival; for example calcium is needed for maintaining a healthy bone density especially in elderly women. Vitamins, on the other hand, are essential and for protection from common diseases such as scurvy, anemia, and ricket. (More details in the full article.)"}
+	}}

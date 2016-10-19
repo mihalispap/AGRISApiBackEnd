@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Plasma IGF-I and lactoferrin as biomarkers of post-weaning stress and the effect of feeding probiotic to low body weight calves for the improvement of growth performance in crossbred KF calves",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":70,
+	"dc:subject":[
+		{"value":"stress",
+	"xml:lang":"fre"
+	},
+	{"value":"factor de crecimiento igf",
+	"xml:lang":"esp"
+	},
+	{"value":"insulin-like growth factor",
+	"xml:lang":"eng"
+	},
+	{"value":"facteur de croissance igf",
+	"xml:lang":"fre"
+	},
+	{"value":"estres",
+	"xml:lang":"esp"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"periode apres sevrage",
+	"xml:lang":"fre"
+	},
+	{"value":"periodo postdestete",
+	"xml:lang":"esp"
+	},
+	{"value":"ternero",
+	"xml:lang":"esp"
+	},
+	{"value":"calves",
+	"xml:lang":"eng"
+	},
+	{"value":"veau",
+	"xml:lang":"fre"
+	},
+	{"value":"postweaning period",
+	"xml:lang":"eng"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":73,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000455",
+	"dct:identifier":"IN2015000455",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Anand, L.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sehgal, J.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, Shiv"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Namagirilakshmi,  S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Damoder, Shashikant"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Management practices as well as environmental and pathological stresses have an impact on growth performances and health status of calves. Lactoferrin is a glycoprotein and is a prominent component of host-defense against infection. Insulin like growth factor I (IGF-I) has been established as a biochemical indicator for different production traits. The present study was under taken to evaluate the role of IGF-I and lactoferrin as biomarkers for growth performances and health status in female crossbred KF calves and the effect of probiotic (Saccharomyces cerevisiae) supplementation on growth performance in post-weaned calves. Plasma concentration of these factors were correlated with growth performances in terms of body weight gain, dry matter intake, feed conversion efficiency, metabolic body weight gain in post-weaned calves. Calves exhibiting normal body weight (HBW) and the ones exhibiting lesser body weight (LBW) with respect to age (P0.01) were divided into 2 groups. The body weight of LBW group was significantly less (P0.001) during the pre-supplementation period (122 days). At 60d post-supplementation period, the significant difference between the body weight decreased (P0.01). The circulatory level of IGF-I was significantly high (P0.01) in HBW group when compared with LBW. During the post-supplementation period, the concentration of lactoferrin was not significantly different in both the groups and had decreased to the basal level (500â420 vs.150â250ng/ml) in comparison to pre-supplementation period, suggesting normal immune status and reduced stress/ inflammation. Supplementation of probiotic improved growth performance to a lesser extent in LBW group. IGF-I can act as a marker for growth performance in crossbred calves.",
+	"xml:lang":"eng"
+	}
+	}}

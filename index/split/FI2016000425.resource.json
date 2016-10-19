@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Telemea cheese quality from Banat region.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Stef, D.-S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stef, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Druga, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heghedus-Mandru, G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Biron, R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methods"},
+	{"value":"foods"},
+	{"value":"milk"},
+	{"value":"ewe milk"},
+	{"value":"quality"},
+	{"value":"Romania"},
+	{"value":"cheesemaking"},
+	{"value":"cheese"},
+	{"value":"sheep"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000425",
+	"dct:identifier":"FI2016000425",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

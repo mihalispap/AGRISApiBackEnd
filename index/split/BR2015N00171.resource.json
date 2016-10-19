@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"DISTRIBUIÇÃO DE ORQUÍDEAS E BROMÉLIAS NO OESTE DE SANTA CATARINA, SUL DO BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":52,
+	"bibo:volume":4,
+	"bibo:pageEnd":59,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00171",
+	"dct:identifier":"BR2015N00171",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1116",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Cleiton José Geuster"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mario Arthur Favretto"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade do Oeste de Santa Catarina, campus de Joaçaba."
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Programa de pós-graduação em Ecologia e Conservação. Universidade Federal do Paraná."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12.0pt; font-family: \">O presente trabalho foi realizado por meio de amostragens em diversos fragmentos florestais localizados em 19 municípios do oeste de Santa Catarina nos quais foram realizadas as buscas por Orchidaceae e Bromeliaceae, tendo por objetivo realizar um levantamento das espécies destas duas famílias nestes municípios. Ao todo foram encontradas 95 espécies de orquídeas e 19 espécies de bromélias, sendo que a maior diversidade destas epífitas foi encontrada em matas ciliares, provavelmente devido à maior umidade do ar nestes ambientes, o que facilita a sobrevivência destas plantas. A maioria das espécies de bromélias, além de florescerem, também foram polinizadas, enquanto que, as orquídeas em geral não foram polinizadas. Esta observação podendo ser um indicativo de que o ambiente pode estar degradado e que estas plantas não possuem mais seus polinizadores, estando fadadas à extinção local.</span>",
+	"xml:lang":"por"
+	}
+	}}

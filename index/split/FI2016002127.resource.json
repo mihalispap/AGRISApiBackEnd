@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Lähikuvassa koiran täi (Linognathus setosus) ja väive (Trichodectes canis) /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Saari, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nikander, Sven.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mallophaga"},
+	{"value":"linognathus"},
+	{"value":"parasites"},
+	{"value":"dogs"},
+	{"value":"loiset"},
+	{"value":"loistaudit"},
+	{"value":"eläintaudit"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002127",
+	"dct:identifier":"FI2016002127",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

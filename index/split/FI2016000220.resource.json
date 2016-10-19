@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth strain in Eucalyptus nitens at different stages of development.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Biechele, Tobias.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nutto, Leif.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Becker, Gero.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kasvu"},
+	{"value":"sawnwood"},
+	{"value":"plant developmental stages"},
+	{"value":"stress"},
+	{"value":"sahatavara"},
+	{"value":"sahapuu"},
+	{"value":"kehitysvaiheet"},
+	{"value":"Eucalyptus nitens"},
+	{"value":"growth"},
+	{"value":"stressi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000220",
+	"dct:identifier":"FI2016000220",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

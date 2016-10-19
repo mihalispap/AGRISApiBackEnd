@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Seedling establishment and growth after direct seeding with Pinus sylvestris : effects of seed type, seed origin, and seeding year.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wennström, Ulfstand.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergsten, Urban.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nilsson, Jan-Erik.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"provenance"},
+	{"value":"siemen"},
+	{"value":"suorakylvö"},
+	{"value":"direct sowing"},
+	{"value":"Pinus sylvestris"},
+	{"value":"seeds"},
+	{"value":"alkuperä"},
+	{"value":"metsänviljely"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001909",
+	"dct:identifier":"FI2016001909",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

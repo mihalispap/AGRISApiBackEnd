@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   não hierárquico e redes neurais artificiais na caracterização de grupos de bovinos machos terminados em confinamento "},
+	{"value":"   Agrupamento hierárquico ",
+	"xml:lang":"por"
+	},
+	{"value":"Hierarchical and non-hierarchical clustering and artificial neural networks for thechracterization of groups of feedlot-finished male cattle",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic variation",
+	"xml:lang":"eng"
+	},
+	{"value":"weight gain",
+	"xml:lang":"eng"
+	},
+	{"value":"sexual behaviour",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F05934",
+	"dct:identifier":"BR2015F05934",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1427136072.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"HENRIQUE W."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERRAUDO, A.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SAMPAIO, A.A.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PERECIN, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA,  T.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TEDESCHI,  L. O."
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The individual experimental results of 1,393 feedlot-finished cattle of different genetic groups obtained at different research institutions were collected. Exploratory multivariate hierarchical analysis was applied, which permitted the division of cattle into seven groups containing animals with similar performance patterns. The following variables were studied: weight of the animal at feedlot entry and exit, concentrate percentage, time spent in the feedlot, dry matter intake, weight gain, and feed efficiency. The data were submitted to non-hierarchical k-means cluster analysis, which revealed that all traits should be considered. In addition to the variables used in the previous analysis, the following variables were included: dietary nutrient content, crude protein and total digestible nutrient intake, hot carcass weight and yield, fat coverage, and loin eye area. Using all of these data, structures of 3 to 14 groups were formed which were analyzed using Kohonen self-organizing maps. Specimens of the Nellore breed, either intact or castrated, were diluted among groups in hierarchical and non-hierarchical analysis, as well as in the analysis of artificial neural networks. Nellore animals therefore cannot be characterized as having a single behavior when finished in feedlots, since they participate in groups formed with animals of other Zebu breeds (Gyr, Guzerá) and with animals of European breeds (Hereford, Aberdeen Angus, Caracu) that exhibit different performance potentials.",
+	"xml:lang":"por"
+	}
+	}}

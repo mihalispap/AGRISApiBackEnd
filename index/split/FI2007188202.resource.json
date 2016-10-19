@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of the relative vegetation index for growth estimation in quinoa (Chenopodium quinoa Willd.)"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188202",
+	"dct:identifier":"FI2007188202",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jacobsen, S.-E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jensen, C. R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pedersen, H. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Quinoa (Chenopodium quinoa Willd.) is a highly nutritive Andean crop of potential for European agriculture. The aim of the present study was to investigate the use of the relative vegetation index (RVI) during different growth stages for estimation of leaf area index (LAI) and dry matter accumulation (DM), and at an early stage to predict final yield from RVI in quinoa. RVI, defined as the ratio of reflectance in near-infrared (790-810 nm; ρIR) and red (640-660 nm; ρR) bands (RVI=ρIR/ρR), was measured twice a week in both a seed- and a green-matter-type of quinoa grown at different rates of N (0, 120, 240, 360 and 480 kg N ha-1) through an entire cropping season. In both cultivars RVI was significantly correlated with LAI and DM, when measured in the vegetative and bud formation stages. From anthesis and onwards no correlation was found for either of the cultivars. The peak RVI-value was obtained just before onset of anthesis. Nitrogen application increased both DM, LAI and hence RVI significantly. RVI measured during anthesis and deflowering was strongly correlated to both final dry matter and seed yield in both cultivars. Hereby RVI measured at anthesis may be used to predict final yield of seed and total dry matter, and to estimate if supplementary nitrogen fertilizer is required to produce optimal yields in quinoa."}
+	}}

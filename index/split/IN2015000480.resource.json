@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of some botanical extracts on larval growth and development of Spodoptera litura (F.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":132,
+	"dc:subject":[
+		{"value":"botanical insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"insecticidas de origen vegetal",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticide d'origine vegetale",
+	"xml:lang":"fre"
+	},
+	{"value":"spodoptera litura",
+	"xml:lang":"esp"
+	},
+	{"value":"azadirachta indica",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":135,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000480",
+	"dct:identifier":"IN2015000480",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kulkarni, U. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aherkar, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Borkar, S. L."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A laboratory experiment was conducted to know the effects of aqueous extracts of five indigenous plant materials viz., orange (Citrus reticulata), subza (Ocimum basilicum), neem (Azadirachta Indica), ginger (Zinziber officinella) and marigold (Tagetes errecta) on the larval growth and development of Spodoptera litura (F.). The highest reduction in larval weight was observed in case of neem seed kernel extract while the highest reduction in larval period was observed in case of subza leaf extract. Relatively low larval mortlities were recorded in case of plant extracts. However, the larval mortality percentages observed in case of triazophos 40 EC at half recommended dose and neem seed kernel extract @ 5% were found statistically at par with each other.",
+	"xml:lang":"eng"
+	}
+	}}

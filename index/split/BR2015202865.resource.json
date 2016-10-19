@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Contaminação e brotação de gravioleira em função do uso de fungicida no meio de cultura ",
+	"xml:lang":"por"
+	},
+	{"value":"Soursop contamination and sprouting in function of the fungicide in the culture medium",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"fungi",
+	"xml:lang":"eng"
+	},
+	{"value":"carbendazim",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202865",
+	"dct:identifier":"BR2015202865",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/554/271",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Aparecida de Andrade Renata"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Garcia Bagatim Amanda"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paulo Jasper Samir"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual Paulista, Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual Paulista, Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná, Curitiba, PR, Brasill"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The present research was conducted to verify the effectiveness of adding different doses of fungicide to the culture medium, in the contamination of in vitro culture of the explants of soursop. The experiment was conducted using explants collected from seedlings of soursop that werekept on lath house conditions (50% brightness), underwent three treatments, consisting in doses of fungicide carbendazim added to the MS culture medium: 5 ml per liter of culture medium, 10 ml/L, 15 mL /L, more a control treatment. The study lasted for 42 days and were evaluated daily number of explants with contamination and with budding. There was no beneficial effect of fungicide in reducing contamination, nor in increased sprouting, for the in vitro cultivation of soursop.",
+	"xml:lang":"eng"
+	},
+	{"value":"15 mL/L, além de um tratamento testemunha. O estudo teve a duração de 42 dias e foram avaliados o número de explantes com contaminação e com brotação. Não houve efeito benéfico do fungicida na redução de contaminação, nem no aumento de brotação, para o cultivo in vitro da gravioleira."},
+	{"value":"10 mL/L"},
+	{"value":"Este trabalho foi realizado objetivando verificar a eficácia da adição de diferentes doses de fungicida ao meio de cultura, na contaminação de explantes de gravioleira cultivados in vitro. O experimento foi realizado usando explantes coletados de mudas recém-formadas de gravioleira, que estavam mantidas em condições de ripado (50% de luminosidade), submetidos a três tratamentos, compostos por doses do fungicida carbendazim acrescidos ao meio de culturaMS: 5 mL por litro de meio de cultura",
+	"xml:lang":"por"
+	}
+	]
+	}}

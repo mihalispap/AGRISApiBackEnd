@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"An overview of how rubisco and carbohydrate metabolism may be regulated at elevated atmospheric [CO2] and temperature.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"aineenvaihdunta"},
+	{"value":"kasvit"},
+	{"value":"säätely"},
+	{"value":"climatic change"},
+	{"value":"entsyymit"},
+	{"value":"kasvihuoneilmiö"},
+	{"value":"Glycine max"},
+	{"value":"carbon dioxide"},
+	{"value":"lämpötila"},
+	{"value":"palkokasvit"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"fotosynteesi"},
+	{"value":"Calvin cycle"},
+	{"value":"environmental temperature"},
+	{"value":"Plantae"},
+	{"value":"viljelykasvit"},
+	{"value":"soijapapu"},
+	{"value":"carbohydrate metabolism"},
+	{"value":"Oryza sativa"},
+	{"value":"rubisco"},
+	{"value":"Rubisco"},
+	{"value":"hiilidioksidi"},
+	{"value":"riisi"},
+	{"value":"crops"},
+	{"value":"hiilihydraatit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001987",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001987",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/5/3/anovervi.pdf",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bowes, George.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vu, Joseph C. V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hussain, Mian W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pennanen, Arja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Allen, L. Hartwell,
+    Jr.
+  "
+	}
+	}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    Global climate change and agriculture in the North
+    (1995 :
+    Helsinki)
+  "
+	}
+	}
+	}}

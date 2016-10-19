@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Rattan cane Calamus travancoricus - A new host plant record for spindle bug of arecanut palm, Mircarvalhoia arecae (Miller &China)",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"insecta",
+	"xml:lang":"esp"
+	},
+	{"value":"plant diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"maladie des plantes",
+	"xml:lang":"fre"
+	},
+	{"value":"enfermedades de las plantas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":252,
+	"bibo:volume":76,
+	"bibo:pageEnd":253,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000910",
+	"dct:identifier":"IN2015000910",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shameem K. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prathapan K. D."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

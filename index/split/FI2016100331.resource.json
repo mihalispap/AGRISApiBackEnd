@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f9.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of vibration on the bacterial growth on strawberry fruits"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nakamura, Nobutaka (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Inatsu, Yasuhiro (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kawamoto, Shinichi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Okadome, Hiroshi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nakano, Kohei (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maezawa, Shigenori (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shiina, Takeo (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100331",
+	"dct:identifier":"FI2016100331",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effects of vibration on the growth of aerobic mesophilic bacteria and coliform bacteria, and the survival of inoculated Escherichia coli O157:H7 or Listeria monocytogenes were studied on the strawberry fruits. Post-vibrated strawberries were stored at 10°C and 25°C and the periodic microbial count was observed for 4 days. It was found that vibrated strawberries caused increase of aerobic mesophilic and/or coliform bacteria on post storage incubation at 25°C (P<0.01), while vibration treatment did not affect the growth of mesophilic bacteria, if stored at 10°C. L. monocytogenes levels on vibrated strawberries stored at 10°C and 25°C were slightly lower than that of non-vibrated strawberries, but the difference was not significant. E. coli O157:H7 level for vibrated fruits stored at 10°C showed slightly but significantly lower value than that for non-vibrated fruits (P<0.01). On the other hand, E. coli O157:H7 levels on vibrated and non-vibrated strawberries stored at 25°C increased during storage (P<0.05). The results showed that vibration caused a significant increase of bacteria on strawberry fruits stored at 25°C, but non-significant when stored at 10°C."}
+	}}

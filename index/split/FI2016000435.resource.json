@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of dietary safflower oil on growth performance, carcass characteristics and meat chemical and flatty acid composition of Myscovy ducks (Cairina moschata L.) /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Laudadio, Vito.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lestingi, Antonia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vicenti, Arcangelo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Caroli, Anna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"carcass composition"},
+	{"value":"fatty acids"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"liha"},
+	{"value":"ruokinta"},
+	{"value":"ducks"},
+	{"value":"laatu"},
+	{"value":"Carthamus tinctorius"},
+	{"value":"safflower oil"},
+	{"value":"ankka"},
+	{"value":"siipikarja"},
+	{"value":"teuraslaatu"},
+	{"value":"meat"},
+	{"value":"quality"},
+	{"value":"Muscovy ducks"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000435",
+	"dct:identifier":"FI2016000435",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

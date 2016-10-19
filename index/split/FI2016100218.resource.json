@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a16.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Micropropagation in the strawberry (Fragaria x ananassa Duch.) inbred lines"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Zebrowska, Jadwiga I. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100218",
+	"dct:identifier":"FI2016100218",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The influence of an inbreeding on the micropropagation process in the strawberry was estimated. The experiment included 6 strawberry inbred lines. The explants of this plant material was proliferated in two subcultures. The micropropagation has been described by the number and weight of microplants derived from individual explants. The results showed that the inbred influenced on the parameters of micropropagation. The level of inbred depression concerned much more the weight of microplants than their number produced per explant. Generally, the number and weight of microplant derived per individual explants was much lower in comparison to the value of these parameters in the maternal plants and their progeny after open pollination."}
+	}}

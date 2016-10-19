@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Whey protein hydrolysates.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Tossavainen, O.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"therapeutic diets"},
+	{"value":"metabolic disorders"},
+	{"value":"milk byproducts"},
+	{"value":"hydrolyzed proteins"},
+	{"value":"hydrolyysi"},
+	{"value":"maitovalmisteet"},
+	{"value":"whey"},
+	{"value":"valmisteet"},
+	{"value":"hypersensitivity"},
+	{"value":"ravitsemushäiriöt"},
+	{"value":"whey protein"},
+	{"value":"hera"},
+	{"value":"human diseases"},
+	{"value":"valkuaisaineet"},
+	{"value":"ravitsemus"},
+	{"value":"allergia"},
+	{"value":"taudit"},
+	{"value":"human nutrition"},
+	{"value":"uses"},
+	{"value":"kliininen ravitsemus"},
+	{"value":"käyttö"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF/NMR-seminar
+    (252 :
+    1995 :
+    Turku)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002075",
+	"dct:identifier":"FI2016002075",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

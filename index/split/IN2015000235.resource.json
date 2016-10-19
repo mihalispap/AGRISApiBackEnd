@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Integrated management of Rhizoctonia root rot of Pea",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":118,
+	"dc:subject":[
+		{"value":"podredumbre de la raiz",
+	"xml:lang":"esp"
+	},
+	{"value":"pourriture des racines",
+	"xml:lang":"fre"
+	},
+	{"value":"rhizoctonia solani",
+	"xml:lang":"esp"
+	},
+	{"value":"root rots",
+	"xml:lang":"eng"
+	},
+	{"value":"pisum sativum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":120,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000235",
+	"dct:identifier":"IN2015000235",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dutta, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barman, A. Roy"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hembram, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kuiry, S.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghosh, P.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chattopadhyay, Arup"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"In the present investigation, efforts were made on the evaluation of different chemicals and bioagents against Rhizoctonia root rot disease of pea under natural conditions. Seed treatment with carbendazim + two need based spray with validamycin (0.2%) was found to be the most effective against the disease contributing 61 % reduction over control. Seed treatment with carbendazim and soil application of green manure + neem cake + antagonist and seed treatment with carboxin + two need based spray with flusilazole (0.1%) showed 59.1% and 42.6% reduction in disease severity, respectively. The highest total yield (66.55 q.ha-1) of pea was recorded when seed treatment with carbendazim and soil application of green manure + neem cake + antagonist were applied. However, the lowest yield 49.25 q.ha-1 were obtained in control plot. Thus, it can be concluded that seed treatment with systemic fungicide and soil application of organic manure, neem cake and fungal antagonist was the most effective way to manage Rhizoctonia root rot disease of pea in the New Alluvial Region of West Bengal.",
+	"xml:lang":"eng"
+	}
+	}}

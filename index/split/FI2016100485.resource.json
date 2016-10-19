@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1A75-79newcrops.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"New crops: an alternative for the development of horticulture"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prohens, Jaume (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rodríguez-Burruezo , Adrián (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nuez, Fernando (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100485",
+	"dct:identifier":"FI2016100485",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"New crops have historically played an important role in the progress of mankind; on studying any region of the world, it can be found that many of its most important crops did not originate there, but were new crops at the time of their introduction. Nonetheless, there are still many underexploited or neglected crops and non domesticated species that could develop as new crops in many regions world-wide. The diversification of horticulture to introduce these new crops is growing in interest as they can result in an increase of income for farmers, contribute to a more environmentally friendly horticulture, reduce the risk of crop failure, and increase ethnobotanical knowledge. In order to be successfully established, a new crop must adapt to the new agroecological and production conditions, as well as to the demands of the markets and consumers. Despite the interest in introducing new crops, the lengthy process involved, usually taking many years or decades, may discourage introduction attempts, especially by private companies. However, many examples show that research on the introduction of new crops has been very profitable on a country scale, therefore reinforcing the importance of public research on such projects, particularly in the early stages."}
+	}}

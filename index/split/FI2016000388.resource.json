@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/41329/13862",
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of faba beans (Vicia faba L.) in diets of laying hens.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Koivunen, Erja,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuunainen, Petra,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valkonen, Eija,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rossow, Laila,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valaja, Jarmo,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"faba beans"},
+	{"value":"animal feeding"},
+	{"value":"rehut"},
+	{"value":"animal health"},
+	{"value":"ruokinta"},
+	{"value":"palkokasvit"},
+	{"value":"egg production"},
+	{"value":"siipikarja"},
+	{"value":"eggs"},
+	{"value":"quality"},
+	{"value":"layer chickens"},
+	{"value":"kana"},
+	{"value":"feed processing"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000388",
+	"dct:identifier":"FI2016000388",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

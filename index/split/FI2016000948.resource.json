@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/46512/14713",
+	"dct:language":"eng",
+	"dct:title":{"value":"Transcriptome profiling of Finnsheep ovaries during out-of-season breeding period.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pokharel, Kisun,
+    kirjoittaja
+    Luonnonvarakeskus ; Itä-Suomen yliopisto
+    LUKE 10088
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peippo, Jaana,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Andersson, Göran,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Li, Meng-Hua,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kantanen, Juha,
+    kirjoittaja.
+    Luonnonvarakeskus ; Itä-Suomen yliopisto
+    LUKE 10088
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Finland"},
+	{"value":"perimä"},
+	{"value":"genes"},
+	{"value":"animal breeding"},
+	{"value":"sheep"},
+	{"value":"bioinformatics"},
+	{"value":"suomenlammas"},
+	{"value":"sekvensointi"},
+	{"value":"kotieläinjalostus"},
+	{"value":"lammas"},
+	{"value":"geenit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000948",
+	"dct:identifier":"FI2016000948",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Nonproteolyyttinen Clostridium botulinum : potentiaalinen riski minimaalisesti prosessoiduissa elintarvikkeissa /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hyytiä, Eija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hielm, Sebastian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindström, Miia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korkeala, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"bacterioses"},
+	{"value":"botulismi"},
+	{"value":"fish"},
+	{"value":"vacuum packaging"},
+	{"value":"fish products"},
+	{"value":"Clostridium botulinum"},
+	{"value":"food hygiene"},
+	{"value":"botulism"},
+	{"value":"foodborne diseases"},
+	{"value":"elintarvikehygienia"},
+	{"value":"tyhjiöpakkaukset"},
+	{"value":"elintarvikkeet"},
+	{"value":"ruokamyrkytys"},
+	{"value":"poisoning"},
+	{"value":"pakkaukset"},
+	{"value":"tyhjiötekniikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001494",
+	"dct:identifier":"FI2016001494",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

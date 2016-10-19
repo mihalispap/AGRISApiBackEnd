@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-8.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Some issues associated with the livestock industries of the developing countries of Asia: Opening Pandora’s BoxG"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hoffmann, D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Riethmuller, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Steane, D. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100456",
+	"dct:identifier":"FI2016100456",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Analysts concerned with policy matters related to the food industry of Asia would have opinions about the growth of the livestock industries in the developing countries of Asia. These opinions are likely to differ, particularly in relation to such issues as: the role that should be played by livestock; the extent to which Western technologies should be used in these livestock industries; and whether the existing level of available knowledge concerning the livestock industries of developing Asia is adequate for policy development. This paper addresses these and related issues."}
+	}}

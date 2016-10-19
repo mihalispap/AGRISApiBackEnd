@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Urethral Obstruction by Urinary Calculi in a Pomeranian Dog",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":100,
+	"dc:subject":[
+		{"value":"urolithiase",
+	"xml:lang":"fre"
+	},
+	{"value":"enfermedades del tracto urinario",
+	"xml:lang":"esp"
+	},
+	{"value":"maladie de l'appareil urinaire",
+	"xml:lang":"fre"
+	},
+	{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"urolithiasis",
+	"xml:lang":"eng"
+	},
+	{"value":"urolitiasis",
+	"xml:lang":"esp"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	},
+	{"value":"urinary tract diseases",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":102,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000087",
+	"dct:identifier":"IN2015000087",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jattennavar, P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kalmath, G.P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"One and half year old male Pomeranian dog was presented to the veterinary hospital, Gadag, with the complaint of tenesmus, uneasiness, passing scanty urine, severe straining during urination and passing of blood mixed urine at the end of the urination for the past 5 days and anuria for the past 24 hours. Upon clinical examination, animal was dull, showing symptoms of abdominal pain and dehydration. Temperature was sub normal and respiratory and pulse rate were elevated. Ventral abdominal palpation along the course of penis revealed, a hard granular mass just posterior to the os penis. When the attempts to dislodge calculus in to the urinary bladder failed, the animal was operated under atropine suplhate and thiopentone sodium to remove a round 6 mm calculus. Post surgical treatment with antibiotics and daily dressing of the surgical for a week ensured recovery of animal and re-establishment of urine flow.",
+	"xml:lang":"eng"
+	}
+	}}

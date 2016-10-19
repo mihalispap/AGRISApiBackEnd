@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Study of the phytoestrogen content of goat's rue (Galega orientalis), alfalfa (Medicago sativa) and white clover (Trifolium repens) /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Saloniemi, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kallela, Kaarlo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saastamoinen, Ilkka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"trifolium repens"},
+	{"value":"reproductive disorders"},
+	{"value":"galega orientalis"},
+	{"value":"viljelykasvit"},
+	{"value":"finland"},
+	{"value":"eläintaudit"},
+	{"value":"oestrogens"},
+	{"value":"lisääntymishäiriöt"},
+	{"value":"Trifolium repens"},
+	{"value":"Galega orientalis"},
+	{"value":"nurmipalkokasvit"},
+	{"value":"uterus"},
+	{"value":"valkoapila"},
+	{"value":"laboratory animals"},
+	{"value":"medicago sativa"},
+	{"value":"rehuvuohenherne"},
+	{"value":"estrogeenit"},
+	{"value":"kasviestrogeenit"},
+	{"value":"chemical composition"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"rats"},
+	{"value":"sinimailanen"},
+	{"value":"rehukasvit"},
+	{"value":"eläinkokeet"},
+	{"value":"Medicago sativa"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000616",
+	"dct:identifier":"FI2016000616",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

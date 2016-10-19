@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of finishing diet and pre-slaughter fasting time on meat quality in crossbred pigs /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Partanen, Kirsi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siljander-Rasi, Hilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Honkavaara, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ruusunen, Marita.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kasvatuskokeet"},
+	{"value":"feeds"},
+	{"value":"carcass composition"},
+	{"value":"underfeeding"},
+	{"value":"animal feeding"},
+	{"value":"rehut"},
+	{"value":"liha"},
+	{"value":"meat performance"},
+	{"value":"ruokinta"},
+	{"value":"quality"},
+	{"value":"laatu"},
+	{"value":"swine"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000705",
+	"dct:identifier":"FI2016000705",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

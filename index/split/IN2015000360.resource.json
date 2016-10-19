@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Single nucleotide polymorphism of KAP6.1 gene in jaiselmeri sheep - A carpet wool breed of western Rajasthan",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":26,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"secuencia nucleotidica",
+	"xml:lang":"esp"
+	},
+	{"value":"wool",
+	"xml:lang":"eng"
+	},
+	{"value":"polymorphism",
+	"xml:lang":"eng"
+	},
+	{"value":"polymorphisme",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"nucleotide sequence",
+	"xml:lang":"eng"
+	},
+	{"value":"laine",
+	"xml:lang":"fre"
+	},
+	{"value":"sequence nucleotidique",
+	"xml:lang":"fre"
+	},
+	{"value":"lana",
+	"xml:lang":"esp"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"polimorfismo",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":31,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000360",
+	"dct:identifier":"IN2015000360",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Malik, Geetu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, S.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, Neelam"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The variation in Jaiselmeri sheep breed at KAP6.1 gene was investigated using PCR-Single Strand Conformation Polymorphism (SSCP) and DNA sequencing. Three PCR-SSCP haplotypes W, X and Y were identified in 252 bp DNA segment covering the entire coding sequences (CDs) from 50 sheep samples collected at random. The W (wild) type having DNA sequence similar to GenBank reference (accession no. M95719) were most abundant (92%), while X and Y mutants were 4% each. The X type (accession no. FJ712681) showed A/G base substitution at 176 nucleotide position, resulted it to change from tyrosine (Y) to cystine (C) at codon 59. The Y haplotype (accession no. FJ712675) sequence showed synonymous mutations T/C, C/G, T/C, C/T, C/G, C/T and C/A at nucleotide positions 27, 30, 57, 64, 75, 109 and 126, respectively. The most interesting part of the study is a major deletion of 36 nucleotides from position 154â189, resulting into loss of amino acids from glycine (G) to serine (S) at codons from 56â67, respectively. This deletion was clearly amplified by fast moving SSCP conformer on gel. This mutation is novel in KAP6.1 gene of sheep and it is now in public domain. This study would lead to screening of these SNPs in large sheep population for any possible association with wool yield or processing properties.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Effect of litter size on the variation in birth and weaning weights of Landrace piglets",
+	"xml:lang":"eng"
+	},
+	{"value":"   Efeito do tamanho da leitegada sobre a variação dos pesos ao nascer e ao desmame em leitões da raça Landrace ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"variants",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p39",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00021",
+	"dct:identifier":"BR2016F00021",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p39",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"PRAZERES, C. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"IRGANG, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PEREIRA, M. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"HAUPTLI,  L"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTIAN, G. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TREVISOL, J."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this study was to evaluate the effect of the size class of the litter at birth on the variation in birth and weaning weights and on the survival rate of piglets from birth to weaning. For this purpose, records of individual weight at birth and weaning of piglets obtained from a database of 295 Landrace litters born between 2000 and 2010 on a pig farm in the western region of the State of Paraná were used. The litters were classified as small (up to 7 piglets), medium (8 to 13 piglets), and large (> 14 piglets) according to the total number of piglets born. The data were analyzed considering the effects of the year of sow mating and size class of the litter at birth. The correlations between mean weight and variance in litter weight and size were higher for medium and large litters. The size class of the litter significantly influenced the mean weight of piglets at birth and weaning and the variance in birth weight. Piglets born in medium and large litters weighed less and exhibited greater birth weight variation and a lower survival rate until weaning than piglets born in small litters.",
+	"xml:lang":"eng"
+	},
+	{"value":"Objetivou-se avaliar o efeito da classe de tamanho de leitegada ao nascer sobre a variação do peso ao nascer e ao desmame e sobre a taxa de sobrevivência dos leitões do nascimento ao desmame. Para isso usou-se informações de peso individual ao nascer e ao desmame de leitões de um banco de dados de 295 leitegadas de suínos da raça Landrace, nascidos entre 2000 e 2010, em uma granja de suínos do oeste do estado do Paraná. As leitegadas foram classificadas pelo número total de leitões nascidos em pequenas (até 7 leitões), médias (8 a 13 leitões) e grandes (14 e mais leitões). Os dados foram analisados considerando-se os efeitos de ano de acasalamento das porcas e classe de tamanho de leitegada ao nascer. Correlações entre as características de peso médio e variância do peso e tamanho da leitegada foram maiores nas leitegadas médias e grandes. Classe de tamanho da leitegada influenciou significativamente peso médio ao nascer e ao desmame dos leitões e variância do peso ao nascer. Leitões de leitegadas médias e grandes pesaram menos, apresentaram maior variação do peso ao nascer e menor taxa de sobrevivência até o desmame do que leitões de leitegadas pequenas.",
+	"xml:lang":"por"
+	}
+	]
+	}}

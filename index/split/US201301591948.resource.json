@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Induction of embryogenic callus and plant regeneration from nodes of greenhouse grown plants of Alstroemeria cv. Fuego"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591948",
+	"dct:identifier":"US201301591948",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a36.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khaleghi, Alireza (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khalighi, Ahmad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Azadi, Pejman (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mii, Masahiro (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Plant regeneration ability of callus was studied in the ornamental monocot Alstroemeria cv. Fuego. High frequency (23%) of compact callus induction was obtained on a Schenk and Hildebrant (SH) medium supplemented with 2 mg/l picloram from nodal segments excised from plants grown in the greenhouse. After three months of culture, compact embryogenic calluses (CECs) were transferred to the modified Murashige and Skoog (MS) medium supplemented with 5 mg/l picloram for further proliferation of CECs. Somatic embryos and subsequently plantlets were formed after transfer of the CEC to regeneration medium supplemented with various concentrations of BAP. The highest plantlet formation was observed on MS medium supplemented with 0.5 mg/l BAP. The total time needed to regenerate complete plants from the initiation of nodal segment culture was approximately 8 months."}
+	}}

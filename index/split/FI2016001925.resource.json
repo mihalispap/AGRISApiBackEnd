@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Applications of fluorescent in situ hybridization (FISH) in environmental microbiology.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Souza, João V. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moreira da Silva, Roberto
+    Júnior.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koshikene, Daniela.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Silva, Érica S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nucleotide sequence"},
+	{"value":"tests"},
+	{"value":"genes"},
+	{"value":"molecular biology"},
+	{"value":"methodology"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001925",
+	"dct:identifier":"FI2016001925",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

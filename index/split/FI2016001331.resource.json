@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n3p223.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The influence of raw grass pea (Lathyrus sativus L.) seeds on growth performance and biochemical and haematological parameters in the blood of grower-finisher pigs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Winiarska-Mieczan, Anna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kwiecień, Malgorzata.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"siemen"},
+	{"value":"weight"},
+	{"value":"carcass composition"},
+	{"value":"Lathyrus sativus"},
+	{"value":"hyöty"},
+	{"value":"animal feeding"},
+	{"value":"rehut"},
+	{"value":"peltonätkelmä"},
+	{"value":"ruokinta"},
+	{"value":"blood disorders"},
+	{"value":"paino"},
+	{"value":"hermomyrkyt"},
+	{"value":"veri"},
+	{"value":"kasvu"},
+	{"value":"valkuaisaineet"},
+	{"value":"meat animals"},
+	{"value":"weeds"},
+	{"value":"swine"},
+	{"value":"haittavaikutukset"},
+	{"value":"growth"},
+	{"value":"maksa"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001331",
+	"dct:identifier":"FI2016001331",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

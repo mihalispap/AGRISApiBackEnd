@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of feeding on milk fat content and fatty acid composition : new research experiences and feeding practice in Norway.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Havrevoll, Ø.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ekern, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kjøs, N. P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haug, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"feeds of animal origin"},
+	{"value":"fatty acids"},
+	{"value":"lypsykarja"},
+	{"value":"rasvat"},
+	{"value":"milk fat"},
+	{"value":"ruokinta"},
+	{"value":"maitorasva"},
+	{"value":"animal breeding"},
+	{"value":"fish products"},
+	{"value":"rasvahapot"},
+	{"value":"maito"},
+	{"value":"koostumus"},
+	{"value":"cow milk"},
+	{"value":"lehmät"},
+	{"value":"barley"},
+	{"value":"lipid content"},
+	{"value":"lipidit"},
+	{"value":"oats"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF/NMR-seminar
+    (252 :
+    1995 :
+    Turku)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001417",
+	"dct:identifier":"FI2016001417",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

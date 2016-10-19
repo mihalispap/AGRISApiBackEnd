@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Apparent digestibility of mixed feed with increasing levels of false flax (Camelina sativa L.) seeds in rabbit diets.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peiretti, Pier Giorgio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mussa, Pier Paolo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Meineri, Giorgia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Perona, Giovanni.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ingredients"},
+	{"value":"feeds"},
+	{"value":"sulavuus"},
+	{"value":"kani"},
+	{"value":"rehut"},
+	{"value":"rabbits"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"meat animals"},
+	{"value":"ruistankio"},
+	{"value":"Camelina sativa"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000530",
+	"dct:identifier":"FI2016000530",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"CULICIDEOS (DIPTERA: CULICIDAE) DA COLEÇÃO ENTOMOLÓGICA DO INSTITUTO DE PESQUISAS CIENTIFICAS E TECNOLÓGICAS DO AMAPÁ",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":60,
+	"bibo:volume":1,
+	"bibo:pageEnd":65,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00012",
+	"dct:identifier":"BR2015N00012",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/337",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Raimundo Nonato Picanço Souto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"José Ferreira Saraiva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ricardo Marcelo Ferreira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ledayane Mayana Barbosa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A coleção cientifica de Culicidae do Instituto de Pesquisas Cientificas do estado do Amapá teve início em 1992 com o desenvolvimento de projetos que visavam estudar a taxonomia e a bioecologia de culicídeos de importância na transmissão de arboviroses e de malária no Amapá. Neste trabalho divulga-se a lista e as localidades de ocorrência de espécies do acervo de Culicidae da Coleção Cientifica do Instituto de Pesquisas Cientificas e Tecnológicas do estado Amapá (IEPA), referente ao período de 1992 a 2005. Neste período havia um total de 560 espécimes, distribuídos em 02 subfamílias, 07 tribos, 18 gêneros, 66 espécies e 09 morfotipos, todos coletados no estado Amapá. arboviroses, malária, taxonomia, vetores.",
+	"xml:lang":"por"
+	}
+	}}

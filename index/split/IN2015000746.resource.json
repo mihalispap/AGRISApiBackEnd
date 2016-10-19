@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Trends in adoption of planting density in rubber smallholdings in the traditional regions of India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":425,
+	"dc:subject":[
+		{"value":"size of holding"},
+	{"value":"traditional region"},
+	{"value":"espacement",
+	"xml:lang":"fre"
+	},
+	{"value":"caoutchouc",
+	"xml:lang":"fre"
+	},
+	{"value":"caucho",
+	"xml:lang":"esp"
+	},
+	{"value":"spacing",
+	"xml:lang":"eng"
+	},
+	{"value":"espaciamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"rubber",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":427,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000746",
+	"dct:identifier":"IN2015000746",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Siju, T"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Veeraputhran, S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joby Joseph"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tharian George, K"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The analysis of planting density of rubber in small holdings for the period 2004-2010 indicated multifaceted features over time. In the traditional belt, except in North Kerala, the planting density of new planting was higher than that of replanting. After the release of RRII 400 series in the year 2005, significantly higher planting density was adopted for it in South Kerala. In all other regions, no significant difference in planting density was noticed between RRII 105 and RRII 400 series in the case of new planting, but higher density was adopted for replanting of RRII 105. An inverse relationship was observed between the size of holdings and planting density.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Sulphur in cultivated organic soils /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Urvas, Leila.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"sulphur"},
+	{"value":"nutrient availability"},
+	{"value":"rikki"},
+	{"value":"multamaat"},
+	{"value":"ravinnepitoisuus"},
+	{"value":"finland"},
+	{"value":"viljelymaa"},
+	{"value":"turvemaat"},
+	{"value":"humus"},
+	{"value":"eloperäiset maat"},
+	{"value":"peat soils"},
+	{"value":"maalajit"},
+	{"value":"arable soils"},
+	{"value":"kasvinravinteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000578",
+	"dct:identifier":"FI2016000578",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

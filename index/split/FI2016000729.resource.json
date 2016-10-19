@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of regeneration method on growth, wood density and fibre properties of downy birch (Betula pubescens Ehrh.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Luostarinen, Katri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huotari, Noora.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tillman-Sutela, Eila.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"regeneration"},
+	{"value":"hieskoivu"},
+	{"value":"width"},
+	{"value":"ominaisuudet"},
+	{"value":"coppice system"},
+	{"value":"tiheys"},
+	{"value":"wood properties"},
+	{"value":"kuidut"},
+	{"value":"fibres"},
+	{"value":"pituus"},
+	{"value":"kasvu"},
+	{"value":"length"},
+	{"value":"vesametsät"},
+	{"value":"leveys"},
+	{"value":"Betula pubescens"},
+	{"value":"metsänuudistus"},
+	{"value":"puu"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000729",
+	"dct:identifier":"FI2016000729",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

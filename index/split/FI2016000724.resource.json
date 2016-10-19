@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil properties and distribution of heavy metals and boron within three Greek Histosols.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Karyotis, Theodore.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haroulis, Athanasios.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vavoulidou, Evagelia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Papadopoulos, Pericles.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil subsidence"},
+	{"value":"raskasmetallit"},
+	{"value":"maaperä"},
+	{"value":"Greece"},
+	{"value":"sequential extraction"},
+	{"value":"ominaisuudet"},
+	{"value":"boron"},
+	{"value":"histosols"},
+	{"value":"boori"},
+	{"value":"heavy metals"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000724",
+	"dct:identifier":"FI2016000724",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

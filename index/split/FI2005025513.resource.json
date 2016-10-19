@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Adsorption isotherms and heat of sorption of fresh and preosmosed oven-dried bananas"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025513",
+	"dct:identifier":"FI2005025513",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f17.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Falade, K.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Awoyele, O.O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Three banana varieties (Omini Red, Cavendish and Cooking banana) were transversely cut into 10 mm slices, pretreated in sucrose solution of 52, 60 and 68°B and maintained at 25°C for 12 hours. Both fresh and preosmosed banana slices were subsequently oven-dried at 60°C for 72 hours. Adsorption isotherms of fresh and preosmosed oven-dried banana slices were determined at 20 and 40°C using gravimetric–static method. Suitability of eight sorption models in describing the adsorption data was tested. Moreover, isosteric heat of sorption of both fresh and preosmosed oven-dried bananas was determined using Clausius–Clapeyron equation. Adsorption isotherms of fresh and preosmosed oven-dried banana slices gave type I (J–shaped) isotherms. Isotherms were affected by temperature and pretreatment sucrose solution concentration. Crossing of isotherms occurred at aw~0.55-0.70. Among the eight models, tested, Guggenheim-Anderson-de Boer (GAB) model gave the best fit. Calculated GAB monolayer moisture (Mm) content (9.80–20.8% d.b.) decreased with increase in temperature. Generally GAB Mm content increased with increase in total solids (%) content of preosmosed banana slices. Isosteric heat of sorption increased with decreased moisture content in banana slices."}
+	}}

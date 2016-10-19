@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Ground beetle (Coleoptera, Carabidae) diversity in Finnish arable land.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Helenius, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Holopainen, Jarmo K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huusela-Veistola, Erja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kurppa, Sirpa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pokki, Pia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Varis, Anna-Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maakiitäjäiset"},
+	{"value":"viljelymaa"},
+	{"value":"lajit"},
+	{"value":"biodiversity"},
+	{"value":"Carabidae"},
+	{"value":"Coleoptera"},
+	{"value":"farmland"},
+	{"value":"arable land"},
+	{"value":"kovakuoriaiset"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000662",
+	"dct:identifier":"FI2016000662",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

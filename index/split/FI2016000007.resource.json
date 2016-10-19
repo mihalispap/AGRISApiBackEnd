@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Weighting alternative estimates when using multi-source auxiliary data for forest inventory.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Poso, Simo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wang, Guangxing.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuominen, Sakari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methods"},
+	{"value":"kaksivaiheinen otanta"},
+	{"value":"sampling"},
+	{"value":"forest inventories"},
+	{"value":"statistical methods"},
+	{"value":"metsäninventointi"},
+	{"value":"kaukokartoitus"},
+	{"value":"tilastomenetelmät"},
+	{"value":"remote sensing"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000007",
+	"dct:identifier":"FI2016000007",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

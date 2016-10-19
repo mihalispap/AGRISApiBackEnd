@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Bioengineered pathogens for control of pests of cole crops.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Shelton, Anthony M.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"biotekniikka"},
+	{"value":"vihannekset"},
+	{"value":"puutarhakasvit"},
+	{"value":"pests"},
+	{"value":"biological control"},
+	{"value":"torjuntamenetelmät"},
+	{"value":"tuhoeläimet"},
+	{"value":"torjuntaeliöt"},
+	{"value":"taudinaiheuttajat"},
+	{"value":"kaalit"},
+	{"value":"biological control agents"},
+	{"value":"biologinen torjunta"},
+	{"value":"pathogens"},
+	{"value":"vegetable crops"},
+	{"value":"Brassica oleracea"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF Seminar
+    (1995 :
+    Lillehammer)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002110",
+	"dct:identifier":"FI2016002110",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Phagocytic uptake and killing of Pasteurella multocida B: 2 by mouse peritoneal phagocytic cells",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1013,
+	"dc:subject":[
+		{"value":"phagocytose",
+	"xml:lang":"fre"
+	},
+	{"value":"phagocytosis",
+	"xml:lang":"eng"
+	},
+	{"value":"fagocitosis",
+	"xml:lang":"esp"
+	},
+	{"value":"pasteurella multocida",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1017,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000270",
+	"dct:identifier":"IN2015000270",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vasudeva, Kiran"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chachra, Deepti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arora, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandra, Mudit"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sood, N.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rai, T.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, N.S."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The phagocytic uptake and killing of Pasteurella multocida B: 2 field isolates (n, 9) and vaccine strain (P52) by mouse peritoneal phagocytic cells, in the absence and presence of opsonization was evaluated using in vitro phagocytosis and bactericidal assays. Opsonization either with hyperimmune serum or normal serum caused a nonsignificant increase in the percentage of phagocytosis over non-opsonized bacteria (P0.01) in all the P. multocida B: 2 isolates including P52. It was observed that 99% of the bacteria were killed within 15 min of incubation, irrespective of the serum used. There was a static increase in cfu counts by ~ 5 log at the end of the assay at 240 min. The study revealed that opsonization did not alter the phagocytic uptake and the bacteria were efficiently phagocytosed and killed in vitro under different conditions.",
+	"xml:lang":"eng"
+	}
+	}}

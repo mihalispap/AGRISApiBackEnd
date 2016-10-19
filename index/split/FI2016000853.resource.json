@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of salt, starch and pH on the electroosmosis dewatering of tomato paste suspension.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jumah, Rami.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Asheh, Sameer.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Banat, Fawzi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Zoubi, Khalid.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"suola"},
+	{"value":"säilöntämenetelmät"},
+	{"value":"elintarviketekniikka"},
+	{"value":"foods"},
+	{"value":"tomaatti"},
+	{"value":"salts"},
+	{"value":"tomatoes"},
+	{"value":"preservation"},
+	{"value":"electric field"},
+	{"value":"starch"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000853",
+	"dct:identifier":"FI2016000853",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

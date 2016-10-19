@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a25.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of WST-1 to measurement of cell viability in low temperature-stressed explants of tropical vegetables"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chucheep, Kamonwan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kanlayanarat, Sirichai (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maneerat, Chamorn (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Matsuo, Tomoaki (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100495",
+	"dct:identifier":"FI2016100495",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Most tropical plants, including vegetables and fruits, are sensitive to chilling, which causes injury under low temperatures in the range of 0 to 12°C. In the present work, a simple and useful colorimetric assay, WST-1 assay (viability assay) was applied to evaluate chilling damage in three kinds of chilling sensitive vegetables seedlings, mung bean, water spinach and cucumber. The results were compared to those of growth rate and ion leakage measurements, which are traditional viability assays. WST-1 (4-[3-4-iodophenyl]-2-(4-nitrophenyl)-2H-5-tetrazolio)-1,3-benzene disulfonate), which produces a highly water-soluble formazan dye of a yellowish color after reduction by metabolically active cells was applied to measure cell viability after low temperature stress. Higher OD values (yellowish color development) were found in younger mung bean seedlings, indicating the younger seedlings had higher cell viability than the older ones. In addition, testing viability in the same age seedlings by WST-1 assay confirmed that the elongation zone had higher cell viability than the non-elongation zone. WST-1 assay, ion leakage and growth rate measurements showed high relation in these three kinds of tropical vegetables seedlings, decreased OD values were associated with higher ion leakage and stunted growth in chilling damaged seedlings. The yellowish color development was remarkably inhibited by the addition of two respiratory inhibitors and two glycolysis inhibitors, suggesting that the respiratory activity of plant is at least partly responsible for WST-1 reduction activity. The present results indicate that this WST-1 procedure can be a useful tool to measure cell viability or cell damage sustained by low temperatures in explants or organs of higher plants."}
+	}}

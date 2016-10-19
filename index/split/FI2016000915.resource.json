@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1030",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Manner, Jussi,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nordfjell, Tomas,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindroos, Ola,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Effects of the number of assortments and log concentration on time consumption for forwarding.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"terrain transport"},
+	{"value":"leimikot"},
+	{"value":"time study"},
+	{"value":"log extraction"},
+	{"value":"transport"},
+	{"value":"forwarders"},
+	{"value":"forest haulage"},
+	{"value":"cut-to-length logging"},
+	{"value":"logging"},
+	{"value":"ajankäyttö"},
+	{"value":"puunkorjuu"},
+	{"value":"productivity"}
+	],
+	"bibo:doi":"10.14214/sf.1030",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000915",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000915",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biodiversity profile in selected cyanobacterial genera"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009323219",
+	"dct:identifier":"FI2009323219",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e26.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":", Shalini (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, Rajinder K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhar, Dolly Wattal (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"There was a marked difference observed with respect to N assimilatory enzymes (nitrogenase, glutamine synthetase and nitrate reductase) amongst the cyanobacterial isolates from Anabaena, Nostoc and Calothrix. RAPD-PCR was used to generate unique and identifying DNA profiles for these isolates. The method used was based on the optimization of PCR programme and the selection of 10-mer oligonucleotide primers. The RAPD profiles provided sufficient information to prepare a dendrogram of genetic relatedness. The data was used in similarity matrix analysis and similarity coefficient ranged from 0.53 to 0.91. Isolates of Calothrix, namely Ca4 and Ca5, exhibited highest similarity coefficient of 0.914 and also depicted similar levels of N-assimilatory enzyme activities."}
+	}}

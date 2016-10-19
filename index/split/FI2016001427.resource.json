@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n4p269.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Predicting the yield of spring wheat by weather indices in Finland : implications for designing weather index insurances.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pietola, Kyösti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Myyrä, Sami.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jauhiainen, Lauri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"satovakuutus"},
+	{"value":"vehnä"},
+	{"value":"risk management"},
+	{"value":"Finland"},
+	{"value":"crop insurance"},
+	{"value":"halla"},
+	{"value":"crop yield"},
+	{"value":"frost"},
+	{"value":"kevätvehnä"},
+	{"value":"kasvukausi"},
+	{"value":"temperature"},
+	{"value":"Triticum aestivum"},
+	{"value":"lämpötila"},
+	{"value":"sato"},
+	{"value":"spring wheat"},
+	{"value":"sää"},
+	{"value":"precipitation"},
+	{"value":"satovahingot"},
+	{"value":"wheats"},
+	{"value":"weather"},
+	{"value":"ennustettavuus"},
+	{"value":"sadonmuodostus"},
+	{"value":"sadanta"},
+	{"value":"riskienhallinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001427",
+	"dct:identifier":"FI2016001427",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemotaxonomic evaluation of wild lupine ecotypes northeast Argentina.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Merino, E. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Planchuelo, A. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"metabolites"},
+	{"value":"määritysmenetelmät"},
+	{"value":"taksonomia"},
+	{"value":"analyysimenetelmät"},
+	{"value":"alkaloids"},
+	{"value":"alkaloidit"},
+	{"value":"Lupinus"},
+	{"value":"chemotaxonomy"},
+	{"value":"palkokasvit"},
+	{"value":"thin layer chromatography"},
+	{"value":"Argentina"},
+	{"value":"identification"},
+	{"value":"lupiinit"},
+	{"value":"luonnonkasvit"},
+	{"value":"ohutkerroskromatografia"},
+	{"value":"wild plants"},
+	{"value":"kromatografia"},
+	{"value":"tutkimusmenetelmät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000473",
+	"dct:identifier":"FI2016000473",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

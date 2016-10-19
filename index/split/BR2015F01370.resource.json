@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Productivity and nutritional characteristics of ramie (Boehmeria nívea cv Myasaki) in four cutting frequencies fertilized with mineral or organic nitrogen",
+	"xml:lang":"eng"
+	},
+	{"value":"   Efeito de fontes de adubo nitrogenado e frequências de corte na produção e características nutricionais do rami (Boehmeria nivea cv Myasaki) ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"ammonium",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrition",
+	"xml:lang":"eng"
+	},
+	{"value":"minerals",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01370",
+	"dct:identifier":"BR2015F01370",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2010-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1287400681.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BIANCHINI,  D"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LEINZ,  F. F"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OTSUK,  I. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"APARECIDA, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RODRIGUES,  C. F. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LAPICHINI,  J. E. C. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GERDES,  L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"This work was conducted in the Development Research Unit, in Itapetininga (23º35'30''S, 48º03'11''W and 670 m altitude), SP, Brazil, in a red darkness latosol, the Rami (Boehmeria nivea cv. Myasaki) was evaluated under two nitrogen sources (mineral: ammonium sulphate",
+	"xml:lang":"eng"
+	},
+	{"value":"O objetivo desse trabalho foi avaliar a produção e características nutricionais do rami, sob quatro frequências de corte, cada uma delas submetidas a duas fontes de nitrogênio (mineral e orgânico). De maio de 2006 a maio de 2007 foram realizados 13, 10, 8 e 7 cortes nas frequências 28, 35, 42 e 49 dias, respectivamente, adubadas após cada corte, com nitrogênio mineral (sulfato de amônio) ou orgânico (resíduo de limpeza de piso aviário), na dosagem de 100 kg ha-1 de N, parcelada pelo número de cortes. Após o corte de uniformização do rami, tendo sido aplicado o calcário dolomítico e adubado com P, K e N, a área foi submetida a um pisoteio animal e irrigada para melhor incorporação do corretivo. Determinaram-se as produções de matéria verde (MV), matéria seca parcial (MS a 65ºC), matéria seca total (MS), matéria seca digestível (MS digestível), proteína bruta (PB) e fibra bruta (FB), bem como as quantidades de cálcio (Ca) e fósforo (P) removidas. As duas fontes de N não proporcionaram diferenças estatísticas significativas nas variáveis estudadas. Na produção de MS, a variação da frequência de corte de 28 dias para a de 49 dias foi linearmente positiva (P"},
+	{"value":19.24},
+	{"value":35},
+	{"value":"17.71 and 3.4 t ha-1, respectively. Ramie CP and DM yield were higher than quoted by a good quality tree legume, and their nutritional characteristics slowed conditions to satisfactory attend small ruminant's requirements."},
+	{"value":"organic: manure) and four cutting frequencies (28, 35, 42 and 49 days). Each N source, application in the basis of 100 kg/ha/year of N, was made after each cut. From May 2006 to May 2007, after the uniformity cut 13, 10, 8 and 7 cuts were made at 28",
+	"xml:lang":"por"
+	},
+	{"value":"42 and 49 days interval. Fresh matter (FM), dry matter at 65ºC (DM at 65ºC), dry matter (DM), digestible dry matter, crude protein (CP) and crude fiber (CF) yields, as well quantities of calcium extracted (Ca) and phosphorus (P) were evaluated. There weren't statistical significantly between two N sources in the studied variables. Dry matter production increased in a positive linear way with increased cutting interval. Year production of FM, DM at 65ºC, DM and CP reached 132.37"}
+	]
+	}}

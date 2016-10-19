@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of genetic variation and presence of nitrate reductase gene (NR) in different lettuce genotypes using PCR-based markers"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025535",
+	"dct:identifier":"FI2005025535",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Redhaiman, K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Motawei, M.I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"El-Shinawy, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdel-Ltif, T.H. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Thirteen lettuce genotypes belonging to four types (butterhead, Cos/Romaine, crisphead, and stem lettuce) were investigated using RAPD fingerprints as genetic marker to assess genetic diversity. Also, the presence of nitrate reductase gene (NR) in lettuce genotypes was investigated by PCR analysis. From 30 random primers tested, only 13 were selected as reproducible, giving 83 bands. The genetic similarity was estimated based on the pair-wise comparison of amplification products. The thirteen lettuce genotypes showed variation at the DNA level. The UPGMA cluster analysis separated the 13 lettuce genotypes into two distinct groups. Moreover, gene-specific primer pairs for amplification of nitrate reductase revealed the presence of nitrate reductase gene in ‘Ambassador’, ‘Bath’, ‘Merveille des Quatre’, ‘Romain de Benicardo’, ‘Colona’ and ‘Chinese Stem’ genotypes only. The work presented in this paper illustrated that sensitive specific PCR assays represent a valuable and a new tool for screening of lettuce breeding material for low nitrate content."}
+	}}

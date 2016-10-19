@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f21.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of the air circulation uniformity inside refrigerated semi-trailer transporting fresh horticultural produce"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hui, K.P.C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raghavan, G.S.V. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vigneault, C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"de Castro, L.R. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100317",
+	"dct:identifier":"FI2016100317",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The performance of air circulation system was evaluated inside eight semi-trailers transporting fresh horticulture produce. They were equipped with a variety of refrigeration systems and accessories and were filled with mixed load arranged in different patterns. Pearson correlation coefficient was determined from air temperature data to describe the airflow pattern inside the semi-trailers. The results showed that the temperature normally stabilized within 60 minutes after the semi-trailer back doors were closed. Temperature data from three hours of tests were enough to discriminate the differences in air distribution through Pearson coefficient, which was generally not uniform through and around the load. In most cases, the areas that received little amount of air were the middle section along the length and width, and the center and bottom sections along the height of trailers. The variability in the results precluded any determination of the effect of trailer accessories and loading patterns on the air distribution."}
+	}}

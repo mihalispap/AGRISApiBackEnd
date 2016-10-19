@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of hydrocolloids on the limonin content of Kinnow juice"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038478",
+	"dct:identifier":"FI2006038478",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Aggarwal, Poonam (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sandhu, K.S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Four hydrocolloids viz. gum acacia, carboxymethylcellulose (sodium salt), pectin and sodium alginate added at 0.2, 0.2, 0.05 and 0.3 g kg-1 respectively were found suitable in reducing limonin content in Kinnow juice. CMC and sodium alginate were found to be 28% more effective than control in masking bitterness due to limonin content after six months of storage. Juice containing CMC was found the best in its flavour followed by sodium alginate, gum acacia and pectin."}
+	}}

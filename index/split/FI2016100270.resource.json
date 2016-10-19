@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1A70-74roleofgrafting.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Role of grafting in horticultural plants under stress conditions"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rivero, Rosa M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ruiz, Juan M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Romero, Luis (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100270",
+	"dct:identifier":"FI2016100270",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The cultivation of grafted plants have gradually increased in the last years. As the use of this technique spread, the aims also expanded until today when grafting serves a spectrum of purposes: (1) to boost plant growth and development; (2) to control wilt caused by pathogens; (3) to reduce viral, fungal and bacterial infection; (4) to strengthen tolerance to thermal or saline stress; (5) to increase nutrient and mineral uptake to the shoot, etc. Throughout this review, we have examined the advantages of grafting plants for current agriculture, these being: resistance to evermore frequent soil diseases; tolerance of low temperatures characteristic of many latitudes of the world where intensive cultivation is economically important; tolerance to the growing problem of salinity from abuse of chemical fertilizers and desertification in many agricultural zones; and enhanced water and inorganic-nutrient uptake. All these advantages provide motivation for grafting in present-day world agriculture."}
+	}}

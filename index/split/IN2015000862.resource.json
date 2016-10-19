@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Varieties with reduced height and branching nature for the future",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":19,
+	"dc:subject":[
+		{"value":"dwarfs",
+	"xml:lang":"eng"
+	},
+	{"value":"variete",
+	"xml:lang":"fre"
+	},
+	{"value":"plante de culture",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"enano",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"cultivos",
+	"xml:lang":"esp"
+	},
+	{"value":"varieties",
+	"xml:lang":"eng"
+	},
+	{"value":"nain",
+	"xml:lang":"fre"
+	},
+	{"value":"variedades",
+	"xml:lang":"esp"
+	},
+	{"value":"crops",
+	"xml:lang":"eng"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":22,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000862",
+	"dct:identifier":"IN2015000862",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Jnanadevan, R."
+	}
+	},
+	"bibo:issue":8
+	}}

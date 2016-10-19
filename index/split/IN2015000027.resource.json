@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Maize genotypes and resistance to rice weevil, sitophilus oryzae (coleoptera: Curculionidae) and angoumois grain moth, sitotroga cerealella (lepidoptera: Gelechidae)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":157,
+	"dc:subject":[
+		{"value":"plagas de plantas",
+	"xml:lang":"esp"
+	},
+	{"value":"perte de poids",
+	"xml:lang":"fre"
+	},
+	{"value":"sitotroga cerealella",
+	"xml:lang":"esp"
+	},
+	{"value":"pests of plants",
+	"xml:lang":"eng"
+	},
+	{"value":"ravageur des plantes",
+	"xml:lang":"fre"
+	},
+	{"value":"weight losses",
+	"xml:lang":"eng"
+	},
+	{"value":"sitophilus oryzae",
+	"xml:lang":"esp"
+	},
+	{"value":"perdida de peso",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":162,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000027",
+	"dct:identifier":"IN2015000027",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Soujanya, P. Lakshmi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sekhar, J.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar P."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Grains of eleven maize genotypes were evaluated for their resistance to rice weevil, Sitophilus oryzae (L.) and Angoumois grain moth, Sitotroga cerealella (Oliv.) by No choice method under laboratory conditions (28Â±2Â°C and 60Â±5% RH). Adult emergence, seed damage, weight loss and susceptibility index were used as parameters. The results indicated that for S. oryzae, adult emergence seed damage and weight loss were low in Shaktiman1 (41, 12% and 0.29%) and RHM 2 (40, 17.00% and 0.73%), respectively. These data were higher in PEEHM 5 (228.00) followed by Shaktiman 2 (85.00). The genotypes when screened against S.cerealella showed highest adult emergence in VH 9 (63.00) followed by PEEHM 5 (58.50). Consequently the seed damage and weight loss were higher in PEEHM 5 (63.15, 14.27) and VH 9 (48.27, 10.13) while it was low in VH 4 (4.28, 2.74) followed by VH 5 (6.70, 2.86), respectively. The moderately susceptible genotypes were found to be Shaktiman 1 to S. oryzae while VH 4 and VH 5 to S. cerealella. However, none of the genotypes were found to be least susceptible to S. oryzae and S. cerealella. The correlations between adult emergence, seed damage, and weight loss and susceptibility index were significant and positive for both pests.",
+	"xml:lang":"eng"
+	}
+	}}

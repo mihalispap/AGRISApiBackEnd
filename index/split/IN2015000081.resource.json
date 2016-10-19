@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro Antipasteurellosis Activity of Different Extracts of Polyalthia Longifolia Leaves",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":82,
+	"dc:subject":[
+		{"value":"Polyalthia Longifolia"},
+	{"value":"pasteurelosis",
+	"xml:lang":"esp"
+	},
+	{"value":"pasteurellose",
+	"xml:lang":"fre"
+	},
+	{"value":"pasteurella multocida",
+	"xml:lang":"esp"
+	},
+	{"value":"pasteurellosis",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":85,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000081",
+	"dct:identifier":"IN2015000081",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Usha, N.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bibu, Jose,"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jose, P. Subin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayakumar, K.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nair, A.M.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nair, G. Krishnan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nair, N.D."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The outbreaks of duck pasteurellosis which occur during monsoon period, caused by avian strains of Pasteurella multocida, is a serious problem with high mortality and morbidity affecting younger age groups. Polyalthia longifolia (P. longifolia)) leaves which had antibacterial action, was tested for its efficacy against P. multocida by in vitro methods. The successive extracts of the plant materials were tested for its antibacterial effect using microtitre plate technique (to estimate the minimum inhibitory concentration, MIC) and disc diffusion method was performed to estimate the zone of inhibition. Microtitre plate technique was assayed by dissolving the plant extracts in sterile DMSO except the aqueous extracts which were dissolved in sterile distilled water. Various concentrations, 200 Ã¬g, 500 Ã¬g and 1 mg/well, of successive extracts of P. longifolia were used to find out the MIC. Disc diffusion method was performed with successive extracts of P. longifolia leaves at 200 Âµg, 500 Âµg and 1 mg concentrations. The results from the above in vitro assay revealed the efficacy of acetonic extract of P. longifolia leaves against duck pasteurellosis. The acetonic extract was further subjected to spectrophotometric, thin layer chromatography and high performance thin layer chromatographic analysis. The results of the present study could describe the antipasteurellosis activity of P. longifolia leaves.",
+	"xml:lang":"eng"
+	}
+	}}

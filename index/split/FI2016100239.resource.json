@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f22.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Sensory and mechanical characterization of mealy apples and woolly peaches and nectarines"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Arana, Ignacio (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jarén, Carmen (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arazuri, Silvia (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100239",
+	"dct:identifier":"FI2016100239",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Samples of apples (Malus x domestica, Borkh) were stored at 4ºC to develop mealiness and samples of peaches (Prunus persica, Sieb.) and nectarines (Prunus persica, Zucc.) were stored at 6ºC to develop woolliness. After different storage times, sensory analyses and mechanical tests were performed. Except for the Granny Smith apple variety, all apple varieties developed mealiness and all peach and nectarine varieties developed woolliness. Peaches developed a moderate woolliness rate and nectarines a high one. A correlation was established between mealiness and woolliness and other factors such as storage time and cultivar. Mealiness and woolliness were also related to the mechanical test variables. This relation on apples was higher in those varieties that were more susceptible to develop mealiness, such as ‘Top Red´ and ‘Starking´, and lower in the ‘Golden Delicious´ variety. There was a negative correlation between mealiness and mechanical variables from the different tests, indicators of firmness mainly maximum resistance opposed by the fruits on the different mechanical tests. The variables that correlated best with mealiness were the maximum resistances opposed by the apples during the different tests. The best mechanical test to characterize apple mealiness individually was the shear stress rupture test. The correlation coefficient between mealiness and maximum resistance to shear stress rupture test (N) was higher than 0.8 with a significance level lower than 0.01. On peaches and nectarines the relation was higher in those varieties with a higher tendency to develop woolliness, such as ‘Red Haven´ peaches and ‘Festina´ and ‘Fairlane´ nectarines. There was a negative correlation between woolliness and the variables that indicate firmness (maximum resistance, slope of the force/distance curve and area force distance on the different tests). The variables that correlated best with woolliness were the various maximum resistance variables registered in the different tests. The best mechanical tests to characterize peach and nectarine woolliness individually were the penetration test, the puncture test and the shear stress rupture test, but the correlations between peach and nectarine woolliness and mechanical variables were lower than in the case of apple mealiness. A classification of the fruits (unsuitable or not) according to their degree of sensory mealiness and woolliness was performed. Parallel classification was done by discriminate analysis using mechanical test variables. The accuracy of this classification and the consistency between mechanical and sensory classifications were studied. It is possible to conclude that sensory analysis classification (subjective, time consuming and costly) can be substituted by an objective mechanical classification of apples, peaches and nectarines."}
+	}}

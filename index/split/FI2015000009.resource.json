@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"On non-circularity of tree stem cross-sections : effect of diameter selection on cross-section area estimation, Bitterlich sampling and stem volume estimation in Scots pine.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Pulkkinen, Minna.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"non-circularity"},
+	{"value":"sampling"},
+	{"value":"Pinus sylvestris"},
+	{"value":"stem volume"},
+	{"value":"forest mensuration"},
+	{"value":"Bitterlich sampling"},
+	{"value":"basal area"},
+	{"value":"cross sectional analysis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2015000009",
+	"dct:identifier":"FI2015000009",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

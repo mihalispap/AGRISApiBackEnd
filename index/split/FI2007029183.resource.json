@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of precooling delay on the quality of stored sweet corn"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029183",
+	"dct:identifier":"FI2007029183",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f12.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vigneault, ?? (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gariépy, Yvan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Roussel, Dominique (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goyette, Bernard (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Sweet corn (cv. Incredible) was precooled by showering with cold water 2, 4, 8, or 12 h after harvest. Groups were stored for 3, 6, 9 or 12 days at 0°C and 95% relative humidity. Quality assessments were made based on subjective indices and total reducing sugars in the kernels were measured using a phenol/sulfuric acid colorimetric method. The data suggested that loss in quality and sugar content during the first 6 days of storage could be attributed to both the precooling delay and the storage time. The quality and sugar content were highest over the first 6 days when the precooling delay was held to 2 h. For longer storage time, the effect of precooling delay on quality or sugar content was not detectable. It is recommended that further studies narrow down the permissible precooling delay in the range 1 to 4 h."}
+	}}

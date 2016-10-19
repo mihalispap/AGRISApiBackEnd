@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Management of anthracnose disease of Mango by pre and post harvest treatments",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":390,
+	"dc:subject":[
+		{"value":"glomerella cingulata",
+	"xml:lang":"esp"
+	},
+	{"value":"mangifera indica",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":394,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000532",
+	"dct:identifier":"IN2015000532",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Kumar, Ashish"
+	}
+	},
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Pooled analysis of two years data indicated that three foliar sprays with carbendazim + mancozeb (0.2%) at 10 days interval starting from initiation of disease symptom was found most effective in controlling the foliar anthracnose of mango, followed by other treatments viz., tricyclazole (0.1 %) and carbendazim (0.1%) which were also found effective. For post harvest anthracnose management, one spray of thiophanate methyl (0.1%) 15 days prior to harvest and then hot water treatment supplemented with thiophanate methyl was found most effective. It was also observed that shelf life of fruits was decreased by 2 or 3 days after post harvest treatments of hot water or hot water supplemented with fungicide.",
+	"xml:lang":"eng"
+	}
+	}}

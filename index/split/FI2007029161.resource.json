@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of selenium spray on monocarpic senescence of soybean (Glycine max L.)"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029161",
+	"dct:identifier":"FI2007029161",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Djanaguiraman, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devi, D. Durga (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shanker, Arun K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheeba, J. Annie (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bangarusamy, U. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"An experiment was conducted to study the effect of selenium on senescence phenomenon in soybean. Selenium was applied both as seed treatment at 5 ppm and as foliar spray at 50 and 100 ppm on 45, 60 and 75 DAS. The impact of selenium on delaying senescence was well established by increased activity of antioxidant enzymes such as, catalase and peroxidase and more numbers of leaves. Improved source strength by retaining more leaf number and area with better partitioning efficiency was considered as the contributing factor for significant yield improvement in selenium-treated plants."}
+	}}

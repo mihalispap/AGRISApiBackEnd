@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"LIGHT / DARK PREFERENCE IN Danio rerio: EFFECTS OF LIGHT EXPOSURE DURATION AND DAY PERIOD",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":106,
+	"bibo:volume":4,
+	"bibo:pageEnd":111,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00157",
+	"dct:identifier":"BR2015N00157",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1068",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Claudio Alberto Gellis de Mattos Dias"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bruno Rodrigues dos Santos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bruno de Matos Mansur"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marcelo de Sena Pinheiro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amanda Alves Fecury"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Julio Cesar Sá-Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paulo Henrique Matayoshi-Calixto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Euzébio de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amauri Gouveia Jr"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIVERSIDADE FEDERAL DO AMAPÁ"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIVERSIDADE FEDERAL DO PARÁ"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12.0pt; line-height: 115%; font-family: \" lang=\"EN-US\">The animals have anatomical and physiological structures influenced by luminosity. In fish, the pineal gland cells contain photoreceptors and the suprachiasmatic nucleus seems to be involved in biological rhythm just like in other vertebrates. This work aims to describe the role of luminosity and day periods in Danio rerio</em>'s Light/Dark preference. For this purpose 160 naive adult undetermined sex Zebrafish were divided into 5 groups of 32 subjects and kept in isolated aquaria with light control. Afterwards, each fish was tested in the Light/Dark aquaria, with water column of 5 centimeters. There was an habituation period of 5 minutes (300 seconds) followed by removal of the sliding doors, allowing the subjects to explore the apparatus for 15 minutes (900 seconds). Tests were performed in different day periods, as follows: Morning (06:00 – 12:00 h); Afternoon (12:00 – 18:00 h); Night (18:00 – 24:00 h); Late Night (24:00 – 06:00 h). Our results show that the time of permanence is sensitive to day period. The number of crossings and latency were not influenced by the period of the day. Further studies regarding biological basis of Light/Dark Preference should be carried out in order to understand the role of circadian function in Danio rerio</em>'s behavior.</span>",
+	"xml:lang":"por"
+	}
+	}}

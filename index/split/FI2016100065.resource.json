@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1A46-51diagnosis.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Diagnosis and correction of iron chlorosis in fruit trees: A review"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pestana, Maribela (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"de Varennes, Amarilis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Faria, Eugénio Araújo (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100065",
+	"dct:identifier":"FI2016100065",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Several plant species grown in calcareous soils in arid and semiarid regions are iron-deficient, a condition known as lime-induced iron chlorosis, or simply as iron chlorosis. The nutritional status of perennial plants is commonly evaluated by leaf analysis. However, there is often no correlation between iron in leaves and degree of chlorosis, and therefore leaf analysis presents serious limitations as a technique to evaluate lime-induced iron chlorosis. Recently, a technique for the early prognosis of iron chlorosis based on floral analysis was developed for fruit trees to help prevent the development of iron deficiency and avoid losses in yield and quality. Correction of iron chlorosis is commonly carried out by massive applications of synthetic iron chelates to soils. Since iron is rapidly immobilized in the soil, this treatment has to be repeated each year, representing a major part of fertilizer costs. Environmental impacts of chelates in soils have not been properly investigated, but it is known that they also result in enhanced plant uptake of metals such as copper and nickel. Alternative, more environment-friendly treatments are being evaluated. In this article we concentrate on reviewing current methods to detect and correct iron chlorosis in fruit trees."}
+	}}

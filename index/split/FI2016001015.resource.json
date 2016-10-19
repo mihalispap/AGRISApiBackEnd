@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Technology transfer in developing countries : capitalizing on equipment development /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sanni, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alenkhe, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Edosio, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Patino, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dixon, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Nigeria"},
+	{"value":"developing countries"},
+	{"value":"development"},
+	{"value":"cassava"},
+	{"value":"postharvest technology"},
+	{"value":"Africa"},
+	{"value":"equipment"},
+	{"value":"technology transfer"},
+	{"value":"postharvest equipment"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001015",
+	"dct:identifier":"FI2016001015",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

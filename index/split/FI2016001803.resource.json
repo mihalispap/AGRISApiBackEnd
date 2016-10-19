@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of mist, irrigation and plant density levels on rutin content of common buckwheat (Fagopyrum esculentum Moench.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ghouzhdi, H. G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sahraroo, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yavari, A. R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Amerian, M. R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"watering"},
+	{"value":"environmental factors"},
+	{"value":"relative humidity"},
+	{"value":"population density"},
+	{"value":"Fagopyrum esculentum"},
+	{"value":"kasvusto"},
+	{"value":"tattari"},
+	{"value":"mist irrigation"},
+	{"value":"rutin"},
+	{"value":"tiheys"},
+	{"value":"chemical composition"},
+	{"value":"kastelu"},
+	{"value":"irrigation"},
+	{"value":"buckwheat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001803",
+	"dct:identifier":"FI2016001803",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

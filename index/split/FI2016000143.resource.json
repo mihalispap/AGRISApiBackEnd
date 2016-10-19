@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Cherry leaf roll virus abundant on Betula pubescens in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jalkanen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Büttner, Carmen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bargen, Susanne von.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Betula pubescens ssp. czerepanovii"},
+	{"value":"tunturikoivu"},
+	{"value":"Betula pendula"},
+	{"value":"hieskoivu"},
+	{"value":"plant diseases"},
+	{"value":"vaivaiskoivu"},
+	{"value":"rauduskoivu"},
+	{"value":"Betula pubescens"},
+	{"value":"kasvitaudit"},
+	{"value":"Betula nana"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000143",
+	"dct:identifier":"FI2016000143",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

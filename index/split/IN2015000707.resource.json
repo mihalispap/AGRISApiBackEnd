@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Coconut Milk Chocolate",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":30,
+	"dc:subject":[
+		{"value":"leche de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"chocolat",
+	"xml:lang":"fre"
+	},
+	{"value":"chocolate",
+	"xml:lang":"esp"
+	},
+	{"value":"coconut milk",
+	"xml:lang":"eng"
+	},
+	{"value":"lait de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"produccion",
+	"xml:lang":"esp"
+	},
+	{"value":"production",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":34,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000707",
+	"dct:identifier":"IN2015000707",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Syed, H.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Machewad,G.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mukhaiyar, A."
+	}
+	}
+	],
+	"bibo:issue":8
+	}}

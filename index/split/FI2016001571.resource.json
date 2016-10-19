@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Priorities of the FRA programme.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Holmgren, Peter.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"forest resources"},
+	{"value":"metsävarat"},
+	{"value":"forest inventories"},
+	{"value":"metsäninventointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001571",
+	"dct:identifier":"FI2016001571",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

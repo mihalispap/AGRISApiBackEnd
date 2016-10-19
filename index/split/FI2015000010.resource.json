@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Grain quality and N uptake of spring cereals as affected by nitrogen fertilization in northern conditions : a meta-analysis.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Valkama, Elena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salo, Tapio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Esala, Martti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Turtola, Eila.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"jyvä"},
+	{"value":"nitrogen fertilizers"},
+	{"value":"laatu"},
+	{"value":"cereals"},
+	{"value":"protein content"},
+	{"value":"typpilannoitus"},
+	{"value":"viljakasvit"},
+	{"value":"valkuaispitoisuus"},
+	{"value":"grain crops"},
+	{"value":"Triticum aestivum"},
+	{"value":"kevätviljat"},
+	{"value":"spring crops"},
+	{"value":"Avena sativa"},
+	{"value":"grain"},
+	{"value":"quality"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2015000010",
+	"dct:identifier":"FI2015000010",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

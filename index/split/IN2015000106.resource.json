@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Neuroimmunotoxicity of Bisphenol A in rats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":174,
+	"dc:subject":[
+		{"value":"inmunodepresion",
+	"xml:lang":"esp"
+	},
+	{"value":"immunosuppression",
+	"xml:lang":"eng"
+	},
+	{"value":"immunodepresseur",
+	"xml:lang":"fre"
+	},
+	{"value":"immunosuppressants",
+	"xml:lang":"eng"
+	},
+	{"value":"rata",
+	"xml:lang":"esp"
+	},
+	{"value":"inmunodepresores",
+	"xml:lang":"esp"
+	},
+	{"value":"immunodepression",
+	"xml:lang":"fre"
+	},
+	{"value":"rats",
+	"xml:lang":"eng"
+	},
+	{"value":"rat",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":178,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000106",
+	"dct:identifier":"IN2015000106",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amaravathi, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Srilatha, Ch."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramadevi , V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sreenivasulu, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, P. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sujatha, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sailaja, N."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Bisphenol A (BPA) is one of the common environmental endocrine disruptors with. estrogenic properties and is the building blockof carbonate plastic and a component of resin coatings. The present experiment was designed to make a systematic study of experimentally induced BPA toxicity in both male and female Wistar albino rats at 500and 250mg /kg b.wt. to groups n, Vand Ill, VIrespectively by mixing in sunflower oil for 12 weeks, with the objectives of finding out the effect of BPA on nervous system and immune system. Significant (P0.05)decrease in acetyl chonlinsterase activity was noticed in BPA treated groups when compared to controls. Immunosupression was indicated by significant (P0.05)decrease in HA titer (log) and DNCB contact sensitivity score of BPA treated groups when comparedto control. Submeningeal and cerebral hemorrhages and spongiosis, swollen neurons with severe degenerative changes, extensive glialcell proliferation, severe demyelinating changes, microgranuloma formation with proliferation of capillaries and endothelial cells were more prominent in cerebral cortex of majority ofBPAtreated rats in a dose dependent manner. Cerebellum of rats revealed shrinkage and focalloss of Purkinje cells,rounding and tapering of Purkinje cells,spongiosis in molecular layer in majority of animals at the end of 10thto 12thweeks in BPA treated groups. Depletion of lymphocytes in spleen, lymph node and thymus were noticed in allBPA treated rats in dose dependent manner. Ultra structurally, granular mitochondria because of degeneration of cristae, degeneration of ER, vacuolation in cytoplasm and fragmented chromatin in astrocytes and numerous vacuoles in cytoplasm with disrupted nuclear membrane and condensation of chromatin in microglial cells were noticed in brain of BPA treated rats.",
+	"xml:lang":"eng"
+	}
+	}}

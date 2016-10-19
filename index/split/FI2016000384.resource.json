@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Physico-chemical parameters and bacterial diversity in the Moroccan's Sebou River.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Malki, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marin, Irma.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Essahale, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Amils, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moumni, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"industrial wastes"},
+	{"value":"water quality"},
+	{"value":"Morocco"},
+	{"value":"aquatic organisms"},
+	{"value":"pollutants"},
+	{"value":"rivers"},
+	{"value":"aquatic environment"},
+	{"value":"heavy metals"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000384",
+	"dct:identifier":"FI2016000384",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

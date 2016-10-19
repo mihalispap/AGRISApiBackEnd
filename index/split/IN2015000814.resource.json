@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Geospatial variability of soil and climate on performance of rubber (Hevea brasiliensis Muell. Arg.)in traditional region of India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":175,
+	"dc:subject":[
+		{"value":"GEOSPATIAL VARIABILITY"},
+	{"value":"SMU"},
+	{"value":"caoutchouc",
+	"xml:lang":"fre"
+	},
+	{"value":"water balance",
+	"xml:lang":"eng"
+	},
+	{"value":"caucho",
+	"xml:lang":"esp"
+	},
+	{"value":"climate",
+	"xml:lang":"eng"
+	},
+	{"value":"clima",
+	"xml:lang":"esp"
+	},
+	{"value":"climat",
+	"xml:lang":"fre"
+	},
+	{"value":"balance hidrico",
+	"xml:lang":"esp"
+	},
+	{"value":"bilan hydrique",
+	"xml:lang":"fre"
+	},
+	{"value":"rubber",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":184,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000814",
+	"dct:identifier":"IN2015000814",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Meti, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meerabai, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jacob, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saifudeen, M."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

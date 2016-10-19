@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/48223/15795",
+	"dct:language":"eng",
+	"dct:title":{"value":"Stem anatomy of annual legume intercropping components: white lupin (Lupinus albus L.), narbonne (Vicia narbonensis L.) and common (Vicia sativa L.) vetches.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zoric, Lana,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mikic, Aleksandar,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Antanasovic, Svetlana,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karanovic, Dunja,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cupina, Branko,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lukovic, Jadranka,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sekaviljely"},
+	{"value":"rehut"},
+	{"value":"laatu"},
+	{"value":"Lupinus albus"},
+	{"value":"Vicia narbonensis"},
+	{"value":"feed legumes"},
+	{"value":"palkokasvit"},
+	{"value":"kasvu"},
+	{"value":"Vicia sativa"},
+	{"value":"feed quality"},
+	{"value":"varsi"},
+	{"value":"forage"},
+	{"value":"plant anatomy"},
+	{"value":"quality"},
+	{"value":"feed composition"},
+	{"value":"intercropping"},
+	{"value":"stems"},
+	{"value":"nurmirehut"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"legumes"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000042",
+	"dct:identifier":"FI2016000042",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

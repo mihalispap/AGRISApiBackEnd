@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of ground substrate on establishment of reindeer lichen after artificial dispersal /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Roturier, Samuel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bäcklund, Sofia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sundén, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergsten, Urban.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"leviäminen"},
+	{"value":"poronjäkälät"},
+	{"value":"Cladina mitis"},
+	{"value":"kivennäismaat"},
+	{"value":"kuva-analyysi"},
+	{"value":"varvut"},
+	{"value":"sammalet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000152",
+	"dct:identifier":"FI2016000152",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

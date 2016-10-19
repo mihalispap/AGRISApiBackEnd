@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Production and utilization of ensiled forages by beef cattle, dairy cows, pregnant ewes and finishing lambs : a review.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Keady, Tim.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hanrahan, James.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marley, Christina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Scollan, Nigel.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"lypsykarja"},
+	{"value":"whole crop silage"},
+	{"value":"animal feeding"},
+	{"value":"maize"},
+	{"value":"lihakarja"},
+	{"value":"beef cattle"},
+	{"value":"ruokinta"},
+	{"value":"feed intake"},
+	{"value":"nutritive value"},
+	{"value":"säilörehu"},
+	{"value":"laatu"},
+	{"value":"feed crops"},
+	{"value":"rehunkulutus"},
+	{"value":"grasses"},
+	{"value":"quality"},
+	{"value":"sheep"},
+	{"value":"lammas"},
+	{"value":"rehukasvit"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2015000003",
+	"dct:identifier":"FI2015000003",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

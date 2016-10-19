@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of soil erosion on water, soil, humus and nutrient losses in different crop systems in the Moldavian Plateau, Romania /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bucur, Daniel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jitareanu, Gerard.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ailincai, Costica.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tsadilas, Christos.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ailincǎi, Despina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mercus, Adrian.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"water"},
+	{"value":"nutrients"},
+	{"value":"fertilizers"},
+	{"value":"humus"},
+	{"value":"continuous cropping"},
+	{"value":"erosion"},
+	{"value":"runoff"},
+	{"value":"Romania"},
+	{"value":"losses from soil"},
+	{"value":"cropping systems"},
+	{"value":"field crops"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001667",
+	"dct:identifier":"FI2016001667",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

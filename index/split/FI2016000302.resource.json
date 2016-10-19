@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/49511/15788",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of copper glycine chelate on liver and faecal mineral concentrations, and blood parameters in broilers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kwiecien, Malgorzata,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Winiarska-Mieczan, Anna,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valverde Piedra, Jose,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bujanowicz-Haras, Barbara,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chalabis-Mazurek, Agnieszka,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"broiler chickens"},
+	{"value":"poultry"},
+	{"value":"animal feeding"},
+	{"value":"copper"},
+	{"value":"broilerit"},
+	{"value":"veriarvot"},
+	{"value":"blood"},
+	{"value":"excretion"},
+	{"value":"kupari"},
+	{"value":"maksa-arvot"},
+	{"value":"siipikarja"},
+	{"value":"trace elements"},
+	{"value":"minerals"},
+	{"value":"kotieläimet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000302",
+	"dct:identifier":"FI2016000302",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

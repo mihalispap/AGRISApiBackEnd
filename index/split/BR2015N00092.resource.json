@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"PRIMER REGISTRO DE BRAQUIÓPODOS EN EL DEVÓNICO DE LA FORMACIÓN PIMENTEIRAS (CUENCA DEL PARNAÍBA) EN LA REGIÓN DE PALMAS, PROVINCIA DE TOCANTINS, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":74,
+	"bibo:volume":3,
+	"bibo:pageEnd":78,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00092",
+	"dct:identifier":"BR2015N00092",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/677",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Katiuce Rodrigues da Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carlos Roberto dos Anjos Candeiro"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Tocantins"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Uberlândia"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"ES\">Fragmentarios braquiópodos orthide del </span><span lang=\"ES-AR\">Devónico </span><span lang=\"ES\">de la Formación Pimenteiras (Cuenca Paranaiba) centro de la Provincia de Tocantins (Brasil) son descriptos. Estos especimes indicant la primera ocurrencia deste grupo en el centro de la Provincia de Tocantins. La origens marina de la <span lang=\"ES-AR\">Formación Pimenteiras es inferida por occurrencia de braquipodos y crinoides. Nuevos estudios son necesarios para incrementar el conocimiento de los braquipodes del Tocantins. </span>",
+	"xml:lang":"por"
+	}
+	}}

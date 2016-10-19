@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biology and morphometric of Rice moth, Corcyra cephalonica",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":87,
+	"dc:subject":[
+		{"value":"corcyra cephalonica",
+	"xml:lang":"esp"
+	},
+	{"value":"oryza sativa",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":89,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000227",
+	"dct:identifier":"IN2015000227",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Devi, M. Bhubaneshwari"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devi, N. Victoria"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devi, S. Rita"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, P. Ranbir"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The result of morphometric measurements revealed that the average length and breadth of egg were 0.42 and 0.31, respectively. The mean length and breadth of 1st, 2nd, 3rd, 4th, 5th and 6th instars larvae were 2.72, 3.74, 5.63, 7.55, 9.20, 11.21 and 0.31, 0.39, 0.95, 11.16, 1.35, 1.59 mm, respectively. The average length of pupa was 4.05 and breadth was 1.10 mm. The average length and breadth of male and female were 10.75 and 12.24 mm, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

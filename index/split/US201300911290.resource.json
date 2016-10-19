@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Apple firmness measurement based on visco-elastic properties"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911290",
+	"dct:identifier":"US201300911290",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a28.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sayyah, Amir H. Afkari (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Esmailpour, Behrooz (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Today, firmness is a simple method issued for determination of some physiological characteristics of apple. However, so far no standard method has been introduced to determine the texture firmness. Therefore, in this investigation the visco-elastic hypothesis of apple texture was used for firmness determination. Accordingly, after designation, fabrication and preparation a creep loading apparatus, by conducting 180 creep tests, the depth of penetration of a cylindrical rod in apple texture, in proportion to time was considered as an index for texture firmness. In this study, independent variables were cultivar (3 levels), loading position on apple fruit (2 levels) and time after harvest (3 levels). According to the results, 21 mm2 cross section of probe was desirable to conduct a normal test but the applied stress level should be slightly less than 1.67 MPa. The results of ANOVA indicated that the effect of loading position on creep resistance of apple texture was not significant, but the time and cultivar and their interaction have significant effects on all creep curve variables and anilities traits of apple such as acidity level and sugar content. The results of statistical analysis showed a good correlation between creep curve coefficient, included definite parameters A, B, C and D (all related to slope of curve at different points) and apple qualitative characteristics. However, no significant correlation was found between rate of deformation and apple quality. This result indicates the importance of considering visco-elastic behaviour in investigation of apple texture quality."}
+	}}

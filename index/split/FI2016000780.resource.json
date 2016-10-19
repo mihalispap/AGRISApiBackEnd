@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of lactic acid bacteria inoculants, formic acid, potassium sorbate and sodium benzoate on fermentation quality and aerobic stability of wilted grass silage /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Saarisalo, Eeva.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jalava, Taina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Skyttä, Eija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haikara, Auli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jaakkola, Seija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lactic acid bacteria"},
+	{"value":"käyminen"},
+	{"value":"formic acid"},
+	{"value":"silage making"},
+	{"value":"esikuivaus"},
+	{"value":"stability"},
+	{"value":"säilörehu"},
+	{"value":"maitohappobakteerit"},
+	{"value":"kaliumsorbaatti"},
+	{"value":"laatu"},
+	{"value":"sodium benzoate"},
+	{"value":"rehunsäilöntäaineet"},
+	{"value":"haylage"},
+	{"value":"natriumbentsoaatti"},
+	{"value":"quality"},
+	{"value":"fermentation"},
+	{"value":"muurahaishappo"},
+	{"value":"silage"},
+	{"value":"potassium sorbate"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000780",
+	"dct:identifier":"FI2016000780",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

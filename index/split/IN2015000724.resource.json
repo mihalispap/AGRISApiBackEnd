@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Diversification of coconut based farming system through community based organizations for income generation and sustaining productivity.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":271,
+	"dc:subject":[
+		{"value":"coconut cropping system"},
+	{"value":"Herfindahl index"},
+	{"value":"community based organizations"},
+	{"value":"intercropping",
+	"xml:lang":"eng"
+	},
+	{"value":"cultivo intercalado",
+	"xml:lang":"esp"
+	},
+	{"value":"culture intercalaire",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":276,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000724",
+	"dct:identifier":"IN2015000724",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Krishnakumar, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kalavathi, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Regi, J.Thomas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"George V Thomas"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Community based organizations (CBO) were formed in three coconut growing areas in Kerala during 2005-2008 and through farmer participatory process, various technological interventions for diversification of cropping system appropriate to the local community as well as subsidiary enterprises were taken up for income generation. The interventions included (a) intercropping with various crop species (cash and food security crops) aiming at year round farm income, (b) subsidiary enterprise comprising of animal husbandry component, (c) product diversification and value addition of coconut and intercrops as well as, (d) recycling of waste biomass through vermicomposting. The project not only brought out significant change in area put under crop diversification by way of inter/mixed cropping, but also in the average income derived from such farming system. Significant improvement in income was achieved through crop and enterprise diversification. While inclusion of various intercrops improved the share by 83 per cent compared to the income from coconut alone, it was up by 195 per cent when subsidiary enterprises like rearing of live stock and value addition were also considered, thus indicating the sustainability of crop and enterprise diversification in the project areas. The significant reduction in the value of Herfindahl Index, a measure of diversification, from 0.70 to 0.57 signified the improvement in the extent of diversification in various CBOs. Diversification of crops and adoption of oconut-based subsidiary enterprises through CBOs were found to be ideal strategies for sustaining productivity and rural upliftment in terms of income generation.",
+	"xml:lang":"eng"
+	}
+	}}

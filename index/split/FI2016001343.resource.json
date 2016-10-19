@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modeling mortality of individual trees in drained peatland sites in Finland /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jutras, Sylvain.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hökkä, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alenius, Virpi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salminen, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"mänty"},
+	{"value":"mallit"},
+	{"value":"Pinus sylvestris"},
+	{"value":"hieskoivu"},
+	{"value":"drainage"},
+	{"value":"kuolleisuus"},
+	{"value":"mortality"},
+	{"value":"ojitus"},
+	{"value":"Betula pubescens"},
+	{"value":"bogs"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001343",
+	"dct:identifier":"FI2016001343",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

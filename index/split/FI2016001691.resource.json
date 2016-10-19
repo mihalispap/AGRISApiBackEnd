@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Profiling recreational users of national parks, national hiking areas and wilderness areas in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pouta, Eija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sievänen, Tuija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Neuvonen, Marjo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"käyttäjät"},
+	{"value":"erämaat"},
+	{"value":"kävijät"},
+	{"value":"protected areas"},
+	{"value":"profilointi"},
+	{"value":"kansallispuistot"},
+	{"value":"Finland"},
+	{"value":"visitors"},
+	{"value":"recreation"},
+	{"value":"suojelualueet"},
+	{"value":"virkistyskäyttö"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001691",
+	"dct:identifier":"FI2016001691",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

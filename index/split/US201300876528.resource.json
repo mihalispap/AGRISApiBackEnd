@@ -1,0 +1,18 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A quantitative approach to classification of agricultural regions in Turkey"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876528",
+	"dct:identifier":"US201300876528",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e25.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Vural, Hasan (author)"
+	}
+	},
+	"bibo:abstract":{"value":"Turkey is a favorable country to produce a great variety of agricultural products because of her different geographic and climatic conditions which have been used to divide the country into four main and seven sub regions. This classification into seven regions traditionally has been used in order to data collection and publication especially related with agricultural production. Afterward, nine agricultural regions were considered. Recently, the governmental body which is responsible of data collection and dissemination (Turkish Institute of Statistics-TIS) has used 12 classes which include 11 sub regions and Istanbul province. This study aims to evaluate these classification efforts based on the acreage of ten main crops in a ten years time period (1996-2005). The panel data grouped in 11 subregions has been evaluated by cluster and multivariate statistical methods. It was concluded that from the agricultural production point of view, it will be rather meaningful to consider three main and eight sub-agricultural regions throughout the country."}
+	}}

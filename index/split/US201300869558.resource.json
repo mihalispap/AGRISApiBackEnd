@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of harvest timing on olive (Olea europaea) oil accumulation and fruit characteristics under Australian conditions"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869558",
+	"dct:identifier":"US201300869558",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f11.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mailer, Rodney J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ayton, Jamie (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Conlan, Damian (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The Australian olive oil industry is expanding rapidly, with production set to reach 30,000 tonnes by 2010. Harvest timing plays a key role in the yield and quality of olive oil. In this study, fruit from three olive cultivars, Corregiolla, Mission and Paragon growing in the south western region of New South Wales, Australia, were harvested at six different times during the season, over three years. Physical measurements of the fruit, such as maturity index, moisture content, oil content (solvent extracted and mechanical) and fruit weight were determined. Most parameters measured showed a significant year effect. Harvest timing effects were also apparent. Generally, the moisture content of the fruit decreased as the fruit matured. Oil content by solvent extraction showed a rapid increase during the first part of fruit maturation, followed by a slower increase later in the season. Fresh fruit weight increased with maturity for most cultivars. Information about individual cultivars is important for growers when harvesting in order to gain maximum yield."}
+	}}

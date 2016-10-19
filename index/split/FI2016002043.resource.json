@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Hur medverkar gödselindustrin till att uppfylla miljökraven.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Bertilsson, Göte.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"ympäristönsuojelu"},
+	{"value":"lannoiteteollisuus"},
+	{"value":"teollisuus"},
+	{"value":"kemianteollisuus"},
+	{"value":"fertilizer industry"},
+	{"value":"environmental protection"},
+	{"value":"Sweden"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (266 :
+    1996 :
+    Höör)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002043",
+	"dct:identifier":"FI2016002043",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

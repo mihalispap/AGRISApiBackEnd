@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"OCORRÊNCIA DE Achatina fulica (MOLLUSCA: PULMONATA: ACHATINIDAE) EM TRÊS BAIRROS DA CIDADE DE SANTANA, AMAPÁ.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":9,
+	"bibo:volume":3,
+	"bibo:pageEnd":12,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00042",
+	"dct:identifier":"BR2015N00042",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/438",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Júlio César Sá-Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kelly Juliana Gaia Corrêa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Huann Carllo Gentil Vasconcelos"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">O presente estudo teve como objetivo diagnosticar a ocorrência do caramujo africano </span><em><span style=\"font-size: 12.0pt; font-family: \">Achatina fulica</span></em><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\"> em três bairros da cidade de Santana-Amapá: Bairro Paraíso, Centro e Vila Amazonas. Para isso, coletas foram realizadas durante o mês de abril de 2010. As amostras foram efetuadas com a instalação de dois (2) quadrats de 2,00 x 2,00  metros, onde se verificava a presença dos moluscos, em 5 parcelas (lotes urbanos) de 10,00 x 25,00 metros em cada bairro, totalizando uma área de  3.750 m<sup>2</sup>. Os indivíduos foram coletados usando um esforço de 2 horas por parcela. Os indivíduos coletados foram contados, medidos e classificados de acordo com seu estágio de vida: juvenil, jovem e adulto. Ao todo foram coletados 246 caramujos, o que possibilitou estimar que existem mais de 103.5168 caramujos em toda área urbana de Santana. A maioria dos indivíduos capturados estava nos estágios juvenil e jovem, não ocorrendo nenhum indivíduo adulto. Os resultados obtidos permitem inferir que as populações de </span><em><span style=\"font-size: 12.0pt; font-family: \">Achatina fulica</span></em><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\"> nos bairros de Santana estão em declínio, já que na localidade foram encontrados apenas indivíduos juvenis e jovens. O declínio populacional não significa que a população de A. fulica está sendo controlada, ou mesmo extinta na cidade.</span>",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Productivity growth on Finnish grain farms from 1976-2006 : a parametric approach.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Myyrä, Sami.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pihamaa, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sipiläinen, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant production"},
+	{"value":"Finland"},
+	{"value":"farms"},
+	{"value":"viljantuotanto"},
+	{"value":"viljatilat"},
+	{"value":"cereal crops"},
+	{"value":"cereals"},
+	{"value":"tuottavuus"},
+	{"value":"maatilat"},
+	{"value":"productivity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000432",
+	"dct:identifier":"FI2016000432",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

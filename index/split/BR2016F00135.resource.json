@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Intake, performance and carcass yield of broiler chickens fed diets containing dried cassava peel meal",
+	"xml:lang":"eng"
+	},
+	{"value":"   desempenho e rendimento de carcaça de frangos de corte alimentados com rações contendo raspa de mandioca residual desidratada "},
+	{"value":"   Consumo ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"thorax",
+	"xml:lang":"eng"
+	},
+	{"value":"animal nutrition",
+	"xml:lang":"eng"
+	},
+	{"value":"slaughter weight",
+	"xml:lang":"eng"
+	},
+	{"value":"animal performance",
+	"xml:lang":"eng"
+	},
+	{"value":"chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"felling areas",
+	"xml:lang":"eng"
+	},
+	{"value":"weight gain",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.4",
+	"bibo:doi":"10.17523/bia.v72n4p304",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00135",
+	"dct:identifier":"BR2016F00135",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n4p304",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"GERON, L. J. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, F. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MORAES, K. J. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, E. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GOMES, R. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PEREIRA, S. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, A. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CRUZ, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PELICIA, K."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Avaliou-se a inclusão da raspa de mandioca residual desidratada (RMRD) nos níveis de 0%, 10%, 20% e 30% na alimentação de frangos de corte, na fase de 1 a 42 dias de idade, sobre o consumo de nutrientes, desempenho animal e rendimento de carcaça. Foram utilizados 200 frangos de corte da linhagem Cobb com 1 dia de idade, distribuídos em delineamento inteiramente casualisado, com quatro níveis de inclusão da RMRD (tratamento), com 10 aves por boxe e cinco boxes por tratamento. Os níveis de RMRD não alteraram (P>0,05) o consumo de matéria seca (MS) e matéria orgânica (MO) da ração expressos em g/animal/dia, kg de MS/Kg0,75 e percentagem (%) do peso corporal. Porém, os níveis de RMRD alteraram de modo linear crescente (P",
+	"xml:lang":"por"
+	},
+	{"value":"This study evaluated the effect of inclusion of 0, 10, 20 and 30% dried cassava peel meal (DCPM) in the diet of broiler chickens over the period from 1 to 42 days of age on nutrient intake, animal performance, and carcass yield. Two hundred Cobb broiler chickens (1 day old) were allocated in a completely randomized design consisting of four inclusion levels of DCPM (treatment), with 10 animals per box and 5 boxes per treatment. The different levels of DCPM did not alter (P>0.05) dietary dry matter (DM) or organic matter intake, expressed as g/animal/day, kg DMS/kg0.75, and percentage of body weight. However, the addition of DCPM resulted in a linear increase (P",
+	"xml:lang":"eng"
+	}
+	]
+	}}

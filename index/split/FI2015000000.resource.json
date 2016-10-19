@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Protein crop production at the northern margin of farming : to boost or not to boost.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemi, Jarkko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"crop rotation"},
+	{"value":"Finland"},
+	{"value":"climatic change"},
+	{"value":"food security"},
+	{"value":"protein plants"},
+	{"value":"kasvinviljely"},
+	{"value":"plant production"},
+	{"value":"rapeseed"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"valkuaiskasvit"},
+	{"value":"legumes"},
+	{"value":"valkuaistuotanto"},
+	{"value":"omavaraisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2015000000",
+	"dct:identifier":"FI2015000000",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

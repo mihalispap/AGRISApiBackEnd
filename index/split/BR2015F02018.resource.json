@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Evaluation of energy power consumption in two levels of grinding in corn grain with dent and flint texture",
+	"xml:lang":"eng"
+	},
+	{"value":"   Avaliação do consumo de energia elétrica em duas granulometrias de moagem de grãos de milho de textura dentada e dura ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"hybrids",
+	"xml:lang":"eng"
+	},
+	{"value":"cornus",
+	"xml:lang":"eng"
+	},
+	{"value":"costs",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02018",
+	"dct:identifier":"BR2015F02018",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1231865828.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"FACTORI,  M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BIAGGIONI,  M. A. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SALEH,  M. A. D."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O trabalho objetivou avaliar o consumo de energia elétrica por meio de medidas de amperagem, sobre dois graus de moagem de grãos de milho para alimentação animal. O delineamento experimental utilizado foi inteiramente ao acaso em Esquema Fatorial, com quatro tratamentos e dez repetições. Foram utilizados dois diâmetros geométricos médios (DGM) de 865 e 570mm, grosso e fino, respectivamente, com texturas dentada e dura. Constatou-se maior consumo de energia elétrica na granulometria fina, com aumento na demanda de energia de 14 % para a moagem dos grãos de textura dura em relação aos grãos de textura dentada. Portanto, em granulometria de menor DGM (570mm) deve-se dar preferência por grãos de milho de textura dentada pelo menor consumo de energia elétrica na moagem, enquanto que em granulometria de 865mm, o consumo de energia para ambos os híbridos foi o mesmo.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this work was to evaluate the energy power consumption by amperage measurements in two levels of grinding in corn grain to animal feeding. The experimental design was completely randomized in factorial scheme, with four treatments, 10 replications per treatment. It was tested two average geometric diameters (AGD) with 865 and 570mm, thick and fine respectively, with flint and dent texture. There was higher energy consumption in the fine AGD. It was necessary an energy demand 14 % higher when grains with flint texture were compared to grains with dent texture. In conclusion, the fine AGD (570mm) should be used to grind corn grains with dent texture in order to save energy. In the other hand, the thick AGD (865mm) could be used for both corn hybrids because the energy power consumption was the same.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

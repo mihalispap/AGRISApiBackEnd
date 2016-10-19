@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Additions of three hyphomycetous fungi to the hyphomycetes of Pakistan",
+	"xml:lang":"eng"
+	},
+	{"value":"   Adição de três fungos hyphomycetous aos hyphomycetes do Paquistão ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"taxonomy",
+	"xml:lang":"eng"
+	},
+	{"value":"hyphomycetes",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202901",
+	"dct:identifier":"BR2015202901",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/553/264",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sultana Kishwar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Umar Shahbaz M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Irshad Gulshan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Azhar Iqbal M."
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Department of Plant Pathology, PMAS Arid Agriculture University Rawalpindi, Pakistan"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Pulses Research Institute, AARI, Faisalabad, Pakistan"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Department of Plant Pathology, PMAS Arid Agriculture University Rawalpindi, Pakistan"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Pulses Research Institute, AARI, Faisalabad, Pakistan"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Hyphomycetous fungi Asteromyces cruciatus, a laboratory contaminant, Gyrothrix dichotoma from the fallen bottle brush branch and Wiesneriomyces javanicus from the deteriorating and decaying leaf of Holstonia scholaris a new host, were identified/ recorded for the first time from Rawalpindi, Pakistan.",
+	"xml:lang":"eng"
+	},
+	{"value":"Os fungos Hyphomycetous Asteromyces cruciatus, um contaminante laboratório, Gyrothrix dichotoma que acomete ramos em solo e Wiesneriomyces Javanicus fungo de deterioração e incidente em folhas caídas de Holstonia scholaris um novo hospedeiro, foram identificados/registrados pela primeira vez em Rawalpindi, Paquistão.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Texture characteristics of carrots as affected by storage temperature and duration"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029149",
+	"dct:identifier":"FI2007029149",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f3(2).pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alvo, Peter (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vigneault, Clément (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DeEll, Jennifer R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gariépy, Yvan (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Carrots were stored for 7, 14, or 21 days at temperatures of –2, 0, 8 and 15°C. Texture characterization was done with a puncture test. A Lloyd Universal Testing Machine was used to drive the 7.94 mm cylindrical punch at a constant speed of 25 mm•min-1 at mid length of the carrot samples. The parameters used for the analysis were: the force at failure, the displacement, the work and the slope of the load-displacement curve between 50 and 150 N. Carrot length, mass, diameter at mid-length and moisture content were also recorded. The statistical analysis indicated that the slope of the load-displacement curve was the most discriminating parameter to compare the texture of carrots stored for different period of time and at different temperatures."}
+	}}

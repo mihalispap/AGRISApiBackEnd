@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Carbon stocks in managed conifer forests in Northern Ontario, Canada.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hunt, Shelley L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gordon, Andrew M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Morris, Dave M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mustamänty"},
+	{"value":"carbon sequestration"},
+	{"value":"stocks"},
+	{"value":"boreaaliset metsät"},
+	{"value":"plantations"},
+	{"value":"forest management"},
+	{"value":"hiilinielut"},
+	{"value":"Picea mariana"},
+	{"value":"carbon"},
+	{"value":"metsänhoito"},
+	{"value":"metsät"},
+	{"value":"Pinus banksiana"},
+	{"value":"boreal forests"},
+	{"value":"taimikot"},
+	{"value":"banksinmänty"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000637",
+	"dct:identifier":"FI2016000637",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

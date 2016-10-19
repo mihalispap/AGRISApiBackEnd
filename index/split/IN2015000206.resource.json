@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Variability of Â¦Ã-endotoxin expression in dual and single-toxin Cotton genotypes and on survival of Helicoverpa armigera (HÂ¨Â¹b.) and Spodoptera litura (Fab.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1,
+	"dc:subject":[
+		{"value":"cotton",
+	"xml:lang":"eng"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"algodon",
+	"xml:lang":"esp"
+	},
+	{"value":"coton",
+	"xml:lang":"fre"
+	},
+	{"value":"spodoptera litura",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":8,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000206",
+	"dct:identifier":"IN2015000206",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Saini, Manpreet Kaur"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhawan, Ashok K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Toxin expression of Cry1Ac and Cry2Ab was studied in plant parts of five Bollgard II (BG II) genotypes viz. MRC 7031, MRC 7017, RCH 134, Ankur Jassi and Tulsi 4, while toxin expression of Cry1Ac alone was studied in one Bollgard I (BG I) genotype RCH 134. The expression was quantified by using separate ELISA kits. For quantifying toxins in Bollgard II genotypes Cry1Ac/Ab and Cry2Ab kits were used and for Bollgard I genotype, only Cry1Ac/Ab kit was used. Mean % mortality of one-day-old larvae of Helicoverpa armigera and one-day-old, 3rd and 5th instar larvae of Spodoptera litura were observed on different plant parts of Bollgard II, Bollgard I and their respective non-Bt genotypes. Quantitative expression of both toxins was found to be variable amongst plant parts of genotypes at different sampling intervals. Expression of Cry1Ac was maximum in RCH 134 BG II followed by RCH 134 BG I, MRC 7031 BG II, MRC 7017 BG II, Ankur Jassi BG II and Tulsi 4 BG II, while, expression of Cry2Ab was maximum in BGII genotypes viz. RCH 134 followed by MRC 7031, MRC 7017, Ankur Jassi and Tulsi 4. Expression of Cry1Ac was maximum in leaves followed by squares and bolls, while the expression of Cry2Ab was maximum in squares followed by bolls and leaves. Among sampling intervals, expression of both toxins was maximum at 60 days after sowing (DAS) in leaves and squares but in bolls, it was maximum at 120 DAS. In the later stages of crop growth, although quantitative level of both toxins declined but expression did not decline below critical level of 1.9 Ã¬g/g. Cry2Ab expressed 3 to 6 times more than Cry1Ac in Bollgard II genotypes. The moratlity of H. armigera and S. litura was maximum when larvae were fed with RCH 134 BG II. The mortality of H. armigera was maximum when it was fed with leaves while that of S. litura was maximum on squares. The mortality of different instars of S. litura on RCH 134 BG I genotype was very less, which indicated that BG I genotype did not control S. litura.",
+	"xml:lang":"eng"
+	}
+	}}

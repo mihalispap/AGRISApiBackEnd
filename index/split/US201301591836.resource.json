@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality evaluation of Maria Aurelia nectarine variety during short-term storage"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591836",
+	"dct:identifier":"US201301591836",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Özkaya, Okan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dündar, Ömür (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Advanced maturity of nectarines cv. Maria Aurelia were harvested and sealed in modified atmosphere packaging (MA) bags and stored for 10 days. Quality was evaluated initially and after storage period plus 5 day shelf life. According to the results MA packaging reduced the weight losses. Other quality parameters; total soluble solid concentration, fruit juice acidity, color and individual sugar levels; were almost similar with control. Depending on overall quality evaluation MA packaging can be useful for short-term storage for reducing the weight losses and maintain the other studied parameters for 10 day storage of Maria Aurelia nectarin variety."}
+	}}

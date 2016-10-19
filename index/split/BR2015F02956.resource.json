@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Mathematical model for economic analysis of diets: an application in the evaluation of different cereals in feedlot lamb´s diets",
+	"xml:lang":"eng"
+	},
+	{"value":"   Modelo matemático para análise econômica de dietas: uma aplicação na avaliação dos diferentes cereais utilizados na alimentação de cordeiros em confinamento ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"consumption",
+	"xml:lang":"eng"
+	},
+	{"value":"animal production",
+	"xml:lang":"eng"
+	},
+	{"value":"weight gain",
+	"xml:lang":"eng"
+	},
+	{"value":"costs",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02956",
+	"dct:identifier":"BR2015F02956",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1412354884.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"VIDAL, M.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"AFERRI, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PEREIRA, A.S.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GAMEIRO,  A. H."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Este trabalho propõe a elaboração de um modelo matemático para análises econômicas de dietas compostas de diferentes ingredientes. Foram consideradas variáveis zootécnicas como o consumo e ganho de peso, e as variáveis econômicas, como os preços relativos dos ingredientes. Vinte e quatro cordeiros cruzados, machos inteiros, com aproximadamente 70 dias de idade, com peso vivo inicial de 22 ± 1,61 kg e peso vivo final de 37 ± 2,16 kg foram alimentados com dietas com alto teor de concentrado, contendo diferentes tipos de grãos (milho moído grosso, milho em grão inteiro, sorgo e milheto). Os animais foram distribuídos em um delineamento em blocos ao acaso, com quatro tratamentos e seis repetições, alimentados por um período de 66 dias e posteriormente abatidos. A análise econômica foi feita por meio de três etapas: comparação entre as produtividades dos fatores de produção, comparação entre as margens brutas de comercialização e comparação entre os preços relativos dos fatores de produção. Não houve diferença estatística entre a eficiência técnica dos quatro tratamentos (P>0,05). Os tratamentos à base de milho inteiro e milheto apresentaram maior eficiência econômica. O uso do milho moído grosso em substituição ao milho inteiro só seria recomendado com segurança se seus preços fossem 24% mais baixos que o do milho inteiro. Diante dos comportamentos históricos dos preços do sorgo e do milheto, estes poderiam substituir o milho sem prejuízo estatisticamente significativo do desempenho zootécnico.",
+	"xml:lang":"por"
+	},
+	{"value":"This study presents a mathematical model for economic analysis of diets composed of different ingredients. Variables such as intake and weight gain, and economic variables such as relative prices of the ingredients were considered. Twenty-four crossbred lambs, with initial age and weight of 70 days and 22 ± 1.61 kg, respectively, and final live weight of 37 ± 2.16 kg, were fed with high concentrate diets, containing different types of grains (cracked corn, whole grain corn, sorghum and millet). The animals were distributed in a complete randomized block design with four treatments and six replications, fed during 66 days and then slaughtered. The economic analysis was performed through three steps: a comparison of the productivities of production factors, comparison of commercial gross margins and comparison of the relative prices of factors of production. There was no statistical difference between the technical efficiency of the four treatments (P>0.05). Treatments based on whole maize and millet presented higher economic efficiency. The use of cracked corn to replace the whole maize would only be recommended with certainty whether their prices were 24% lower than whole maize. Observing the historical behavior of prices of sorghum and millet, they could replace corn with no significant loss of production performance.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

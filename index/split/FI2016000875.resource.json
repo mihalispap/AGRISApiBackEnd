@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Tanzanian mushrooms and their uses.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Härkönen, Marja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Buyck, Bart.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saarimäki, Tiina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mwasumbi, Leonard.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"russula"},
+	{"value":"Russula"},
+	{"value":"edible fungi"},
+	{"value":"taksonomia"},
+	{"value":"species"},
+	{"value":"Agaricales"},
+	{"value":"tanzania"},
+	{"value":"sienet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000875",
+	"dct:identifier":"FI2016000875",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

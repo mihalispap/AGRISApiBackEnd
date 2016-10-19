@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.lib.helsinki.fi/se/a/1239-0992/9/1/growthof.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth of and partitioning between shoot and storage root of carrot in a northern climate.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Suojala, Terhi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"kasvu"},
+	{"value":"porkkana"},
+	{"value":"kasvutekijät"},
+	{"value":"plant developmental stages"},
+	{"value":"vihannesviljely"},
+	{"value":"carrots"},
+	{"value":"Daucus carota"},
+	{"value":"growth factors"},
+	{"value":"kehitysvaiheet"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001632",
+	"dct:identifier":"FI2016001632",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

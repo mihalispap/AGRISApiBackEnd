@@ -1,0 +1,78 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of intercropping on root distribution in coconut under coastal sandy soil",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":267,
+	"dc:subject":[
+		{"value":"root distribution"},
+	{"value":"sandy soils",
+	"xml:lang":"eng"
+	},
+	{"value":"cultivo intercalado",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"irrigation goutte a goutte",
+	"xml:lang":"fre"
+	},
+	{"value":"intercropping",
+	"xml:lang":"eng"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"trickle irrigation",
+	"xml:lang":"eng"
+	},
+	{"value":"culture intercalaire",
+	"xml:lang":"fre"
+	},
+	{"value":"riego por goteo",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"sol sableux",
+	"xml:lang":"fre"
+	},
+	{"value":"suelo arenoso",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":269,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000652",
+	"dct:identifier":"IN2015000652",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dhanapal, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Subramanian, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maheswarappa, H. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Harisha, C.B"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

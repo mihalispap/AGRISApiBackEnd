@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of specific cultivar usage and preparation methods in Japanese potato starches.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Noda, T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suzuki, T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hashimoto, N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nagasawa, K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yamauchi, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Md Zaidul, I. S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"food processing"},
+	{"value":"varieties"},
+	{"value":"viscosity"},
+	{"value":"granules"},
+	{"value":"potatoes"},
+	{"value":"quality"},
+	{"value":"potato starch"},
+	{"value":"phosphorus"},
+	{"value":"Japan"},
+	{"value":"starch"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000937",
+	"dct:identifier":"FI2016000937",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

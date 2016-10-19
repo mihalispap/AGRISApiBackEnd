@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biotechnology of bioemulsifers produced by micro-organisms /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Colvo, Concepción.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toledo, Francisca Lucía.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pozo, Clementina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Martínez-Toledo, María Victoria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    González-López, Jesús.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biotechnology"},
+	{"value":"biotekniikka"},
+	{"value":"biodegradation"},
+	{"value":"surfactants"},
+	{"value":"biohajoaminen"},
+	{"value":"bioremediation"},
+	{"value":"mikro-organismit"},
+	{"value":"microorganisms"},
+	{"value":"pinta-aktiiviset aineet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000722",
+	"dct:identifier":"FI2016000722",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

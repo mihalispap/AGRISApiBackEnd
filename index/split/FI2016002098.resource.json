@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Using thermal time models to predict germination of five provenances of silver birch (Betula pendula Roth) in southern England.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"seed sources"},
+	{"value":"provenance"},
+	{"value":"migration"},
+	{"value":"thermal time model"},
+	{"value":"forecasting"},
+	{"value":"seed source"},
+	{"value":"assisted migration"},
+	{"value":"simulation models"},
+	{"value":"climate change"},
+	{"value":"germination"}
+	],
+	"bibo:doi":"10.14214/sf.1266",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002098",
+	"dct:identifier":"FI2016002098",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1266",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Midmore, Edwyn K,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    McCartan, Shelagh A,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jinks, Richard L,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cahalan, Christine M,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

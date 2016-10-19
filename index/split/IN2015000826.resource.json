@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Variability analysis in bean characters of selected accessions of cocoa(Theobroma cacao L.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":246,
+	"dc:subject":[
+		{"value":"COCOA"},
+	{"value":"BEAN WEIGHT"},
+	{"value":"CLUSTERING"},
+	{"value":"FLAT BEAN"},
+	{"value":"cultivos",
+	"xml:lang":"esp"
+	},
+	{"value":"plante de culture",
+	"xml:lang":"fre"
+	},
+	{"value":"crops",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":251,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000826",
+	"dct:identifier":"IN2015000826",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Asna, A.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Presannakumari, K.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Minimol, J.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Krishnan, S."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

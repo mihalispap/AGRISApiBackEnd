@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   Caracu "},
+	{"value":"   Guzerá e Gir selecionados para peso pós-desmame "},
+	{"value":"Carcass traits of Nellore, Caracu. Guzerah and Gir bulls selected for postweaning weight",
+	"xml:lang":"eng"
+	},
+	{"value":"   Características de carcaça de bovinos Nelore ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"genetics",
+	"xml:lang":"eng"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"programmes",
+	"xml:lang":"eng"
+	},
+	{"value":"selection",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"69/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2014F01222",
+	"dct:identifier":"BR2014F01222",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1355399182.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BONILHA,  S. F. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TEDESCHI,  L. O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FIGUEIREDO,  L. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRANCO,  R. H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CYRILLO,  J. N. S. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MERCADANTE,  M. E. Z."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Data from nine studies were compiled to evaluate the effects of selection for postweaning weight on some carcass characteristics in experimental herds of selected Nellore (NeS), control Nellore (NeC), Caracu (CaS), Guzerah (GuS) and Gir (GiS) breeds from Instituto de Zootecnia genetic selection program. After the feeding performance test (168 days after weaning), samples of bulls (n=490) from the progeny groups born between 1992 and 2000 were selected for finishing period and slaughtered. Treatments were different across studies. Meta-analysis was conducted with a random coefficients model in which herd was considered a fixed effect and treatments within year and progeny groups as random effects. Slaughter, empty body, hot carcass and cold carcass weights were higher for NeS and CaS, intermediate for GuS and lower for NeC e GiS. CaS bulls had higher proportions of forequarter and spare ribs and lower proportion of hindquarter than the other groups. No significant differences were found for percentage of edible portion among the genetic groups. Selection for postweaning weight in Nellore increased carcass, hindquarter, forequarter, and spare ribs weights without altering dressing percentage, carcass quarter, and hindquarter prime meat cuts proportions.",
+	"xml:lang":"eng"
+	},
+	{"value":"Dados de nove estudos foram compilados com o objetivo de avaliar os efeitos da seleção para peso pós-desmame em algumas características de carcaça de rebanhos experimentais Nelore Seleção (NeS), Nelore Controle (NeC), Caracu (CaS), Guzerá (GuS) e Gir (GiS) do programa de melhoramento genético do Instituto de Zootecnia. Após a Prova de Ganho de Peso (168 dias pós-desmame), amostras de machos (n=490) de progênies nascidas entre 1992 e 2000 foram selecionadas para o período de terminação e posterior abate. Em cada estudo os animais foram submetidos a diferentes tratamentos de terminação. Foi conduzida meta-análise com modelo de coeficientes aleatórios, onde rebanho foi considerado efeito fixo e tratamentos dentro de ano e progênie foram considerados efeitos aleatórios. Os pesos de abate, do corpo vazio, da carcaça quente e da meia carcaça direita resfriada foram maiores para NeS e CaS, intermediários para GuS e menores para NeC e GiS. O CaS apresentou maiores proporções de dianteiro e ponta-de-agulha e menor proporção de traseiro que os outros grupos genéticos estudados. Não foram encontradas diferenças significativas entre as porcentagens de porção comestível das carcaças dos grupos genéticos estudados. A seleção para peso pós-desmame aumentou os pesos de carcaça, traseiro, dianteiro e ponta-de-agulha no Nelore sem alterar o rendimento de carcaça, as proporções dos quartos da carcaça e dos cortes nobres do traseiro.",
+	"xml:lang":"por"
+	}
+	]
+	}}

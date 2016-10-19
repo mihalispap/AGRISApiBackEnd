@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bioefficacy of buprofezin 25 SC against, Scirtothrips dorsalis (Hood) and yellow mite, Polyphagotarsonemus latus (Banks) infesting chilli",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":177,
+	"dc:subject":[
+		{"value":"buprofezina",
+	"xml:lang":"esp"
+	},
+	{"value":"buprofezine",
+	"xml:lang":"fre"
+	},
+	{"value":"buprofezin",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":180,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000896",
+	"dct:identifier":"IN2015000896",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sontakke, B.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohapatra,  L.N"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Two dosages of buprofezin 25 SC viz., 75 g a.i/ha and 150 g a.i./ha, along with its market samples and treated checks i.e., ethion (225 g a.i./ha) and profenofos (500 g a.i./ha) were field evaluated against mixed population of thrips, Scirtothrips dorsalis (Hood) and yellow mite, Polyphagotarsonemus latus (Banks) infesting chilli at the Central Farm of Orissa University of Agriculture and Technology, Bhubaneswar during kharif 2009 and 2010. Buprofezin 25 SC in both the doses (75 and 150 g a.i./ha) was the most effective in checking both thrips and mite. Buprofezin 25 SC in any formulation and even in higher doses was safe to the natural enemies.",
+	"xml:lang":"eng"
+	}
+	}}

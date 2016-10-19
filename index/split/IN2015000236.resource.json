@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Post harvest management of anthracnose rot of Mango (Mangifera indica L.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":121,
+	"dc:subject":[
+		{"value":"glomerella cingulata",
+	"xml:lang":"esp"
+	},
+	{"value":"mangifera indica",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":124,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000236",
+	"dct:identifier":"IN2015000236",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Anisurrahman"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lal, Abhilasha A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Simon, Sobita"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"In vitro analysis was carried out by taking carbendazim, thiophanate methyl, boric acid, sodium bicarbonate, neem leaf extract, jatropha leaf extract and paraffin wax was used against the pathogen. Carbendazim (0.05%) significantly inhibited the mycelial growth of the pathogen, both as pre- and post infection applications and maintained shelf life of mango up to 10-15 days at room temperature.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic diversity and structure of the endangered Betula pendula subsp. fontqueri populations in the south of Spain /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Martin, Carmen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Parra, Teresa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Clemente-Muñoz, Margarita.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hernandez-Bermejo, Esteban.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Betula pendula subsp. fontqueri"},
+	{"value":"monimuotoisuus"},
+	{"value":"Betula pendula"},
+	{"value":"Spain"},
+	{"value":"rauduskoivu"},
+	{"value":"RAPD"},
+	{"value":"genetic diversity"},
+	{"value":"geenit"},
+	{"value":"population"},
+	{"value":"populaatiot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000493",
+	"dct:identifier":"FI2016000493",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of shrub performance under arid conditions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Suleiman, M. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bhat, N. R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abdal, M. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Mulla, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grina, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Dossery, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bellen, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    D'cruz, G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    George, J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Christopher, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"arid climate"},
+	{"value":"genetic resources"},
+	{"value":"Kuwait"},
+	{"value":"ornamental woody plants"},
+	{"value":"adaptation"},
+	{"value":"shrubs"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000781",
+	"dct:identifier":"FI2016000781",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

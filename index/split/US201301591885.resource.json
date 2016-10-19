@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Rheological properties of currant purees and jams: Effect of composition and method of proceeding"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591885",
+	"dct:identifier":"US201301591885",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f34.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Speicienė, Vilma (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leskauskaite, Daiva (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Viskelis, Pranas (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rubinskiene, Marina (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The rheological properties of thawed purees made from blanched and cold-pressed red and black currants as well as jams made from thawed purees were investigated. The influence of thawing conditions on the rheological properties and syneresis of purees was evaluated. The purees were thawed in three different ways: at room temperature, in refrigerator and with microwaves. The rheological properties of purees and jams were characterized by the flow curves obtained at 0–100 s-1 shear rate range using a controlled stress rheometer. The results indicated that purees and jams behaved as non-Newtonian fluids, well described by Power-Law model. Thawing with microwaves caused higher rheological parameters comparing to the longer thawing conditions that determined the decrease in rheological properties. The composition and method of pre-treatment of currants had influence on the rheological properties and syneresis of thawed purees: red currant purees showed lower viscosity and higher syneresis than black currant purees; purees from blanched currants had higher water retention capacity comparing to purees from cold-pressed currant. It was concluded that the structure of purees made from blanched black currants thawed with microwaves can be characterized as well-connected, viscous structure. The rheological properties of currant jams were influenced by the rheological properties of the purees they were made from. Jams made from blanched currant purees showed higher viscoelastic properties (storage modulus and loss modulus), rheological properties (consistency index K and thixotropy) and lower syneresis in comparison with jams made from cold-pressed currants."}
+	}}

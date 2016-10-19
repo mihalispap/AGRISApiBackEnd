@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"On-farm evaluation of some plant extracts as biofungicide and bioinsecticide on cowpea in Southwest Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029280",
+	"dct:identifier":"FI2007029280",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a13.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Owolade, O. F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alabi, B. S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Osikanlu, Y. O. K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Odeyemi, O. O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Aqueous extracts of leaves of Carica papaya L., Tithonia diversifolia (Hemsl) A. Gray and Acalypha ciliata Forsk were evaluated on farmers fields as potential biofungicide and bioinsecticide against the brown blotch disease and insect pests of Ife Brown variety of cowpea in year 2002 and 2003 planting seasons. All the crude extracts significantly reduced the incidence and severity of the disease, and the population of the insect pests of cowpea (P<0.01) in all the farmers’ fields. Extracts from the leaves of Carica papaya was the most effective of the botanicals and its performance was comparable to that of Benlate and Nuvacron in both disease and insect control."}
+	}}

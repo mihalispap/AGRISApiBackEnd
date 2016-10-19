@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficacy of botanical insecticides in management of Okra shoot and fruit borer, Earias vittella (Fab.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":339,
+	"dc:subject":[
+		{"value":"management",
+	"xml:lang":"eng"
+	},
+	{"value":"abelmoschus esculentus",
+	"xml:lang":"esp"
+	},
+	{"value":"gestion",
+	"xml:lang":"esp"
+	},
+	{"value":"earias vittella",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":341,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000520",
+	"dct:identifier":"IN2015000520",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Barakzai, Abdul Wakil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lyall Hemant"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The treatment with combined cypermethrin 25 EC (0.0625%) + neem oil (1%) was found most effective, the fruit damage was 4.3%, with highest cost benefit ratio 1:3.31, and yield 98.07 q/ha.The treatment with chemical insecticide of chlorpyriphos was effective, the fruit damage was 5.7%.The treatments with botanical insecticides viz. neem oil 1%, datura leaf extract 10%, garlic bulb extract 3% and green chilli extract 1% were also effective, resulting 6.6%, 8.6%, 9.0% and 10.5% fruit damage, compared with control plot 22.0%. Amongthe botanical insecticides, neem oil 1% gave highest CBR 1:2.59 and yield 80.43 q/ha, so neem oil 1% was found best botanical treatment against Earias vittella as it is eco-friendly, no residual effect and not caused hazardous effect to environment, also it could be an important tool in IPM programme.",
+	"xml:lang":"eng"
+	}
+	}}

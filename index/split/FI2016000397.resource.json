@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Tanzanian mushrooms and their uses.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Härkönen, Marja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saarimäki, Tiina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mwasumbi, Leonard.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"edible fungi"},
+	{"value":"waste utilization"},
+	{"value":"coprinus"},
+	{"value":"Tanzania"},
+	{"value":"crop residues"},
+	{"value":"plant habit"},
+	{"value":"agave sisalana"},
+	{"value":"plant anatomy"},
+	{"value":"Coprinus"},
+	{"value":"sienet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000397",
+	"dct:identifier":"FI2016000397",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"LUZ, MELATONINA E ESTRESSE OXIDATIVO NA PISCICULTURA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":169,
+	"bibo:volume":3,
+	"bibo:pageEnd":176,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00127",
+	"dct:identifier":"BR2015N00127",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/841",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Claudio Alberto Gellis de Mattos Dias"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Diego Santos Fagundes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amauri Gouveia Junior"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maria Divina Murillo Lopez de Silanes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Júlio César Sá-Oliveira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIVERSIDADE FEDERAL DO AMAPÁ"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIVERSIDADE FEDERAL DO PARÁ"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIVERSIDAD DE ZARAGOZA"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify; text-indent: 35.4pt;\"><span style=\"color: #111111; background-position: initial initial; background-repeat: initial initial;\">Em peixes, como nos mamíferos, partes do sistema nervoso estão envolvidas em mecanismos para regulação dos sistemas corporais em sintonia com o meio. O fotoperíodo é traduzido em informações fisiológicas a partir da secreção de melatonina. <span style=\"mso-bidi-font-family: \";Times New Roman\";; color: windowtext;\">Parece não haver barreiras morfofisiológicas para esta indolamina, isto é, a melatonina perfunde-se rapidamente em cada célula do organismo e em alguns casos interage com receptores e membrana situados na superfície celular, e </span><span style=\"color: #111111; background-position: initial initial; background-repeat: initial initial;\">parece estar ligada à ingestão de alimentos, crescimento e atividade locomotora de peixes. São moléculas importantes metabolizando espécies reativas de oxigênio a produtos inativos e, portanto, reduzindo o dano oxidativo.<span style=\"color: #111111; background-position: initial initial; background-repeat: initial initial;\"> Este trabalho tem por objetivo fazer um breve levantamento em artigos recentes sobre luminosidade, melatonina e o estresse oxidativo em peixes, e correlaciona-los com piscicultura. Concluímos que a luminosidade parece estar ligada a produção de melatonina, e esta molécula antioxidante, que favorece a redução do estresse oxidativo, parecem melhorar o desempenho na produção de peixes em criadouros.",
+	"xml:lang":"por"
+	}
+	}}

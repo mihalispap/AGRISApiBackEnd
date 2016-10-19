@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Training needs of farmers in draught animal management and utilization",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":280,
+	"dc:subject":[
+		{"value":"animales de tiro",
+	"xml:lang":"esp"
+	},
+	{"value":"formation",
+	"xml:lang":"fre"
+	},
+	{"value":"autonomisation",
+	"xml:lang":"fre"
+	},
+	{"value":"training",
+	"xml:lang":"eng"
+	},
+	{"value":"animal de trait",
+	"xml:lang":"fre"
+	},
+	{"value":"empowerment",
+	"xml:lang":"eng"
+	},
+	{"value":"animal husbandry methods",
+	"xml:lang":"eng"
+	},
+	{"value":"draught animals",
+	"xml:lang":"eng"
+	},
+	{"value":"methode d'elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"autonomizacion",
+	"xml:lang":"esp"
+	},
+	{"value":"metodos de crianza",
+	"xml:lang":"esp"
+	},
+	{"value":"capacitacion",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":283,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000437",
+	"dct:identifier":"IN2015000437",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Akila, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chander, Mahesh"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The training needs of the bullock owners was studied in the state of Tamil Nadu with 210 respondents of 70 small, 70 medium and 70 large farmers. The results revealed that majority of the farmers in all categories (59.69 per cent small farmers, 69.24 per cent medium farmers and 69.18 per cent large farmers) didnt show any desire in getting training on draught animal utilization and management. Out of the seven areas of training needs, the farmers felt, they need training in the use of new animal drawn implements (54.64 per cent small farmers, 46.43 per cent medium farmers and 32.14 large farmers felt as most needed). The extent of training need revealed that majority of the small farmers (70 per cent), medium farmers (67.14 per cent), and large farmers (51.43 per cent) had low training need. Among the farmers there was no significant difference and there is significant difference (P0.01) among the different areas of training needs.",
+	"xml:lang":"eng"
+	}
+	}}

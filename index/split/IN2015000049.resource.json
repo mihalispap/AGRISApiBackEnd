@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Repellent Properties of Essential Oil of Arbuscular Mycorrhizal (AM) Ocimum Basilicum Against Culex Quinquefasciatus Say (Diptera: Culicidae).",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":357,
+	"dc:subject":[
+		{"value":"culicidae",
+	"xml:lang":"esp"
+	},
+	{"value":"repelentes",
+	"xml:lang":"esp"
+	},
+	{"value":"essential oil crops",
+	"xml:lang":"eng"
+	},
+	{"value":"mycorhize",
+	"xml:lang":"fre"
+	},
+	{"value":"culex",
+	"xml:lang":"esp"
+	},
+	{"value":"diptera",
+	"xml:lang":"esp"
+	},
+	{"value":"mycorrhizae",
+	"xml:lang":"esp"
+	},
+	{"value":"culex quinquefasciatus",
+	"xml:lang":"esp"
+	},
+	{"value":"ocimum basilicum",
+	"xml:lang":"esp"
+	},
+	{"value":"repellents",
+	"xml:lang":"eng"
+	},
+	{"value":"repulsif",
+	"xml:lang":"fre"
+	},
+	{"value":"plantas aromaticas",
+	"xml:lang":"esp"
+	},
+	{"value":"ocimum",
+	"xml:lang":"esp"
+	},
+	{"value":"plante a huiles essentielles",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":359,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000049",
+	"dct:identifier":"IN2015000049",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thangamathi, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ananth, S."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"The present study was undertaken to test the efficacy of Arbuscular mycorrhizal fungi treated Ocimum basilicum oil and compare its efficacy in relation to repellent activity against filarial mosquito Culex quinquefasciatus Say. Skin repellent test at 1.0, 2.0, 3.0, and 4.0 mg/cm2 concentration of O. basilicum oil gave 100% protection up to 15, 30, 60, and 120 min. The results clearly demonstrated that the repellent activity of AM fungi treated O. basilicum oil was higher than the AM fungi untreated O. basilicum oil and AM fungi treated O. basilicum oil served as a potential repellent agent against filarial vector C. quinquefasciatus Say.",
+	"xml:lang":"eng"
+	}
+	}}

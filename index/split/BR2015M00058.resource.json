@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2011,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Manifestações clínicas e procedimentos diagnósticos da Doença de Paget do osso",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Leticia Sales Nascimento "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maria Isabel Paixão do Nascimento "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fábio Rangel Freitas da Silva "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00058",
+	"dct:identifier":"BR2015M00058",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"A doença de Paget do osso (DPO) é uma patologia osteometabólica caracterizada pelo aumento da remodelação óssea, tornando o osso mais espesso, frágil, suscetível a fraturas e complicações clínicas. A DPO normalmente é assintomática, tornando-se uma patologia de diagnóstico tardio ou com achados acidentais por exames laboratoriais e imaginológicos. Portanto o objetivo deste trabalho é analisar as manifestações clínicas da Doença de Paget do osso avaliando qual o melhor procedimento diagnóstico para cada caso. Para isso o trabalho baseia-se numa pesquisa não sistemática de revisão bibliográfica por meio da consulta aos indexadores de pesquisa nas bases de dados eletrônicos (Medline, Lilacs, Scielo e PubMed) até o ano de 2010. Concluímos que o diagnóstico, geralmente, encontra-se alicerçado nas manifestações clínicas, exames radiográficos e bioquímicos, mas dar-se escolha para os métodos por imagem, dando ênfase para a radiografia convencional e cintilografia de corpo inteiro.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

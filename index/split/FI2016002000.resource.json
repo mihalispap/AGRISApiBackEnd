@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Variations of yield and utilisation of bilberries (Vaccinium myrtillus L.) and cowberries (V. vitis-idaea L.) in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Turtiainen, Marjut.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salo, Kauko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saastamoinen, Olli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Vaccinium vitis idaea"},
+	{"value":"utilisation of wild berries"},
+	{"value":"yield varition"},
+	{"value":"yields"},
+	{"value":"mustikka"},
+	{"value":"marjanpoiminta"},
+	{"value":"talteenotto"},
+	{"value":"sato"},
+	{"value":"bilberry"},
+	{"value":"Vaccinium vitis-idaea"},
+	{"value":"total berry yield"},
+	{"value":"uses"},
+	{"value":"luonnonmarjat"},
+	{"value":"Vaccinium myrtillus"},
+	{"value":"cowberry"},
+	{"value":"puolukka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002000",
+	"dct:identifier":"FI2016002000",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

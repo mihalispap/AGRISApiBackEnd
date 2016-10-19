@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Mulighed of metoder for ændring af pelsdyrs temperament.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Hansen, Steffen W.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"minks"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"furbearing animals"},
+	{"value":"minkki"},
+	{"value":"abnormal behaviour"},
+	{"value":"turkiseläimet"},
+	{"value":"käyttäytymishäiriöt"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (253 :
+    1994 :
+    Rebild)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001424",
+	"dct:identifier":"FI2016001424",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

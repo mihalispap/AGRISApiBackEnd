@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/48421/15787",
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of semi-leafless peas (Pisum sativum L) in laying hen diets.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Koivunen, Erja,
+    kirjoittaja
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuunainen, Petra,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valkonen, Eija,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valaja, Jarmo,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"munantuotanto"},
+	{"value":"poultry"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"egg characters"},
+	{"value":"Pisum sativum"},
+	{"value":"egg production"},
+	{"value":"siipikarja"},
+	{"value":"herne"},
+	{"value":"layer chickens"},
+	{"value":"hens"},
+	{"value":"kana"},
+	{"value":"peas"},
+	{"value":"kotieläimet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001266",
+	"dct:identifier":"FI2016001266",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

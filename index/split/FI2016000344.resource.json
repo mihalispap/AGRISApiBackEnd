@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Network co-operation as a source of competitiveness in medium-sized Finnish sawmills.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Toppinen, Anne,
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lähtinen, Katja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leskinen, Leena A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Österman, Niklas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"networks"},
+	{"value":"social capital"},
+	{"value":"resources"},
+	{"value":"collaboration"},
+	{"value":"strategic resorces"},
+	{"value":"business processes"},
+	{"value":"competitive advange"},
+	{"value":"business associations"},
+	{"value":"sawmills"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000344",
+	"dct:identifier":"FI2016000344",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

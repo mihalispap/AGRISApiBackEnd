@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Foliar nitrogen, phosphorus and potassium concentrations of Scots pine in drained mires in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Moilanen, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saarinen, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Silfverberg, Klaus.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"foliar nutrition"},
+	{"value":"peatlands"},
+	{"value":"drainage"},
+	{"value":"kasvupaikkatyypit"},
+	{"value":"leaves"},
+	{"value":"neulaset"},
+	{"value":"nutrient deficiencies"},
+	{"value":"lehtianalyysi"},
+	{"value":"mänty"},
+	{"value":"Pinus sylvestris"},
+	{"value":"site factors"},
+	{"value":"ravinteet"},
+	{"value":"tissue analysis"},
+	{"value":"ojitetut suot"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002033",
+	"dct:identifier":"FI2016002033",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

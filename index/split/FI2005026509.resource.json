@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Leaf and fruit macronutrient composition during the growth period of apples"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026509",
+	"dct:identifier":"FI2005026509",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a17.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dris, Ramdane (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Niskanen, Raina (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The evolution of macronutrient levels (N, P, K, Ca and Mg) in apple leaves and fruits was investigated during the period of fruit development. The material was collected in seven orchards, located in southern Finland. Apples of six cultivars (Samo, Raike, Jaspi, Red Atlas, Lobo and Åkerö) were picked at early (16-20 August) and normal harvest time (25 August-6 October). Leaves were sampled three times (22-24 July, 1-2 September, 22-23 September) separately from both spur leaves of fruit-bearing (BF) and from the current season growth (non-fruit-bearing; BNF) branches. During the third sampling time of leaves in BF and BNF, N concentration was lower and P concentration higher than at the earlier sampling dates. Leaf Ca concentration increased after the first sampling of BF and after the second sampling of BNF. Leaf Mg in BNF at the third sampling time was higher than at the first sampling. During the whole sampling period, leaf N concentration was higher in BNF. At the first and second samplings, leaf Ca in BNF was lower than in BF. Mean K concentration was slightly higher in early harvested fruits. There was significant positive correlation between nutrient concentrations in early and normally harvested fruits only for P and Ca. N in normally harvested fruits correlated positively with leaf N at the first sampling of BF and BNF. K in early harvested fruits correlated negatively with leaf K in BNF of the third sampling. Mg in normally harvested fruits correlated positively with leaf Mg at the first sampling of BF and the second sampling of BF and BNF."}
+	}}

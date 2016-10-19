@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Social relationships and reproductive performance in group-living arctic blue foxes /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Korhonen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alasuutari, Sakari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"social behaviour"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"fur bearing animals"},
+	{"value":"lisääntyminen"},
+	{"value":"foxes"},
+	{"value":"turkiseläimet"},
+	{"value":"reproductive performance"},
+	{"value":"sinikettu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000793",
+	"dct:identifier":"FI2016000793",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

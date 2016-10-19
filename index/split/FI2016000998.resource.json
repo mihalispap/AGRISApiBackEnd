@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Macro- and microscale gaseous diffusion in a Stagnic Luvisol as affected by compaction and reduced tillage.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Simojoki, Asko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fazekas-Becker, Orsolya.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Horn, Rainer.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"conversation tillage"},
+	{"value":"diffusion"},
+	{"value":"tiivistyminen"},
+	{"value":"soil compaction"},
+	{"value":"soil pore system"},
+	{"value":"maan rakenne"},
+	{"value":"lössimaat"},
+	{"value":"kevennetty maanmuokkaus"},
+	{"value":"gases"},
+	{"value":"maan ilma"},
+	{"value":"muokkaus"},
+	{"value":"huokoset"},
+	{"value":"soil structure"},
+	{"value":"maaperä"},
+	{"value":"loess soils"},
+	{"value":"Germany"},
+	{"value":"permeability"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000998",
+	"dct:identifier":"FI2016000998",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

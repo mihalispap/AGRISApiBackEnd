@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-33.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Optimization of the extraction of polyphenols from grape seed meal by aqueous ethanol solution"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shi, John (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yu, Jianmei (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pohorly, Joseph (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Young, J. Christopher (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bryan, Mike (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wu, Ying (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100307",
+	"dct:identifier":"FI2016100307",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The efficient methods for extracting phenolics from grape seeds have been of great interest to many investigators, due to the special health promoting and disease preventing effects of polyphenols. In this study, extractions were performed by using aqueous ethanol. The effects of single factors such as the concentration of ethanol, the ratio of liquid to solid (L/S), extraction temperature, extraction time, and number of extractions on the extraction efficiency were studied. Total phenol was measured by the Folin-Ciocalteu procedure to monitor the efficiency of the extraction under different experimental conditions. High pressure liquid chromatograph (HPLC) analysis was applied to identify and quantify some specific dimeric and trimeric phenolics in grape seeds. The concentration of ethanol and the extraction temperature showed the most significant impact on the yield of total phenolics. At room temperature, the extract with highest total phenolics was obtained with 50% ethanol. A extraction yield was obtained at higher temperature. When ethanol concentration and temperature were kept constant, 1.5 hr extraction time and liquid to solid ratio of 7.5:1 resulted in the best yield. In all cases, the phenolics extracted by first and second stage consisted of 90-97% of the total phenolics of the sum of the three stages. Therefore, two-stage extraction would be more cost efficient than three-stage extraction."}
+	}}

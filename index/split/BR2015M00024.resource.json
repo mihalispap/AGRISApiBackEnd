@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Avanços em caracterização de amostras sólidas cristalinas através de Difratometria de Raios-X",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Henrique Duarte da Fonseca Filho "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gerson Anderson de Carvalho Lopes "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DISSE/CNPq "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00024",
+	"dct:identifier":"BR2015M00024",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Neste artigo realiza-se uma revisão sobre os fundamentos da técnica de difratometria de raios X, bem como sua utilização nas empresas, universidades, indústrias e centros de pesquisa, como sendo uma das mais difundidas e importantes técnicas de caracterização utilizadas atualmente. Buscou-se fornecer um entendimento simples, porém completo, do princípio da técnica, e suas aplicações, o mecanismo de geração dos raios-X, sua interação com os cristais, a instrumentação do método, a geração dos difratogramas e sua análise bem como uma exploração das caracterizações possíveis com a técnica de DRX. Por fim, dedica-se uma seção para uma técnica relacionada, a espectrometria de fluorescência de raios-X",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

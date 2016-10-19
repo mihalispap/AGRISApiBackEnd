@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelling allocation with transport/conversion processes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Thornley, John H. M.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"aineenvaihdunta"},
+	{"value":"simulointi"},
+	{"value":"plant habit"},
+	{"value":"juuri"},
+	{"value":"roots"},
+	{"value":"metabolism"},
+	{"value":"simulation models"},
+	{"value":"versot"},
+	{"value":"kasvu"},
+	{"value":"mallit"},
+	{"value":"kasvifysiologia"},
+	{"value":"varsi"},
+	{"value":"plant physiology"},
+	{"value":"stems"},
+	{"value":"suhteet"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001076",
+	"dct:identifier":"FI2016001076",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

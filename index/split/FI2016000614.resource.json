@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A process-based growth model for the grass stage pine seedlings.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Koskela, Jarkko.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"simulointi"},
+	{"value":"hiili"},
+	{"value":"simulation models"},
+	{"value":"männyt"},
+	{"value":"seedlings"},
+	{"value":"kasvumallit"},
+	{"value":"models"},
+	{"value":"biomassa"},
+	{"value":"dynamic models"},
+	{"value":"typpi"},
+	{"value":"Pinus merkusii"},
+	{"value":"taimet"},
+	{"value":"Monte Carlo-menetelmä"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000614",
+	"dct:identifier":"FI2016000614",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

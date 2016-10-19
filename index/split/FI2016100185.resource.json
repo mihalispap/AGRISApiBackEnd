@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/f7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Potentiality of cassava cultivars as a source of carotenoids"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nassar, Nagib (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vizzotto, Carla Simone (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"da Silva, Humberto Lima (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schwartz, Carlos Alberto (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Júnior, Osmindo Rodrigues Pires (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100185",
+	"dct:identifier":"FI2016100185",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Vitamin A deficiency results in progressive eye damage. It is a serious problem in the northern and northern east Brazil. Screening some cassava clones and interspecific hybrids for its precursors revealed high level of lutein and trans-β-carotene in a clone namely UnB-400, it has its roots content reaching 236 and 1.24 mg/kg respectively combined to an excellent palatibility. An interspecific hybrid of cassava with M. olignatha showed its leaves to have 9108 mg/kg compared to 780 mg/kg in common cultivars."}
+	}}

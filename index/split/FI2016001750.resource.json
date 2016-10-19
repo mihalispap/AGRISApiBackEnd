@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Porsaskuolleisuus = Preweaning mortality of piglets. 2 : Factors influencing on the mortality rate and measurements to reduce it. A review /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Rautiainen, Eero.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"piglets"},
+	{"value":"animal welfare"},
+	{"value":"animal health"},
+	{"value":"kuolleisuus"},
+	{"value":"sows"},
+	{"value":"mortality"},
+	{"value":"finland"},
+	{"value":"emakot"},
+	{"value":"porsaat"},
+	{"value":"kotieläinhoito"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001750",
+	"dct:identifier":"FI2016001750",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

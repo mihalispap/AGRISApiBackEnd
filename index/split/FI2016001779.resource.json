@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Phosphorus allocation in surface soil of two drained peatland forests following wood and peat ash application : why effective adsorption on low sorptive soils?.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nieminen, Mika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moilanen, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Piirainen, Sirpa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"peatlands"},
+	{"value":"fosfori"},
+	{"value":"tuhka"},
+	{"value":"drainage"},
+	{"value":"phosphorus"},
+	{"value":"forestry"},
+	{"value":"suometsät"},
+	{"value":"adsorption"},
+	{"value":"fertilizer application"},
+	{"value":"iron"},
+	{"value":"peat"},
+	{"value":"ashes"},
+	{"value":"turve"},
+	{"value":"aluminium"},
+	{"value":"lannoitus"},
+	{"value":"alumiini"},
+	{"value":"rauta"},
+	{"value":"fraktiointi"},
+	{"value":"ojitusalueet"},
+	{"value":"metsänhoito"},
+	{"value":"adsorptio"},
+	{"value":"fractionation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001779",
+	"dct:identifier":"FI2016001779",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

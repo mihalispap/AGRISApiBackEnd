@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of rapeseed and pea grain protein supplements for organic milk production.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Khalili, Hannele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuusela, Eeva.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saarisalo, Eeva.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suvitie, Marjatta.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rypsirouhe"},
+	{"value":"kasvivalkuainen"},
+	{"value":"lypsykarja"},
+	{"value":"ruokinta"},
+	{"value":"luonnonmukainen kotieläintuotanto"},
+	{"value":"protein plants"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"milk production"},
+	{"value":"plant protein"},
+	{"value":"dairy cattle"},
+	{"value":"rapeseed"},
+	{"value":"maitotuotos"},
+	{"value":"organic agriculture"},
+	{"value":"animal husbandry"},
+	{"value":"peltoherne"},
+	{"value":"peas"},
+	{"value":"väkirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001214",
+	"dct:identifier":"FI2016001214",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

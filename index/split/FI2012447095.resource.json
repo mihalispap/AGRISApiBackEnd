@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of variability for salt tolerance at seedling stage in Gossypium hirsutum L."},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2012447095",
+	"dct:identifier":"FI2012447095",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/a12.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hanif, Mamoona (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Noor, Etrat (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Murtaza, Naveed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Qayyum, Abdul (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Malik, Waqas (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The availability of genetically based variation is essential for bringing rapid improvement in salinity tolerance of a crop through rapid selection and breeding. To get such information in Gossypium hirsutum L., a sample of eleven cultivars of diverse origin was assessed at seedling stage using three salinity levels of NaCl solutions including control. Variation was found in seedling response to increasing NaCl concentrations, which is an indication of their differing abilities to grow under saline conditions and hence potential variability within this species. Based upon six characters examined here for preliminary varietal comparisons were significantly affected by salinity, yet varieties ranging from more tolerant to highly sensitive were identified based upon relative and absolute salt tolerance. Genotypes MNH-700, SLH-279 and FH-900 were identified as the most tolerant to NaCl and cultivars CIM-506, CIM-446 and VH-142 were proved to be moderately tolerant. The cultivars FH-901, MNH-552 and BH-160 were identified as the most sensitive to salinity. Amount of broad-sense heritability of six plant characters were estimated and it was observed that the estimates of heritability were high, which suggest that the variation in different plant characters is genetically controlled and suggested that salinity tolerance in upland cotton is possible by exploiting the existing variation through conventional breeding methods."}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of cashew (Anacardium occidentale L.) varieties under northern transition zone of Karnataka",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":441,
+	"dc:subject":[
+		{"value":"cashew varieties"},
+	{"value":"nut yield"},
+	{"value":"nut weight"},
+	{"value":"cashews",
+	"xml:lang":"eng"
+	},
+	{"value":"anacardo",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de cajou",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":443,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000750",
+	"dct:identifier":"IN2015000750",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vikram, H.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hegde, N.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jagadeesh, R.C."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

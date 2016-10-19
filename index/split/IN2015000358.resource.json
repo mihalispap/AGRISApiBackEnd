@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Sheep breeding programmes in India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1,
+	"dc:subject":[
+		{"value":"croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"laine",
+	"xml:lang":"fre"
+	},
+	{"value":"cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"wool",
+	"xml:lang":"eng"
+	},
+	{"value":"lana",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"crossbreeding",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":15,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000358",
+	"dct:identifier":"IN2015000358",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mishra, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Sushil"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The breeding policy for sheep is primarily aimed for increasing wool and meat production for meeting demand in the country. Organized sheep development activity was started in 19th century; however, major emphasis was given after the establishment of Indian Council of Agricultural Research, New Delhi and launching of the Five-Year Plans. The hallmark was the establishment of Central Sheep and Wool Research Institute, Avikanagar (Rajasthan) in 1962. The All India Coordinated Projects on sheep breeding was launched in 1971 to evolve ideal breeds suitable for different agro-climatic conditions. A number of sheep strains/breeds e.g., Hissardale, Kashmir Merino, Nilgiri Synthetic, Bharat Merino, Avikalin, Avivastra, Avimaans, Patanwadi synthetic, etc have been evolved. In 1990, the Network Project on Sheep Improvement was initiated for survey, evaluation and improvement of indigenous sheep. Different breeds of sheep are being improved through selection. The role of crossbreeding for evolving new strains and performance of indigenous and crossbreds evolved in different environmental conditions of the country are reviewed. In some of the programmes, small population size was major inhibitor of genetic improvement. The success rate of some breeding programmes involving native breeds is encouraging.",
+	"xml:lang":"eng"
+	}
+	}}

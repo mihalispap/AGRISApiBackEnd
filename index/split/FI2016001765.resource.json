@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Dietary effects of zinc, copper and manganese chelates and sulphates on dairy cows /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kinal, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korniewicz, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jamroz, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zieminski, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stupczynska, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"vasikat"},
+	{"value":"kivennäisaineet"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"maito"},
+	{"value":"laatu"},
+	{"value":"cattle"},
+	{"value":"milk production"},
+	{"value":"calves"},
+	{"value":"nautakarja"},
+	{"value":"lehmät"},
+	{"value":"animal husbandry"},
+	{"value":"maidontuotanto"},
+	{"value":"milk"},
+	{"value":"quality"},
+	{"value":"mineral nutrients"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001765",
+	"dct:identifier":"FI2016001765",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

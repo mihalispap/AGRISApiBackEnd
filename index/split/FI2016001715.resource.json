@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Composition, digestibility and nutritive value of cereals for dogs /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kempe, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saastamoinen, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyyppä, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Smeds, Kurt.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rice"},
+	{"value":"dogs"},
+	{"value":"maize"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"kuivaruokinta"},
+	{"value":"nutritive value"},
+	{"value":"lemmikkieläimet"},
+	{"value":"cereals"},
+	{"value":"grain feed"},
+	{"value":"vilja"},
+	{"value":"kypsennys"},
+	{"value":"barley"},
+	{"value":"pet animals"},
+	{"value":"pet foods"},
+	{"value":"sulavuus"},
+	{"value":"digestibility"},
+	{"value":"ravintoarvo"},
+	{"value":"wheats"},
+	{"value":"oats"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001715",
+	"dct:identifier":"FI2016001715",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

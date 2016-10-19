@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"New, low estimate for carbon stock in global forest vegetation based on inventory data.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kauppi, Pekka E.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"global forest"},
+	{"value":"biomass"},
+	{"value":"hiili"},
+	{"value":"carbon cycle"},
+	{"value":"vegetation"},
+	{"value":"carbon stock"},
+	{"value":"metsäkasvillisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002114",
+	"dct:identifier":"FI2016002114",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

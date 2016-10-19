@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Konekapasiteetin mitoitus Suomen oloissa /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Laine, Arto.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"konekapasiteetti"},
+	{"value":"farm equipment"},
+	{"value":"finland"},
+	{"value":"mitoitus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001694",
+	"dct:identifier":"FI2016001694",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

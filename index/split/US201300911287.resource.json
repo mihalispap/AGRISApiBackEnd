@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of tropical maize hybrids under drought stress"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911287",
+	"dct:identifier":"US201300911287",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a25.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Oyekale, Kehinde O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Daniel, Isaac O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kamara, Alpha Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akintobi, Dupe C. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adegbite, Adegoke E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ajala, Michael O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The performances of plants and seedlings of 14 tropical-adapted, registered maize hybrids were evaluated under drought stress to assess genotype suitability for off-season planting and to identify parental materials for developing drought tolerant hybrids from locally adapted germplasm. Field evaluation was done at a rain forest location (Ikenne, Ogun State, Nigeria) on irrigated plots under well-watered and water-deficit conditions during the dry period of 2002/2003 cropping season. Data was collected on total biomass and grain yield. Drought stress tolerance index (DSTI) and harvest index (HI) were estimated from total biomass and grain yield data. Hybrids 2016-1 and 2016-6 had highest total biomass and grain yield under water deficit conditions as well as DSTI values above 0.9. Other hybrids with satisfactory performance in terms of biomass and grain yields under drought stress had DSTI values approximating 0.6 and above. From the seedling evaluation, correlation analysis of number of rolled seedling leaves with field stress tolerance indices was significant. Based on number of rolled leaves, hybrid 2016-6 had the least value, ranking it the most tolerant, but based on multiple seedling traits including seedling height, total seedling biomass, leaf chlorophyll content and leaf stay green ability (SGA), hybrids 9033- 26, 0103-11 and 9022-13 were high performers. All hybrids with satisfactory seedling performance also had DSTI values from the field evaluation that were approximately or above 0.6. The results emphasized the usefulness of DSTI as a useful index for determining drought stress and suggest that maize hybrids with DSTI values around 0.6 from field trials have potentials for satisfactory productivity under drought stress."}
+	}}

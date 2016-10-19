@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessing the recreational demand for agricultural land in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pouta, Eija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ovaskainen, Ville.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maaseutumatkailu"},
+	{"value":"maatalousympäristö"},
+	{"value":"ympäristö"},
+	{"value":"maisema"},
+	{"value":"rural areas"},
+	{"value":"luonto"},
+	{"value":"maatalous"},
+	{"value":"maatalousmaisema"},
+	{"value":"rural environment"},
+	{"value":"maaseutu"},
+	{"value":"recreation"},
+	{"value":"virkistyskäyttö"},
+	{"value":"demand"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002058",
+	"dct:identifier":"FI2016002058",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

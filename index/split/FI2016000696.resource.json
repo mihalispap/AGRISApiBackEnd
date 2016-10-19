@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Harvesting alternatives, accumulation and procurement cost of small-diameter thinning wood for fuel in Central Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Laitila, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heikkilä, Jani.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Anttila, Perttu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"resources"},
+	{"value":"ensiharvennus"},
+	{"value":"early thinnings"},
+	{"value":"delimbed stemwood"},
+	{"value":"harvesters"},
+	{"value":"biomass"},
+	{"value":"metsähake"},
+	{"value":"karsinta"},
+	{"value":"biomassa"},
+	{"value":"forest chips"},
+	{"value":"multi-tree-handling"},
+	{"value":"whole tree logging"},
+	{"value":"kokopuumenetelmä"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000696",
+	"dct:identifier":"FI2016000696",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

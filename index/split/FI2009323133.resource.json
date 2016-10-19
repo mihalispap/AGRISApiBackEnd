@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Phosphatase activity of Ultisols and relationship to soil fertility indices"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009323133",
+	"dct:identifier":"FI2009323133",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Senwo, Zachary N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ranatunga, Thilini D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tazisong, Irenus A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Taylor, Robert W. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"He, Zhongqi (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Information on phosphatase (acid and alkaline phosphomonoesterase; phosphodiesterase) activity of Alabama soils is necessary due to the limited supply of plant available-P in these soils. The present study was to generate information on three phosphatase enzymes (phosphodiesterase, acid and alkaline phosphomonesterase) activities in some Alabama Ultisols and to account for variations in these activities in terms of some soil physicochemical properties. Stepwise regression analysis revealed cation exchange capacity (CEC), soil organic matter (SOM), Fe, Mn and sand contents were the main significant soil properties which might be influencing acid phosphatase distribution, accounting for 26.9, 37.7, 52.4, 59.5, and 67.8% of the total variability, respectively, whereas pH, Fe and CEC significantly influenced alkaline phosphatase distribution accounting for 37.0, 54.8 and 59.4% of the total variability, respectively. Organic matter and pH significantly influenced phosphodiesterase distribution, accounting for 58.4 and 67.3%, respectively, of the total variability. These results suggest that soil properties may have influenced P availability through their effects on P-releasing enzymes."}
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Nordic forest professionals' values.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rekola, Mika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valkeapää, Annukka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rantala, Tapio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest professionals"},
+	{"value":"forest workers"},
+	{"value":"values"},
+	{"value":"arvot"},
+	{"value":"metsäala"},
+	{"value":"scandinavia"},
+	{"value":"ammattilaiset"},
+	{"value":"cognitive mapping"},
+	{"value":"foresters"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001147",
+	"dct:identifier":"FI2016001147",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

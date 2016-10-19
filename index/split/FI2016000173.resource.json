@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Vertical market integration and competition : the meat sector in Slovenia.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bojnec, Štefan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peter, Günter.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maataloustuotekauppa"},
+	{"value":"price policies"},
+	{"value":"Slovenia"},
+	{"value":"marketing"},
+	{"value":"markets"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"European union countries"},
+	{"value":"price formation"},
+	{"value":"Eastern Europe"},
+	{"value":"European union"},
+	{"value":"taloudelliset mallit"},
+	{"value":"meat production"},
+	{"value":"EU-maat"},
+	{"value":"integration"},
+	{"value":"meat"},
+	{"value":"hintapolitiikka"},
+	{"value":"prices"},
+	{"value":"liha-ala"},
+	{"value":"laajeneminen"},
+	{"value":"markkinat"},
+	{"value":"kilpailu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000173",
+	"dct:identifier":"FI2016000173",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

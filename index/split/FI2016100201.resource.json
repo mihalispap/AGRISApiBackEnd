@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/e10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Association between productivity, water use efficiency and gas exchange in a water-limited environment"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mokhtari, Faouzia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Elbadaoui, K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paul, R. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100201",
+	"dct:identifier":"FI2016100201",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The understanding of variations in the composition of stable carbon isotopes, within and between genotypes, could be useful for the evaluation and the prediction of various characteristics related to agronomical performances of cultivated plants and in particular, wheat. The goal of this present study was to describe the natural isotope composition (δ) of grains in four varieties of wheat in relation to water conditions. We have carried out a set of experiments on two varieties of tender wheat (Triticum aestivum L.) and two varieties of durum wheat (Triticum durum Desf ). The experiments were conducted in a greenhouse using an anti-transpirant film. The measurements were taken at the end of the development cycle, initially at the level of the leaves, for foliar transpiration. Then the stable carbon isotope composition (δ 13C) was measured in the grains. The δ values of grains at maturity and subject to water limitation showed the highest levels of 13C (-26‰) compared to the control (-28‰). The water use efficiency (WUE) was 23.3 + 0.73 δ13C obtained from two years of culture. Our results showed differences between the varieties of wheat, in terms of foliar transpiration, stomatal resistance, carbon isotope composition and WUE. The two varieties of durum wheat were characterised by significant differences in their reaction to water deficit. The Karim variety, which exhibited the least amount of transpiration in a water-deficit situation, showed the highest stomatal resistance. On the other hand, the Oum-Rabia variety demonstrated a reaction opposite to its Karim counterpart. With the tender varieties of wheat, the difference between the two varieties (Nasma and Achtar) studied were not significant; these varieties maintained stable stomatal behaviour during the entire development cycle."}
+	}}

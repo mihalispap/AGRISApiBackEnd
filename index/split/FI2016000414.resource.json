@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Using cost-plus-loss analysis to define optimal forest inventory interval and forest inventory accuracy.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mäkinen, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Annika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nurmi, Mikko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"value of information"},
+	{"value":"forecasting"},
+	{"value":"forest inventories"},
+	{"value":"prediction error"},
+	{"value":"inventory error"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000414",
+	"dct:identifier":"FI2016000414",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

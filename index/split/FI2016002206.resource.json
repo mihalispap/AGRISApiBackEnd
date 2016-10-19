@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/50881/16523",
+	"dct:title":{"value":"Competitiveness of Dairy Farms In Northern Europe : A Cross-Country analysis.",
+	"xml:lang":"   "
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jansik, Csaba,
+    kirjoittaja
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Irz, Xavier,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"indikaattorit"},
+	{"value":"dairy farms"},
+	{"value":"kilpailukyky"},
+	{"value":"maidontuotanto"},
+	{"value":"maatalousekonomia"},
+	{"value":"Northern Europe"},
+	{"value":"Europe"},
+	{"value":"efficiency"},
+	{"value":"indicators"},
+	{"value":"tuottavuus"},
+	{"value":"Baltic States"},
+	{"value":"milk production"},
+	{"value":"agricultural economics"},
+	{"value":"lypsykarjatilat"},
+	{"value":"input output analysis"},
+	{"value":"productivity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002206",
+	"dct:identifier":"FI2016002206",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

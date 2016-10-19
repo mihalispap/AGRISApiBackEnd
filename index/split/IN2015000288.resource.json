@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth hormone and regulation of reproduction and immune system",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1099,
+	"dc:subject":[
+		{"value":"hormonas pituitarias",
+	"xml:lang":"esp"
+	},
+	{"value":"immunity",
+	"xml:lang":"eng"
+	},
+	{"value":"lymphocytes",
+	"xml:lang":"eng"
+	},
+	{"value":"immunite",
+	"xml:lang":"fre"
+	},
+	{"value":"hormone hypophysaire",
+	"xml:lang":"fre"
+	},
+	{"value":"linfocitos",
+	"xml:lang":"esp"
+	},
+	{"value":"inmunidad",
+	"xml:lang":"esp"
+	},
+	{"value":"lymphocyte",
+	"xml:lang":"fre"
+	},
+	{"value":"pituitary hormones",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1112,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000288",
+	"dct:identifier":"IN2015000288",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rose, M.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Phogat, J.B."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"The primary control of reproduction is through gonadotropins and sex-steroid hormones. The emerging evidences suggest a vital role of growth hormone (GH) and immune system in the control of pituitary and gonadal functions. There is involvement of GH in all the reproductive processes. The immune system through autocrine and/or paracrine mechanisms regualte the interaction of GH in different reproductive proceses. The role of GH, its interaction with immune system and cytokines in the control of reproductive processes has been reviewed.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Effect of inclusion of citrus pulp inxaraés grass silage",
+	"xml:lang":"eng"
+	},
+	{"value":"   Efeito da inclusão de polpa cítrica na ensilagem de capim-xaraés ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"fibres",
+	"xml:lang":"eng"
+	},
+	{"value":"leaf meal",
+	"xml:lang":"eng"
+	},
+	{"value":"crude protein",
+	"xml:lang":"eng"
+	},
+	{"value":"chemical composition",
+	"xml:lang":"eng"
+	},
+	{"value":"additives",
+	"xml:lang":"eng"
+	},
+	{"value":"silage",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.4",
+	"bibo:doi":"10.17523/bia.v72n4p298",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00007",
+	"dct:identifier":"BR2016F00007",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n4p298",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"YASUOKA, J. I."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MEIRELLES,  P. R. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, M. G. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GRANUZZO, J. T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, M. P."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Objetivou-se neste trabalho avaliar o efeito da inclusão de níveis de polpa cítrica peletizada (PCP) na qualidade da silagem do capim-xaraés. O capim-xaraés foi ensilado aos 54 dias de crescimento com níveis de 0, 10, 20 e 30% de PCP, divididos em 20 silos experimentais (cinco repetições/tratamento), sendo adotado delineamento experimental inteiramente casualizado. Após 67 dias, os silos foram abertos para determinação dos teores de matéria seca (MS), proteína bruta (PB), fibra em detergente neutro (FDN), fibra em detergente ácido (FDA), pH e acidez titulável (ATIT) das silagens. A inclusão de PCP não influenciou os teores de matéria seca, porém diminuiu os teores de PB. Os teores de FDN e FDA diminuíram à medida que houve adição de polpa cítrica. Com relação ao pH, apenas o tratamento com 30% de PCP apresentou diferença significativa. A ATIT na silagem sem uso (0%) da PCP apresentou valor menor (P",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to evaluate the effect of inclusion of different levels of pelleted citrus pulp (PCP) on the quality of xaraés grass silage. Xaraés grass was ensiled at 54 days of growth with 0, 10, 20 and 30% PCP and divided into 20 experimental silos (five repetitions/treatment). A completely randomized design was adopted. The silos were opened after 67 days for the determination of dry matter (DM), crude protein (CP), neutral detergent fiber (NDF), acid detergent fiber (ADF), pH, and titratable acidity of the silages. The inclusion of PCP did not influence DM content, but reduced CP content. NDF and ADF content decreased with the addition of citrus pulp. Regarding pH, a significant difference was only observed for the inclusion of 30% PCP. Titratable acidity in the silage was lower in the absence of PCP (0%) compared to the treatment with 30% (P",
+	"xml:lang":"eng"
+	}
+	]
+	}}

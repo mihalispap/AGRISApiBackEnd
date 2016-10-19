@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil and soil-water chemistry below different amounts of logging residues at two harvested forest sites in Sweden.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"havupuut"},
+	{"value":"päätehakkuu"},
+	{"value":"hakkuut"},
+	{"value":"soil solution"},
+	{"value":"biopolttoaineet"},
+	{"value":"biofuels"},
+	{"value":"ravinteet"},
+	{"value":"Pinophyta"},
+	{"value":"clear felling"},
+	{"value":"energiapuu"}
+	],
+	"bibo:doi":"10.14214/sf.1265",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000795",
+	"dct:identifier":"FI2016000795",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1265",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ring, Eva,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Högbom, Lars,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nohrstedt, Hans-Örjan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jacobson, Staffan,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1019",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Henke, Michael,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huckemann, Stephan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kurth, Winfried,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sloboda, Branislav,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Reconstructing leaf growth based on non-destructive digitizing and low-parametric shape evolution for plant modelling over a growth cycle.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"data collection"},
+	{"value":"mallintaminen"},
+	{"value":"reusable modules"},
+	{"value":"automated data extraction"},
+	{"value":"leaf shape modelling"},
+	{"value":"kasvu"},
+	{"value":"image processing"},
+	{"value":"image processing tool"},
+	{"value":"Populus x canadensis"},
+	{"value":"growth models"},
+	{"value":"non-destructive data acquisition"},
+	{"value":"lehti"},
+	{"value":"Populus Canadensis-Ryhmä"}
+	],
+	"bibo:doi":"10.14214/sf.1019",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000144",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000144",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"CARACTERIZAÇÃO DE ISOLADOS DE Fusarium oxysporum f. sp. cubense (Foc) QUANTO À COMPATIBILIDADE VEGETATIVA E À PATOGENICIDADE EM CULTIVARES DE BANANEIRA DIFERENCIADORAS DE RAÇAS NO BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":60,
+	"bibo:volume":4,
+	"bibo:pageEnd":65,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00172",
+	"dct:identifier":"BR2015N00172",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1122",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jurema do Socorro Azevedo Dias"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mário Sobral de Abreu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mário Lúcio Vilela de Resende"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Centro de Pesquisa Agroflorestal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Lavras"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Mal-do-Panamá, é causada por Fusarium oxysporum f. sp. cubense, patógeno altamente variável. Diversas técnicas analíticas têm sido utilizadas para se estudar a variabilidade de suas populações em diversos países. Grupos de compatibilidade vegetativa (VCG), são utilizados para identificar grupos sub-específicos, dentro de populações de F. oxysporum. Assim como a forma mais simples de determinação de raças do patógeno ocorre mediante o uso de variedades indicadoras, na seleção ao mal-do-Panamá:  Gros Michel, Raça 1; Bluggoe, Raça 2; e Cultivares Cavendish, Raça 4. Neste sentido, objetivou-se: 1. Determinar grupos de compatibilidade vegetativa (VCG); 2. Determinar as raças do patógeno através do teste de patogenicidade em cultivares diferenciadoras de bananeira; 3. Agrupar as raças nos respectivos VCGs; e, ainda correlacionar estes VCGs com a origem geográfica. A análise genética, foi feita com base na técnica de UPGMA, utilizando-se o coeficiente de similaridade de Jaccard. Os isolados das Regiões Nordeste e Sudeste do Brasil, foram agrupados no VCG 1 e os da Região Norte, no VCG 2. Determinou-se a presença da raça 1, através de sua patogenicidade em Gros Michel e da raça 4, em Grande Naine (Grupo Cavendish). E, ambas foram agrupadas dentro dos mesmos VCGs, embora de origens geográficas diferentes.",
+	"xml:lang":"por"
+	}
+	}}

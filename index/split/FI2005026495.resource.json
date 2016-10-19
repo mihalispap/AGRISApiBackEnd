@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Dry matter partitioning and plant development as function of environmental factors in wheat (Triticum aestivum L.) cv. Avalon"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026495",
+	"dct:identifier":"FI2005026495",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a13.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"B. Laghari, Karim (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Munir, Muhammad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"F. Farrar, John (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"N. Mahar, Ali (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Dry matter partitioning in shoots and roots increased by high light intensity (400 µmol m-2 s-1) and low temperature (15°C) whereas the shoot:root ratio increased with low light intensity (110 µmol m-2 s-1) and decreased with low nitrogen concentration (0.6 mM) and was similar at 15 and 20°C in this study. Plants received high light intensity (400 µmol m-2 s-1) increased fully expanded leaves on main stem, number of tillers and number of fully expanded leaves on tillers whereas high temperature (20°C) accelerated the rate of development of fully expanded leaves on main stem. Both high nitrogen (6 mM) and low temperature (15°C) treatments increased the development of number of tillers and number of leaves on tillers. Similarly, low nitrogen concentration (0.6 mM) increased the amount of sucrose in shoot and root. The relationship of shoot dry weight to different parameters showed that high light (400 µmol m-2 s-1), nitrogen (6 mM) and temperature (20°C) significantly shortened the growth and developmental processes as compared to low level of these environmental factors."}
+	}}

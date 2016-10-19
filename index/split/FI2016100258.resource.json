@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of seawater salinity on salt accumulation and barley (Hordeum vulgare L.) growth under different meteorological conditions"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Busaidi, Ahmed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yamamoto, Tahei (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Inoue, Mitsuhiro (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Irshad, Muhammad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mori, Yasushi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tanaka, Satoshi (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100258",
+	"dct:identifier":"FI2016100258",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Water uptake by plants and evaporation from the soil surface usually govern the salts dynamics in the soil and is highly related to the climatic conditions. Poor management of saline water may increase the soil salinity to a level higher than crop tolerance. The comparative investigations of saline water effects on soil and crops under various environments are lacking. Therefore pot experiments were carried out to evaluate the effects of saline irrigations on barley and accumulation of salts in sand dune soil under three conditions - glasshouse, growth chamber and greenhouse. Plants were irrigated with diluted seawater adjusted to three levels of electrical conductivity: 3, 8 and 13 dS m-1. The results of the experiments showed that saline waters and experimental conditions remarkably affected the evapotranspiration rate, soil moisture, salt accumulation and plant biomass production. Low temperature conditions exhibited highest plant growth and soil moisture and lowest salt deposition. Plants showed no symptoms of salt stress in the glasshouse. Growth chamber and greenhouse profoundly reduced plant biomass and higher salt accumulation in the soil. Higher stress of salinity was noticed in plants irrigated with high saline water. Higher amount of salts in the water impaired dry shoot yield by an average of 60%. The temperature conditions of greenhouse and growth chamber caused substantial water loss and induced water deficit situation in plants. A good management of saline water is a necessary option for a sustainable agriculture in salt affected soils. The use of high saline water for crops may carefully be rationalized in the warm climate."}
+	}}

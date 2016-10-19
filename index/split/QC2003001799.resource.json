@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Corn yield response to saline irrigation water applied with a trickle system"},
+	"rdf:about":"http://agris.fao.org/aos/records/QC2003001799",
+	"dct:identifier":"QC2003001799",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10631"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/s_782"}
+	},
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-39.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yazar, Attila (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gençel, Burçin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sezen, Metin S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A field experiment was carried out to evaluate the corn yield and yield loss, water use efficiency in relation to the salt concentration level of irrigation water applied with trickle system in the Mediterranean Region of Turkey. Saline irrigation water with ECw of 3.0, 6.0, 9.0, and 12.0 dS/m along with canal water of 0.5 dS/m was used. In addition, three treatments were included in the study by applying 10% leaching fraction to 0.5, 6.0, and 12.0 dS/m treatments after flowering. There was no significant difference in corn grain yields among the treatments studied as indicated by the variance analysis. Highest yield averaging 8875 kgha-1 was obtained from the treatment plots irrigated with canal water. Generally, profile salt concentration increased with increasing salinity of irrigation water used. Higher salt concentration in the top layer was due to higher evaporation rate from the wetted surface. The general salt distribution profile at saline irrigation water treatments followed the typical water distribution under trickle irrigation (bulb shape) with maximum ECe was at the soil surface. Applying a leaching fraction of 10% after flowering did not affect the profile salt distribution significantly in treatments. There were no significant differences in dry matter production levels, WUE, IWUE, 1000-grain weight, and HI among the salinity treatments. Saline irrigation water can be used for irrigating corn crop when applied with trickle system."}
+	}}

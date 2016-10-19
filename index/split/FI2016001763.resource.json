@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"N and K nutrition levels affect growth and essential oil content of costmary (Tanacetum balsamita L.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hassanpouraghdam, M. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tabatabaie, S. J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nazemiyeh, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aflatuni, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"essential oil crops"},
+	{"value":"potassium"},
+	{"value":"Tanacetum"},
+	{"value":"leaves"},
+	{"value":"fertilizer application"},
+	{"value":"nitrogen"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001763",
+	"dct:identifier":"FI2016001763",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Heat treatment of milk : an overview of some effects of heat treatment on milk components.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Vegarud, Gerd Elisabeth.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"milk protein"},
+	{"value":"sokerit"},
+	{"value":"elintarviketekniikka"},
+	{"value":"laktoosi"},
+	{"value":"heat treatment"},
+	{"value":"valkuaisaineet"},
+	{"value":"lämpökäsittely"},
+	{"value":"maito"},
+	{"value":"lactose"},
+	{"value":"cow milk"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF/NMR-seminar
+    (252 :
+    1995 :
+    Turku)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001208",
+	"dct:identifier":"FI2016001208",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

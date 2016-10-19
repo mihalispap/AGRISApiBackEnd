@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Socio-economic correlates and determinants of cashew productivity:An analysis of Dakshina Kannada district",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":215,
+	"dc:subject":[
+		{"value":"SOCIO-ECONOMIC"},
+	{"value":"productividad",
+	"xml:lang":"esp"
+	},
+	{"value":"productivite",
+	"xml:lang":"fre"
+	},
+	{"value":"cashews",
+	"xml:lang":"eng"
+	},
+	{"value":"productivity",
+	"xml:lang":"eng"
+	},
+	{"value":"anacardo",
+	"xml:lang":"esp"
+	},
+	{"value":"karnataka",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de cajou",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":222,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000820",
+	"dct:identifier":"IN2015000820",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sajeev, M.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saroj, P.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lakshmisha, R."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

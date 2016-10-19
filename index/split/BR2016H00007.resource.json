@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:title":{"value":"QUALIDADE DA ÁGUA DO CÓRREGO DO CEDRO PARA FINS DE IRRIGAÇÃO DE ALIMENTOS “IN-NATURA”",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":52,
+	"bibo:volume":1,
+	"bibo:pageEnd":63,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00007",
+	"dct:identifier":"BR2016H00007",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/242",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Cleiton Dalastra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fernando Braz Tangerino Hernandez"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gustavo Cavalari Barboza"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carolina Rocha Sonego"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A água tem papel vital como elemento mantenedor da vida terrestre; essencial para a sobrevivência humana e essencial na produção de alimentos. O avanço da urbanização tem comprometido o equilíbrio ecológico do ambiente principalmente no ...",
+	"xml:lang":"por"
+	}
+	}}

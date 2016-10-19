@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Cold acclimation of Norway spruce roots and shoots after boron fertilization.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Räisänen, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Repo, Tapani.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lehto, Tarja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"kivennäisaineet"},
+	{"value":"jäätyminen"},
+	{"value":"metsäkuolemat"},
+	{"value":"freezing"},
+	{"value":"boori"},
+	{"value":"kylmänkestävyys"},
+	{"value":"forest decline"},
+	{"value":"nutrition"},
+	{"value":"cold tolerance"},
+	{"value":"fertilization"},
+	{"value":"freezing tolerance"},
+	{"value":"dieback"},
+	{"value":"lannoitus"},
+	{"value":"boron deficiency"},
+	{"value":"ravinteet"},
+	{"value":"boron"},
+	{"value":"Picea abies"},
+	{"value":"mineral nutrients"},
+	{"value":"mineral nutrition"},
+	{"value":"kasvinravinteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001810",
+	"dct:identifier":"FI2016001810",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

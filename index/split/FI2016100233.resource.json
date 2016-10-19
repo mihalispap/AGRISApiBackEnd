@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-21.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Organic vis-a-vis polyethylene mulch to boost up productivity of irrigated post-rainy season groundnut in India"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ghosh, P.K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dayal, Devi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bandyopadhyay, K.K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manna, M.C. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100233",
+	"dct:identifier":"FI2016100233",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In a 8-year field study on mulches viz; chopped wheat straw at 5 t/ha and black polyethylene sheet (guage, 50 micron) it was revealed that application of wheat straw as a mulch increased pod yield by 19.4% compared with no mulch. However, no beneficial effect of polythene was observed in pod yield of groundnut. The increase in pod yield due to wheat straw mulch was evident from increase in availability of soil moisture, and nutrients besides favourable soil temperature regime throughout the crop growth period. In case of polythene mulch, though it increased germination and early crop growth due to increase in soil temperature, it affected pod and seed development, thus, it could not sustain the beneficial effect on crop yield."}
+	}}

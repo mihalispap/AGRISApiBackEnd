@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Vibiro parahaemolyticus- an emerging foodborne pathogen",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":48,
+	"dc:subject":[
+		{"value":"gram negative bacteria",
+	"xml:lang":"eng"
+	},
+	{"value":"bacteria gram negativa",
+	"xml:lang":"esp"
+	},
+	{"value":"vibrio parahaemolyticus",
+	"xml:lang":"esp"
+	},
+	{"value":"maladie transmissible par aliment",
+	"xml:lang":"fre"
+	},
+	{"value":"enfermedades transm por alimentos",
+	"xml:lang":"esp"
+	},
+	{"value":"foodborne diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"bacterie gram negatif",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":5,
+	"bibo:pageEnd":62,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000409",
+	"dct:identifier":"IN2015000409",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_9a9655b4"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Veterinary World (India)"},
+	"bibo:ISSN":{"value":"0972-8988"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nelapati, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nelapati, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chinnam, B.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Vibiro parahaemolyticus is a halophilic gram negative, motile, oxidase positive, straight or curved rod-shaped, facultative anaerobic bacteria that occur naturally in the marine environment. They form part of the indigenous microflora of aquatic habitats of various salinity and are the major causative agents for some of the most serious diseases in fish, shellfish and penacid shrimp. This human pathogen causes acute gastroenteritis characterized by diarrhea, vomiting and abdominal cramps through consumption of contaminated raw fish or shellfish. V. parahaemolyticus is the leading cause of gastroenteritis due to the consumption of seafood worldwide. The incidence of V. parahaemolyticus infection has been increasing in many parts of the world, due to the emergence of O3 :K6  serotype carrying the tdh gene which is responsible for most outbreaks worldwide. The pathogenicity of  this organism is closely correlated with the Kanagawa phenomenon (KP +) due to production of Kanagawa hemolysin or the thermostable direct hemolysin (TDH). The TDH and TRH (TDH-related hemolysin) encoded by tdh and trh genes are considered to be important virulence factors.",
+	"xml:lang":"eng"
+	}
+	}}

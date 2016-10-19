@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Prenatal development of membranous viscerocranium in buffalo",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":28,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"embryonic development",
+	"xml:lang":"eng"
+	},
+	{"value":"desarrollo embrionario",
+	"xml:lang":"esp"
+	},
+	{"value":"developpement embryonnaire",
+	"xml:lang":"fre"
+	},
+	{"value":"periode perinatale",
+	"xml:lang":"fre"
+	},
+	{"value":"periodo perinatal",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"perinatal period",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":29,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000451",
+	"dct:identifier":"IN2015000451",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lakshmi, M Santhi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandrasekhara Rao , T.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajalakshmi, K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present work was undertaken on Buffalo embryos (509) and fetuses starting from 26 days to 310 days to study the development of different bones forming the membranous viscerocranium. The ossification of skull was first appeared in mandible, maxilla and malar at 45 days. Early ossification of lacrimal, squamous temporal and tympanic ring was evident at 49 days. The ossification of palatine was first observed at 53 days while premaxilla and vomer showed ossification at 56 days. Early ossification of nasal bone was observed at 61 days. The vomer was in contact with the floor of the nasal cavity throughout separating two posterior nares completely.",
+	"xml:lang":"eng"
+	}
+	}}

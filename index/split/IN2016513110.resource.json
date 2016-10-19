@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"Oxidation of Reduced Inorganic Sulphuric Compounds in Simulated Desulphurization Wastewater by Thiobacillus Thioparus",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"oxidation",
+	"xml:lang":"eng"
+	},
+	{"value":"wastewater",
+	"xml:lang":"eng"
+	},
+	{"value":"bacteria",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513110",
+	"dct:identifier":"IN2016513110",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=24",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dong  Yingbo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lin Hai"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper is aimed to investigate the oxidation ability of the bacteria (Thiobacillus thioparus, Z-2) and the biological oxidation mechanism and oxidation kinetics on the reduced inorganic sulphuric compounds in sodium-process desulphurization wastewater. Results showed that the Z-2 bacteria have high oxidation activity in the high-salt environment after acclimation, and the oxidation percentage of reduced inorganic sulphuric compounds reached 95% and the chemical oxygen demand (COD) reduced from 18000mg/L to 2000 mg/L in the high-salt environment. This showed that the Z-2 bacteria have strong salt resistance and high oxidation activity. In addition, ion chromatography analysis confirmed that Z-2 bacteria were beneficial for the oxidation of reduced sulphur. A biological oxidation model was constructed by measuring the enzyme activity of the oxidation process. The results indicated that direct and indirect oxidation processes were both involved in biological oxidation. The kinetic parameters of Vmax (21.38 µM/min) and Km (79.04 µM) were obtained through biological oxidation kinetic experiments.",
+	"xml:lang":"eng"
+	}
+	}}

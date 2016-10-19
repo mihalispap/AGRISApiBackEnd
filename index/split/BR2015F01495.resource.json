@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Economic indicators of semi-confinement dairy production systems with high daily production",
+	"xml:lang":"eng"
+	},
+	{"value":"   Indicadores econômicos da atividade leiteira em regime de semiconfinamento com alta produção diária ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"production costs",
+	"xml:lang":"eng"
+	},
+	{"value":"profitability",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"68/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01495",
+	"dct:identifier":"BR2015F01495",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2011-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1340910193.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"LOPES,  M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS,  G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CARVALHO, F. M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this research was to estimate some economic indicators of dairy farms with high daily production volume, under a semi-confinement system, located in the State of Minas Gerais. We also intended to identify the components that exercised higher influence on the effective operational cost. The data from milk three production systems were used, with crossbred cows (3/4 to 15/16 Holstein-Gir). The total and operational cost methodology were used for the production cost in the profitability analysis. Once it presented negative gross margin, one of the systems is being decapitalized and accumulating debt, because the revenues earned were not enough to pay, at least, the effective operating expenses. The other production systems presented positive gross and net margins and result, indicating economical viability and production conditions over the short, medium and long term, with consequent capitalization of the cattle farmer. The component items of the effective operational cost that exercised higher impact related to the effective operational cost were, in decreasing order: feeding, rearing and fattening, labor, miscellaneous expenses, sanitation, energy, milking, reproduction, machine rental, BST and taxes.",
+	"xml:lang":"eng"
+	},
+	{"value":"Objetivou-se com esta pesquisa estimar alguns indicadores econômicos de fazendas leiteiras com alto volume de produção diária, em regime de semiconfinamento, localizadas no estado de Minas Gerais. Pretendeu-se, ainda, identificar os componentes que exerceram maior influência sobre o custo operacional efetivo. Foram utilizados os dados de três sistemas de produção de leite, com matrizes mestiças (3/4 a 15/16 Holandês-gir). Utilizou-se a metodologia do custo total e custo operacional na análise de rentabilidade. Por apresentarem margem bruta, líquida e resultado negativos, um dos sistemas de produção não tem condições de sobreviver no curto prazo e está sendo subsidiado por outra atividade. Os demais sistemas de produção apresentaram margem bruta, líquida e resultado positivos, mostrando ter viabilidade econômica e condições de produzir no curto, médio e longo prazo. Os itens componentes do custo operacional efetivo que exerceram maiores \"impactos\" em relação ao custo foram, em ordem decrescente, a alimentação, mão-de-obra, despesas diversas, sanidade, energia, ordenha, reprodução, aluguel de máquinas, BST e impostos.",
+	"xml:lang":"por"
+	}
+	]
+	}}

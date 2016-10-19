@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Equilibrium curves and growth models to deal with forests in transition to uneven-aged structure : application in two sample stands.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Sterba, Hubert.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"runkoluku"},
+	{"value":"stem number distribution"},
+	{"value":"jakaumat"},
+	{"value":"uneven aged stands"},
+	{"value":"stems"},
+	{"value":"transformation"},
+	{"value":"eri-ikäiset metsiköt"},
+	{"value":"growth"},
+	{"value":"kasvumallit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001428",
+	"dct:identifier":"FI2016001428",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

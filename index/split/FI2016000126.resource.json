@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Afforestation of marginal agricultural land in the lower Mississippi river Alluvial Valley,U.S.A.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Stanturf, John A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schweitzer, Callie J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gardiner, Emile S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hardwood"},
+	{"value":"lehtipuut"},
+	{"value":"Fraxinus pennysylvanica"},
+	{"value":"istutus"},
+	{"value":"bottomland soils"},
+	{"value":"maatalousmaa"},
+	{"value":"sowing"},
+	{"value":"pistokkaat"},
+	{"value":"Quercus nuttallii"},
+	{"value":"metsitys"},
+	{"value":"kylvö"},
+	{"value":"Populus deltoides"},
+	{"value":"Quercus nigra"},
+	{"value":"Liquidambar styraciflua"},
+	{"value":"Fraxinus pennsylvanica"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000126",
+	"dct:identifier":"FI2016000126",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

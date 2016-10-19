@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of the relative vegetation index for growth estimation in quinoa (Chenopodium quinoa Willd.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jacobsen, S.-E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jensen, C. R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pedersen, H.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dry matter content"},
+	{"value":"sato"},
+	{"value":"vegetation index"},
+	{"value":"kasvu"},
+	{"value":"lannoitus"},
+	{"value":"Chenopodium quinoa"},
+	{"value":"crop yield"},
+	{"value":"nitrogen fertilizers"},
+	{"value":"leaf area index"},
+	{"value":"typpilannoitus"},
+	{"value":"growth"},
+	{"value":"kuiva-aine"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000786",
+	"dct:identifier":"FI2016000786",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

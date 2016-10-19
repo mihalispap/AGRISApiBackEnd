@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Macroeconomic policy and water pricing impacts on the water consumption: The case of Jordan"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Zu’bi, Yasin A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zyuod, Abd AlNasser (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Zu’bi, Jarrah M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100333",
+	"dct:identifier":"FI2016100333",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Jordan is highly vulnerable to external shocks and regional fluctuations. Moreover, it suffers from limited financial and natural resources. Policy reform programs have been initiated for the transformation from an inward oriented economy, with extensive government intervention, into a more market based economy that targets an outward oriented growth. High levels of unemployment usually intensify the problems of poverty; therefore, one of the main goals of the reform programs adopted by the government since the beginning of the 1990s has been to reduce the unemployment rate. The water, agriculture and related sectors were part of the reform process adopted in Jordan. Among the factors determining the amount of water use and consumption is the level of economic activity and household incomes. To compare the current situation, as a result of the water tariff increase, we calculated the percentages of subscribers, water revenues and consumption for different blocks using a sample data on 4000 water subscribers in Al-Fohaise area. It was concluded that the impact of economic policy on water sector takes three forms; the first set of benefits comes from macroeconomic policy and the transformation of the Jordanian economy. The second type of impact is of a direct nature since it refers to the government reform measures tailored to the water sector or water related sectors such as agriculture and electricity. Finally, the water sector has been influenced by bilateral and multilateral trade agreements concluded by the government. Also, water prices can be powerful incentives for water conservation, especially where prices are minimally subsidized and market-driven."}
+	}}

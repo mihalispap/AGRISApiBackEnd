@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Selenium concentration dependence on soil properties"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903871",
+	"dct:identifier":"US201300903871",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/e4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Antanaitis, Antanas (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lubyte, Jadvyga (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Antanaitis, Sarunas (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Staugaitis, Gediminas (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Viskelis, Pranas (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"More than 600 soil samples were collected from Luvisols and Cambisols in Lithuania, which represent the dominant types of soil in the southeastern part of the Baltic region. The content of nitric acid–soluble selenium in soil samples was within the range of 0.075-0.427 mg kg-1 and water-soluble selenium 0.029-0.053 mg kg-1. The content of nitric acid–soluble selenium in 84.2% of soil samples taken from the 0-20 cm layer of soil was within the range of 0.100-0.300 mg kg-1. Selenium content in the soil depended on soil texture, pH, exchangeable bases and content of plant available potassium. An average content of selenium in sandy loam soil samples taken from the 0-20 cm soil layer was 0.144 mg kg-1, in light loam soils 0.160 mg kg-1 and in medium loam and clay loam soils 0.228 mg kg-1; pH value of all these samples was within the range of 6.1-7.0. The same regularities apply for selenium content in soil samples taken from 20-40 cm soil layer. Peat soils contained larger amounts of selenium. With soil pH approaching 7.0, the content of nitric acid-soluble selenium also increased. The relationship between total absorbed bases in the soil and the selenium content was determined. Soils with larger amounts of plant-available potassium contained larger amounts of nitric acid-soluble selenium. The relationship between plant-available phosphorus and mobile selenium content in soil was not established."}
+	}}

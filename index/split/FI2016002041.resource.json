@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Long-term effects of precommercial thinning on the stem dimensions, form and branch characteristics of red spruce and balsam fir crop trees in Maine, USA.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Weiskittel, Aaron R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kenefic, Laura S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Seymour, Robert S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Phillips, Leah M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ensiharvennus"},
+	{"value":"yields"},
+	{"value":"thinning"},
+	{"value":"Acacian Forest"},
+	{"value":"palsamipihta"},
+	{"value":"punakuusi"},
+	{"value":"precommercial felling"},
+	{"value":"harvennus"},
+	{"value":"tuotos"},
+	{"value":"Picea rubens"},
+	{"value":"kasvu"},
+	{"value":"Abies balsamea"},
+	{"value":"growth and yield"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002041",
+	"dct:identifier":"FI2016002041",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

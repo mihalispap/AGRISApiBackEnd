@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro effect of condensed tannins from tropical fodder crops against eggs and larvae of the nematode Haemonchus contortus /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    López, J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ibarra, O. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cantó, G. J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vásquez, C. G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tejada, Z. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shimada, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tannins"},
+	{"value":"munat"},
+	{"value":"toukat"},
+	{"value":"eggs"},
+	{"value":"larvae"},
+	{"value":"ankeroiset"},
+	{"value":"Anthelmintics"},
+	{"value":"tanniinit"},
+	{"value":"feed crops"},
+	{"value":"rehukasvit"},
+	{"value":"Haemonchus contortus"},
+	{"value":"Nematoda"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001412",
+	"dct:identifier":"FI2016001412",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

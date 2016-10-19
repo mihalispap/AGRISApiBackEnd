@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Specific primers for the differentiation of Heterobasidion annosum (s.str.) and H. parviporum infected stumps in northern Europe.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hantula, Jarkko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vainio, Eeva.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"root rots"},
+	{"value":"Heterobasidion parviporum"},
+	{"value":"Pinus sylvestris"},
+	{"value":"identification"},
+	{"value":"molekyylipitoiset tunnistusjärjestelmät"},
+	{"value":"kuusenjuurikääpä"},
+	{"value":"männynjuurikääpä"},
+	{"value":"Picea abies"},
+	{"value":"Heterobasidion annosum"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000774",
+	"dct:identifier":"FI2016000774",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

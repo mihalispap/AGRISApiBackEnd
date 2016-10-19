@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Ingestive behavior and in vivo digestibility of goats fed green coconut copra",
+	"xml:lang":"eng"
+	},
+	{"value":"   Comportamento ingestivo e digestibilidade in vivo de caprinos alimentados com copra de coco verde ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"lipids",
+	"xml:lang":"eng"
+	},
+	{"value":"feeding behaviour",
+	"xml:lang":"eng"
+	},
+	{"value":"ruminants",
+	"xml:lang":"eng"
+	},
+	{"value":"byproducts",
+	"xml:lang":"eng"
+	},
+	{"value":"cocos nucifera",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p24",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00017",
+	"dct:identifier":"BR2016F00017",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p24",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SIQUEIRA, J. O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"QUEIROZ, M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CHIZZOTTI, M. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LISBOA NETO, A. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MACHADO, E. K. C."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The introduction of new feeds in ruminant nutrition is essential to maximize performance and to minimize production costs",
+	"xml:lang":"eng"
+	},
+	{"value":"Introduzir novos alimentos na nutrição de ruminantes é essencial para maximizar desempenho e minimizar custo produtivo, entretanto, isso só é possível após se conhecer o comportamento alimentar e a disponibilidade dos seus nutrientes. Com o objetivo de avaliar o comportamento ingestivo e a digestibilidade in vivo de caprinos alimentados com níveis crescentes (0%, 2%, 4% e 7%) de copra extraída do coco verde, foram utilizados vinte caprinos machos, sem raça definida, distribuídos em delineamento inteiramente casualizado. A adição de níveis crescentes de copra de coco teve efeito quadrático no consumo de matéria seca, e no tempo diário de ruminação. Foi verificado efeito linear crescente para o tempo de ruminação de matéria seca e fibra em detergente neutro. Não houve efeito (P>0,05) nas digestibilidades aparente da matéria seca, da matéria orgânica, da fibra em detergente neutro, da fibra em detergente ácido e dos carboidratos não fibrosos, e também no consumo de carboidratos não fibrosos digestíveis, na digestibilidade aparente da hemicelulose e dos nutrientes digestíveis totais. Para a digestibilidade aparente do extrato etéreo foi verificado efeito quadrático dos níveis crescentes de inclusão de copra, enquanto que para consumo de fibra em detergente neutro digestível, digestibilidade aparente da proteína bruta, consumo de proteína bruta digestível e consumo de extrato etéreo digestível foi verificado efeito (P"},
+	{"value":"however, this is only possible after knowing the feeding behavior of the animals and nutrient availability. The objective of this study was to evaluate the ingestive behavior and in vivo digestibility of goats fed increasing levels (0%, 2%, 4%, and 7%) of copra extracted from green coconuts. Twenty male goats of undefined breed were allocated in a completely randomized design. The addition of increasing levels of coconut copra had a quadratic effect on dry matter intake and daily rumination time. An increasing linear effect was observed for rumination time of dry matter and neutral detergent fiber. There was no effect (P>0.05) on the apparent digestibility of dry matter, organic matter, neutral detergent fiber, acid detergent fiber, or non-fibrous carbohydrates. The digestible non-fibrous carbohydrate intake or apparent digestibility of hemicellulose and total digestible nutrients was also not affected. A quadratic effect of increasing inclusion levels of copra was observed for apparent ether extract digestibility, while the increasing inclusion of copra had a decreasing linear effect (P",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Analogous effect of preheating on chilling sensitivity of mung bean seedlings and membrane viscosity to effects of ABA and uniconazole treatments"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chucheep, Kamonwan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kanlayanarat, Sirichai (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Matsuo, Tomoaki (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100030",
+	"dct:identifier":"FI2016100030",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Many plants of tropical and subtropical origin are susceptible to chilling injury after exposure to nonfreezing temperatures below 12°C. Proper treatments with preheating, ABA and uniconazole have frequently been known to alter the chilling sensitivity of several fruits and vegetables during cold storage. Investigation of a factor(s) which increases during preheating and causes a modification in the chilling sensitivity of mung bean (Vignaradiata L.) seedlings was carried out in this study. Keeping mung bean seedlings at 4°C for more than 3 days prevented successive hypocotyl growth and caused hypocotyl wilting and browning at the site of hypocotyls. Three hours and 6 h of preheating the seedlings at 40°C effectively improved the chilling damage compared with the control seedlings (4°C for 5 d in the dark). Application of preheating at 40°C for 6 h reduced the rate of ion leakage from the seedlings segments remarkably, in contrast to untreated ones. Both the chemicals, ABA and uniconazole, also suppressed ion leakage from the segments remarkably. Maintenance of high cell viability in the preheated seedlings was observed compared with the control seedlings. Membrane viscosity measured with the fluorescence spectrophotometer, using 1,6-diphenyl-1,3,5-hexatriene (DPH) as a probe for monitoring the relative fluidity of the isolated cytoplasmic membrane, showed that at the lower temperatures, preheating and two plant growth regulators, ABA and uniconazole, induced changes in membrane fluidity, as compared with the control. This modification of membrane fluidity is suggested to be related to a protein stabilizer(s). There was no difference observed among protein profiles in SDS-PAGE of the proteins extracted from membrane fractions. Therefore, the interaction of heat shock-induced proteins with cytoplasmic membranes may be very sensitive under conditions of SDS-PAGE."}
+	}}

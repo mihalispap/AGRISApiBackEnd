@@ -1,0 +1,79 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/8431/10222",
+	"dct:language":"eng",
+	"dct:title":{"value":"Agronomic characteristics and phytochemical profiles of advanced June-bearing strawberry lines for the northern Canadian climate.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Xie, Zhichun,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fan, Jinshuan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Charlebois, Denis,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Roussel, Dominique,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dubé, Claudine,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Charles, Marie Thérèse,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khanizadeh, Shahrokh,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soft fruits"},
+	{"value":"crop yield"},
+	{"value":"Fragaria ananassa"},
+	{"value":"plant breeding"},
+	{"value":"kasvinjalostus"},
+	{"value":"selection"},
+	{"value":"sato"},
+	{"value":"antioxidants"},
+	{"value":"phenolic content"},
+	{"value":"Canada"},
+	{"value":"antioksidantit"},
+	{"value":"puutarhamansikka"},
+	{"value":"strawberries"},
+	{"value":"mansikat"},
+	{"value":"phenolic compounds"},
+	{"value":"genotypes"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"fenolit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000990",
+	"dct:identifier":"FI2016000990",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

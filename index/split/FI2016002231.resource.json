@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The probability of moose damage at the stand level in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Jalkanen, Anneli.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"elks"},
+	{"value":"Finland"},
+	{"value":"forest inventories"},
+	{"value":"ikärakenne"},
+	{"value":"puulajikoostumus"},
+	{"value":"browsing damage"},
+	{"value":"risk"},
+	{"value":"stand characteristics"},
+	{"value":"multilevel logistic regression"},
+	{"value":"hirvituhot"},
+	{"value":"statistical methods"},
+	{"value":"valtakunnan metsien inventointi"},
+	{"value":"management"},
+	{"value":"metsävauriot"},
+	{"value":"riskienhallinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002231",
+	"dct:identifier":"FI2016002231",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

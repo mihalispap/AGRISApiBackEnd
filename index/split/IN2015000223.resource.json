@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Meteorological factors influencing insect pests of Tomato",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":68,
+	"dc:subject":[
+		{"value":"condiciones atmosfericas",
+	"xml:lang":"esp"
+	},
+	{"value":"conditions meteorologiques",
+	"xml:lang":"fre"
+	},
+	{"value":"meteorological factors",
+	"xml:lang":"eng"
+	},
+	{"value":"pest insects",
+	"xml:lang":"eng"
+	},
+	{"value":"insectos daninos",
+	"xml:lang":"esp"
+	},
+	{"value":"insecte nuisible",
+	"xml:lang":"fre"
+	},
+	{"value":"lycopersicon esculentum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":71,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000223",
+	"dct:identifier":"IN2015000223",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sharma, Devinder"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maqbool, Asifa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmad, Hafeez"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jamwal, Vishav V.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The fruit borer population exhibited significant positive correlation with the temperature but positive and non-significant with sunshine hours. Relative humidity and rainfall had non-significant negative effect on borer population. Aphid population was positively but non significantly correlated with the maximum, minimum temperatures and sunshine hours and negative non-significantly with relative humidity and rainfall. Mealy bug population exhibited positive and significant correlation with the temperature and positive but non significant with rainfall and sunshine hours. The leaf miner population was positively but non significantly correlated with maximum temperature and sunshine hours. However, minimum temperature and rainfall had positive and significant effected on leaf miner population. Relative humidity was negatively correlated with leaf miner. The correlation studies between whitefly and abiotic factors showed positive correlation for temperature and sunshine hours, while the correlation was negative relative humidity and rainfall. The multiple linear regression analysis showed that all the weather parameters together were responsible for 96.3, 69.7, 97.1, 77.3 and 89.0 % (R2 value) of total variation of fruit borer, aphid, mealy bug, leaf miner and whitefly population, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

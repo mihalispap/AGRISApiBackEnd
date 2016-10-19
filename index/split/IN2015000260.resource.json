@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Field efficacy of neonicotinoid insecticides against white grub (Holotrichia consanguinea Blanch.) on groundnut",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"seed treatment",
+	"xml:lang":"eng"
+	},
+	{"value":"insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"traitement des semences",
+	"xml:lang":"fre"
+	},
+	{"value":"insecticide",
+	"xml:lang":"fre"
+	},
+	{"value":"tratamiento de semillas",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticidas",
+	"xml:lang":"esp"
+	},
+	{"value":"holotrichia (coleoptera)",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":198,
+	"bibo:volume":74,
+	"bibo:pageEnd":200,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000260",
+	"dct:identifier":"IN2015000260",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bhatnagar Ashok"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh Swaroop"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahuja Desh Bandhu"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

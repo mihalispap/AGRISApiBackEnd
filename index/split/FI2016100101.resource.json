@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a20.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The influence of minimum soil tillage systems on weed density, frequency of phytopatogenous agents and crop yields of soybean, wheat, potato, rape and corn"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rusu, Teodor (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gus, Petru (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bogdan, Ileana (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100101",
+	"dct:identifier":"FI2016100101",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The researches carried out in Cluj-Napoca, Romania, between 2000 and 2004, have confirmed the influence of minimum soil tillage systems on weed density, frequency of phytopatogenous agents and crop production of soybean, wheat, potato, rape and corn. In comparison with the classic soil tillage system (tilt furrow ploughing), the tillage systems with chisel, paraplow and rotary harrow lead to an increase in weed numbers and a change in the floral composition. The abundance of annual monocotyledonous weeds was observed to increase by 15-19% for the chisel and paraplow treatments and by 33% for rotary harrow. In the case of annual dicotyledonous species, there was an increase of 5-16% for the chisel treatment, 7- 20% for paraplow and 22-36% for rotary harrow. The maximum increase in weeds was observed for perennial dicotyledonous species (Convolvulus arvensis and Cirsium arvense): 23-25% for chisel, 27-30% for paraplow and 41-44% for rotary harrow. The attack degree produced by the main diseases is minimal in ploughed variants and higher in minimum tillage variants, but in relation to the phytopatogen agent and influence factors. Thus, differences are noted especially in wheat culture, paraplow variant and rotary harrow, both for Puccinia spp. (65.88% at paraplow) and Septoria spp. (3.5% at rotary harrow). In rape culture, mildew (Erysiphe sp.) was identified only in the ploughed variant and Peronospora sp. in the minimum tillage variants. The minimum soil tillage treatments ensured that crop yields were obtained similar to those in the conventional system, except the potato and corn crop. The rotary harrow treatment was found to be useful for the rape and wheat crops."}
+	}}

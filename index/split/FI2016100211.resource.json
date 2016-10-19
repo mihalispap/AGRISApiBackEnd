@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of growth and biomass production of primed melon seed (Cucumis melo L. cv. Primal) to germination salinity level and N-forms in nursery"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Guzmán, Miguel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Olave, Jorge (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100211",
+	"dct:identifier":"FI2016100211",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Seed priming of vegetables such as solanaceous (tomato and pepper) and cucurbits (melon and cucumber) may be a useful technique in order to exploit seed potential in arid and desert ecosystems. In these areas the ion content in soil and water (chlorine, sodium and others) is close to or above the permissible maximums. The aim of this work was to evaluate the response of melon seedling in order to reduce post-transplant stress and thus maximize biomass production as a strategy for managing melon crops under saline conditions. The effects of priming and salinity level on germination and of nitrogen source in the nursery are evaluated. After priming in 150 mM of different solutions (NH4NO3; (NH4)2SO4; KNO3 and NaCl), seeds were germinated at three salinity levels (0.5, 2.5 and 5.0 dS m-1). Finally, in the nursery five treatments were evaluated: three N-forms (NH4NO3; (NH4)2SO4; KNO3), NaCl and water (Control). After germination, true leaf number was measured daily. Thirty days after planting, length, diameter, fresh and dry weight of root, stem and leaves were measured. From these data water content was evaluated. Three types of response were obtained. Control and NaCl treatments were not residually affected by priming or salinity during germination and showed the lowest growth. KNO3 and (NH4)2SO4 treatments were only affected by salinity levels. Growth and biomass production of the former were negatively affected, as was water content of the latter. Seedlings treated with NH4NO3 were only affected by priming. The highest growth and biomass production were obtained applying NH4NO3 and KNO3 during the nursery period."}
+	}}

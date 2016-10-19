@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Enhanced activity of Trichogramma chilonis and Chrysoperla carnea on eggs of Earias vittella and Helicoverpa armigera through Kairomonic activity of acetone extracts of Clusterbean",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":50,
+	"dc:subject":[
+		{"value":"chrysoperla carnea",
+	"xml:lang":"esp"
+	},
+	{"value":"cairomonas",
+	"xml:lang":"esp"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"kairomones",
+	"xml:lang":"fre"
+	},
+	{"value":"trichogramma chilonis",
+	"xml:lang":"esp"
+	},
+	{"value":"earias vittella",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":52,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000218",
+	"dct:identifier":"IN2015000218",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Baskaran, R.K. Murali"
+	}
+	},
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Clusterbean, identified as cost effective intercrop in okra eco-system to manage lepidopteran pests (Earias vittella, Helicoverpa armigera) was selected to study the kairomone effect on the activity of Chrysoperla carnea and Trichogramma chilonis. Acetone extract of flowers of clusterbean (1% or 10,000 ppm) recorded the highest parasitization on the eggs of E. vittella (61.3%) by T. chilonis on 7th day after introduction of parasitioids when compared to control with acetone (10.3%). Acetone extract of clusterbean flowers was highly effective to enhance the predatory activity of C. carnea, recording 51.2% on eggs of E. vittella, 24 hrs. after introduction of the predator while it was 12.5% in control. Similarly acetone extract of flowers of clusterbean enhanced the parasitization/predation activity of T. chilonis and C. carnea on the eggs of H. armigera.",
+	"xml:lang":"eng"
+	}
+	}}

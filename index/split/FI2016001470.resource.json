@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Economic and environmental performance of alternative policy measures to reduce nutrient surpluses in Finnish agriculture.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lehtonen, Heikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lankoski, Jussi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koikkalainen, Kauko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrients"},
+	{"value":"fosfori"},
+	{"value":"agricultural policies"},
+	{"value":"ohjauskeinot"},
+	{"value":"maatalouspolitiikka"},
+	{"value":"maatalous"},
+	{"value":"ympäristöpolitiikka"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"typpi"},
+	{"value":"phosphorus"},
+	{"value":"leaching"},
+	{"value":"environmental policies"},
+	{"value":"nitrogen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001470",
+	"dct:identifier":"FI2016001470",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

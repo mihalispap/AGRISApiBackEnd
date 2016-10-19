@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimates of nitrogen fixation by legume cover crops grown in young rubber plantation using 15N isotope dilution technique",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":205,
+	"dc:subject":[
+		{"value":"15N ISOTOPE DILUTION TECHNIQUE"},
+	{"value":"N2 FIXATION"},
+	{"value":"cultivos",
+	"xml:lang":"esp"
+	},
+	{"value":"plante de culture",
+	"xml:lang":"fre"
+	},
+	{"value":"caoutchouc",
+	"xml:lang":"fre"
+	},
+	{"value":"caucho",
+	"xml:lang":"esp"
+	},
+	{"value":"crops",
+	"xml:lang":"eng"
+	},
+	{"value":"rubber",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":209,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000818",
+	"dct:identifier":"IN2015000818",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prasannakumari, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mercykutty Joseph"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jessy, M.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Annie Philip"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

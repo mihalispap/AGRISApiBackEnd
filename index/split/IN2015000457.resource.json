@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of mannanoligosaccharide as prebiotic functional food for dogs: effect on nutrient digestibility, hind gut health and plasma metabolic profile",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":81,
+	"dc:subject":[
+		{"value":"metabolisme",
+	"xml:lang":"fre"
+	},
+	{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"aliment sante pour homme",
+	"xml:lang":"fre"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	},
+	{"value":"alimentos sanos",
+	"xml:lang":"esp"
+	},
+	{"value":"health foods",
+	"xml:lang":"eng"
+	},
+	{"value":"digestibilite",
+	"xml:lang":"fre"
+	},
+	{"value":"digestibilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"metabolismo",
+	"xml:lang":"esp"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"metabolism",
+	"xml:lang":"eng"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":86,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000457",
+	"dct:identifier":"IN2015000457",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kore, K.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pattanaik, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study was designed, using 5 adult dogs in complete crossover design, to assess the effect of dietary supplementation of mannanoligosaccharide (MOS) on nutrient digestibility, hind gut health indices and plasma metabolic profile. Accordingly, the dogs were fed on a homemade diet alone or that supplemented with MOS (at 1% level). A digestion trial, conducted at the end of each period, revealed that the intake of feed DM and other nutrients increased (P0.05) when supplemented with MOS. Digestibility of fibre was improved (P0.05) in MOS supplemented group, while that of other nutrients were not affected. The concentration of lactate and short-chain fatty acids (SCFA) in faeces, viz. propionate and butyrate showed increasing trend which resulted in higher faecal concentration of total SCFAs due to MOS supplementation. Addition of MOS tended to reduce faecal coliforms with an associated elevation (P0.05) in lactobacilli count compared to control. The plasma triglyceride was reduced while that of inorganic phosphorous increased in dogs supplemented with MOS. Overall, supplementation of MOS @ 1% of diet DM positively influenced feed intake, fiber digestibility and indices of hindgut health with subtle influence on certain blood biochemical parameters.",
+	"xml:lang":"eng"
+	}
+	}}

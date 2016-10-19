@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Perfomance of Cirrhinus mrigala fingerlings on feeding dried distillers grain sowble",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":272,
+	"dc:subject":[
+		{"value":"fish feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"efficacite conversion alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"alimentation des poissons",
+	"xml:lang":"fre"
+	},
+	{"value":"alimentacion de peces",
+	"xml:lang":"esp"
+	},
+	{"value":"eficiencia de conversion del pienso",
+	"xml:lang":"esp"
+	},
+	{"value":"cirrhinus mrigala",
+	"xml:lang":"esp"
+	},
+	{"value":"feed conversion efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":275,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000435",
+	"dct:identifier":"IN2015000435",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Paul, B.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Giri, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chattopadhay, D.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandai, R.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandey, B.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakraborti, P.P."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A 60-day feeding trial was conducted to study the effect of different levels of dried distillers grain soluble (DDGS) on growth performance of Cirrhinus mrigala fingerlings (average wt. 7.12Â±0.17g). Four different feeds were formulated with increasing levels of DDGS viz, 0 (DDGS0), 15 (DDGSI5), 30 (DDGS30) and 45 (DDGS45) %, respectively. The net weight gain, specific growth rate (SGR), protein efficiency ratio (PER) were significantly higher (P0.01) in DDGS30 compared to other groups. No significant difference was found among DDGSO, DDGS15 and DDGS45. Feed conversion ratio (FCR) of C. mrigala fingerlings was significantly (P0.01) lower in DDGS30. Survival percentage did not differ significantly at different DDGS levels. Carcass lipid and ash content was significantly (P0.01) higher in DDGS45 compared to other groups. However, carcass moisture and protein content of C. mrigala did not differ significantly among the treatment groups. Thus, from the present experiment it may be concluded that higher growth performance was observed in C. mrigala fingerlings fry by feeding DDGS at 30% level.",
+	"xml:lang":"eng"
+	}
+	}}

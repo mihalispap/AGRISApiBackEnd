@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.937",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zamora-Cristales, Rene,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boston, Kevin,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sessions, John,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Murphy, Glen,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Stochastic simulation and optimization of mobile chipping economics in processing and transport of forest biomass from residues.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"simulointi"},
+	{"value":"biomass"},
+	{"value":"optimization methods"},
+	{"value":"forestry"},
+	{"value":"decision making"},
+	{"value":"renewable energy"},
+	{"value":"analysis"},
+	{"value":"simulation"},
+	{"value":"forest management planning"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"biomassa"},
+	{"value":"economics"},
+	{"value":"päätösanalyysi"},
+	{"value":"optimointi"},
+	{"value":"taloustieteet"},
+	{"value":"uusiutuvat energialähteet"}
+	],
+	"bibo:doi":"10.14214/sf.937",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000539",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000539",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

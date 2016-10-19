@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Præference for forskellige bundtyper hos blåræve.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Skovgaard, K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pedersen, V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jeppesen, L. L.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kettu"},
+	{"value":"furbearing animals"},
+	{"value":"häkit"},
+	{"value":"turkiseläimet"},
+	{"value":"foxes"},
+	{"value":"tuotantoympäristö"},
+	{"value":"sinikettu"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002042",
+	"dct:identifier":"FI2016002042",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

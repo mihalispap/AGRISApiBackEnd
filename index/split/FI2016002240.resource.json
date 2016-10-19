@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Integrating biophysical and socio-economic data using GIS for land evaluation of wheat cultivation : a case study in north-west Bangladesh.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Perveen, Mst. Farida.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nagasawa, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahmed, A. O. Cherif.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uddin, Md. Imtiaz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kimura, R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"water"},
+	{"value":"plant production"},
+	{"value":"Triticum aestivum"},
+	{"value":"land use planning"},
+	{"value":"geographical information systems"},
+	{"value":"drainage"},
+	{"value":"land management"},
+	{"value":"Oryza sativa"},
+	{"value":"Bangladesh"},
+	{"value":"land use"},
+	{"value":"irrigation"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002240",
+	"dct:identifier":"FI2016002240",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

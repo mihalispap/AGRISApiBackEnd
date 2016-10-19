@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1E135-138roughterrain.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Rough terrain: forest management and its discontents, 1891-2001"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Miller, Char (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100517",
+	"dct:identifier":"FI2016100517",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The history of scientific forest management in the United States is relatively brief, about 125 years or so. But it has been rife with debate and controversy, and there is no reason to supposed that this will change with the introduction of biotechnology to this well-wooded land. This article tracks the varied challenges offered by and different tactics protesters have selected over time to fight against innovations in land management. By tracing the fights that broke out over the creation of the first National Forests in the early twentieth century, clear-cutting practices in the post-World War Two era, and the more violent reactions to government conservation agencies at the turn of the twenty first century, we will better understand some of the hostility that has emerged in response to genetic engineered trees and food."}
+	}}

@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a20.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Polymorphism of microsatellite sequences in morphologically and phenologically different genotypes of Lonicera periclymenum"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Smolik, Miáosz (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ZieliĔski, Jarosáaw (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rzepka-Plevneš, Danuta (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adamska, Katarzyna (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100100",
+	"dct:identifier":"FI2016100100",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A research has been undertaken to evaluate the character and range of morphological and genetic variability within forms of the honeysuckle (Lonicera periclymenum L.). The analysed material consisted of four populations of this species occurring in northern Poland, and two varieties: the cultivar Lonicera periclymenum ‘Serotina’ and the botanical variety Lonicera periclymenum typicum. Both the forms were characterized by a high phenotypic variation in shape of a leaf blade and phenology of florescence. The found differences were highly significant. Because of difficulties concerning the determination of affiliation of the given form of honeysuckle to the given botanical or cultivated variety, the genotypes of L. periclymenum forms were ivestigated by ISSR-PCR analysis for the study of the genetic diversity of the genus Lonicera. The analysis involved 30 ISSR primers on various di-, tri-, tetra- and penta- SSR motifs containing additional selective 3’ anchor nucleotides. Out of the 30 primers 21 were chosen for final study. These amplified a total of 984 bands, out of which 900 (91.4%) were polymorphic. Clearly detectableamplified ISSR ranged from 32 to 2487 bp in size. The average number of bands generated per primer was 8. Their number depended on the primer’s sequence. For all the mentioned objects of analysis species-specific ISSR fragments were detected for each honeysuckle genotype. The genetic similarity between species of Lonicera was estimated using Jaccard’s coefficient of similarity. The UPGMA cluster analysis was used to construct a dendrogram and to estimate the genetic similarity between the Lonicera species. Their similarity ranged from 82.3 to 86.6%. The analysed genotypes of honeysuckle were divided into three groups. In the first group, there were genotypes growing in Dziwnow and Pobierowo (similarity 84.8%), in the second one - L. periclymenum ‘Serotina’, L. periclymenum typicum, and the genotype from Przytor (similarity 86.6%) and in the third one – the forms of Lonicera from the locality in Karsibor. The results of genetic investigations confirmed the distinct morphology and phenology of honeysuckle, known from the cultivated in Poland varieties occurring in various localities of the north-western part of Poland."}
+	}}

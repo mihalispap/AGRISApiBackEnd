@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Spatial distribution of fine roots at ploughed Norway spruce forest sites.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tanskanen, Niina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ilvesniemi, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest soils"},
+	{"value":"fine roots"},
+	{"value":"kuusi"},
+	{"value":"undergrowth"},
+	{"value":"ploughing"},
+	{"value":"juuri"},
+	{"value":"alikasvos"},
+	{"value":"maanmuokkaus"},
+	{"value":"roots"},
+	{"value":"specific root length"},
+	{"value":"spatial distribution"},
+	{"value":"metsämaa"},
+	{"value":"length"},
+	{"value":"Picea abies"},
+	{"value":"understorey roots"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000630",
+	"dct:identifier":"FI2016000630",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

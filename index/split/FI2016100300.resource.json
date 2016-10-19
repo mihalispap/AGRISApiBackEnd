@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-138.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Applications of mild technology to horticultural products: Experiences from the IVTPA"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Senesi, Emilio (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100300",
+	"dct:identifier":"FI2016100300",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Mild technologies must satisfy the demand for nutritious, wholesome and tasty foods and, at the same time, must give final products and ingredients some properties useful to improve their utilisation and to increase their economic values. Mild technologies studied and experimented at IVTPA include fresh-cut horticultural products technique (no heat treatment), dehydrofreezing, dewatering-impregnation-soaking (DIS) in concentrated solutions, dehydropasteurisation, active packaging. Attention is drawn to those techniques that are expanding in industrialised countries and are promising in terms of both consumer acceptance and marketing exploitations. This review shows that there is not a unique general method suitable for every raw material and every final product. The choice of the best process depends on fruits and vegetables to be used and on the desired characteristics of the endproduct."}
+	}}

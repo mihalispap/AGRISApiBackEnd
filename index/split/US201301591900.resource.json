@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of cadmium on yield and cadmium concentration in the edible tissues of endive (Cichorium endivia L.) and rocket (Eruca sativa Mill.)"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591900",
+	"dct:identifier":"US201301591900",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Akoumianakis, Kostantinos A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Passam, Harold C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barouchas, Pantelis E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moustakas, Nicholas K. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Pot experiments were conducted under glasshouse conditions to study the effects of cadmium (Cd) on yields and Cd concentration in the edible plant parts of endive (Cichorium endivia, L.) and rocket (Eruca sativa, Mill.) during two growing seasons (winter and spring). Cadmium was applied to the pot medium (peat-soil mixture) at rates of 0, 5, 10 and 20 mg kg-1. The fresh and dry mass of endive and rocket were not affected by Cd application in either cultivation period, and toxicity symptoms were not observed. In both seasons, the rise in Cd concentration in the edible plant parts with increasing Cd application was characterized by quadratic and linear regression. From the results it was clear that both endive and rocket accumulated Cd. Diethylene triamine penta acetic acid–triethanol amine (DTPA-TEA)-extractable Cd significantly correlated with the Cd concentration in endive and rocket indicating that this extractant could be used to predict Cd concentration in the edible parts of these two crops."}
+	}}

@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Photosynthesis and Rubisco kinetics in spring wheat and meadow fescue under conditions of simulated climate change with elevated CO[sub 2] and increased temperatures.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hakala, Kaija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heliö, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuhkanen, Eeva.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaukoranta, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"environmental factors"},
+	{"value":"simulointi"},
+	{"value":"säätely"},
+	{"value":"Festuca pratensis"},
+	{"value":"air temperature"},
+	{"value":"entsyymit"},
+	{"value":"kevätvehnä"},
+	{"value":"rubisco"},
+	{"value":"simulation models"},
+	{"value":"kasvihuoneilmiö"},
+	{"value":"enzymes"},
+	{"value":"nurminata"},
+	{"value":"carbon dioxide"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"lämpötila"},
+	{"value":"Triticum aestivum"},
+	{"value":"fotosynteesi"},
+	{"value":"spring crops"},
+	{"value":"hiilidioksidi"},
+	{"value":"cereal crops"},
+	{"value":"greenhouse effect"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001095",
+	"dct:identifier":"FI2016001095",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessing national compliance with international forest policy processes : the role of subjective judgments.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lindstad, Berit H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Solberg, Birger.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"forestry policies"},
+	{"value":"kestävä metsätalous"},
+	{"value":"toteutus"},
+	{"value":"kansainvälinen yhteistyö"},
+	{"value":"implementation"},
+	{"value":"sustainable forestry"},
+	{"value":"multiple objectives"},
+	{"value":"production functions"},
+	{"value":"international organizations"},
+	{"value":"metsäpolitiikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001539",
+	"dct:identifier":"FI2016001539",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

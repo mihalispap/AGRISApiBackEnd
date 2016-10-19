@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Parameters for the detection of post-harvest quality in fresh or transformed horticultural crops"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038555",
+	"dct:identifier":"FI2006038555",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f21.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ninfali, Paolino (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bacchiocca, Mara (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A substantial proportion of horticultural crops is harvested and sold during the harvest season, a second portion is stored in refrigerators, when possible in controlled or modified atmosphere, to ensure a prolonged conservation, while a third portion is processed to produce peeled, chopped and packaged ready-to-eat products. To ensure food quality at the moment of marketing, agro-food researchers are looking for reliable parameters to monitor quality loss during post-harvest periods. Among the conventional indicators of quality, sugars can be conveniently analyzed by several physico-chemical or biochemical methods. Vitamins represent important nutritional quality factors in horticultural crops and the detection of ascorbate and/or beta-carotene is valuable in predicting vegetable shelf-life. The activity of enzymes, such as ascorbate oxidase, polyphenol oxidase and peroxidase also represent sensitive parameters for quality control, since protein expression strictly depends on environmental conditions. Metabolic intermediates and flavour precursors have also been studied and correlations between their modification and loss of agro-food quality have been demonstrated. Also, methods involving the evaluation of total phenolics in combination with their antioxidant capacity have been employed; alternatively, a single phenolic molecule, typical of the vegetable under study, can be detected with HPLC techniques and applied to the monitoring of refrigerated or processed vegetables. The parameters are sometimes detected in different tissues of the vegetable, rather than using the vegetable as a whole. This procedure reveals that there are consistent differences in composition regarding phenolics or sugars in different tissues of the same vegetable and that one tissue may be more prone than others to variations in the concentration of marker compounds. Continuos studies in the search for these parameters have provided useful tools for industries for the timely detection of vegetable deterioration ensuring the supply of fresh vegetables to the consumer."}
+	}}

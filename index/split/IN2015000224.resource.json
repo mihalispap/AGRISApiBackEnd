@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"First record of Chalcids (Hymenoptera : Chalcidoidea) from Jammu &Kashmir, India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":72,
+	"dc:subject":[
+		{"value":"espece nouvelle",
+	"xml:lang":"fre"
+	},
+	{"value":"especies nuevas",
+	"xml:lang":"esp"
+	},
+	{"value":"new species",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":76,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000224",
+	"dct:identifier":"IN2015000224",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ahmad, M. Jamal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khursheed, Iram"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Azim, M. Nayyar"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Thirteen chalcid species viz. Brachymeria alternipes, B. minuta, Antrocephalus vitatus, Anastatus banglorensis, Syrpophagus sp. indet., Anagyrus sp. indet.Ablerus sp. indet., Euplectrus coimbatorensis, Sympiesis sp.indet., Parasecodella sp. indet.,Spalangia nigra, Macroglenes conjugens, Pachyneuron formosum under six families namely Chalcididae, Eupelmidae, Encyrtidae, Aphelinidae, Eulophidae and Pteromalidae are reported for the first time from Jammu and Kashmir. These parasitoids were collected through sweeping on grasses and also reared from different host insects. Brief diagnostic characters of each species are provided. Comparisons of Kashmir materials with published Indian taxa are also given wherever necessary.",
+	"xml:lang":"eng"
+	}
+	}}

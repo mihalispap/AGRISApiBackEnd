@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"A simple and rapid method for isolation of DNA from imbibed embryos of Parkia timoriana (DC.) Merr. for PCR analysis"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thangjam, Robert (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maibam, Damayanti (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Jitendra G. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100115",
+	"dct:identifier":"FI2016100115",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The isolation of high quality DNA from plants containing high levels of polysaccharides and polyphenols has been a difficult problem. The use of liquid nitrogen, mortar and pestle, and young leaves does not always favour in handling large sample sizes for analysis. We demonstrate an easy and rapid extraction process by modifying many existing ones. Using this process, we are able to isolate clean and pure DNAs from the embryos of Parkia timoriana. The method involves a modified CTAB extraction by treating imbibed embryos with proteinase K in SDS extraction buffer, grinding in the buffer after incubation, use of PVP and high NaCl concentration to remove polyphenols and polysaccharides and extended chloroform: isoamyl alcohol with 5% phenol treatment. About 50-64 µg/embryo of DNA can be obtained. The consistently reproducible products obtained through PCR amplification with several random primers using 50 ng of DNA per 25 µl reaction mixture demonstrate the purity of the isolated DNAs. Thus, the results indicate that DNAs extracted using this process are practically suited for PCR analysis and the technique is simple, rapid and efficient, and can be used in situations where large number of samples are to be analysed."}
+	}}

@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n2p127.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Drying characteristics and kinetics of fluidized bed dried potato.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bakal, Sushant.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gedam, Kishor.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sharma, Gyanendra.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"food processing"},
+	{"value":"säilöntämenetelmät"},
+	{"value":"peruna"},
+	{"value":"drying"},
+	{"value":"potatoes"},
+	{"value":"kuivaus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001764",
+	"dct:identifier":"FI2016001764",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

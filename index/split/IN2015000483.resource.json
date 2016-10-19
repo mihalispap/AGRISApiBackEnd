@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A new subspecies of Trypoxylus dichotomus (Coleoptera: scarabaeidae: dynastinae) from China",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":149,
+	"dc:subject":[
+		{"value":"coleoptera",
+	"xml:lang":"esp"
+	},
+	{"value":"scarabaeidae",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":151,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000483",
+	"dct:identifier":"IN2015000483",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Satoru, Takeuchi"
+	}
+	},
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"This paper describes Trypoxylus dichotomus shennongji subsp. nov., the 6th subspecies of T. dichotomus Linnaeus (1771) from Shennongjia, Hubei Province, China, whose diagnostic illustrations with a distribution map are provided.",
+	"xml:lang":"eng"
+	}
+	}}

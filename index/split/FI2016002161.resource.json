@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"A research on the dessert produced from modified atmosphere packaged pumpkins.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Incedayi, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tamer, C. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yönel, S. P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Copur, O. U.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"desserts"},
+	{"value":"controlled atmosphere storage"},
+	{"value":"ascorbic acid"},
+	{"value":"packaging"},
+	{"value":"pumpkins"},
+	{"value":"food storage"},
+	{"value":"phenolic compounds"},
+	{"value":"cysteine"},
+	{"value":"chemical composition"},
+	{"value":"carotenoids"},
+	{"value":"organoleptic properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002161",
+	"dct:identifier":"FI2016002161",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

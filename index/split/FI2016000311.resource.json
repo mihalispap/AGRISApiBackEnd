@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Timing of primary growth harvest affects the yield and nutritive value of timothy-red clover mixtures.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rinne, Marketta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nykänen, Arja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Phleum pratense"},
+	{"value":"harvesting date"},
+	{"value":"nutritive value"},
+	{"value":"seosnurmet"},
+	{"value":"timotei"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"korjuuajankohta"},
+	{"value":"Trifolium pratense"},
+	{"value":"organic agriculture"},
+	{"value":"sadonkorjuu"},
+	{"value":"forage"},
+	{"value":"puna-apila"},
+	{"value":"rehuarvo"},
+	{"value":"nurmirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000311",
+	"dct:identifier":"FI2016000311",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

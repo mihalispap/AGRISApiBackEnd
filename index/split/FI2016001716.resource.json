@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/51466/18526",
+	"dct:language":"eng",
+	"dct:title":{"value":"Spatial and temporal variation in weather events critical for boreal agriculture : II Precipitation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pirinen, Pentti,
+    kirjoittaja.
+    Ilmatieteen laitos
+    X0028
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkelä, Hanna M,
+    kirjoittaja.
+    Ilmatieteen laitos
+    X0028
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ojanen, Hannu,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Venäläinen, Ari,
+    kirjoittaja.
+    Ilmatieteen laitos
+    X0028
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"viljelykasvit"},
+	{"value":"Finland"},
+	{"value":"kuivuus"},
+	{"value":"maatalous"},
+	{"value":"crop management"},
+	{"value":"growth period"},
+	{"value":"kasvintuotanto"},
+	{"value":"boreaalinen vyöhyke"},
+	{"value":"kasvukausi"},
+	{"value":"drought"},
+	{"value":"plant production"},
+	{"value":"precipitation"},
+	{"value":"ilmasto"},
+	{"value":"boreal zone"},
+	{"value":"climatic factors"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001716",
+	"dct:identifier":"FI2016001716",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

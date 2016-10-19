@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Combined effect of thermotherapy and in vitro shoot culture on the Grapevine leafroll associated virus 2 Red Globe strain affecting 'Red Globe' vines.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Infante, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fiore, N.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"in vitro regeneration"},
+	{"value":"in vitro culture"},
+	{"value":"virusfree plants"},
+	{"value":"meristeme culture"},
+	{"value":"heat treatment"},
+	{"value":"grapes"},
+	{"value":"plant diseases"},
+	{"value":"plant viruses"},
+	{"value":"pathogens"},
+	{"value":"Vitaceae"},
+	{"value":"tissue culture"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001598",
+	"dct:identifier":"FI2016001598",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

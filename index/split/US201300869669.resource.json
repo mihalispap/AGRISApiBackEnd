@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysis of seasonal price trend of pineapple in Cross River State, Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869669",
+	"dct:identifier":"US201300869669",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a34.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Agbogo, Eias A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiku, N. E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bime, M . J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abang, S. O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The main objective of the study was to show the net relationship between time (X) and price (Y) as explanatory and dependent variables respectively in pineapple prices – time analysis in Boki, Cross River State, Nigeria. The estimated price forecast equation was in the form: Ý = 20.42 + 0.26X, while that of time trend was T = 0.27 + 17.31. The parameter estimate of the explanatory variable (X) had a magnitude of 0.26, indicating the strength of the dependent variable in response to one-unit change in the explanatory variable. Structurally, the a priori economic condition was satisfied, so the estimated function could be used for price forecasting within the area under review. The study also revealed that pineapple prices are higher during the months of July to September while the period of January to April is that of low prices. It is therefore suggested that farmers in the area could use the findings from this study as a basis for their economic pursuit as well as mapping out their production strategies to better their financial fortunes, bearing in mind the seasonal implications on pineapple product prices."}
+	}}

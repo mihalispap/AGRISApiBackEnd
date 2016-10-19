@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Machine planting of Norway spruce by Bracke and Ecoplanter : an evaluation of soil preparation, planting method and seedling performance.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Luoranen, Jaana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rikala, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Smolander, Heikki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"height"},
+	{"value":"Forestry equipment"},
+	{"value":"planting"},
+	{"value":"tillage"},
+	{"value":"Picea abies"},
+	{"value":"survival"},
+	{"value":"seedlings"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000641",
+	"dct:identifier":"FI2016000641",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

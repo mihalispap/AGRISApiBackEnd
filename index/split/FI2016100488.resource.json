@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f4(2).pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Complexes of anionic polysaccharides with metal salts. Part III. i-Carrageenan"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Ciesielski, Wojciech (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100488",
+	"dct:identifier":"FI2016100488",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"i-Carrageenan coordinated to Co(II), Cu(II), Fe(III), Mn(II), and Ni(II) cations forming the Werner-type complexes. The effect of counterions (Cl-, NO3- and C3COO-) is of lesser importance. Only randomly chelation of the central metal by the hydroxyl groups of the β-D-galactose units of the polysaccharide could be postulated. Majority of the Werner type complexes had higher ability to trap water in the macrostructure as compared to carrageenan although this water was more readily liberated on heating. In a majority of the carrageenan- metal complexes the coordinating carrageenan was more thermally stable than original carrageenan."}
+	}}

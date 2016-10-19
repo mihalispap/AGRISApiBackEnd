@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of temperature on storage properties, dormancy, soluble sugar content and α-galactosidase activity of seven new potato (Solanum tuberosum L.) cultivars.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Shahba, Mohamed A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stushnoff, Cecil.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    McSay, Ann E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Holm, David.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Davidson, Robert.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"postharvest physiology"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"entsyymiaktiivisuus"},
+	{"value":"lepotila"},
+	{"value":"varastointi"},
+	{"value":"dormancy"},
+	{"value":"keeping quality"},
+	{"value":"temperature"},
+	{"value":"peruna"},
+	{"value":"genetic variation"},
+	{"value":"Solanum tuberosum"},
+	{"value":"enzyme activity"},
+	{"value":"carbohydrate content"},
+	{"value":"säilyvyys"},
+	{"value":"hiilihydraatit"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001975",
+	"dct:identifier":"FI2016001975",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

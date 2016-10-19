@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Capercaillie (Tetrao urogallus) habitat characteristics in north-boreal Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Miettinen, Janne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Helle Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nikula, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemelä, Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Tetrao urogallus"},
+	{"value":"landscape composition"},
+	{"value":"forest management"},
+	{"value":"grouse"},
+	{"value":"Tetrao"},
+	{"value":"thinning"},
+	{"value":"metso"},
+	{"value":"landscaping"},
+	{"value":"forestry"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000720",
+	"dct:identifier":"FI2016000720",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

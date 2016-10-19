@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Further evidence of true seed transmission of Piper yellow mottle virus in black pepper (Piper nigrum L.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":289,
+	"dc:subject":[
+		{"value":"Piper yellow mottle virus"},
+	{"value":"PCR"},
+	{"value":"semence",
+	"xml:lang":"fre"
+	},
+	{"value":"organe de transmission",
+	"xml:lang":"fre"
+	},
+	{"value":"pepper",
+	"xml:lang":"eng"
+	},
+	{"value":"pollen",
+	"xml:lang":"fre"
+	},
+	{"value":"poivre",
+	"xml:lang":"fre"
+	},
+	{"value":"pimienta",
+	"xml:lang":"esp"
+	},
+	{"value":"transmissions",
+	"xml:lang":"eng"
+	},
+	{"value":"seed",
+	"xml:lang":"eng"
+	},
+	{"value":"polen",
+	"xml:lang":"esp"
+	},
+	{"value":"transmisiones (mecanica)",
+	"xml:lang":"esp"
+	},
+	{"value":"semillas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":293,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000870",
+	"dct:identifier":"IN2015000870",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Deeshma, K.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhat, A. I."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A study was conducted to detect the presence of Piper yellow mottle virus (PYMoV) in pollen and different parts of black pepper berries. Total DNA isolated from anthers, embryo, endosperm and perisperm of berries from PYMoV infected and healthy black pepper plants were subjected to polymerase chain reaction (PCR) using PYMoV specific primers. PCR results clearly indicated the presence of PYMoV in embryo, endosperm and perisperm of berries from infected plants of all the three varieties tested (Panniyur-1, IISR-Thevam, and Subhakara) and in anthers of var. Panniyur-1 but was absent in all these parts of healthy plants. The identity of the PCR product was confirmed by sequencing. Seedlings raised from infected berries were symptomatic and were PCR positive. The present study confirmed true seed transmission of PYMoV and the possibility for pollen transmission of the virus.",
+	"xml:lang":"eng"
+	}
+	}}

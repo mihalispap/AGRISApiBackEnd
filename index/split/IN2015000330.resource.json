@@ -1,0 +1,98 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Identification of four novel single nucleotide polymorphisms of CAPN1 gene in Indian goat",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1239,
+	"dc:subject":[
+		{"value":"polymorphisme genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"secuencia nucleotidica",
+	"xml:lang":"esp"
+	},
+	{"value":"enzyme activity",
+	"xml:lang":"eng"
+	},
+	{"value":"composicion de la canal",
+	"xml:lang":"esp"
+	},
+	{"value":"actividad enzimatica",
+	"xml:lang":"esp"
+	},
+	{"value":"composition de la carcasse",
+	"xml:lang":"fre"
+	},
+	{"value":"activite enzymatique",
+	"xml:lang":"fre"
+	},
+	{"value":"nucleotide sequence",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic polymorphism",
+	"xml:lang":"eng"
+	},
+	{"value":"sequence nucleotidique",
+	"xml:lang":"fre"
+	},
+	{"value":"carcass composition",
+	"xml:lang":"eng"
+	},
+	{"value":"polimorfismo genetico",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1243,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000330",
+	"dct:identifier":"IN2015000330",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, L.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandey, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maitra, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dixit, S.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tripathi, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, B.P."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"The CAPN1 (calcium-activated neutral proteases), is thought to be the main candidate marker gene in the quality of beef meat. Corresponding protein product is nonlysosomal, intracellular cysteine protease which act as primary enzyme in the postmortem tenderization process of meat. SNPs (single nucleotide polymorphisms) in exon9 and 14 of CAPN1 in cattle have been associated with meat tenderness. Data on SNPs in the caprine CAPN1 do not exist. In this study, variations and new polymorphisms are detected in exon9 and exon14 along with their boundary regions in caprine CAPN1 by sequencing of amplified gene fragments in a panel of 7 Indian goat breeds, reared in different regions of country for various production traits. Sequenced caprine genomic segments share 90% similarity with corresponding bovine and pig sequences. Thirty four nucleotide differences were recorded in studied region of caprine CAPN1 gene as compared with that of Bos taurus (AF 252504S1 and AF 252504S2). Four novel SNPs were identified, 1 in exonic region (5707, C/T) and 3 in intronic region (intron 8; 5543 T/C and intron14; 4638 T/C, 4689 C/T). The SNP 5707 in exon 9 corresponds to nonconservative substitution (CGG to TGG) that changes an amino acid (Arg to Trp) in the protein sequence. Genotype and allelic frequency of polymorphic sites were determined. These polymorphisms can be used in further search for associations between gene polymorphisms and enzyme activity as well as caprine meat quality traits.",
+	"xml:lang":"eng"
+	}
+	}}

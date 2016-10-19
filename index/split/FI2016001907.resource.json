@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Competitive strategies applied by Finnish timber carriers following deregulation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Mäkinen, Pekka.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"enterprises"},
+	{"value":"road transport"},
+	{"value":"kilpailustrategiat"},
+	{"value":"Finland"},
+	{"value":"puunkuljetus"},
+	{"value":"yritykset"},
+	{"value":"competitive strategy"},
+	{"value":"roundwood"},
+	{"value":"kaukokuljetus"},
+	{"value":"sääntely"},
+	{"value":"success factors"},
+	{"value":"menestyminen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001907",
+	"dct:identifier":"FI2016001907",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

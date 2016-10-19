@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Farrowing behaviour of large white yorkshire sows under organized and indigenous systems in Mizoram",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":239,
+	"dc:subject":[
+		{"value":"parturition",
+	"xml:lang":"fre"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"parto",
+	"xml:lang":"esp"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"mizoram",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":241,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000429",
+	"dct:identifier":"IN2015000429",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lalrintluanga, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka, B.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nath, K.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhuyan, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hmar, L."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A total of 56 farrowings comprising 26 and 30 farrowings of Large White Yorkshire (LWY) sows from organized and indigenous systems of rearing respectively were studied for different parameters on farrowing. It was revealed that LWY sows reared in organized and indigenous systems exhibited similar pattern of occurrence of different preparturient behaviours viz., mammary gland enlargement, swelling of vulva, colostrums in teat, reddish vulvar mucosa, pawing at the floor and vaginal discharge. The parturient behaviours viz. paddling of legs, switching of tail, complete lateral recumbency and both ventral and lateral recumbency were also similar in both the systems. However, during the entire period of farrowing, 61.54 and 36.67 per cent of sows under organized and indigenous systems of rearing respectively were lying down continuously whereas 38.46 and 63.33 per cent of sows respectively stood up in between expulsion of piglets.",
+	"xml:lang":"eng"
+	}
+	}}

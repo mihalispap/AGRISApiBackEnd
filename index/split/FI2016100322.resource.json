@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/e3.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Role of spiders in agriculture and horticulture ecosystem"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rajeswaran, J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Duraimurugan, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shanmugam, P.S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100322",
+	"dct:identifier":"FI2016100322",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Spiders are carnivorous arthropods, consume a large number of preys and do not damage plants. They have unique habitat and they live in almost all the environments. Spiders serve as buffers that limit the initial exponential growth of prey populations. The predatory spiders are classified into five major groups based on their foraging style. Prey searching ability, wide host range, ease in multiplication and polyphagous in nature make them as a potential predator in biological pest suppression. Species abundance of spider communities in agricultural and horticultural ecosystem can be as high as in undisturbed natural ecosystem. About 19 species in rice ecosystem, 13 species in maize, 16 species in soybean, 18 species in oil seeds, 21 species in cotton, 57 species in sugarcane, 13 species in vegetables, 11 species in fruit crops and 26 species in coconut were recorded. The use of biopesticides, botanicals and organic manure will enhance the spider population in different ecosystems. This contribution deals with mass production, importance in pest management and conservation of spiders."}
+	}}

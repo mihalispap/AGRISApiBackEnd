@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"INFECTIVIDADE NATURAL EM Anopheles (Nyssorhynchus) albitarsis s.l. GALVÃO E DAMASCENO, 1942 e Anopheles (Nyssorhynchus) darlingi ROOT, 1926 EM ÁREAS ÚMIDAS DA CIDADE DE MACAPÁ, AMAPÁ, BRASIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":53,
+	"bibo:volume":3,
+	"bibo:pageEnd":57,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00089",
+	"dct:identifier":"BR2015N00089",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/650",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ledayane Mayana Costa Barbosa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raimundo Nonato Picanço Souto"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<span style=\"font-size: 11pt; font-family: 'Aldine401 BT', serif;\">A malária é um dos maiores problemas de saúde pública no Brasil e no mundo, com ampla distribuição nas regiões tropicais e subtropicais. Um dos principais parâmetros analisados no controle e monitoramento da malária é a detecção de espécies de Plasmodium nos vetores capazes de infectarem humanos. </span><span style=\"font-size: 11pt; font-family: 'Aldine401 BT', serif;\" lang=\"PT\">O objetivo deste estudo foi examinar a infectividade por Plasmodium spp. em populações de An. darlingi e An. albitarsis s.l. em bairros localizados em regiões periurbanas da cidade de Macapá. </span><span style=\"font-size: 11pt; font-family: 'Aldine401 BT', serif;\">Em cada bairro foram selecionados dois pontos amostrais com uma distância mínima de 200 m entre os pontos. As capturas de mosquitos adultos foram executadas entre maio de 2003 a maio de 2004, em intervalos bimensais no horário de 18:30 às 21:30 horas, em três dias consecutivos em ambientes peridomiciliares. Para a detecção de Plasmodium spp foi utilizado o </span><span class=\"hps\"><span style=\"font-size: 11pt; font-family: 'Aldine401 BT', serif;\" lang=\"PT\">ensaio imunoenzimático</span></span><span style=\"font-size: 11pt; font-family: 'Aldine401 BT', serif;\" lang=\"PT\"> </span><span style=\"font-size: 11pt; font-family: 'Aldine401 BT', serif;\">(ELISA). O teste de ELISA foi realizado em 706 mosquitos, foram analisados n = 443 (62,7%) indivíduos de An. albitarsis s.l. e n = 263 (37,3%) de An. darlingi . O resultado foi positivo para n = 8 fêmeas, sendo n = 7 para o An. albitarsis s.l. (87,5%) e n = 1 para o An. darlingi (12,5%). O Zerão é a área com o maior risco de transmissão. A espécie An. albitarsis s.l. apresentou a maior taxa de infectividade, desempenhando papel principal na transmissão de malária humana nas áreas estudadas. Enquanto o An. darlingi exerce papel secundário na transmissão. A maior infectividade dos mosquitos ocorreu para o Plasmodium falciparum</em>.</span>",
+	"xml:lang":"por"
+	}
+	}}

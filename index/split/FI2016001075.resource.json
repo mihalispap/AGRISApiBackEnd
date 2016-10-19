@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Can physiological and anatomical characters be used for selecting high yielding hybrid aspen clones.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Yu, Qibin.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"stomata"},
+	{"value":"hybrids"},
+	{"value":"Populus"},
+	{"value":"hybridihaapa"},
+	{"value":"fotosynteesi"},
+	{"value":"kasvu"},
+	{"value":"kloonit"},
+	{"value":"ilmaraot"},
+	{"value":"Populus tremula x tremuloides"},
+	{"value":"stomatal characters"},
+	{"value":"leaves"},
+	{"value":"lehti"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001075",
+	"dct:identifier":"FI2016001075",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

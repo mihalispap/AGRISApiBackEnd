@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Feeding weaned piglets and growing-finishing pigs with diets based on mainly home-grown organic feedstuffs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Partanen, Kirsi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siljander-Rasi, Hilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alaviuhkola, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lihasika"},
+	{"value":"feeds"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"luonnonmukainen kotieläintuotanto"},
+	{"value":"piglets"},
+	{"value":"organic agriculture"},
+	{"value":"luonnonmukainen maataloustuotanto"},
+	{"value":"kotovaraiset rehut"},
+	{"value":"porsaat"},
+	{"value":"swine"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000068",
+	"dct:identifier":"FI2016000068",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

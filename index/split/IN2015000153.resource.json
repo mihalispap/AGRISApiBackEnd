@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Ameliorative effect of zinc supplementation to lead exposed goat kids on lymphocyte proliferation and superoxide dismutase (SOD) expression",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":811,
+	"dc:subject":[
+		{"value":"cell mediated immunity",
+	"xml:lang":"eng"
+	},
+	{"value":"plomb",
+	"xml:lang":"fre"
+	},
+	{"value":"inmunidad celular",
+	"xml:lang":"esp"
+	},
+	{"value":"superoxyde dismutase",
+	"xml:lang":"fre"
+	},
+	{"value":"chevreau",
+	"xml:lang":"fre"
+	},
+	{"value":"superoxido dismutasa",
+	"xml:lang":"esp"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	},
+	{"value":"plomo",
+	"xml:lang":"esp"
+	},
+	{"value":"superoxide dismutase",
+	"xml:lang":"eng"
+	},
+	{"value":"kids",
+	"xml:lang":"eng"
+	},
+	{"value":"lead",
+	"xml:lang":"eng"
+	},
+	{"value":"immunite cellulaire",
+	"xml:lang":"fre"
+	},
+	{"value":"cabrito",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":813,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000153",
+	"dct:identifier":"IN2015000153",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"aug2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Muneendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kaur, Harjit"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Phondba, B.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sontakke, U.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, Neelam"
+	}
+	}
+	],
+	"bibo:issue":8,
+	"bibo:abstract":{"value":"In vivo studies were conducted to observe the adverse effects of lead and protective effect of zinc on lymphocyte proliferation and SOD expression in 18 crossbred (Alpine ÃBeetal) male goat kids. They were divided into 3 groups i.e. group 1 (control), group 2 (control + 50 ppm Pb) and group 3 (control + 50 ppm Pb + 50 ppm Zn). All the kids were fed as per standard dietary requirements for 90 days. Blood samples were collected on 0, 30, 60 and 90 days of Pb and Zn supplementation for lymphocyte separation. A fixed no. of cells (2Ã10 6 ) was grown in culture for 72 h for studying the lymphocyte proliferation and SOD expression. There was no effect of dietary treatments on feed intake of the animals. Overall average lymphocyte proliferation response at the end of 90 days duration was significantly lower in Pb supplemented group 2 as compared to groups 1 and 3. The adverse effect of lead on lymphocyte proliferation was recovered to some extent by Zn supplementation, but, it was still significantly less than the control, indicating that Zn addition in the diet of Pb exposed kids could not fully recover the animals from the adverse effect. SOD expression remained almost similar in group 1 during 90 days period, but substantial decrease in relative abundance of SOD at 60 days was observed in Pb supplemented group 2 which further decreased at 90 days of Pb exposure. The decrease in SOD expression was recovered to some extent in goat kids of group 3 supplemented with Zn.",
+	"xml:lang":"eng"
+	}
+	}}

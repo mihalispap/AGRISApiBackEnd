@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Scanning electron microscope study and pasting properties of unripe and ripe plantain.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Osundahunsi, O. F.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"plantains"},
+	{"value":"morphology"},
+	{"value":"ripening"},
+	{"value":"bananas"},
+	{"value":"flours"},
+	{"value":"chemical composition"},
+	{"value":"electron microscopy"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000409",
+	"dct:identifier":"FI2016000409",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":[
+		{"value":"Chemical and fatty acids composition of rump cap from young bulls fed protected or unprotected oils",
+	"xml:lang":"eng"
+	},
+	{"value":"   omposição química e ácidos graxos da picanha de tourinhos alimentados com óleos protegidos ou não protegidos. ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"saturated fatty acids",
+	"xml:lang":"eng"
+	},
+	{"value":"oils",
+	"xml:lang":"eng"
+	},
+	{"value":"fats",
+	"xml:lang":"eng"
+	},
+	{"value":"beef cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"cholesterol",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.3",
+	"bibo:doi":"10.17523/bia.v72n3p241",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F11600",
+	"dct:identifier":"BR2015F11600",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n3p241",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"OLIVEIRA, E. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SAMPAIO, A. A. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"HENRIQUE, W."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PIVARO, T.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ROSA, B.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERNANDES, A.R.M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Strategies to improve the nutritional aspects of beef, mainly the fatty acids composition, have become an important goal to the scientific community. The use of different oils sources could be an interesting device due its polyunsaturated fatty acids composition. The chemical and fatty acid composition of rump cap (Biceps femoris) from 35 Nellore young bulls finished at feedlot (96 days) were analyzed. These animals were fed a control diet with sugar cane and concentrate without oil or diets containing sugar cane and concentrate with different sources of oil (soybean or linseed), protected or not from ruminal degradation. A randomized block design was adopted with five treatments and seven replications. The means were compared using orthogonal contrasts at 0.05 significance level. Animals fed diets with oil showed higher levels (P",
+	"xml:lang":"eng"
+	},
+	{"value":"Estratégias para melhorar os aspectos nutricionais da carne, principalmente a composição em ácidos graxos, tornaram-se importante objetivo para a comunidade científica. A utilização de diferentes fontes de óleo poderia ser uma ferramenta interessante devido à sua composição em ácidos graxos poli-insaturados. A composição química e de ácidos graxos da picanha (Biceps femoris) de 35 tourinhos Nelore terminados em confinamento (96 dias) foram analisadas. Os animais foram alimentados com uma dieta controle contendo cana-de-açúcar e concentrado sem óleo ou dietas contendo cana-de-açúcar e concentrado com diferentes fontes de óleo (soja ou linhaça), protegido ou não de degradação ruminal. Utilizou-se delineamento em blocos casualizados, com cinco tratamentos e sete repetições. As médias foram comparadas usando contrastes ortogonais em nível de 5% de significância. Animais alimentados com dietas contendo óleo apresentaram teores mais elevados (P",
+	"xml:lang":"por"
+	}
+	]
+	}}

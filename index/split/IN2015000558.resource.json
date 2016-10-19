@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"For the further development of coconut in North East India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":27,
+	"dc:subject":[
+		{"value":"Coconut Improvement"},
+	{"value":"North East India"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lv",
+	"bibo:pageEnd":31,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000558",
+	"dct:identifier":"IN2015000558",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"feb2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gobinda Ch Acharya"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ranjana Chakrabarty"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Himadri Rabha"
+	}
+	}
+	],
+	"bibo:issue":10
+	}}

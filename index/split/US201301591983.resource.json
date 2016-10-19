@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The application of interactive path modeling to deer hunting participation among Ohio hunters"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591983",
+	"dct:identifier":"US201301591983",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e21.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Napier, Ted L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cockerill, Coreen (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gates, Robert (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arvai, Joseph (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Data were collected via a mailed questionnaire from 1,264 Ohio deer hunters during the spring and summer of 2005 to assess participation in deer hunting in Ohio. This constitutes a 37.2 response rate which is considered good by contemporary social science research standards. Study participants were asked to indicate how many days they usually hunt deer in Ohio during each deer hunting season. Respondents were also asked to provide information about the equipment they used to hunt deer, satisfaction with the hunting experience, number of encounters with other hunters, success in seeing deer, and the level of success in harvesting deer. Interactive path modeling was used to examine the relationships among the study variables. The model produced from the statistical analyses demonstrated the theory used to guide the investigation was useful for predicting the number of days respondents indicated they usually participated in deer hunting in Ohio each hunting season. Study findings were basically consistent with theoretical expectations and are discussed in the context of future recreation planning to enhance deer hunting experiences in Ohio."}
+	}}

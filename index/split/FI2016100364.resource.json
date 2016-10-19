@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-121.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The storage of globe artichokes under modified atmospheres"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alexopoulos, Alexios A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akoumianakis, Konstantinos A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Passam, Harold C. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100364",
+	"dct:identifier":"FI2016100364",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Globe artichokes (Cynara scolymus L. cv. Argous), 5.5-7.5 cm and 7.6-10.0 cm in diameter, were harvested from a commercial plantation in southern Greece over two seasons and stored for up to 28 days at 2±0.5 and 10±1.0°C. Artichokes that were not enclosed in plastic lost 24-52% and 48-51% weight within two weeks of storage at 2°C and 10°C respectively, and so were unmarketable. By contrast, artichokes that were stored in polystyrene boxes covered with cling film, perforated polyethylene or clear polystyrene lost less than 3% weight (at 2°C) and 6% (at 10°C) over the same period, and 2.5-5.5% and 5.4-11.1% respectively after 4 weeks. Colour retention of the outer bracts was also improved by enclosure in plastic. The CO2 concentration within the packages was low at 2°C, being 0.4-1.9% for cling film and less than 0.4% for the other two plastics, compared with 1.9-3.2% and 0.1-1.1% respectively at 10°C. Colour and CO2 concentration were not affected by artichoke diameter, although the rate of weight loss was lower in large heads. Enclosed artichokes stored at 10°C were only 20-40% acceptable after 14 days and not at all after 28 days, whereas those stored at 2°C were 60-100% acceptable for market even after 28 days, cling film being slightly preferable to polyethylene and polystyrene."}
+	}}

@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Double-sided UV-C treatments delayed chlorophyll degradation but increased chilling injury of green bean (Phaseolus vulgaris L. cv. Helda) during storage"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591890",
+	"dct:identifier":"US201301591890",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f37.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kasım, M. Ufuk (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kasım, Rezzan (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In this work a study of one-sided and double sided UV-C treatments on chilling injury and chlorophyll degradation of green beans (Phaseolus vulgaris L. cv. Helda) was conducted. In this way green beans kept better in one-sided UV-C treatments, maintaining bright green color and good texture. Nevertheless treatments of double-sided UV-C, especially higher doses, induced chilling injury because of the cell damage of pods as measured by electrolyte leakage during 14 days of storage. UV-C treatments produced different changes on the green beans chlorophyll a and chlorophyll b content. Green beans of DS-3 and DS-5 showed a continuous degradation of chlorophyll b during the storage while the other samples showed decrease at the first 7 days and then increase. However, chlorophyll a and b remained best in pods treated with double-sided UV-C. Visual quality scores of pods in double-sided UV-C treatments were lower than those of one-sided UV-C treatments."}
+	}}

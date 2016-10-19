@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"An input-output energy analysis on main and double cropping sesame production.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Akpinar, M. G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ozkan, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sayin, C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fert, C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant production"},
+	{"value":"energy consumption"},
+	{"value":"Turkey"},
+	{"value":"cropping systems"},
+	{"value":"sesame"},
+	{"value":"input output analysis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001797",
+	"dct:identifier":"FI2016001797",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

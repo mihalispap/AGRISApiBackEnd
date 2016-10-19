@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:title":{"value":"Growth indices of yield variability in wheat (Triticum aestivum L.) under varying degree of shades",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"leaf area index",
+	"xml:lang":"eng"
+	},
+	{"value":"shading",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015106150",
+	"dct:identifier":"IN2015106150",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19679"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Hill Agriculture"},
+	"bibo:ISSN":{"value":"0976-7606"}
+	}
+	},
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.indianjournals.com/ijor.aspx?target=ijor%3Ajha&volume=5&issue=2&article=004",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"LAKSHMANAKUMAR P"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GURU SK"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Light is the main environmental factorwhich regulates growth and development of cropplants. Decrease in light intensity due to shadingadversely affects plant growth and development. Thepresent study was conducted to analyze the effect ofvarying degree of shades on growth characteristics andyield of wheat crop. Two shading treatments wereapplied i.e. 33 % shading (L1) and 66 % shading (L2)with full sunlight as control (L0). The experiment wasconducted during the winter seasons of 2010–2011 in asplit-plot design with three replications with shadingtreatments in the main plot and five varieties of wheatin the sub plots. The findings of the study showed thatthe mean crop growth rate, mean relative growth rate,net assimilation rate, leaf area ratio, leaf area index andspecific leaf weight were significantly influenced byincreasing shade. Grain yield of all the wheat varietiesdecreased with increase in shading. Varietal differencesin grain under shading are discussed in relation to leafarea index and crop growth rate."}
+	}}

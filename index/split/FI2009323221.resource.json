@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Physiological basis for reduced photosynthesis and growth of cadmium-treated wheat cultivars differing in yield potential"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009323221",
+	"dct:identifier":"FI2009323221",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e27.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":", Samiullah (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, N. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nazar, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmad, I. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Two cultivars of wheat (Triticum aestivum L.), namely PBW343 (high yielding type) and WH542 (low yielding type), were treated with Cd(NO3)2 0 and 100 mg kg-1 soil to test the physiological basis for reduced photosynthesis and growth. Activity of carbonic anhydrase and stomatal conductance were reduced by cadmium treatment suggesting mesophyll and stomatal effects on cadmium-induced reduction in photosynthesis.  This decrease was more pronounced in WH542 compared to PBW343 leading to greater reductions in growth characteristics in WH542 at 30, 60 and 90 days after sowing. The effect of cadmium on both the cultivars was more conspicuous at 30 days after sowing."}
+	}}

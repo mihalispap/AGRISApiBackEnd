@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e21.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Suggestions for reformation and financing programs in pig holdings based on the type of nutrition"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Aggelopoulos, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pavloudi, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karipidis, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dotas, V. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mitsopoulos, I. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100381",
+	"dct:identifier":"FI2016100381",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The research was carried out on a sample of 80 pig farms located in various regions of Greece. The financial results were derived based on the technical and financial data of pig farms, and then classified according to the type of nutrition. In order to examine the productivity of the production factors used, an analysis was attempted using the Cobb-Douglas production function. After the estimation of this production function, an attempt was made to investigate the potentials of increasing the final product as well as the marginal productivity of the production factors used, not only through the change of a single factor, but through the simultaneous variation (decrease/increase) of all productivity factors. The simultaneous variation of factors leads to the determination of their optimum combination under given total production costs. The maximization of gross revenue is achieved by the optimum combination of production factors with the same total production cost. Examining the productivity of the production factors and the implementation of optimum or minimum cost, we can draw conclusions for the involvement of factors in the final product and reformations of their use. Suggestions for the reformation of production factors used are related to the potentials of exploiting financing modernization programs and improvement of infrastructure and technical equipment, selection of viability and profitability factors regarding the genetic material and the used animal feed, as well as decrease in the labour cost."}
+	}}

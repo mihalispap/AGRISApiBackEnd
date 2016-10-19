@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Determinants of profitability in rain-fed paddy rice production in the Ikenne Agricultural Zone, Ogun State, Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903857",
+	"dct:identifier":"US201300903857",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/a4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Olubanjo, Olugbenga O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oyebanjo, Olumayowa (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effect of farm inputs use on the profitability of rain-fed paddy rice production in the Ikenne Agricultural Zone, Ogun State, Nigeria, was analysed. The Cobb-Douglas type unit-output-price (UOP) profit function was fitted to the study data using the Zellner’s seemingly unrelated regression (SUR) technique. The results revealed that the elasticity of the profit function increased with the quantity of fertilizer applied and the size of the farmland cultivated, while there was a decline with respect to increased use of hired labour and rice seeds. Fertilizer should thus be made available and affordable to rice farmers in the Ikenne Agricultural Zone since this will enhance farm productivity and ensure increased profitability of rain-fed paddy rice production. Extension activities should also be intensified and focused on introducing labor–saving devices such as tractorisation and at enhancing farmers’ access to improved seeds."}
+	}}

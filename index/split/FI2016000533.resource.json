@@ -1,0 +1,82 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1153",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Akujärvi, Anu,
+    kirjoittaja
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hallikainen, Ville,
+    kirjoittaja.
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyppönen, Mikko,
+    kirjoittaja.
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mattila, Eero,
+    kirjoittaja.
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mikkola, Kari,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rautio, Pasi,
+    kirjoittaja.
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Effects of reindeer grazing and forestry on ground lichens in Finnish Lapland.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"reindeer"},
+	{"value":"grazing"},
+	{"value":"pastures"},
+	{"value":"porotalous"},
+	{"value":"Lichenes"},
+	{"value":"pohjakerros"},
+	{"value":"lichen biomass"},
+	{"value":"laitumet"},
+	{"value":"reindeer husbandry"},
+	{"value":"forest management"},
+	{"value":"timber harvesting"},
+	{"value":"jäkälät"},
+	{"value":"harvesting"},
+	{"value":"biomassa"},
+	{"value":"lichen cover"},
+	{"value":"metsänhoito"},
+	{"value":"reindeer herding"},
+	{"value":"puunkorjuu"}
+	],
+	"bibo:doi":"10.14214/sf.1153",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000533",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000533",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

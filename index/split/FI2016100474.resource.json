@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/e11.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of management practices and water quality of selected freshwater fish farms in Trinidad"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Newaj-Fyzul, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adesiyun, A.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mutani, A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100474",
+	"dct:identifier":"FI2016100474",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The management practices and water quality of 28 selected fish farms in Trinidad were evaluated. A survey of the farms showed that the most popular species were the guppy (Poecilia reticulata), molly (Poecilia sphenops) and helleri (Xiphophorus hellerii) each on 13 (46.4%) of 28 farms. Of a total of 17 species reared, 15 (53.6%) of the 28 farms reared 5 species at a time. Pipeborne water supply provided by the government was the only source to 15 (53.6%) farms while the remaining 13 (46.4%) farms used water from a combination of sources (pipe borne, rain and groundwater). Eighteen (64.3%) of the farms did not treat their water, while 22 (78.6%) and 24 (85.7%) farms practised quarantine and isolation respectively. Nineteen (67.9%) farms used antimicrobial agents to treat their stock with methylene blue and oxytetracycline either alone or in combination. Twenty-two (78.6%) farms have experienced fish kills since their inception and 13 (46.4%) experienced fish kills in either a single pond or the entire farm once per year. The largest number of fish kills occurred in the year 2001 when 8 (28.6%) farms experienced fish kills and 7 (25.0%) of these farms lost greater than 5000 fish in each episode. Water quality of 126 fishponds from 20 farms was determined. Chemical analyses of the water showed that there were unacceptable pH extremes in 30 (23.8%) ponds, total ammonia (>1.0 ppm) in 74 (58.7%) ponds, un-ionized ammonia (>0.01ppm) in 83 (65.9%) ponds and nitrites (>0.2 ppm) in 59 (46.8%) ponds. Mean coliform counts in farms ranged from 7000 to 160,000 per 100 ml. There is an urgent need for improved water quality and farm management in all the farms evaluated."}
+	}}

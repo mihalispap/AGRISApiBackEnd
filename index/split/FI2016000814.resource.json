@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro propagation and cryopreservation of Prunus avium using vitrification and encapsulation dehydration methods /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Shatnawi, Mohamad A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shibli, Rida.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Qrunfleh, Issam.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bataeineh, Khaled.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Obeidat, Maher.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"in vitro culture"},
+	{"value":"cryopreservation"},
+	{"value":"micropropagation"},
+	{"value":"vitrification"},
+	{"value":"Prunus avium"},
+	{"value":"plant propagation"},
+	{"value":"storage"},
+	{"value":"encapsulation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000814",
+	"dct:identifier":"FI2016000814",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

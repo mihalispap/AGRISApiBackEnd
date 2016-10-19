@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f24.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of temperature on storage properties, dormancy, soluble sugar content and ααα-galactosidase activity of seven new potato (Solanum tuberosum L.) cultivars"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shahba, Mohamed A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Stushnoff, Cecil (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"McSay, Ann E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Holm, David (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Davidson, Robert (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100444",
+	"dct:identifier":"FI2016100444",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Cultivar response to storage temperature is a major determinant of potato (Solanum tuberosum L.) tuber dormancy, storage life and soluble sugar content. Considerable genetic variability for storage traits is extant among cultivars, thus to optimize economic returns the release of new potato introductions for grower production should ideally be concurrent with cultural and storage recommendations. This study profiled storage characteristics of several new potato cultivars that were not chemically sprout-inhibited by examining tuber dormancy, soluble sugar accumulation and α-galactosidase glycosidic activity. The two lower temperatures tested (1.1 and 2.2°C) most effectively delayed dormancy release and increased storage life. Russet Norkotah-selection 8 (RNK8), Cherry Red, Chipeta, Russet Norkotah-selection 3 (RNK3), Russet Nugget and Durango Red retained bud dormancy  longest with <10% bud break. Keystone Russet stored only 30-57 days even at 1.1°C. Storage temperatures strongly influenced soluble sugar  accumulation and the length of storage life. The highest soluble sugar accumulation level coincided with the lowest storage temperature (1.1°C).  Averaged over 7 months storage, at the lowest storage temperatures cultivars ranked as follows for reducing sugar content: Keystone Russet > Russet  Nugget > Durango Red > RNK8 > RNK3 > Cherry Red > Chipeta. An α-galactosidase assay, tested as a possible rapid spectrophotometric method to predict the end of dormancy, was not reliable. These data provide guidelines to optimize storage without use of sprout inhibitors for seven new cultivars."}
+	}}

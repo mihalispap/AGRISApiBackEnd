@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality and residual iodine content of some foods prepared with iodized salt"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026348",
+	"dct:identifier":"FI2005026348",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/f4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amr, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jabay, O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Crude and refined salt from two sources (Dead Sea and wet-mining) was iodized separately with KI or KIO3 each at a level of 40 mg iodine kg -1 and used in the preparation of French fries, boiled potatoes, mortadella (emulsion type luncheon meat), canned green beans and flat bread. Residual iodine content of these foods was determined and their sensory quality was evaluated by a taste panel. The results indicate that addition of iodized salt to hot French fries after frying resulted in retention of the iodine, while its addition before frying resulted in its complete loss. There was also a complete loss of iodine as a result of potato boiling in the brines of the salts. In luncheon meat, the residual iodine ranged from 24% to 63% of its original level in the samples prepared with KI and KIO3 respectively regardless of the salt type. Canning of green beans resulted in total loss of iodine irrespective of the iodine source and type of salt, while flat bread retained between 32% and 50% of the iodine added to the original formula with more iodine retained when the Dead-Sea salt was used. Boiling of model solutions containing iodized salt at different pH levels resulted in loss of the iodine regardless of the pH of the solution. Sensory evaluation of the prepared products showed no adverse effects of iodization on the properties of French fries, canned beans or flat bread, but slight yet significant (P≤0.05) off-taste and off-color was noticed in the prepared mortadella when iodate-treated salt was used."}
+	}}

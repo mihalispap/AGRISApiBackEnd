@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelling spatial dependence in an irregular natural forest.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fox, Julian C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bi, Huiquan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ades, Peter K.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"correlogram"},
+	{"value":"spatial autocorrelation"},
+	{"value":"moving average autoregression"},
+	{"value":"luonnonmetsät"},
+	{"value":"Eucalyptus pilularis"},
+	{"value":"growth"},
+	{"value":"virgin forests"},
+	{"value":"kasvumallit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000553",
+	"dct:identifier":"FI2016000553",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

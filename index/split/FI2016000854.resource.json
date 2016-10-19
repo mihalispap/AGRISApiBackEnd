@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"South Africa's view on linkages between national information needs and international reporting requirements.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kelatwang, Sebueng.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"national forest inventory"},
+	{"value":"kansainvälinen yhteistyö"},
+	{"value":"forest inventories"},
+	{"value":"Africa"},
+	{"value":"international cooperation"},
+	{"value":"metsäninventointi"},
+	{"value":"South Africa"},
+	{"value":"valtakunnan metsien inventointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000854",
+	"dct:identifier":"FI2016000854",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

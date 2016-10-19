@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1136",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lideskog, Håkan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ersson, Back Tomas,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergsten, Urban,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karlberg, Magnus,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Determining boreal clearcut object properties and characteristics for identification purposes.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"site properties"},
+	{"value":"terrain conditions"},
+	{"value":"avohakkuualat"},
+	{"value":"regeneration"},
+	{"value":"terrain description"},
+	{"value":"site factors"},
+	{"value":"clearcut obstacles"},
+	{"value":"metsätalous"},
+	{"value":"forestry"},
+	{"value":"metsänuudistus"},
+	{"value":"clear felling"},
+	{"value":"kasvupaikkatekijät"}
+	],
+	"bibo:doi":"10.14214/sf.1136",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001676",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001676",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

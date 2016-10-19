@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The effectiveness of zinc, copper and manganese applied in organic forms in diets of high milk yielding cows"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kinal, Stefania (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Korniewicz, Daniel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jamroz, Dorota (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Korniewicz, Adolf (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sáupczyńska, Maja (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bodarski, Rafal (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ziemiński, Ryszard (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Osięgáowski, Stanislaw (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dymarski, Ireneusz (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100318",
+	"dct:identifier":"FI2016100318",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The experiment was carried out on Black-and-White breed cows upgraded with 60-90% of HF which were fed the similar diets during 305 days of lactation. The cows successively divided into three experimental groups by analogue method were fed with diets containing different forms of zinc, copper and manganese applied in mineral mixtures. The control group received these trace elements as sulphates but in experimental groups 20 or 30% of daily requirement was covered by bioplexes1. Cows receiving Zn, Mn and Cu as metallo-organic bioplexes were characterized in first 100 as well as for 305 days of lactation by higher milk production, by about 2.7 kg and 1.45 kg, respectively. The application of bioplexes of Zn, Mn and Cu had no effect on basal milk components, on the other hand somatic cell count (SCC) decreased by about 22 and 34%, respectively."}
+	}}

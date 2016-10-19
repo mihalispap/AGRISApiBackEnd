@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Interactive effect of moisture stress and elevated CO2 on the oxidative stress in Brassica species"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Das, Ranjan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uprety, D.C. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100411",
+	"dct:identifier":"FI2016100411",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The interactive effect of moisture stress and elevated CO2 on the oxidative injury in Brassica species, B. juncea cv. RH-30 and B. campestris cv. Pusa Gold was examined. CO2 enrichment and moisture stress treatment were done using Free Air CO2 Enrichment (FACE) and restricted irrigation technologies. Moisture stress treatment increased the accumulation of H2O2 and oxyradicals. The elevated CO2 reduced the accumulation of active oxyradicals and increased the activity of antioxidant enzymes ameliorating the drought-induced oxidative stress effects in Brassica species."}
+	}}

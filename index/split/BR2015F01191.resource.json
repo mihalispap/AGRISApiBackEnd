@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   Relações entre consumo alimentar residual ",
+	"xml:lang":"por"
+	},
+	{"value":"Relationship among residual feed intake, digestibility and ingestive behavior in Nellore heifers",
+	"xml:lang":"eng"
+	},
+	{"value":"   comportamento ingestivo e digestibilidade em novilhas Nelore "}
+	],
+	"dc:subject":[
+		{"value":"feeds",
+	"xml:lang":"eng"
+	},
+	{"value":"beef cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"chewing the cud",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01191",
+	"dct:identifier":"BR2015F01191",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1378834075.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MAGNANI,  E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NASCIMENTO,  C. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRANCO,  R. H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BONILHA,  S. F. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RIBEIRO,  E. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MERCADANTE,  M. E. Z."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"n=15) e baixo CAR (- 0,447 ± 0,51 kg de matéria seca/dia"},
+	{"value":"56,65% versus 49,88%"},
+	{"value":"Avaliou-se a digestibilidade e comportamento ingestivo em novilhas Nelore pertencentes a duas classes de consumo alimentar residual (CAR) a fim de elucidar as fontes de variação envolvidas nas diferenças de eficiência alimentar observadas entre os animais. Trinta e duas novilhas classificadas em alto CAR (0,491± 0,51 kg de matéria seca/dia"},
+	{"value":"n=15) and RFI low (- 0.447 ± 0.51 kg/d",
+	"xml:lang":"por"
+	},
+	{"value":"The aim of this study was to evaluate digestibility and feeding behavior of Nellore heifers belonging to different classes of residual feed intake (RFI). Thirty-two heifers ranked high in RFI (0.491± 0.51 kg/d",
+	"xml:lang":"eng"
+	},
+	{"value":"n=17) with a mean age of 502 ± 23.61 days and average weight 364 ± 27.96 kg were kept in confinement for 48 days, with formulated diet based on Tifton 85 hay, corn, cottonseed meal and urea, and ratio of forage: concentrate ratio of 45:55%. The parameters analyzed were digestibility, ingestive behavior and their correlation. Animals low RFI showed higher digestibility of dry matter (DMD), neutral detergent fiber (NDF), acid detergent fiber (ADF) and cellulose that high RFI animals (49.14% versus 45.38%, 56.65% versus 49.88%, 49.96% versus 45.08%, 61.61% versus 56.40% for DMD, NDFD, ADFD, CELD, respectively). These results indicate that more efficient animals have better food utilization. No differences were found in the variables of ingestive behavior among classes of RFI. Changes in the RFI can be partly explained by the digestibility of nutrients, which is related to ingestive behavior of animals."},
+	{"value":"61,61% versus 56,40% para DMS, DFDN, DFDA, DCEL, respectivamente). Esses resultados indicaram que animais mais eficientes têm melhor aproveitamento dos alimentos. Não foram detectadas diferenças nas variáveis de comportamento ingestivo entre as classes de CAR. As variações entre os animais mais e menos eficientes podem ser, em parte, explicadas pela capacidade de digestibilidade dos nutrientes, a qual está relacionada ao comportamento ingestivo dos animais."},
+	{"value":"n=17), com idade média de 502 ± 23,61 dias e peso vivo médio 364 ± 27,96 kg foram mantidas em confinamento por 42 dias, com dieta formulada à base de feno de Tifton 85, milho moído, farelo de algodão e uréia, com relação volumoso:concentrado de 45:55%. Foram avaliados a digestibilidade aparente dos nutrientes e o comportamento ingestivo dos animais. Animais baixo CAR apresentaram maior digestibilidade aparente de matéria seca (DMS), fibra em detergente neutro (DFDN), fibra em detergente ácido (DFDA) e celulose (DCEL) que animais alto CAR (49,14% versus 45,38%"},
+	{"value":"49,96% versus 45,08%"}
+	]
+	}}

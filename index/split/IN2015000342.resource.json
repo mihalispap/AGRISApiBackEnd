@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Cellulolytic Activity in the Digestive Tract of Grass Carp Ctenopharyngodon idella",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":45,
+	"dc:subject":[
+		{"value":"cellulolyse",
+	"xml:lang":"fre"
+	},
+	{"value":"celulolisis",
+	"xml:lang":"esp"
+	},
+	{"value":"appareil digestif",
+	"xml:lang":"fre"
+	},
+	{"value":"cellulolysis",
+	"xml:lang":"eng"
+	},
+	{"value":"digestive system",
+	"xml:lang":"eng"
+	},
+	{"value":"ctenopharyngodon idella",
+	"xml:lang":"esp"
+	},
+	{"value":"sistema digestivo",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":56,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000342",
+	"dct:identifier":"IN2015000342",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mohanty, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dash, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Samanta, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meher, P.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present research was carried out to assess the cellulolytic activity in fish GI tract. Existing protocols for terrestrial animals were modified and standardized for the estimation of different active components of cellulase enzyme complex (endoglucanase, exoglucanase, and Ã¢-glucosidase) in Ctenopharyngodon idella (grass carp). The standardized protocols were applied to quantitate cellulase enzyme activity in different portions of intestine (anterior, middle and posterior), hepatopancreas and intestinal contents. In more than 60% of the samples maximum enzyme activity was found in the anterior intestine, followed by middle intestine and the lowest activity was detected in the posterior portion. Cellulase activity was found in 48 isolated bacteria from the grass carp intestine and intestinal content samples. The enzyme activity pattern from both the endogenous and exogenous source in the study, suggested that the cellulose digestion in grass carp might be carried out in an interesting way where the endoglucanase produced by the fish, first breaks down the complex structure, generating oligosaccharides of various lengths and consequently new chain ends which are later acted upon by the Ã¢-glucosidase produced from both bacterial and fish source and exoglucanase produced only from bacterial source.",
+	"xml:lang":"eng"
+	}
+	}}

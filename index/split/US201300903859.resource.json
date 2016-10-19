@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of organic farming on yield and quality of potato tubers in Ardabil"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903859",
+	"dct:identifier":"US201300903859",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/a6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Barmaki, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khoei, F. Rahimzadeh (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Salmasi, S. Zehtab (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moghaddam, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ganbalani, G. Nouri (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In order to study the possibility of replacing current potato cropping system in Ardabil province of Iran, which seriously depends on chemical inputs, with organic farming methods, an experiment was conducted in the years 2004 and 2005. The experimental design in each year was split plot based on randomized complete blocks with three replications. Main plots were three fertilizer types as 40 Mg ha-¹ well–composted dairy manure (A1), 250 kg ha-¹ nitrogen plus 180 kg ha-¹ P2O5 as chemical fertilizers (A2), and 20 Mg ha-¹ dairy manure plus 125 kg ha-¹ nitrogen and 90 kg ha-¹ P2O5 as the chemical fertilizers (A3). Sub-plots were four types of pesticide against Colorado potato beetle (Leptinotarsa decemlineata Say.): lemon skin extract as an organic pesticide (B1), hot pepper extract as an organic pesticide (B2), endosulfan (Tiodan 35 EC) as a chemical pesticide (B3) and control (without any pesticide application) (B4). Several characteristics, such as potato yield, percent of dry matter of tuber, tuber weight and tuber nitrate content, were measured. Results showed that the yields of plots in which manure was used (A1 and A3) were about 0.4 kg m-² higher than in the plots that received only chemical fertilizers, however, no significant difference was observed between A1 and A3. The percent of dry matter of tuber of A1 was also higher than in the other treatments. Although endosulfan-treated (B3) had highest tuber yield and dry matter among pesticide treatments, it was not significantly different from the lemon skin extract-treated (B1). Different fertilizers and pesticides did not affect the tuber nitrate content."}
+	}}

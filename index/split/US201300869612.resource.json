@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Status of agricultural production and mechanization in Mexico"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869612",
+	"dct:identifier":"US201300869612",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Duran-Garcia, H. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Romero-Mendez, R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Knowledge of the mechanization level of a country, region or state requires to have a certain base of comparison; for example: total number of machines, number of machines per surface area, number of tractors and potency per inhabitant or farmer, amount of labor animals, power per hectare, active population in the field and wages paid to agricultural workers. From this information, various mechanization levels can be established, namely: a) totally mechanized surface, when all the cultivation labor, from land preparation to harvest, is carried out using tractors and suitable machinery; b) partially mechanized surface, when land preparation, sowing, fertilization, cultivation and harvest, although susceptible of being carried out by using machinery, are partially conducted with machines but also with animal and even human labor; c) non-mechanized surface, when agricultural work is carried out only with animal and human labor. The mechanization of agricultural production processes represents one of the means to increase agricultural productivity; that is, to increase the amount of products harvested per cultivated hectare. The present work aims to determine the situation of agricultural mechanization in Mexico. It is concluded that the agricultural mechanization process adopted in Mexico, far from favoring its development, has worsened the poverty levels and accentuated the concentration of income in the hands of those who have managed, through various ways, to accumulate land ownership and make use of infrastructure and financial resources dedicated to farming activities by the government. The agricultural sector’s growth model has resulted in the massive expulsion of peasants, given that it does not guarantee the generation of sufficient means for their subsistence."}
+	}}

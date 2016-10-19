@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Safety issues related to polychlorinated dibenzo-p-dioxins (PCDDs) and polychlorinated dibenzofurans (PCDFs) in fish and shellfish in relation with current Malaysian laws.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Muhammad Rizal Razman
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Azrina Azlan
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"furans"},
+	{"value":"fish"},
+	{"value":"diabetes"},
+	{"value":"dioxins"},
+	{"value":"malformations"},
+	{"value":"congenital abnormalities"},
+	{"value":"hormones"},
+	{"value":"environmental management"},
+	{"value":"functional disorders"},
+	{"value":"Malaysia"},
+	{"value":"food safety"},
+	{"value":"shellfish"},
+	{"value":"neoplasm"},
+	{"value":"seafoods"},
+	{"value":"dibenzofurans"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000420",
+	"dct:identifier":"FI2016000420",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

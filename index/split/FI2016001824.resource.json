@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of uncertain inventory data in forestry scenario models and consequential incorrect harvest decisions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Eid, Tron.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"hakkuu"},
+	{"value":"päätöksenteko"},
+	{"value":"forest inventories"},
+	{"value":"forecasting"},
+	{"value":"ennusteet"},
+	{"value":"decision making"},
+	{"value":"forest management"},
+	{"value":"planning"},
+	{"value":"mallit"},
+	{"value":"harvesting"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"statistical methods"},
+	{"value":"puuntuotanto"},
+	{"value":"metsätalous"},
+	{"value":"metsäninventointi"},
+	{"value":"epävarmuus"},
+	{"value":"puunkorjuu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001824",
+	"dct:identifier":"FI2016001824",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

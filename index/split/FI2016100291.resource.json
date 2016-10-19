@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1F12-21consumer.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Consumer confidence and UK food retailing: Why does local food matter?"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lyon, Phil (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Colquhoun, Anne (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Janhonen-Abruquah, Hille (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100291",
+	"dct:identifier":"FI2016100291",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Over the last 50 years, the UK fresh food market has been increasingly challenged by the growth and domination of large grocery chains. Supermarkets now source supplies on a national and international basis. They have purchasing power to undercut smal-scale local production and distribution systems that minimise many of the past advantages of short distances between the producer and the consumer. This alters producer perspectives. Larger-scale production and sales contracts for national distribution are favoured. Smaller producers focusing on supply to local markets have tended to struggle as retail opportunities for their fresh produce diminished. Street markets for fresh food, once the main source for the UK urban population, are now a minor contributor to overall sales. In part this results from a larger population and the limited number of markets operating within traditional constraints of time and location. In part, also, consumer perceptions of quality in street markets declined with the ascent of prewashed bimbo fruit and vegetables along with the disembodied, pre-packed meat favoured by many. Excessive pesticide use, BSE, foot & mouth disease and E.coli problems have all recently taken their toll of consumer confidence and have disturbed taken-for-granted urban assumptions about food safety. Furthermore, media attention on factory farming techniques have focussed public disquiet on issues that, until a few years ago, many consumers were happy to ignore. Vegetarianism, organic production methods and attempts to reconnect food producers and local consumers are arguably related strategies emerging from these problematic issues of consumer confidence. By reference to UK experiences over the last 10 years, the paper explores food shopping trend convergence, reduced consumer trust, and attempts to restore confidence."}
+	}}

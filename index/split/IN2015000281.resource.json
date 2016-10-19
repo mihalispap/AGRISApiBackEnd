@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of DNA polymorphism in Butyrophilin gene on milk yield in Murrah buffalo (Bubalus bubalis)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1068,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"genes",
+	"xml:lang":"esp"
+	},
+	{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"rendimiento lechero",
+	"xml:lang":"esp"
+	},
+	{"value":"polymorphism",
+	"xml:lang":"eng"
+	},
+	{"value":"rendement laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"polymorphisme",
+	"xml:lang":"fre"
+	},
+	{"value":"gene",
+	"xml:lang":"fre"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"adn",
+	"xml:lang":"esp"
+	},
+	{"value":"dna",
+	"xml:lang":"eng"
+	},
+	{"value":"polimorfismo",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1072,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000281",
+	"dct:identifier":"IN2015000281",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kale, D.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yadav, B.R."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"DNA polymorphism of Butyrophilin gene was analyzed using PCR-RFLP, SSCP and to find possible relationship (if any) of identified polymorphism with milk production traits in Murrah buffalo. Genomic DNA was isolated from 110 Murrah from Institutes herd. The PCR-RFLP polymorphism analysis of Butyrophilin gene using TaqI, MboI and HaeIII restriction enzymes revealed single restriction pattern indicating absence of variation in buffalo. The PCR-SSCP analysis of intron 3 and 4 exhibited monomorphic SSCP patterns. However, intron 1 region of Butyrophilin revealed polymorphic BTI1SSCP with 3 patterns. The identified buffalo butyrophilin variants were found with following frequencies: A, 0.6; B, 0.31 and C, 0.09 in Murrah buffaloes. The direct DNA sequencing of 3 polymorphic SSCPs within Murrah buffalo Butyrophilin gene revealed BTI1 SNP (c.184CTG) confirming 3 variants, viz. A, B and C. The statistical analysis indicated BTI1TT SNP genotypes were significantly associated with 305 days lactation milk yield of Murrah buffaloes. The Murrah buffaloes with BTI1TT SNP genotypes had 683.93 kg and 320.48 kg higher milk yield as compared to BTI1CT and BTI1CG SNP genotypes respectively. The identified association of BTI1TT SNP genotypes with milk yield after validation in large population with more records will be useful for designing selection and breeding strategies for genetic improvement of buffaloes for milk production.",
+	"xml:lang":"eng"
+	}
+	}}

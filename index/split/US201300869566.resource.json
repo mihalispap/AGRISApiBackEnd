@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Mineral composition and total phenolic content of pomegranate molasses"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869566",
+	"dct:identifier":"US201300869566",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yilmaz, Yusuf (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Çelik, Ilyas (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Isik, Fatma (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Pomegranate molasses, a concentrated product of pomegranate juice, is widely used as a condiment in various foods. In this study, mineral composition and total phenolic content of pomegranate molasses were determined besides other chemical properties. Even though processing steps include clarification and filtration, pomegranate molasses were a good source for minerals such as calcium (280 mg/kg), phosphorus (16 mg/kg), potassium (20 mg/kg), iron (16 mg/kg), zinc (7 mg/kg) and magnesium (28 mg/kg). Total phenolic content of pomegranate molasses was about 52 mg gallic acid equivalent/g. High mineral and phenolic content of pomegranate molasses could contribute to the total intake of these constituents in human diet."}
+	}}

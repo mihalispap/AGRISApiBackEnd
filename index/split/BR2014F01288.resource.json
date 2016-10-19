@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   desenvolvimento e produção do Bombyx mori L. "},
+	{"value":"Storage condition of mulberry branches (Morus sp.) in the survival, development and production of Bombyx mori L.",
+	"xml:lang":"eng"
+	},
+	{"value":"   Condição de armazenamento de ramos de amoreira (Morus sp.) na sobrevivência ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"calcium",
+	"xml:lang":"eng"
+	},
+	{"value":"intestinal flora",
+	"xml:lang":"eng"
+	},
+	{"value":"morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"experimentation",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"69/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2014F01288",
+	"dct:identifier":"BR2014F01288",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1365773500.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"PORTO,  A. J."
+	}
+	},
+	"bibo:abstract":[
+		{"value":"The study was carried with the objective of evaluate the survival, development and cocoons production of silkworm fed with mulberry leaves (Cultivar IZ 56/4) from branches stored in warehouse(24 hours) or stored in the system of covering with wet cloth and immersion of bases in water, for a period of 72 hours. It was used a completely randomized design, with two treatments and six replications. Caterpillars fed with mulberry leaves from branches stored in the system of covering and immersion for 72 hours had conditions suitable for survival, development and production of cocoon, not differing from those who received leaves from branches stored in the warehouse.",
+	"xml:lang":"eng"
+	},
+	{"value":"O estudo foi conduzido com o objetivo de avaliar a sobrevivência, desenvolvimento e produção de casulos do bicho-da-seda, quando alimentado com folhas de amoreira (Cultivar IZ 56/4) provenientes de ramos armazenados em depósito (24 horas) ou de ramos armazenados no sistema de cobertura com tecido úmido e imersão das bases em água, por período de 72 horas. O delineamento experimental adotado foi o inteiramente casualizado com dois tratamentos e seis repetições. Lagartas alimentadas com folhas de amoreira provenientes de ramos armazenados no sistema de cobertura e imersão por 72 horas tiveram condições adequadas de sobrevivência, desenvolvimento e produção de casulo, não diferindo daquelas que receberam folhas provenientes de ramos armazenados em depósito.",
+	"xml:lang":"por"
+	}
+	]
+	}}

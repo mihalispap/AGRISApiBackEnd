@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"An approach to predicting the potential forest composition and disturbance regime for a highly modified landscape : a pilot study of Strathdon in Scottish Highlands /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Quine, Christopher P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Humphrey, Jonathan W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Purdy, Karen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ray, Duncan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Scotland"},
+	{"value":"forest management"},
+	{"value":"tuuli"},
+	{"value":"wind damage"},
+	{"value":"puuraja"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"kasvupaikka"},
+	{"value":"site factors"},
+	{"value":"ennallistaminen"},
+	{"value":"Europe"},
+	{"value":"metsät"},
+	{"value":"environmental protection"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000163",
+	"dct:identifier":"FI2016000163",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Experimental evidence for associational resistance against the European pine sawfly in mixed tree stands /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kaitaniemi, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Riihimäki, Janne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koricheva, Julia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vehviläinen, Harri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"stand characteristics"},
+	{"value":"biodiversity"},
+	{"value":"tuholaiskestävyys"},
+	{"value":"puusto"},
+	{"value":"natural enemies"},
+	{"value":"biodiversiteetti"},
+	{"value":"tri-trophic interactions"},
+	{"value":"Neodiprion sertifer"},
+	{"value":"puulajikoostumus"},
+	{"value":"luontaiset viholliset"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001238",
+	"dct:identifier":"FI2016001238",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

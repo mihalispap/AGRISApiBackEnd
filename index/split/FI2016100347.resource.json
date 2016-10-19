@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of a model for simulating ambient conditions in fresh fruit and vegetable storage facility"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Markarian, N.R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Landry, J.-A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vigneault, Clément (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100347",
+	"dct:identifier":"FI2016100347",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A mathematical model simulating forced air cooling system for horticultural storage facility was developed. Governed by heat and mass transfer equations, the model describes both the storage process and the interaction between a produce and its environment, and takes into account the physiological behavior of the stored produce due to changes in the environmental conditions. The model was integrated in computer software to provide simulated environments. The software interface allows inputs of initial and incoming air conditions in a storage facility with specified dimensions and mass of produce, and predicts the resulting conditions over a specified period of time. The simulation software can be used as a research tool to test new systems or evaluate control strategies."}
+	}}

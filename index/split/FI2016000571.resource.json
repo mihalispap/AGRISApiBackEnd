@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/8/4-5/response.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Responses of yield and N use of spring sown crops to N fertilization, with special reference to the use of plant growth regulators.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pietola, Liisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tanni, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Elonen, Paavo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"growth retardants"},
+	{"value":"fertilizers"},
+	{"value":"vehnä"},
+	{"value":"viljan laatu"},
+	{"value":"oil crops"},
+	{"value":"kaura"},
+	{"value":"Finland"},
+	{"value":"mepikvatti"},
+	{"value":"crop yield"},
+	{"value":"kasvunsääteet"},
+	{"value":"typpilannoitus"},
+	{"value":"Brassica"},
+	{"value":"fertilizer application"},
+	{"value":"etefoni"},
+	{"value":"nitrogen"},
+	{"value":"nutrients"},
+	{"value":"kevätviljat"},
+	{"value":"sato"},
+	{"value":"lannoitus"},
+	{"value":"ohra"},
+	{"value":"typpi"},
+	{"value":"cereal crops"},
+	{"value":"rypsi"},
+	{"value":"klormekvatti"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000571",
+	"dct:identifier":"FI2016000571",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

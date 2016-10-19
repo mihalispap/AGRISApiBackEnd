@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The pH stress on plant growth of Arabidopsis thaliana and pearl millet in NaCl and Na2CO3 solutions"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026632",
+	"dct:identifier":"FI2005026632",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/e3.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"M. Ali, Ghulam (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Murtaza, N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, N. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Collins, J.C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"McNeilly, T. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effect of salts (NaCl and Na2CO3) stress to link up with pH on plant growth of Arabidopsis thaliana and pearl millet was assessed. Electric conductivity increased and pH decreased with the passage of time in both salts nutrient solution. The toxic effect on the growth of Arabidopsis thaliana and pearl millet followed the order of Na2CO3> NaCl +adjusted pH as Na2CO3> NaCl only. Na2CO3 was found to be more toxic than NaCl even with pH equivalent to Na2CO3 which suggests that under Na2CO3 stress not only high pH retards plant growth but CO32- also has its own drastic effect. The pH of sap extracted from pearl millet shoots grown in Na2CO3 was considerably higher than in plants grown in NaCl, which indicates that different salts not only affect plant root system but also raise the pH inside the cellular system and damage cell structure."}
+	}}

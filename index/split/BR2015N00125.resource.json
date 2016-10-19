@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ÁREAS ALAGADAS EM MACAPÁ: ESTUDO DE CASO BAIRRO DO ARAXÁ",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":146,
+	"bibo:volume":3,
+	"bibo:pageEnd":156,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00125",
+	"dct:identifier":"BR2015N00125",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/730",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sybelle Lima Serrão"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ricardo Ângelo Pereira de Lima"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<span style=\"font-size: 10.0pt; line-height: 115%; font-family: \">Este artigo visa abordar as discussões travadas a cerca da ocupação de área alagadas no município de Macapá, especificamente no bairro do Araxá. Destacando a necessidade de organizar o espaço urbano como forma de evitar o crescimento desordenado e precário das cidades, destacando que na área alagada do bairro do Araxá existem sérios problemas de ordem social, econômico e ambiental oriundos de uma ocupação não planejada e irregular por parte da população de baixa renda que procura os espaços desprezados pelo mercado imobiliário para fixar moradia. O que vai resultar no aumento da pressão das atividades antrópicas sobre o meio ambiente, gerando efeitos e impactos ambientais para toda cidade de Macapá</span>",
+	"xml:lang":"por"
+	}
+	}}

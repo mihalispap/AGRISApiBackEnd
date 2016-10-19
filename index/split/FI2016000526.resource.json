@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Pollinering i äppleodling.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Goldschmidt, Erich.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"hedelmäpuut"},
+	{"value":"pölytys"},
+	{"value":"koristeomenapuut"},
+	{"value":"field experimentation"},
+	{"value":"pollination"},
+	{"value":"pollen incompatibility"},
+	{"value":"kenttäkokeet"},
+	{"value":"pölyttäjät"},
+	{"value":"Malus"},
+	{"value":"fruit trees"},
+	{"value":"Malus x domestica"},
+	{"value":"apples"},
+	{"value":"ornamental woody plants"},
+	{"value":"pollinators"},
+	{"value":"omenapuut"},
+	{"value":"Sweden"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (231 :
+    1994 :
+    Kivik)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000526",
+	"dct:identifier":"FI2016000526",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

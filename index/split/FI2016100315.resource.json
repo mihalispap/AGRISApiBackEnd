@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f3.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Dietary intake and chronic diseases in Jamaica - An island-wide survey"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ragoobirsingh, Dalip (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Morrison, Errol Y. St. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Johnson, Pauline (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lewis-Fuller, Eva (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100315",
+	"dct:identifier":"FI2016100315",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Jamaica is a Caribbean island with an area of 11,460 km2 and has a population of just under 3 million, which is predominantly of Afro-origin. It has only been recently reported that it has a high prevalence of obesity, diabetes and hypertension. This study was, therefore, designed to investigate the relationship, if any, between dietary intake and the prevalence of these chronic diseases in the Jamaican population. The survey team spent a week in each parish visiting various districts which were randomly selected. Employing the Statistical Institute of Jamaica’s (STATIN) two stages stratified random sampling design, each dwelling in the “Sampling Universe” had an equal probability of being selected. At the homes visited only individuals 15 years and over were seen, from whom informed consent was obtained. A questionnaire which included medical and family histories along with dietary details was administered. The data was analysed using the SPSS statistical soft-ware version 8. Non-response was documented and factored into the final analysis of the survey data. The results show that boiled green bananas and wheat bread were the most common high carbohydrate foods consumed by Jamaicans. Chicken was the most popular meat, while carrots and callaloo the most highly consumed vegetables. It was evident that Jamaicans eat a sizeable amount of foods high in fat – cheese, eggs and butter. Interestingly, consumption of these foods decreased with the onset of diabetes, hypertension and obesity. This suggests that Jamaicans are aware of the risk that some fats can pose in the development of these chronic diseases. Our findings of this survey suggest that health education with a view to improving dietary lifestyle is animportant way forward."}
+	}}

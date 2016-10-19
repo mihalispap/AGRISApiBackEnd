@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Spatial structure in four Norway spruce stands with different management history in the Alps and Carpathians.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lamedica, Silvia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lingua, Emanuele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Popa, Ionel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Motta, Renzo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Carrer, Marco.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"history"},
+	{"value":"random mortality"},
+	{"value":"mortality"},
+	{"value":"forest stands"},
+	{"value":"point pattern analyses"},
+	{"value":"Picea abies"},
+	{"value":"stand structure"},
+	{"value":"spatial structure"},
+	{"value":"LISA"},
+	{"value":"management"},
+	{"value":"old-growth forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000665",
+	"dct:identifier":"FI2016000665",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

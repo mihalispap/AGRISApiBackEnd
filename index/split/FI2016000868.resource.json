@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Reciprocal grafting between early maturing and normal maturing olive varieties : preliminary effects on the nature of juvenility and flowering.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Malik, Nasir S. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bradford, Joe M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"grafting"},
+	{"value":"jalontaminen"},
+	{"value":"Olea europaea"},
+	{"value":"maturity"},
+	{"value":"oliivit"},
+	{"value":"flowering"},
+	{"value":"varieties"},
+	{"value":"juvenility of plants"},
+	{"value":"kypsyminen"},
+	{"value":"oliivi"},
+	{"value":"olives"},
+	{"value":"kasvinjalostus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000868",
+	"dct:identifier":"FI2016000868",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

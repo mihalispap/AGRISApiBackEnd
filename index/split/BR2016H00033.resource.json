@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:title":{"value":"RECUPERAÇÃO DE UM SOLO DE CERRADO APÓS 19 ANOS: OCORRÊNCIA ESPONTÂNEA DE ESPÉCIES ARBÓREAS",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":44,
+	"bibo:volume":1,
+	"bibo:pageEnd":57,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00033",
+	"dct:identifier":"BR2016H00033",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-12",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/221",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Poliana Aparecida Leonel Rosa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marlene Cristina Alves"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ligia Maria Lucas Videira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carolina Batista dos Santos Bonini"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A intervenção humana com a retirada das camadas superficiais do solo para obras civis, tem resultado em extensas áreas degradadas. Através deste trabalho objetivou-se avaliar o grau de recuperação de um solo, após 19 anos, sob diferentes intervenções ... ",
+	"xml:lang":"por"
+	}
+	}}

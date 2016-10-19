@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Unilateral mastectomy for the management of chronic suppurative mastitis in a goat",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":148,
+	"dc:subject":[
+		{"value":"operation chirurgicale",
+	"xml:lang":"fre"
+	},
+	{"value":"mastectomy",
+	"xml:lang":"eng"
+	},
+	{"value":"surgical operations",
+	"xml:lang":"eng"
+	},
+	{"value":"operaciones quirurgicas",
+	"xml:lang":"esp"
+	},
+	{"value":"mastectomia",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"mastectomie",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":151,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000389",
+	"dct:identifier":"IN2015000389",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Ashwani"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahajan, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sangwan, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandra, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saini, N.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anand, A."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present case report describes successful surgical management of unilateral mastectomy in a goat under general anesthesia which was presented with a massive hard growth involving the right udder since last one year. The growth was gradually increasing in size and was frequently bleeding from the skin lacerations. Palpation of the growth revealed hard nodular consistency suspecting it to be a tumour. Ultrasonographic examination using 7.0 MHz linear transducer revealed multiple round to oval capsulated cavities filled with echogenic contents. Ultrasound guided fine needle aspiration of the cavity yielded pus like material suggestive of chronic suppurative condition of udder. Exploration of amputated udder revealed multiple nodular masses filled with pus.",
+	"xml:lang":"eng"
+	}
+	}}

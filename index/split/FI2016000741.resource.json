@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Dutch fox farming field trial : welfare of farmed blue foxes (Alopex lagopus).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Urlings, Bert A. P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    de Jonge, Gerrit.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"animal housing"},
+	{"value":"kettu"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"sosialisaatio"},
+	{"value":"foxes"},
+	{"value":"tuotantoympäristö"},
+	{"value":"sinikettu"},
+	{"value":"selection"},
+	{"value":"adaptation"},
+	{"value":"social behaviour"},
+	{"value":"furbearing animals"},
+	{"value":"animal welfare"},
+	{"value":"Alopex lagopus"},
+	{"value":"sopeutuminen"},
+	{"value":"turkiseläimet"},
+	{"value":"valinta"},
+	{"value":"hyvinvointi"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000741",
+	"dct:identifier":"FI2016000741",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of Nutrient Leaching in Pots under Greenhouse Condition",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"magnesium",
+	"xml:lang":"eng"
+	},
+	{"value":"calcium",
+	"xml:lang":"eng"
+	},
+	{"value":"leaching",
+	"xml:lang":"eng"
+	},
+	{"value":"nitrogen",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"15/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/AL2016100000",
+	"dct:identifier":"AL2016100000",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11251"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Albanian Journal of Agricultural Sciences"},
+	"bibo:ISSN":{"value":"2218-2020"}
+	}
+	},
+	"dct:issued":"2016-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"https://sites.google.com/a/ubt.edu.al/rssb/blerina_abstract-1",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"RROÇO EVAN"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DOKO ADRIAN"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Department of Agroenvironment and Ecology, Agriculture University of Tirana, Tirana – Albania"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The use of fertilizers in agriculture is a possible source of soil and water pollution. The aim of the study was toevaluate leaching of N, Ca and Mg in a pot experiment under two fertilizers rates, in the presence and absence ofplants and with two different soil types (loamy and clay loam soil). Half of the pots were planted with Italian ryegrass(Lolium multiflorum) in order to evaluate effect of the presence of the plants on the leaching process. Results show arelatively high amount of N and Ca leached especially from the loamy soil and in absence of the plants. The presenceof ryegrass plants decreased the amount of N and Ca leached significantly. Mg was leached in smaller amountscompared with the other two elements.",
+	"xml:lang":"eng"
+	}
+	}}

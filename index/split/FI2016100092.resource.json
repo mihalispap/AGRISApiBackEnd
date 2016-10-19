@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Regulation of flowering in ‘Arbequina’ olives under non-chilling conditions: The effect of high daytime temperatures on blooming"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Malik, Nasir S.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bradford, Joe M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100092",
+	"dct:identifier":"FI2016100092",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Recently, we have shown that flowering and fruiting in ‘Arbequina’ cultivar of olives (Olea europaea) can be achieved in the absence of chilling temperatures (≤ 7°C). In our previous studies we showed that absence of flowering in certain subtropical climates (e.g. southern Texas) is not due to lack of chilling temperature but due to high temperatures during winter days. Based on these initial results we hypothesized that daytime temperatures ≤ 23°C could produce adverse effects on flowering in ‘Arbequina’ olives. In the present study trees were subjected to 24±1°C for 4-5 hrs during the day in temperature-controlled chambers. We found that exposure to temperatures of 24±1°C for a few hours during daytime (from November 15, 2004 until February 15, 2005) could significantly inhibit flowering in ‘Arbequina’ olives while nighttime temperature was maintained at 9±1°C. In addition, flower formation occurred when nighttime temperatures were raised from 8±1°C to 12±1°C. In the growth chamber where daytime temperatures reached to 24±1°C for 4-5 hrs, three trees flowered even when the night temperatures were kept at 8±1°C. However, these trees flowered again when the nighttime temperatures were raised to 12±1°C. This resulted in a unique phenomenon where new flowers were being formed just a node away from developing or fully developed fruits (but before color change or maturity). Thus, fruit development seems to have little ramification on the formation of new blooms in olives."}
+	}}

@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelling of landscape and land use changes with application of spatial analysis modelling tool to Quillow Region of North East Germany"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029329",
+	"dct:identifier":"FI2007029329",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/e4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ajibefun, I.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wenkel, K-O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wieland, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mirschel, W. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper presents an integrated ecologic-economic land use model to study land use and landscape changes in the Quillow Region of North East Germany. Land use studies continue to gain momentum among researchers and policy-makers, given the social, economic and environmental implications of land use and landscape changes. In this study, attempts were made to model land use and landscape changes using integrated economic and ecologic models in a GIS environment. Data on soil properties, crops and the yield, production inputs, and output prices, value of premium as well as climatic and other spatial data were used to implement the models. Results indicated that land use and landscape are greatly influenced by changes in price and premium policies. Also, different crop management practices determine the erosion potential in the study areas. At the current price and premium levels, projections into year 2030 indicate a wider distribution of crop coverage, with low erosion potential."}
+	}}

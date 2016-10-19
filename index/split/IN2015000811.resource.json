@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth and yield performance of some exotic clones of Hevea brasiliensis in North Kerala region.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":155,
+	"dc:subject":[
+		{"value":"caoutchouc",
+	"xml:lang":"fre"
+	},
+	{"value":"caucho",
+	"xml:lang":"esp"
+	},
+	{"value":"croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"hevea brasiliensis",
+	"xml:lang":"esp"
+	},
+	{"value":"crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"clone",
+	"xml:lang":"fre"
+	},
+	{"value":"rubber",
+	"xml:lang":"eng"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"clones",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":162,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000811",
+	"dct:identifier":"IN2015000811",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Radha Lakshmanan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meenakumari, T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandrasekhar, T.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nazeer, M. A."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The relative advantage of agroforestry system over arable crop farming : empirical evidence from cocoa based agroforestry and arable crop farming systems in Oyo State, Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Alabi, R. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Daramola, A. G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ajibefun, I. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"Theobroma cacao"},
+	{"value":"arable farming"},
+	{"value":"viljelyjärjestelmät"},
+	{"value":"peltoviljely"},
+	{"value":"agroforestry"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001616",
+	"dct:identifier":"FI2016001616",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

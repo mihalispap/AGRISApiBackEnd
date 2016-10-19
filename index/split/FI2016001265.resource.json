@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Behovsanpassning av växtnäring till lök baserat på analyser av jord och växt.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Johnson, Sara.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"lannoitustarve"},
+	{"value":"nutritional requirements"},
+	{"value":"kasvinravitsemus"},
+	{"value":"vihannekset"},
+	{"value":"analytical methods"},
+	{"value":"soil analysis"},
+	{"value":"fertilizer application"},
+	{"value":"vegetable crops"},
+	{"value":"maa-analyysi"},
+	{"value":"Allium"},
+	{"value":"sipulit"},
+	{"value":"kasvianalyysi"},
+	{"value":"lannoitus"},
+	{"value":"plant nutrition"},
+	{"value":"plant requirements"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (266 :
+    1996 :
+    Höör)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001265",
+	"dct:identifier":"FI2016001265",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

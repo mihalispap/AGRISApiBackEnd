@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Social returns to soybean utilization technologies in Southwest of Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188150",
+	"dct:identifier":"FI2007188150",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ogunsumi, L. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Obatolu, V. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Afolami, C. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Omoyajowo, A.O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A study on social returns to technology was carried out in Southwest and Central Zones of Nigeria with the consideration of soybean utilization technology. The study assesses the economic pay-off due to improved soybean utilization technology in the zones. Primary data were collected through the rapid appraisal methodology and also the use of questionnaires using focus approach. These were supplemented with secondary data collected from the ADPs, IITA, IAR&T, CBN and Federal office of statistics reports. An internal rate of returns of 26% was estimated from the streams of net gains to the economy. The returns to investment in soybean utilization technology are attractive, they thus signal to more opportunities for investors to further fund soybean utilization technology in the zones."}
+	}}

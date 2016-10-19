@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Phenolic compounds and their antioxidant properties in different tissues of carrots (Daucus carota L.)"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038549",
+	"dct:identifier":"FI2006038549",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f16.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Zhang, Donglin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hamauzu, Yasunori (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Phenolic compounds, their antioxidant properties and distribution in carrots were investigated in this study. Carrots contained mainly hydroxycinnamic acids and derivatives. Among them chlorogenic acid was a major hydroxycinnamic acid, representing from 42.2% to 61.8% of total phenolic compounds detected in different carrot tissues. The phenolic contents in different tissues decreased in the following order: peel > phloem > xylem. Although carrot peel accounted for only 11.0% of the amount of the carrot fresh weight, it could provide 54.1% of the amount of total phenolics in 100 g fresh weight of carrots, while the phloem tissue provides 39.5% and the xylem tissue provides only 6.4%. Antioxidant and radical scavenging activities in different tissues decreased in the same order as phenolic content and correlated well with total phenolic contents. All phenolic extracts had stronger radical scavenging ability than pure chlorogenic acid, vitamin C and β-carotene. Therefore, we suggest that phenolics could play an important role in antioxidant properties in carrots and other hydroxycinnamic derivatives such as dicaffeoylquinic acids in the extracts may exert some strong antioxidant activities along with chlorogenic acid."}
+	}}

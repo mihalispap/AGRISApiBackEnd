@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-19.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Inactivation of microorganisms in apple cider using spice powders, extracts and oils as antimicrobials with and without low-energy pulsed electric field"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Liang, Ziwei (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cheng, Zhihui (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mitta, Gauri S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100442",
+	"dct:identifier":"FI2016100442",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effect of different concentrations of spices or their extracts and essential oils on the survival of spoilage microorganisms in apple cider was studied. The effect of two spices (clove oil and mint extract) combined with pulsed electric field (PEF) treatment in inactivating microorganisms was also investigated. Nearly 2-3 log reduction was observed at 45°C when 2% w/w cinnamon, turmeric, nutmeg, cardamom and red chili powders were used. There was 6 log reduction when cider samples were treated at 45°C and in the presence of 1.8% of mint extract. Clove oil was found to be very strong antimicrobial agent relative to other spices evaluated. Even with the concentration of clove oil as low as 0.2%, microbial reduction of 5.3 log was obtained at room temperature. The microbial inactivation was influenced by the treatment temperature and the concentration of spices. Greater microbial inactivation was observed when clove oil or mint extract was used with PEF at 40 pulses of 90 kV/cm electric field. Clover extract was more powerful in inactivating microbes than other 6 extracts evaluated. With the increase of temperature, the antimicrobial activity of the extracts also increased."}
+	}}

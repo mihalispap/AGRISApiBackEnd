@@ -1,0 +1,91 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Produção ",
+	"xml:lang":"por"
+	},
+	{"value":"   composição química e taxa de lotação de sistemas forrageiros constituídos por coastcross-1 sobressemeada com azevém e trevos "},
+	{"value":"Production, chemical composition and stocking rate of forage systems compounds for coastcross-1 intercropped with ryegrass and clovers",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"trifolium",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"surfactants",
+	"xml:lang":"eng"
+	},
+	{"value":"production",
+	"xml:lang":"eng"
+	},
+	{"value":"proteins",
+	"xml:lang":"eng"
+	},
+	{"value":"cow milk",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F04413",
+	"dct:identifier":"BR2015F04413",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1418137619.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"DIEHL, M.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVO, C.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"AGNOLIN, C.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MEINERZ, G.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FOLETTO, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BEM, C.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"AGUIRRE, P.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ARAÚJO, T.L.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MACHADO,  P.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MOMBACH, G."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Coastcross-1 + ryegrass + red clover (Trifolium pratense L., cv. Estanzuela 116) and Coastcross-1 + ryegrass + white clover (Trifolium repens L., cv. Yi). The experiment was carried out from April 2007 to April 2008, for 11 grazing cycles, six in winter season and five in summer season. Holstein cows receiving 0.9% of body weight/day feed supplement concentrate were used. The herbage mass of pre and post-grazing, botanical and morphological composition crude protein and neutral detergent fiber level were evaluated. A randomized complete design was used with three treatments (forage systems) two replications (paddocks) and independent evaluations (grazing cycles). Superior value (P",
+	"xml:lang":"por"
+	},
+	{"value":"O objetivo dessa pesquisa foi avaliar a produção de forragem, os teores de proteína bruta e fibra em detergente neutro, e taxa de lotação de três sistemas forrageiros constituídos por Coastcross-1 (Cynodon dactylon L. Pers.) + azevém (Lolium multiflorum Lam., cv. Comum)"},
+	{"value":"The objective of this research was to evaluate the forage production, crude protein and neutral detergent fiber level, stocking rate of three forage systems compounds for Coastcross-1 (Cynodon dactylon L. Pers.) + ryegrass (Lolium multiflorum Lam., cv. Comum)",
+	"xml:lang":"eng"
+	},
+	{"value":"Coastcross-1 + azevém + trevo vermelho (Trifolium pratense L., cv. Estanzuela 116) e Coastcross-1 + azevém + trevo branco (Trifolium repens L., cv. Yi). O experimento foi conduzido entre 26 de abril de 2007 e 22 de abril de 2008, sendo conduzidos 11 pastejos, seis no período hibernal e cinco no estival. Para avaliação foram utilizadas vacas em lactação da raça Holandesa que receberam suplementação alimentar com concentrado à razão de 0,9% do peso corporal/dia. Avaliou-se a massa de forragem de pré e pós-pastejo, as composições botânica e morfológica e os teores de proteína bruta e fibra em detergente neutro. O delineamento experimental foi inteiramente casualizado com três tratamentos (sistemas forrageiros), duas repetições (piquetes) e avaliações independentes (ciclos de pastejos). No período hibernal foram observados resultados superiores (P"}
+	]
+	}}

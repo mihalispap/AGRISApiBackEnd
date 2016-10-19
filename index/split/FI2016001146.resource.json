@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Energetiske målinger i forbindelse med selektion for foderudnyttelse hos mink.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Elnif, Jan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Therkildsen, Niels.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"minks"},
+	{"value":"lämmönsäätely"},
+	{"value":"minkki"},
+	{"value":"thermoregulation"},
+	{"value":"weight gain"},
+	{"value":"turkiseläimet"},
+	{"value":"feed conversion efficiency"},
+	{"value":"rehunkäyttökyky"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (253 :
+    1994 :
+    Rebild)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001146",
+	"dct:identifier":"FI2016001146",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

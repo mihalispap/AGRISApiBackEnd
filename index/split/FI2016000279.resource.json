@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Fruit maturation as a parameter for selection of sweet orange cultivars in Brazil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Cavalcante, I. H. L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Martins, A. B. G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stuchi, E. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Campos, M. C. C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"weight"},
+	{"value":"varieties"},
+	{"value":"harvesting date"},
+	{"value":"fruits"},
+	{"value":"sweet oranges"},
+	{"value":"quality"},
+	{"value":"maturation"},
+	{"value":"chemical composition"},
+	{"value":"selection"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000279",
+	"dct:identifier":"FI2016000279",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Inclusion body hepatitis-hydropericardium syndrome in commercial broiler chickens.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":255,
+	"dc:subject":[
+		{"value":"sintomas",
+	"xml:lang":"esp"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"hepatite",
+	"xml:lang":"fre"
+	},
+	{"value":"hepatitis",
+	"xml:lang":"esp"
+	},
+	{"value":"symptoms",
+	"xml:lang":"eng"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"symptome",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":257,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000128",
+	"dct:identifier":"IN2015000128",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sawale, G.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, S. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sivastava, P.K"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sabale, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ingole, K.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pawale, N.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"More, B.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Five cases of Inclusion body hepatitis (ffiH) - hydropericardium syndrome (HPS) were investigated in commercial broiler chickens of 15-37 days age in Maharashtra state, India. Grossly, livers were enlarged and mottled with a reticular pattern on its surface. Hydropericardium was also observed in few cases. Mortality ranged from negligible to as high as 10% in the studied flocks. In all the cases, intranuclear basophilicnclusionbodies were observed in the hepatocytes along with fatty changes and mononuclear cellinfiltration around portal triads.The disease was diagnosed on the basis of histopathological examination, agar gel precipitation test, isolation of virus and demonstration of inclusion bodies in liver cell culture using Macchiavello's technique.",
+	"xml:lang":"eng"
+	}
+	}}

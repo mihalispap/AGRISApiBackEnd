@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Micropropagated silver birches (Betula pendula) in the field : performance and clonal differences.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Viherä-Aarnio, Anneli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Velling, Pirkko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"clones"},
+	{"value":"mikrolisäys"},
+	{"value":"kenttäkokeet"},
+	{"value":"regeneration"},
+	{"value":"Finland"},
+	{"value":"Betula pendula"},
+	{"value":"micropropagation"},
+	{"value":"kloonit"},
+	{"value":"rauduskoivu"},
+	{"value":"taimet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000124",
+	"dct:identifier":"FI2016000124",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

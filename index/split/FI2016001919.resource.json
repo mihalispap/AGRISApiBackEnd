@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Microsatellite panels suggested for parentage testing in cattle by ISAG: informativeness revealed in Finnish Ayrshire and Holstein Friesian populations /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bredbacka, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koskinen, Mikko T.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nautakarja"},
+	{"value":"pedigree livestock"},
+	{"value":"perinnöllisyystiede"},
+	{"value":"mikrosatelliitit"},
+	{"value":"markkerit"},
+	{"value":"identification"},
+	{"value":"DNA"},
+	{"value":"nautakarjarodut"},
+	{"value":"genetic markers"},
+	{"value":"cattle"},
+	{"value":"microsatellites"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001919",
+	"dct:identifier":"FI2016001919",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

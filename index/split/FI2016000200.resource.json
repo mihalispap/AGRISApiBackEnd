@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A method for generating stand structures using Gibbs marked point process.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kokkila, Tero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkelä, Annikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nikinmaa, Eero.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"spatial distribution"},
+	{"value":"stand characteristics"},
+	{"value":"simulointimallit"},
+	{"value":"tilajärjestys"},
+	{"value":"metsikön rakenne"},
+	{"value":"simulation models"},
+	{"value":"kilpailu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000200",
+	"dct:identifier":"FI2016000200",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

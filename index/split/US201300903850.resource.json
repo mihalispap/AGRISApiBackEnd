@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Preparation of cellooligosaccharides: Comparative study"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903850",
+	"dct:identifier":"US201300903850",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/f10.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Akpinar, Ozlem (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Penner, Michael H. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Cellooligosaccharides having a specific degree of polymerization are commonly used in mechanistic studies of cellulolytic enzymes and since they are not hydrolyzed or absorbed by the human gastrointestinal tract, (non-digestible oligosaccharides) they may have potential as non-caloric bulking agents in food products. Considering the heavy demand for cellooligosaccharides in many cellulase/cellulose laboratories, many methods were developed for the separation of cellooligosaccharides. They are typically produced by the controlled hydrolysis of cellulose, which produces a mixture of cellooligosaccharides differing with respect to their degree of polymerization, followed by chromatographic fractionation to obtain preparations homogeneous with respect to degree of polymerization. This research summarizes a comparative study of suggested fractionationmethods. Charcoal-celite adsorption, molecular exclusion and ion-mediated silica and cellulose affinity/partition chromatography were evaluated. Adsorption chromatography with charcoal-celite stationary phases was the most generally applicable method for the preparation of near gram quantities of pure cellooligosaccharides in the DP range of three to seven. Cellulose affinity/partition chromatography was found to be the least time consuming and most economical method for the preparation of cellotetraose and cellopentaose. Ion-mediated chromatography was the most readily applicable for analytical applications."}
+	}}

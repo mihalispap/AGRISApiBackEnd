@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Conservation of young fish by management of trawl selectivity.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Suuronen, Petri.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"troolikalastus"},
+	{"value":"Clupea harengus"},
+	{"value":"Gadus morhua"},
+	{"value":"muikku"},
+	{"value":"trawling"},
+	{"value":"fishery management"},
+	{"value":"resource conservation"},
+	{"value":"silakka"},
+	{"value":"silmäharvuus"},
+	{"value":"Coregonus albula"},
+	{"value":"pyydysten valikoivuus eloonjääminen"},
+	{"value":"turska"},
+	{"value":"fishes"},
+	{"value":"survival"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001642",
+	"dct:identifier":"FI2016001642",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

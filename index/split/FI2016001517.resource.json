@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Sukkulamadon (Spirocerca lupi) aiheuttama osteosarkooma koiran ruokatorvessa /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Nikander, Sven.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Spirocerca lupi"},
+	{"value":"dogs"},
+	{"value":"kasvaimet"},
+	{"value":"finland"},
+	{"value":"sarcoma"},
+	{"value":"loistaudit"},
+	{"value":"eläintaudit"},
+	{"value":"sukkulamato"},
+	{"value":"spirocerca lupi"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001517",
+	"dct:identifier":"FI2016001517",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

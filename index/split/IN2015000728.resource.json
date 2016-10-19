@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"High frequency Agrobacterium mediated genetic transformation in rubber tree via. vacuum infiltration",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":300,
+	"dc:subject":[
+		{"value":"vacuum infiltration"},
+	{"value":"genetic transformation",
+	"xml:lang":"eng"
+	},
+	{"value":"transformacion genetica",
+	"xml:lang":"esp"
+	},
+	{"value":"caoutchouc",
+	"xml:lang":"fre"
+	},
+	{"value":"caucho",
+	"xml:lang":"esp"
+	},
+	{"value":"transformation genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"rubber",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":306,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000728",
+	"dct:identifier":"IN2015000728",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sobha, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rekha, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sushamakumari, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayashree, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kala, R.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayasree, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deepa, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thulaseedharan, A."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"In a tree species like Hevea brasiliensis, genetic transformation offers a viable approach for crop improvement within a short period. Hevea being highly recalcitrant to  in vitro culture, an efficient transformation protocol is necessary for generating large number of transgenic plants with stable foreign gene expression. After several modifications in the initial transformation protocol, the transformation frequency was increased to 14 per cent using proliferated anther callus. Therefore, vacuum infiltration was attempted for enhancing the transformation frequency. In the present work the conditions for vacuum infiltration viz. vacuum pressure and period of infiltration were standardized. Vacuum infiltration at 30 psi pressure for 10 minutes was found to be ideal for getting high frequency transformation in Hevea brasiliensis.Irrespective of the gene constructs experimented, transformation frequency was significantly improved by adopting vacuum infiltration. Employing this technique, the transformation efficiency of MnSOD gene construct with FMV34S promoter could be enhanced from 14 to 50 per cent.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Trade of main wild berries in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kangas, Kari.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"exports"},
+	{"value":"kauppa"},
+	{"value":"trade"},
+	{"value":"tuonti"},
+	{"value":"Vaccinium vitis-idaea"},
+	{"value":"keräilytuotteet"},
+	{"value":"nonwood forest products"},
+	{"value":"mustikka"},
+	{"value":"Vaccinium myrtillus"},
+	{"value":"puolukka"},
+	{"value":"imports"},
+	{"value":"vienti"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002235",
+	"dct:identifier":"FI2016002235",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

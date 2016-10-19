@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Early establishment of Pinus sylvestris and Picea abies sown on soil freshly prepared and after stabilisation /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Chantal, Michelle de.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eskola, Laura.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ilvesniemi, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leinonen, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Westman, Carl Johan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mänty"},
+	{"value":"kuusi"},
+	{"value":"artificial regeneration"},
+	{"value":"Pinus sylvestris"},
+	{"value":"maanmuokkaus"},
+	{"value":"kylvö"},
+	{"value":"sowing"},
+	{"value":"Picea abies"},
+	{"value":"metsänuudistus"},
+	{"value":"metsänviljely"},
+	{"value":"soil management"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000199",
+	"dct:identifier":"FI2016000199",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

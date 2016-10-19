@@ -1,0 +1,18 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Shelf-life extension with solid enrichment and water encapsulation of fruits"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026367",
+	"dct:identifier":"FI2005026367",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/f9.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Ghosh, Sailen (author)"
+	}
+	},
+	"bibo:abstract":{"value":"A new concept using reverse osmosis to enrich solid contents in the food and subsequently encapsulating the free moisture within the food using additive resulted in extension of shelf-life of pineapples. The sample prepared by this new technique is better in look, texture and accepted by the taste panelists over the conventionally prepared freeze-dried sample. Sample was stored up to 6 months at room temperature and 1 year in 0-2°C without much appreciable change in the acceptance. The method adopted was found to be suitable in preservation of large varieties of fruits."}
+	}}

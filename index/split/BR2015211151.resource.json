@@ -1,0 +1,81 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Atributos indicadores da qualidade do solo numa área sob plantio direto ha doze anos ",
+	"xml:lang":"por"
+	},
+	{"value":"Attributes of soil quality indicators in area under direct plantingto twelve years",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"humidity",
+	"xml:lang":"eng"
+	},
+	{"value":"stability",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"6/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015211151",
+	"dct:identifier":"BR2015211151",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.comunicatascientiae.com.br/comunicata/article/download/539/311",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Torres José Luiz Rodrigues"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza Zigomar Menezes de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pereira Marcos Gervasio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Assis Renato Lara de"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal do Triângulo Mineiro, Campus de Uberaba, Uberaba, MG, Brasil."
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Campinas, Campinas, SP, Brasil."
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal Rural do Rio de Janeiro, Rio de Janeiro, RJ, Brasi"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal Goiano, Campus Iporá, Goiás, GO, Brasil."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"EA in the area increased after ten years of no tillage",
+	"xml:lang":"por"
+	},
+	{"value":"As correlações significativasda Ds com os outros parâmetros evidenciaram a importância deste atributo como indicador de qualidade do solo"},
+	{"value":"Significant correlations of Ds with the other parameters showed the importance of this attribute as soil quality indicator"},
+	{"value":"No ano de 2012 foi constatada a compactação do solo em todos os tratamentosna profundidade de 0,30 m."},
+	{"value":"AEA na área aumentou apósdez anos de plantio direto"},
+	{"value":"In 2012 it was found the soil compaction in all treatments in the depth of 0.30 m"},
+	{"value":"O aumento da Ds nas camadas mais profundas causou a diminuição do DMP e DMG e confirmou o efeito deste parâmetro na AEA no solo"},
+	{"value":"A relação entre sistemas de manejo e qualidade do solo pode ser avaliada através das alterações ocorridas em seus atributos físicos e quantificada através de indicadores da qualidade do solo. Neste estudo avaliou-se as alterações nos atributos físicos do solo após doze de plantio direto no Cerrado. O delineamento utilizado foi de blocos ao acaso, onde foram avaliadas cinco coberturas do solo (crotalária, milheto, sorgo, braquiária e pousio), avaliadas em duas épocas(2002 e 2012). Foi avaliada a estabilidade dos agregados (EA), diâmetro médio ponderado (DMP), geométrico (DMG), índices de estabilidade de agregados (IEA), de sensibilidade (Is) e da porcentagem deagregados com diâmetro superior a 2 mm (AGRI), resistência mecânica a penetração (RP), densidade do solo (Ds) e umidade volumétrica (Uv), com 4 repetições. Os melhores índices de agregação do solo ocorreram nas áreas com cobertura de sorgo"},
+	{"value":"The relationship between management and soil quality systems can be evaluated through the changes in their physical attributes and quantified through soil quality indicators. In this study we evaluated changes in soil physical properties after twelve-tillage in the Savanna, Brazil. The design was randomized blocks, where they were evaluated five covers soil (sun hemp, millet, sorghum, Brachiaria and fallow), evaluated in two seasons (2002 and 2012). The aggregate stability (SA), mean weighted diameter was evaluated (MWD), geometric (MWG), aggregate stability indices (ISA), sensitivity (Is) and the percentage of aggregates of a diameter greater than 2 mm (AGRI), mechanical resistance to penetration (RP), bulk density (Ds) and water content (UV), with fourrepetitions. The best soil aggregation indices of areas with sorghum coverage",
+	"xml:lang":"eng"
+	},
+	{"value":"The increase of the Ds in the deeper layers caused the decrease of the MW and MWG and confirmed the effect of this parameter SA in the soil"}
+	]
+	}}

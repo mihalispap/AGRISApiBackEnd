@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Genetic and Non - Genetic Factors on Growth and Wool Yield Traits in Chokla Sheep",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":95,
+	"dc:subject":[
+		{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"laine",
+	"xml:lang":"fre"
+	},
+	{"value":"wool",
+	"xml:lang":"eng"
+	},
+	{"value":"lana",
+	"xml:lang":"esp"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":98,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000193",
+	"dct:identifier":"IN2015000193",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Ravindra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh C.V."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Effect of Genetic and Non - Genetic Factors on Growth and Wool Yield Traits in Chokla Sheep were studied",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Magnesium supply by convenience products.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Breitschädel, Ruth.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Messner, Claudia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pfannhauser, Werner.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"magnesium"},
+	{"value":"vihannekset"},
+	{"value":"ruokavaliot"},
+	{"value":"fish"},
+	{"value":"liha"},
+	{"value":"ravinto"},
+	{"value":"vegetables"},
+	{"value":"nutritive value"},
+	{"value":"fish products"},
+	{"value":"elintarvikkeet"},
+	{"value":"pikaruoat"},
+	{"value":"kala"},
+	{"value":"foods"},
+	{"value":"instant foods"},
+	{"value":"meat products"},
+	{"value":"ravitsemus"},
+	{"value":"ravintoarvo"},
+	{"value":"vegetable products"},
+	{"value":"meat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000751",
+	"dct:identifier":"FI2016000751",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,113 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Models in country scale carbon accounting of forest soils /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltoniemi, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Thürig, Esther.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ogle, Stephen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Palosuo, Taru.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schrumpf, Marion.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wutzler, Thomas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Butterbach-Bahl, Klaus.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chertov, Oleg.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Komarov, Alexander.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mikhailov, Alexey.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gärdenäs, Annemieke.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Perry, Charles.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liski, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Smith, Pete.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkipää, Raisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil chemistry"},
+	{"value":"degradation"},
+	{"value":"forest inventories"},
+	{"value":"IPPC"},
+	{"value":"atmosphere"},
+	{"value":"hiili"},
+	{"value":"inventointi"},
+	{"value":"regional and national modeling"},
+	{"value":"kasvihuonekaasut"},
+	{"value":"carbon dioxide"},
+	{"value":"models"},
+	{"value":"metsämaa"},
+	{"value":"maaperä"},
+	{"value":"national forest inventory"},
+	{"value":"mallit"},
+	{"value":"hajoaminen"},
+	{"value":"carbon"},
+	{"value":"surveys"},
+	{"value":"greenhouse gases"},
+	{"value":"valtakunnan metsien inventointi"},
+	{"value":"maaperäkemia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001711",
+	"dct:identifier":"FI2016001711",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

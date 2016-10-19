@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/  |z Silva Fennica",
+	"dct:language":"eng",
+	"dct:title":{"value":"Leaf number indicates salt tolerance of young seedling families of European aspen (Populus tremula L.) growing in different soils.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vaario, Lu-Min.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yrjälä, Kim.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rousi, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sipilä, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pulkkinen, Pertti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"salt tolerance"},
+	{"value":"Populus tremula"},
+	{"value":"root/shoot ratio"},
+	{"value":"roots"},
+	{"value":"shoots"},
+	{"value":"leaves"},
+	{"value":"seedlings"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000779",
+	"dct:identifier":"FI2016000779",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

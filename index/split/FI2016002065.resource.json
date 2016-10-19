@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative study on functional components, antioxidant activity and color parameters of selected colored leafy vegetables as affected by photoperiods.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ali, M. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khandaker, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oba, S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"colour"},
+	{"value":"antioxidants"},
+	{"value":"spinach beet"},
+	{"value":"pigments"},
+	{"value":"polyphenols"},
+	{"value":"photoperiodicity"},
+	{"value":"spinach"},
+	{"value":"beetroot"},
+	{"value":"leaves"},
+	{"value":"chemical composition"},
+	{"value":"chlorophylls"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002065",
+	"dct:identifier":"FI2016002065",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

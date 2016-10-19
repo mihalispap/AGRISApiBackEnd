@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:title":{"value":"Water Pollution and Relevant Preventive Measures in the Hechuan Segment of Fujiang River",
+	"xml:lang":"eng"
+	},
+	"dc:subject":{"value":"water pollution",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513222",
+	"dct:identifier":"IN2016513222",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=45",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Zhang Wei"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Xia Jianfeng"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Li Yalin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yao Mingqiang"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sidorov Sergei"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gan Shiyuan"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Dissolved oxygen (DO), NH4+-N, total phosphorus (TP), CODMn and BOD5 in water in the Hechuan segment of Fujing River were monitored to assess water pollution in the river scientifically. Water pollution indexes were analysed and their pollution load-sharing ratios were calculated by using single pollution index method and Nemerow comprehensive pollution index method, respectively. Results show that the water quality in 25% of the monitored sections can be considered clean and the water quality of 75% of the sections can be considered slightly polluted in two water functional zones in the Hechuan segment of Fujiang River with water quality control targets of Level III and Level IV, respectively. Water quality declines from upstream to downstream. DO does not exceed standards in all the sections. NH4+-N significantly contributes to water pollution in all the sections",
+	"xml:lang":"eng"
+	},
+	{"value":"as a consequence, NH4+-N is a major pollution index in the entire Fujiang River. In some sections, TP, CODMn and BOD5 yield high pollution load sharing ratios. The distribution of the main pollution sources of different sections shows that the pollution indexes exceeding standards are mainly influenced by various pollution factors, such as cultivation, industrial wastewater, urban and rural domestic sewage, and agricultural non-point sources. Therefore, relevant preventive measures and recommendations are provided as a reference of the comprehensive control of water pollution in the Hechuan segment of Fujiang River."}
+	]
+	}}

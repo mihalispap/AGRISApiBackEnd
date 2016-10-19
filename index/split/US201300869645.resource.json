@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Endogenous phosphorus loss in ruminants: A review"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869645",
+	"dct:identifier":"US201300869645",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tayo, Grace O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tan, Zhiliang (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Phosphorus (P), a major mineral in animal nutrition is currently a focus of the livestock industry. This is because of its high fecal excretion by livestock and the subsequent environmental pollution, especially in the eutrophication of lakes and surface water. Areas of intensive animal husbandry and dairy farms where P is fed in excess are particularly affected. Ruminants must be fed according to precise net requirement to reduce excessive loss in feces. The knowledge of fecal endogenous loss is necessary to precise maintenance P requirement. Variation exists in the endogenous fecal loss and P availability values in feedstuffs among different countries. Quantitative information on these indices is needed. Salivary P, dry matter intake and physical nature of diets are major determinants of endogenous P loss but the mechanisms surrounding their role are yet to be clearly defined. Uniform, precise and acceptable method of estimating endogenous P loss in ruminants is to be developed. A lot of studies have been carried out on P metabolism in recent times but some aspects of the metabolism in ruminants are poorly understood. This review attempts to discuss these problems in the light of past and recent findings on P loss with a view to exploring areas for further research."}
+	}}

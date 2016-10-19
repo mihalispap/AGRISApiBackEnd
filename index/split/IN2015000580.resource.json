@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Replanting and rejuvenation programme for better productivity and income",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":14,
+	"dc:subject":[
+		{"value":"productividad",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"productivite",
+	"xml:lang":"fre"
+	},
+	{"value":"desarrollo economico",
+	"xml:lang":"esp"
+	},
+	{"value":"developpement economique",
+	"xml:lang":"fre"
+	},
+	{"value":"economic development",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"productivity",
+	"xml:lang":"eng"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":18,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000580",
+	"dct:identifier":"IN2015000580",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"apr2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jayanath, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SasiKumar, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hareesh, S.R."
+	}
+	}
+	],
+	"bibo:issue":1
+	}}

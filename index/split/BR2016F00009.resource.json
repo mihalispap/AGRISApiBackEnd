@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Atividade antioxidante do extrato aquoso de noni em diluente para congelação de sêmen ovino ",
+	"xml:lang":"por"
+	},
+	{"value":"Antioxidant activity of aqueous extract of noni in dilutent for ram semen cryopreservation",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"ascorbic acid",
+	"xml:lang":"eng"
+	},
+	{"value":"phenolic compounds",
+	"xml:lang":"eng"
+	},
+	{"value":"freezing",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"fruit",
+	"xml:lang":"eng"
+	},
+	{"value":"semen preservation",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p68",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00009",
+	"dct:identifier":"BR2016F00009",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p68",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"NASCIMENTO, A. L. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, A. D. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"AZEVEDO, H. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ANDRADE, C. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, V. S."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"120 µg/mL. Foram avaliadas as variáveis físicas e químicas do fruto maduro para acidez total (8,78), pH (4,12) e sólidos solúveis (8,18%). Para vitamina C, foi obtido 309,42 mg em 100 g de matéria fresca. O extrato aquoso do noni também foi avaliado quanto à quantificação de compostos fenólicos totais, atividade antioxidante e capacidade de inibição da peroxidação lipídica. O extrato aquoso do noni apresentou moderada quantidade de compostos fitoquímicos do tipo fenólicos de 47,96 ± 1,95 mg Eq. ácido gálico/100 g do extrato. A concentração de 72 e 120 µg/mL do extrato aquoso do noni inibiu a lipoperoxidação no meio diluidor para congelação de sêmen na ordem de 21,75% e 51,32%, respectivamente, e a menor concentração (24 µg/mL) não apresentou efeito positivo. O índice de atividade antioxidante do noni foi de 33,33, o que representa atividade antioxidante muito forte. O extrato aquoso do noni apresenta capacidade antioxidante muito forte e quando incluso ao meio diluidor para criopreservação de sêmen é capaz de inibir a lipoperoxidação a partir da concentração de 72 µg/mL."},
+	{"value":"O noni (Morinda citrifolia L) é um fruto consumido no mundo por apresentar propriedades nutricionais e terapêuticas devido a grande quantidade de compostos fenólicos, o que desperta o interesse da comunidade científica. Com o intuito de buscar novas fontes naturais de antioxidantes objetivou-se avaliar o desempenho do noni em diluente para congelação de sêmen ovino. Foi utilizado um delineamento inteiramente casualizado com quatro tratamentos e três repetições por tratamento. Os tratamentos diferiram quanto à concentração do extrato aquoso do noni adicionado ao meio diluidor: controle, sem adição do extrato",
+	"xml:lang":"por"
+	},
+	{"value":"e com três concentrações 24 µg/mL"},
+	{"value":"72 µg/mL"},
+	{"value":"Noni (Morinda citrifolia L.) is a fruit consumed worldwide because of its nutritional and therapeutic properties resulting from the large amount of phenolic compounds, which has aroused interest of the scientific community. In order to identify new natural sources of antioxidants, the objective of this study was to evaluate the performance of noni in diluent for ram semen cryopreservation. A completely randomized design consisting of four treatments and three repetitions per treatment was used. The treatments differed in terms of the concentration of the aqueous extract of noni added to the diluent: control, no addition of the extract, and three concentrations (24, 72, and 120 µg/mL). The physical and chemical variables of the mature fruit were evaluated: total acidity (8.78), pH (4.12), and soluble solids (8.18%). The vitamin C content was 309.42 mg per 100 g fresh matter. The aqueous extract of noni was also evaluated regarding the quantity of total phenolic compounds, antioxidant activity, and lipid peroxidation inhibition capacity. The aqueous extract contained a moderate amount of phenolic compounds (47.96 ± 1.95 mg gallic acid equivalent/100 g extract). The concentrations of the aqueous extract of 72 and 120 µg/mL in diluent used for semen cryopreservation inhibited lipid peroxidation by 21.75% and 51.32%, respectively. There was no positive effect of the lowest concentration (24 µg/mL). The antioxidant activity index of noni was 33.33, corresponding to very strong antioxidant activity. The aqueous extract of noni exhibits very strong antioxidant activity and its addition to the diluent for semen cryopreservation at a concentration of 72 µg/mL is able to inhibit lipid peroxidation.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of water limitation on growth and grain filling of faba bean cultivars.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ghassemi-Golezani, K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ghanehpoor, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohammadi-Nasab, A. D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dry matter content"},
+	{"value":"watering"},
+	{"value":"faba beans"},
+	{"value":"drought stress"},
+	{"value":"varieties"},
+	{"value":"plant water relations"},
+	{"value":"grain"},
+	{"value":"crop yield"},
+	{"value":"growth rate"},
+	{"value":"irrigation"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001589",
+	"dct:identifier":"FI2016001589",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Charcoal: the trick to recovering from a big meal",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"alimentos",
+	"xml:lang":"esp"
+	},
+	{"value":"foods",
+	"xml:lang":"eng"
+	},
+	{"value":"health",
+	"xml:lang":"eng"
+	},
+	{"value":"salud",
+	"xml:lang":"esp"
+	},
+	{"value":"sante",
+	"xml:lang":"fre"
+	},
+	{"value":"carbon vegetal",
+	"xml:lang":"esp"
+	},
+	{"value":"charcoal",
+	"xml:lang":"eng"
+	},
+	{"value":"toxins",
+	"xml:lang":"eng"
+	},
+	{"value":"charbon de bois",
+	"xml:lang":"fre"
+	},
+	{"value":"toxinas",
+	"xml:lang":"esp"
+	},
+	{"value":"toxine",
+	"xml:lang":"fre"
+	},
+	{"value":"produit alimentaire",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:pageStart":35,
+	"bibo:volume":"lvi",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000708",
+	"dct:identifier":"IN2015000708",
+	"dct:type":"Summary",
+	"bibo:issue":8,
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	]
+	}}

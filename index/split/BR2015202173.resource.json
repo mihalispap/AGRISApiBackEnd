@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Armazenamento e viabilidade de sementes de Cabralea canjerana (Vell.) Mart. ",
+	"xml:lang":"por"
+	},
+	{"value":"Storage and viability of Cabralea canjerana (Vell.) Mart. seeds",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"indigenous organisms",
+	"xml:lang":"eng"
+	},
+	{"value":"temperature",
+	"xml:lang":"eng"
+	},
+	{"value":"storage",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202173",
+	"dct:identifier":"BR2015202173",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/321/227",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Grunennvaldt Renata"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cantarelli Edison"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Salamoni Adriana"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Este trabalho teve como objetivos estabelecer metodologias para armazenamento e testes de germinação e viabilidade de sementes de C. canjerana. Para a promoção da deiscência dos frutos, estes foram colocados em bandeja à temperatura ambiente (20ºC) e em sacos plásticos a 25ºC. No armazenamento das sementes, estas foram acondicionadas em envelopes de papel e becker vedado. Para o teste do tetrazólio, sementes foram submersas por 1, 2 ou 3 horas nosal de tetrazólio a 1%. Os testes de germinação, em laboratório e no viveiro, foram conduzidos sob diferentes tempos de armazenamento das sementes. Os resultados mostraram que duas horas de submersão das sementes no sal de tetrazólio a 1% são eficientes para a determinação daviabilidade. Além disso, pode-se perceber a eficiência do armazenamento dos frutos em sacos plásticos a 25ºC, por até sete dias, para promover a deiscência, bem como o armazenamento das sementes em envelopes de papel, a 25ºC por até 10 dias. O teste de germinação em placas depetri é eficiente quando as sementes são armazenadas em sacos de papel, por até uma semana, a 25°C. No viveiro, o teste de germinação pode ser usado quando as sementes são armazenadas por até 20 dias em sacos plásticos, a 5ºC.",
+	"xml:lang":"por"
+	},
+	{"value":"This study aimed to establish protocols for storage, germination and viability seed C. canjerana. For the promotion of fruit dehiscence, they were placed in the tray at room temperature (20°C) and in plastic bags at 25°C. In storage, the seeds were stored in paper envelopes and sealed becker.To test the tetrazolium’s test, seeds were submerged by 1, 2 or 3 hours in the tetrazolium salt to 1%. Germination tests in the laboratory and in the greenhouse were conducted at different times of seed storage. The results showed that two hours of immersion of the seeds in the tetrazolium salt to 1% are effective for determining viability. Furthermore, one can understand the effectiveness of storage of fruits in plastic bags at 25°C for up to seven days to promote dehiscence and seed storage in paper envelopes at 25°C for up to 10 days. The germination in petri dishes is effective when the seeds are stored in paper bags for up to one week, at 25ºC. In the greenhouse, the germination test can be used when the seeds are stored for up to 20 days in plastic bags at 5°C.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

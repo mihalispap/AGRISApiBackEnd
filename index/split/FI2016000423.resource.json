@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Dynamic response of herbaceous vegetation to gap opening in a Central European beech stand.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kelemen, Kristóf.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mihók, Barbara.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gálhidy, László.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Standovár, Tibor.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest cover"},
+	{"value":"species"},
+	{"value":"species richness"},
+	{"value":"seed bank type"},
+	{"value":"gap colonization"},
+	{"value":"herbaceous plants"},
+	{"value":"Fagus sylvatica"},
+	{"value":"dispersal"},
+	{"value":"gene banks"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000423",
+	"dct:identifier":"FI2016000423",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

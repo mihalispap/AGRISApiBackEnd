@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Verknader av skjeringstidspunkt på tilvekst, avlingskomponentar og fruktkvalitet hjå eple.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Meland, Jan.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"hedelmäpuut"},
+	{"value":"treatment date"},
+	{"value":"yield components"},
+	{"value":"laatu"},
+	{"value":"kenttäkokeet"},
+	{"value":"kasvu"},
+	{"value":"pruning"},
+	{"value":"satokomponentit"},
+	{"value":"quality"},
+	{"value":"Malus"},
+	{"value":"fruit trees"},
+	{"value":"Malus x domestica"},
+	{"value":"apples"},
+	{"value":"leikkaus"},
+	{"value":"ajoitus"},
+	{"value":"Norway"},
+	{"value":"omenapuut"},
+	{"value":"growth"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (231 :
+    1994 :
+    Kivik)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002222",
+	"dct:identifier":"FI2016002222",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

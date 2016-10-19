@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Remote sensing techniques for forest parameter assessment : multispectral classification and linear spectral mixture analysis /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vohland, Michael.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stoffels, Johannes.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hau, Christina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schüler, Gebhard.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"multispectral classification"},
+	{"value":"imagery"},
+	{"value":"kuusi"},
+	{"value":"forest inventories"},
+	{"value":"stem number"},
+	{"value":"kaukokartoitus"},
+	{"value":"runkoluku"},
+	{"value":"sateliittikuvaus"},
+	{"value":"stand characteristics"},
+	{"value":"stem variables"},
+	{"value":"metsiköt"},
+	{"value":"puusto"},
+	{"value":"metsäninventointi"},
+	{"value":"Picea abies"},
+	{"value":"stems"},
+	{"value":"satellites"},
+	{"value":"rakenne"},
+	{"value":"remote sensing"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002040",
+	"dct:identifier":"FI2016002040",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

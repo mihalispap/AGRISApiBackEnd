@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of forest composition on understory cover in boreal mixedwood forests of western Quebec.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Légaré, Sonia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergeron, Yves.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Paré, David.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"undergrowth"},
+	{"value":"alikasvos"},
+	{"value":"biomass"},
+	{"value":"metsikön rakenne"},
+	{"value":"nutrients"},
+	{"value":"stand characteristics"},
+	{"value":"canopy"},
+	{"value":"mixed forests"},
+	{"value":"Canada"},
+	{"value":"biomassa"},
+	{"value":"ravinteet"},
+	{"value":"sekametsät"},
+	{"value":"latvusto"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001225",
+	"dct:identifier":"FI2016001225",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

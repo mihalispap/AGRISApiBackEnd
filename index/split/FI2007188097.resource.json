@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bacteriological quality of drinking water from refrigerated coolers in a university community"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188097",
+	"dct:identifier":"FI2007188097",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khan, Aliya (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adesiyun, Abiodun A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The bacteriological quality and residual chlorine level of water from all functional coolers at various venues of a university community were determined. Of a total of 73 coolers tested, 51 (69.9%) water samples had residual chlorine level of less than 0.4 ppm while 28 (38.4%), 12 (16.4%) and 5 (6.8%) were positive for aerobic bacteria, total coliforms and Escherichia coli respectively. For 22 water samples with residual chlorine level of >0.4 ppm, 9 (40.9%) were positive for aerobic bacteria but all were negative for total coliforms and E. coli. However, the prevalence of aerobic bacteria, total coliforms and E. coli in 51 cooler-water samples with residual chlorine level less than 0.4 ppm was 19 (37.3%), 12 (23.5%) and 5 (9.8%) respectively. The fact that 16.4% of cooler water samples were considered unfit for human consumption having exceeded the zero tolerance for coliforms in drinking water, could have health implications to consumers."}
+	}}

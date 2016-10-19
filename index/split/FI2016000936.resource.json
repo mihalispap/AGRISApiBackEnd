@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of arbuscular mycorrhizal fungi and pesticides on Cynara cardunculus growth /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Marin, Miguel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ybarra, Manuel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fé, Ana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    García-Férriz, Lorenzo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"inoculation"},
+	{"value":"insecticides"},
+	{"value":"planting stock"},
+	{"value":"ymppäys"},
+	{"value":"taimitarhaviljely"},
+	{"value":"propagation materials"},
+	{"value":"torjunta-aineet"},
+	{"value":"fungicides"},
+	{"value":"mykorritsa"},
+	{"value":"mycorrhizae"},
+	{"value":"Cynara cardunculus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000936",
+	"dct:identifier":"FI2016000936",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

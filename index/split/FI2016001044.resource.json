@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Luksoituneen reisiluun pään siteen rekonstruktio aramidipunoksella - tapausselostus, kaksi koiraa ja yksi kissa /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Eskelinen, Esa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Keränen, Pauli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"joint diseases"},
+	{"value":"liikuntaelinten taudit"},
+	{"value":"dogs"},
+	{"value":"dislocations"},
+	{"value":"eläintaudit"},
+	{"value":"surgical operations"},
+	{"value":"kissa"},
+	{"value":"leikkaushoito"},
+	{"value":"lonkkadysplasia"},
+	{"value":"cats"},
+	{"value":"lonkkaluksaatio"},
+	{"value":"pet animals"},
+	{"value":"hip dysplasia"},
+	{"value":"nivelet"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001044",
+	"dct:identifier":"FI2016001044",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

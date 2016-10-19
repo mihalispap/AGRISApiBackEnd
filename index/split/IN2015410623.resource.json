@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":"01/2-15",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ipekpp.com/admin/upload_files/Knowledge_1_9_Addressing_2823397854.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Addressing food and nutrition security: Lessons from India",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Khurana Indira"
+	}
+	},
+	"dc:subject":[
+		{"value":"nutrition policies",
+	"xml:lang":"eng"
+	},
+	{"value":"food resources",
+	"xml:lang":"eng"
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015410623",
+	"dct:identifier":"IN2015410623",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19704"
+	},
+	"bibo:abstract":{"value":"Achieving food and nutrition security requires addressing aspects of availability, access, affordability, absorbability and adequacy. The journey offers lessons for others grappling with issues for which India has found some answers through policies, programmes, institutional frameworks and legislation for a Right to Food.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Change detection in boreal forests using bi-temporal aerial photographs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hyvönen, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Anttila, Perttu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"change detection"},
+	{"value":"discriminant analysis"},
+	{"value":"kuviot"},
+	{"value":"muutos"},
+	{"value":"forest inventories"},
+	{"value":"metsänarviointi"},
+	{"value":"photography"},
+	{"value":"ilmakuvat"},
+	{"value":"aerial surveying"},
+	{"value":"stand characteristics"},
+	{"value":"metsiköt"},
+	{"value":"continuous updating"},
+	{"value":"aerial photography"},
+	{"value":"boreal forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002087",
+	"dct:identifier":"FI2016002087",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

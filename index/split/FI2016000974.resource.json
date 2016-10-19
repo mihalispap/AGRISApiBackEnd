@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Living off the forest : sustainable forestry livelihoods in Northwest Russia (SUSFOLI).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Södor, Uuve.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Järvelä, Marja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tarasov, Mikhail.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kylät"},
+	{"value":"wood procurement"},
+	{"value":"metsätalous"},
+	{"value":"elinkeinot"},
+	{"value":"forestry"},
+	{"value":"sustainable livelihoods"},
+	{"value":"toimeentulo"},
+	{"value":"villages"},
+	{"value":"kestävä kehitys"},
+	{"value":"action research ethnography"},
+	{"value":"puunhankinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000974",
+	"dct:identifier":"FI2016000974",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

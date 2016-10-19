@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Response to exogenous application of phytohormone at seedling and cellular levels in disomic chromosome substitution lines of wheat"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025574",
+	"dct:identifier":"FI2005025574",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a12.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kashyap, S.C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Punia, M.S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Behl, R.K. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Substitution line 2B showed almost no response to both phytohormone sprays i.e. GA3 and GA3+ kinetin (5 ppm each) while lines 1D, 3D, 5B, 5D and 6D showed good response to GA3 + kinetin spray and lines 1D, 4A, 5D, 6D and 3D responded well in GA3 spray. Lines 1D, 3A, 3D and 5A scored good in callus induction too while line 2B showed poor response to plant regeneration which showed that the line may not posses the appropriate genes responsible for regeneration."}
+	}}

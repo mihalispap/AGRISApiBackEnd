@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biochemical deterioration of soybean daddawa – a condiment"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2008320572",
+	"dct:identifier":"FI2008320572",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Popoola, Tope O. S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kolapo, Adelodun L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Afolabi, Oluwatoyin R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Soybean daddawa prepared using three different processing methods (traditionally fermented seeds, seeds fermented with salt (NaCl) and seeds fermented with starter cultures) were evaluated for biochemical changes in ambient storage conditions. The fermented product was assessed for pH, titratable acid, peroxide value, free fatty acids, antioxidant capacities as well as water and fat absorption capacities as indices of deterioration. The pH of stored samples increased in the alkaline range, titratable acidity of samples also increased with storage. Peroxide values of samples increased significantly from 3.87 meq/kg on the first day of storage to 30.73 meq/kg in two weeks on naturally fermented soy daddawa samples. Values obtained for FFA also increased with storage period, while antioxidant capacity and water and fat absorption capacities decreased drastically with storage. Although, values obtained for the parameters evaluated differed with the methods of processing, the differences were not significant (p>0.05). However, values obtained at the start of the experiment and after 14 days of storage differed significantly. Most of the biochemical changes in monitored functional properties of the samples became noticeable on the 4th and 6th day of storage. The results are discussed with reference to food safety and shelf life of the product."}
+	}}

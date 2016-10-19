@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of tillage on wheat production under semi-arid Mediterranean conditions"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2008320741",
+	"dct:identifier":"FI2008320741",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a3.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Issa, Taha A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Samarah, Nezar H. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Wheat (Triticum durum L.) is considered one of the most widely grown cereal crops under rainfed conditions in Jordan. The traditional or conventional tillage systems practiced in Jordan depleted soil resources and resulted in lower crop yields. Therefore, the conservation tillage system is expected to increase crop yield as compared with the traditional tillage systems. A field study was conducted during the growing season of 2004/ 2005 in Northern Jordan, to investigate the performance of wheat under traditional or conventional tillage using a moldboard plow, conservation tillage using a chisel plow and no-tillage systems. Number of seedlings m-2; number of spikes m-2; number of grains spike-1; 100-grain weight; straw and grain yield m-2 were determined. The results showed that the traditional tillage system using the moldboard plow gave the highest number of seedlings m-2, followed by the conservation and the no-tillage systems. Even though, the no-tillage system gave the highest number of grains per spike, the highest grain m-2, the highest grain and straw weight, although this difference was not statically significant. In conclusion, the results suggest that the conservation or no-till system can be adopted for wheat production under semi-arid conditions of Jordan."}
+	}}

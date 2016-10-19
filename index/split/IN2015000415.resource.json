@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Study on incidence of infectious bursal disease in and around Ranchi",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":156,
+	"dc:subject":[
+		{"value":"morbidity",
+	"xml:lang":"eng"
+	},
+	{"value":"morbosidad",
+	"xml:lang":"esp"
+	},
+	{"value":"morbidite",
+	"xml:lang":"fre"
+	},
+	{"value":"enfermedad de gumboro",
+	"xml:lang":"esp"
+	},
+	{"value":"bihar",
+	"xml:lang":"esp"
+	},
+	{"value":"pollo",
+	"xml:lang":"esp"
+	},
+	{"value":"maladie de gumboro",
+	"xml:lang":"fre"
+	},
+	{"value":"gumboro disease",
+	"xml:lang":"eng"
+	},
+	{"value":"chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"poulet",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":159,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000415",
+	"dct:identifier":"IN2015000415",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Choudhary, U.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiwary, B.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ganguly, S."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The present study was carried out to determine the seroprevalence of infectious bursal disease (IBD) with its incidence rates in different breeds, age groups and sex of chickens and to find out its seasonal variability of occurrence. A total of 469 sera samples comprised of 237 samples from broiler chicks and 232 from local breeds of chicken have been studied in the present investigation for the determination of incidence of IBD by Agar gel precipitation test in and around Ranchi and the overall incidence were recorded to be 33.90%. The commercial broiler chicks showed higher seroprevalence (37.97%) than local breeds (29.74%). The incidence of IBD was also found to be highest in the age group on 4â7 weeks of chickens (43.18%) with higher rate of infection in male chickens (35.12%). A higher rate of infection was also recorded in the monsoon (36.73%) than the winter season (30.83%) in the present study. The determination of incidence of IBD among local deshi chicken breeds of backyard farms of Ranchi and its seasonal variations of occurrence in the present study are the first of its kind.",
+	"xml:lang":"eng"
+	}
+	}}

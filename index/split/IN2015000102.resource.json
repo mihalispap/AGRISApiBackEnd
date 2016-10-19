@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Clinicopathological studies on spontaneous Trichosomoidiasis in rats.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":152,
+	"dc:subject":[
+		{"value":"hybridation naturelle",
+	"xml:lang":"fre"
+	},
+	{"value":"histopatologia",
+	"xml:lang":"esp"
+	},
+	{"value":"natural hybridization",
+	"xml:lang":"eng"
+	},
+	{"value":"histopathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"hibridacion natural",
+	"xml:lang":"esp"
+	},
+	{"value":"rata",
+	"xml:lang":"esp"
+	},
+	{"value":"histopathology",
+	"xml:lang":"eng"
+	},
+	{"value":"rats",
+	"xml:lang":"eng"
+	},
+	{"value":"rat",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":159,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000102",
+	"dct:identifier":"IN2015000102",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Goswami, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kataria, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Somvanshi, R."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The prevalence of Trichosomoides crassicauda infection was significantly higher (34%)in laboratory rats procured from a closed colony of IVRl while surprisingly it was not recorded (0%) in free living wild rats of same locality of Bareilly, UP. This parasite produced asymptomatic infection in urinary bladder and failed to show diagnostic haematological, serum and tissue biochemical alterations in body fluids and tissues of visceral target organ urinary bladder. Although T. crassicauda infections can be conventionally diagnosed in rats by presence of larvated eggs, wonns in urine samples; focal hyperplasia of urothelium, sections of wonns and eggs in urothelium or in lumina of urinary bladder on histopatholgical examination of urinary bladder but demonstration ofwonns by SEM method is useful for morphological studies.",
+	"xml:lang":"eng"
+	}
+	}}

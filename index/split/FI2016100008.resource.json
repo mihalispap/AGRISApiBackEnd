@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a27.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of strawberry (Fragaria x ananassa Duch.) cultivar’s salt stress tolerance on the basis of S1 seeds in vitro germination"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dziadczyk, Piotr (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kiszczak, Waldemar (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tyrka, Mirosáaw (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Laba, Marek (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Diufer, Kamila (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100008",
+	"dct:identifier":"FI2016100008",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Ten strawberry cultivars and one breeding clone were evaluated for their salt tolerance under in vitro culture conditions on the basis of S1 seed germination. Salinity stress was simulated by the mixture of four salts (75 mM NaCl, 50 mM Na2SO4, 10 mM CaCl2, 5 mM MgCl2) to balance different types of ions. Germination of seeds was observed for 10 weeks. Coefficients describing reduction of seed germination (RSG and MR) were calculated. Cluster analysis separated all clones into 3 groups. The first cluster comprises cultivars ‘Toringa’, ‘Pegasus’, ‘Ottawa’ and clone Pau/26 with low germination under in vitro culture conditions. The last selection seems not to be affected by applied salt concentration. The second group was formed by moderately (60-69%) germinating cultivars: ‘Silver Jubilee’, ‘Fraginette’, ‘Tenira’, ‘Governor Simcoe’ and ‘Lvovskaya Rannaya’. Out of them ‘Governor Simcoe’ showed low reduction of seed germination (RGS 33%). The third group was represented by well-germinating cvs. ‘Fletcher’ and ‘Senga Litessa’. ‘Fletcher’ was tolerant to applied salt concentration (RSG 17.4%). Obtained data suggest that cluster analysis reflected mainly tested cultivars’ general ability to germinate at in vitro conditions. On the basis of the mean reduction in 10th week values (MR10) genotypes can be arranged from most susceptible to most salt tolerant in the following order: ‘Toringa’> ’Ottawa’> ‘Pegasus’> ’Fraginette’> ’Lvovskaya Rannaya’> ‘Silver Jubilees’ > ‘Tenira’> ‘Governor Simcoe’ >’Senga Litessa’> ‘Fletcher’> Pau/26. Clone Pau/26 showing the lowest MR10 value in the test was selected at in vitro conditions as an individual plant able to germinate and grow on medium containing 200 mM NaCl. This implies that at least in the case of this genotype ability to germinate and sustain growth on salt containing medium was transmitted to S1 generation."}
+	}}

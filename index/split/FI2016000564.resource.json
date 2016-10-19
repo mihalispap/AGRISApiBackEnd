@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of hypocholesterolemic properties of brown rice varieties containing different gamma aminobutyric acid (GABA) levels on Sprague-Dawley male rats.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Shahin Roohinejad
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alireza Omidizadeh
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hamed Mirhosseini
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Babak Rasti
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nazamid Saari
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shuhaimi Mustafa
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rokiah Mohd Yusof
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Anis Shobirin, M. H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Azizah Hamid
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohd Yazid, A. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"laboratory animals"},
+	{"value":"rice"},
+	{"value":"diet"},
+	{"value":"GABA"},
+	{"value":"animal models"},
+	{"value":"blood lipids"},
+	{"value":"chemical composition"},
+	{"value":"cholesterol"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000564",
+	"dct:identifier":"FI2016000564",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

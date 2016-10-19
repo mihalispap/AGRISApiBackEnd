@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of plant bio-regulators (PBRs) on qualitative traits of apple and nut of cashew var. Jhargram-1",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":182,
+	"dc:subject":[
+		{"value":"bio-regulators,cashew apple, cashew kernel"},
+	{"value":"quality",
+	"xml:lang":"eng"
+	},
+	{"value":"calidad",
+	"xml:lang":"esp"
+	},
+	{"value":"qualite",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":185,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000634",
+	"dct:identifier":"IN2015000634",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pariari, A"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, L.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Poduval, M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, S"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A field experiment was conducted to study the effect of plant bio-regulators on qualitative traits of apple and nut in cashew var. Jhargram-1. The application of NAA 200 ppm twice at flowering and fruit-set significantly increased the size and weight of cashew apple, juice recovery (66.17 %), ascorbic acid content (3.67 mg ml-1), and titrable acidity (0.45 %). Double spraying with IAA 200 ppm recorded the maximum size of nut and kernel while, carbohydrate, starch, sugar and protein content of cashew kernel were found highest with NAA 200 ppm sprayed twice.",
+	"xml:lang":"eng"
+	}
+	}}

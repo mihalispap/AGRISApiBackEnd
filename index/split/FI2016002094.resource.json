@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"ger",
+	"dct:title":{"value":"Beiträge der IUFRO zur Entwicklung des forstlichen Rechnungswesens.",
+	"xml:lang":"ger"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Brabänder, H. D.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"metsätalous"},
+	{"value":"forestry"},
+	{"value":"accounting"},
+	{"value":"laskentatoimi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002094",
+	"dct:identifier":"FI2016002094",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

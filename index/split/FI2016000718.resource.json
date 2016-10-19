@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Thermal properties variation of Malaysian yellowtail catfish during precooling process and numerical verification.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Abbas, K. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abdulamir, A. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ebrahimian, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jamilah, B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content"},
+	{"value":"thermal properties"},
+	{"value":"fats"},
+	{"value":"cooling"},
+	{"value":"carbohydrates"},
+	{"value":"chemical composition"},
+	{"value":"protein content"},
+	{"value":"heat"},
+	{"value":"temperature"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000718",
+	"dct:identifier":"FI2016000718",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"The restorative imperative : challenges, objectives and approaches to restoring naturalness in forests.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Burton, Philip J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    MacDonald, S. Ellen.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Indigenous organisms"},
+	{"value":"forests"},
+	{"value":"disturbance regime"},
+	{"value":"afforestation"},
+	{"value":"reclamation"},
+	{"value":"native species"},
+	{"value":"ecological restoration"},
+	{"value":"resource management"},
+	{"value":"rehabilitation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001621",
+	"dct:identifier":"FI2016001621",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

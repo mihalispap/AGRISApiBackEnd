@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The performance of two Swedish N fertilization functions evaluated on data from Norwegian fertilization experiments.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"forest fertilization"},
+	{"value":"fertilizers"},
+	{"value":"silviculture"},
+	{"value":"metsänlannoitus"},
+	{"value":"predictive functions"},
+	{"value":"Pinus sylvestris"},
+	{"value":"forecasting"},
+	{"value":"puuntuotanto"},
+	{"value":"forest production"},
+	{"value":"Picea abies"},
+	{"value":"metsät"},
+	{"value":"Picea abies (L.) H. Karst."},
+	{"value":"Pinus sylvestris L."}
+	],
+	"bibo:doi":"10.14214/sf.1330",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000254",
+	"dct:identifier":"FI2016000254",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1330",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sjølie, Hanne K,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sørlie, Hans Asbjørn K,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tveite, Bjørn,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Solberg, Birger,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Seed transfers of silver birch (Betula pendula) from the Baltic to Finland : effect on growth and stem quality.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Viherä-Aarnio, Anneli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Velling, Pirkko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"climatic adaptation"},
+	{"value":"yields"},
+	{"value":"laatu"},
+	{"value":"alkuperä"},
+	{"value":"adaptation"},
+	{"value":"provenance"},
+	{"value":"stem defect"},
+	{"value":"tuotos"},
+	{"value":"Betula pendula"},
+	{"value":"sopeutuminen"},
+	{"value":"ilmasto"},
+	{"value":"runko"},
+	{"value":"climatic factors"},
+	{"value":"stems"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001937",
+	"dct:identifier":"FI2016001937",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

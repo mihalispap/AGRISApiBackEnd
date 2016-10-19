@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"Past human population history affects current forest landscape structure of Vodlozero National Park, Northwest Russia.",
+	"xml:lang":"   "
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tikkanen, Olli-Pekka,
+    kirjoittaja
+    Itä-Suomen yliopisto
+    10088
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chernyakova, Irina A,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Russia."},
+	{"value":"metsäpalot"},
+	{"value":"metsiköt"},
+	{"value":"forest stands"},
+	{"value":"landscape change"},
+	{"value":"forest structure"},
+	{"value":"landscape"},
+	{"value":"boreal forests"},
+	{"value":"recovery"},
+	{"value":"forest fires"},
+	{"value":"boreaaliset metsät"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001798",
+	"dct:identifier":"FI2016001798",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

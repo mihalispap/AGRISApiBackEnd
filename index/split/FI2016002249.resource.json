@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Promoting cassava markering in Benue State : learning from previous experience of agricultural commodity trade by Nigeria and other countries.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Ayoola, J. B.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"Nigeria"},
+	{"value":"marketing"},
+	{"value":"cassava"},
+	{"value":"maniokki"},
+	{"value":"integration"},
+	{"value":"markkinointi"},
+	{"value":"entrepreneurship"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002249",
+	"dct:identifier":"FI2016002249",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

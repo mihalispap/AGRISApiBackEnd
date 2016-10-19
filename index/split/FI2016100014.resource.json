@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-125.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of the essential oils of Cymbopogon citratus, C. nardus and Cinnamomum zeylanicum on pest incidence and grain quality of rough rice (paddy) stored in an enclosed seed box"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Paranagama, Priyani (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abeysekera, Thushara (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nugaliyadde, Lionel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abeywickrama, Krishanthi (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100014",
+	"dct:identifier":"FI2016100014",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The protective effect of the essential oils of Cymbopogon citratus, C. nardus and Cinnamomum zeylanicum leaf on paddy stored in wooden boxes lined with aluminium foil were evaluated. After 168 days of storage in oil treated boxes Sitotroga cerealella population was significantly lower in oil treated paddy than the control. The 1000-grain weight was higher in all three treatments (21.1 – 22.9 g) compared to the control (19.8 g). Percentage grain damage was lower in C. citratus and C. nardus treated paddy than the control. The percentage seed germination was not significantly different from that of the control in oil treated paddy though, in C. citratus treatment the seed germination was reduced. The milling quality of paddy was not affected by the essential oil treatment however; the flavour and stickiness of cooked rice was enhanced when treated with C. zeylanicum and C. citratus oils."}
+	}}

@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Endocrine profile from birth to puberty in buffalo calves and heifers",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":563,
+	"dc:subject":[
+		{"value":"sexual maturity",
+	"xml:lang":"eng"
+	},
+	{"value":"endocrinology",
+	"xml:lang":"eng"
+	},
+	{"value":"endocrinologie",
+	"xml:lang":"fre"
+	},
+	{"value":"novilla",
+	"xml:lang":"esp"
+	},
+	{"value":"genisse",
+	"xml:lang":"fre"
+	},
+	{"value":"madurez sexual",
+	"xml:lang":"esp"
+	},
+	{"value":"maturite sexuelle",
+	"xml:lang":"fre"
+	},
+	{"value":"endocrinologia",
+	"xml:lang":"esp"
+	},
+	{"value":"heifers",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":569,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000092",
+	"dct:identifier":"IN2015000092",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"june2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ingole,  S D"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deshmukh, B.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagvekar, A.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bharucha,  S.V."
+	}
+	}
+	],
+	"bibo:issue":6,
+	"bibo:abstract":{"value":"The GH, FSH and LH were studied in female buffalo calves from birth to puberty and the endocrine profiles recorded at different stages of growth in female buffalo calves and heifers were compared. The minor fluctuation of GH upto 8â10 months of age may be due to gradual dilution of GH with increasing age and size of animals. The decreased GH concentrations at 21â24 months and 24â30 months is due to the endocrine changes that occur at puberty which is associated with a decrease in the number of GH binding sites and consequently the decline in serum circulation of GH. The FSH concentration did not differ significantly from birth to 15â18 months of age indicating that the cessation of early rise may be due to the establishment or enhancement of negative feedback regulation of gonadotrophin secretion by ovarian products. The higher levels of serum FSH from 18â21 months of age to 24â30 months of age could be indicative of the fact that the buffalo calves may have attained puberty. The higher levels of LH found after birth in buffalo calves might be presumably in response to the withdrawal of placental estrogen followed by a brisk surge of gonadotrophins. The gradual increase of gonadotrophin may be possibly due to gradual decrease in sensitivity to ovarian steroid inhibitory feedback, while decrease may be due to rise in sensitivity of GnRh secretion to the inhibitory effects of ovarian steroids. The highest concentration observed at 15â18 months suggests that a prepubertal increase in circulating LH concentration is the critical event leading to onset of puberty. Thus, the high concentration of LH prior to puberty onset may be an important event in the trigger for initiation and organization of cyclic ovarian activity in buffalo heifers.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"MORFOANATOMIA FOLIAR DE Irlbachia nemorosa (Willd. ex Roem. & Schult.) Merr. (GENTIANACEAE: HELIEAE)",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":5,
+	"bibo:volume":4,
+	"bibo:pageEnd":8,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00110",
+	"dct:identifier":"BR2015N00110",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/659",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Marcos Melo Correa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gabriel Augusto Martins de Melo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amauri Herbert Krahl"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maria Gracimar Pacheco de Araújo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amazonas"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Nacional de Pesquisas da Amazônia"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"PT-BR\">(</span><span Morfoanatomia foliar de Irlbachia nemorosa (Willd. ex Roem. & Schult.) Merr. (Gentianaceae: Helieae)</span><span lang=\"PT-BR\">).<strong> </strong></span><em><span Irlbachia</span></em><span  é um gênero nativo do Brasil, com quatro espécies ocorrendo no território nacional, sendo Irlbachia nemorosa a única espécie endêmica. Aspectos sobre anatomia foliar no gênero são ainda inexplorados. O presente estudo descreve aspectos da estrutura morfoanatômica foliar de Irlbachia nemorosa</em>. O pecíolo e a nervura central apresentam feixes vasculares bicolaterais, com ocorrência de poucas esclereides no córtex. O mesofilo é dorsiventral, com parênquima paliçádico e lacunoso com pouco espaço entre as células. Os estômatos são anomocíticos ocorrendo na linha epidérmica. A espécie possui características que permitem sucesso na colonização de ambientes abertos, pois embora seja uma herbácea, apresentando caracteres xeromórficos conferindo resistência à planta.<strong></strong></span>",
+	"xml:lang":"por"
+	}
+	}}

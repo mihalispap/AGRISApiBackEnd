@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.989",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Saarsalmi, Anna,
+    kirjoittaja
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tamminen, Pekka,
+    kirjoittaja.
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kukkola, Mikko,
+    kirjoittaja.
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Effects of long-term fertilisation on soil properties in Scots pine and Norway spruce stands.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"liming"},
+	{"value":"forest soils"},
+	{"value":"mänty"},
+	{"value":"fosfori"},
+	{"value":"metsämaa"},
+	{"value":"Pinus sylvestris"},
+	{"value":"typpi"},
+	{"value":"phosphorus"},
+	{"value":"Picea abies"},
+	{"value":"boreal forests"},
+	{"value":"boreaaliset metsät"},
+	{"value":"nitrogen"}
+	],
+	"bibo:doi":"10.14214/sf.989",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001568",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001568",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

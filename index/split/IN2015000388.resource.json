@@ -1,0 +1,101 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Concentrate supplementation to ewes grazing on community rangeland during late gestation and early lactation",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":145,
+	"dc:subject":[
+		{"value":"alimentation complementaire",
+	"xml:lang":"fre"
+	},
+	{"value":"lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"grazing",
+	"xml:lang":"eng"
+	},
+	{"value":"grazing lands",
+	"xml:lang":"eng"
+	},
+	{"value":"pregnancy",
+	"xml:lang":"eng"
+	},
+	{"value":"supplementary feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"paturage",
+	"xml:lang":"fre"
+	},
+	{"value":"alimentacion complementaria",
+	"xml:lang":"esp"
+	},
+	{"value":"gestation",
+	"xml:lang":"fre"
+	},
+	{"value":"terre de paturage",
+	"xml:lang":"fre"
+	},
+	{"value":"aliment concentre pour animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"ewes",
+	"xml:lang":"eng"
+	},
+	{"value":"gestacion",
+	"xml:lang":"esp"
+	},
+	{"value":"concentrates",
+	"xml:lang":"eng"
+	},
+	{"value":"piensos concentrados",
+	"xml:lang":"esp"
+	},
+	{"value":"tierras de pastoreo",
+	"xml:lang":"esp"
+	},
+	{"value":"pastoreo",
+	"xml:lang":"esp"
+	},
+	{"value":"brebis",
+	"xml:lang":"fre"
+	},
+	{"value":"oveja",
+	"xml:lang":"esp"
+	},
+	{"value":"lactacion",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":147,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000388",
+	"dct:identifier":"IN2015000388",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chaturvedi, O.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sahoo, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gulyani, R."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Malpura and Kheri ewes (34), 3â4 years old, in their late gestation and weighing 36.12Â±2.63 kg were randomly selected and divided into two groups of 24 (G1) and 10 (G2). Ewes in both the group were grazed on rangeland from 07.00 to 18.00 h followed by night shelter in animal shed. The ewes in G1, in addition to grazing received concentrate mixture (@ 350 g/ewe/day) during entire late gestation to early lactation. The body weight of ewes at parturition was higher in G1 than in G2. The birth weight of lambs in G1 (3.66 kg) was higher (P0.01) than that in G2 (3.07 kg). The body weights of lambs at 15, 30, 45 and 75 days of age were also higher (P0.01) in G1 than in G2. The body weight gain and average daily gain of lambs at 75 days of age was also higher (P0.01) in G1 than in G2. Milk yield of ewes increased up to 200 g per day due to concentrate supplementation in G1 in comparison to without concentrate supplementation. The lambs of supplemented ewes were sold at higher rates (Rs. 1900/lamb) than those of non supplemented ewes (Rs. 1400/lamb). Concentrate supplementation (@ 350 g/ewe/day) during these critical stages enhanced their production performance, general condition as well as birth weight and growth rate of lambs.",
+	"xml:lang":"eng"
+	}
+	}}

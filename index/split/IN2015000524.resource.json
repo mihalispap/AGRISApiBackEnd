@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of amalgerol and tebuconazole on tikka leaf spot and rust of Groundnut",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":355,
+	"dc:subject":[
+		{"value":"arachis hypogaea",
+	"xml:lang":"esp"
+	},
+	{"value":"mycosphaerella arachidis",
+	"xml:lang":"esp"
+	},
+	{"value":"puccinia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":357,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000524",
+	"dct:identifier":"IN2015000524",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shaista Rahman"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayanta Tarafdar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Santosh Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amarendra Kumar"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The results revealed that combination of tebuconazole 25EC + amalgerol @ 500ml and 2000ml/ha exhibited the best to control the diseases as well as improved groundnut crop health. Two applications of tebuconazole 25EC + amalgerol @ 500ml and 2000ml/ha gave very effective control of tikka leaf spot and rust and where terminal PDI was 06.1 and 09.1, respectively. Amalgerol regulating the disease incidence was environmentally safe and economically beneficial. Results also indicated that amalgerol in combination with tebuconazole offered resistance to the invasion of disease causing pathogen.",
+	"xml:lang":"eng"
+	}
+	}}

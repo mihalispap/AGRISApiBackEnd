@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Produce-simulator property evaluation for indirect airflow distribution measurement through horticultural crop package"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188145",
+	"dct:identifier":"FI2007188145",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f10.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vigneault, Clément (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"de Castro, Larissa R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The possibility of using an indirect measurement method of air velocity pattern inside a container during precooling to aid the container openings design was discussed. This indirect measurement of air velocity is based on using the correlation between the cooling rate of a produce simulator and air approach velocity. Plastic balls were chosen to simulate packed horticultural produce in experiments with forced-air cooling. Specific heat capacity, thermal diffusivity, thermal conductivity, and a cooling rate index of the plastic balls were measured. The cooling rate of the balls was measured using still air and five approach velocities. A regression analysis demonstrated that 98.6% of the variation of the cooling rate of the balls could be explained by the variation of the air approach velocity and their cooling rate index. These findings will allow the prediction of valuable results while using indirect measurement of air velocity to establish the airflow pattern within horticultural produce containers during the next step of this research."}
+	}}

@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Estudos de superfícies em escala nanométrica com o Microscópio de Força Atômica",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Henrique Duarte da Fonseca Filho "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gerson Anderson de Carvalho Lopes "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Robert Ronald Maguina Zamora "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DISSE/CNPq "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00030",
+	"dct:identifier":"BR2015M00030",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O Microscópio de Força Atômica (AFM, atomic force microscopy) é uma poderosa ferramenta de investigação de superfícies em escala nanométrica. Com este equipamento é possível visualizar átomos individuais, nas imagens de maior resolução. Através das imagens geradas com o AFM pode-se extrair dados sobre as propriedades das superfícies analisadas, sendo este o motivo deste equipamento ter se tornado uma das mais ferramentas da ciência dos materiais nas últimas décadas. Neste artigo são mostrados alguns avanços no estudo de superfícies dos materiais com o AFM, enfatizando um de seus modos de operação.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

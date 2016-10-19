@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   Características higroscópicas e produtivas do casulo em raças do Bombyx mori L. ",
+	"xml:lang":"por"
+	},
+	{"value":"Hygroscopics and yield characteristics of cocoon in races of Bombyx mori L.",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"cocoons",
+	"xml:lang":"eng"
+	},
+	{"value":"water",
+	"xml:lang":"eng"
+	},
+	{"value":"silkworms",
+	"xml:lang":"eng"
+	},
+	{"value":"shell",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"69/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01249",
+	"dct:identifier":"BR2015F01249",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1355400374.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"PORTO,  A. J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALMEIDA,  J. E."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Cocoons, cocoon shells and chrysalis of four races of Bombyx mori L., two from China (C202 and C212) and two from Japan (B104 and M11-2), were analyzed in function of determinant factors as weight (dry mater and moisture) and by hygroscopic capacity after cooking. It was used a complete randomized design, with four treatments and ten replications. Although the cocoon shell has a higher hygroscopic capacity, the percentage of water in the chrysalis is the main factor to determine the weight of cocoon. The percentage of water in the cocoon and its components are inversely related to the absorption after cooking. Of all races evaluated, the chinese ones had lower percentage of water in the cocoon and higher cocoon shell weight than the japanese races.",
+	"xml:lang":"eng"
+	},
+	{"value":"Casulos, cascas séricas e crisálidas de quatro raças do Bombyx mori L., sendo duas de origem chinesa (C202 e C212) e duas de origem japonesa (B104 e M11-2), foram analisados em função dos fatores determinantes do peso (matéria seca e umidade) e pela capacidade higroscópica após cozimento. O delineamento experimental adotado foi o inteiramente casualizado, com quatro tratamentos e dez repetições. Embora a casca sérica possua maior capacidade higroscópica a porcentagem de água na crisálida é o principal fator determinante do peso do casulo. A porcentagem de água no casulo e nos seus componentes está inversamente relacionada com a absorção após cozimento. Das raças avaliadas, as chinesas apresentaram menor porcentagem de água no casulo e maior peso de casca que as raças japonesas.",
+	"xml:lang":"por"
+	}
+	]
+	}}

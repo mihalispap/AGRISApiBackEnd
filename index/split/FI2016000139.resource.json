@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.975",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Trubins, Renats,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sallnäs, Ola,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Categorical mapping from estimates of continuous forest attributes - classification and accuracy.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"metsätyypit"},
+	{"value":"sweden"},
+	{"value":"maastokartat"},
+	{"value":"Bayesian network"},
+	{"value":"k-NN estimates"},
+	{"value":"forest type maps"},
+	{"value":"tarkkuus"},
+	{"value":"accurancy"},
+	{"value":"forest types (by species composition)"},
+	{"value":"land cover mapping"},
+	{"value":"map accuracy assessment"},
+	{"value":"class membership probability"}
+	],
+	"bibo:doi":"10.14214/sf.975",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000139",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000139",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

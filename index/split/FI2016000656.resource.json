@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"New paradigm for saving world's forests?",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Katila, Pia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Katila, Marko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"nature conservation"},
+	{"value":"kirja-arvostelut"},
+	{"value":"reviews"},
+	{"value":"Douglas, Jim."}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000656",
+	"dct:identifier":"FI2016000656",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

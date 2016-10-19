@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of arbuscular mycorrhizas on crown rot (Phytophthora cactorum) in micropropagated strawberry plants /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vestberg, Mauritz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Palmujoki, Hanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Parikka, Päivi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uosukainen, Marjatta.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fragaria ananassa"},
+	{"value":"mikrolisäys"},
+	{"value":"Fragaria x ananassa"},
+	{"value":"phytophthora cactorum"},
+	{"value":"Phytophthora cactorum"},
+	{"value":"mykorritsasienet"},
+	{"value":"finland"},
+	{"value":"field experimentation"},
+	{"value":"biological control organisms"},
+	{"value":"kasvitaudit"},
+	{"value":"Glomus"},
+	{"value":"vesicular arbuscular mycorrhizae"},
+	{"value":"sienitaudit"},
+	{"value":"glomus"},
+	{"value":"arbuskelimykorritsasienet"},
+	{"value":"mansikan tyvimätä"},
+	{"value":"micropropagation"},
+	{"value":"puutarhamansikka"},
+	{"value":"strawberries"},
+	{"value":"pot experimentation"},
+	{"value":"fruit crops"},
+	{"value":"mansikat"},
+	{"value":"biologinen torjunta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002074",
+	"dct:identifier":"FI2016002074",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

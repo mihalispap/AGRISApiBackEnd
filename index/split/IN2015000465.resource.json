@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Lingual papillae of the buffalo fetus: an electron microscopic study",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":67,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"microscopie",
+	"xml:lang":"fre"
+	},
+	{"value":"lengua",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"tongue",
+	"xml:lang":"eng"
+	},
+	{"value":"feto",
+	"xml:lang":"esp"
+	},
+	{"value":"langue",
+	"xml:lang":"fre"
+	},
+	{"value":"microscopy",
+	"xml:lang":"eng"
+	},
+	{"value":"foetus",
+	"xml:lang":"fre"
+	},
+	{"value":"microscopia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":69,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000465",
+	"dct:identifier":"IN2015000465",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Uppal, Varinder"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bansal, Neelam"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pathak, Devendra"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"An electron microscopic study was conducted on the lingual papillae of the buffalo fetus during late gestation. The age of the buffalo foetii ranged between 254â88 days. The study revealed that all papillae were differentiated by this age. The filiform papillae had round tips instead of pointed one. The conical and lenticular papillae were also differentiated. The fungiform papillae were round and covered by desquamated epithelial cells. The circumvallate papillae were surrounded by a papillary groove with taste pores present on the lateral surface of the papillae. The study demonstrated a caudocranial (from root to apex of the tongue) development of the lingual papillae with caudal papillae better developed than cranial one at a time.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Which annual rings to assess grain angles in breeding of Scots pine for improved shape stability of sawn timber?",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hallingbäck, Henrik R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jansson, Gunnar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hannrup, Björn.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fries, Anders.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"spiral grain angle"},
+	{"value":"mänty"},
+	{"value":"sawn timber"},
+	{"value":"breeding"},
+	{"value":"sawnwood"},
+	{"value":"Pinus sylvestris"},
+	{"value":"metsänjalostus"},
+	{"value":"ominaisuudet"},
+	{"value":"sahatavara"},
+	{"value":"warp"},
+	{"value":"vuosilustot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002212",
+	"dct:identifier":"FI2016002212",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

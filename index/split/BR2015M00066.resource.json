@@ -1,0 +1,22 @@
+{"resource": {
+	"dct:issued":2011,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Uma abordagem histórica e experimental da Eletrostática",
+	"xml:lang":"por"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"José Nilson Silva "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00066",
+	"dct:identifier":"BR2015M00066",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O presente artigo tem por objetivo fornecer ao professor de ensino médio subsídios históricos relacionados à Eletrostática, assim como um conjunto de aparatos experimentais que visem auxiliá-lo a despertar nos alunos o interesse pelo assunto ministrado; tal pesquisa foi feita de acordo com a seqüência utilizada em diversos livros didáticos, sendo inserido na mesma o caráter histórico das principais descobertas, assim como, experimentos que podem ser utilizados em sala de aula para comprovar uma teoria.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

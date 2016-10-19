@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Spring cereals : from dynamic ideotypes to cultivars in northern latitudes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mäkelä, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Muurinen, Susanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kevätviljat"},
+	{"value":"lajikkeet"},
+	{"value":"Finland"},
+	{"value":"spring crops"},
+	{"value":"crop yield"},
+	{"value":"ominaisuudet"},
+	{"value":"cereals"},
+	{"value":"kasvinjalostus"},
+	{"value":"crop performance"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002244",
+	"dct:identifier":"FI2016002244",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

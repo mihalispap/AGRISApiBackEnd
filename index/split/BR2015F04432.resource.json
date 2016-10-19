@@ -1,0 +1,78 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Body measurements and carcass characteristics correlation of Nellore young bulls finishideded in feedlot",
+	"xml:lang":"eng"
+	},
+	{"value":"   Correlações entre medidas corporais e caracteristicas das carcaças de tourinhos Nelore terminados em confinamento ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"biometry",
+	"xml:lang":"eng"
+	},
+	{"value":"dressing percentage",
+	"xml:lang":"eng"
+	},
+	{"value":"bovinae",
+	"xml:lang":"eng"
+	},
+	{"value":"ultrasonography",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F04432",
+	"dct:identifier":"BR2015F04432",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://iz.sp.gov.br/pdfsbia/1418317737.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"ROSA, B.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SAMPAIO, A.A.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, E.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"HENRIQUE W."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PIVARO, T.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ANDRADE, A.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERNANDES, A.R.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MOTA, D.A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"In this work it was aimed to evaluate Pearson correlations between body measurements, carcass characteristics and production of 35 Nellore bulls, confined for 96 days, with 402±14.90 kg and 18 months old. Weightings, ultrasound images and 14 measurements were obtained at the beginning of each experimental period and before slaughter, totaling four weight ratings of ultrasound images and measurements per animal. For the evaluation of body measurements and ultrasound images with carcass traits the values from the last measurement were considered. The images were made along with weighing animals through a Scanner, and measurements with a tape measure and a zoométrica cane, and these were correlated with each other and with productive and carcass characteristics. For measures of loin eye area evaluated by ultrasonography, it were found positive correlations with body length (0.32), rump (0.36) and thigh (0.20)",
+	"xml:lang":"eng"
+	},
+	{"value":"altura da cernelha (0,20) e contorno pelviano (0,38) (P"},
+	{"value":"Neste trabalho objetivou-se avaliar correlações de Pearson entre medidas corporais, características produtivas e das carcaças de 35 tourinhos da raça Nelore, confinados por 96 dias, com 402±14,90 kg e 18 meses de idade. Foram efetuadas pesagens, tomadas de imagens ultrassônicas e 14 mensurações no início de cada período experimental e antes do abate, totalizando quatro avaliações de peso, de imagens ultrassônicas e de medições por animal. Para a avaliação das medidas corporais e das imagens ultrassônicas com as características de carcaça foram considerados os valores da última medição. As imagens foram feitas juntamente com a pesagem dos animais e as medidas obtidas com fita métrica e bengala zoométrica, sendo essas correlacionadas entre si e com as características produtivas e da carcaça. Nas medições de área de olho de lombo com ultrassom, foram encontradas associações positivas com comprimento de corpo (0,32), de garupa (0,36) e de coxa (0,20)"},
+	{"value":"withers height (0.20) and pelviano contour (0.38) (P",
+	"xml:lang":"por"
+	}
+	]
+	}}

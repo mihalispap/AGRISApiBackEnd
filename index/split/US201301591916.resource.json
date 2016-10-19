@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic diversity in wild relatives of cowpea (Vigna unguiculata) as revealed by simple sequence repeats (SSR) markers"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591916",
+	"dct:identifier":"US201301591916",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a16.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ogunkanmi, L.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ogundipe, O.T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ng, N.Q. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fatokun, C.A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The genetic diversity in wild cowpea was assessed using cowpea derived simple sequence repeat (SSR) markers. A total of forty eight wild cowpea lines collected from diverse geographical locations in Africa were used for the study. Twelve SSR markers were selected for amplification of DNA of the test lines and these produced a total of ninety polymorphic bands. A dendrogram constructed using unweighted pair group using mathematical averages (UPGMA) analysis distinguished forty three accessions out of a total of forty eight accessions used for the study implying that a great diversity in wild cowpea. Accessions from Southern part of Africa have the highest polymorphism information content (PIC) values suggesting a high level of diversity from that region and is likely to be center of diversity of wild cowpea. The allele number per primer varied from 4 to 13 with an average of 7.5 alleles. The SSR, VM 36 showed the highest number of alleles with the PIC value of 0.870. This analysis revealed that SSR markers are useful tools in assessing the level of genetic diversity in wild cowpea."}
+	}}

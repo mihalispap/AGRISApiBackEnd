@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Utfodringstest som måttstock för tillit.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rekilä, Teppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahola, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harri, Mikko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methods"},
+	{"value":"syönti"},
+	{"value":"kettu"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"animal feeding"},
+	{"value":"behaviour"},
+	{"value":"ruokinta"},
+	{"value":"animal breeding"},
+	{"value":"foxes"},
+	{"value":"furbearing animals"},
+	{"value":"lisääntyminen"},
+	{"value":"testing"},
+	{"value":"testit"},
+	{"value":"kotieläinjalostus"},
+	{"value":"turkiseläimet"},
+	{"value":"arviointimenetelmät"},
+	{"value":"valinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000129",
+	"dct:identifier":"FI2016000129",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"AVENCAS (Adiantum L. - PTERIDACEAE) DO MUNICÍPIO DE ACARÁ, PARÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":26,
+	"bibo:volume":5,
+	"bibo:pageEnd":30,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00206",
+	"dct:identifier":"BR2015N00206",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1147",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chirla Miranda"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anna Luiza Ilkiu-Borges"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sebastião Maciel"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Museu Paraense Emílio Goeldi"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 10pt; line-height: 107%; font-family: Verdana, sans-serif;\" A família Pteridaceae é formada por cerca de 50 gêneros e mais de 950 espécies. Essa família é composta por cinco grupos monofiléticos, dentre eles um é formado pelo gênero Adiantum e mais as samambaias vitarióides. No Brasil, há diversos estudos que tratam da família e um único estudo exclusivamente para o gênero no Estado do Rio de Janeiro. Portanto, o presente trabalho teve como objetivo realizar o estudo do gênero Adiantum no município de Acará, onde se constatou a ocorrência de oito espécies: Adiantum dolosum</em>, A. glaucescens</em>, A. humile</em>, A. latifolium</em>, A. multisorum</em>, A. paraense</em>, A. terminatum e A. tomentosum</em>. Para este fim, foram elaboradas chave de identificação, descrições, ilustrações, padrão de distribuição geográfica, tipos de formas de vida e ambientes de ocorrência.</span> <p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 10pt; line-height: 107%; font-family: Verdana, sans-serif;\" Palavras-chave:</span></strong><span style=\"font-size: 10pt; line-height: 107%; font-family: Verdana, sans-serif;\"  samambaias, taxonomia, Amazônia brasileira.</span><!--[endif] -->",
+	"xml:lang":"por"
+	}
+	}}

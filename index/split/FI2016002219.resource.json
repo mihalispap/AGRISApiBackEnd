@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Improvement of low level bark beetle damage estimates with adaptive cluster sampling.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Coggins, Sam B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Coops, Nicholas C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wulder, Michael A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Pinus contorta"},
+	{"value":"forest pests"},
+	{"value":"ilmakuvakartoitus"},
+	{"value":"forest inventories"},
+	{"value":"tuhohyönteiset"},
+	{"value":"damage"},
+	{"value":"adaptive cluster sampling"},
+	{"value":"cluster sampling"},
+	{"value":"high spatial resolution"},
+	{"value":"aerial surveying"},
+	{"value":"arviointi"},
+	{"value":"digital image processing"},
+	{"value":"metsä̈ninventointi"},
+	{"value":"object-based classification"},
+	{"value":"Dendroctonus ponderosae"},
+	{"value":"pest insects"},
+	{"value":"metsätuholaiset"},
+	{"value":"hyönteistuhot"},
+	{"value":"satellite imagery"},
+	{"value":"otanta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002219",
+	"dct:identifier":"FI2016002219",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Electrophoretic study of mushroom proteins /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bauer Petrovska, Biljana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Panov, Sasho.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zafirovska, Danica Roganovic.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kulevanova, Svetlana.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"elektroforeesi"},
+	{"value":"edible fungi"},
+	{"value":"analyysimenetelmät"},
+	{"value":"valkuaisaineet"},
+	{"value":"electrophoresis"},
+	{"value":"chemical composition"},
+	{"value":"proteins"},
+	{"value":"sienet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002070",
+	"dct:identifier":"FI2016002070",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

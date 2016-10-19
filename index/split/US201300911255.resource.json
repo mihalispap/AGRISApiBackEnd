@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Rheological properties of rennet-induced milk gels as affected by high pressure treatment at different temperatures"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911255",
+	"dct:identifier":"US201300911255",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/f15.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shaker, Reyad R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Osaili, Tareq M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Clark, Stephanie (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Harte, Federico M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barbos-Canovas, Gustavo V. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effects of high pressure treatments (483 MPa and 676 MPa) at different temperatures (10, 30 and 40ºC) on the rheological properties of coagulant-induced milk gels were investigated by dynamic viscoelasticity measurements. Gels prepared from pressurized milk (483 MPa) at 10ºC had higher G´ and gel firmness values, while pressurization at 40ºC resulted in lower values compared to the untreated milk gel. Treatments of 483 MPa at 40ºC and 676 MPa at 30 and 40ºC caused dramatic decreases in the values of G´ and gel strength. The combined effects of pressure treatment and high temperatures caused a progressive increase in milk turbidity without changing pH values. While a pressure-treatment of 483 MPa at 10ºC may promote firm gel formation, pressure-temperature treatments of milk at or exceeding 483 MPa at 40ºC or 676 MPa at 30ºC may impair gel- forming properties of the milk and lead to weak gels."}
+	}}

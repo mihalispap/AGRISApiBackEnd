@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"COMPOSIÇÃO E DIVERSIDADE DE ANFÍBIOS ANUROS DO CAMPUS DA UNIVERSIDADE FEDERAL DO AMAPÁ.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":13,
+	"bibo:volume":3,
+	"bibo:pageEnd":21,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00043",
+	"dct:identifier":"BR2015N00043",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/589",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Auridan Padilha Pereira-Junior"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carlos Eduardo Costa Campos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Andrea Soares Araujo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIFAP - Universidade Federal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIFAP - Universidade Federal do Amapa"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; text-align: justify;\"><span style=\"font-size: 12.0pt; font-family: \">A maior diversidade de anuros ocorre na região neotropical, que conta com 43,7% das espécies conhecidas no mundo. Apesar disso, inventários sobre anfíbios anuros nos trópicos são lamentavelmente incipientes. Neste estudo, abordamos informações sobre a composição e diversidade de anfíbios anuros que ocorrem no fragmento de floresta do Campus da Universidade Federal do Amapá. O método de amostragem utilizado foi procura ativa visual e auditiva em duas trilhas (400 e 1.200 m) e dois ramais (600 e 1.800 m). Durante o período de amostragem de agosto de 2007 a julho de 2008, foram realizadas 784 horas-homem de procura dentro das trilhas e 584 horas-homem nos ramais, totalizando 1.368 horas-homem durante um ano. Foram registrados 1.132 indivíduos de anfíbios anuros e 20 espécies distribuídas em seis famílias. As espécies dominantes foram Leptodactylus fuscus com 21,4% e Rhinella granulosa com 16,5% dos indivíduos registrados. A curva de rarefação de espécies não atingiu a assíntota, indicando que não foram encontradas todas as espécies de anfíbios anuros que ocorrem no Campus. Deste modo, a riqueza observada no presente estudo deve ser tomada como uma subestimativa, decorrente do esforço amostral ainda insuficiente. Pelo fato de nem todas as espécies de anfíbios anuros que ocorrem no Campus terem sido amostradas, estudos como este mostram a importância da realização de inventários de longo prazo e da associação de diferentes métodos de amostragem da anurofauna local.</span>",
+	"xml:lang":"por"
+	}
+	}}

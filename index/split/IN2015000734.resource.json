@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal changes in xylem sap flow rate in mature rubber plants",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":343,
+	"dc:subject":[
+		{"value":"sunlight intensity"},
+	{"value":"xylem sap flow"},
+	{"value":"water use",
+	"xml:lang":"eng"
+	},
+	{"value":"xilema",
+	"xml:lang":"esp"
+	},
+	{"value":"utilisation de l'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"uso del agua",
+	"xml:lang":"esp"
+	},
+	{"value":"xylem",
+	"xml:lang":"eng"
+	},
+	{"value":"xyleme",
+	"xml:lang":"fre"
+	},
+	{"value":"hevea brasiliensis",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":349,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000734",
+	"dct:identifier":"IN2015000734",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Annamalainathan, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joby Joseph"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Badre Alam"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Satheesh, P. R"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"James Jacob"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The rate of flow of xylem sap of mature rubber tree was recorded round the clock continuously for two years using a Granier type thermal dissipation probe (TDP). The measurements were made on 19 year old trees of the clones, RRII 5 and PR 255 with a mean girth of 78 and 82 cm, respectively at 150 cm above bud union. Overall, the average rate of water mining by a tree was to the tune of 22 Â± 3 L day-1. The diurnal and seasonal differences in the sap flow rate were very evident which responded to the ambient weather conditions such as intensity of sunlight, temperature, rainfall etc.In the morning hours, as the sunlight intensity increased there was a corresponding sharp increase in sap flow rate which attained maximum level around mid-day. In the evening, as the light intensity declined, the sap flow rate also declined. The maximum rate of sap flow per day was recorded in December and the minimum in February coinciding with complete defoliation of the canopy. Taking a mean water consumption of 22 L tree-1 day-1 and assuming there are 400 trees ha-1, the water consumption works out to be in the range of 1-2 mm day-1. This is significantly lesser than the potential evapo-transpiration (ET) of an open field in this traditional region. Taking the long-term average rain fall in the region (3000 mm year -1), it can be seen that the water loss due to transpiration (T) by the trees amounted only to 11 percent of the annual rainfall.",
+	"xml:lang":"eng"
+	}
+	}}

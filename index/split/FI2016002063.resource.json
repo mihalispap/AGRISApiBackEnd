@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Stability of limonin from lime seeds /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jitpukdeebodintra, Somrutai.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chantachum, Suganya.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ratanaphan, Adisorn.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chantapromma, Kan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"siemen"},
+	{"value":"Citrus aurantiifolia"},
+	{"value":"limetti"},
+	{"value":"seeds"},
+	{"value":"kemialliset yhdisteet"},
+	{"value":"limes"},
+	{"value":"terpenoids"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002063",
+	"dct:identifier":"FI2016002063",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

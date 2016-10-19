@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e16.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Study of the abrasion phenomenon of a pump for the drinking water supply in the Great Algerian South"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khodjet-Kesba, Omar (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kettab, Ahmed (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100524",
+	"dct:identifier":"FI2016100524",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The drinking water supply in the Saharan cities of the Great Algerian South knows a constant disturbance which is not dependent on the availability of the water resources but rather on water quality. The pumping of subsoil water charged with suspended fine sand particles causes a premature wear by abrasive erosion of the pumps in a short time and serious disturbances in the distribution of drinking water. To study the phenomenon, a test bench was designed at the laboratory, making it possible to identify the evolution of wear by abrasion of the body of an Algerian standard pump. Natural conditions were established; the drinking water used included particles of fine sand (a mixture of silica and quartz, diameter 0.6–1.4 mm), which is a frequent characteristic of water of the area posing the problem. The tests showed after an operating time of 60 hours, a palpable wear with a loss of mass of the principal body of the pump which is the wheel, confirming the studies completed all over the world in this field. The mechanical effect of sandy water on the most exposed body was obvious. Premature wear was done away from the point of splashing."}
+	}}

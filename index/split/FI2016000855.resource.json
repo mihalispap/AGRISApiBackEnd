@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Formate oxidation rate in mink.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pölönen, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vahteristo, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hurme, K-R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tanhuanpää, E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uusi-Rauva, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkelä, J.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"aineenvaihdunta"},
+	{"value":"feeds"},
+	{"value":"side effects"},
+	{"value":"rehujen lisäaineet"},
+	{"value":"minks"},
+	{"value":"formic acid"},
+	{"value":"rehut"},
+	{"value":"metabolism"},
+	{"value":"foolihappo"},
+	{"value":"säilöntäaineet"},
+	{"value":"sivuvaikutukset"},
+	{"value":"formiaatti"},
+	{"value":"folic acid"},
+	{"value":"toxicity"},
+	{"value":"furbearing animals"},
+	{"value":"preservatives"},
+	{"value":"minkki"},
+	{"value":"muurahaishappo"},
+	{"value":"turkiseläimet"},
+	{"value":"haittavaikutukset"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000855",
+	"dct:identifier":"FI2016000855",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

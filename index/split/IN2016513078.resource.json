@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"Ecology and Evolution of Nest Parasitism in Indian Cuckoo",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"ecology",
+	"xml:lang":"eng"
+	},
+	{"value":"parasitism",
+	"xml:lang":"eng"
+	},
+	{"value":"cuckoos",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513078",
+	"dct:identifier":"IN2016513078",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=17",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sharma R. K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goyal  A. K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma Manju"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Nest parasitism is a common phenomenon in many species of birds in which a female of one species lays her eggs in the nest of another species to be hatched and cared by the hosts. The nest parasitism evolved initially as a facultative strategy to use the nest of one species which has raised its brood or deserted nests and then further advanced into parasitism. The host species feed on a wide spectra of food resources, especially rich in protein and are insectivores, carnivores or omnivores in contrast to the very restrictive feeding habits of the parasite species. Parasitism cost for the host is often high which favour the evolution of host defence leading to a parallel evolution between adaptation and counter adaptation of host-parasite interaction. The understanding of breeding biology and ecology of nest parasitism provides important information for the population management of host and parasitic species to devise very specialized conservation strategies for the delicate interaction in the quickly evolving environmental scenario.",
+	"xml:lang":"eng"
+	}
+	}}

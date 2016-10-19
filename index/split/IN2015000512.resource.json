@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Foraging behaviour of species of honey bees in Sunflower (Helianthus annuus L.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":310,
+	"dc:subject":[
+		{"value":"foraging",
+	"xml:lang":"eng"
+	},
+	{"value":"apis",
+	"xml:lang":"esp"
+	},
+	{"value":"helianthus annuus",
+	"xml:lang":"esp"
+	},
+	{"value":"recherche de nourriture",
+	"xml:lang":"fre"
+	},
+	{"value":"busqueda de alimento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":312,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000512",
+	"dct:identifier":"IN2015000512",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Krishna, K. Venata"
+	}
+	},
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The peak foraging activity of all pollinators was found at 8th and 15th day after 10% flowering was observed. Apis mellifera was proved efficient forager because of its long working duration followed by A. florea, A. indica and Trigona irridipenis, respectively. A. mellifera visited more number of flowers for nectar foraging, whereas in case of pollen foraging, maximum number of flowers were visited by Trigona sp. followed by A. mellifera, A. dorsata, A. florea, and A. indica, respectively. It means that honey bees spent less time for foraging pollen than nectar. Number of honey bees in bee hive per minute was found to be highest in A. mellifera.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of peat-soil for biological purification of ethylene contaminated air.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Elsgaard, Lars.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"mikrobiologia"},
+	{"value":"bakteerit"},
+	{"value":"peat"},
+	{"value":"ethylene"},
+	{"value":"maaperä"},
+	{"value":"etyleeni"},
+	{"value":"bacteria"},
+	{"value":"biosuodattimet"},
+	{"value":"biofilter"},
+	{"value":"growing media"},
+	{"value":"microbiology"},
+	{"value":"pollution control"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001298",
+	"dct:identifier":"FI2016001298",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

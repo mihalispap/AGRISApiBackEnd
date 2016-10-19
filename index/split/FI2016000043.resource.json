@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Rapid assessing of water and nitrogen status in wheat flag leaves /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bonfil, David J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karnieli, Arnon.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Raz, Michael.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mufradi, Israel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Asido, Silvia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Egozi, Haim.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hoffman, Aharon.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schmilovitch, Ze'ev.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content"},
+	{"value":"Triticum aestivum"},
+	{"value":"vesipitoisuus"},
+	{"value":"vehnä"},
+	{"value":"analyysimenetelmät"},
+	{"value":"analytical methods"},
+	{"value":"typpi"},
+	{"value":"leaves"},
+	{"value":"lehti"},
+	{"value":"nitrogen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000043",
+	"dct:identifier":"FI2016000043",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

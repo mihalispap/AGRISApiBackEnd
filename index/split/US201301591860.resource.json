@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A review on lipid oxidation of meat in active and modified atmosphere packaging and usage of some stabilizers"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591860",
+	"dct:identifier":"US201301591860",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f16.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mohamed, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jamilah, B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abbas, K. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rahman, R. Abdul (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This review paper has been done with the objective of summarizing the process of lipid oxidation and its effect on meat trait. The paper also reflected the recent findings in the effect of active and modified atmosphere-packaging methods on investigated lipid oxidation values. Moreover, the effects of some lipid antioxidants such as enzymes, dietary vitamin E and grape seeds extract were also covered. The output showed that the chemical process named autoxidation was the main process of lipid oxidation in muscle food which develops through three steps: initiation, propagation and termination. From lipid oxidation viewpoint, both active and modified atmosphere as well as the presence of antioxidants were involved in retarding the progress in this phenomenon and positively affect the shelf life of the meat."}
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of antibrowning agents on banana slices and vacuum-fried slices.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Apintanapong, Muanmai.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cheachumluang, Kuluma.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suansawan, Punnarai.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Thongprasert, Noppawan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"control methods"},
+	{"value":"food processing"},
+	{"value":"organic acids"},
+	{"value":"browning"},
+	{"value":"bananas"},
+	{"value":"chemical compounds"},
+	{"value":"keeping quality"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000274",
+	"dct:identifier":"FI2016000274",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

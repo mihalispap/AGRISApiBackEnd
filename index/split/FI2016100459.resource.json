@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e16.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Induction of callus and somatic embryogenesis from cotyledonary explants of Parkia timoriana (DC.) Merr., a multipurpose tree legume"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thangjam, Robert (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maibam, Rohinikumar Singh (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100459",
+	"dct:identifier":"FI2016100459",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"To explore the potential for in vitro rapid regeneration of Parkia timoriana, a multipurpose tree legume, cotyledon explants were cultured on MS and B5 basal media supplemented with various concentrations of 2,4-D, NAA and BAP. Successful callus induction was observed in all the treatments. Maximum percentage of callus induction was obtained in the 2,4-D supplemented basal media. However, the overall response of MS medium was found to be superior to that of B5 medium. Explants cultured on MS medium fortified with combinations of 2,4-D and BAP induced rapidly proliferating calli that turned more friable and nodular. These protuberances eventually developed into somatic embryos when transferred in basal MS suspension medium without growth regulators. The protocol described here is the first on P. timoriana and has the potential to produce plantlets through somatic embryogenesis and also offers a highly efficient method for mass clonal propagation and conservation for this multipurpose legume tree."}
+	}}

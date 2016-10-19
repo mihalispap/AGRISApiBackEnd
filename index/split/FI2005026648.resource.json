@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Taxonomical studies on rocky freshwater prawns at Erin-Ijesha waterfalls"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026648",
+	"dct:identifier":"FI2005026648",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/e11.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bello-Olusoji, A. Oluayo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"T. Omolayo, Ariyo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arinola, Aderonke (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The taxonomical studies on the freshwater prawn species found at Erin-Ijesha waterfalls were carried out. The morphometric variables compared with the meristic features of the prawns were used to identify and then classify the prawns into the appropriate category (i.e. family, genus and species). There were significant differences (p<0.05) for all morphological and meristics data obtained on the prawns. The length-weight relationship, weight-fecundity relationship and length-fecundity relationship were also determined. Estimated numbers of eggs from 120 berried females ranged from 10 to 27 and egg number per mg of total body weight was 2.47. The regression equation and R² value for length-weight relationship are W = -0.0522 + 0.067L and 0.852 respectively while the regression equation and the R² value for fecundity and weight/length relationship are F = -16.957 + 5.381×1 + 17.79×2 and 0.331, respectively. The morphometric and meristic features revealed that the fresh water prawns at Erin-Ijesha belongs to the infraorder Caridea, family Atyidae and genus Caridina. The results also showed that there exists a strong relationship between length and weight (R² =0.741). The relationship between fecundity and weight is weak (R²=0.382) and that between fecundity and length is relatively strong (R = 0.64). This means that as length increases, weight also increases and the number of eggs (fecundity) is directly proportional to the length of the prawn."}
+	}}

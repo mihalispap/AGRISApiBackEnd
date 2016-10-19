@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n1p96.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Recorded and potential alien invertebrate pests in Finnish agriculture and horticulture.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vänninen, Irene.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Worner, Susan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huusela-Veistola, Erja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuovinen, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nissinen, Anne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saikkonen, Kari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ilmastonmuutokset"},
+	{"value":"pests"},
+	{"value":"tulokaslajit"},
+	{"value":"Finland"},
+	{"value":"noxious animals"},
+	{"value":"climatic change"},
+	{"value":"tuhoeläimet"},
+	{"value":"invasive species"},
+	{"value":"horticulture"},
+	{"value":"agriculture"},
+	{"value":"vieraslajit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000029",
+	"dct:identifier":"FI2016000029",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

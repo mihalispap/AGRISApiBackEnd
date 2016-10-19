@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Divergent response of tree-ring width and maximum latewood density of Abies faxoniana to warming trends at the timberline of the western Qinling Mountains and northeastern Tibetan Plateau, China.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"warming trend"},
+	{"value":"climatic change"},
+	{"value":"Abies"},
+	{"value":"climate-growth relationship"},
+	{"value":"growth rings"},
+	{"value":"dendroclimatology"},
+	{"value":"vuosilustot"},
+	{"value":"dendroklimatologia"}
+	],
+	"bibo:doi":"10.14214/sf.1155",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001285",
+	"dct:identifier":"FI2016001285",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1155",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Chen, Feng,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yuan, Yujiang,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wei, Wenshou,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, Tongwen,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shang, Huaming,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yu, Shulong,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

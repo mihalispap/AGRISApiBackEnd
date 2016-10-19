@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Brasil "},
+	{"value":"   Avaliação de parâmetros de qualidade de amostras de méis de Apis mellifera L. coletados nos Estados de São Paulo e Mato Grosso do Sul ",
+	"xml:lang":"por"
+	},
+	{"value":"Quality parameters of honey samples of Apis mellifera L. colletd in São Paulo and Mato Grosso do Sul States, Brazil",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"quality",
+	"xml:lang":"eng"
+	},
+	{"value":"apis",
+	"xml:lang":"eng"
+	},
+	{"value":"honey",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00131",
+	"dct:identifier":"BR2016F00131",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1246470259.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"ABREU,  B. X."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ORSI,  R. O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BARRETO,  L. M. R. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DIB,  A. P. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FUNARI,  S. R. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GOMES,  S. M. A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"This work aimed to evaluate the quality of 31 honey samples of Apis mellifera L. from São Paulo (28) and Mato Grosso do Sul States (3), Brazil, through physical-chemical analyses (diastase yeast, free acidity, pH, hidroximethylfurfural (HMF) and humidity). All samples show values according Brazilian legislation to diastase yeats and free acidity. Six samples to HMF and one for humidity show values above the to legislation patterns and the pH of samples show slightly acid. Most of the honey samples analyzed are in agreement with the patterns quality parameters in the legislation for the five evaluated parameters, showing the good quality of Brazilian honey.",
+	"xml:lang":"eng"
+	},
+	{"value":"O objetivo deste trabalho foi avaliar a qualidade de 31 amostras de méis de abelhas Apis mellifera L. provenientes dos Estados de São Paulo (28) e Mato Grosso do Sul (3), por meio de análises físico-químicas (pesquisa de fermentos diastásicos, acidez livre, pH, hidroximetilfurfural - HMF e umidade). Todas as amostras apresentaram valores dentro do estabelecido pela legislação brasileira para pesquisa de fermentos diastásicos e acidez livre, seis amostras para HMF e uma para umidade apresentaram valores acima do estabelecido pela legislação brasileira, e o pH das amostras apresentou-se ligeiramente ácido. De acordo com os resultados obtidos, pode-se concluir que a maioria das amostras de méis analisadas está de acordo com os padrões de qualidade estabelecidos pela legislação em vigor, para os cinco parâmetros avaliados, evidenciando a adequada qualidade das amostras de mel analisadas.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro propagation and microrhizome induction in Zingiber cassumunar (Roxb.) : an antioxidant-rich medicinal plant.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Chirangini, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sharma, G. J.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mikrolisäys"},
+	{"value":"culture media"},
+	{"value":"ginger"},
+	{"value":"micropropagation"},
+	{"value":"inkivääri"},
+	{"value":"inkiväärikasvit"},
+	{"value":"Zingiber"},
+	{"value":"tissue culture"},
+	{"value":"kasvualustat"},
+	{"value":"solukkoviljely"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000240",
+	"dct:identifier":"FI2016000240",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

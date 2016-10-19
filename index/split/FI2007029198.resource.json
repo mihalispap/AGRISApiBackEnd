@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Recovery in embryonated chicken eggs of viable but non-culturable Salmonella"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029198",
+	"dct:identifier":"FI2007029198",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dhiaf, Amel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bakhrouf, Amina (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Salmonella paratyphi B and Salmonella typhimurium were starved in seawater microcosms respectively for 12 and 6 years. After starvation periods, major part of water was evaporated in each microcosm and salt crystals appeared. No culturable cells were obtained in selective and non-selective media. Salty suspension of each microcosm was inoculated in the yolk sacs of embryonated chicken eggs. Culturable cells were detected in a large proportion of eggs."}
+	}}

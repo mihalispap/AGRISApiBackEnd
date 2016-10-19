@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Aclinical case of Babesiosis in across bred cow of Meghalaya",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":302,
+	"dc:subject":[
+		{"value":"babesiosis",
+	"xml:lang":"esp"
+	},
+	{"value":"babesiose",
+	"xml:lang":"fre"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":305,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000442",
+	"dct:identifier":"IN2015000442",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Laha, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goswami, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Pramod"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A cross-bred cow of aged four years, maintained in the dairy farm of ICAR research complex for NEH Region, Umiam, Meghalaya, in its 3 months of lactation was found suffering from high rise of temperature (106.4Ââ¹F), haemoglobinurea, anorexia, decrease milk production, anaemia and diarrhoea. Blood samples of this cow were collected in sterile condition on the day of acute stage of infection, 48 hours post treatment (PT) and then at an interval of 3 days up to a period of 21 days post treatment for diagnosis of the infection as well as to monitor the infection. Each and every time the collected blood samples were processed for diagnosis of Babesiosis using conventional parasitological and molecular techniques using polymerase chain reaction (PCR). The body of the cow was thoroughly searched for presence of ticks, if any. The disease was diagnosed as B. bigemina infection after examination of Giemsa stained blood smears and PCR using B. bigemina specific primers. The tick Boophilus microplus was found to present in the body of the cow. The animal was treated successfully with a single injection of 4,4ÂÅ Diamidine diazoamine benzene diaceturate (Berenil) with recommended doses and no parasite was detected either by examination of Giemsa stained blood smears or PCR after a period of 48 hours PT onwards.",
+	"xml:lang":"eng"
+	}
+	}}

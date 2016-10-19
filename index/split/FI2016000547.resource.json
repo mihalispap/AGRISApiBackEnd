@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A DanMink databank for support of a commercial breeding programme : a tool for the minkfarmer and the local adviser.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Sønderup, Michael.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"minks"},
+	{"value":"maatalousneuvonta"},
+	{"value":"extension activities"},
+	{"value":"databases"},
+	{"value":"animal breeding"},
+	{"value":"kotieläinjalostus"},
+	{"value":"turkiseläimet"},
+	{"value":"tietokannat"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (253 :
+    1994 :
+    Rebild)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000547",
+	"dct:identifier":"FI2016000547",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

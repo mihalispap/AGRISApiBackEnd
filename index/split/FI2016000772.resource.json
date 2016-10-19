@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical and functional properties of full fat and defatted Dioclea reflexa seed flours.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Akinyede, A. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Amoo, I. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eleyinmi, A. F.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tannins"},
+	{"value":"siemen"},
+	{"value":"rasvat"},
+	{"value":"nutritive value"},
+	{"value":"Dioclea reflexa"},
+	{"value":"haitalliset aineet"},
+	{"value":"chemicophysical properties"},
+	{"value":"valkuaisaineet"},
+	{"value":"ravintoarvo"},
+	{"value":"Fabaceae"},
+	{"value":"fats"},
+	{"value":"seeds"},
+	{"value":"tanniinit"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"proteins"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000772",
+	"dct:identifier":"FI2016000772",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

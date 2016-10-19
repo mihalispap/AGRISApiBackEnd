@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   em um município do Estado de São Paulo "},
+	{"value":"   Avaliação do consumo de leite e produtos lácteos informais e do conhecimento da população sobre os seus agravos à saúde pública ",
+	"xml:lang":"por"
+	},
+	{"value":"   Brasil. "},
+	{"value":"Evaluation of consumption of milk and its informal derivatives and the knowledge of the population about the public health problems in a municipal district in São Paulo, Brazil.",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"milk products",
+	"xml:lang":"eng"
+	},
+	{"value":"diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"liquid milk",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00134",
+	"dct:identifier":"BR2016F00134",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1389614772.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"VIDAL-MARTINS,  A. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BÜRGUER, K. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GONÇALVES,   A. C. S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GRISÓLIO, A. P. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"AGUILAR, C. E. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ROSSI, G. A. M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O leite é um alimento de elevado valor nutricional e considerado um dos principais produtos de origem animal consumidos nos dias de hoje. O Brasil destaca-se como um dos principais produtores de leite do mundo e desde 2006 vem apresentando aumento crescente em sua produção. Por outro lado, também se observa desde o início da década de 1990, crescimento do chamado leite e produtos lácteos informais (alimentos comercializados sem qualquer tipo de inspeção), representando desafio a ser vencido com relação à segurança alimentar. Muitas são as enfermidades que podem ser transmitidas por esses alimentos, como por exemplo, a tuberculose e a brucelose e poucos são os consumidores que estão atentos a essas informações. O fato agrava-se ao pensar que o leite e os produtos lácteos compõem a dieta de muitas crianças, idosos e pessoas imunocomprometidas, o que pode tornar esse quadro mais grave. O presente trabalho teve como objetivo avaliar, por meio da aplicação de questionários em 23 bairros do município de São José do Rio Preto, o perfil de 805 entrevistados, que consomem ou não leite e produtos lácteos, o conhecimento que os mesmos apresentavam sobre as doenças transmitidas pelo leite e seus derivados e o significado dos selos dos Serviços de Inspeção. Como resultado, observou-se que 97,76% (787/805) dos entrevistados consomem leite ou seus derivados, e aproximadamente 30% são obtidos por meios informais de comércio. A forma de consumo desse produto é bastante variável, mas 3,93% (31/787) dos consumidores do município ainda ingerem leite cru sem a fervura ou pasteurização e 65,96% (531/805) dos consumidores desconhecem a possível transmissão de doenças através da ingestão do leite. Além disso, 80,24% (646/805) dos consumidores não procuram nas embalagens se o produto passou por algum tipo de fiscalização antes de chegar ao comércio - identificação através dos selos dos órgãos de inspeção sanitária. A obtenção desses dados visou colaborar para o desenvolvimento de programas preventivos no município, e as informações obtidas estão disponíveis para auxiliar os serviços de fiscalização na redução da comercialização de leite e derivados informais como também nas campanhas de esclarecimento para os consumidores.",
+	"xml:lang":"por"
+	},
+	{"value":"Milk is a food of high nutritional value and is considered one of the main animal products consumed today. At the same time, Brazil stands out as one of the leading milk producers in the world and, since 2006 has been showing growing increase in its production. On the other hand, it is observed from the beginning of the 1990s, the growth of so-called informal milk and milk products (foods marketed without any kind of inspection), representing a challenge to be overcome related to food security. There are many diseases that can be transmitted by such foods, as tuberculosis and brucellosis, and there are few consumers who are aware of such information. The fact worsens the thought that milk and dairy products make up the diet of many children, elderly and weakened persons, which may make it more severe. Thus, this study aims to evaluate, through the use of questionnaires in 23 districts of São José do Rio Preto, the profile of 805 consumers or not, of milk and dairy products, the knowledge that they have about the diseases transmitted by milk and dairy products and the significance of the seals from Inspection Services. As a result, it was found that 97.76% (787/805) respondents consume milk or its derivatives, and about 30% are obtained by informal means of commerce. The form of consumption of this product is quite variable, but the work shows that 3.93% (31/787) of the consumers still ingest raw milk without boiling or pasteurization and 65.96% (531/805) of consumers are unaware of the possible transmission of disease by the ingestion of milk. Furthermore 80.24% (646/805) of consumers do not seek the packaging if the product has gone through some kind of supervision before reaching the trade - identification through stamps organs of sanitary inspection. Obtaining such data aims to collaborate in future for the development of prevent programs in the city, and the information gathered will be available to assist inspections services to reduce the marketing of informal milk and dairy products and also in educational campaigns for consumers.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

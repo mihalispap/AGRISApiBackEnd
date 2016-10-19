@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Site index conversion equations for mixed trembling aspen and white spruce stands in northern British Columbia.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Nigh, Gordon.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"valkokuusi"},
+	{"value":"British Columbia"},
+	{"value":"ikä"},
+	{"value":"Picea glauca"},
+	{"value":"models"},
+	{"value":"height"},
+	{"value":"Canada"},
+	{"value":"pituus"},
+	{"value":"hybridihaapa"},
+	{"value":"mallit"},
+	{"value":"kasvupaikka"},
+	{"value":"age"},
+	{"value":"site factors"},
+	{"value":"sekametsät"},
+	{"value":"Populus tremuloides"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000612",
+	"dct:identifier":"FI2016000612",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

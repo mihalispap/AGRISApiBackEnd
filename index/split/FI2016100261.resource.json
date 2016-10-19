@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of soil moisture levels on root distribution, water uptake and crop coefficient of winter maized in a humid tropic region"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bandyopadhyay, P. K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mallick, S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100261",
+	"dct:identifier":"FI2016100261",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Field experiments were conducted during the winter seasons of 1989-1990 and 1990-1991 in the humid tropical climate in eastern India (23°1′N, 88°5′E and 21.34 m above mean sea level) to investigate the relationship between root density and water uptake and to derive the crop coefficients of winter maize (Zea mays L.) for the crop water requirement estimation in regional scale. In this study, root length density (RLD), specific root water uptake (SRWU), and daily and seasonal water uptake (WU) were monitored. At the same time, the daily and seasonal actual evapotranspiration (AET), crop coefficients (Kc) and soil water stress coefficients (Ks) were estimated by using irrigation scheduling based on the ratio of irrigation water (IW) and cumulative evapotranspiration (CPE) at 1.2, 0.9 and 0.6. WU and RLD showed a saturation relationship, R2 = 0.78. Relatively drier soil water regimes (0.9 and 0.6 IW:CPE) induced maize plant to develop 39 to 49% more RLD values and 13 to 21% more SRWU values than wetter soil regime (1.2 IW:CPE) at 450-750 mm depth. The average daily AET varied from 1.18 mm per day in the early growing period to a maximum value of 3.37 mm per day at mid season stage (56-95 days after sowing) under 1.2 IW:CPE when WU/AET maintained at its maximum of 0.9 or when the leaf area index (LAI) was larger than 3. The average seasonal AET amounted 341 mm under 1.2 IW:CPE with a maximum of 225 mm of water application. The seasonal transpiration accounted for 83, 77 and 67% of their evapotranspiration at three levels of irrigation regimes. The estimated values of Kc for winter maize at initial, crop development, mid season, late season and just maturity were 0.56, 0.93, 1.21, 0.85 and 0.52, respectively, which were identical to those suggested by the FAO indicating need for generating these values at the local/regional level. Kc and LAI showed a saturation relationship with significant correlation coefficient, R2 = 0.89, and Kc exceeded 1.0 when LAI was larger than 3.0. The Ks values of 0.6 IW:CPE decreased steeply and experienced more stress condition than 0.9 IW:CPE. These results should help the precise planning and efficient management of irrigation for the crop in this region."}
+	}}

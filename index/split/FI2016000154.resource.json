@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Naturally occurring predators and parasitoids of brassica root flies : Aleochara spp. (Coleoptera, Staphylinidae).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Ahlström-Olsson, Monika.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Delia"},
+	{"value":"vihannekset"},
+	{"value":"parasites"},
+	{"value":"loiset"},
+	{"value":"tuhohyönteiset"},
+	{"value":"torjuntaeliöt"},
+	{"value":"kaalikärpäset"},
+	{"value":"Aleochara"},
+	{"value":"Brassica"},
+	{"value":"vegetable crops"},
+	{"value":"predators"},
+	{"value":"biological control arthropods"},
+	{"value":"tuhoeläimet"},
+	{"value":"natural enemies"},
+	{"value":"pest insects"},
+	{"value":"puutarhaviljely"},
+	{"value":"kaalit"},
+	{"value":"biologinen torjunta"},
+	{"value":"luontaiset viholliset"},
+	{"value":"kovakuoriaiset"},
+	{"value":"Sweden"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF Seminar
+    (1995 :
+    Lillehammer)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000154",
+	"dct:identifier":"FI2016000154",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

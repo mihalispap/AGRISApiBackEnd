@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Acute toxicity of Emamectin benzoate 5 WG against Spodoptera litura (Fab.) of Cabbage",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":260,
+	"dc:subject":[
+		{"value":"acido benzoico",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicite aigue",
+	"xml:lang":"fre"
+	},
+	{"value":"spodoptera litura",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicidad aguda",
+	"xml:lang":"esp"
+	},
+	{"value":"benzoic acid",
+	"xml:lang":"eng"
+	},
+	{"value":"acute toxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"acide benzoique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":263,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000499",
+	"dct:identifier":"IN2015000499",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Parthiban, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baskaran, R.K. Murali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thangavel, K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"LC50 and LC90 of Emamectin 5 WG to Spodoptera litura through cabbage leaf disc technique were 0.0054 and 0.0286%, 0.0026 and 0.0135% and 0.0004 and 0.0081% on 12, 24 and 48 hrs. after treatment. Emamectin 5 WG and 5 SG were effective by recording low LT50 and LT90 values by recording 6.31 and 17.88 hrs (0.03%) and 6.82 and 20.19 hrs (0.035%) as against chlorantraniliprole 18.5 SC (18.09 &81.62 hrs at 0.01%).",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficacy of oral feeding of combined preparation of progesterone and oestrogen on the induction of oestrus in Frieswal females",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1113,
+	"dc:subject":[
+		{"value":"progesterone",
+	"xml:lang":"fre"
+	},
+	{"value":"novilla",
+	"xml:lang":"esp"
+	},
+	{"value":"progesterona",
+	"xml:lang":"esp"
+	},
+	{"value":"ciclo estral",
+	"xml:lang":"esp"
+	},
+	{"value":"genisse",
+	"xml:lang":"fre"
+	},
+	{"value":"cycle oestral",
+	"xml:lang":"fre"
+	},
+	{"value":"oestrous cycle",
+	"xml:lang":"eng"
+	},
+	{"value":"heifers",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1115,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000289",
+	"dct:identifier":"IN2015000289",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mathur, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, S."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"Delayed puberty and prolonged anoestrus are the most frustrating problems in crossbred cattle. To overcome this problem in Frieswal females 3 trials were conducted. In the first trial 7 heifers having mean age 23.6Â±2.4 months were fed a combination of progesterone and oestrogen (1.2 mg levonorgestrel + 0.24 mg ethinylestradiol) along with a mineral mixture @ 40g/day/head for 10 days. In the second trial same treatment was repeated in 10 heifers (mean age 28.2Â±2.32 months). In the third trial 20 Frieswal fermales having mean age 56.59Â±5.50 months were fed combined preparation of progesterone and oestrogen (1.2 mg norgestrel + 0.24 ethinylestradiol) per day along with 50g of mineral mixture chillated/head/day for 10 days, whereas 6 heifers were kept as control. Oestrus was observed daily twice in the morning and evening throughout the experimental period with the help of a teaser bull. It was observed that trial in 1, 2 and 3; 71.4, 70.0 and 80% females exhibited oestrus within 45 days. However, in control group only 33% heifers exhibited estrus after 11.5Â±4.5 days. The estimation of copper and zinc indicated that concentration of these minerals were sub normal in all the treatment groups before the start of the experiment. These studies indicated that feeding of combined preparation of progesterone and estrogen can be used as the most economical and convenient method to overcome the problem of anoestrus in Frieswal females.",
+	"xml:lang":"eng"
+	}
+	}}

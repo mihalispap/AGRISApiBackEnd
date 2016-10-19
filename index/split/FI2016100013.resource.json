@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of pre-treatments on the quality characteristics of dehydrated onion rings during storage"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Raj, Dev (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Subanna, V.C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahlawat, O.P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, Pardeep (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Huddar, A.G. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100013",
+	"dct:identifier":"FI2016100013",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Two onion varieties Poona Red and Bellary Red were selected for the study. The onion variety Poona Red had higher total solids (13.2o Brix) and dry matter content (112.7 g kg-1) and lower dehydration ratio (8.87:1) and reducing sugars to non-reducing sugars ratio (0.512), which resulted in higher yield and very less browning discoloration of dehydrated product as compared to Bellary Red. Onion rings pre-treated with potassium metabisulphite (KMS) @ 2.5 g kg-1 were found best for the dehydration and have significant differences in the retention of moisture, reducing sugars, non-reducing sugars, ascorbic acid and acidity during storage. They also exhibited significant difference in their rehydration ratios and overall acceptability."}
+	}}

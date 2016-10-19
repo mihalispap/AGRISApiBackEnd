@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Metabolism of yellow lupin (Lupinus luteus L) in the rumen of sheep.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lança, A. J. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ramalho, J. M. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bessa, R. J. B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"aineenvaihdunta"},
+	{"value":"animal nutrition"},
+	{"value":"metabolism"},
+	{"value":"alkaloids"},
+	{"value":"ruokinta"},
+	{"value":"alkaloidit"},
+	{"value":"märehtijät"},
+	{"value":"kultalupiini"},
+	{"value":"ravitsemusfysiologia"},
+	{"value":"feed crops"},
+	{"value":"feed legumes"},
+	{"value":"palkokasvit"},
+	{"value":"ruoansulatuskanava"},
+	{"value":"Lupinus luteus"},
+	{"value":"lupiinit"},
+	{"value":"sheep"},
+	{"value":"nutrition physiology"},
+	{"value":"rumen digestion"},
+	{"value":"lammas"},
+	{"value":"pötsi"},
+	{"value":"rehukasvit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002007",
+	"dct:identifier":"FI2016002007",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

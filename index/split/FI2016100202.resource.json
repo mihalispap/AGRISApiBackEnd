@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of pre-cooling on the postharvest of parsley leaves"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Álvares, Virgínia S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Finger, Fernando L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Santos, Raul C. de A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Negreiros, Jacson R. da Silva (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Casali, Vicente W. D. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100202",
+	"dct:identifier":"FI2016100202",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The objective of this work was to determine the effects of a hydrocooling procedure, followed by storage at 5oC, on the shelf life of parsley cv. Graúda Portuguesa leaves. Bunches of parsley leaves were pre-cooled for fifteen minutes in a water and ice mixture kept at 5oC. During this period of pre- cooling, close to 43% of the initial field heat was removed from the leaves. After the pre-cooling treatment, the leaf bunches were placed at 5oC for 7 days. A control treatment was made up of bunches of parsley leaves that were also stored at 5oC for 7 days without being pre-cooled. The hydrocooling procedure reduced the loss of fresh weight from the leaves in the first twelve hours of storage and maintained the relative water content (RWC) at a high level even after seven days of storage at 5oC. Visual wilting of leaves was observed when approximately 10% of the initial fresh weight was lost, which was achieved 30 hours after harvest for the control and 42 hours for the pre-cooled bunches. During storage, no significant alterations of the leaf chlorophyll, total soluble sugar and non-reducing sugars or starch contents were detected. However, the reducing sugars content increased at a rate of 2.62 g kg-1 leaf dry weight per day, corresponding to a 4.1-fold increase in 144 hours. Based on the data, we recommend pre-cooling as an efficient method to retard the beginning of wilt for stored parsley leaves."}
+	}}

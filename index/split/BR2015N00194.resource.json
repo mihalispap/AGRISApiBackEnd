@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"OCORRÊNCIA DE Staphylococcus COAGULASE POSITIVA E COLIFORMES TERMOTOLERANTES EM JARAQUI, Semaprochilodus brama (VALENCIENNES, 1850) COMERCIALIZADO NA FEIRA DO PESCADO, MACAPÁ-AP",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":32,
+	"bibo:volume":5,
+	"bibo:pageEnd":36,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00194",
+	"dct:identifier":"BR2015N00194",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1003",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Antonio Carlos Souza Silva Junior"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anne do Socorro Santos da Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thiane Pereira Brito"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Larissa Rodrigues Ferreira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Macapaense do Melhor Ensino Superior - IMMES"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\">Apesar da importância biológica, o pescado é um alimento altamente susceptível a deterioração e por isso exige cuidados especiais desde a captura até a sua comercialização. Após a captura, a microbiota inicial é alterada pelo transporte, manipulação, contato com o gelo, equipamentos, estocagem e distribuição. Neste contexto, este trabalho teve como objetivo avaliar a ocorrência de bactérias patogênicas e indicadoras de qualidade isoladas de Jaraqui, S. brama comercializado na feira do Pescado, no bairro do Perpétuo Socorro, Macapá-AP. Foram avaliadas 40 amostras de peixe exposto para a comercialização sendo realizadas contagens de coliformes termotolerantes em NMP/g e Staphylococcus coagulase positiva em UFC/g, todos os microrganismos foram isolados e identificados. Todas as amostras foram positivas para coliformes termotolerantes com contagem variando entre 1,1x10<sup>3</sup> NMP/g a > 1,1x10<sup>3</sup> NMP/g, e 80% das amostras foram positivas, destas 57,5% estavam fora do padrão exigido pela legislação para Staphylococcus coagulase positiva com variação entre 1x10<sup>3</sup> a 1,05x10<sup>4</sup>  UFC/g. Apesar de não ser possível observar características macroscópicas que demonstram níveis de deterioração elevada do peixe comercializado, o pescado analisado de acordo com os resultados microbiológicos estava inapropriado para o consumo, estando em desacordo com o recomendado pela ANVISA e ICMSF.<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><strong>Palavras-chave: </strong>controle de qualidade, microbiologia, peixe.<!--[endif] -->",
+	"xml:lang":"por"
+	}
+	}}

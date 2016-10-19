@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Carbon dioxide and photosynthetic photon flux density effects on growth and mineral uptake of cacao"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188190",
+	"dct:identifier":"FI2007188190",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a3.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Baligar, V.C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bunce, J.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bailey, B.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Machado, R.C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pomella, A.W.V. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In recent years, carbon dioxide concentration [CO2] in the atmosphere has risen to 370 µmol mol -l, with levels expected to double by the end of the 21st century. A climatically-controlled greenhouse experiment was undertaken to assess the influence of [CO2] and photosynthetic photon flux density (PPFD) on the growth, mineral nutrient uptake and mineral nutrient use efficiency parameters of cacao (Theobroma cacao L) in its early growth stages. Plants were grown in two greenhouses and maintained at two levels of [CO2 ] (380 and 700 µmol mol-l). In each greenhouse, three levels of PPFD (65, 190, 1050 µmol m-2 s-1) were achieved by constructing mini shade frames covered with various layers of plastic shade cloth. Plants were grown for 57 days. At all levels of PPFD, with few exceptions, increasing [CO2] tended to increase shoot and root growth parameters (dry wt. of roots, stem and leaves, stem height, leaf area, shoot/root ratio, leaf area ratio and relative growth rate). At both [CO2 ], increasing PPFD from 65to 190 µmol m-2 s-1 increased shoot and roots growth, relative growth rate and net assimilation rate. At both [CO2], PPFD of 1050 µmol m-2 s-1 was detrimental to growth and to mineral nutrient uptake parameters; however, its effects were more severe at 380 than 700 µmol mol-l of [CO2]. At all PPFD with few exceptions, increasing [CO2] increased the uptake of all mineral nutrients. With some exceptions, at both [CO2] levels increasing PPFD increased nutrient influx (IN) for Na, B, Mn and Zn and decreased IN for other mineral nutrients. With some exceptions, at both [CO2] levels increasing PPFD decreased nutrient transport (TR) for Na and S and increased TR for Mg, B, and Zn only. At both [CO2 ] with the exception of nutrient use efficiency ratio (ER) for B, increasing PPFD increased ER for N, Na, S and Zn and decreased ER for other mineral nutrients. At all PPFD levels, with few exceptions, overall, increasing [CO2] increased ER for N, Na, Mg, Cu, Mn and Zn and decreased ER for other mineral nutrients. Growth, mineral nutrient uptake parameters and nutrient use efficiency ratios in cacao were influenced by [CO2] and PPFD. Overall, PPFD of 190 µmol m-2 s-1 appears to be a desirable light intensity and combined with increasing [CO2] are beneficial in improving cacao growth and mineral nutrient uptake and use efficiency."}
+	}}

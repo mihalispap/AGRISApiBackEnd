@@ -1,0 +1,88 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Produção de inflorescências de helicônia cv. Golden Torch sob adubação nitrogenada e potássica ",
+	"xml:lang":"por"
+	},
+	{"value":"Inflorescences production of heliconia cv. Golden Torch under nitrogen and potassium fertilization",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":{"value":"cut flowers",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"6/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206635",
+	"dct:identifier":"BR2015206635",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/674/304",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Beckmann-Cavalcante Márkilla Zunete"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amaral Genilda Canuto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Avelino Rodrigo Cirqueira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva Alcilane Arnaldo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva Alcimar de Sousa e"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira João Batista da Silva"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Vale do São Francisco, Petrolina, PE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Piauí, Campus “Prof.ª CinobelinaElvas”, Bom Jesus, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Piauí, Campus “Prof.ª CinobelinaElvas”, Bom Jesus, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Piauí, Campus “Prof.ª CinobelinaElvas”, Bom Jesus, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Piauí, Campus “Prof.ª CinobelinaElvas”, Bom Jesus, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Piauí, Campus “Prof.ª CinobelinaElvas”, Bom Jesus, PI, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"e, área foliar. Para helicônia cv. Golden Torch, a aplicação de potássio proporciona aumento dos componentes de produção e, indica-se a aplicação de 120 g de K cova-1."},
+	{"value":"altura de planta"},
+	{"value":"comprimento da inflorescência"},
+	{"value":"diâmetroda haste floral"},
+	{"value":"plant height, number of flowering stems per plant, diameter of the flowering stem, flowering stem length, inflorescence length and leaf area. For heliconia cv. Golden Torch, potassium application provides increased yield components and itis indicated the application of 120 g K hole-1.",
+	"xml:lang":"por"
+	},
+	{"value":"As helicônias são plantas exigentes em nutrientes, especialmente o nitrogênio e potássio, porém existe uma ampla variação na recomendação para sua adubação. Neste sentido, objetivou-se avaliar atributos produtivos de helicônia cv. Golden Torch em função da adubação nitrogenadae potássica em Bom Jesus-PI. O experimento foi conduzido no campo experimental de Floricultura do Campus Profa. Cinobelina Elvas (CPCE) da Universidade Federal do Piauí (UFPI) em Bom Jesus-PI e instalado em esquema fatorial 4 x 4 correspondentes a: i) doses de nitrogênio (0, 120, 180e 240 g de N cova-1)"},
+	{"value":"The heliconia plants are very demanding in nutrients, especially nitrogen and potassium, but there is a wide variation in their recommendation for fertilization. In this sense the objective was to evaluating the productive attributes of heliconia cv. Golden Torch in function of nitrogen andpotassium fertilization in Bom Jesus-PI. The experiment was conductedin the experimental field of Floriculture in Campus Profa. “Cinobelina Elvas” (CPCE) at Federal University of Piauí (UFPI) in Bom Jesus city at Piauí State and was conducted in factorial 4 x 4 related to: i) nitrogen doses (0, 120, 180 and 240 g N hole-1), and ii) potassium doses (0, 120, 180 and 240 g K hole-1). Treatments were arranged in a randomized block design with four replications and five rhizomes per share for the evaluation of the three central plants. Were evaluated the days for the first tiller emergence, for the first inflorescence emergence and for inflorescence harvest",
+	"xml:lang":"eng"
+	},
+	{"value":"comprimento da haste floral"},
+	{"value":"número de haste floral por touceira"},
+	{"value":"e, ii) doses de potássio (0, 120, 180 e 240 g de K cova-1). Os tratamentos foram distribuídos em blocos casualizados com quatro repetições e cinco rizomas por parcela, para avaliação das três plantas centrais. Foram realizadas as seguintes avaliações no campo: número de dias para emissão do primeiro perfilho, para a emissão da primeira inflorescência e para colheita das inflorescências"}
+	]
+	}}

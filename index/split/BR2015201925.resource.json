@@ -1,0 +1,81 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Morfometria de sementes e plântulas e verificação da dormência da espécie Plathymenia foliolosa Benth ",
+	"xml:lang":"por"
+	},
+	{"value":"Morphometry of seeds and seedlings and verification of dormancy of the species Plathymenia foliolosa Benth",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"seed germination",
+	"xml:lang":"eng"
+	},
+	{"value":"morphology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"4/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015201925",
+	"dct:identifier":"BR2015201925",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/view/253/207",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fonseca Mariana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Freitas Teresa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mendonça Andrea"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza Leonardo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdalla Samir"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Recôncavo da Bahia"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Os objetivos do trabalho foram verificar a dormência das sementes de Plathymenia foliolosa Benth, descrever os caracteres morfológicos de sementes e plântulas, e caracterizar o processo germinativo. Para verificar a dormência utilizaram-se os tratamentos: T1- testemunha"},
+	{"value":"T2- água fervente por 1 min."},
+	{"value":"form",
+	"xml:lang":"por"
+	},
+	{"value":"bordo, posição do hilo e características do embrião. Para as plântulas foram: raiz, coleto, hipocótilo, epicótilo e eófilos. Não foi verificado dormência nas sementes, sendo que a utilização de água fervente inviabilizou a germinação da semente. A semente de P. foliolosa Benth é de formato oblongo a ovoide de cor amarronzada, superfície glabra, lisa e dura"},
+	{"value":"board, hilum and embryo characteristics. For the seedlings were root collar, hypocotyl and eophylls. It was not verified seed dormancy, and the use of boiling water prevented seed germination. The seed of P. foliolosa Benth is oblong to ovoid brownish color, glabrous surface, smooth and hard, with pleurograma, raphe and chalaza, with a length of 8.93 + 0.09 mm. The weight of 1000 seeds was 36.86 + 0.02 g. ThePlathymenia foliolosa Benth germination is epigeal phanerocotylar, began as the days after sowing and 22 days to complete formation of seedling."},
+	{"value":"The objectives this research was to verify seed dormancy Plathymenia foliolosa Benth, describe the morphological characters of seeds and seedlings, and characterize the germination process. To verify the dormancy used the treatments: T1-control, T2-boiling water for 1 min., T3-boiling water for 5 min., T4-seeds soaked in water for 24 hours, T5-cold stratification at 5 °C - 24 hours, T6 heat-dried at 65 °C for24 hours, T7-scarification with sandpaper number 120. The features observed in the seed were: color, dimensions, weight of 1000 seeds, texture and consistency of the integuments",
+	"xml:lang":"eng"
+	},
+	{"value":"forma"},
+	{"value":"T5- estratificação a frio a 5 ºC - 24 horas"},
+	{"value":"T6- calor seco em estufa a 65 ºC por 24 horas"},
+	{"value":"com pleurograma, rafe e calaza, com comprimento de 8,93 + 0,09 mm. O peso de 1000 sementes foi de 36,86 + 0,02 g. A germinação de Plathymenia foliolosa Benth é epígea fanerocotiledonar, teveinício no quanto dia após a semeadura e aos 22 dias a formação da plântula completa."},
+	{"value":"textura e consistência dos tegumentos"},
+	{"value":"dimensões"},
+	{"value":"T7- escarificação com lixa nº120. Os aspectos observados na semente foram: cor"},
+	{"value":"peso de 1000 sementes"},
+	{"value":"T4- sementes embebidas em água por 24 horas"},
+	{"value":"T3- água fervente por 5 min."}
+	]
+	}}

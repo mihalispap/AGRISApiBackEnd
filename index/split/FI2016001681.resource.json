@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Fatty acid composition of flame-broiled beef longissimus muscle /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nayigihugu, Venerand.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    D'Angieri, Fausto S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Murrieta, Charles M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rule, Daniel C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hess, Bret W.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fatty acids"},
+	{"value":"liha"},
+	{"value":"beef"},
+	{"value":"liekitys"},
+	{"value":"nutritive value"},
+	{"value":"rasvahapot"},
+	{"value":"laatu"},
+	{"value":"kypsennys"},
+	{"value":"food processing"},
+	{"value":"naudanliha"},
+	{"value":"ravintoarvo"},
+	{"value":"muscles"},
+	{"value":"cooking"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001681",
+	"dct:identifier":"FI2016001681",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

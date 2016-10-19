@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ESTUDO SOBRE O CONTROLE DE QUALIDADE DO DIAGNÓSTICO PARASITOLÓGICO DIRETO DA LEISHMANIOSE TEGUMENTAR AMERICANA NO ESTADO DO AMAPÁ NO PERÍODO DE 2007 A 2011",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":45,
+	"bibo:volume":4,
+	"bibo:pageEnd":49,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00140",
+	"dct:identifier":"BR2015N00140",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/839",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kellen Cristina Ignacio Cardoso"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nathalye Dias Martins"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raimundo Nonato Picanço Souto"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Lacen Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Lacen"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Unifap"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormalCxSpFirst\" style=\"margin-bottom: 0.0001pt; text-align: justify;\"><span style=\"font-size: 12.0pt; font-family: \">A Leishmaniose Tegumentar Americana (LTA) é uma doença endêmica na Região da Amazônia Legal, e mais particularmente no Amapá. Entre as estratégias implantadas pelo Ministério da Saúde para o controle desta doença destaca-se a implantação da Rede de Diagnóstico Laboratorial da LTA. Os laboratórios de cada município devem enviar 100% dos exames realizados para o controle de qualidade do Laboratório Central de Saúde Pública do Amapá (LACEN-AP). O objetivo deste trabalho foi avaliar qualitativamente o diagnóstico parasitológico direto das lâminas encaminhadas pelos microscopistas dos municípios ao LACEN- AP no período de 2007 a 2011. No total, foram examinadas, pelos técnicos do LACEN, 1.686 lâminas provenientes dos municípios do Oiapoque, Laranjal do Jari, Macapá, Porto Grande, Pedra Branca e Calçoene. Ao comparar as discordâncias de leitura nos exames de LTA entre os microscopistas dos laboratórios municipais e os do LACEN-AP, os resultados mostraram que das 1.686 lâminas analisadas 182 apresentaram discordâncias quanto aos resultados do diagnóstico; quanto a coloração e confecção o conceito regular foi observado respectivamente em 947 e 927 lâminas.  A partir dos dados encontrados neste estudo evidenciou-se a necessidade de capacitação para os microscopistas e intensificação das supervisões aos laboratórios dos municípios que realizam o diagnóstico laboratorial para LTA no Estado. Constatou-se também que o controle de qualidade realizado pelo LACEN é extremamente importante para a obtenção de resultados com maior confiabilidade, ampliando-se assim o suporte as ações de vigilância da doença no Estado.</span>",
+	"xml:lang":"por"
+	}
+	}}

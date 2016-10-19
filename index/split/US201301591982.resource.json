@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Cation contents in natural mineral waters of Romania determined with the HPIC method"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591982",
+	"dct:identifier":"US201301591982",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e20.pdfhttp://world-food.net/download/journals/2008-issue_3_4/e20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Heghedűş-Mîndru, Gabriel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Biron, Ramona Cristina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Perju, Delia Maria (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rusnac, Lucian Mircea (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Riviş, Adrian (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ştef, Ducu Sandu (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The paper deals with determination of cation concentrations in natural mineral water of various areas in Romania. Nine types of mineral water were examined in three different regions of the country: west, centre and north. Cation determination was done with high-performance ion chromatography (HPIC). The device used was a Dionex – ICS 3000 type, particularized for cations. The cations analysed and identified for each of the three regions were lithium, sodium, ammonium, potassium, magnesium and calcium. Concentrations were highest in the north region for Li+ (0.719 mg/L), Na+ (19.639 mg/L), NH4+ (12.108 mg/L) and Ca2+ (376.095 mg/L) and in the central area for Mg2+ (101.723 mg/L) and K+ (43.289 mg/L). The sample with the highest salt concentration was in the north region, while the one with the lowest one was in the west region."}
+	}}

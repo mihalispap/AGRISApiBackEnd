@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Inter-relationship between the forest owning tribes and the plainsmen in Northeast India : the evolution of ethics.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kant, Promode.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"ethnic groups"},
+	{"value":"oikeudenmukaisuus"},
+	{"value":"metsien häviäminen"},
+	{"value":"ownership"},
+	{"value":"heimot"},
+	{"value":"deforestation"},
+	{"value":"India"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000560",
+	"dct:identifier":"FI2016000560",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

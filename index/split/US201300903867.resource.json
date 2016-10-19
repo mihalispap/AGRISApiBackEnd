@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The use of Isubgol and Sequestrene 138 for the in vitro propagation of the highbush blueberry (Vaccinium corymbosum L.)"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903867",
+	"dct:identifier":"US201300903867",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/a14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Clapa, Doina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fira, Alexandru (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rusu, Teodor (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"At Fruit Research Station Cluj different cultivars of blueberry (Vaccinium corymbosum L.) were cultured in vitro for production purposes, using a classical blueberry micropropagation medium. Powder agar was used as gelling agent and FeNaEDTA as iron source. For cultivar Blue Crop, the classical micropropagation protocol proved to be totally ineffective, the plants becoming chlorotic and their bases becoming necrotic in 3-5 weeks after transfer to fresh medium. The multiplication rate was also very low. By using Isubgol as a gelling agent and Sequestrene 138 as iron source, the vigour of the plants increased spectacularly, as well as the length and number of shoots. Multiplication rate increased significantly and the phenomenon of chlorosis was totally eliminated, the shoots becoming dark green. Having in view these results, the use of Isubgol and Sequestrene 138 is recommended for the in vitro propagation of the blueberry."}
+	}}

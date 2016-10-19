@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:title":{"value":"Effects of Climate Change on Vegetable Cultivation - A Review",
+	"xml:lang":"eng"
+	},
+	"dc:subject":{"value":"climate change",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513147",
+	"dct:identifier":"IN2016513147",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=31",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prasad B. V. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakravorty S."
+	}
+	}
+	],
+	"bibo:abstract":{"value":"World population is increasing at an alarming rate and is expected to reach about six billion by the end of year 2050. Increased hunger and malnourishment are challenging issues for all nations, especially those who are resource poor. Feeding of hunger-laden people of the world not only requires food in quantity but quality as well. Vegetables are protective foods embedded with vitamins, micronutrients, pharmaceutical and nutraceutical compounds, which are necessary for correction of diseases and disorders. Moreover, cultivation of vegetables provides livelihood security through employment. But the complex process of growth and development is significantly affected by different agro-climatic factors and therefore, any environmental aberration due to climate change can impose unprecedented stress on this group of plants which may lead to complete failure of the crop in a grower’s field. Usually extreme temperatures, limited soil moisture, reduced availability of irrigation water, repeated flooding, increased acidity or salinity and soil erosion, high wind speed, increase in occurrence of hails and thunderstorms, frost damage and tsunamis etc., are the major limiting factors for optimum productivity besides the quality and consumer acceptance. Sudden change in climate also influences the status of soil fertility, occurrence of pests and diseases, host-pathogen interactions, soil microbial population and behaviour of the pollinators. Reduced production and productivity due to the development of genetically weakened seeds is the ultimate outcome of climate change which may invite a crisis in food reserve in the future. All these have significant effects on the total vegetable cultivation system on the planet, affecting the economic yield, which is of prime importance from grower’s point of view. Hence, there is a need to develop an understanding of the impacts and implications of climate change on vegetable cultivation for timely intervention to ameliorate its harmful effects.",
+	"xml:lang":"eng"
+	}
+	}}

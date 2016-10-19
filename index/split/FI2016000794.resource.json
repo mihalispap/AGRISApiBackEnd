@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"The production of Citrus tristeza virus -free Zorica Rana, a Croatian selection of Satsuma mandarin.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hancevic, K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Musinov, D. H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cerni, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rosin, J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Krajacic, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gatin, Z.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Skoric, D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"clones"},
+	{"value":"satsumas"},
+	{"value":"in vitro culture"},
+	{"value":"virusfree plants"},
+	{"value":"meristeme culture"},
+	{"value":"frost resistance"},
+	{"value":"plant diseases"},
+	{"value":"plant viruses"},
+	{"value":"Citrus unshiu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000794",
+	"dct:identifier":"FI2016000794",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

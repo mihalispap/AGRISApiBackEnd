@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1219",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sullivan, Thomas P,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sullivan, Druscilla S,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Diversifying clearcuts with green-tree retention and woody debris structures: conservation of mammals across forest ecological zones.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"rodentia"},
+	{"value":"Myodes gapperi"},
+	{"value":"coniferous forests"},
+	{"value":"environment"},
+	{"value":"populaatiodynamiikka"},
+	{"value":"ekologia"},
+	{"value":"small mammals"},
+	{"value":"red-backed voles"},
+	{"value":"havumetsät"},
+	{"value":"avohakkuut"},
+	{"value":"woody debris structures"},
+	{"value":"green treegreen-tree retention"},
+	{"value":"clear felling"},
+	{"value":"population dynamics"}
+	],
+	"bibo:doi":"10.14214/sf.1219",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000951",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000951",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

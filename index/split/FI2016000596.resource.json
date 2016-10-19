@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.lib.helsinki.fi/se/a/1239-0992/9/4/assessme.pdf",
+	"dct:language":"fin",
+	"dct:title":{"value":"Assessment of genetic diversity using RAPD analysis in a germplasm collection of sea buckthorn.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bartish, Galyna I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jeppson, Niklas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bartish, Igor V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nybom, Hilde.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"perinnöllisyys"},
+	{"value":"analyysimenetelmät"},
+	{"value":"risteytys"},
+	{"value":"Rapd"},
+	{"value":"Hippophae rhamnoides"},
+	{"value":"analytical methods"},
+	{"value":"genetic inheritance"},
+	{"value":"tyrni"},
+	{"value":"geenipankit"},
+	{"value":"hybridization"},
+	{"value":"Hippophae"},
+	{"value":"gene banks"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000596",
+	"dct:identifier":"FI2016000596",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

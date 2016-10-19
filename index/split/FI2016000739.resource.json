@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of anionic salts in concentrate mixture on some blood and urine minerals, acid-base balance and feed intake of dry pregnant cows on grass silage based feeding with high calcium intake /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tauriainen, Susanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sankari, Satu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Syrjälä-Qvist, Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"calcium"},
+	{"value":"dairy cows"},
+	{"value":"kivennäisaineet"},
+	{"value":"ionit"},
+	{"value":"lypsykarja"},
+	{"value":"animal feeding"},
+	{"value":"säilörehu"},
+	{"value":"ions"},
+	{"value":"mineral metabolism"},
+	{"value":"ummessaolokausi"},
+	{"value":"lehmät"},
+	{"value":"kalsium"},
+	{"value":"ion exchange"},
+	{"value":"mineral nutrients"},
+	{"value":"dry period"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000739",
+	"dct:identifier":"FI2016000739",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Tracheid cross-sectional dimensions in Scots pine (Pinus sylvestris) : distributions and comparison with Norway spruce (Picea abies).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Havimo, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rikala, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sirviö, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sipi, Marketta.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"tracheids"},
+	{"value":"radial width"},
+	{"value":"ominaisuudet"},
+	{"value":"cell walls"},
+	{"value":"tangential with"},
+	{"value":"growth rings"},
+	{"value":"trakeidit"},
+	{"value":"mänty"},
+	{"value":"kasvianatomia"},
+	{"value":"Pinus sylvestris"},
+	{"value":"thickness"},
+	{"value":"dimensions"},
+	{"value":"Picea abies"},
+	{"value":"puu"},
+	{"value":"vuosilustot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001898",
+	"dct:identifier":"FI2016001898",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

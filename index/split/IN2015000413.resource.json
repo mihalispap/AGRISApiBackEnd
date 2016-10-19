@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Epidemiology and therapeutic management of bovine masititis",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":148,
+	"dc:subject":[
+		{"value":"epidemiologie",
+	"xml:lang":"fre"
+	},
+	{"value":"drug therapy",
+	"xml:lang":"eng"
+	},
+	{"value":"bovina",
+	"xml:lang":"esp"
+	},
+	{"value":"epidemiologia",
+	"xml:lang":"esp"
+	},
+	{"value":"bovinae",
+	"xml:lang":"fre"
+	},
+	{"value":"mammite bovine",
+	"xml:lang":"fre"
+	},
+	{"value":"mastitis bovina",
+	"xml:lang":"esp"
+	},
+	{"value":"epidemiology",
+	"xml:lang":"eng"
+	},
+	{"value":"therapeutique medicamenteuse",
+	"xml:lang":"fre"
+	},
+	{"value":"terapeutica medicamentosa",
+	"xml:lang":"esp"
+	},
+	{"value":"bovine mastitis",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":151,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000413",
+	"dct:identifier":"IN2015000413",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tufani, N.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Makhdoomi, D.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hafiz, A."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The overall prevalence of mastitis recorded during 2008â2009 was 8.08% (63/780). Breed wise prevalence was 61.90%, 31.75% and 6.35% in Crossbred Jersey, Crossbred Holstein Friesian and Zebu Hill cows respectively. It was highest during spring (42.86%) followed by winter (34.92%), summer (15.87%) and least during autumn (6.35%). After 252 milk samples testing by different mastitis tests and on clinical observations, 151 (60.16%) quarters were affected with different types of mastitis. The animals were highly affected with acute (55.56%) followed by sub-acute (25.40%) and chronic (19.05%) mastitis. The incidence of mastitis was similar in 1st (15.87%) and 2nd (15.87%) parity whereas, 20.63%, 26.98%, 12.70% and 7.94% in 3rd, 4th 5th and 6th parity, respectively. Moreover, the incidence was highest in early (52.38%) followed by mid (26.98%) and late (20.63%) lactation. The predominant major mastitis-causing organisms isolated were Staphylococcus spp. 42 (66.67%) and E. coli 10 (15.87%) and other 11 (17.46%). The highest clinical recovery rate was recorded in the animals treated with Gentamicin (84.21%), followed by Enrofloxacin (80.77%), Ciprofloxacin (80.00%), Ofloxacin (80.00%), Amoxicillin-Cloxacillin (75.00%) and Ampicillin-Cloxacillin (50.00%) within 3.32, 3.46, 4.00, 4.50, 4.50 and 4.75 days (average), respectively. However, fibrosed cases required at least 7â9 days for complete recovery.",
+	"xml:lang":"eng"
+	}
+	}}

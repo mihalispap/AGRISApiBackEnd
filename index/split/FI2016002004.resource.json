@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/7/5-6/wildrice.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Wild rice - a potential new crop for Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mäkelä, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Archibold, O. William.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ravintokasvit"},
+	{"value":"plant ecology"},
+	{"value":"food crops"},
+	{"value":"viljelykasvit"},
+	{"value":"Finland"},
+	{"value":"crop management"},
+	{"value":"cereal crops"},
+	{"value":"phenology"},
+	{"value":"villiriisi"},
+	{"value":"viljakasvit"},
+	{"value":"Zizania"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002004",
+	"dct:identifier":"FI2016002004",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

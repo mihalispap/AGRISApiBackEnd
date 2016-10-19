@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro Assessment of Bacteriostatic Potency of Egg Yolk Immunoglobulin against Salmonella Typhimurium",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":39,
+	"dc:subject":[
+		{"value":"immunoglobulins",
+	"xml:lang":"eng"
+	},
+	{"value":"jaune d'oeuf",
+	"xml:lang":"fre"
+	},
+	{"value":"yema de huevo",
+	"xml:lang":"esp"
+	},
+	{"value":"inmunoglobulina",
+	"xml:lang":"esp"
+	},
+	{"value":"maladie transmissible par aliment",
+	"xml:lang":"fre"
+	},
+	{"value":"enfermedades transm por alimentos",
+	"xml:lang":"esp"
+	},
+	{"value":"egg yolk",
+	"xml:lang":"eng"
+	},
+	{"value":"salmonella typhimurium",
+	"xml:lang":"esp"
+	},
+	{"value":"intoxication",
+	"xml:lang":"fre"
+	},
+	{"value":"envenenamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"poisoning",
+	"xml:lang":"eng"
+	},
+	{"value":"immunoglobuline",
+	"xml:lang":"fre"
+	},
+	{"value":"foodborne diseases",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":11,
+	"bibo:pageEnd":42,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000303",
+	"dct:identifier":"IN2015000303",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_13ab7667"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Veterinary Public Health"},
+	"bibo:ISSN":{"value":"0972-7485"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"P.V. Chakravarthi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"K. Shanmugasundaram"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"S. Malmarugan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"K. Sugumar"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study was carried out in commercial layer chickens to assess the bacteriostatic potency of egg yolk immunoglobulin IgY against food poisoning pathogen. The O antigen of food poisoning pathogen Salmonella was prepared and used to immunize commercial layer chickens. The eggs which contain anti-Salmonella IgY were collected on 30 th  day of first injection and stored at 4 C. The antibacterial IgY was separated by water dilution method (10 times diluted with distilled water, pH 5.05.5, incubated at 4 o C for 6 hr) and purified by 60% ammonium sulphate. The recovery of IgY was in range of 57-62 %. The pathogens in tryptic soya broth (approx. 6x10 8 / ml) were cultured with specific IgYs @ 20 mg /ml and inhibitory effect was measured in UV spectrophotometer at 550 nm. The resultant growth curve indicated that the application of polyclonal antibodies (IgY) on meat could be used to prevent the Salmonella food poisoning.",
+	"xml:lang":"eng"
+	}
+	}}

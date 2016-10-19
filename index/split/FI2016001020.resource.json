@@ -1,0 +1,25 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Stressi voi olla kalalle kuolemaksi = Stress kan döda fisk.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kilpelä, Seija-Sisko.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"aineenvaihdunta"},
+	{"value":"fish"},
+	{"value":"physiology"},
+	{"value":"stress"},
+	{"value":"stressi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001020",
+	"dct:identifier":"FI2016001020",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

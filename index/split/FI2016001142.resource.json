@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Physical properties of kamaboko derived from walleye pollack (Theragra chalcogramma) surimi and functional properties of its enzymatic hydrolysates.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nagai, Takeshi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suzuki, Nobutaka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tanoue, Yasuhiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kai, Norihisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nagashima, Toshio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kalavalmisteet"},
+	{"value":"kala"},
+	{"value":"fish"},
+	{"value":"fish products"},
+	{"value":"terveysvaikutteiset elintarvikkeet"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"health foods"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001142",
+	"dct:identifier":"FI2016001142",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

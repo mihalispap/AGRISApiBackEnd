@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Manufacture of red line meat products with higher colour stability and improved visual attractiveness.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Alvarez-Orti, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gomez, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pardo, J. E.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"colour"},
+	{"value":"chillies"},
+	{"value":"paprika"},
+	{"value":"väri"},
+	{"value":"meat products"},
+	{"value":"liha"},
+	{"value":"food additives"},
+	{"value":"meat"},
+	{"value":"stability"},
+	{"value":"organoleptic properties"},
+	{"value":"lihateollisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000501",
+	"dct:identifier":"FI2016000501",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

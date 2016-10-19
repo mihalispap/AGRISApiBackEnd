@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":"09/2-15",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ipekpp.com/pdf/Achievements/Blog_Final.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Technology transfer between India and Malawi -  Supporting Development beyond Intellectual Property Rights",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Khurana Indira"
+	}
+	},
+	"dc:subject":[
+		{"value":"technology",
+	"xml:lang":"eng"
+	},
+	{"value":"bricks",
+	"xml:lang":"eng"
+	},
+	{"value":"malawi",
+	"xml:lang":"eng"
+	},
+	{"value":"technology transfer",
+	"xml:lang":"eng"
+	},
+	{"value":"deforestation",
+	"xml:lang":"eng"
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015411016",
+	"dct:identifier":"IN2015411016",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19704"
+	},
+	"bibo:abstract":{"value":"The year 2015 may well go down as a landmark year, with the adoption of the Sustainable Development Goals (SDGs) and some agreements at the Conference of Parties (COP) 21. Expectations from both are huge. Knowledge exchange and transfer will be key for achieving the expectations of both. For this, partnerships within and between countries as mentioned in Goal 17 of the SDGs will be imperative. Learning from past experiences and partnerships will help. While the goals are inextricably linked to each other, so are the solutions, as the technology transfer initiative from India to Malawi revealed.",
+	"xml:lang":"eng"
+	}
+	}}

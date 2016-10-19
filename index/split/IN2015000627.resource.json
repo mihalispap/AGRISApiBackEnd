@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of continuous mechanical harvesting on the carbohydrate dynamics and architectural characteristics of tea plants",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":136,
+	"dc:subject":[
+		{"value":"phytomass,shear harvesting, yield potential"},
+	{"value":"mechanization",
+	"xml:lang":"eng"
+	},
+	{"value":"mecanisation",
+	"xml:lang":"fre"
+	},
+	{"value":"glucide",
+	"xml:lang":"fre"
+	},
+	{"value":"carbohidratos",
+	"xml:lang":"esp"
+	},
+	{"value":"carbohydrates",
+	"xml:lang":"eng"
+	},
+	{"value":"mecanizacion",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":141,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000627",
+	"dct:identifier":"IN2015000627",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Siby Mathew"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raj  Kumar,  R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marichamy, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shanmugapriyan, R"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Tea is a labour intensive plantation crop and management of crop husbandry practices has become difficult due to the scarcity of labour. In order to improve the labour productivity and to attain positive cost benefits ratio, management of tea estates are forced to adopt mechanization as a routine cultural operation. In the present study, carbohydrate dynamics and bush architecture of machine harvested fields are studied in comparison to integrated shear harvested fields. Continuous mechanization registered relatively lower levels of phytomass. Recovery from pruning was delayed in the mechanically harvested fields. Yield and yield attributes were significantly higher in the integrated shear harvested fields compared to mechanical harvesting. Carbohydrate dynamics of both the fields indicated low level of total carbohydrate, starch and reducing sugars in the root. Replenishment of carbohydrate showed a similar pattern in both the fields. No major variation was observed between the treatments for photosynthetic carbon dioxide assimilation rate and pigment concentration. Leaf constituents like polyphenols, catechins and amino acids of crop shoots did not show major variations. Soil biota was less in the mechanically harvested fields. The data generated from this experiment will lead to advanced research on mechanization and to develop suitable agro-technologies.",
+	"xml:lang":"eng"
+	}
+	}}

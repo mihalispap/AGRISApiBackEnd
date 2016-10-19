@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"An assessment of selected methods in environmental pollution control.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Oke, I. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Otun, J. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adie, D. B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methods"},
+	{"value":"wastewater"},
+	{"value":"sewage sludge"},
+	{"value":"statistical methods"},
+	{"value":"statistical analysis"},
+	{"value":"pollution"},
+	{"value":"pollutant load"},
+	{"value":"methodology"},
+	{"value":"pollution control"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000738",
+	"dct:identifier":"FI2016000738",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

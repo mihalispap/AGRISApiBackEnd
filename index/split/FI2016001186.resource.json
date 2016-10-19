@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The transformation of a Norway spruce dominated landscape since pre-industrial times in northern Sweden : the influence of modern forest management on forest structure.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hellberg, Erik.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Josefsson, Torbjörn.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Östlund, Lars.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"coniferous forests"},
+	{"value":"metsäpalot"},
+	{"value":"kuusi"},
+	{"value":"Betula"},
+	{"value":"broadleaved forests"},
+	{"value":"metsähistoria"},
+	{"value":"hakkuu"},
+	{"value":"havumetsät"},
+	{"value":"koivut"},
+	{"value":"history"},
+	{"value":"lehtimetsät"},
+	{"value":"mänty"},
+	{"value":"Pinus sylvestris"},
+	{"value":"Picea abies"},
+	{"value":"boreal forests"},
+	{"value":"forest fires"},
+	{"value":"Forestry"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001186",
+	"dct:identifier":"FI2016001186",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

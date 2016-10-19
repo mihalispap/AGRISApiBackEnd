@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Gas production and fermentation of Lasiurus sindicus based composite diet with Acacia jacquemontii leaves",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":69,
+	"dc:subject":[
+		{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"protozoo",
+	"xml:lang":"esp"
+	},
+	{"value":"digestion du rumen",
+	"xml:lang":"fre"
+	},
+	{"value":"acacia",
+	"xml:lang":"esp"
+	},
+	{"value":"rumen digestion",
+	"xml:lang":"eng"
+	},
+	{"value":"hojas",
+	"xml:lang":"esp"
+	},
+	{"value":"feuille",
+	"xml:lang":"fre"
+	},
+	{"value":"digestion ruminal",
+	"xml:lang":"esp"
+	},
+	{"value":"protozoa",
+	"xml:lang":"fre"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"leaves",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":74,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000370",
+	"dct:identifier":"IN2015000370",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jakhmola, R.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raghuvansi, S.K.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pahuja, Taruna"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The study was conducted to evaluate the effect of incorporating leaves of Bawali in Sewan (Lasiurus sindicus) based composite feed on in vitro gas production (24h), degradability of dry matter, organic matter and NDF, concentration of rumen metabolites and protozoa count. Acacia jacquemontii Benth (Bawali) is an important tree of Thar Desert of India, leaves contained 16.3% crude protein (CP), 46.1% neutral detergent fibre (NDF) and 28.2% acid detergent fibre (ADF). The leaves contained 16.0 g/kg DM condensed tannins and 81.9 g/kg DM total phenols. L. sindicus based composite feed (CFM) consisted of roughage to concentrate ratio of 75:25, containing 10.3% C P. The leaves of Acacia jacquemontii were added either at 5 or at 10% level in the CFM. The gas production (GP) in CFM was 104 ml/g DM and inclusion of A. jacquemontii leaves at 5 or 10% level increased GP significantly (P0.01). Similar effect of A. jacquemontii leaves incorporation was observed on organic matter degradability and metabolisable energy contents. The incorporation of A. jacquemontii leaves in CFM adversely affected the ammonia-N, total-N and microbial biomass production. The A. jacquemontii leaves incorporation increased the small chain fatty acid concentration but decreased the protozoa population. The study suggested that A. jacquemontii leaves modulate the rumen fermentation and further study need to be conducted.",
+	"xml:lang":"eng"
+	}
+	}}

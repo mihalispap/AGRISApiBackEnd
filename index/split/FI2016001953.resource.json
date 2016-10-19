@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n4p284.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Microsatellite, blood group and transferrin protein diversity of Estonian dairy cattle breeds.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Värv, Sirje.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kantanen, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Viinalass, Haldja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"transferrins"},
+	{"value":"dairy cattle"},
+	{"value":"Estonia"},
+	{"value":"animal breeding"},
+	{"value":"blood groups"},
+	{"value":"genetic diversity"},
+	{"value":"microsatellites"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001953",
+	"dct:identifier":"FI2016001953",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

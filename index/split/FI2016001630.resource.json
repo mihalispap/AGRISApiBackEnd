@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Pihlajan kasvintuhoojat /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Vänninen, Irene.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"leaf eating insects"},
+	{"value":"Sorbus aucuparia"},
+	{"value":"gall causing insects"},
+	{"value":"fruit damaging insects"},
+	{"value":"tuhoeläimet"},
+	{"value":"puut"},
+	{"value":"kotipihlaja"},
+	{"value":"flower damaging insects"},
+	{"value":"sorbus aucuparia"},
+	{"value":"pihlajat"},
+	{"value":"stem eating insects"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001630",
+	"dct:identifier":"FI2016001630",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

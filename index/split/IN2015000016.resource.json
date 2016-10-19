@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Predator diversity vis-Ã¡-vis pest incidence in rice ecosystem",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":103,
+	"dc:subject":[
+		{"value":"pest control",
+	"xml:lang":"eng"
+	},
+	{"value":"rice",
+	"xml:lang":"eng"
+	},
+	{"value":"lutte antiravageur",
+	"xml:lang":"fre"
+	},
+	{"value":"arroz",
+	"xml:lang":"esp"
+	},
+	{"value":"predateur",
+	"xml:lang":"fre"
+	},
+	{"value":"control de plagas",
+	"xml:lang":"esp"
+	},
+	{"value":"depredadores",
+	"xml:lang":"esp"
+	},
+	{"value":"riz",
+	"xml:lang":"fre"
+	},
+	{"value":"predators",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":108,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000016",
+	"dct:identifier":"IN2015000016",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rajna, S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chander, Subhash"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Abundance and diversity of predator species during different growth stages of rice crop in an untreated field was analysed through Simpson index, Shannon-Wiener index and Berger-Parker index. Fifteen species observed to predate upon rice pests during the crop season included nine spider species, one species each of mirid bug and rove beetle, and two carabid and coccinellid species each. Spiders were dominant during early crop stages, while mirid bug dominated during post-flowering period. Spider and mirid bug populations were positively correlated with planthopper population and these exhibited a sort of population regulatory behaviour. Based both on species richness and equitability, Simpson index and Shannon-Wiener index found the predator community to be the most diverse between 39â51 days after transplanting (DAT) and the least diverse at 79 DAT. Dominance of any single species in the community, as revealed by Berger-Parker index, led to decline in community diversity.",
+	"xml:lang":"eng"
+	}
+	}}

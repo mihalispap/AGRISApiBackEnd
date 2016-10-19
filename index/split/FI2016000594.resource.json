@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/46460/14074",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of supplementary concentrate level and separate or total mixed ration feeding on performance of growing dairy bulls.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huuskonen, Arto,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pesonen, Maiju,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Joki-Tokola, Erkki,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"carcass composition"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"beef cattle"},
+	{"value":"lihakarja"},
+	{"value":"ruokinta"},
+	{"value":"valkuaisrehut"},
+	{"value":"animal performance"},
+	{"value":"lihantuotanto"},
+	{"value":"meat production"},
+	{"value":"teuraslaatu"},
+	{"value":"bulls"},
+	{"value":"concentrates"},
+	{"value":"supplementary feeding"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000594",
+	"dct:identifier":"FI2016000594",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

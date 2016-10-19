@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Foraging activities of honey bee on crops in Gujarat",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"honey bees",
+	"xml:lang":"eng"
+	},
+	{"value":"foraging",
+	"xml:lang":"eng"
+	},
+	{"value":"abeja melifera",
+	"xml:lang":"esp"
+	},
+	{"value":"abeille domestique",
+	"xml:lang":"fre"
+	},
+	{"value":"recherche de nourriture",
+	"xml:lang":"fre"
+	},
+	{"value":"busqueda de alimento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":165,
+	"bibo:volume":76,
+	"bibo:pageEnd":166,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000490",
+	"dct:identifier":"IN2015000490",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chhayani, J. J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patel, C. C."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

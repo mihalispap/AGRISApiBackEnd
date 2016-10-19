@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Challenges and opportunities of the optimality approach in plant ecology /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mäkelä, Annikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Givnish, Thomas J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Berninger, Frank.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Buckley, Thomas N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Farquhar, Graham D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hari, Pertti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"plant ecology"},
+	{"value":"mallit"},
+	{"value":"evoluutio"},
+	{"value":"sopeutuminen"},
+	{"value":"kasviekologia"},
+	{"value":"optimointi"},
+	{"value":"evolution"},
+	{"value":"adaptation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000306",
+	"dct:identifier":"FI2016000306",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

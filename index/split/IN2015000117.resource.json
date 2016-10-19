@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathological changes caused by highly pathogenic Escherichia coli infection in pigs",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":224,
+	"dc:subject":[
+		{"value":"colias",
+	"xml:lang":"esp"
+	},
+	{"value":"escherichia",
+	"xml:lang":"esp"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"septicaemia",
+	"xml:lang":"eng"
+	},
+	{"value":"septicemia",
+	"xml:lang":"esp"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"septicemie",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":226,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000117",
+	"dct:identifier":"IN2015000117",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Krithiga, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nair, N.Divakaran"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vijayan, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anitha, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mammen Abraham,  J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lalithakunjamma, C.R."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Highly pathogenic Escherichia coli infection causing septicaemia in pigs is rarely reported. E. coliare known to cause wide spread intestinal lesions. Eleven piglets (6 female and 5 male) aged between 3 weeks to 2 months and two adult sows were subjected to detailed necropsy. Necropsy examination revealed mild to severe pulmonary congestion, haemorrhage, edema, emphysema and carnification of the lung tissue in all the cases. Pleurisy and serofibrinous exudate in the thoracic cavity were also recorded in some cases. Apart from these gross changes other changes such as focal pale areas in the myocardium, gastric and intestinal congestion could be observed in some cases.On histopathological examinations, pulmonary lesions such as interstitial edema, congestion, thickening of the alveolar wall, haemorrhages,heart failure cells and fibrinohaemorrhagic pneumonia could be observed in different cases. Other changes such as perilobular fibrosis,atrophy, necrosis and diffuse haemorrhage in the liver could also be observed. Occasionally suppurative myocarditis, wide spread glomerular and tubular necrosis; gastritis and enteritis were also recorded. There was consistent recovery of Ecoli from the lung tissue samples and occasionally from the heart and liver. In a case showing severe congestion of intestine, Ecoli could be isolated from the sample collected from the intestin~. Pathogenicity studies undertaken in mice with the isolates proved them to be highly pathogenic. Apart from the normal understanding of the Ecoli causing intestinal lesions, highly pathogenic Ecoli were isolated from cases showing pulmonary haemorrhage proving them as potential factors to be considered in causing pneumonia in pigs.",
+	"xml:lang":"eng"
+	}
+	}}

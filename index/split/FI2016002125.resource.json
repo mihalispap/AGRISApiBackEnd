@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Thinning response and thinning bias in a young Scots pine stand.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pukkala, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Miina, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Palahí, Marc.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"mänty"},
+	{"value":"thinning"},
+	{"value":"harvennushakkuu"},
+	{"value":"Pinus sylvestris"},
+	{"value":"growth"},
+	{"value":"kasvumallit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002125",
+	"dct:identifier":"FI2016002125",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

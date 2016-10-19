@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Salt tolerance screening of Pinus sylvestris L. from the dunes of the south-west coast of the Baltic Sea under in vitro condition"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rzepka-Plevneš, D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kulpa, D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Charkot, S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100124",
+	"dct:identifier":"FI2016100124",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The studies aimed at determining the phenotypic and genetic differences as regards tolerance to saline level observed between pine trees (Pinus sylvestris L.) growing on dunes outside (Poland). The tolerance to salinity was determined on the basis of the germination ability of seeds and the height of seedlings after 14 days of growth on the Tisserat medium supplemented with 117.5 mM dm-3 NaCl. The genetic differences between control (medium not supplemented with NaCl), tolerant and not tolerant seedlings were determined using the ISSR-PCR technique. The results obtained demonstrated clear differences between the selected groups of seedlings, both as regards the number and arrangement of ISSR loci. Seedlings tolerant and non-tolerant to the medium salinity were genetically similar in 73.2–94.1%."}
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of various cultivars of wheat and maize to salinity stress.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ahmadi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Emam, Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pessarakli, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Triticum aestivum"},
+	{"value":"varieties"},
+	{"value":"proline"},
+	{"value":"Zea mays"},
+	{"value":"stress"},
+	{"value":"enzyme activity"},
+	{"value":"genotypes"},
+	{"value":"salinity"},
+	{"value":"osmotic stress"},
+	{"value":"protein content"},
+	{"value":"enzymes"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000213",
+	"dct:identifier":"FI2016000213",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

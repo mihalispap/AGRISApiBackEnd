@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Yellow-flowered lucerne : properties and influence on performance and reproduction of ewes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sormunen-Cristian, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Taponen, Suvi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saastamoinen, Ilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mela, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saloniemi, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kasvihormonit"},
+	{"value":"rehut"},
+	{"value":"ruokinta"},
+	{"value":"Medicago falcata"},
+	{"value":"nurmipalkokasvit"},
+	{"value":"sirppimailanen"},
+	{"value":"hedelmällisyys"},
+	{"value":"uuhet"},
+	{"value":"estrogeenit"},
+	{"value":"lisääntyminen"},
+	{"value":"kasviestrogeenit"},
+	{"value":"lammas"},
+	{"value":"rehukasvit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001576",
+	"dct:identifier":"FI2016001576",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Micro mineral solubility of forages in South Sumatra, Indonesia"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":", Evitayani (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Warly, L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fariani, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hayashida, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fujihara, T. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100503",
+	"dct:identifier":"FI2016100503",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This experiment was carried out to determine micro mineral solubility of forages harvested in South Sumatra during rainy and dry seasons. The mineral solubility was determined by in situ nylon bag technique through incubation of the forage samples in the rumen at 0, 24 and 72 hr. Results of the experiment showed that micro mineral solubility increased as increasing incubation period from 0 to 72 hrs. At 0 hr incubation (solubility in the water), the highest mineral solubility of grass was found in Mn (25.3%), while in the legume the highest solubility was found in Fe (45.2%). Except for Mn, mineral solubility in the rumen was higher for legumes compared to grass. At 72 hr incubation, the average solubility of Zn, Fe, Mn and Cu in grass was 53.5, 61.4, 54.4 and 51.7%, while in the legumes, the values were 57.6, 64.1, 47.2 and 57.7%, respectively. Among species of grass, the highest solubility of Zn, Mn and Cu was found in P. purpuphoides and that of Fe in A. compressus. Data on legumes showed the highest solubility of Zn and Cu was found in L. leucocephala and that of Mn and Fe was found in A. mangium. The trend of the percentage average micro mineral solubility in the rumen at 72 hr incubation period for grass and legumes was: Fe > Zn > Cu > Mn."}
+	}}

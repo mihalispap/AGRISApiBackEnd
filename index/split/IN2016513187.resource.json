@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"Eco-friendly Solution to Mitigate the Toxic Effects of Hazardous Construction Industry Waste by Reusing in Concrete for Pollution Control",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"construction",
+	"xml:lang":"eng"
+	},
+	{"value":"wastewater",
+	"xml:lang":"eng"
+	},
+	{"value":"pollution control",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513187",
+	"dct:identifier":"IN2016513187",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=38",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Arunvivek G. K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maheswaran G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar  S. Senthil"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Pollution is a critical environmental issue. Currently an enormous amount of wastewater and fresh concrete waste aggregates are being produced by the ready mix concrete industry throughout the world. The concrete washout water and excess fresh concrete aggregates are hazardous for disposal due to their high pH value (pH >12). Improper disposal of such wastewater and fresh concrete aggregates results in high environmental pollution. This study envisages an overview of the current state of knowledge about the reuse of hazardous wastewater and concrete in an environmentally acceptable manner. This study was motivated by the necessity to recycle the wastewater and fresh concrete aggregates resulting from washing out the concrete mixing trucks. Laboratory investigation was conducted and from the test results, it is identified that the performance and properties of concrete is not affected by the reuse of this hazardous wastewater and recycled aggregates.",
+	"xml:lang":"eng"
+	}
+	}}

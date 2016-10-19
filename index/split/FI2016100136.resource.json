@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-129.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Low temperature-induced changes in the relative amounts of ribosomal RNAs in potato mitochondria"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Gounaris, Yannis (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100136",
+	"dct:identifier":"FI2016100136",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Field-harvested tubers of the potato cultivars Russet Burbank, Kennebec and ND 651-9, were stored at low (3°C) or at higher (18°C) temperature for three weeks. Intact mitochondria were isolated from the stored tubers and were purified by Percoll gradient centrifugation. Mitochondrial RNA was isolated from the purified mitochondria in triaurincarboxylic acid- and laurylsarkosine-containing media and resolved by electrophoresis in formaldehyde-containing agarose gels. The ribosomal RNA (rRNA) bands were visualized by ethidium bromide staining and quantified by densitometric scanning of the agarose gel. Storage at low temperature resulted in the appearance of a large size precursor rRNA and in decline in the relative amounts of fragments derived from the 26S rRNA in all cultivars and selections. The results indicate a possible effect of low temperatures on proper mitochondrial ribosomal RNA processing and its significance to mitochondrial activity is discussed."}
+	}}

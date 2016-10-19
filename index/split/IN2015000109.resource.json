@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Haemato-biochemical and pathological studies of alpha-hexyl cinnamic aldehyde toxicity in Wistar rats.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":187,
+	"dc:subject":[
+		{"value":"haematobia",
+	"xml:lang":"esp"
+	},
+	{"value":"pathology",
+	"xml:lang":"eng"
+	},
+	{"value":"pathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"wisteria",
+	"xml:lang":"esp"
+	},
+	{"value":"patologia",
+	"xml:lang":"esp"
+	},
+	{"value":"rata",
+	"xml:lang":"esp"
+	},
+	{"value":"rats",
+	"xml:lang":"eng"
+	},
+	{"value":"rat",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":191,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000109",
+	"dct:identifier":"IN2015000109",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Patel, A.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joshi, B.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Undhad, V.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhaval, F.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, Hemant"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jivani, B.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghodasara, D.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prajapati, KS. ,"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The present study was conducted to evaluate the repeated dose dermal toxicity of alpha - hexyl cinnamic aldehyde (HCA) in male and female Wistar rats. The animals were divided into four different groups each comprising five male and five female rats. The group I served as control and was applied with isopropyl alcohol (2 ml/kg BW)while groups II, III, and IV were acted as treatment groups and HCA was appliedtopicallyat the dose rate of 170mg/kg (low dose), 340 mg/kg (medium dose) and 680mg/kg (high dose), respectively, for fourteen consecutivedays. The clinical signs like erythema and hyperirritability were noticed in all the three treatment groups with lower severity ingroupIIand highest in group IVrats. Among different haematological parameters studied, there was significant reduction in lymphocytes aswellas significant increase in neutrophils, eosinophils and monocyte count in male and female rats belohged to group III and IV and no affect on erythrocyte related values. Significant decrease in total protein, albumin, glucose and triglyceride as well as increase in AST and ALT was observed in group IV rats as compared to control group. There was no alteration in kidney parameters such as creatinine, protein, sodium,potassium and chloride in treatment groups as compared to the control. There was rough, dry and thick skin along with crust formationin rats belonged to medium and high dose group. The histological lesions in the skin revealed thickening of epidermis, hyperkeratosis,hyperplasia of stratum germinativum, presence of necrotic debris in cornified layer and hyperplasia of sebaceous glands. Thelesionswere more pronounced in high dose group than in medium dose group.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Bacteriocins : nomenclature, detection, mechanism of action and potential use in poultry production.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lima, Edna Tereza de.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Filho, Raphael Lucio Andreatti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feed additives"},
+	{"value":"rehujen lisäaineet"},
+	{"value":"probiootit"},
+	{"value":"poultry"},
+	{"value":"animal feeding"},
+	{"value":"bakteriosiinit"},
+	{"value":"probiotics"},
+	{"value":"maitohappobakteerit"},
+	{"value":"poultry farming"},
+	{"value":"siipikarja"},
+	{"value":"kotieläintuotanto"},
+	{"value":"Lactobacillus"},
+	{"value":"Escherichia coli"},
+	{"value":"chickens"},
+	{"value":"Salmonella"},
+	{"value":"bacteriocins"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000215",
+	"dct:identifier":"FI2016000215",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

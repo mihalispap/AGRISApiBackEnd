@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Differences in stand characteristics between brook-side key habitats and managed forests in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Siitonen, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hottola, Jenni.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Immonen, Auli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"WKH"},
+	{"value":"lahopuu"},
+	{"value":"CWD"},
+	{"value":"deadwood"},
+	{"value":"stand structure"},
+	{"value":"Forest Act"},
+	{"value":"metsiensuojelu"},
+	{"value":"stand characteristics"},
+	{"value":"metsiköt"},
+	{"value":"talousmetsät"},
+	{"value":"woodland key habitats"},
+	{"value":"kuolleet puut"},
+	{"value":"metsänhoito"},
+	{"value":"rakenne"},
+	{"value":"luonnon monimuotoisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000401",
+	"dct:identifier":"FI2016000401",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

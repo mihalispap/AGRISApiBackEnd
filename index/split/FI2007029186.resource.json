@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Water sorption isotherms and heat of sorption of cashewnuts pretreated by different methods"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029186",
+	"dct:identifier":"FI2007029186",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Falade, K. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chime, J. J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ogunwolu, O. S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Adsorption isotherms of unsteamed, steamed and honeycoated roasted cashewnuts at 20°C, 30°C and 40°C were determined using a gravimetric-static method. BET and GAB models were applied to the isotherm data. Heats of moisture adsorption were estimated from equilibrium sorption data using the Clausius–Clapeyron equation. Adsorption isotherms of the steamed and unsteamed roasted cashewnuts followed a type II (sigmoidal) shape while the adsorption isotherm for the honey coated roasted cashewnut followed a type III (J-shaped) shape. Inversion of the effect of temperature on adsorption isotherm occured at aw of about 0.64. The adsorption isotherms were best described by GAB equation.Equilibrium moisture content decreased with increased temperature at low and intermediate moisture contents for both unsteamed and steamed roasted cashew nuts. Inversion of the effect of temperature on adsorption isotherms of honey-coated roasted cashewnuts occured at aw>0.64, showing the endothermic dissolution of sugar at high water activities. Calculated isosteric heats of sorption increased with decreasing moisture content, showing that the strength of interactions between water vapour and the adsorbent increased with lower moisture content. Negative isosteric heat of sorption occurred only in honey-coated cashew nut at higher moisture (>0.24 g water/g dry solids) contents."}
+	}}

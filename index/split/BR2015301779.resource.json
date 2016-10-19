@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Hydrogel as an alternative to increase water storage capacity of soil ",
+	"xml:lang":"eng"
+	},
+	{"value":"Hidrogel como alternativa no aumento da capacidade de armazenamento de água no solo",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content",
+	"xml:lang":"eng"
+	},
+	{"value":"soil water retention",
+	"xml:lang":"eng"
+	},
+	{"value":"electrical conductivity",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"2/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015301779",
+	"dct:identifier":"BR2015301779",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/18074"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Water Resources and Irrigation Management"},
+	"bibo:ISSN":{"value":"2316-6886"}
+	}
+	},
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ufrb.edu.br/wrim/images/wrim-2-2-2013/v02n02a03.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mendonça Thaís Grandizoli"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Urbano Vanessa Ribeiro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Peres José Geanini"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza Claudinei Fonseca"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"As 70% of potable water on the planet is used in agriculture, alternatives are needed to reduce itsconsumption and optimize the use of water for cultivation. Hydrogels are hydro polymers capable of absorbinglarge quantities of water and have been used as an alternative to improve water storage in areas of shortage.This study aimed to assess the use of different doses of hydrogels for water storage in soil, emphasizing theadvantages and disadvantages of each dose. The doses of the hydrogel used were (4, 8 and 12 g per pot) to analysethe efficiency of the product compared to the control, depending on the availability of moisture and increase inelectrical conductivity. These variables were determined with the use of time-domain reflectometer (TDR) probe.The dose of 4 g per pot was more viable, compared to the manufacturer’s recommendation (8 g per hole, underfield conditions), because it presented similar moisture content, lower electrical conductivity and lower cost.The higher dose (12 g per pot) caused swelling of the soil resulting in loss of product and soil and possible rootstrangulation.",
+	"xml:lang":"eng"
+	},
+	{"value":"Frente ao uso de 70% de água potável do planeta que a agricultura consome, alternativas são necessáriaspara reduzir o consumo e otimizar o uso da água durante o cultivo. Os hidrogeis são polímeros hidrorretentorescapazes de absorver grande quantidade de água e estão sendo utilizados como alternativa viável para melhoraro armazenamento de água em áreas de escassez. O presente trabalho teve como objetivo avaliar a utilização dediferentes dosagens de hidrogel no armazenamento de água no solo destacando-se as vantagens e desvantagensde cada dosagem. Utilizaram-se três diferentes dosagens do hidrogel (4, 8 e 12 g por vaso com 8 kg de solo)permitindo analisar a eficiência do produto comparado à testemunha em função da disponibilidade de águae do aumento da condutividade elétrica do solo. Essas variáveis foram determinadas com o uso de sondas dereflectometria no domínio do tempo (TDR). A dosagem de 4 g por vaso mostrou-se viável pois comparada àrecomendação do fabricante (8 g por cova, em condições de campo), apresentou teor de água semelhante, menorcondutividade elétrica do solo e menor custo de implantação. A maior dosagem (12 g por vaso) causou inchaço dosolo acarretando em perda do produto, solo e possível estrangulamento radicular.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n4p298.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro N degradability and N digestibility of raw, roasted or extruded canola, linseed and soybean.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Turner, T. D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    McNiven, M. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"degradation"},
+	{"value":"lypsykarja"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"in vitro"},
+	{"value":"valkuaisrehut"},
+	{"value":"nitrogen"},
+	{"value":"paahtaminen"},
+	{"value":"roasting"},
+	{"value":"digestibility"},
+	{"value":"rehunkäsittely"},
+	{"value":"valkuaisaineet"},
+	{"value":"oilseeds"},
+	{"value":"typpiyhdisteet"},
+	{"value":"extrusion"},
+	{"value":"ekstruusio"},
+	{"value":"feed processing"},
+	{"value":"rehunkäyttökyky"},
+	{"value":"öljykasvit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002216",
+	"dct:identifier":"FI2016002216",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

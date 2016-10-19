@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Trends and volatility in domestic and international prices of livestock products in India ANJANI KUMAR Professor (dcrai.bhu@gmail.com), (Animal Husbandry and Dairying), Institute of Agricultural Sciences, Banaras Hindu University, Varanasi 221 005. 58 1  and D C RAI 2",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1248,
+	"dc:subject":[
+		{"value":"prices",
+	"xml:lang":"eng"
+	},
+	{"value":"animal products",
+	"xml:lang":"eng"
+	},
+	{"value":"mercado interior",
+	"xml:lang":"esp"
+	},
+	{"value":"world markets",
+	"xml:lang":"eng"
+	},
+	{"value":"precios",
+	"xml:lang":"esp"
+	},
+	{"value":"produit animal",
+	"xml:lang":"fre"
+	},
+	{"value":"productos de origen animal",
+	"xml:lang":"esp"
+	},
+	{"value":"mercados mundiales",
+	"xml:lang":"esp"
+	},
+	{"value":"prix",
+	"xml:lang":"fre"
+	},
+	{"value":"domestic markets",
+	"xml:lang":"eng"
+	},
+	{"value":"marche interieur",
+	"xml:lang":"fre"
+	},
+	{"value":"marche mondial",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1252,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000332",
+	"dct:identifier":"IN2015000332",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Anjani Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rai, D.C."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"The economic reform triggered during 1990s has facilitated the integration between domestic and international markets. The integration between domestic and international markets has important implications on social welfare. This paper analyse the trends and volatility in the prices of livestock products and the extent of transmission of international prices to domestic markets. The international prices of dairy products have been more volatile than domestic prices. The prices and the level instability of meat products were similar in both the markets. The transmission of global prices would help in reducing the domestic prices of meat products except bovine meat. The prices of bovine meat would increase as a consequence of transmission of prices from international to domestic markets.",
+	"xml:lang":"eng"
+	}
+	}}

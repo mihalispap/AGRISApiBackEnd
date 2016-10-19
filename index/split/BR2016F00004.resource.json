@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Técnicas de manejo para recuperação de pastagens degradadas de capim-braquiária (Brachiaria decumbens Stapf cv. Basilisk) ",
+	"xml:lang":"por"
+	},
+	{"value":"Management techniques for the recovery of degraded brachiaria pastures (Brachiaria decumbens Stapf cv. Basilisk)",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilization",
+	"xml:lang":"eng"
+	},
+	{"value":"oversowing",
+	"xml:lang":"eng"
+	},
+	{"value":"pastures",
+	"xml:lang":"eng"
+	},
+	{"value":"improvement felling",
+	"xml:lang":"eng"
+	},
+	{"value":"plant nutrition",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.4",
+	"bibo:doi":"10.17523/bia.v72n4p331",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00004",
+	"dct:identifier":"BR2016F00004",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n4p331",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SANTINI, J. M. K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BUZETTI, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GALINDO, F. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COAGUILA, D. N."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"calagem + NPK"},
+	{"value":"liming",
+	"xml:lang":"por"
+	},
+	{"value":"calagem + NPK + Zn"},
+	{"value":"calagem"},
+	{"value":"The supply of nutrients is an important factor for pasture nutrition, increasing biomass productivity and improving forage quality. The correct application of fertilizers to degraded pasture areas promotes the development of forage plants and the consequent reestablishment of the culture by providing nutrients to meet the metabolic requirements of the plant. The objective of this study was to evaluate the effect of combinations of liming, fertilization and overseeding on the recovery of Brachiaria grass (Brachiaria decumbens Stapf cv. Basilisk) in an advanced stage of degradation. A randomized block design consisting of six treatments and four repetitions was used. The following treatments were evaluated: control",
+	"xml:lang":"eng"
+	},
+	{"value":"calagem + NPK + FTE (fritted trace elements)"},
+	{"value":"liming + NPK + Zn, and liming + NPK + FTE + overseeding of Marandu grass (Brachiaria brizantha cv. Marandu). The combinations of liming and fertilization did not influence the chemical composition of the pasture. Liming + NPK + FTE + overseeding was superior in terms of biomass productivity when compared to the control treatment and did not differ from the other treatments. The mean concentrations of N, P, Ca and Mg in the aerial part of Brachiaria grass were not influenced by the fertilization combinations. Evaluation of total N export by the plant revealed a significant effect, with the liming + NPK + FTE + overseeding treatment being superior (75.76%) to the control and liming treatments, which did not differ from one another. The use of liming and fertilization, in a single application, is not sufficient to completely recover or to increase the productivity and quality of Brachiaria grass. Overseeding of Marandu grass on Brachiaria pastures, in conjunction with liming and fertilization, is a good alternative to increase the productivity and to improve the quality of pastures in an advanced stage of degradation."},
+	{"value":"O suprimento de nutrientes constitui-se em importante fator na nutrição da planta forrageira, refletindo no aumento de produtividade de massa seca (PMS) e melhoria da qualidade. A correta aplicação de fertilizantes em áreas de pastagens degradadas, ao fornecer nutrientes para atender as necessidades metabólicas, promove o desenvolvimento das plantas forrageiras, e por consequência, restabelece a cultura. Objetivou-se com esse trabalho avaliar o efeito de combinações de calagem, adubação e sobressemeadura na recuperação do capim-braquiária (Brachiaria decumbens Stapf cv. Basilisk), em estágio avançado de degradação. O delineamento experimental utilizado foi em blocos casualizados com seis tratamentos e quatro repetições. Os tratamentos avaliados correspondem a testemunha"},
+	{"value":"liming + NPK + FTE (fritted trace elements)"},
+	{"value":"liming + NPK"},
+	{"value":"e calagem + NPK + FTE + sobressemeadura de capim-marandu (Brachiaria brizantha cv. Marandu). As combinações de calagem e adubação não influenciaram a composição química da pastagem. O tratamento com calagem + NPK + FTE + sobressemeadura foi superior na PMS em relação ao tratamento testemunha, não diferindo dos demais. As concentrações médias de N, P, Ca e Mg da parte aérea do capim-braquiária, não foram influenciadas pelas combinações de adubação. Na avaliação da exportação total de N pelas plantas, houve efeito significativo, sendo o tratamento com calagem + NPK + FTE + sobressemeadura superior (75,76%) aos tratamentos testemunha e calagem, que não diferiram entre si. A utilização de calagem e adubação, em única aplicação, não é suficiente para a completa recuperação e aumento da produtividade e qualidade do capim-braquiária. O uso da sobressemeadura do capim-marandu, sobre pastagens de capim-braquiária, em conjunto com a calagem e a adubação, é uma boa alternativa para o aumento da produtividade e melhoria na qualidade de pastagens em estado avançado de degradação."}
+	]
+	}}

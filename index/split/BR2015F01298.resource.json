@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   Parâmetros sanguíneos basais de cavalos submetidos à atividade aeróbica consumindo concentrados lipídicos ",
+	"xml:lang":"por"
+	},
+	{"value":"Basal blood parameters of horses subjected to aerobic activity fed with lipidic concentrated",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"lactates",
+	"xml:lang":"eng"
+	},
+	{"value":"glucose",
+	"xml:lang":"eng"
+	},
+	{"value":"cholesterol",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"69/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01298",
+	"dct:identifier":"BR2015F01298",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1365774824.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"OLIVEIRA, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS,  V.P"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FASTINO,  M. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SÁ,  J. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MEIRELLES,  P. R. L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The feeding diets were evaluated containing low and high levels of soybean oil for horses athletes subjected to two protocols of aerobic training on the response of basal blood biochemical parameters. Four horses were used in latin square design with treatments in a 2 x 2 factorial arrangement. Treatments consisted levels of 5 and 15% oil concentrates and two aerobic training, 40' and 60' minutes. Plasmatic parameters were monitored, triglyceride (TG), total cholesterol (TC), glucose (GLU) and lactate (LAC), during basal metabolism. The TG, TC, GLU and LAC from horses at rest were not affected (P> 0.05) neither of diet and physical activity, 0.21, 3.79, 4.18, 0.93 mmol L-1, respectively. It can be concluded that offer concentrate with high content of soybean oil to athletic horses in aerobic activities can be performed without altering the blood biochemical profile of basal metabolism.",
+	"xml:lang":"eng"
+	},
+	{"value":"Avaliou-se o fornecimento de concentrados com a inclusão de baixo e alto teor de óleo de soja a cavalos atletas, submetidos a dois protocolos de exercícios aeróbicos, sobre a resposta basal de parâmetros bioquímicos do sangue. Foram utilizados quatro cavalos, em delineamento experimental quadrado latino, com tratamentos em esquema fatorial 2 x 2. Os tratamentos foram compostos por teores de 5 e 15% de óleo nos concentrados e dois treinos aeróbicos com duração de 40’ e 60’ minutos. Monitorou-se os parâmetros bioquímicos basais, triglicerídeos (TG), colesterol total (CT), glicose (GLI) e lactato (LAC). Os TG, CT, GLI e LAC dos cavalos, não sofreram efeito (P>0,05) da alimentação, bem como da atividade física, 0,21, 3,79, 4,18, 0,93 mmol L-1, respectivamente. Concluiu-se que o fornecimento de dieta contendo até 15% de óleo de soja pode ser oferecido a cavalos atletas, submetidos à atividade aeróbica, sem alterar o perfil bioquímico sanguíneo do metabolismo basal.",
+	"xml:lang":"por"
+	}
+	]
+	}}

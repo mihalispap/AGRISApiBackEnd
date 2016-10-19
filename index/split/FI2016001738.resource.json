@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Status, utilization and trade of Hazara areas healing plants of Pakistan /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rauf, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Baloch, Musa K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abbasi, Fida M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chattha, M. Riaz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mahmood, T. Z.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"trade"},
+	{"value":"plant parts"},
+	{"value":"plants"},
+	{"value":"uses"},
+	{"value":"ethnobotany"},
+	{"value":"medicinal properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001738",
+	"dct:identifier":"FI2016001738",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

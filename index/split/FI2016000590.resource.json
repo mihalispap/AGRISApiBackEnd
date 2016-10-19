@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelled impacts of mitigation measures on greenhouse gas emissions from Finnish agriculture up to 2020.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Regina, Kristiina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lehtonen, Heikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nousiainen, Jouni.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Esala, Martti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methane"},
+	{"value":"emission"},
+	{"value":"biokaasu"},
+	{"value":"climatic change"},
+	{"value":"maatalous"},
+	{"value":"nitrous oxide"},
+	{"value":"agriculture"},
+	{"value":"kasvihuonekaasut"},
+	{"value":"models"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"päästöt"},
+	{"value":"eloperäiset maat"},
+	{"value":"pellot"},
+	{"value":"greenhouse gases"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000590",
+	"dct:identifier":"FI2016000590",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

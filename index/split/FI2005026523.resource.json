@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Ripening of olives var. Correggiolo: Modification of oxidative stability of oils during fruit ripening and oil storage"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026523",
+	"dct:identifier":"FI2005026523",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a21.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rotondi, Annalisa (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Magli, Massimiliano (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Olive ripening is one of the most important factors influencing olive oil flavor and its stability during storage. Two climatically different olive growing areas of the Emilia-Romagna region in Northern Italy were included in the present study. In each farm, micrometeorological parameters were collected and physical and chemical analyses of fruits of cv. Correggiolo harvested at different stages of ripeness were also undertaken. Oils obtained from different olive samples were analyzed at crushing time and after 6, 9 and 12 months of storage. Different microclimatic conditions influenced olive ripening trends. In fact, the optimal harvest time frame was shorter in an area characterized by higher temperature, low relative humidity and scarce rainfall. The identification of the optimal stage of olive ripening is important to obtain irreproachable oils, as well as to improve the balance between the level of antioxidant substances responsible for oil stability and the volatile aromatic substances characterizing the oil’s flavor. Today, the optimal olive harvest date cannot be properly identified because of the lack of quick reference parameters for its determination. A quick determination of ripeness index according to the Jaén method, related to micrometeorological parameters, could provide valid information about optimal olive harvest dates and, consequently, the production of storage-stable, high quality olive oils."}
+	}}

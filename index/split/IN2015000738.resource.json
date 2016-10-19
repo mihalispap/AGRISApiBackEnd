@@ -1,0 +1,81 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil fertility status of cashew growing soils of Dakshina Kannada district of coastal Karnataka",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":373,
+	"dc:subject":[
+		{"value":"pedons"},
+	{"value":"cashews",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrients",
+	"xml:lang":"eng"
+	},
+	{"value":"fertilite",
+	"xml:lang":"fre"
+	},
+	{"value":"abonos de oligoelementos",
+	"xml:lang":"esp"
+	},
+	{"value":"fertilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"nutrientes",
+	"xml:lang":"esp"
+	},
+	{"value":"engrais a oligo-elements",
+	"xml:lang":"fre"
+	},
+	{"value":"micronutrient fertilizers",
+	"xml:lang":"eng"
+	},
+	{"value":"substance nutritive",
+	"xml:lang":"fre"
+	},
+	{"value":"fertility",
+	"xml:lang":"eng"
+	},
+	{"value":"anacardo",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de cajou",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":379,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000738",
+	"dct:identifier":"IN2015000738",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Srinivasan, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Natarajan, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kalaivanan, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anil kumar, K.S."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Soil fertility status of six pedons of cashew growing regions of coastal Karnataka in Dakshina Kannada district were determined. The soils were acidic in reaction, non-saline in nature (free of soluble salts) and low (subsurface soil) to high (surface soil) in organic carbon status. The clay distribution, cation exchange capacity and base saturation of the soils varied from 24.5 to 66.4 per cent, 7.60 to 19.8 cmol (p+) kg-1 and 4 to 32 per cent, respectively. The macronutrients status of the soil samples indicated that the available nitrogen content varied from low to medium in all the pedons, the soils were low in available phosphorus, low to medium in available potassium and available sulphur. Among the DTPA extractable micronutrients, iron and manganese were in sufficient range in most soils, available copper was sufficient and available zinc was deficient. The available macronutrient and micronutrient content were found to decrease with increasing the depth of the soils. Phosphorus and zinc were highly deficient in all the pedons of the cashew growing areas of Dakshina Kannada.",
+	"xml:lang":"eng"
+	}
+	}}

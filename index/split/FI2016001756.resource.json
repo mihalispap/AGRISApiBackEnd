@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of a small and a medium sized professional chippers and the impact of storage time on Scots pine (Pinus sylvestris) stem wood chips characteristics.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"particle size"},
+	{"value":"time"},
+	{"value":"sieve"},
+	{"value":"fuels"},
+	{"value":"quality"},
+	{"value":"stemwood"},
+	{"value":"storage time"},
+	{"value":"chipping"},
+	{"value":"stem wood"},
+	{"value":"storage"},
+	{"value":"productivity"},
+	{"value":"chrushing"}
+	],
+	"bibo:doi":"10.14214/sf.1382",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001756",
+	"dct:identifier":"FI2016001756",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1382",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Laitila, Juha,
+    kirjoittaja
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Routa, Johanna,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	]
+	}}

@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Microbial quality of linseed and fibre hemp plants during growing and harvest seasons /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Koivula, Minna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kymäläinen, Hanna-Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vanne, Liisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Levo, Seija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pehkonen, Aarne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sjöberg, Anna-Maija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Cannabis sativa"},
+	{"value":"pellava"},
+	{"value":"moulds"},
+	{"value":"flax"},
+	{"value":"Finland"},
+	{"value":"hamppu"},
+	{"value":"kasvukausi"},
+	{"value":"laatu"},
+	{"value":"mikro-organismit"},
+	{"value":"homesienet"},
+	{"value":"hemp"},
+	{"value":"bakteerit"},
+	{"value":"sadonkorjuu"},
+	{"value":"linseed"},
+	{"value":"quality"},
+	{"value":"deterioration"},
+	{"value":"kuitukasvit"},
+	{"value":"microorganisms"},
+	{"value":"öljykasvit"},
+	{"value":"Linum usitatissimum"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001025",
+	"dct:identifier":"FI2016001025",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

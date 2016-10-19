@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Carcass traits and meat quality attributes of broilers grown to different body weights",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":615,
+	"dc:subject":[
+		{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"carcass composition",
+	"xml:lang":"eng"
+	},
+	{"value":"composicion de la canal",
+	"xml:lang":"esp"
+	},
+	{"value":"composition de la carcasse",
+	"xml:lang":"fre"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":620,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000097",
+	"dct:identifier":"IN2015000097",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"june2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Muthukumar,  M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sen, A.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naveena, B.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vaithiyanathan, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patil, S. Girish"
+	}
+	}
+	],
+	"bibo:issue":6,
+	"bibo:abstract":{"value":"An experiment was carried out to study the carcass traits, meat quality and processing characteristics of broilers grown to different body weights. Three groups of broiler chicken aged 35, 40 and 45 days, comprising 12 male and 12 female in each group corresponding to light (slaughter weight  1500 g), medium (1500â2000 g) and heavy (2000 g) were utilized. Carcass traits revealed higher slaughter and dressed carcass weight for males compared to females. Age of birds showed significant effect on dressing percentage and all the age groups differed significantly. However, no significant difference was observed between sexes within each group except in medium weight group, where, male broilers showed higher dressing percentage than females. The dressing per cent increased gradually with age irrespective of sex. The yield (%) of high valued primal cuts like breast, thigh, drumstick and drummets on the basis of dressed carcass weight, increased with age and slaughter weight. No significant effect of sex was observed. The yield of lean meat from breast, thigh, drumstick and drummets were higher in heavy weight group than medium and low weight groups. The meat from heavier birds showed significantly higher water holding capacity, redness value (a* value and chroma), Warner-Bratzler shear force value, protein and fat content and lower cook loss and moisture level than medium and light weight groups. Sensory evaluation of chicken nuggets prepared from 3 groups revealed increase in juiciness, texture and overall palatability with increasing slaughter weight, however, the scores did not differ significantly between the weight groups. This study showed that meat produced from heavy weight broilers ( 2000 g live weight) will be beneficial on yield and several quality characteristics and can be economically utilized for production of processed poultry products especially ground and emulsion products.",
+	"xml:lang":"eng"
+	}
+	}}

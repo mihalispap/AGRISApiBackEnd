@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Utilização de complexo enzimático em rações para leitões na creche ",
+	"xml:lang":"por"
+	},
+	{"value":"Use of enzyme complex in rations for piglets in nursery phase",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"animal nutrition",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01820",
+	"dct:identifier":"BR2015F01820",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1216214317.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"CARVALHO,  E. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LIMA,  J. A. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FIALHO,  E. T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ZANGERONIMO,  M. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CANTARELLI,  V. S."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"0,03 e 0,04% do produto. Foram avaliados o consumo de ração médio diário, o ganho de peso médio diário, a conversão alimentar, o peso relativo do fígado e do pâncreas e incidência de diarréia. Não foram observadas diferenças (P>0,05) para nenhum dos parâmetros avaliados. Conclui-se que o uso do complexo enzimático contendo galactosidase, galactomanase, xilanase e glucanase até 0,04% nas rações para leitões na fase inicial, formuladas à base de milho e farelo de soja, não altera o desempenho, o peso do fígado e do pâncreas e a incidência de diarréia, para leitões na fase de creche."},
+	{"value":"0.03 and 0.04% of this product. The daily average feed intake, the daily average weight gain, the fed:gain ratio, the relative liver and pancreas weight and diarrhea incidence were evaluated. No significant differences (P>0.05) were found for any of the evaluated parameters. It was conclude that the use of the multienzyme complex containing galactosidase, galactomanase, xylanase and glucanase until 0.04% in diets for piglets in nursery phase, formulated with corn and soybean meal, does not change the performance, the pancreas and liver weight and the diarrhea incidence."},
+	{"value":"The objective of this work was to evaluate the influence of the addition of a multienzyme complex containing a-galactosidase, galactomanase, b-glucanase in diets for piglets in nursery phase. The experiment was conducted in the Animal Science Department of the Federal University of Lavras, in Lavras, MG. Sixty piglets barrows and females, crossbreds (Landrace x Large White) with initial weight of 8.52 ± 1.2kg, allotted in groups of three (experimental unit) were utilized. The randomized blocks design (initial weight) was used, with five treatments and four repetitions. The treatments consisted in a basal diet without addition of multienzyme complex (control) and others four within 0.01",
+	"xml:lang":"eng"
+	},
+	{"value":"0,02"},
+	{"value":"O objetivo deste trabalho foi avaliar a influência da adição de um complexo enzimático contendo a-galatosidase, galactomanase, b-glucanase e xilanase em rações para leitões na creche. O experimento foi conduzido no Departamento de Zootecnia da Universidade Federal de Lavras, em Lavras, MG. Foram utilizados 60 leitões machos castrados e fêmeas, mestiços (Landrace x Large White), com peso médio inicial de 8,52 ± 1,2kg, alojados em grupos de três (unidade experimental). Foi utilizado o delineamento em blocos casualizados (peso inicial), com cinco tratamentos e quatro repetições. Os tratamentos consistiram em uma ração basal sem adição de complexo enzimático (controle) e outras quatro com níveis de 0,01"},
+	{"value":{"value":0.02},
+	"xml:lang":"por"
+	}
+	]
+	}}

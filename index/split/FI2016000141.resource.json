@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative protein and folate content among canola cultivars and other cruciferous leafy vegetables.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Miller-Cebert, R. L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sistani, N. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cebert, E.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"folic acid"},
+	{"value":"kales"},
+	{"value":"leaf vegetables"},
+	{"value":"varieties"},
+	{"value":"cabbages"},
+	{"value":"rape (plant)"},
+	{"value":"nutritive value"},
+	{"value":"chemical composition"},
+	{"value":"protein content"},
+	{"value":"Brassica"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000141",
+	"dct:identifier":"FI2016000141",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

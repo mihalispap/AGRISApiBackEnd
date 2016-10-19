@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":"03/2-14",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ipekpp.com/admin/upload_files/Report_1_15_Review_4510453616.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Review on food and nutrition security: India’s domestic story and scope to build global partnerships",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Saxena N C"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vir Sheila"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mander Harsh"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Knowledge Partnership Programme- IPE Global Pvt Ltd"
+	}
+	}
+	],
+	"dc:subject":{"value":"nutrition",
+	"xml:lang":"eng"
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015410032",
+	"dct:identifier":"IN2015410032",
+	"dct:type":"Report",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19704"
+	},
+	"bibo:abstract":{"value":"This paper outlines India’s policies, programmes, achievements and challenges in addressing food and nutrition security, explores what lessons India has to offer to Low Income Countries, and forums for such knowledge sharing.",
+	"xml:lang":"eng"
+	}
+	}}

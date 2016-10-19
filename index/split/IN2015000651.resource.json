@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth performance of the tea clone TRF-1 under Nilgiri conditions",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":264,
+	"dc:subject":[
+		{"value":"Camellia spp., growth performance, Nilgiri, TRF-1"},
+	{"value":"te",
+	"xml:lang":"esp"
+	},
+	{"value":"the",
+	"xml:lang":"fre"
+	},
+	{"value":"tea",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":266,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000651",
+	"dct:identifier":"IN2015000651",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Radhakrisnan, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Muthukannan, P"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manigandan, N"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Santhosh Kumar, R"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

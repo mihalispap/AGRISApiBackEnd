@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Tracking of Pathogenic and Spoilage Microbes in Mutton and Chevon Processing in Retail Markets of Jammu",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":74,
+	"dc:subject":[
+		{"value":"contamination biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"jammu and kashmir",
+	"xml:lang":"eng"
+	},
+	{"value":"mutton",
+	"xml:lang":"eng"
+	},
+	{"value":"carne de carnero",
+	"xml:lang":"esp"
+	},
+	{"value":"viande ovine",
+	"xml:lang":"fre"
+	},
+	{"value":"biological contamination",
+	"xml:lang":"eng"
+	},
+	{"value":"contaminacion biologica",
+	"xml:lang":"esp"
+	},
+	{"value":"jammu y kashmir",
+	"xml:lang":"esp"
+	},
+	{"value":"jammu et cachemire",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":78,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000189",
+	"dct:identifier":"IN2015000189",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Arvind"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khajuria, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kaur, M."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The aim of this study was to evaluate standard plate count (SPC), psychrotrophic count (PTC), Enterococcus feacalis count (EFC), Staphylococcus aureus count (SAC) and Escherichia coli count (ECC) and the presence of Salmonella spp. and Listeria monocytogenes in retail markets of Jammu. Mutton samples had higher (p0.01) SPC, PTC, EFC, and SAC than chevon. E. coli was recovered from 70.2% mutton and 32.4% chevon samples. The prevalence rate of Salmonella spp. was 5.42% in mutton compared to 3.12% in chevon. L. monocytogenes recovered were from mutton sample (0.36%). The study revealed that mutton and chevon contain higher microbes and numbers of food pathogens of potential zoonotic importance thus necessitate strict measures for the proper maintenance of meat processing plants.",
+	"xml:lang":"eng"
+	}
+	}}

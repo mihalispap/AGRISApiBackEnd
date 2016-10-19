@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Efeito da irrigação de pastagens em índices técnicos e gerenciais de propriedades leiteiras ",
+	"xml:lang":"por"
+	},
+	{"value":"Effect of pasture irrigation on the technical and management indicators of dairy farms",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"productivity",
+	"xml:lang":"eng"
+	},
+	{"value":"management",
+	"xml:lang":"eng"
+	},
+	{"value":"profitability",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F07853",
+	"dct:identifier":"BR2015F07853",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1435674807.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MORAES, F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LOPES, M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRUHN,  F. R. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CARVALHO, F. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LIMA, A. L. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"REIS, E. M. B."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this study was to evaluate the effect of pasture irrigation on the technical and management indicators of 20 demonstrative units participating in the “Balde Cheio” Program in the state of Rio de Janeiro from January to December 2011. The following variables were obtained: dam/labor ratio, herd size/labor ratio, milk yield/labor ratio, animals/production area, percentage of lactating cows, and milk yield. Return was analyzed considering gross margin, net margin, outcome (profit or loss), and profitability. The data were analyzed using the PASW 18.0 software. Pasture irrigation did not significantly alter the indicators studied. The greater profitability and return of farms using pasture irrigation were the consequence of better animal production rates/day and per ha/year. When gross margin, net margin and outcome using total revenue are considered, there is decapitalization of the farms.",
+	"xml:lang":"eng"
+	},
+	{"value":"Objetivou-se estudar o efeito da utilização, ou não, da irrigação de pastagens em índices técnicos e gerenciais de 20 unidades demonstrativas (UD), participantes do programa “Balde Cheio”, no estado do Rio de Janeiro, no período de janeiro a dezembro de 2011. Obteve-se relação matriz/mão de obra, animais no rebanho/mão de obra e produção de leite/mão de obra, animais/área de produção, percentagem de vacas em lactação, além da produção de leite. Analisou-se a rentabilidade considerando a margem bruta, a margem líquida, o resultado (lucro ou prejuízo), e a lucratividade. Os dados foram analisados utilizando-se o software PASW 18.0. A utilização da irrigação de pastagens não alterou significativamente os índices avaliados. As maiores lucratividades e rentabilidades das propriedades que utilizam irrigação de pastagens foram consequência de melhores índices de produtividade animal/dia e por ha/ano. Quando considerados os indicadores margem bruta, líquida e resultado, utilizando a receita total, há descapitalização dos pecuaristas.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of some processing techniques on the functional properties of winged bean seed flours.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Igene, F. U.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oboh, S. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aletor, V. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"emulsifying"},
+	{"value":"food processing"},
+	{"value":"pavut"},
+	{"value":"elintarviketekniikka"},
+	{"value":"heat treatment"},
+	{"value":"flours"},
+	{"value":"stability"},
+	{"value":"seeds"},
+	{"value":"säilyvyys"},
+	{"value":"Psophocarpus tetragonolobus"},
+	{"value":"jauhot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000082",
+	"dct:identifier":"FI2016000082",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

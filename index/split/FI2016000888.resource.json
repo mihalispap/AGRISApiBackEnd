@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of frequency of fertilisation on production, foliar chemistry and nutrient leaching in young Norway spruce stands in Sweden. /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bergh, Johan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nilsson, Urban.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grip, Harald.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hedwall, Per-Ola.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lundmark, Tomas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"kuusi"},
+	{"value":"sludge"},
+	{"value":"phosphorus"},
+	{"value":"puutuhka"},
+	{"value":"wood ash"},
+	{"value":"fertilizer application"},
+	{"value":"boreaaliset metsät"},
+	{"value":"nitrogen"},
+	{"value":"kalium"},
+	{"value":"lannoitus"},
+	{"value":"potassium"},
+	{"value":"typpi"},
+	{"value":"liete"},
+	{"value":"Picea abies"},
+	{"value":"boreal forests"},
+	{"value":"Sweden"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000888",
+	"dct:identifier":"FI2016000888",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

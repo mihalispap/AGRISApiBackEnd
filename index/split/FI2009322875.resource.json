@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Organic fertilizer and biogas production from poultry wastes"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009322875",
+	"dct:identifier":"FI2009322875",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"El-Hadidi, Y. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Turki, A. I. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Batch type anaerobic digesters were used in these experiments at mesophilic temperature (around 35ºC) to investigate the possibility of utilization of poultry waste as an organic fertilizer and alternative energy source. A comparative analysis of biogas yield and chemical composition of the effluent slurry as organic fertilizer of four mixtures were studied: Mixture 1 (100% cattle feces), Mixture 2 (100% poultry droppings), Mixture 3 (100% poultry droppings + 0.1 ml/kg Agrotain) and Mixture 4 (50% cattle feces and 50% poultry droppings). Methane and carbon dioxide contents of daily biogas production were recorded. Chemical analysis of influent slurry was also carried out. Influent and effluent enumeration of total fecal coliforms and Salmonella was done. The biogas production from Mixture 4 was 16.9, 47.6 and 42.5% higher than that for Mixtures 1, 2 and 3, respectively. The fermentation process efficiency was 77.4, 72.4, 76.2 and 79.4% for Mixtures 1, 2, 3 and 4 respectively. The results also showed that the digested mixtures under study have the potential of being soil conditioners."}
+	}}

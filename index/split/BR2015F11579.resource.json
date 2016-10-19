@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Composição química ",
+	"xml:lang":"por"
+	},
+	{"value":"   degradabilidade ruminal e tempo de colonização de suplementos concentrados com torta de crambe. "},
+	{"value":"Chemical composition, ruminal degradability and colonization time of crambe meal concentrate supplements.",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"crambe abyssinica",
+	"xml:lang":"eng"
+	},
+	{"value":"chemical composition",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.3",
+	"bibo:doi":"10.17523/bia.v72n3p200",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F11579",
+	"dct:identifier":"BR2015F11579",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n3p200",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"PATUSSI, R. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GOES,  R. H. T. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OSMARI, M. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRANCO, A. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, E. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, M. V. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GANDRA, J. R."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this study was to evaluate the chemical composition, in vitro digestibility, in situ degradability and colonization time of concentrate supplements containing different inclusion levels of crambe meal. Five inclusion levels of crambe meal (0%, 2.5%, 5.0%, 10%, and 15%) replacing soybean meal in the concentrate supplements were evaluated. The chemical composition and nutrient digestibility were analyzed in a completely randomized design consisting of five treatments and three repetitions using regression analysis. A nonlinear regression procedure was used for construction of the nutrient degradation curves. Crude protein (CP) content, ether extract content, total digestible nutrients, total carbohydrates, mineral matter or in vitro dry matter (DM) digestibility was not influenced by the inclusion of crambe meal in the concentrate supplement. Neutral detergent fiber (NDF) and hemicellulose content exhibited a decreasing linear trend and non-structural carbohydrate content showed an increasing linear trend with the inclusion of crambe meal in the concentrate supplement instead of soybean meal. The inclusion of crambe meal did not alter the effective degradability of DM, CP or NDF, whose mean degradability was 51.56%, 61.21% and 39.21%, respectively, for a rate of 5%/h. However, the inclusion of 15% crambe meal in the concentrate supplement resulted in a higher degradation potential of CP and NDF across the ruminal incubation times. The inclusion of up to 15% crambe meal in concentrate supplement for cattle instead of soybean meal alters its chemical composition, but does not influence DM digestibility or nutrient degradability, and is therefore a suitable alternative for animal nutrition.",
+	"xml:lang":"eng"
+	},
+	{"value":"O objetivo foi avaliar a composição química, digestibilidade in vitro, degradabilidade in situ e tempo de colonização de suplementos concentrados com diferentes níveis de inclusão de torta de crambe. Foram avaliados cinco níveis de inclusão de torta de crambe (0%, 2,5%, 5,0%, 10% e 15%) aos suplementos concentrados em substituição ao farelo de soja. A composição química e digestibilidade dos nutrientes foram distribuídas em delineamento inteiramente casualizado com cinco tratamentos e três repetições, e os dados submetidos a teste de regressão. As curvas de degradação dos nutrientes foram obtidas por procedimento regressão não linear. Os teores de proteína bruta (PB), extrato etéreo, nutrientes digestíveis totais, carboidratos totais, matéria mineral e digestibilidade in vitro da matéria seca (MS) não foram influenciados pela inclusão de torta de crambe ao suplemento concentrado. Os teores da fibra em detergente neutro (FDN) e hemicelulose apresentaram comportamento linear decrescente o teor de carboidratos não estruturais apresentou comportamento linear crescente com inclusão da torta de crambe ao suplemento concentrado em substituição ao farelo de soja. A inclusão da torta de crambe ao suplemento concentrado não alterou a degradabilidade efetiva da MS, PB e FDN, que apresentaram valores médios de 51,56%, 61,21% e 39,21%, respectivamente, para a taxa de 5%/h. No entanto, a inclusão de 15% de torta de crambe ao suplemento concentrado apresentou maior degradação potencial da PB e da FDN ao longo dos tempos de incubação ruminal. A inclusão de até 15% da torta de crambe em substituição ao farelo de soja em suplemento concentrado para bovinos altera a composição química, mas não influencia a digestibilidade da matéria seca e a degradabilidade dos nutrientes, tornando uma alternativa viável à nutrição animal.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Plant regeneration and Agrobacterium-mediated transformation of African cowpea [Vigna unguiculata (L.) Walp] genotypes using embryonic axis explants"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591944",
+	"dct:identifier":"US201301591944",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a32.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Raji, Adebola A. J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oriero, Eniyou (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Odeseye, Bola (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Odunlami, Toyin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ingelbrecht, Ivan L. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A rapid and reproducible in vitro plant regeneration procedure was developed for embryonic axis explants of cowpea [Vigna unguiculata (L.) Walp]. Moderate levels of 6-benzylaminopurine (0.5-2 mg l-1) were effective in inducing multiple shoots on decapitated embryonic axes on a Murashige and Skoog medium. Shoots developed in two overlapping, yet distinguishable, phases. First, multiple shoot clusters were induced within 15 days after explant preparation. Then, adventitious shoot buds emerged and continued to proliferate upon further subculturing. Shoots elongated on a medium containing 1.0 mg l-1 zeatin, 0.5 mg l-1 gibberellic acid and 0.1 mg l-1 indole acetic acid. Rooting of shoots was 100% efficient on a hormone-free medium or on a medium with 0.01-0.05 mg l-1 indole acetic acid. Diverse cowpea genotypes of African origin formed multiple shoots using this protocol with an efficiency that ranged from 50 to 95%. The two most responsive genotypes, IT86D-1010 and IT82D-889, yielded on average ten plantlets per explant within 3 months for about 90% of starting explants. Using the kanamycin gene as selectable marker and Agrobacterium tumefaciens as vector, transgenic cowpea shoots expressing an intron-interrupted ß-glucuronidase reporter gene were obtained. PCR and Southern hybridization demonstrated the stable integration of the kanamycin gene in the plant genome, thus showing that this shoot regeneration system is compatible with Agrobacterium-mediated transformation."}
+	}}

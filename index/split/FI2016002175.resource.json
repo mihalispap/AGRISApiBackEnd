@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelling interaction between cauliflower growth and cabbage root fly.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Bligaard, Jens.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"vihannekset"},
+	{"value":"simulointimallit"},
+	{"value":"Brassica oleracea var. botrytis"},
+	{"value":"Delia radicum"},
+	{"value":"tuhohyönteiset"},
+	{"value":"phenology"},
+	{"value":"simulation models"},
+	{"value":"vegetable crops"},
+	{"value":"kasvumallit"},
+	{"value":"pikkukaalikärpänen"},
+	{"value":"kukkakaali"},
+	{"value":"mallit"},
+	{"value":"kasvu"},
+	{"value":"tuhoeläimet"},
+	{"value":"pest insects"},
+	{"value":"Brassica oleracea botrytis"},
+	{"value":"kaalit"},
+	{"value":"growth"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF Seminar
+    (1995 :
+    Lillehammer)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002175",
+	"dct:identifier":"FI2016002175",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

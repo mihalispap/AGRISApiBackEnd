@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:title":{"value":"PRODUÇÃO E QUALIDADE DE INFLORESCÊNCIAS DE COUVE-FLOR EM FUNÇÃO DA DENSIDADE DE PLANTIO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":1,
+	"bibo:volume":1,
+	"bibo:pageEnd":7,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00006",
+	"dct:identifier":"BR2016H00006",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/241",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nozimary Carneiro Ferreira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alexsander Seleguini"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shizuo Seno"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Max José de Araújo Faria Júnior"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A couve-flor é uma das hortaliças mais plantadas em todo o Brasil, sendo uma cultura bastante rentável. A utilização de plantios mais adensados pode incrementar a produtividade da cultura e aumentar o retorno financeiro aos produtores. Assim este ...",
+	"xml:lang":"por"
+	}
+	}}

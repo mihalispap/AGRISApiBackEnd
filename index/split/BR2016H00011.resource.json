@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"DESENVOLVIMENTO E AVALIAÇÃO DE UM PULVERIZADOR HIDRÁULICO DE BARRAS RÍGIDAS HORIZONTAIS DE BAIXO CUSTO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":17,
+	"bibo:volume":2,
+	"bibo:pageEnd":23,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00011",
+	"dct:identifier":"BR2016H00011",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/246",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jorge Alfredo Luiz França"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wagner Santos Gonçalves"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bruno Peres Romeiro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cleiton Gredson Sabin Benett"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anderson Rodrigo da Silva"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Encontram-se no mercado diversos modelos de pulverizador costal manual que nem sempre atendem a necessidade do pequeno produtor, pois o uso destes equipamentos demandam excessivo tempo .. ",
+	"xml:lang":"por"
+	}
+	}}

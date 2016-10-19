@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-31.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Optimizing grape quality through soil management practices"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wheeler, Steve J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pickering, Gary J. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100328",
+	"dct:identifier":"FI2016100328",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This paper reviews how soil properties influence grapevine performance, and how grape quality can be optimized through effective soil management practices. Two soil properties that play a major role in the quality of fruit produced by grapevines are nitrogen and water availability. Soils that confer high nitrogen and water accessibility can promote excessive vigor, resulting in shaded canopies and poor fruit quality. Vineyard soil management techniques can be adopted to reduce soil water and nitrogen levels where these would be considered too high for production of quality grapes. These practices include regulated deficit irrigation, partial root drying, root pruning, carbon-organic matter additions and cover crop competition. The most appropriate option requires careful assessment and is site specific. Although these techniques offer great potential for improving grapevine performance, more research is needed into how nutrient uptake is affected, and on how these practices can be tailored to accommodate site differences."}
+	}}

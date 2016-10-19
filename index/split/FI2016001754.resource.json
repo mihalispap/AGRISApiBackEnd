@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of drought stress and potassium on some of the physiological and morphological traits of sunflower (Helianthus annuus L.) cultivars.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bajehbaj, A. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Qasimov, N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yarnia, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"harvest index"},
+	{"value":"varieties"},
+	{"value":"plant water relations"},
+	{"value":"leaves"},
+	{"value":"drought"},
+	{"value":"drought stress"},
+	{"value":"stomatal resistance"},
+	{"value":"leaf water potential"},
+	{"value":"potassium sulphate"},
+	{"value":"application rates"},
+	{"value":"Helianthus annuus"},
+	{"value":"seeds"},
+	{"value":"chemical composition"},
+	{"value":"leaf area index"},
+	{"value":"potash fertilizers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001754",
+	"dct:identifier":"FI2016001754",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

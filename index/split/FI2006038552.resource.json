@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of agricultural export on food security in Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038552",
+	"dct:identifier":"FI2006038552",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Adenegan, Kemisola Omorinre (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oladele, Oladimeji Idowu (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ekpo, Mabel Nnennaya (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper examined the impact of agricultural export on Nigeria’s food security and also the structural factors influencing the food deficit profile of Nigeria. The data used in this study were obtained from secondary sources. The bulk of the data were collected from available information over the 1970 – 1999 period from various publications, trade figures from the financial and economic reviews, statistical bulletin of the Federal Office of Statistics (FOS) various issues, annual reports and statement of account and monthly report by the Central Bank of Nigeria. (CBN). The methods of data analysis used are: Descriptive Analysis, Multiple Regression Analysis, and Growth Rate Analysis. The result of this study brings into focus the need to increase the total domestic production of food to achieve food security in Nigeria. The household purchasing power will improve if food accessibility and availability is improved. This will reduce drastically the percentage of income spent on food. The overall findings particularly the trend on import and export earnings and the instability of staple food prices suggest that transitory food insecurity is a potential problem in Nigeria."}
+	}}

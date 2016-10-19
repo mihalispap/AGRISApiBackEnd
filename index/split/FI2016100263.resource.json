@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/environment-15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Non-point source pollution of water resources: Problems and perspectives"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Panda, R. K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Behera, S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100263",
+	"dct:identifier":"FI2016100263",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Non- point source water pollution also known as diffused source pollution arises from a broad group of human activities for which the pollutants have no obvious point of entry into receiving water courses. Quantification and control of non-point source (NPS) pollution remain relatively difficult tasks as compared to those of “point” sources of pollution. Despite several decades of research on management practices in agriculture to minimize water pollution, agriculture production remains a major diffuse source of water pollutants and water quality degradation throughout the World. The concern for agricultural diffuse pollution sources in integrated water quality management has therefore grown recently throughout the World. Such sources are more critical in developing countries. Surface and groundwater quality degradation due to agricultural practices can be categorized as follows: a) increased erosion and soil loss due to agricultural practices; b) chemical pollution by fertilizer and pesticides and c) pollution from animal operations. Abatement of agricultural diffuse sources of pollution must be conducted in the context of moving towards sustainable agriculture. The paper enumerates the present status of non point source pollution in a global perspective and suggests possible measures to control that."}
+	}}

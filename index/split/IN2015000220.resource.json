@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Age Specific Life table of Helicoverpa armigera on Cicer arietinum under natural conditions",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":57,
+	"dc:subject":[
+		{"value":"life tables",
+	"xml:lang":"eng"
+	},
+	{"value":"cicer arietinum",
+	"xml:lang":"esp"
+	},
+	{"value":"table de survie",
+	"xml:lang":"fre"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"tablas de mortalidad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":61,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000220",
+	"dct:identifier":"IN2015000220",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Choudhury, Rummana A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rizvi, P.Q."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ali, Arshad"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmad, S. Kamran"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Helicoverpa armigera completed its entire life cycle in 43 days and 47 days in both years of observation. Intermittent pauses in the age specific survivorship (lx) were also observed in both the generations years. Nevertheless, life -expectancy showed a slow and steady decline from day one till the culmination of the generations. The females of H. armigera deposited their eggs within 9 days in 1st year and within 11 days in next year. Higher carrying capacity of 88.52 was witnessed in previous year as compared to 80.60 in succeeding generation. The potential fecundity was 363.99 eggs/female in 1st generation which was of low order as against 388.90 eggs/female in 2nd year. The accurate intrinsic rate of increase was of higher magnitude (0.1130 females/female/day) in 1st generation than that of (0.1064 females/female/day) 2nd year. Further, the finite and intrinsic rate of increase of population (1.1197, 0.1125 females/female/day and 8.26 x 1017/annum, respectively) were also found of high order in the 1st generation. The corresponding values for 2nd generations were witnessed as 1.1122, 0.1059 females/female/day and 7.30 x 1016/annum, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Rationale behind the use of insecticide mixtures for the management of insecticide resistance in India"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029295",
+	"dct:identifier":"FI2007029295",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a22.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Regupathy, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramasubramanian, T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ayyasamy, R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The development of resistance has limited the application of single insecticides and resort to tank mixtures. Mixing of two or more insecticides is very common among the Indian farmers though not recommended. Pest populations to be controlled should be susceptible or have low levels of resistance to each insecticide used in the mixture. In India more than 85% of the combination products have synthetic pyrethroids as one of the components, to which the cotton bollworm (Helicoverpa armigera) has developed very high level of resistance. Hence, sustaining the efficacy of the combination products is questionable in the near future. Combination products if permitted will be used as a matter of routine and there may be development of multiple resistant individuals. If there is any need arises, then mixtures can be considered for one time remedy. Testing of the combination products can be taken for generating data and may be recommended in India after evaluating the development of resistance. Scope and considerations for proper use of insecticide mixtures with special reference to insecticide resistance management in India have been discussed in this review."}
+	}}

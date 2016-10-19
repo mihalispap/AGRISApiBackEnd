@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Haemato-biochemical parameters of Burmese pig of subtropical hill agro ecosystem",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":819,
+	"dc:subject":[
+		{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"subtropical zones",
+	"xml:lang":"eng"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"zone subtropicale",
+	"xml:lang":"fre"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"zona subtropical",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":821,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000154",
+	"dct:identifier":"IN2015000154",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"aug2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sarma, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Konwar, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ali, A"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kalita, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmed, F.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aikia, B.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bayan, H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nayan, V."
+	}
+	}
+	],
+	"bibo:issue":8,
+	"bibo:abstract":{"value":"Normal Burmes pigs (100) were selected for haemato-biochemical studies. The mean values for different hematological parameters, viz. packed cell volume (PCV), total erythrocyte count (TEC), total leukocyte count (TLC) and hemoglobin (Hb) were studied. The MCV (fl), MCH (pg) and MCHC (g/dl) ranged from 56.06Â±1.00 to 60.35Â±0.51, 14.70Â±0.19 to 16.56Â±0.52 and 31.15Â±0.70 to 35.05Â±0.60 respectively. The neutrophil (%), lymphocytes (%), monocytes (%), basophil (%) and eosinophil (%) ranged from 28.92 to 58.36, 28.60 to 59.24, 8.48 to 12.88, 1.44 to 1.60 and 1.48 to1.92 respectively. The Hb, TEC, PCV, TLC, MCHC increased with the age of the pigs. The mean serum glucose (mg/dl) level ranged from 155.10Â±6.07 to 214.27. The values obtained for serum cholesterol (mg/dl), serum albumin (g/dl), serum total protein (g/ dl), serum urea nitrogen (mg/dl) and serum bilirubin (mg/dl) ranged between 109.68 to 114.72, 3.05 to 3.46, 6.36 to 7.01 and 23.37 to 26.96 and 0.06 to 0.102 respectively. The mean values of serum transaminases, viz. AST and ALT increased with increase in age.",
+	"xml:lang":"eng"
+	}
+	}}

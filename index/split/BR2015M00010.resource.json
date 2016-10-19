@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2014,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Uma breve reflexão sobre as dificuldades vivenciadas por professores do ensino de ciências naturais",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Michel Pereira de Lima Hamura "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Indrid Hayumi Pereira de Lima Hamura "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00010",
+	"dct:identifier":"BR2015M00010",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O ensino de ciências naturais está sempre em constante mudança, cada vez mais exige-se novas estratégias e adaptações de seus docentes sem investimentos adequados ou uma devida analise das realidades institucionais para compreender se estas mudanças são mesmo possíveis em vista das dificuldades apresentadas por cada um, o investimento em projetos tecnológicos é evidente, entretanto a introdução excessiva de tecnologia nas aulas de ciências é errado, pois acabará tirando a atenção dos alunos pelos recursos que a mesma apresenta. Portanto, o presente trabalho teve como objetivo investigar as metodologias utilizadas em sala de aula durante o ensino de ciências naturais, para analisar se os alunos estão tendo boa adaptação a estas constantes mudanças de estratégias, através de questionários aplicados nas turmas de 5º, 6º, 7º ano e 8ª série de uma escola pública no município de Tuparetama-PE. Analisando os resultados percebeu-se uma certa carência em aulas de campo e que há uma tradição no uso frequente da leitura sem a apresentação de novidades, concluindo-se então que o professor deve adotar novas estratégias investigativas, onde utilize mais métodos experimentais, pois a leitura excessiva pode acabar contribuindo para a falta de atenção dos alunos 21",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

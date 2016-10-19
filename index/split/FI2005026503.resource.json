@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A method of making digital fruit color charts for cultivation management and quality control"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026503",
+	"dct:identifier":"FI2005026503",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a15.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Motonaga, Yoshitaka (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kondou, Hiroya (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hashimoto, Atsushi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kameoka, Takaharu (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Current color charts in agriculture are an important tool for cultivation management and quality control. They lack good color reproducibility, because they are made by color mixing by a skillful craftsman. In this study, a method of making a color chart with shape and color analysis was developed using digital color image processing. The grape variety Aki Queen was selected as the experimental material. First of all, images of individual grapes were obtained under standard illumination using a digital camera. Outlines of the grapes were extracted from the acquired images. A standard grape berry shape was determined by averaging the outlines using the r-Θ-φ coordinate system. Color analysis under the HSL (hue, saturation, lightness) color system revealed that the average value of H was an indicator of maturity and the S value was strongly influenced by the bloom adhering to the berry surface. In light of these results, color-matching techniques were used to create digital color charts depicting a synthesized, standard-shaped grape at varying degrees of maturity. The color charts resulting from this study faithfully express the berry surface information which is omitted from conventional charts. The method developed in this study could be applied in other agricultural situations where estimates of color and shape are required."}
+	}}

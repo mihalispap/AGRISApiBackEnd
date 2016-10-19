@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/environment-11.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Adoption rate and continued use of selected arable crop technologies among farmers in Oyo State Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Oladele, O. I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kareem, A. I. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100500",
+	"dct:identifier":"FI2016100500",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Adoption and continued use of any new technology is a dynamic process which will change over time and may be influenced by a wide range of factors such as changes in funding, administration, linkage system and delivery system will reflect in the sustained use of technologies. A multi-stage random sampling process was used to select one hundred and eighty farmers representing ten percent of the farmers. 72.2% were high adopters while the remaining 27.8% were in the low adopter category. For maize and cassava, fertilizer use and fertilizer application have the least adoption rate 75.6% and 30.6% respectively. For cowpea planting distance, storage practices, seed dressing, and spraying and for yam the use of improved varieties, seed/sett dressing had the lowest adoption rate. In the total continued use of the technologies tested about 16 percent have a score 1- 24 and they are regarded as low continued users. 34.3% of the respondents still using 25-36 of the adopted technologies they classified as medium continued user. High continued user are those farmers that are still using 37-48 (49.4%) of the tested technologies."}
+	}}

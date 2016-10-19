@@ -1,0 +1,44 @@
+{
+			"contributors": null,
+			"text": "RT @EGrettou: Όχι μωρό μου δεν θέλω σοκολάτα με στέβια,αρκετά προβλήματα έχω..., ζήτω η ελληνική στέβια είναι γαμάτη",
+			"@timestamp": "2016-09-23T18:12:26.435Z",
+			"entities_trends": [],
+			"in_reply_to_status_id": null,
+			"entities_urls": [],
+			"id": 706879573380747300,
+			"favorite_count": 0,
+			"user_id": 310241015,
+			"retweeted": false,
+			"coordinates": null,
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_screen_name": null,
+			"entities_media": [],
+			"entities_hashtags": [],
+			"retweet_count": 56,
+			"in_reply_to_user_id": null,
+			"favorited": false,
+			"entities_user_mentions": [
+			  {
+				"indices": [
+				  3,
+				  12
+				],
+				"screen_name": "EGrettou",
+				"id": 2154405297,
+				"name": "Elena Gret",
+				"id_str": "2154405297"
+			  }
+			],
+			"geo": null,
+			"possibly_sensitive": null,
+			"lang": "el",
+			"created_at": "Mon Mar 07 16:29:58 +0000 2016",
+			"entities_symbols": [],
+			"filter_level": null,
+			"place": null,
+			"extended_entities": [],
+			"@version": "1",
+			"host": "palomar",
+			"path": "/data/twitter/dpappas_downloads/xaj",
+			"type": "tweets"
+		}

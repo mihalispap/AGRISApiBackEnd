@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Hafnia alvei -bakteerin aiheuttama septikemia mehiläisissä /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kauko, Lassi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Glinski, Zdzislaw.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"apis mellifera"},
+	{"value":"bakteerit"},
+	{"value":"mehiläistaudit"},
+	{"value":"Hafnia alvei"},
+	{"value":"bakteeritaudit"},
+	{"value":"taudinaiheuttajat"},
+	{"value":"hafnia"},
+	{"value":"nosema apis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000017",
+	"dct:identifier":"FI2016000017",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,25 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Antimicrobial activity of selected Jordanian medicinal plant extracts against pathogenic microorganisms.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Dababneh, Basem F.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"plant extracts"},
+	{"value":"Jordan"},
+	{"value":"drug plants"},
+	{"value":"nonwood forest products"},
+	{"value":"antimicrobial properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001467",
+	"dct:identifier":"FI2016001467",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

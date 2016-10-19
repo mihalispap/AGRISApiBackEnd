@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Distribution, characteristics and potential of biomass-dense thinning forests in Sweden.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"thinning"},
+	{"value":"biomass"},
+	{"value":"harvesting date"},
+	{"value":"early thinning"},
+	{"value":"geographical information systems"},
+	{"value":"biofuels"},
+	{"value":"fuelwood"},
+	{"value":"biomass potential"},
+	{"value":"biomaterial"},
+	{"value":"GIS"},
+	{"value":"wood fuel"},
+	{"value":"bioenergy"},
+	{"value":"small-tree harvesting"}
+	],
+	"bibo:doi":"10.14214/sf.1377",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002167",
+	"dct:identifier":"FI2016002167",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1377",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fernandez-Lacruz, Raul,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Di Fulvio, Fulvio,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Athanassiadis, Dimitris,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergström, Dan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nordfjell, Tomas,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-16.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on the microbial population of bread baked with wheat flour from south western Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ogundare, A. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adetuyi, F. C. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100017",
+	"dct:identifier":"FI2016100017",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Bread was baked from wheat flour samples purchased from two market locations in Ibadan and Ile-Ife, Nigeria respectively. The bread samples were screened for microbial population with a view to determining the presence of any microorganisms persisting or surviving from flour stage through the baking process into the resulting bread. Freshly baked bread, after ten minutes contained bacterial strains, which include Bacillus cereus, Staphylococcus xylosus and Staphylococcus sp. In addition to bacterial strains obtained after 10 minutes, was Staphylococcus cohnii, recovered after 48 hours, and after 96 hours, the bacterial strains included Bacillus firmus. These are all the bacterial strains isolated from bread with a period of 144 h. The mould isolates included five strains after 10mins, which were Absidia corymbifera, Penicillium frequentans westing, Aspergillus flavus, Aspergillus niger and Penicillium citrinum. The population of these only increased with period of storage. The yeast isolates after 10 mins and throughout the period of storage (144 h) included Zygosaccharomyces bailli and Saccharomyces cerevisiae. Most of the moulds recovered in this work have been reported to produce toxins, however, this work did not include tests for the presence of any mycotoxin."}
+	}}

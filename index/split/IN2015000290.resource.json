@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Synergistic effects of insulin-like growth factor ii (IGF-II) and leutinizing hormone (LH) on steroid hormone secretion by cultured bovine granulosa cells",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1116,
+	"dc:subject":[
+		{"value":"granulosa cells",
+	"xml:lang":"eng"
+	},
+	{"value":"synergism",
+	"xml:lang":"eng"
+	},
+	{"value":"cellule de la granulosa",
+	"xml:lang":"fre"
+	},
+	{"value":"sinergismo",
+	"xml:lang":"esp"
+	},
+	{"value":"endocrinology",
+	"xml:lang":"eng"
+	},
+	{"value":"endocrinologie",
+	"xml:lang":"fre"
+	},
+	{"value":"celulas de la granulosa",
+	"xml:lang":"esp"
+	},
+	{"value":"lh",
+	"xml:lang":"esp"
+	},
+	{"value":"synergisme",
+	"xml:lang":"fre"
+	},
+	{"value":"endocrinologia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1120,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000290",
+	"dct:identifier":"IN2015000290",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Smith, O.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ogunsola, A.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ladokun, A.O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ajadi, R. A."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"The synergistic effects of insulin-like growth factor II (IGF-II) and leutinizing hormone (LH) and the effect of IGF- II alone on production of progesterone (P 4 ) and estradiol (E ) by bovine granulosa cells (GC) cultured in vitro were determined in this study. Bovine granulosa cells obtained from ovaries of slaughtered cows were cultured for 4 days in carbon (IV) dioxide (CO 2 ) incubator at 37Â°C, 5% CO 2  2 in atmospheric air and 100% relative humidity, using tissue culture medium199 (TCM 199) as culture medium. The medium was changed on the second day and testosterone added to serve as substrate for estadiol production. Insulin growth factor II (IGF-II) alone, or IGF-II + LH were added into the culture medium at 0, 0.1, 1.0, 10, 50, and 100 (ng/ml) levels of inclusion. Concentrations of progesterone and estradiol 17Ã¢ produced were measured by radioimmunoassay. The results obtained showed that IGF-II alone and IGF-II + LH had significant effects on progesterone and estradiol produced by cultured granulosa cells. The result also revealed higher values of progesterone (4.78 ng/ml) and estradiol 17Ã¢ (9.68 pg/ml) when IGF-II (10 ng/ml) and LH (50 ng/ml) were included together in the culture medium as compared with progesterone value (1.84 ng/ml) and estradiol 17Ã¢ value (3.57 pg/ml) when IGF-II alone was included in TCM-199. From the result obtained, it can be concluded that IGF-II (10 ng/ml) + LH (50ng/ml) could be added to TCM-199 to give better synergistic effects on bovine granulosa progesterone and estradiol production as compared to addition of IGF-II (50ng/ml) alone. Key words: Bovine granulosa cells, IGF-II, LH The growth, differentiation, and steroidogenic capabilities of granulosa cells have most often been examined by culturing the cells in the presence of hormones and growth factors (Thomas et al. 2003, Sutton et al. 2003, Spicer et al. 2004, Park et al. 2004, Qadeer 2006). The interaction between gonadotropins and IGF-II on granulosa cell stereiodogenesis have been studied to some extent in bovine theca cells (Spicer and Echternkamp 1995, Spicer et al. 2002, 2004) and in rats (Hsueh et al. 1984, Adashi et al. 1990, Adashi 1995). Also, the pioneering experiments of Falck (1959) demonstrated that both theca and granulosa cells are essential for follicular estradiol secretion, and the classic studies of Greep (1942), Fevold (1941) and Lostroh and Johnson (1966) indicated that both LH and FSH are required for follicular growth and development. Theca cells secrete androgen and its production is stimulated by LH (Fortune and Armstrong 1977), but they appear to possess little or no ability to aromatize the androgen to estradiol (Fortune and Armstrong 1978). In contrast, Present address:  1,2,3 Department of Animal Physiology (e-mail : smithof@live.com),  4 Department of Veterinary Surgery, University of Agriculture, Abeokuta, Nigeria 1 4 granulosa cells can convert exogenous androgen to es",
+	"xml:lang":"eng"
+	}
+	}}

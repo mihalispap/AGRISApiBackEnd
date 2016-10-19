@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Transport of atrazine through soil columns with of without switchgrass roots /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tsegaye, Teferi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Johnson, Alton.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mersie, Wondi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dennis, Samuel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Golson, Karnita.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Panicum virgatum"},
+	{"value":"transport"},
+	{"value":"atrazine"},
+	{"value":"pollutants"},
+	{"value":"soil pollution"},
+	{"value":"roots"},
+	{"value":"soil pore system"},
+	{"value":"plants"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000770",
+	"dct:identifier":"FI2016000770",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

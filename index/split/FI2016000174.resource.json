@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Ripening of olives var. Correggiolo : modification of oxidative stability of oils during fruit ripening and oil storage.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rotondi, Annalisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Magli, Massimiliano.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"postharvest physiology"},
+	{"value":"Olea europaea"},
+	{"value":"oliivit"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"harvesting date"},
+	{"value":"keeping quality"},
+	{"value":"Italy"},
+	{"value":"korjuuajankohta"},
+	{"value":"antioxidants"},
+	{"value":"chemicophysical properties"},
+	{"value":"kypsyminen"},
+	{"value":"antioksidantit"},
+	{"value":"olives"},
+	{"value":"oliiviöljy"},
+	{"value":"aromatic  compounds"},
+	{"value":"hapettuminen"},
+	{"value":"ripening"},
+	{"value":"oxidation"},
+	{"value":"varastointi"},
+	{"value":"pienilmasto"},
+	{"value":"olive oil"},
+	{"value":"haihtuvat öljyt"},
+	{"value":"säilyvyys"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000174",
+	"dct:identifier":"FI2016000174",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

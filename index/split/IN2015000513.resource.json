@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Foraging ecology of insect pollinators in Safflower (Carthamus tinctorius L.) ecosystem",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":313,
+	"dc:subject":[
+		{"value":"foraging",
+	"xml:lang":"eng"
+	},
+	{"value":"carthamus tinctorius",
+	"xml:lang":"esp"
+	},
+	{"value":"recherche de nourriture",
+	"xml:lang":"fre"
+	},
+	{"value":"busqueda de alimento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":316,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000513",
+	"dct:identifier":"IN2015000513",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Navatha, L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sreedevi, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naidu, M.V.S."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The abundant insect pollinators viz., Trigona sp., Camponotus compressus and Halictus sp. were monitored for their foraging behaviour in safflower ecosystem. The initiation of foraging activity of C. compressus was earlier (06.00 hrs) as compared to Trigona sp. and Halictus sp. (08.00 hrs). The peak activity of all the three floral visitors was recorded at 10.00 hrs. and the cessation of activity was recorded between 16.00 hrs and 18.00 hrs. Trigona sp. visited maximum number of heads followed by Halictus sp. and C. compressus. The foraging speed of Halictus was higher than Trigona and C. compressus.",
+	"xml:lang":"eng"
+	}
+	}}

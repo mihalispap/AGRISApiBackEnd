@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Weed occurrence in Finnish coastal regions : a survey of organically cropped spring cereals.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Riesinger, Paul.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyvönen, Terho.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"coastal area"},
+	{"value":"flora"},
+	{"value":"Finland"},
+	{"value":"cereals"},
+	{"value":"kasvinviljely"},
+	{"value":"viljakasvit"},
+	{"value":"kevätviljat"},
+	{"value":"rannikkoalueet"},
+	{"value":"organic agriculture"},
+	{"value":"plant population"},
+	{"value":"luonnonmukainen maataloustuotanto"},
+	{"value":"rikkakasvit"},
+	{"value":"kasvisto"},
+	{"value":"weeds"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000941",
+	"dct:identifier":"FI2016000941",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

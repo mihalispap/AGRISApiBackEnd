@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Protected Fat Supplementation to High Yielding Dairy Cows in Field Condition",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":125,
+	"dc:subject":[
+		{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"dairy cows",
+	"xml:lang":"eng"
+	},
+	{"value":"rendimiento lechero",
+	"xml:lang":"esp"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"vacas lecheras",
+	"xml:lang":"esp"
+	},
+	{"value":"rendement laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"grasas",
+	"xml:lang":"esp"
+	},
+	{"value":"corps gras",
+	"xml:lang":"fre"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"vache laitiere",
+	"xml:lang":"fre"
+	},
+	{"value":"fats",
+	"xml:lang":"eng"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":130,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000350",
+	"dct:identifier":"IN2015000350",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gowda, N.K.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manegar, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raghavendra, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Verma, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maya, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pal, D.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suresh, K.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sampath, K.T."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Twelve numbers of high yielding crossbred (Holstein Frisian) dairy cows in their 2â5th lactation maintained by farmers were selected based on their previous lactation yield to study the effect of protected fat supplementation on milk yield, milk composition and reproductive efficiency. Soon after calving, the first group of cows were maintained on the existing feeding schedule practiced by the farmers (G I) and second group of cows were supplemented with protected fat (10g/lit milk) in addition to the existing feeding schedule for 195 days duration (G II). The protected fat contained 9â12% ether extract and 1012% calcium. The average milk yield was significantly (P0.01) higher with large effect size (Av. 19.1 vs 17.8 lit/cow/day) in cows supplemented with protected fat. The body weight loss was less in cows fed protected fat with a moderate effect size and the regain of body weight was much quicker as compared to cows maintained on existing farmer's feeding schedule. The reproductive performance was also significantly (P0.05) better with large effect size in cows fed protected fat. Feeding of protected fat resulted in a net profit of Rs. 11.6 per cow per day due to higher milk production. It is concluded that protected fat supplementation to cows maintained on exiting feeding practices at field condition improved the milk production and reproductive efficiency in dairy cattle.",
+	"xml:lang":"eng"
+	}
+	}}

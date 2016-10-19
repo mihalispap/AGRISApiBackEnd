@@ -1,0 +1,98 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of seabuckthorn (Hipphophae L.) Leaf extract and seed oil on infected cutaneous wound healing process in rabbit model",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":58,
+	"dc:subject":[
+		{"value":"plaie",
+	"xml:lang":"fre"
+	},
+	{"value":"curacion",
+	"xml:lang":"esp"
+	},
+	{"value":"lapin (oryctolagus)",
+	"xml:lang":"fre"
+	},
+	{"value":"wounds",
+	"xml:lang":"eng"
+	},
+	{"value":"healing",
+	"xml:lang":"eng"
+	},
+	{"value":"conejo (oryctolagus)",
+	"xml:lang":"esp"
+	},
+	{"value":"heridas",
+	"xml:lang":"esp"
+	},
+	{"value":"hojas",
+	"xml:lang":"esp"
+	},
+	{"value":"feuille",
+	"xml:lang":"fre"
+	},
+	{"value":"plant extracts",
+	"xml:lang":"eng"
+	},
+	{"value":"guerison",
+	"xml:lang":"fre"
+	},
+	{"value":"extractos vegetales",
+	"xml:lang":"esp"
+	},
+	{"value":"rabbits",
+	"xml:lang":"eng"
+	},
+	{"value":"leaves",
+	"xml:lang":"eng"
+	},
+	{"value":"extrait d'origine vegetale",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":60,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000462",
+	"dct:identifier":"IN2015000462",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Harshit Verma"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chahota, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Palial, Akanksha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patil, R.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Arvind"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kuradey, N.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, M."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"In-vivo (wound healing) activity of methanolic extract of SBT leaves and seed oil was studied by excisional-cutaneous wound model in 12 rabbits which were divided into 4 groups. Group 1 was dressed with base, group 2 was dressed with 5% SBT leaf extract, group 3 was dressed with seed oil and group 4 was dressed with 5% povidone iodine. The effect of topical application was judged by clinical observations, haematological parameters and % wound contraction. Thesefindings were also confirmed by histopathological examination. Results from these findings suggested that SBT leaf extract and seed oil may be used as natural antimicrobial agents and significantly enhanced wound contraction in rabbits.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Forestry and tree information gaps at national level.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Saket, Mohamed.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"national forest inventory"},
+	{"value":"forest inventories"},
+	{"value":"metsänarviointi"},
+	{"value":"forest mensuration"},
+	{"value":"metsäninventointi"},
+	{"value":"valtakunnan metsien inventointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000395",
+	"dct:identifier":"FI2016000395",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

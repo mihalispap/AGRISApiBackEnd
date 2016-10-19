@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysis of pumpkin (Telferia occidentalis) production : the basis for poverty eradication in the humid tropical zone of Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Abang, S. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Idiong, I. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akpan, O. E.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tuotto"},
+	{"value":"tuotantokustannukset"},
+	{"value":"pumpkins"},
+	{"value":"kasvintuotanto"},
+	{"value":"kurpitsa"},
+	{"value":"Niger"},
+	{"value":"plant production"},
+	{"value":"kannattavuus"},
+	{"value":"trooppiset alueet"},
+	{"value":"humid tropics"},
+	{"value":"gross margins"},
+	{"value":"production costs"},
+	{"value":"profitability"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001707",
+	"dct:identifier":"FI2016001707",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

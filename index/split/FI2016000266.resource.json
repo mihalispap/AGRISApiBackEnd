@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Ethnicity and the utilization of non-wood forest products : findings from three Philippine villages.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Lacuna-Richman, Celeste.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"metsäntuotteet"},
+	{"value":"Philippines"},
+	{"value":"ethnic groups"},
+	{"value":"markets"},
+	{"value":"etniset ryhmät"},
+	{"value":"nonwood-tuotteet"},
+	{"value":"toimeentulo"},
+	{"value":"keräilytuotteet"},
+	{"value":"nonwood forest products"},
+	{"value":"Asia"},
+	{"value":"alkuperäiskansat"},
+	{"value":"markkinat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000266",
+	"dct:identifier":"FI2016000266",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

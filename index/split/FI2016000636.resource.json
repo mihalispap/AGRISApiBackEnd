@@ -1,0 +1,25 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Afforestation of first rotation sites : pre-IUFRO XX world congress meeting.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Mattsson, Anders.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"regeneration"},
+	{"value":"afforestation"},
+	{"value":"metsitys"},
+	{"value":"kokoukset"},
+	{"value":"metsänuudistus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000636",
+	"dct:identifier":"FI2016000636",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

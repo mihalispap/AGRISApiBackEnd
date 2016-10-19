@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Boreal carabid beetles (Coleoptera, Carabidae) in managed spruce forests : a summary of Finnish case studies /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Koivula, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemelä, Jari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maakiitäjäiset"},
+	{"value":"kuusi"},
+	{"value":"Carabidae"},
+	{"value":"Coleoptera"},
+	{"value":"hakkuu"},
+	{"value":"Finland"},
+	{"value":"logging"},
+	{"value":"Picea abies"},
+	{"value":"kovakuoriaiset"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001500",
+	"dct:identifier":"FI2016001500",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

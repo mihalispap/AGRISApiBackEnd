@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Annual and seasonal changes in mineral contents (Ca, Mg, P, K and Na) of grazed clover-grass mixtures in organic farming.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kuusela, Eeva.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"calcium"},
+	{"value":"dairy cows"},
+	{"value":"magnesium"},
+	{"value":"Finland"},
+	{"value":"rehut"},
+	{"value":"apilat"},
+	{"value":"lypsykarja"},
+	{"value":"pastures"},
+	{"value":"phosphorus"},
+	{"value":"laatu"},
+	{"value":"sodium"},
+	{"value":"clover"},
+	{"value":"laidunrehu"},
+	{"value":"green feed"},
+	{"value":"Trifolium repens"},
+	{"value":"mineral content"},
+	{"value":"Trifolium pratense"},
+	{"value":"organic agriculture"},
+	{"value":"luonnonmukainen maataloustuotanto"},
+	{"value":"potassium"},
+	{"value":"mineraalit"},
+	{"value":"Trifolium hybridum"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001906",
+	"dct:identifier":"FI2016001906",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

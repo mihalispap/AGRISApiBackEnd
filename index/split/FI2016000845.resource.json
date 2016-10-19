@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Displacement fields of wood in tension based on image processing.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Samarasinghe, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kulasiri, G. D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"puuaine"},
+	{"value":"wood"},
+	{"value":"mallit"},
+	{"value":"murtumat"},
+	{"value":"wood anatomy"},
+	{"value":"digitaalinen kuvankäsittely"},
+	{"value":"wood properties"},
+	{"value":"image analysis"},
+	{"value":"korrelaatio"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000845",
+	"dct:identifier":"FI2016000845",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

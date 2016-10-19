@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e8.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Rainfall network optimization in Jordan as an example of Mediterranean Sea region"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ta’any, Rakad Ayed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al Zu’bi, Yasin (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100120",
+	"dct:identifier":"FI2016100120",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Topographical configuration affects rainfall distribution pattern immensely, requiring more network density than flat desert. In Jordan, rainfall network comprises more than 250 stations over an area of about 90,000 km2. Procedure applied in redesigning of optimum network is based on 20, 40, 60, 80, 100, 120 and 140 stations. Volumes of rainfall over Jordan are assessed after isohyetal lines were drawn in each case. Variations were decreased with the rise in number of stations and showed no appreciable difference between the last two maps. This study classified Jordan to four climatological areas: low land (below sea level) with rainfall between 50 and 400 mm, western escarpment slope with rainfall between 100 and 600 mm, eastern escarpment slope with rainfall between 100 and 150 mm and flat desert (rain shadow) with rainfall between 20 and 150 mm."}
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Water stress, antioxidant enzyme activity and lipid peroxidation in wheat seedling"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2008320745",
+	"dct:identifier":"FI2008320745",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Esfandiari, Ezzat-Ollah (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shakiba, Mohammad Reza (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahboob, Soltan Ali (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alyari, Hoshang (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toorchi, Mahmood (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In arid and semi arid zones, soil moisture deficit as a major adverse factor can lower leaf water potential, leading to reduced turgor and some other responses, and ultimately lower crop productivity. Wheat is one of the main crops which has occupied the large area in west and north-west of Iran, where water deficit is the most limiting factor. Plant water deficit tolerance requires the activation of complex metabolic including antioxidative pathways, especially reactive oxygen species (ROS) scavenging systems within the cells which can contribute to continued growth under water stress. In the work reported in this paper the seeds of three wheat cultivars (Azar2, Sabalan and Sardari) were grown hydroponically. Seedlings were subjected to Hoagland’s solution as control and PEG 8000 (4, 8 and 12 bars) for 10 days. ROS scavenging enzymes including superoxide dismutase (SOD), ascorbate peroxidase (APX), catalase (CAT) and glutathione reductase (GR) showed different activities in different stress levels. Moreover, with increasing stress levels, membrane damage (lipid peroxidation) increased. Results indicate also that high activity of SOD, CAT and APX decreases malondialdehyde (MDA) levels in three wheat cultivars at different water potential levels. Our results showed that GR activity was not a limiting factor for ROS scavenging system."}
+	}}

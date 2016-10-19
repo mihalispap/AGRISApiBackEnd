@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Antioxidant properties and antioxidant components of extracts from mushroom Ganoderma sinensis.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zeng, Rong-Yao.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Luo, Xia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wei, Wei.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yu, MengYao.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    He, RuiTao.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, XiaoPing.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zheng, LinYong.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Ganoderma sinensis"},
+	{"value":"antioxidants"},
+	{"value":"ascorbic acid"},
+	{"value":"Ganoderma"},
+	{"value":"health foods"},
+	{"value":"free radicals"},
+	{"value":"medicinal properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001505",
+	"dct:identifier":"FI2016001505",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

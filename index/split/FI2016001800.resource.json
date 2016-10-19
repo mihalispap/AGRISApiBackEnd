@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biology of two parasitoids of leafminers Liriomyza spp., Diglyphus isaea and D. poppoea, in southern Portugal.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gonçalves, M. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Almeida, L.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"miinaajakärpäset"},
+	{"value":"Agromyzidae"},
+	{"value":"parasites"},
+	{"value":"Liriomyza  trifolii"},
+	{"value":"loiset"},
+	{"value":"pests of plants"},
+	{"value":"Diglyphus isaea"},
+	{"value":"Diglyphus poppoea"},
+	{"value":"tuhohyönteiset"},
+	{"value":"pest insects"},
+	{"value":"Liriomyza huidobrensis"},
+	{"value":"luontaiset viholliset"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001800",
+	"dct:identifier":"FI2016001800",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

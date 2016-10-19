@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of annually repeated undersowing on cereal grain yields.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Känkänen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eriksson, Christian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Räkköläinen, Mauri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vuorinen, Martti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Finland"},
+	{"value":"apilat"},
+	{"value":"viljanviljely"},
+	{"value":"viljavuus"},
+	{"value":"crop yield"},
+	{"value":"clover"},
+	{"value":"heinäkasvit"},
+	{"value":"viljakasvit"},
+	{"value":"nitrogen"},
+	{"value":"grasses"},
+	{"value":"sato"},
+	{"value":"maaperä"},
+	{"value":"aluskasvit"},
+	{"value":"cover plants"},
+	{"value":"typpi"},
+	{"value":"cereal crops"},
+	{"value":"intercropping"},
+	{"value":"leaching"},
+	{"value":"huuhtoutuminen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000119",
+	"dct:identifier":"FI2016000119",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

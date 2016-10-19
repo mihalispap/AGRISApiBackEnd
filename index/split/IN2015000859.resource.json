@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Neera tapping for making coconut the most profitable horticultural crop for future",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":6,
+	"dc:subject":[
+		{"value":"NATURAL JUICE"},
+	{"value":"NEERA"},
+	{"value":"resinacion",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"tapping",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"horticulture",
+	"xml:lang":"fre"
+	},
+	{"value":"saignee",
+	"xml:lang":"fre"
+	},
+	{"value":"horticultura",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":8,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000859",
+	"dct:identifier":"IN2015000859",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Jnanadevan, R.(Deputy Director)"
+	}
+	},
+	"bibo:issue":8
+	}}

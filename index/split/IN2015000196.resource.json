@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biometry of female genitalia and in vitro tubal patency tests in local sheep of Kashmir valley",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":170,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"jammu and kashmir",
+	"xml:lang":"eng"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"biometry",
+	"xml:lang":"eng"
+	},
+	{"value":"jammu y kashmir",
+	"xml:lang":"esp"
+	},
+	{"value":"jammu et cachemire",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"biometria",
+	"xml:lang":"esp"
+	},
+	{"value":"reproduccion",
+	"xml:lang":"esp"
+	},
+	{"value":"reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"biometrie",
+	"xml:lang":"fre"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":173,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000196",
+	"dct:identifier":"IN2015000196",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bhat, F.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhattacharyya, H.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, M.Z."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Sixty-six non-gravid female genitalia of local sheep of Kashmir valley were collected from the abattoir immediately after slaughter to study the biometry of different parts of genitalia and tubal patency. The left ovary measured slightly larger than right ovary. The measurements of other parts of genitalia were more or less similar to the measurements recorded in other breeds of sheep of India. Normal patency of the fallopian tube was recorded in 77.42% cases and rest of the cases with either unilateral (16.13%) or bilateral (6.45%) blockade.",
+	"xml:lang":"eng"
+	}
+	}}

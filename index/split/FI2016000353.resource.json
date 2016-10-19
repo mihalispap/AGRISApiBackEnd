@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modeling relative wind speed by optical stratification porosity within the canopy of a coastal protective forest at different stem densities /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zhu, Jiao-jun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gonda, Yutaka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Matsusaki, Takeshi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yamamoto, Masashi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"protective forests"},
+	{"value":"windbreaks"},
+	{"value":"wind protection"},
+	{"value":"tuuli"},
+	{"value":"havupuut"},
+	{"value":"rannikkoalueet"},
+	{"value":"Pinus thunbergii"},
+	{"value":"harvennushakkuu"},
+	{"value":"coasts"},
+	{"value":"nopeus"},
+	{"value":"suojametsät"},
+	{"value":"huokoisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000353",
+	"dct:identifier":"FI2016000353",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

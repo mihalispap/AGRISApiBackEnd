@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Old-forest species : the importance of specific substrata vs. stand continuity in the case of calicioid fungi.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lõhmus, Asko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lõhmus, Piret.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"limiting factor"},
+	{"value":"forest management"},
+	{"value":"nature conservation"},
+	{"value":"continuity"},
+	{"value":"habitats"},
+	{"value":"structural diversity"},
+	{"value":"Lichenes"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000466",
+	"dct:identifier":"FI2016000466",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

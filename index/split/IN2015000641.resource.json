@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A different approach to soil analysis: Indicative studies",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":219,
+	"dc:subject":[
+		{"value":"Ammonium acetate extract,DTPA extract, soil enzymes,soil solution equivalent(SSE) medium"},
+	{"value":"analisis del suelo",
+	"xml:lang":"esp"
+	},
+	{"value":"ph",
+	"xml:lang":"esp"
+	},
+	{"value":"analyse de sol",
+	"xml:lang":"fre"
+	},
+	{"value":"soil analysis",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":226,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000641",
+	"dct:identifier":"IN2015000641",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Muraleedharan, K.K"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Verma, D.P"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ujwala Ranade-Malvi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nandini, G.M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, G.J"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shruthi, M.S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Smitha, R"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sowmya, R"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Soil analysis is a tool that has been employed with the primary goal of providing recommendations for soil rectification,crop productivity and for soil health management. Time tested methods like ammonium acetate extraction and diethylene triamine penta acetic acid (DTPA) are commonly used for analysis of bioavailable nutrients. However, there are some limitations to these methods as both extraction fluids are buffered to neutral or near-neutral pH. Hence extracted nutrients represent a potential or ideal-case fertility status of soil instead of an actual field status. In the Regular methods,we are overlooking the role of pH, the master variable, in determining the availability of nutrients. Hence, in Modified methods, the extraction fluid is buffered to actual soil pH. Results obtained with over 150 random samples representing a range of pH, have indicated a difference in values between regular and modified extraction methods. The modified methods (MM) of ammonium acetate and DTPA extraction adjusted to soil pH were found to be better than regular method (RM) for estimation of calcium, magnesium with ammonium acetate and iron and manganese with DTPA in alkaline soils above pH 8.0. For a complete picture of soil health, productivity and fertility, microbiological and enzymatic analysis of soils were included in the present study. Soil solution equivalent medium (SSE) was found to be the appropriate culture medium for microbial counts. A linear relationship was found between urease activity and available nitrogen of soil.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Rheological properties of rennet-induced milk gels as affected by high pressure treatment at different temperatures.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Shaker, Reyad R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Osaili, Tareq M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Clark, Stephanie.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harte, Federico M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Barbosa-Cánovas, Gustavo V.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"food processing"},
+	{"value":"milk"},
+	{"value":"physicochemical properties"},
+	{"value":"rheological properties"},
+	{"value":"firmness"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000247",
+	"dct:identifier":"FI2016000247",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

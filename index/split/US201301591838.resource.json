@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Functional properties of water extracts from fully ripened silver vine [Actinidia polygama (Sieb. et Zucc.) Planch. ex Maxim.] berries"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591838",
+	"dct:identifier":"US201301591838",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f2.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nagai, Takeshi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suzuki, Nobutaka (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nakazawa, Yozo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagashima, Toshio (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The content of vitamin C was measured in fully ripened silver vine berries. As a result, the value (313 mg/100 g wet berries) was much higher than those of fruit species such as garden strawberry, kiwi berry, haskap, blueberry, and lemon. The antioxidative activity and scavenging activities against active oxygen species such as hydroxyl radicals, superoxide anion radicals, and DPPH radicals were investigated in water extracts prepared from fully ripened silver vine berries. The activities were extremely high similar to those of 5 mM ascorbic acid and 1 mM α-tocopherol. Moreover, these extracts possessed high ACE inhibitory activity. The present study indicates that fully ripened silver vine berries should find applications in various fields of foods and medicals and will be increasingly regarded as a health-promoting food."}
+	}}

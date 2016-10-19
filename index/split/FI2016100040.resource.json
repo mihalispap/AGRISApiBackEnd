@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutritional evaluation of the horse eye bean (Mucuna urens): Effect of processing on the chemical composition"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Umoren, U. E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Effiong, O. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akpan, I. E. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100040",
+	"dct:identifier":"FI2016100040",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Nutritional evaluation of the horse eye bean (Mucuna urens) was carried out to study the effect of different processing methods (autoclaving, cooking, roasting and germination) on its chemical composition. Results indicated that processing methods significantly (p<0.05) increased the chemical composition of M. urens. Crude protein ranged from 24.25% in the raw to 27.00% in autoclaved sample. Crude fibre was least (3.50%) in germinated but highest (4.48%) in cooked Mucuna urens. Ether extract varied from 6.17% in cooked to 11.20% in autoclaved sample; ash ranged from 1.37% in roasted to 1.97% in germinated horse eye bean. Nitrogen-free extract varied from 55.32% in autoclaved to 62.92% in cooked sample. Autoclaving, roasting and cooking (thermal methods) resulted in significantly (p<0.05) lower levels of methionine, cystine, lysine and anti-nutritional factors (HCN, oxalate, phytate and tannins), but led to an increase in the levels of copper and zinc, essential microelements. It was concluded from the study that processing of Mucuna urens by cooking, autoclaving and roasting, though desirable, will lead to reduction in the levels of some essential amino acids."}
+	}}

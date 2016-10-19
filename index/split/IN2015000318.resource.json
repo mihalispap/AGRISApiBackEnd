@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Productive and reproductive performances of Deoni cattle under intensive management system",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1186,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"desempeno animal",
+	"xml:lang":"esp"
+	},
+	{"value":"intensive husbandry",
+	"xml:lang":"eng"
+	},
+	{"value":"performance animale",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"crianza intensiva",
+	"xml:lang":"esp"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	},
+	{"value":"elevage intensif",
+	"xml:lang":"fre"
+	},
+	{"value":"animal performance",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1188,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000318",
+	"dct:identifier":"IN2015000318",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Das, D.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kataktalware, M.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramesha, K.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, A. Obi"
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"Data analyzed on productive and reproductive performances under present investigation in Deoni cattle depicted that the mean birth weight and weight at AFC were 20.81Â±0.21 (n, 140) and 223.64Â±3.59 (n, 101) kg,respectively. The AFC calculated in this study was 38.73Â±0.73 months. The overall mean lactation milk yield based on first 5 lactations was 779.27Â±18.31 kg with an average lactation length of 186.31Â±3.02 days. The present study also revealed that there was a significant increase in milk yield in second lactation than first lactation. The overall dry period and calving interval were 256.87Â±7.34 and 447.22Â±6.64 days, respectively. The overall mortality rate in Deoni cattle recorded was 2.17%. In view of reasonably better productive and reproductive performances in the present investigation than earlier studies there is a scope for further genetic improvement of the present Deoni herd.",
+	"xml:lang":"eng"
+	}
+	}}

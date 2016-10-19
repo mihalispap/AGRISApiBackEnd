@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality oriented fruit breeding: Peach [Prunus persica (L.) Batsch]"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911299",
+	"dct:identifier":"US201300911299",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a41.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Infante, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Martínez-Gómez, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Predieri, S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Promising new tools for peach fruit quality breeding have been revised in this work. These tools included fruit quality evaluation through physical, chemical and sensorial parameters and post-harvest storage evaluation. The development of a feasible method for an early testing of peach selections generated in breeding programs is also well described together with the discussion of the inheritance of the main fruit quality traits in peach. In addition, non-destructive evaluation methods such as near-infrared, electronic nose and non-destructive impact response were revised. Finally several strategies for the development of molecular marker associated to fruit traits were also revised. Methodologies for the analysis of marker-assisted selection include the use of mapping populations segregating for desired characters. To date, twenty five monogenic genes and QTLs have been mapped in different peach genetic linkage maps. Other markers being used included expressed sequences tags (ESTs) cloned gene analogs (CGAs) and single point mutations (single nucleotide polymorphisms, SNPs). More recent efforts are being oriented to the elaboration of physical maps and the complete sequencing of the peach genome."}
+	}}

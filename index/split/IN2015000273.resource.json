@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of growth hormone receptor gene polymorphism on breeding values of milk production traits and paternal genetic trends in Iranian holstein bulls",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1035,
+	"dc:subject":[
+		{"value":"polymorphisme genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"production laitiere",
+	"xml:lang":"fre"
+	},
+	{"value":"recepteur d'hormone",
+	"xml:lang":"fre"
+	},
+	{"value":"toro",
+	"xml:lang":"esp"
+	},
+	{"value":"genetic polymorphism",
+	"xml:lang":"eng"
+	},
+	{"value":"taureau",
+	"xml:lang":"fre"
+	},
+	{"value":"receptores de hormonas",
+	"xml:lang":"esp"
+	},
+	{"value":"hormone receptors",
+	"xml:lang":"eng"
+	},
+	{"value":"polimorfismo genetico",
+	"xml:lang":"esp"
+	},
+	{"value":"bulls",
+	"xml:lang":"eng"
+	},
+	{"value":"produccion lechera",
+	"xml:lang":"esp"
+	},
+	{"value":"milk production",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1038,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000273",
+	"dct:identifier":"IN2015000273",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mehmannavaz, Y."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amirinia, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bonyadi M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Torshizi, R. Vaez(Gorbani, A.)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Islamic Azad University, Maragheh Branch (Iran)."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The effects of growth hormone receptor (GHR) gene polymorphism were examined on milk production traits in Iranian Holstein bulls. Bulls (282) born from 1989 to 2006 were genotyped for AluI restriction site in the 5' flanking region of GHR by applying PCR-RFLP method. The genotypic frequencies for AluI (-/-), AluI (+/-) and AluI (+/+) were 0.237, 0.465 and 0.298, respectively. The results indicated that genetic variants at the 5'-noncoding region of the bovine GHR gene had a marked effect on estimated breeding values of fat per cent (EBVFP). The AluI (+/+) bulls had lower than AluI (-/-) bulls and average effect of allele AluI (+) to AluI (-) substitution was â0.0548 for EBVFP. Study of yearly trend in ratio of allele AluI (+) to AluI (-) frequencies based on birth years of bulls showed that the ratio had a linear and additive trend as 0.01424/year. This trend showed that the studied SNP on GHR may be linked with paternal genetic trends. These results suggested that GHR polymorphism may be useful for selection at the DNA level for milk production traits.",
+	"xml:lang":"eng"
+	}
+	}}

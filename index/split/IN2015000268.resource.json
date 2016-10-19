@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of trickle infection with Haemonchus contortus on pathophysiology and metabolic responses of growing lambs",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1005,
+	"dc:subject":[
+		{"value":"metabolisme",
+	"xml:lang":"fre"
+	},
+	{"value":"haemonchus contortus",
+	"xml:lang":"esp"
+	},
+	{"value":"pathology",
+	"xml:lang":"eng"
+	},
+	{"value":"lambs",
+	"xml:lang":"eng"
+	},
+	{"value":"pathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"cordero",
+	"xml:lang":"esp"
+	},
+	{"value":"patologia",
+	"xml:lang":"esp"
+	},
+	{"value":"metabolismo",
+	"xml:lang":"esp"
+	},
+	{"value":"agneau",
+	"xml:lang":"fre"
+	},
+	{"value":"metabolism",
+	"xml:lang":"eng"
+	},
+	{"value":"haemonchus",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1009,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000268",
+	"dct:identifier":"IN2015000268",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khan,  F.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sahoo, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhakad, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pareek, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karim, S.A."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"An experiment was conducted to investigate the effect of trickle infection of Haemonchus contortus on lambs maintained under standard reference feeding with respect to metabolic responses and pathophysiology. The experiment was continued for 10 weeks with the record of weekly body weight, faecal egg count, haematological (haemoglobin, packed cell volume, differential leucocyte count) and biochemical parameters (total serum protein, albumin and iron). A metabolic trial was conducted after 6 weeks of infection. The lambs were slaughtered after 10 weeks and total worm burden was assessed. There was nonsignificant difference in intake and digestibility of nutrients except CP, which reduced in infected group. The N balance was similar between the groups. The blood haemato-biochemical parameters also revealed a nonsignificant alteration except some periodic and low levels of total protein and albumin in few infected animals. The eosinophil count was significantly higher in infected animals. The absence of significant effect of infection on the parameters studied was probably due to high protein diet fed to the lambs that might have negated the adverse effect of parasitism.",
+	"xml:lang":"eng"
+	}
+	}}

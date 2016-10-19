@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Virkning av forskjellig behandling av karbohydratfôrmidler på fordøyelighet hos rev og mink.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Skrede, Anders.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahlstrøm, Øystein.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feed cereals"},
+	{"value":"minks"},
+	{"value":"kettu"},
+	{"value":"animal nutrition"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"foxes"},
+	{"value":"sinikettu"},
+	{"value":"vilja"},
+	{"value":"sulavuus"},
+	{"value":"rehunkäsittely"},
+	{"value":"furbearing animals"},
+	{"value":"digestibility"},
+	{"value":"rehuteknologia"},
+	{"value":"minkki"},
+	{"value":"turkiseläimet"},
+	{"value":"feed processing"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002155",
+	"dct:identifier":"FI2016002155",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

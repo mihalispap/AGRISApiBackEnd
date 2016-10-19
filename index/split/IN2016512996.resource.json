@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:title":{"value":"Effects of sand-fixing vegetation on topsoil properties in the Mu Us desert, Northwest China",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"vegetation",
+	"xml:lang":"eng"
+	},
+	{"value":"top soil",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016512996",
+	"dct:identifier":"IN2016512996",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=3",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fan Dongqing"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Qin Shugao"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhang Yuqing"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wu Bin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gao Hao"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chen Dong"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhang  Jiachen"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhu Linfeng"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Planting vegetation to restore the soil environment is one of the most important methods for combating desertification. Reasonable vegetation type and vegetation coverage has an important role in sand control and the regional ecological security. The objective of this study is to clarify the appropriate type and coverage of sand-fixing vegetation in the Mu Us Desert. We identified changes in the topsoil properties as affected by different types and coverage of sand-fixing vegetation, and assessed the relationship between the soil fractal dimension (D) and major soil properties. Our results showed that: (1) with increasing cover of sand-fixing vegetation, fine soil material and soil nutrient content increased, indicating that the soil environment could accelerate restoration after planting or recovery of sand-fixing vegetation",
+	"xml:lang":"eng"
+	},
+	{"value":"(2) there were significant positive relationships between D and soil properties, which indicated that D was a sensitive and useful index for evaluating the influence of sand-fixing vegetation on soil physicochemical properties"},
+	{"value":"and (3) recovery of natural vegetation using fencing should be given priority in areas where the soil matrix is not completely destroyed, and plant cover should be maintained at approximately 40% to 60%. We suggest that native shrubs, rather than trees, should be considered when choosing a sand-fixing vegetation."}
+	]
+	}}

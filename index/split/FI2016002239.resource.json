@@ -1,0 +1,72 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Organic carbon stocks in Swedish Podzol soils in relation to soil hydrology and other site characteristics.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Olsson, Mats T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Erlandsson, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lundin, Lars.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nilsson, Torbjörn.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nilsson, Åke.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stendahl, Johan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil organic carbon"},
+	{"value":"forest land"},
+	{"value":"maan orgaaninen aines"},
+	{"value":"mean annual precipitation"},
+	{"value":"soil classification"},
+	{"value":"site capacity"},
+	{"value":"altitude"},
+	{"value":"soil water charteristics"},
+	{"value":"N deposition"},
+	{"value":"ominaisuudet"},
+	{"value":"pituuspiirit"},
+	{"value":"hiili"},
+	{"value":"soil organic matter"},
+	{"value":"temperature"},
+	{"value":"nitrogen"},
+	{"value":"temperature sum"},
+	{"value":"metsämaa"},
+	{"value":"maavesi"},
+	{"value":"maaperä"},
+	{"value":"precipitation"},
+	{"value":"carbon"},
+	{"value":"typpi"},
+	{"value":"latitude"},
+	{"value":"soil hydrological class"},
+	{"value":"leveyspiirit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002239",
+	"dct:identifier":"FI2016002239",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

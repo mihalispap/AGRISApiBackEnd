@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":[
+		{"value":"   Composição química e digestibilidade in vitro do feno de capim elefante cv. Paraíso ",
+	"xml:lang":"por"
+	},
+	{"value":"Chemical composition and in vitro digestibility of hay elefphantgrass cv. Paraíso",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"pennisetum",
+	"xml:lang":"eng"
+	},
+	{"value":"haymaking",
+	"xml:lang":"eng"
+	},
+	{"value":"animal nutrition",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"68/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01476",
+	"dct:identifier":"BR2015F01476",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2011-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1340908468.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"FERNANDES, G. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"POSSENTI,  R. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERRARI JÚNIOR,  E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PAULINO,  V. T."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"We carried out a study to assess the dry matter related to exposure time for dehydration en shed, crude protein, mineral matter (ash), neutral and acid detergent fiber , hemicellulose and in vitro digestibility of elephantgrass cv Paraiso in three cutting ages. The experiment was installed in an area of 1.0 ha, already deployed with elephant grass Paradise in the Instituto de Zootecnia, Nova Odessa, São Paulo. The experimental design was a randomized block with three replications. The treatments were three cut (45, 60 and 75 days of growth). It was evaluated the level of dry matter elephangrass Paraiso, with samples collected at 0, 2, 4, 6, 24 and 30 hours of drying. Variables hemicellulose and neutral and acid detergent fiber increased with advancing age of the plant. There was a decrease in crude protein content and in vitro digestibility. The ages cutting had no effect on the ash level, dry matter increased with the age cut, showing a greater loss of water in the early hours of exposure for the deydration.",
+	"xml:lang":"eng"
+	},
+	{"value":"Realizou-se o estudo para avaliar o teor de matéria seca em relação ao tempo de desidratação em galpão, o teor de proteína bruta, de matéria mineral, de fibra em detergente neutro e ácido, de hemicelulose e a digestibilidade do capim Pennisetum hybridum cv. Paraíso, em três idades de corte. O experimento foi instalado em área de 1,0 ha-1, já implantado com capim elefante Paraíso no Instituto de Zootecnia, Nova Odessa, São Paulo. O delineamento experimental utilizado foi de blocos ao acaso, com três repetições. Os tratamentos estudados foram três idades de corte (45, 60 e 75 dias de crescimento). Avaliou-se o teor de matéria seca (MS) do capim elefante Paraíso, com amostras coletadas nos tempos 0, 2, 4, 6, 24 e 30 horas de desidratação em galpão. As variáveis hemicelulose e fibra em detergente neutro e ácido se elevaram com o avanço da idade da planta. Houve decréscimo no teor de proteína bruta e na digestibilidade in vitro. As idades de corte não tiveram efeito sobre o teor de matéria mineral e a matéria seca foi incrementada com as idades de corte, evidenciando uma perda de água maior nas primeiras horas de desidratação.",
+	"xml:lang":"por"
+	}
+	]
+	}}

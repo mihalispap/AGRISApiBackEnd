@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Organochlorine pesticides in sheep milk and fodder in Jordan"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025607",
+	"dct:identifier":"FI2005025607",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/e6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alawi, Mahmoud A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Hawadi, Jehad S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Levels of fifteen organochlorine pesticides were determined in 60 sheep milk and 20 fodder samples gathered from different towns in Jordan. All samples were extracted, cleaned up and then analyzed using high resolution gas chromatography with electron capture detector (63Ni). Three groups of the organochlorine pesticides in addition to hexachlorobenzene (HCB) namely: DDT, HCH and cyclodiene groups were determined. The results show that almost all milk samples were contaminated with HCB, HCH’s heptachlor and aldrin at relatively high concentrations and almost all studied organochlorine pesticides were found in the fodder samples."}
+	}}

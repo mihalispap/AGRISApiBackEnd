@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of processing conditions and storage on retention of volatile components of durian leather /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jaswir, Irwandi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Che Man, Yaakob B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Selamat, Jinap.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahmad, Faujan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sugisawa, Hiroshi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hedelmäpuut"},
+	{"value":"tropical crops"},
+	{"value":"volatile compounds"},
+	{"value":"trooppiset hedelmät"},
+	{"value":"varastointi"},
+	{"value":"keeping quality"},
+	{"value":"organic acids"},
+	{"value":"durio"},
+	{"value":"fruit crops"},
+	{"value":"haihtuvat orgaaniset yhdisteet"},
+	{"value":"säilyvyys"},
+	{"value":"chemical composition"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"Durio zibethinus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000228",
+	"dct:identifier":"FI2016000228",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

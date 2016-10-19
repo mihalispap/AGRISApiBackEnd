@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Proximate composition and cyanide content of cassava peels fermented with Aspergillus niger and Lactobacillus rhamnosus.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Okpako, C. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ntui, V. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Osuagwu, A. N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Obasi, F. I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Manihot esculenta"},
+	{"value":"Lactobacillus"},
+	{"value":"cassava"},
+	{"value":"feed quality"},
+	{"value":"feed composition"},
+	{"value":"Aspergillus"},
+	{"value":"chemical composition"},
+	{"value":"cyanides"},
+	{"value":"peel"},
+	{"value":"contamination"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002095",
+	"dct:identifier":"FI2016002095",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

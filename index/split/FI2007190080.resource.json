@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Enhancing germination in seeds of African star apple, Chrysophyllum albidum (G. Don)"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007190080",
+	"dct:identifier":"FI2007190080",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/e3.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Aduradola, A.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adeola, B.F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adedire, M.O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Investigations were carried out to determine the effect of mechanical seed scarification (clipped at 2 mm from micropyle, 2 mm around seed circumference and 2 mm from the distal end), sulphuric acid concentration and treatment time; and ratios of seed weight to volume of hot water on germination in seeds of African star apple (Chrysophyllum albidum). Results showed that hot water treatment and mechanical scarification and treatment time are factors which enhanced germination in seeds of C. albidum. Highest percentage value of 68.6 and 86.1 were recorded when 10 g of seeds were soaked in 1 litre and 2 litres of hot water respectively. Highest percentage of 70 was recorded when seeds were scarified at the distal end. Zero germination percent was recorded when 98% concentrated sulphuric acid was used to treat the seeds for 60 minutes. With respect to sulphuric acid treatment, results showed that the higher the acid concentration and treatment time, the lower the germination percentage."}
+	}}

@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Leisure and farmers' welfare in changing conditions /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kola, Jukka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sihvola, Sanna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"farmers"},
+	{"value":"maatalouden tukipolitiikka"},
+	{"value":"free time"},
+	{"value":"maanviljelijät"},
+	{"value":"vapaa-aika"},
+	{"value":"maatalouden sosiaalipolitiikka"},
+	{"value":"finland"},
+	{"value":"maatalouslomitus"},
+	{"value":"social security"},
+	{"value":"welfare economics"},
+	{"value":"social policies"},
+	{"value":"hyvinvointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000654",
+	"dct:identifier":"FI2016000654",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

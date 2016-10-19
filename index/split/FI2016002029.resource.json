@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Multilevel linear mixed model for tree diameter increment in stone pine (Pinus pinea) : a calibrating approach.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Calama, Rafael.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Montero, Gregorio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mixed model"},
+	{"value":"standardizing"},
+	{"value":"diameter increment"},
+	{"value":"lineaariset mallit"},
+	{"value":"kalibrointi"},
+	{"value":"Pinus pinea"},
+	{"value":"paksuuskasvu"},
+	{"value":"linear models"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002029",
+	"dct:identifier":"FI2016002029",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Prevalence and pathology of liver infections in buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1129,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"histopatologia",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"enfermedades hepaticas",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"histopathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"liver diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"maladie du foie",
+	"xml:lang":"fre"
+	},
+	{"value":"histopathology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1131,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000313",
+	"dct:identifier":"IN2015000313",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Verma, Yamini"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Swamy, Madhu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vyas, U.K."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"Livers (2119) of slaughtered buffaloes were examined and out of these 476 livers exhibiting gross alterations were subjected to microscopic examination. An overall prevalence of liver affections was observed in 476 (22.46%) out of 2119 cases. The prevalence and significant alteration of various parasitic conditions was observed in 295 cases out of 476 (61.97%). The parasitic conditions comprised hypertrophy and hyperplasia of bile duct with extensive fibrosis of biliary mucosa due to amphistomiasis (3.78%), negligible to extensive changes around cysts of cysticercosis (2.10%),biliary ductular proliferation and peribiliary fibrosis due to facsioliasis (14.28%), enlargement of liver with fibrosis around cysts due to hydatidosis (23.53%) and granuloma, sclerosis and angiomatosis due to schistosomiosis (18.28%). The other conditions were degeneration and necrosis (13.46%), circulatory disorders (8.82%), cirrhosis (5.25%), abscess (3.78%), pigmentation (2.73%), RES response (3.78%) and neoplasms (0.21%)",
+	"xml:lang":"eng"
+	}
+	}}

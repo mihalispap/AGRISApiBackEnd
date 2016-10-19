@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/8682/13855",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of lighting, semi-closed greenhouse and split-root fertigation on energy use and CO2 emissions in high latitude cucumber growing.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kaukoranta, Timo,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Näkkilä, Juha,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Särkkä, Liisa,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jokinen, Kari,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hiilijalanjälki"},
+	{"value":"greenhouse crops"},
+	{"value":"energy consumption"},
+	{"value":"emission"},
+	{"value":"Finland"},
+	{"value":"kurkku"},
+	{"value":"valaistus"},
+	{"value":"cucumbers"},
+	{"value":"kasvihuoneviljely"},
+	{"value":"ventilation"},
+	{"value":"energiankulutus"},
+	{"value":"lighting"},
+	{"value":"kasvihuoneet"},
+	{"value":"greenhouses"},
+	{"value":"ilmanvaihto"},
+	{"value":"efficiency"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000685",
+	"dct:identifier":"FI2016000685",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

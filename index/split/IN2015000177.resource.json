@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Macro and micro elemental concentrations in some locally available tree fodder of Sikkim",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":984,
+	"dc:subject":[
+		{"value":"forrajes",
+	"xml:lang":"esp"
+	},
+	{"value":"sikkim",
+	"xml:lang":"esp"
+	},
+	{"value":"trace elements",
+	"xml:lang":"eng"
+	},
+	{"value":"fourrage",
+	"xml:lang":"fre"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"oligoelementos",
+	"xml:lang":"esp"
+	},
+	{"value":"oligo-element",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":987,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000177",
+	"dct:identifier":"IN2015000177",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chatterjee, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"De, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheikh, I.U."
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"The concentration of some important macro and micro elements were studied in 21 locally available tree fodder collected from different parts of Sikkim. The calcium and phosphorus concentration (% DM) ranged from 0.16 to 0.31 and 0.08 to 0.48, respectively. The magnesium concentration (% DM) was much lower ranging narrowly from 0.04 to 0.07. All the tree leaves were found to be richer in potassium in comparison to other macro elements analysed here the values ranging from 0.38 to 2.9% of DM. Sodium concentration (% DM) ranged from 0.02 to 0.06. The mean concentration (% DM) of different macro and micro elements in tree fodder analysed in the present investigation were 0.284 Â± 0.007, 0.195 Â± 0.027, 0.058 Â± 0.002, 0.029 Â± 0.002 and 1.55 Â± 0.16, 54.85 Â± 10.64, 39.16 Â± 3.47, 227.9 Â± 47.0, 0.39 Â± 0.08, and 395.49 Â± 46.75, respectively, for calcium, phosphorus, magnesium, sodium, potassium, copper, zinc, manganese, cobalt and iron. Out of 21, only 6 tree fodder namely, chiple, barhar, gayo, katusha, khasre and rai khanyum, have all the trace elements in the concentrations well above the critical levels. Forty two per cent of the total tree fodder samples analysed here were deficient in Zn and 28.5 per cent were deficient in Co. Only 9.5 and 4.7% samples were deficient in Mn and Fe, respectively. None of the samples were deficient in Cu.",
+	"xml:lang":"eng"
+	}
+	}}

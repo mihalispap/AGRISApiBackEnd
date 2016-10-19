@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Temperatures vs development and fecundity of Myzus persicae sulzer",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":219,
+	"dc:subject":[
+		{"value":"fertility",
+	"xml:lang":"eng"
+	},
+	{"value":"myzus persicae",
+	"xml:lang":"esp"
+	},
+	{"value":"fertilite",
+	"xml:lang":"fre"
+	},
+	{"value":"fertilidad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":223,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000904",
+	"dct:identifier":"IN2015000904",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chanu, Laishram Chitra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta M. K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Influence of six temperatures viz., 10OC, 15OC, 18OC, 20OC, 25OC and 30OC was studied on the development and fecundity of green peach aphid, Myzus persicae. The nymphal development was fastest at 25OC. The longest pre â reproductive (2.97 days), reproductive (31.8 days) and post â reproductive periods (2.03 days) was at extremely low temperature of 10OC compared to shorter duration of these parameters at optimum temperature of 25OC. The total life cycle decreased significantly with the increase in the temperature. Maximum fecundity was at 25OC (54.8 nymphs/female) and minimum was 22.8 and 32.4 nymph/female, respectively at 10OC and 15OC. Fecundity decreased at extreme high temperature of 30OC compared to 25OC. The nymphal body length, body width, antennal length and cornicle length were maximum at 25OC and minimum at 10OC.",
+	"xml:lang":"eng"
+	}
+	}}

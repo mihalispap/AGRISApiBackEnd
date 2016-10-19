@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Some external and internal quality characteristics of partridge (A. graeca) eggs"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Günlü, Aytekin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kirikçi, Kemal (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Çetin, Orhan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Garip, Mustafa (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100028",
+	"dct:identifier":"FI2016100028",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In this study, some quality characteristics of rock partridge eggs were investigated and correlation coefficients between egg weights and quality characteristics were calculated. In the research material, of 100 eggs following values were found for quality characteristics: egg weight 22.43 g, specific gravity 0.933, shape index 77.04, yolk index 47.88, albumen index 1.56, yolk weight 8.41 g, albumen weight 11.68, shell thickness 0.22 mm, shell weight 2.34 g, membrane weight 0.47 g, membrane thickness 0.004 mm and Haugh Unit 96.94. Egg weight correlated significantly with membrane weight (r=0.22*), shell weight (r=0.56***), Haugh Unit (r=0.73***), yolk weight (r=0.43***) and and albumen weight (r=0.79***)."}
+	}}

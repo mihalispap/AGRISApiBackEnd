@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f22.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of component yields and sensory properties of traditional Nigerian foods (Ogi and Eko) derived from eleven maize varieties"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Omueti, Olusola (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Iken, Jacob E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kling, Jennifer G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Okoruwa, Augustine E. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100104",
+	"dct:identifier":"FI2016100104",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Eleven maize varieties were evaluated for their component yields, protein and ash contents and organoleptic properties when processed into two traditional Nigerian foods, ogi and eko. Significant differences were observed among varieties for component yields and total percent recovery. Yields of ogi, bran and total solids from liquor ranged from 42 to 62, 18 to 30 and 3 to 8 percent (db) respectively. Total recovery of these three components ranged between 72 and 87 percent. Protein in maize, ogi and bran ranged from 9.89 to 12.91, from 4.21 to 8.02 and from 11.82 to 17.50 percent respectively. The ash content of ogi ranged from 0.23 to 0.88% while that of the bran ranged from 0.30 to 0.57%. Losses in protein content during ogi manufacture ranged between 18 and 64 percent. A hybrid 8705-4 (F2) and an open-pollinated variety EV 8744-SR gave the highest ogi yields followed closely by DMRL-SR-W, ACR 8363-SR, TZB-SR-SE and TZB-SR-SGY (IITA). All the varieties were rated good in organoleptic properties for eko and ogi. Differences observed among varieties for ogi yield and quality highlight the need to consider end-product suitability in maize breeding programmes."}
+	}}

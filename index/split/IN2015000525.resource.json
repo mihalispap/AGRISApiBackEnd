@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Antifungal efficacy of bio-agents, botanicals and fungicides for inhibition of Alternaria alternata (Fr.) Keissler causing Black point of Wheat",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":358,
+	"dc:subject":[
+		{"value":"triticum aestivum",
+	"xml:lang":"esp"
+	},
+	{"value":"alternaria alternata",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":362,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000525",
+	"dct:identifier":"IN2015000525",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mahendra Partap"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"V.A. Solanki"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"B.D.S. Nathawat"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jagdish Prasad"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Biological studies on interaction effect of known antagonists carried out by dual culture method, showed strong antagonistic effect of Trichoderma viride (S.K. Nagar) (77.7%) and T. harzianum (S.K. Nagar) (68.8%) to Alternaria alternata in vitro. The phyto-extracts screened in vitro by poisoned food technique against A. alternata revealed that neem (61.0%), Damaru (60.7%), tulsi (59.38%), mint (59.3%) and kadvi mahendi (54.6%) leaves showed maximum average % inhibition of growth and sporulation. In vitro screening of fungicides thiram was proved most effective and inhibiting cent per cent growth of A. alternata even at 1500 ppm concentration. Next effective fungicides in order were mancozeb (2000 ppm), mancozeb (1500 ppm), chlorothalonil (2000 ppm) and carbendazim (1000 ppm).",
+	"xml:lang":"eng"
+	}
+	}}

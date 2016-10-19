@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of the Hautes-Fagnes peat bogs (Belgium): new perspectives using ground-penetrating radar.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wastiaux, Cécile.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Halleux, Lucien.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schumacker, René.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Streel, Maurice.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jacqmotte, Jean-Michel.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tutkimus"},
+	{"value":"soil structure"},
+	{"value":"raised bogs"},
+	{"value":"maaperä"},
+	{"value":"Hautes-Fagnes"},
+	{"value":"ground-penetrating radar"},
+	{"value":"Belgium"},
+	{"value":"ojitetut suot"},
+	{"value":"tutkat"},
+	{"value":"kokosuot"},
+	{"value":"bogs"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000009",
+	"dct:identifier":"FI2016000009",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

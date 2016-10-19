@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of a tractor mounted wide spray boom for increased efficiency"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2012447756",
+	"dct:identifier":"FI2012447756",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nalavade, Parish P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Salokhe, Vilas M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayasuriya, H. P. W. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nakashima, Hiroshi (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A survey carried out in selected states of India showed that many farmers prefer chemical usage for plant protection. Spray booms of width 6.5 to 9 m are mostly used by the farmers but they prefer to have wider booms with a reasonable cost. Considering this, a wider spray boom was developed to reduce the application time and cost of operation, and for increased efficiency. A 15-m tractor mounted spray boom was systematically developed considering the stresses acting on the boom structure. It was tested in a laboratory and in the field to evaluate its performance. The developed spray boom’s performance was compared with existing 9-m spray boom developed by a local manufacturer. Further, both spray booms were evaluated from the economic point of view. Statistical analysis showed that there was no significant variation in spray uniformity within a field for all the test trials.A 15-m spray boom was found to be more economical than the existing 9-m spray boom."}
+	}}

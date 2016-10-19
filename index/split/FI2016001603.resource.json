@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Introducing a traditional dairy product Kes: chemical, microbiological, and sensorial properties and fatty acid composition.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Cakr, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Coskun, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akoglu, I. T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Isleyen, M. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kralan, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bayrak, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"organoleptic analysis"},
+	{"value":"dairy products"},
+	{"value":"fatty acids"},
+	{"value":"yoghurt"},
+	{"value":"biochemistry"},
+	{"value":"dry matter"},
+	{"value":"milk products"},
+	{"value":"protein content"},
+	{"value":"acidity"},
+	{"value":"whey"},
+	{"value":"colour"},
+	{"value":"stearic acid"},
+	{"value":"chemical composition"},
+	{"value":"organoleptic properties"},
+	{"value":"palmitic acid"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001603",
+	"dct:identifier":"FI2016001603",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

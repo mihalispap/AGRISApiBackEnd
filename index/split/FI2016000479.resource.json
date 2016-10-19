@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of arsenic-contaminated water on food chain in Bangladesh : analysis of arsenic in soil, water and plants /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Delowar, Hossain K. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yoshida, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harada, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uddin, Md. Imtiaz.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"water"},
+	{"value":"raskasmetallit"},
+	{"value":"kasvit"},
+	{"value":"Plantae"},
+	{"value":"arsenikki"},
+	{"value":"food chains"},
+	{"value":"arsenic"},
+	{"value":"vesi"},
+	{"value":"elintarvikkeet"},
+	{"value":"maaperä"},
+	{"value":"water pollution"},
+	{"value":"Bangladesh"},
+	{"value":"heavy metals"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000479",
+	"dct:identifier":"FI2016000479",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Correlation and path coefficient analyses for agronomic and malting quality traits in some sorghum (Sorghum bicolor (L.) Moench) genotypes"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591928",
+	"dct:identifier":"US201301591928",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alhassan, U. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yeye, M. Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aba, D.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alabi, S.O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Field experiments were conducted at Institute for Agricultural Research (IAR), Research Farm in Zaria using 20 genotypes of sorghum obtained from IAR, Zaria, International Crop Research Institute for Semi-Arid Tropics (ICRISAT) and West and Central African Sorghum Research Network (WCASRN) Bamako, Mali. The objective was to study the genotypic and phenotypic correlations among pairs of agronomic and malting quality traits. Results indicated that days to 50% flowering and grain yield per plant were positively and significantly associated with grain yield per hectare (r = 0.5336 and rg = 0.6944, respectively). However, β-amylase activity was negatively and significantly correlated with days to 50% flowering and 1000-grain yield (rg = -0.5728 and rg = -0.5482, respectively). The path coefficient analysis indicated positive and significant correlation as well as high direct effect of grain yield per plant and days to 50% flowering on grain yield per hectare. Apart from this, β-amylase activity also had positive and significant direct effect on α -amylase activities. Selecting for days to 50% flowering, grain yield per plant and α- and β-amylase activities are the most reliable traits for sorghum improvement programme for grain yield and malting quality in this study."}
+	}}

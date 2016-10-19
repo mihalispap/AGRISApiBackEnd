@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of net size on horizontal temperature gradients in naturally-ventilated tropical greenhouses"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007190087",
+	"dct:identifier":"FI2007190087",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/e9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Salokhe, V. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Soni, Peeyush (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tantau, H. J. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Experiments were conducted in four greenhouses of sizes 3 m x 6 m x 3.2 m (W x L x H) with tomato crop inside, to study the spatial distribution of air-temperature under naturally ventilated condition. HDPE insect-nets of 32, 40, 50 and 78 mesh having 53, 34, 33 and 19% porosity, respectively, were used for greenhouses-cladding. Both absolute and relative stress-gradients of temperature were observed along the central horizontal (x and y) axes of 3 m x 6 m greenhouse structure with x as semi-minor and y as semi-major axes. A real-time comparison was made among greenhouses for young and matured plants and two plant densities, single and double. Younger plants occupied 5% of gutter height while matured statured 50%; plant density was doubled from average 1.7 plant/m2 to 3.3 plants/m2 with three and five rows kept lengthwise, respectively. Horizontal (x) locations exhibited 12% temperature gradients that were found insensitive to vegetation but lowering net porosity increased these gradients from 8 to 12%. There was 10% temperature gradient recorded in horizontal (y) locations, which decreased with decreasing vegetation, especially with plant height. It was further noted that horizontal air-temperature gradients responded considerably slower towards plant density; rather they found to be more sensitive against plant height. Plant density, on the other hand, altered their peak absolute values. Doubling plant density reported significantly higher horizontal temperature gradients."}
+	}}

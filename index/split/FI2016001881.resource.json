@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Microsite occupancy and the spatial structure of understorey regeneration in three late-successional Norway spruce forests in northern Europe.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Grenfell, Russell.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aakala, Tuomas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"disturbance"},
+	{"value":"natural forests"},
+	{"value":"stand structure"},
+	{"value":"boreal forests"},
+	{"value":"spatial correlation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001881",
+	"dct:identifier":"FI2016001881",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

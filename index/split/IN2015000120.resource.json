@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Hepatoid adenocarcinoma of anal region in a dog",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":236,
+	"dc:subject":[
+		{"value":"enfermedades hepaticas",
+	"xml:lang":"esp"
+	},
+	{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"liver diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"cytokine",
+	"xml:lang":"fre"
+	},
+	{"value":"maladie du foie",
+	"xml:lang":"fre"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	},
+	{"value":"adenome",
+	"xml:lang":"fre"
+	},
+	{"value":"cytokines",
+	"xml:lang":"eng"
+	},
+	{"value":"citoquinas",
+	"xml:lang":"esp"
+	},
+	{"value":"adenoma",
+	"xml:lang":"esp"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":237,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000120",
+	"dct:identifier":"IN2015000120",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kokila, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Veena, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suresh Kumar, R.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sankar, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhana lakshmi, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Srilatha,Ch."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Selvaraj, R ."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Lemon sized growth was noticed in the right side of the anal opening in a 10 year old mongrel dog. The fine needle aspiration biopsy revealed polygonal cluster of cells with multiple nucleoli. Histopathological examination revealed islands of tumor cells separated by vascularized connective tissue stroma. Based on the gross and histopathological observations, the tumor was diagnosed as hepatoid adenocarcinoma.",
+	"xml:lang":"eng"
+	}
+	}}

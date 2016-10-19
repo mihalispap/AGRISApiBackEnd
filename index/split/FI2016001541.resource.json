@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/4855/5539",
+	"dct:language":"eng",
+	"dct:title":{"value":"The effects of gypsum on the transfer of phosphorus and other nutrients through clay soil monolithss.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uusitalo, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ylivainio, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyväluoma, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rasa, Kimmo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaseva, Janne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nylund, Pauliina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pietola, Liisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Turtola, Eila.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"vesiensuojelu"},
+	{"value":"suodatus"},
+	{"value":"erosion"},
+	{"value":"salaojitus"},
+	{"value":"maatalous"},
+	{"value":"kipsi"},
+	{"value":"phosphorus"},
+	{"value":"eroosio"},
+	{"value":"nutrients"},
+	{"value":"subsurface drainage"},
+	{"value":"gypsum"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"savimaat"},
+	{"value":"leaching"},
+	{"value":"huuhtoutuminen"},
+	{"value":"pollution control"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001541",
+	"dct:identifier":"FI2016001541",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/5007/4540",
+	"dct:language":"eng",
+	"dct:title":{"value":"Plantago lanceolata growth and Cr uptake after mycorrhizal inoculation in a Cr amended substrate.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nogales, Amaia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cortés, Amparo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Velianos, Konstantinos.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Camprubi, Amelia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Estaún, Victoria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Calvet, Cinta.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"raskasmetallit"},
+	{"value":"Plantago lanceolata"},
+	{"value":"kromi"},
+	{"value":"maaperä"},
+	{"value":"land rehabilitation"},
+	{"value":"soil pollution"},
+	{"value":"mykorritsasienet"},
+	{"value":"mykorritsa"},
+	{"value":"mycorrhizae"},
+	{"value":"chromium"},
+	{"value":"heavy metals"},
+	{"value":"soil"},
+	{"value":"microorganisms"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001849",
+	"dct:identifier":"FI2016001849",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

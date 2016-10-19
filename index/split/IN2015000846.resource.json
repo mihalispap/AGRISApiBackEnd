@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Coconut Palm Insurance for minimizing the risk in coconut farming",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":31,
+	"dc:subject":[
+		{"value":"riesgo",
+	"xml:lang":"esp"
+	},
+	{"value":"risk",
+	"xml:lang":"eng"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"insurance",
+	"xml:lang":"eng"
+	},
+	{"value":"assurance",
+	"xml:lang":"fre"
+	},
+	{"value":"seguros",
+	"xml:lang":"esp"
+	},
+	{"value":"risque",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":32,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000846",
+	"dct:identifier":"IN2015000846",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"oct2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Vasantha Kumar, V.C."
+	}
+	},
+	"bibo:issue":6
+	}}

@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Área de Proteção Ambiental da Fazendinha, Macapá–AP: análise de indicadores de efetividade do monitoramento e conservação da biodiversidade",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Cristiane Rodrigues Menezes "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marta Monteiro "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00028",
+	"dct:identifier":"BR2015M00028",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"A Área de Proteção Ambiental (APA) da Fazendinha faz parte do conjunto de Unidades de Conservação presente no território do Estado do Amapá. Ela esta localizado na cidade de Macapá e foi criada em 31 de dezembro de 2004, pela lei estadual nº 0873/04. Este artigo expõe o estudo que teve como objetivo a análise da situação da gestão ambiental da APA da Fazendinha, avaliando a efetividade de sua implantação e o cumprimento do papel para o qual a mesma foi criada, de forma a caracterizar a sua situação atual. A metodologia utilizada neste trabalho teve como base o levantamento bibliográfico, a pesquisa qualitativa, visitas técnicas e a realização de entrevistas. A partir disso, foram selecionados oito (08) temas relacionados à efetividade e ao monitoramento da APA, contendo seus respectivos indicadores de controle de gestão. Apesar desta Unidade de Conservação apresentar um quadro gestor formado, ainda não possui uma gestão ambiental bem definida e concretizada, o que influencia diretamente na manutenção da biodiversidade desta referida",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

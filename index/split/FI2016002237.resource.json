@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of pectolytic enzymes and antioxidants on the quality of dry wines made from pineapple (Ananas comosus L. Merr) peel /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Graham, Owen S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohammed, Majeed.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wilson, Lawrence A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wickham, Lynda D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"entsyymit"},
+	{"value":"lisäaineet"},
+	{"value":"enzymes"},
+	{"value":"winemaking"},
+	{"value":"viinit"},
+	{"value":"pineapples"},
+	{"value":"wines"},
+	{"value":"antioxidants"},
+	{"value":"Ananas comosus"},
+	{"value":"antioksidantit"},
+	{"value":"quality"},
+	{"value":"ananas"},
+	{"value":"additives"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002237",
+	"dct:identifier":"FI2016002237",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of freezing and thawing on meat quality"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026383",
+	"dct:identifier":"FI2005026383",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/f16.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hanenian, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mittal, G.S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Effects of freezing and thawing on meat quality are reviewed in terms of freezing methods, rate of freezing and frozen storage. The effects of three successive freeze-thaw cycles on ground beef patty shrinkage and Warner Bratzler shear (WBS) were investigated. Freezing and total losses increased significantly after three refreezings. The WBS values were not significantly affected by any of the three freeze-thaw cycles."}
+	}}

@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Respostas comportamentais de novilhas leiteiras confinadas submetidas ao sistema de resfriamento adiabático evaporativo. ",
+	"xml:lang":"por"
+	},
+	{"value":"Behavioral responses of dairy heifers confined to the evaporative cooling system.",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"behaviour",
+	"xml:lang":"eng"
+	},
+	{"value":"ecology",
+	"xml:lang":"eng"
+	},
+	{"value":"heat stress",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F00548",
+	"dct:identifier":"BR2015F00548",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1389976292.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SILVA,  G. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TOLEDO,  L. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DEMSKI, J. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ARCARO JR., I"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MATARAZZO,  S. V."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The research aimed to evaluate the influence of evaporative cooling system (AECS) on the behavioral variables of Holstein dairy heifers kept in confinement. Twelve heifers were used, divided into three treatments: 1) ventilation and fogging by AECS when the temperature reached 25°C at any humidity, 2) ventilation and fogging by AECS when the temperature reached 25°C with relative humidity less than or equal to 70% and, 3 without cooling system. The experimental design consisted of a latin rectangle repeated twice. The environmental variables (dry bulb temperature), black globe temperature and relative humidity were collected daily through dataloggers throughout the experiment. In behavioral analysis were observed postures (standing and lying), the activities of the animals and the places where they were in the pen, in 15 minute intervals. However, there was no difference in the behavioral variables of animals between treatments.",
+	"xml:lang":"eng"
+	},
+	{"value":"2) ventilação e SRAE por nebulização quando a temperatura atingia 25°C com umidade relativa menor ou igual a 70% e, 3 sem sistema de resfriamento. O delineamento experimental consistiu em um retângulo latino repetido duas vezes. As variáveis ambientais (temperatura do bulbo seco, temperatura do globo negro e umidade relativa foram coletadas diariamente, num intervalo de 15 minutos, através de dataloggers, durante todo o experimento. Na análise comportamental foram observadas as posturas (em pé e deitada), as atividades realizadas pelos animais e os locais em que se encontravam na baia, em intervalos de 15 minutos. Contudo, observou-se que não houve diferença nas variáveis comportamentais dos animais entre os tratamentos."},
+	{"value":"A pesquisa teve como objetivo avaliar a influência do sistema de resfriamento adiabático evaporativo (SRAE) sobre as variáveis comportamentais de novilhas leiteiras da raça Holandesa mantidas em confinamento. Foram utilizadas 12 novilhas, distribuídas em três tratamentos: 1) ventilação e SRAE por nebulização quando a temperatura atingia 25°C a qualquer umidade",
+	"xml:lang":"por"
+	}
+	]
+	}}

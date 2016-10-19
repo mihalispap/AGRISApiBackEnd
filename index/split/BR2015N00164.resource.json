@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ANÁLISE FITOQUÍMICA E MICROBIOLÓGICA DA ATIVIDADE DO EXTRATO BRUTO ETANÓLICO DA ANDIROBA, Carapa guianensis Aubl.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":10,
+	"bibo:volume":4,
+	"bibo:pageEnd":14,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00164",
+	"dct:identifier":"BR2015N00164",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/947",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Felipe Ramon Parente da Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheylla Susan Moreira da Silva de Almeida"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIVERSIDADE FEDERAL DO AMAPÁ"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; text-align: justify;\"><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif; background-position: initial initial; background-repeat: initial initial;\">Na Amazônia, a população, de uma forma geral, costuma utilizar medicamentos fitoterápicos como as plantas medicinais para as mais variadas doenças. </span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Dentre as plantas medicinais que são utilizadas encontra-se a Carapa guianensis Aubl., que possui crescente aplicação, não só terapêutica, como também, na indústria química e cosmética. </span><span style=\"font-size: 12.0pt; font-family: \">O Extrato Bruto Etanólico das cascas do caule de Carapa guianensis Aubl., foi investigado usando estudo fitoquímico preliminar e atividade antimicrobiana. </span><span style=\"font-size: 12.0pt; font-family: \">A prospecção fitoquímica foi realizada pelos métodos clássicos descritos </span><span style=\"font-size: 12.0pt; font-family: \">por Matos (1997) apud Rodrigues (2010)</span><span style=\"font-size: 12.0pt; font-family: \">. No ensaio antimicrobiano foi</span><span style=\"font-size: 12.0pt; font-family: \"> utilizado </span><span style=\"font-size: 12.0pt; font-family: \">método de Kirby-Bauer modificado</span><span style=\"font-size: 12.0pt; font-family: \">, apud Charles (2009)</span><span style=\"font-size: 12.0pt; font-family: \">, usando o teste de difusão a disco com cepas de Klebsiella pneumoniae </em>(ATCC 13883), Staphylococcus aureus (ATCC 25923) e Escherichia coli (ATCC 25922) e antibióticos padronizados, o Extrato Bruto Etanólico foi utilizado nas concentrações 25mg/mL, 50mg/mL e 100mg/mL</span><em><span style=\"font-size: 12.0pt; font-family: \">. </span></em><span style=\"font-size: 12.0pt; font-family: \">A análise fitoquímica preliminar evidenciou </span><span style=\"font-size: 12.0pt; font-family: \">a presença de fenóis, taninos e antraquinonas</span><span style=\"font-size: 12.0pt; font-family: \">. O extrato bruto etanólico das cascas de Carapa guianenses Aubl., apresentou baixa atividade antimicrobiana.</span>",
+	"xml:lang":"por"
+	}
+	}}

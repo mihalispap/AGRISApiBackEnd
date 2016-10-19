@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Involvement of phenazine-1-carboxylic acid, siderophores and hydrogen cyanide in suppression of Rhizoctonia solani and Pythium spp. damping-off by Pseudomonas oryzihabitans and Xenorhabdus nematophila"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903874",
+	"dct:identifier":"US201300903874",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/e5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kapsalis, Apostolos (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gravanis, Fotios (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gowen, Simon (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Entomopathogenic bacterial strains Pseudomonas (Flavimonas) oryzihabitans and Xenorhabdus nematophilus, both bacterial symbionts of the entomopathogenic nematodes Steinernema abbasi and S. carpocapsae have been recently used for suppression of soil-borne pathogens. Bacterial biocontrol agents (P. oryzihabitans and X. nematophila) have been tested for production of secondary metabolites in vitro and their fungistatic effect on mycelium and spore development of soil-borne pathogens. Isolates of Pythium spp. and Rhizoctonia solani, the causal agent of cotton damping-off, varied in sensitivity in vitro to the antibiotics phenazine-1-carboxylic acid (PCA), cyanide (HCN) and siderophores produced by bacterial strains shown previously to have potential for biological control of those pathogens. These findings affirm the role of the antibiotics PCA, HCN and siderophores in the biocontrol activity of these entomopathogenic strains and support earlier evidence that mechanisms of secondary metabolites are responsible for suppression of damping-off diseases. In the present studies colonies of P. oryzihabitans showed production of PCA with presence of crystalline deposits after six days development and positive production where found as well in the siderophore’s assay when X. nematophila strain indicated HCN production in the in vitro assays. In vitro antifungal activity showed that bacteria densities of 105 to 106 cells/ml have antifungal activity in different media cultures. The results show further that isolates of Pythium spp. and R. solani insensitive to PCA, HCN and siderophores are present in the pathogen population and provide additional justification for the use of mixtures of entomopathogenic strains that employ different mechanisms of pathogen suppression to manage damping-off."}
+	}}

@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Oroxylum indicum possess a potential effect on humoral and cell mediated immune response in broiler chicks",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1212,
+	"dc:subject":[
+		{"value":"respuesta inmunologica",
+	"xml:lang":"esp"
+	},
+	{"value":"antihelminticos",
+	"xml:lang":"esp"
+	},
+	{"value":"cell mediated immunity",
+	"xml:lang":"eng"
+	},
+	{"value":"inmunidad celular",
+	"xml:lang":"esp"
+	},
+	{"value":"immune response",
+	"xml:lang":"eng"
+	},
+	{"value":"poussin",
+	"xml:lang":"fre"
+	},
+	{"value":"anthelminthique",
+	"xml:lang":"fre"
+	},
+	{"value":"anthelmintics",
+	"xml:lang":"eng"
+	},
+	{"value":"pollito",
+	"xml:lang":"esp"
+	},
+	{"value":"chicks",
+	"xml:lang":"eng"
+	},
+	{"value":"reponse immunitaire",
+	"xml:lang":"fre"
+	},
+	{"value":"immunite cellulaire",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1214,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000324",
+	"dct:identifier":"IN2015000324",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumari, R"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiwary, B.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ganguly, S."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"Levamisole treatment was found to have superior stimulatory effect on both humoral and cell mediated immune response of chicks compared to O. indicum on these parameters. O. indicum root bark powder showed a better response over its stem bark counterpart. Thus, O. indicum root bark powder may be recommended as safe and commercially beneficial immunomodulator as is evident from better humoral immune response against NDV vaccine for better protection against diseases.",
+	"xml:lang":"eng"
+	}
+	}}

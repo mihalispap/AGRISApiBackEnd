@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Multiple ethics for multidimensional sustainability in forestry?.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Saastamoinen, Olli.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kulttuurivaikutukset"},
+	{"value":"sosiaalinen kestävyys"},
+	{"value":"social forestry"},
+	{"value":"ekologinen kestävyys"},
+	{"value":"ethics"},
+	{"value":"taloudellinen kehitys"},
+	{"value":"forestry"},
+	{"value":"kestävä kehitys"},
+	{"value":"economic policies"},
+	{"value":"environmental management"},
+	{"value":"sustainable development"},
+	{"value":"forest policies"},
+	{"value":"cultural development"},
+	{"value":"metsätalous"},
+	{"value":"sustainability"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000569",
+	"dct:identifier":"FI2016000569",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

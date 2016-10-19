@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a16.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"QTL analysis of genetic main effects and genotype × environment interaction effects for yield components in rice (Oryza sativa L.)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Benmoussa, Mebrouk (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Achouch, Abderrahmane (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhu, Jun (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100257",
+	"dct:identifier":"FI2016100257",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Quantitative trait loci (QTL) for yield components were identified based on an RFLP map from a DH population. The 123 double haploid lines with their parents IR64 and Azucena were evaluated in the field in two different environments (Hangzhou and Hainan). The genetic effect of a QTL has been partitioned into genetic main effect and GE interaction effect. These two genetic effects were predicted by an adjusted unbiased prediction (AUP) method and used in QTL mapping. The results indicate that some QTL detected for the genetic main effects might also have GE interaction effects. In contrast some identified QTL were mainly controlled by GE interaction effects without significant genetic main effects. The study also revealed that individual QTL showed a range of sensibility to environments as some QTL were detected only in a single environment while others were detected in two environments. It is also shown that QTL associated with total grains and full grains tightly linked to markers RZ675-RG163 on chromosome 4 had high additive effects and high likelihood ratio for both main effects and GE interaction effects seem to act as major gene controlled by genetic main effects and GE interaction effects."}
+	}}

@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:title":{"value":"Effects of FDI on Environment Pollution based on Carbon Dioxide Emissions in the Pearl River Delta Region",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"foreign investment",
+	"xml:lang":"eng"
+	},
+	{"value":"pollution",
+	"xml:lang":"eng"
+	},
+	{"value":"carbon dioxide",
+	"xml:lang":"eng"
+	},
+	{"value":"emission",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513153",
+	"dct:identifier":"IN2016513153",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=32",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Guo Hao"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tang Jie"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wang Dong"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chen Furong"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lin  Lianlian"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Issues related to global climate change have attracted widespread attention around the world, and China is no exception. With the introduction of a huge number of foreign direct investment (FDI), carbon dioxide emission pollution, such as ocean acidification, has become a serious threat in the Pearl River Delta (PRD) region. This study constructs models to analyse the effects of FDI on carbon dioxide emissions in the PRD region, as well as to analyse the scale, technique and composition effects in the area. Results indicate that the introduction of FDI can effectively reduce carbon dioxide emissions in the region because the foreign capital could bring environmental-friendly and energy-saving technologies, reduce carbon dioxide emissions per unit of GDP, and lessen damage to the environment. In addition, foreign capital flowing into the secondary sector has caused more serious damage to the environment than those flowing into the tertiary sector. Therefore, the area should actively guide foreign investment into industries with lower pollution and lower emissions. At the same time, strict standards should be developed to slow down the inflow of foreign capital in sectors which are energy-intensive, environmentally damaging, and have low levels of value-added production.",
+	"xml:lang":"eng"
+	}
+	}}

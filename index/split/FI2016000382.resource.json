@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of redroot pigweed (Amaranthus retroflexus L.) emergence time and density on yield and quality of two sugar beet cultivars.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Heidari, Gholamreza.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nasab, Adel Dabbagh Mohammadi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Javanshir, Aziz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khoie, Farrokh Rahimzadeh.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moghaddam, Mohammad.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"weed competition"},
+	{"value":"sugarbeet"},
+	{"value":"weeds"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000382",
+	"dct:identifier":"FI2016000382",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

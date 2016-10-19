@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of phosphate fertilizers and maize plant density on productivity of cassava/maize/egusi-melon mixtures on Alfisols of Ekiti State, South-Western Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Oluleye, A. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akinrinde, E. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"luvisols"},
+	{"value":"phosphate fertilizers"},
+	{"value":"Manihot esculenta"},
+	{"value":"biomass"},
+	{"value":"cassava"},
+	{"value":"maize"},
+	{"value":"superphosphate"},
+	{"value":"roots"},
+	{"value":"phosphates"},
+	{"value":"leaves"},
+	{"value":"residual effects"},
+	{"value":"plant population"},
+	{"value":"organic wastes"},
+	{"value":"nutrient uptake"},
+	{"value":"application rates"},
+	{"value":"melons"},
+	{"value":"stems"},
+	{"value":"mixed cropping"},
+	{"value":"productivity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002022",
+	"dct:identifier":"FI2016002022",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

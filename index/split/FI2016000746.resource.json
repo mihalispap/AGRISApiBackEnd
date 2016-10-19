@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Study on the relationship between lipoxygenase-3 and the characteristic of resisting storage insects of rice grain.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tang Qingfeng
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang Ying
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu BinMei
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yu ZengLiang
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wu YueJin
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pest resistance"},
+	{"value":"rice"},
+	{"value":"volatile compounds"},
+	{"value":"stored products pests"},
+	{"value":"enzyme activity"},
+	{"value":"pest insects"},
+	{"value":"attractants"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000746",
+	"dct:identifier":"FI2016000746",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

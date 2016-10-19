@@ -1,0 +1,84 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Susceptibility of Eggs, Pupae and Adults of White Grub, Maladera Insanabilis (Brenske) to Entomopathogenic Nematode, Heterorhabditis Bacteriophora Poinar.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":360,
+	"dc:subject":[
+		{"value":"larvae",
+	"xml:lang":"eng"
+	},
+	{"value":"pupe",
+	"xml:lang":"fre"
+	},
+	{"value":"heterorhabditis",
+	"xml:lang":"esp"
+	},
+	{"value":"huevos",
+	"xml:lang":"esp"
+	},
+	{"value":"pupa",
+	"xml:lang":"esp"
+	},
+	{"value":"heterorhabditis bacteriophora",
+	"xml:lang":"esp"
+	},
+	{"value":"oeuf",
+	"xml:lang":"fre"
+	},
+	{"value":"pupae",
+	"xml:lang":"eng"
+	},
+	{"value":"adulte",
+	"xml:lang":"fre"
+	},
+	{"value":"entomophilic nematodes",
+	"xml:lang":"eng"
+	},
+	{"value":"adultos",
+	"xml:lang":"esp"
+	},
+	{"value":"nematode entomopathogene",
+	"xml:lang":"fre"
+	},
+	{"value":"larve",
+	"xml:lang":"fre"
+	},
+	{"value":"nematodos entomofilos",
+	"xml:lang":"esp"
+	},
+	{"value":"larvas",
+	"xml:lang":"esp"
+	},
+	{"value":"eggs",
+	"xml:lang":"eng"
+	},
+	{"value":"adults",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":364,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000050",
+	"dct:identifier":"IN2015000050",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Bhatnagar Ashok"
+	}
+	},
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"To evaluate the susceptibility of life stages of white grub, Maladera insanabilis Brenske against entomopathogenic nematode, Heterorhabditis bacteriophora Poinar bioassays were done in soil as well as on filter paper. No nematode infection developed in eggs in soil as well as on filter paper, even when they were exposed on filter paper to nematodes for 24 h at a very high inoculation dose of 5000 IJs/90 eggs/arena of 50 mm dia. When exposed to nematodes in soil, adults of M. insanabilis were found more susceptible than pupae with LD50 values of 16796.42 and 19896.60 IJs /100 g soil/insect, in adult and pupae respectively. The adults died earlier (LT50, 5.41 days) than pupae (LT50, 5.89 days). Similar trend was observed when insects were exposed on filter paper (LD50 values, 135.80 IJs/adult and 149.61 IJs/ pupa; LT50 values, 5.41 days for adults and 5.89 days for pupae).",
+	"xml:lang":"eng"
+	}
+	}}

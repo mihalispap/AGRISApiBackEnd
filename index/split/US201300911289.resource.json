@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of salinity tolerance of three canola cultivars at germination and early seedling growth stage"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911289",
+	"dct:identifier":"US201300911289",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a27.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Janagard, Manochehr Shiri (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tobeh, Ahmad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Esmailpour, Behrooz (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In order to evaluate the effects of NaCl salinity on germination and early seedling growth stage in rape cultivars of canola, a factorial experiment based on completely randomized design with three replications was carried out at Seed Technology Laboratory of Mohaghegh Ardabili University, Ardabil, Iran, in 2006. Experimental factors included rape seed canola cultivars SLM046, Rigent × Cobra and Okapi and NaCl salinity levels with electrical conductivities 0, 4/5, 8/8, 12/7 and 16/3 dS m-1. Results indicated that the effect of cultivar and salinity were not significant only on shoot  length and dry weight respectively. Higher root length and seed germination percentage of Okapi cultivar under salinity condition indicated higher tolerance of this cultivar."}
+	}}

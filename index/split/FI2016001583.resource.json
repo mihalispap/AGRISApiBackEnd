@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Effekt av droppbevattning med näringtillförsel på skörd och kvalitet hos Summerred.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Sakshaug, Knut.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"hedelmäpuut"},
+	{"value":"yields"},
+	{"value":"laatu"},
+	{"value":"field experimentation"},
+	{"value":"fertilizer application"},
+	{"value":"trickle irrigation"},
+	{"value":"kenttäkokeet"},
+	{"value":"sato"},
+	{"value":"lannoitus"},
+	{"value":"quality"},
+	{"value":"Malus"},
+	{"value":"fruit trees"},
+	{"value":"Malus x domestica"},
+	{"value":"apples"},
+	{"value":"sadetus"},
+	{"value":"omenapuut"},
+	{"value":"Sweden"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (231 :
+    1994 :
+    Kivik)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001583",
+	"dct:identifier":"FI2016001583",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

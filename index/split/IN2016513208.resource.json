@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:title":{"value":"Analyses of Diversion Water Input’s Influence on Water Quality of Dahuofang Reservoir",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"water quality",
+	"xml:lang":"eng"
+	},
+	{"value":"water reservoirs",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513208",
+	"dct:identifier":"IN2016513208",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=43",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Meng Fanbin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Li Haifu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Su Fangli"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wang Tieliang"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"This paper selected Dahuofang Reservoir as the research area, analysed the relationship between water quality and diversion water input, determined the right weight of each index affected the water quality based on correlation analysis and entropy weight method. The results showed that after the diversion water input, the DO is 6739.17t, CODMn is 1735.00t, BOD is 625.83t, NH3-N is12.07t, TP is 12.5t, TN is 1860.75t, coliform-group is 1.38 ×1015. The correlation between the indexes of DO, CODMn, BOD, TN, coliform-group and water quality is significant after diversion water input. The affected right weights of the amount of TN, coliform-group and NH3-N input are more than 0.1, the highest right weight is of TN input (0.1804), followed by coliform-group (0.1173) and NH3-N (0.1165)",
+	"xml:lang":"eng"
+	},
+	{"value":"the most slight one is TP (0.0164). In terms of comprehensive analysis, the influence of each index of diversion water input on water quality of Dahuofang reservoir, the order is TN>coliform-group>NH3-N>BOD>DO>CODMn>TP."}
+	]
+	}}

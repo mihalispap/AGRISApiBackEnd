@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se//a/1239-0992/8/4-5/useofind.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of individual race results in the estimation of genetic parameters of trotting performance for Finnhorse and Standardbred trotters.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Thuneberg-Selonen, Terhi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pösö, Jukka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäntysaari, Esa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ojala, Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"raviurheilu"},
+	{"value":"kotieläinten jalostustiede"},
+	{"value":"jalostuseläimet"},
+	{"value":"horses"},
+	{"value":"animal breeding"},
+	{"value":"animal models"},
+	{"value":"mathematical models"},
+	{"value":"animal performance"},
+	{"value":"racehorses"},
+	{"value":"suorituskyky"},
+	{"value":"ravihevonen"},
+	{"value":"hevonen"},
+	{"value":"tunnusluvut"},
+	{"value":"breeding value"},
+	{"value":"periytyvyys"},
+	{"value":"jalostusarvo"},
+	{"value":"heritability"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000136",
+	"dct:identifier":"FI2016000136",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of pruning and stand density on cone and pollen production in an experimental Pinus sylvestris seed orchard.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"mänty"},
+	{"value":"siemenviljely"},
+	{"value":"seed orchard management"},
+	{"value":"Pinus sylvestris"},
+	{"value":"siementuotanto"},
+	{"value":"crown management"},
+	{"value":"seed production"},
+	{"value":"spacing"},
+	{"value":"management"},
+	{"value":"seed stands"},
+	{"value":"Pinus sylvestris L."}
+	],
+	"bibo:doi":"10.14214/sf.1243",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000611",
+	"dct:identifier":"FI2016000611",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1243",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Almqvist, Curt,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jansson, Gunnar,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

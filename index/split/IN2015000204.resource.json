@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Economics of sheep and goat rearing in semi-arid region of Rajasthan",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":215,
+	"dc:subject":[
+		{"value":"rajasthan",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"ganaderia",
+	"xml:lang":"esp"
+	},
+	{"value":"animal husbandry",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":221,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000204",
+	"dct:identifier":"IN2015000204",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gupta, D.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suresh, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sethi, D."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The study was undertaken with the objective of examining the cost and return of sheep and goat farming in semi-arid Rajasthan. Primary data were collected from 200 breeders spread over 12 villages from two tehsils of Ajmer district. The study indicated that the literacy rate of the head of the small ruminant breeder household was 40%. The average land holding size was 2.77 ha, with less than one-fifth of the area under irrigation. The average sheep and goat flock sizes were 52 and 16, respectively. The gross income from sheep farming was constituted by sale of animals (69.3%), manure (16.6%), milk (7.1%) and wool (7.0%). Whereas the major return to the goat breeder was from the milk (59.7%) followed by sale of animals (33.5%) and manure (6.8%). It was observed that if the expenditure of sheep rearing was calculated including imputed value of family labour and interest on fixed capital, then the expenditure on sheep rearing was more than returns. On the other hand, if the family labour cost and interest charged on fixed assets were ignored, the rearing cost per unit of sheep and goat would be around Rs. 260 and Rs. 344, respectively. The corresponding net return per sheep was Rs. 130 with the benefit-cost ratio of 1.5 and in goat it was Rs. 606 with benefit-cost ratio of 2.8, respectively. The net returns generally decreased with increase in size of holding, more visibly in case of sheep.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Identificação do caráter medicinal da espécie Curatella americana por meio das folhas",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shayanne Vanessa Correia Henriques "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheylla Susan Moreira da Silva de Almeida "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00020",
+	"dct:identifier":"BR2015M00020",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O uso de plantas medicinais foi durante muito tempo o único recurso disponível para o cuidado da saúde das pessoas. Estes conhecimentos foram transmitidos através das gerações familiares. No entanto, com o avanço tecnológico e científico, os medicamentos industrializados se tornaram o modelo majoritário de tratamento alopático utilizado pela população, deslocando o tratamento por plantas medicinais restritos a determinados grupos populares que detêm este conhecimento. Curatella americana é utilizada para tratamento de inflamação e dor, sendo a sua constituição fitoquímica responsável por esses benefícios ainda pouco estudada. Objetivou-se através desta pesquisa realizar o estudo fitoquímico do extrato bruto das folhas de Curatella americana para a identificação dos metabólitos secundários. A metodologia de extração foi por maceração utilizando etanol como líquido extrator, e a concentração e secagem foi por rotaevaporação onde observou-se um rendimento de, aproximadamente, 37%. Em seguida, foi realizada uma análise fitoquímica do extrato bruto, obtendo-se resultado positivo para fenóis, taninos, açúcares redutores, saponinas, depsídeos e depsidonas, esteroides, triterpenoides e alcaloides, onde apresentam amplas atividades biológicas, dente elas inflamação no caso dos taninos. A ação comprovada na literatura dos metabólitos encontrados nas folhas de <em>Curatella americana </em>justifica, em parte, a utilização popular desta planta medicinal.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

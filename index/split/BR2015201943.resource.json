@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Osmocote® no desenvolvimento e comportamento fisiológico de mudas de pitangueira ",
+	"xml:lang":"por"
+	},
+	{"value":"Osmocote® on development and physiological behaviour of seedlings pitangueira",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"4/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015201943",
+	"dct:identifier":"BR2015201943",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/257/208",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Elli Elvis"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Caron Braulio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Monteiro Gean"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pavan Marvius"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pedrassani Mauricio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cantarelli Edison"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eloy Elder"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O trabalho teve como objetivo avaliar o efeito de diferentes doses de Osmocote® no desenvolvimento inicial e no comportamento fisiológico de mudas de pitangueira, bem como a influência da face da folha nas variáveis fisiológicas e térmicas desta espécie. Para tanto, determinou-se o incremento de altura (cm) e diâmetro do colo (mm), utilizando-se uma régua graduada e paquímetro digital, respectivamente. No momento da última avaliação morfológica, determinou-se a resistência difusiva (S cm-1), transpiração (μg cm-2 s-1) e temperatura da folha (°C), com o auxílio de um porômetro deequilíbrio dinâmico, medindo-se as faces abaxial e adaxial da folha. Paralelamente, determinou-se o teor de clorofila (mg m-2), utilizando-se um clorofilômetro SPAD-502. De acordo com a análise de variância, é possível identificar efeitos significativos da dose de Osmocote® sobre todas as variáveismorfológicas e fisiológicas estudadas. O Osmocote® pode ser recomendado para a formação de mudas da espécie Eugenia uniflora, sendo a dose de 3 kg m-3 a que promoveu melhor incremento das variáveis estudadas. O comportamento fisiológico desta espécie é influenciado pela dose deOsmocote®. A transpiração e a resistência difusiva apresentam maiores valores na face abaxial da folha.",
+	"xml:lang":"por"
+	},
+	{"value":"The study aimed to evaluate the effect of different doses of Osmocote® in the initial development and the physiological behavior of seedlings pitangueira, as well as the influence of the face sheet of the physiological and thermal this species. For this, we determined the increase in height (cm) and diameter (mm), using a graduated rule and caliper, respectively. At the time of the last morphologic evaluation, it was determined diffusive resistance (S cm-1), perspiration (mg cm-2 s-1) and leaf temperature (° C), with the aid of a porometer dynamic equilibrium by measuring if abaxial and adaxial leaf. In parallel, we determined the content of chlorophyll (mg m-2), using a SPAD-502 chlorophyll meter. According to the variance analysis, it is possible to identify a significant effect of dose on Osmocote® all morphological and physiological studied. The Osmocote® can be recommended for the formation of seedlings of the species Eugenia uniflora, with the dose of 3 kg m-3 which promoted better growth of the studied variables. The physiological behavior of thisspecies is influenced by the dose of Osmocote®. Perspiration and diffusive resistance have higher values on the abaxial leaf.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Regeneration process from seed crop to saplings : a case study in uneven-aged Norway spruce-dominated stands in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Saksa, Timo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"regeneration"},
+	{"value":"uneven aged stands"},
+	{"value":"Picea abies"},
+	{"value":"boreal forests"},
+	{"value":"metsänuudistus"},
+	{"value":"boreaaliset metsät"},
+	{"value":"eri-ikäiset metsiköt"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001222",
+	"dct:identifier":"FI2016001222",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Determination of thermal conductivity of Malaysian patin fish /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Abbas, K. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sapuan, S. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Megat Ahmad, M. M. H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mokhtar, A. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jamilah, B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Pangasius"},
+	{"value":"elintarvikkeet"},
+	{"value":"freshwater fishes"},
+	{"value":"elintarviketekniikka"},
+	{"value":"kalat"},
+	{"value":"physicochemical properties"},
+	{"value":"analytical methods"},
+	{"value":"fishes"},
+	{"value":"fysikaalis-kemialliset ominaisuudet"},
+	{"value":"sisävesikalat"},
+	{"value":"heat transfer"},
+	{"value":"käsittely"},
+	{"value":"lämmön johtuminen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000058",
+	"dct:identifier":"FI2016000058",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

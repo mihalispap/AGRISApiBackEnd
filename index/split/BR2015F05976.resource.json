@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Variation in the amount of milk offered and effects on the performance of suckling goat kids",
+	"xml:lang":"eng"
+	},
+	{"value":"   Variação da quantidade de leite ofertada e efeitos no desempenho de cabritos lactentes ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"energy sources",
+	"xml:lang":"eng"
+	},
+	{"value":"suckling",
+	"xml:lang":"eng"
+	},
+	{"value":"metabolism",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F05976",
+	"dct:identifier":"BR2015F05976",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1427134951.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MAGIERO, K.P.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MALAFAIA,  P. A. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PIMENTEL, V.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TSURUTA, J.O.S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LOUREIRO, G.S."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The study was conducted with the objective to establish a nutritionally and economically satisfactory management during the suckling phase. Suckling using the traditional amount (1.5 kg milk/day) was compared to suckling according to the energy requirements of the animals (variable amount of milk) calculated by regression based on literature data. Animals receiving the traditional treatment presented a mean weight gain of 0.155 kg/day, which did not differ significantly (P≥0.05) from that of animals receiving a variable amount of milk (mean weight gain of 0.134 kg/day). The average weaning age was 76 days. Animals receiving variable amounts of milk ingested on average 20 kg less milk during the suckling period. Considering the results, the best suckling was obtained when the amount of milk was varied according to the energy requirements of goat kids.",
+	"xml:lang":"eng"
+	},
+	{"value":"O trabalho foi realizado com o objetivo de estabelecer um manejo, durante a fase de aleitamento, que fosse nutricional e economicamente satisfatório. Comparou-se o aleitamento na quantidade tradicional (1,5 kg de leite/dia) com o aleitamento de acordo com as necessidades energéticas dos animais (quantidade variável de leite), calculado por regressão, com base na literatura. Os animais que receberam o tratamento tradicional tiveram ganho de peso médio de 0,155 kg/dia, não diferindo estatisticamente (P≥0,05) do tratamento em que os animais receberam quantidade variável de leite (ganho de peso médio de 0,134 kg/dia). O desaleitamento foi feito, em média, aos 76 dias de idade. Os animais que receberam quantidades variáveis de leite ingeriram, em média, menos 20 kg de leite durante o período de aleitamento. Considerando os resultados, o melhor aleitamento foi o que utilizou a quantidade de leite variando de acordo com as necessidades energéticas dos cabritos.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth performance of pre- and post-weaning Sonadi lambs and adults in the native tract",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":221,
+	"dc:subject":[
+		{"value":"weaning",
+	"xml:lang":"eng"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"rajasthan",
+	"xml:lang":"esp"
+	},
+	{"value":"lambs",
+	"xml:lang":"eng"
+	},
+	{"value":"destete",
+	"xml:lang":"esp"
+	},
+	{"value":"cordero",
+	"xml:lang":"esp"
+	},
+	{"value":"agneau",
+	"xml:lang":"fre"
+	},
+	{"value":"sevrage",
+	"xml:lang":"fre"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":224,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000205",
+	"dct:identifier":"IN2015000205",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tailor, S.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yadav, C.M."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Least-squares analysis of variance was employed to study the effect of district and sex on the measurements and body weight of Sonadi sheep from birth to adulthood. Data on body length, height at withers and heart girth were recorded on 6979 Sonadi sheep maintained by 147 shepherds from eight tehsils in four districts. The overall least-squares mean for body weight at birth was 2.05Â±0.59 kg. The body length, height and girth at birth were 32.86Â±0.84, 37.50Â±0.65 and 35.87Â±0.85 cm, respectively. The height at birth was significantly (P0.01) higher in lamb born in Udaipur, Chittorgarh and Rajsamand compared to Bhilwara district. Girth was significantly more for lambs born in Udaipur district compared to other districts. Body measurements at 3 months of age were significantly (P0.01) affected by districts. The overall least-squares means for body length, height and girth at 6 months of age were 55.50Â±0.54, 56.93Â±0.52 and 58.72Â±0.57 cm respectively. Weight at 6 months was significantly (P0.01) higher in lambs from Chittorgarh district compared to other districts. The effect of district on body measurements and weight at 9 months of age was significant (P0.01). The overall least-squares means for body length, height, girth and weight at 9 months of age were 59.11Â±0.60, 60.54Â±0.58 and 62.61Â±0.64 cm and 20.07Â±0.34 kg, respectively. The district-wise means indicated that body conformation and weight at 15 months of age were significantly higher in Chittorgarh district compared to other districts. The overall means for body length, height, girth and weight at 18 months of age were 64.61Â±0.68, 65.49Â±0.72, 70.74Â±0.77 cm and 28.48Â±0.69 kg, respectively. The lambs of Chittorgarh district showed superiority in terms of body measurements and weight at 18 months of age compared to other districts. The study revealed better performance of Sonadi lambs and adults in terms of body conformation traits at all the stages of growth in Chittorgarh district.",
+	"xml:lang":"eng"
+	}
+	}}

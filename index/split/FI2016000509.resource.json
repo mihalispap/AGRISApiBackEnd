@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Distribusjonssvinn på eple, pære og banan i Norge.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Martinsen, Berit K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bengtsson, Gunnar B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sørensen, Torine.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"transport"},
+	{"value":"omena"},
+	{"value":"bananas"},
+	{"value":"banaani"},
+	{"value":"jakelu"},
+	{"value":"kuljetus"},
+	{"value":"pears"},
+	{"value":"apples"},
+	{"value":"päärynä"},
+	{"value":"tappiot"},
+	{"value":"distribution"},
+	{"value":"handling losses"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (260 :
+    1996 :
+    Ås)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000509",
+	"dct:identifier":"FI2016000509",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

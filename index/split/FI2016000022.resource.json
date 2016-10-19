@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.982",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uotila, Karri,
+    kirjoittaja
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saksa, Timo,
+    kirjoittaja.
+    Metsäntutkimuslaitos
+    METLA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rantala, Juho,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kiljunen, Nuutti,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Labour consumption models applied to motor-manual pre-commercial thinning in Finland .",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"silviculture"},
+	{"value":"forest management"},
+	{"value":"ensiharvennus"},
+	{"value":"harvennus"},
+	{"value":"early cleaning"},
+	{"value":"pre-commercial thinning"},
+	{"value":"thinning"},
+	{"value":"mixed linear regression"},
+	{"value":"metsänhoito"},
+	{"value":"release treatment"},
+	{"value":"clear felling"},
+	{"value":"metsäkasvillisuus"},
+	{"value":"forest vegetation management"},
+	{"value":"productivity"}
+	],
+	"bibo:doi":"10.14214/sf.982",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000022",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000022",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

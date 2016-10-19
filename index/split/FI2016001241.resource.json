@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Foliar potassium concentrations of bilberry, bog bilberry and downy birch as indicators of potassium nutrition of Scots pine on a drained peatland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kaunisto, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sarjala, Tytti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"juolukka"},
+	{"value":"neulasanalyysi"},
+	{"value":"hieskoivu"},
+	{"value":"ravinnepitoisuus"},
+	{"value":"phosphorus"},
+	{"value":"Vaccinium uliginosum"},
+	{"value":"leaves"},
+	{"value":"mustikka"},
+	{"value":"lehtianalyysi"},
+	{"value":"mänty"},
+	{"value":"turvemaat"},
+	{"value":"Pinus sylvestris"},
+	{"value":"peat soils"},
+	{"value":"Betula pubescens"},
+	{"value":"tissue analysis"},
+	{"value":"ojitetut suot"},
+	{"value":"Vaccinium myrtillus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001241",
+	"dct:identifier":"FI2016001241",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

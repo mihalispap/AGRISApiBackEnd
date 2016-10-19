@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.962",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Klockow, Paul A,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    D'Amato, Anthony W,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bradford, John B,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fraver, Shawn,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Nutrient concentrations in coarse and fine woody debris of Populus tremuloides Michx.-dominated forests, northern Minnesota, USA.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"hajoaminen"},
+	{"value":"bioenergy feedstock harvesting"},
+	{"value":"nutrient concentrations"},
+	{"value":"hakkuutähteet"},
+	{"value":"ravinnepitoisuus"},
+	{"value":"Great Lakes"},
+	{"value":"coarse woody debris"},
+	{"value":"fine woody debris"},
+	{"value":"Populus tremuloides"}
+	],
+	"bibo:doi":"10.14214/sf.962",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001229",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001229",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

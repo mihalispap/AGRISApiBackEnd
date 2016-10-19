@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1A52-63newapproaches.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"New approaches to Prunus tree crop breeding"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Martínez-Gómez, Pedro (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sozzi, Gabriel O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sánchez-Pérez, Raquel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rubio, Manuel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gradziel, Thomas M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100002",
+	"dct:identifier":"FI2016100002",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"New strategies for Prunus improvement, including germplasm and molecular marker development and improved propagation techniques, are described. In germplasm improvement, the introduction of genes from related Prunus species conferring several traits including self-compatibility, growth habit, drought resistance, and kernel quality are being pursued. Twin seeds (two embryos within the same seedcoat) have produced seedlings useful for genetic studies. Promising propagation methods include in-vitro techniques for the evaluation of plant material and in-vivo micrograft techniques that allow the early propagation of high-risk genotypes. In addition, the growth of seedlings in controlled environments, including the induction of an artificial rest period in cold chambers, provides a useful strategy for obtaining vigorously growing plants year round. Molecular markers have also become an essential tool in Prunus breeding studies. Different types of molecular markers, including isoenzymes, RFLPs, RAPDs, AFLPs and SSRs, have been employed for the genetic characterization of germplasm, the establishment of genetic relationships between cultivars and species, and the construction of genetic maps. Methodologies for the analysis of marker-assisted selection include the use of mapping populations segregating for desired characters and bulk segregant analysis."}
+	}}

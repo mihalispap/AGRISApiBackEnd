@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-67.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Bypass- and matrix flow produce interflow and contribute to groundwater protection"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Seiler, Klaus-Peter (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100354",
+	"dct:identifier":"FI2016100354",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In the unsaturated zone of Tertiary and Quaternary sediments of Bavaria bypass-flow may get significant as compared to matrix-flow. Tracer experiments with Deuterium prove that bypass-flow exceeds flow velocities of 0.5 m/d and matrix-flow ranges between 0.7 m/year (Loess), 1.2 m/year (Tertiary gravels and sands) and 2 m/year (quaternary gravels). In areas with a deep groundwater table and unconsolidated rocks bypass-flow penetrates to depths of less than 1m (fine sands) and more than 3m (gravels) below ground before it either incorporates into matrix-flow or generates interflow in hilly areas. – Bypass-flow depends upon geologic, biologic, pedologic and in arable lands also from anthropogenic factors. In hilly terrains, bypass- and interflow enhance the export of agrochemicals from the effective root zone; contrary, in flat lands bypass-flow accelerates the input of agrochemicals to groundwater. – Bypass-flow seems to be strongest under wet and dry soil moisture conditions at the surface and more dominant in fluvial than in lake and marine sediments."}
+	}}

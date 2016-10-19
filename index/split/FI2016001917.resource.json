@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/7/3/barleyfi.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Barley fibre and wet distillers' solubles in the diet of growing cattle.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Root, Tarja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huhtanen, Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"animal feeding"},
+	{"value":"beef cattle"},
+	{"value":"lihakarja"},
+	{"value":"ruokinta"},
+	{"value":"säilörehu"},
+	{"value":"byproducts"},
+	{"value":"sonnit"},
+	{"value":"rankki"},
+	{"value":"nautakarja"},
+	{"value":"barley"},
+	{"value":"kasvu"},
+	{"value":"bulls"},
+	{"value":"ohra"},
+	{"value":"silage"},
+	{"value":"supplements"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001917",
+	"dct:identifier":"FI2016001917",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

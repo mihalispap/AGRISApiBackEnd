@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of plant products and containers on insect damage of Maize hybrid seeds during storage",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":296,
+	"dc:subject":[
+		{"value":"recipientes de almacenamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"storage containers",
+	"xml:lang":"eng"
+	},
+	{"value":"sitophilus zeamais",
+	"xml:lang":"esp"
+	},
+	{"value":"plant products",
+	"xml:lang":"eng"
+	},
+	{"value":"zea mays",
+	"xml:lang":"esp"
+	},
+	{"value":"productos de origen vegetal",
+	"xml:lang":"esp"
+	},
+	{"value":"produit vegetal",
+	"xml:lang":"fre"
+	},
+	{"value":"recipient de stockage",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":299,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000508",
+	"dct:identifier":"IN2015000508",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Asha, A.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kurdikeri, M.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vinodkumar, S.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sunitha, H.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hipparagi, Yegappa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sushma, P.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nemappa, L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shivakumar, H."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Maize seeds were treated with neem, castor, pongamia, tulsi leaf, mandarin peel, sweet flag, arappu leaf, parthenium leaf powder, wood ash, thiram and control, stored in cloth bag, polythene bag (700guage) and vacuum packaging under ambient conditions. The maize seeds recorded highest insect damage at the end of 14 months of storage irrespective of containers and treatments. Among the seed treatments, seed treated with thiram recorded lowest seed damage by insect up to 14 months of storage while highest seed damage (%) recorded in control compared to other seed treatments at the end of storage period. Whereas seeds stored in vacuum package were absolutely free from insect attack at the end of the storage period followed by polythene bag.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison between Kotka III recommendations and FRA 2000 output.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Holmgren, Peter.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Prins, Kit.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest resources"},
+	{"value":"metsävarat"},
+	{"value":"guidelines"},
+	{"value":"forest inventories"},
+	{"value":"metsäninventointi"},
+	{"value":"suositukset"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001896",
+	"dct:identifier":"FI2016001896",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

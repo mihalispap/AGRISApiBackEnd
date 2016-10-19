@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/commentary1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutraceuticals and functional foods: I. Current trend in phytochemical antioxidant research"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tsao, Rong (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akhtar, M. Humayoun (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100357",
+	"dct:identifier":"FI2016100357",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In the past decade, we have seen a massive explosion of research activities and health product market in the field of nutraceuticals and functional foods (NFF). What are nutraceuticals or functional foods? Different variations exist for the definition of the term “nutraceutical”. Wildman¹ defined nutraceuticals as “chemicals found as a natural component of foods or other ingestible forms that have been determined to be beneficial to the human body in preventing or treating one or more diseases or improving physiological performance. Essential nutrients can be considered nutraceuticals if they provide benefit beyond their essential role in normal growth or maintenance of the human body. An example is the antioxidant properties of vitamin C and E”. Health Canada’s definition for nutraceutical is: a product isolated or purified from foods that is generally sold in medicinal forms not usually associated with food. A nutraceutical is demonstrated to have a physiological benefit or provide protection against chronic disease². A nutraceutical is different from a drug which is highly regulated, and a substance or mixture of substances manufactured, sold or represented for use in (a) the diagnosis, treatment, mitigation or prevention of a disease, disorder, abnormal physical state or the symptoms thereof, in man or animal, (b) restoring, correcting or modifying organic functions in man or animal or (c) disinfection in premises in which food is manufactured, prepared or kept³. It is not a food, because they do not provide basic nutritional values. A functional food, on the other hand, is a food, either natural or formulated, which will enhance physiological performance or prevent or treat diseases and disorders. Functional foods include those items developed for health purposes as well as for physiological performance. The Institute of Medicine’s Food and Nutrition Board defines functional foods as “any food ingredient that may provide a health benefit beyond the traditional nutrients it contains” ¹. However, different versions exist for the definition of functional food. The Australian National Food Authority defines the functional foods as: similar in appearance to conventional foods and are intended to be consumed as part of a usual diet, but have been modified to subserve physiological roles beyond the provision of simple nutritional requirements. The physiological effects claimed for these foods vary widely. In Canada both nutraceuticals and functional foods are regulated by Health Canada, and the definition of a functional food given by Health Canada was similar to the Australian one ¹,³. (More details in the full article.)"}
+	}}

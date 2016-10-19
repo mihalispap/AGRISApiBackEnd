@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n2p169.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Sauerkraut and sauerkraut juice fermented spontaneously using mineral salt, garlic and algae.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wiander, Britta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Palva, Airi
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hapankaali"},
+	{"value":"elintarvikkeet"},
+	{"value":"suola"},
+	{"value":"käyminen"},
+	{"value":"foods"},
+	{"value":"cabbages"},
+	{"value":"vihannesmehut"},
+	{"value":"suolapitoisuus"},
+	{"value":"vegetable juices"},
+	{"value":"fermented foods"},
+	{"value":"fermentation"},
+	{"value":"käymistuotteet"},
+	{"value":"suolat"},
+	{"value":"vihannesvalmisteet"},
+	{"value":"soft drinks"},
+	{"value":"salts"},
+	{"value":"mehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000239",
+	"dct:identifier":"FI2016000239",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

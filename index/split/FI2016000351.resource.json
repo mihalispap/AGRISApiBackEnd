@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influences on air quality and odor from mechanically ventilated swine finishing buildings in Illinois /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Miller, Gay Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maghirang, Ronaldo G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Riskowski, Gerald L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heber, Albert J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Robert, Matthew J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Muyot, Maria E. T.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"smell"},
+	{"value":"ympäristöhaitat"},
+	{"value":"ympäristö"},
+	{"value":"animal housing"},
+	{"value":"Illinois"},
+	{"value":"hajuhaitat"},
+	{"value":"ventilation"},
+	{"value":"USA"},
+	{"value":"piggeries"},
+	{"value":"environment"},
+	{"value":"ilmanlaatu"},
+	{"value":"ilmastointi"},
+	{"value":"sikalat"},
+	{"value":"haju"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000351",
+	"dct:identifier":"FI2016000351",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

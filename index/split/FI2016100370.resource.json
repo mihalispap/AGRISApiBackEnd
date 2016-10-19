@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Screening for tolerance of stress temperature during germination of twenty five cowpea (Vigna unguiculata L. Walp) cultivars"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Islam, Shahidul (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carmen, Rafaela C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Garner, Jr., James O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100370",
+	"dct:identifier":"FI2016100370",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Cowpea (Vigna unguiculata L. Walp) is a legume adapted to subtropical to tropical conditions. It is susceptible to chilling temperatures, primarily during the early stages of germination. Twenty five cultivars were screened during 2000 and 2001 for germination at low (10°C), moderate (30°C) and at high (40°C) temperatures. The cultivars were Pinkeye Purple Hull (PPH), California Black Eye (CBE), Tahoro O’ Adhan (TA), Elite (E), Big Boy Purple Hull (BBPH), Texas Cream (TC), Tennessee White Crowder (TWC), Cream 8 (C-8), Guajirio Yoro Mami (GYM), Mississippi Cream (MC), C.T. Pinkeye Purple Hull (CTPPH), Tetapeche Grey (TG), Mayo Colina (MAC), Speckled Purple Hull (SPH), Mayo Colina Pinto (MCP), Black Crowder (BC), Whippoorwill (W), Knuckle Purple Hull (KPH), Corriente (C), Frijol Reata (FR), Mississippi Purple (MP), Mississippi Pinkeye (MPE), Zipper Cream (ZC), Mississippi Silver (MS) and Bisbee Black (BB). Temperatures held at 10, <40, <30°C had a negative effect on germination percent and coefficient of velocity of germination (CVG). There were significance differences among cultivars in germination and CVG at all three temperatures studied. Cultivars with high germination or CVG at moderate temperature did not necessarily show high germination at low or high temperature. Cultivars with greater germination at high temperature showed lower ability to germinate at low temperature. The results may be useful in formulating efficient selection and various breeding programs in improving desired quality characteristics of cowpea."}
+	}}

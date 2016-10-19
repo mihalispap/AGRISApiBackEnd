@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Raa'an siipikarjanlihan kontaminoituminen patogeenisilla bakteereilla : kirjallisuuskatsaus.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Ristiniemi, Minna.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"siipikarja"},
+	{"value":"Listeria monocytogenes"},
+	{"value":"Aeromonas"},
+	{"value":"bacteria"},
+	{"value":"Clostridium perfringens"},
+	{"value":"Escherichia coli"},
+	{"value":"Cambylobacter"},
+	{"value":"food hygiene"},
+	{"value":"Staphylococcus aureus"},
+	{"value":"salmonella"},
+	{"value":"siipikarjanliha"},
+	{"value":"contamination"},
+	{"value":"poultry meat"},
+	{"value":"elintarvikehygienia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001064",
+	"dct:identifier":"FI2016001064",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

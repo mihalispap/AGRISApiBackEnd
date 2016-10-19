@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/10/1/effectof.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of two microbial phytase preparations on phosphorus utilisation in broilers fed maize-soybean meal based  diets.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Valaja, Jarmo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Perttilä, Sini.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Partanen, Kirsi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kiiskinen, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Piironen, Jari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"phytase"},
+	{"value":"fytaasi"},
+	{"value":"broiler chickens"},
+	{"value":"poultry"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"broilerit"},
+	{"value":"entsyymit"},
+	{"value":"ruokintakokeet"},
+	{"value":"enzymes"},
+	{"value":"siipikarja"},
+	{"value":"Trichoderma longibrachiatum"},
+	{"value":"Trichoderma reesei"},
+	{"value":"Aspergillus niger"},
+	{"value":"supplements"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000870",
+	"dct:identifier":"FI2016000870",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

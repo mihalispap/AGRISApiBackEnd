@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Harvest time residues of carbosulfan in brinjal fruits /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rajeswaran, J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Merlinkamala, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chandrasekaran, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jayakumar, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuttalam, S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"residues"},
+	{"value":"insecticides"},
+	{"value":"harvesting date"},
+	{"value":"insect control"},
+	{"value":"insektisidit"},
+	{"value":"Solanum melongena"},
+	{"value":"aubergines"},
+	{"value":"munakoiso"},
+	{"value":"food safety"},
+	{"value":"tuhoeläimet"},
+	{"value":"torjunta"},
+	{"value":"pests of plants"},
+	{"value":"carbosulfan"},
+	{"value":"torjunta-ainejäämät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000225",
+	"dct:identifier":"FI2016000225",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

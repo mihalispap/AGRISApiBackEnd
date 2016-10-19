@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of chemometric tools to compare Algerian olive oils produced in different locations"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2012447734",
+	"dct:identifier":"FI2012447734",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/f9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Benabid, Hamida (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naamoune, Hacène (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Noçairi, Hicham (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rutledge, Douglas N. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The aim of this study was to determine whether the chemical characteristics of olive oils collected from five areas in Algeria (El Milia, Constantine, Tizi Ouzou, Setif and Skikda) could be used to discriminate their geographical origin. Little recent data is available concerning the composition of Algerian olive oils. These compositional parameters were statistically analysed using three chemometrical methods, Principal Components Analysis (PCA), Canonical Discriminant Analysis (CDA) and Direct Orthogonalisation (DO). The first Principal Component (PC1) was dominated by the following variables: acidity, α- and γ-tocopherols, extinction coefficient at 232 nm (K232) as well as the iodine index and the saponification index. The second Principal Component (PC2) reflects essentially the opposition between the extinction coefficient at 270 nm (K270), the difference in the absorption coefficients at wavelengths around 270 nm (Delta K), peroxide index and the iodine and saponification indexes. CDA shows that a good separation of the groups of samples is to be had in the plane of the first two Canonical Discriminant Functions. Region 2 (Constantine) is characterised by higher levels of K270 and Delta K; Region 3 (Tizi Ouzou) by high peroxide index and Region 4 (Setif) by high γ-tocopherol, peroxide and iodine indexes. The separation of the groups after subtracting one orthogonal component by DO, did not improve the results obtained with the CDA. The results obtained show that it is possible to discriminate different Algerian oils, using easily performed chemical and chemometric techniques. It is therefore feasible to proceed with the large-scale collection of compositional data on olive oils in order to establish a databank to serve to characterise their quality and geographical authenticity."}
+	}}

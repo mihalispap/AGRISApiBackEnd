@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Will climate change affect the optimal choice of Pinus sylvestris provenances?.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Persson, Bengt.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"ilmastonmuutokset"},
+	{"value":"mänty"},
+	{"value":"provenance"},
+	{"value":"tuotos"},
+	{"value":"yields"},
+	{"value":"climatic change"},
+	{"value":"Pinus sylvestris"},
+	{"value":"survival"},
+	{"value":"alkuperä"},
+	{"value":"lämpösumma"},
+	{"value":"Sweden"},
+	{"value":"temperature"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001546",
+	"dct:identifier":"FI2016001546",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

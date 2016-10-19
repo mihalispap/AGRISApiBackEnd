@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Pohjois-Pohjanmaa siirtymässä alueiden kehittämisessä yhä enemmän oppivaan suunnitteluun.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Törttö, Heli.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"aluesuunnittelu"},
+	{"value":"suunnittelu"},
+	{"value":"regional development"},
+	{"value":"Finland"},
+	{"value":"aluekehitys"},
+	{"value":"regional planning"},
+	{"value":"ympäristövaikutukset arviointi"},
+	{"value":"maankäyttö"},
+	{"value":"sustainability"},
+	{"value":"kestävä kehitys"},
+	{"value":"resource management"},
+	{"value":"land use"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001936",
+	"dct:identifier":"FI2016001936",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

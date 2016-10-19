@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of synomones on foraging response of larval parasitoid, Bracon brevicornis",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":77,
+	"dc:subject":{"value":"bracon brevicornis",
+	"xml:lang":"esp"
+	},
+	"bibo:volume":21,
+	"bibo:pageEnd":82,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000225",
+	"dct:identifier":"IN2015000225",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Archna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Verman, Abhilasha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wadhwa, Nidhi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barooah, Prajjalendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zayeem, Asfiya"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Y-tube olfactometer bioassays were carried out to elucidate the individual and associative learning behavioural response of larval parasitoid, Bracon brevicornis towards various concentrations of hexane extract of Azadirachta indica, Ocimum tenuiflorum, Cassia occidentalis, Cuscuta reflexa and Ricinus communis. Hexane extracts were subjected to gas liquid chromatography to determine the saturated hydrocarbon profile. Higher associative orientation response of B. brevicornis was recorded towards C. occidentalis and C. reflexa whereas individual response was maximum for C. occidentalis. Gas liquid chromatography of the extracts indicated the presence of eighteen hydrocarbons ranging from Heneicosane (C21) to Octatriacontane (C38). Preferred leaf extracts A. indica and C. occidentalis indicated higher presence of straight chain saturated hydrocarbons Dotriocontane (C32) and Tritriocontane (C33). Study revealed that preferred concentration of these extracts could be exploited to enhance the host searching efficacy of B. brevicornis in different field released during IPM programmes.",
+	"xml:lang":"eng"
+	}
+	}}

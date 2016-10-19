@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal incidence of rice yellow stem borer, Scirpophaga incertulas (walker) in Tamil Nadu",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":109,
+	"dc:subject":[
+		{"value":"scirpophaga incertulas",
+	"xml:lang":"esp"
+	},
+	{"value":"plant diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"maladie des plantes",
+	"xml:lang":"fre"
+	},
+	{"value":"enfermedades de las plantas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":112,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000017",
+	"dct:identifier":"IN2015000017",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Justin, C"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leo, Gailce"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Preetha, G"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The seasonal incidence of rice yellow stem borer, Scirpophaga incertulas (Walker) was studied at the Agricultural Research Station, Tamil Nadu Agricultural University, Thirupathisaram, Kanyakumari district during 2008â09, 2009â10 and 2010â11. The results revealed that the infestation was found during August-September and December-February, reaching the peak in January-February, and without any infestation in other months. Studies on correlation with weather parameters showed a significant positive correlation with relative humidity and negative correlation with minimum temperature and rainfall.",
+	"xml:lang":"eng"
+	}
+	}}

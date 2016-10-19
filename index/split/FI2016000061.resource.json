@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The impact of agriculture on autumn staging Eurasian Cranes (Grus grus) in Estonia /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Leito, Aivar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Truu, Jaak.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Õunsaar, Maris.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sepp, Kalev.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaasik, Are.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ojaste, Ivar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mägi, Eve.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Estonia"},
+	{"value":"agricultural policies"},
+	{"value":"ympäristö"},
+	{"value":"maatalous"},
+	{"value":"linnut"},
+	{"value":"maatalouspolitiikka"},
+	{"value":"agriculture"},
+	{"value":"maankäyttö"},
+	{"value":"maatalousmaa"},
+	{"value":"birds"},
+	{"value":"Grus grus"},
+	{"value":"nature conservation"},
+	{"value":"animal welfare"},
+	{"value":"cultivated land"},
+	{"value":"eläimistön suojelu"},
+	{"value":"crane"},
+	{"value":"land use"},
+	{"value":"kurki"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000061",
+	"dct:identifier":"FI2016000061",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

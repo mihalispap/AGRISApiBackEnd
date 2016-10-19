@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Micropropagation in the strawberry (Fragaria x ananassa Duch.) inbred lines.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Zebrowska, Jadwiga I.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"mikrolisäys"},
+	{"value":"Fragaria x ananassa"},
+	{"value":"inbreeding"},
+	{"value":"micropropagation"},
+	{"value":"strawberries"},
+	{"value":"mansikat"},
+	{"value":"jalostusmenetelmät"},
+	{"value":"solukkoviljely"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000921",
+	"dct:identifier":"FI2016000921",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

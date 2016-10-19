@@ -1,0 +1,18 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysis of productivity and risk factors in commercial poultry production in Osun State, Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025532",
+	"dct:identifier":"FI2005025532",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a3.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Ojo, S.O. (author)"
+	}
+	},
+	"bibo:abstract":{"value":"The resource use efficiency and occurrence of risk factors in poultry production in Osun State, Nigeria were examined using the production function and Bayesian decision model analysis. Data were collected using a set of questionnaire from 200 poultry farmers selected from five local government areas of the state using the multistage sampling technique. There were efficient allocation and utilization of resources in poultry production in the study area as shown by the returns to scale of 0.253 and elasticities of production of the factors most of which were in stage II of the production surface. The factors of feed and labour costs showed decreasing function to the factors and were in stage III of the production surface and thus inefficiently allocated. The identified major risk factors were that of diseased/parasites and feed poisoning with posterior probabilities of occurrence of 0.787 and 0.212 respectively. These are preventable risks if there are efficient management practices."}
+	}}

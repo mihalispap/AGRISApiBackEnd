@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Desorption of sorbed Zn in some acid soils affected by organic matter application"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026641",
+	"dct:identifier":"FI2005026641",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/e7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Das, D. K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dutta, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maiti, Debtanu (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karak, Tanmoy (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Five samples (0-15 cm depth) of acid soils of the subtropical regions in West Bengal were collected from the soil orders Alfisol (S1-S4) and Inceptisol (S5) representing red laterite and old alluvial zones. Soils without addition of organic matter and treated with 1% well-rotten farmyard manure were suspended in 0.01 M CaCl2 solution containing 0, 50, 100 and 200 µg ml-1 of Zn. After equilibration (24 hours at 28±2°C) Zn concentration in the supernatant solution was determined and the amount of Zn adsorbed calculated. The residual soils were washed with alcohol and sequentially extracted with double distilled water, 1 M Mg(NO3)2 (pH 7.0), 0.005 M Cu(OAC)2, 0.1 M NH2OH·HCl (pH 2.0), 0.2 M (NH4)2C2O4 (pH 3.0) and 0.1 M ascorbic acid (C6H8O6) to obtain water-soluble and exchangeable Zn and Zn fractions bound to organic matter, Mn-oxides and amorphous and crystalline Fe oxides. The desorption of sorbed Zn was higher in soils containing higher amount of free MnO2, Al2O3 and amorphous and crystalline Fe. The amount of cumulative desorption of Zn increased with an increasing level of Zn in all soils but cumulative percent desorption decreased with an increased level of Zn. The highest cumulative percent desorption (93.8) was recorded in soils without addition of organic matter while that of the same was highest (91.2) in soils treated with organic matter. The ability of different extractants for the desorption of sorbed Zn from soils was followed in the order: Cu(OAC)2 > Mg (NO3)2 > (NH4)2C2O4 > NH2OH HCl > C6H8O6."}
+	}}

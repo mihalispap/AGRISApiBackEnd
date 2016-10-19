@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Incidence and management of mosaic and leaf curl diseases in cultivars of chilli (Capsicum annuum)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khan, Sajid M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raj, Shri Krishna (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bano, Tahseen (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Garg, Vijay K. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100049",
+	"dct:identifier":"FI2016100049",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Natural incidence of severe mosaic and leaf curl diseases was observed on various cultivars of chilli (Capsicum annuum) grown at Banthra research station of N.B.R.I., Lucknow. The virus isolates causing mosaic and leaf curl diseases in chilli cultivars were transmitted by aphids and whiteflies respectively. Cucumber mosaic virus was detected from the samples showing severe or mild mosaic symptoms by dot blot hybridization tests using cloned probe of a cucumovirus and confirmed by RT-PCR. While a geminivirus was found to be associated with the leaf curl disease as evidenced by dot blot tests and PCR using geminivirus detecting primers. Regular spraying of insecticide at every 21 days interval was found to be effective for management of these diseases. An improvement in growth and yield performance of treated plants was noticed as compared to the non-treated plants."}
+	}}

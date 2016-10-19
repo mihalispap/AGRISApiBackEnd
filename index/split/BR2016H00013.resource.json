@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"EFFECTS OF ALUMINUM ON SEED GERMINATION AND INITIAL GROWTH OF PHYSIC NUT SEEDLINGS",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":24,
+	"bibo:volume":2,
+	"bibo:pageEnd":31,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00013",
+	"dct:identifier":"BR2016H00013",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/248",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Juan Sotta Machado"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fábio Steiner"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiago Zoz"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guilherme Bento Honda"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bruno Leminski Neto de Oliveira"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Aluminum toxicity is one of the major factors that limit plant  growth and crop yield in acid soils.  The phytotoxic effects of aluminum on seed germination and initial growth of physic nut seedlings were investigated in the present study.   Physic nut seeds were subjected to five levels of aluminum [0 (control), 20, 40, 60 and 80 mg ..",
+	"xml:lang":"por"
+	}
+	}}

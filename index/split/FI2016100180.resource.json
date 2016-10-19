@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Geoinformatics application to investigate agricultural potential in Cholistan desert"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Ahmad, Farooq (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100180",
+	"dct:identifier":"FI2016100180",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Agriculture plays the most important part in the economy of Pakistan from macro perspective, while an equally important part in our social setup from a micro perspective. The ecological system of Cholistan desert is highly delicate and has gone under tremendous changes brought upon by physical and mainly by human interventions. The rapid development and integration of spatial technologies such as Geographic Information System, Global Positioning System and Remote Sensing, have created many new tools for professionals, but have also widened the “digital divide”, leaving many with little understanding of the technology and potential applications. Remote sensing can provide valuable, timely and even predicted information about environment as an important basis for sustainable development. Geographic Information System can provide effective tools for decision makers. The uses of GIS, GPS and RS technologies, either individually or in combination, span a broad range of applications and degrees of complexity. It facilitates cooperative approaches and with the integration of GIS, there will be a whole new framework for organizations and society to work together and make decisions. However, an integrated GIS-based database management system handles this highly significant task to make our country more prosper among nations."}
+	}}

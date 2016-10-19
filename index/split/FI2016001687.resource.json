@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n4p327.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Biosynthesis of very long chain polyunsaturated fatty acids in the leafy vegetable chicory.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mekky, Hattem.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohamed, Maged.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lazarus, Colin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Power, J. Brian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Davey, Michael R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"varieties"},
+	{"value":"fatty acids"},
+	{"value":"rasvahapot"},
+	{"value":"geenitekniikka"},
+	{"value":"chicory"},
+	{"value":"properties"},
+	{"value":"sikurit"},
+	{"value":"Cichorium"},
+	{"value":"kasvinjalostus"},
+	{"value":"genetic engineering"},
+	{"value":"leaf vegetables"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"biosynthesis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001687",
+	"dct:identifier":"FI2016001687",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of silvicultural regime on wood structure characteristics and mechanical properties of clear wood in Pinus sylvestris.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Eriksson, Daniel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindberg, Henrik.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergsten, Urban.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"silviculture"},
+	{"value":"structural characteristics"},
+	{"value":"metsänkäsittelytavat"},
+	{"value":"Pinus sylvestris"},
+	{"value":"mechanical properties"},
+	{"value":"metsänhoito"},
+	{"value":"silvicultural regime"},
+	{"value":"silvicultural systems"},
+	{"value":"fysikaaliset ominaisuudet"},
+	{"value":"puu"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001193",
+	"dct:identifier":"FI2016001193",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

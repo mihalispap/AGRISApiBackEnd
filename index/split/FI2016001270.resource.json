@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Formic acid treated whole crop barley and wheat silages in dairy cow diets : effects of crop maturity, proportion in the diet, and level and type of concentrate supplementation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jaakkola, Seija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saarisalo, Eeva.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heikkilä, Terttu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"dairy cows"},
+	{"value":"vehnä"},
+	{"value":"formic acid"},
+	{"value":"kokoviljasäilörehu"},
+	{"value":"animal feeding"},
+	{"value":"lypsykarja"},
+	{"value":"whole crop silage"},
+	{"value":"ruokinta"},
+	{"value":"säilörehu"},
+	{"value":"cereals"},
+	{"value":"rehunsäilöntäaineet"},
+	{"value":"barley"},
+	{"value":"ohra"},
+	{"value":"wheats"},
+	{"value":"muurahaishappo"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001270",
+	"dct:identifier":"FI2016001270",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

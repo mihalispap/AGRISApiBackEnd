@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/8/4-5/pathogen.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathogen derived resistance to Potato virus Y: mechanisms and risks.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mäki-Valkama, Tuula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valkonen, Jari P. T.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Potyvirus"},
+	{"value":"resistenssi"},
+	{"value":"potatoes"},
+	{"value":"siirtogeeniset kasvit"},
+	{"value":"geenitekniikka"},
+	{"value":"virustaudit"},
+	{"value":"genetic transformation"},
+	{"value":"genetic engineering"},
+	{"value":"geenin siirto"},
+	{"value":"taudinkestävyys"},
+	{"value":"viruskestävyys"},
+	{"value":"peruna"},
+	{"value":"potyviruses"},
+	{"value":"transgenic plants"},
+	{"value":"resistance to injurious factors"},
+	{"value":"perunan Y-virus"},
+	{"value":"Solanum tuberosum"},
+	{"value":"potato y potyvirus"},
+	{"value":"siirtogeenikasvit"},
+	{"value":"plant diseases"},
+	{"value":"viruses"},
+	{"value":"virukset"},
+	{"value":"siirtogeenin kasvi"},
+	{"value":"PVY"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001357",
+	"dct:identifier":"FI2016001357",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

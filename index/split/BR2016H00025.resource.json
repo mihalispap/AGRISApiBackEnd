@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"QUALIDADE FISIOLÓGICA E COMPOSIÇÃO QUÍMICA DE SEMENTES DE BRACHIARIA BRIZANTHA EM FUNÇÃO DO CONDICIONAMENTO OSMÓTICO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":42,
+	"bibo:volume":2,
+	"bibo:pageEnd":48,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00025",
+	"dct:identifier":"BR2016H00025",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-07",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/264",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Eliana Duarte Cardoso"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marco Eustáquio de Sá"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kuniko Iwamoto Haga"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Flávio Ferreira da Silva Binotti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Edilson Costa"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"O condicionamento fisiológico em sementes tem se mostrado benéfico, entretanto há necessidade de estudos para cada espécie de interesse. Objetivou-se com este trabalho avaliar o efeito do condicionamento osmótico (CO) com diferentes soluções na qualidade ...",
+	"xml:lang":"por"
+	}
+	}}

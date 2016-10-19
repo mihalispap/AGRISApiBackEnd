@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of acute phase proteins and nitric oxide as indicator of subclinical mastitis in Holstein Ã Haryana cattle",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1029,
+	"dc:subject":[
+		{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"mammite bovine",
+	"xml:lang":"fre"
+	},
+	{"value":"mastitis bovina",
+	"xml:lang":"esp"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	},
+	{"value":"bovine mastitis",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1031,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000279",
+	"dct:identifier":"IN2015000279",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gera, Sandeep"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guha, Anirban"
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The present investigation was conducted to evaluate acute phase proteins alpha 1  anti trypsin, alpha 1  acid glycoprotein and fibrinogen) and NOx as indicators of subclinical mastitis (SCM) in 212 Holstein Â~ Hariana (F 1 ) cow milk. The assay revealed that fibrinogen was below detection level in both healthy and diseased milk. Somatic cell count (SCC), alpha 1  anti trypsin and NOx increased significantly high in SCM milk, whereas, the increase of  acid glycoprotein was noted to be significant. From the udder profile correlation coefficient it was observed that log 10 1 SCC vs alpha  anti trypsin and NOx was significant (0.257 and 0.216, respectively) and alpha 1  acid glycoprotein was significant (0.173) in SCM milk only. Normal milk log SCC was significantly correlated to NOx (0.152). Highly significant correlation was observed between alpha 1 10 - anti trypsin and NOx (0.245) in SCM milk only. Correlation between alpha  acid glycoprotein and NOx was significant (0.162). This illustrates that these components are linked with each other in SCM milk. alpha 1  anti trypsin followed by alpha  acid glycoprotein were most sensitive, specific and accurate of the three investigated component. Though the magnitude of percent specificity for each parameter is less but their sensitivity is very high, which implies that they can detect SCM at an early stage. Thus, it can be concluded that alpha - anti trypsin and alpha  acid glycoprotein are indicators of bovine SCM, the former being the better.",
+	"xml:lang":"eng"
+	}
+	}}

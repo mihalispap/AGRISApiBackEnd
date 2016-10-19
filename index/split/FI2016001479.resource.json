@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Lignocellulolytic enzymes profile of three Lentinula edodes (Berk.) Pegler strains during cultivation on eucalyptus bark-based medium /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Cavallazzi, José Renato P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Brito, Manuela de S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oliveira, Maria Goreti de A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Villas-Bôas, Silas G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kasuya, Maria Catarina M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"wood residues"},
+	{"value":"edible fungi"},
+	{"value":"waste utilization"},
+	{"value":"siitake"},
+	{"value":"ruokasienet"},
+	{"value":"sellulaasit"},
+	{"value":"entsyymit"},
+	{"value":"ligniini"},
+	{"value":"logging wastes"},
+	{"value":"enzymes"},
+	{"value":"eucalyptus"},
+	{"value":"jätepuu"},
+	{"value":"cellulase"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001479",
+	"dct:identifier":"FI2016001479",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

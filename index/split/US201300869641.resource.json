@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of light, temperature and different media on seed germination of Brassica juncea (L. Czern) var. Ensabi in the laboratory"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869641",
+	"dct:identifier":"US201300869641",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tossi, Abbas Fallah (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bakar, Baki Haji (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The germination requirements of Brassica juncea (L. Czern) var. Ensabi were studied under control conditions in the laboratory. The treatment included two light levels (12:12 h light:dark period and 24-h dark environment) and five temperature regimes (15, 20, 25, 30 and 35°C) using a completely randomized blockdesign. Germination rate and germination capacity increased significantly with increasing temperature from 15 to 35°C for all treatments to an optimum of 25-30°C and decreased after 35°C. Germination was not sensitive to different light regimes. Fresh and dry seeds subjected to all chemical media irrespective of temperature regimes in darkness and light failed to germinate."}
+	}}

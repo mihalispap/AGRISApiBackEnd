@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on comparative efficiency of different mechanical harvesters in coffee with reference to manual harvesting",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":400,
+	"dc:subject":[
+		{"value":"Manual Harvesting"},
+	{"value":"recolte",
+	"xml:lang":"fre"
+	},
+	{"value":"methode mecanique",
+	"xml:lang":"fre"
+	},
+	{"value":"metodos mecanicos",
+	"xml:lang":"esp"
+	},
+	{"value":"efficacite",
+	"xml:lang":"fre"
+	},
+	{"value":"harvesting",
+	"xml:lang":"eng"
+	},
+	{"value":"efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"cafe",
+	"xml:lang":"esp"
+	},
+	{"value":"eficacia",
+	"xml:lang":"esp"
+	},
+	{"value":"mechanical methods",
+	"xml:lang":"eng"
+	},
+	{"value":"coffee",
+	"xml:lang":"eng"
+	},
+	{"value":"cosecha",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":403,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000886",
+	"dct:identifier":"IN2015000886",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Venkatesha, M.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Babou, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kamala Bai, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raghuramulu, Y."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

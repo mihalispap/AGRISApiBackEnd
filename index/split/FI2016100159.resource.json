@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Translocation and distribution of 13C-photosynthates in ‘Fuyu’ persimmon (Diospyros kaki) grafted onto different rootstocks"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Simkhada, E. P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sekozawa, Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sugaya, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gemma, H. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100159",
+	"dct:identifier":"FI2016100159",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effects of rootstock on translocation of photosynthates was determined at matured leaf stage in 2-year-old ‘Fuyu’(Diospyros kaki) persimmon trees grafted onto D. kaki and D. lotus rootstocks by using 13C tracer method. The number of leaves and branches, growth of shoot, trunk and tree, photosynthetic rate, stomatal conductance and transpiration rate were significantly higher in D. kaki than in D. lotus. Similarly, the total amount of 13C was higher in D. kaki than in D. lotus. The partitioning of 13C-photosynthates in leaves and branches decreased with time but it increased in trunk shoot, graft union, tap root, roots of more than 2 mm in thickness (roots ≥2 mm) and roots of less than 2 mm in thickness (roots <2 mm) in both the combinations. The roots <2 mm and the entire parts below the graft union of ‘Fuyu’/D. lotus combination accumulated significantly lower amounts of 13C as compared to ‘Fuyu’/D. kaki combination. It is possible that the graft union between ‘Fuyu’ and D. lotus could be a physical barrier that impairs the translocation of photosynthates. When treated by girdling at the upper trunk with nearby leaves fed on the 13CO2, 13C allocation in the middle part of leaves and branches just above fed leaves was significantly higher in D. kaki than in D. lotus. These results imply that upward partitioning of photosynthates was affected by rootstock and that ‘Fuyu’/D. kaki is more compatible as compared to the ‘Fuyu’/D. lotus combination."}
+	}}

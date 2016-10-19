@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of maize (Zea mays L.) cultivars to different levels of nitrogen fertilizer.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sharifi, R. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Taghizadeh, R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"height"},
+	{"value":"hybrids"},
+	{"value":"urea"},
+	{"value":"varieties"},
+	{"value":"Zea mays"},
+	{"value":"maize"},
+	{"value":"crop yield"},
+	{"value":"application rates"},
+	{"value":"yield components"},
+	{"value":"nitrogen fertilizers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000403",
+	"dct:identifier":"FI2016000403",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of processing conditions and storage on retention of volatile components of durian leather"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025496",
+	"dct:identifier":"FI2005025496",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f11.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jaswir, Irwandi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Che Man, Yaakob B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Selamat, Jinap (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmad, Faujan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sugisawa, Hiroshi (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A study has been conducted to identify the volatile constituents of durian D24 and to determine the effect of processing and storage on retention of volatile components of durian fruit leather. Results showed that some 38 volatile compounds were identified in fresh durian aril, whereby 11 compounds were esters, 10 alcohols, 6 carboxylic acids, 6 sulphurous and nitrogenous compounds and 5 hydrocarbons. Results also showed that processing of durian leather retained most of aroma components of fresh durian fruit. During storage, the relative proportion of acids in the product increased, esters, alcohols and aldehydes decreased, while hydrocarbons and phenolic and S and N compounds fluctuated."}
+	}}

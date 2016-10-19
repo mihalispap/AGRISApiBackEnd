@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/f4(2).pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Bioassay assessment of a complementary diet prepared from vegetable proteins"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ikujenlola, Victor A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fashakin, Joseph B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100117",
+	"dct:identifier":"FI2016100117",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Complementary diets prepared from vegetable proteins have been previously reported. Dietary blends were formulated from germinated cereals and legumes and these were compared with non-germinated blends. The diets were fed to weaning rats weighing between 55 and 65 g, for a period of 28 days. Parameters, including food intake, animal weights, tissue weights and nitrogen contents were assessed. The protein efficiency ratios and net protein retentions were also calculated. The results showed that germination improved considerably the animal utilization of the dietary regimen. Moreover the performance of the animals as measured by the parameters was enhanced due to the action of α-amylase enzyme during germination. It was thus concluded that germination of cereals and legumes offers a useful tool in the total amelioration of protein energy malnutrition."}
+	}}

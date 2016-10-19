@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"1-Methylcyclopropene effects on quality parameters of long term stored apples cv. Granny Smith.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ozkaya, O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dundar, O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"colour"},
+	{"value":"plant growth substances"},
+	{"value":"fruits"},
+	{"value":"quality"},
+	{"value":"firmness"},
+	{"value":"apples"},
+	{"value":"säilyvyys"},
+	{"value":"laatu"},
+	{"value":"hedelmät"},
+	{"value":"varastointi"},
+	{"value":"storage"},
+	{"value":"omenat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001127",
+	"dct:identifier":"FI2016001127",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

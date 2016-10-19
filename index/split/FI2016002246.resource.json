@@ -1,0 +1,82 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Development and application of crop water stress index for scheduling irrigation in cotton (Gossypium hirsutum L.) under semiarid environment.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Usman, Muhammad
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ashfaq Ahmad
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shakeel Ahmad
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Muhammad Arshad
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tasneem Khaliq
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aftab Wajid
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khalid Hussain
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wajid Nasim
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chattha, T. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Trethowan, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hoogenboom, G.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"watering"},
+	{"value":"cotton"},
+	{"value":"drought stress"},
+	{"value":"seasonal variation"},
+	{"value":"flowering"},
+	{"value":"plant water relations"},
+	{"value":"plant developmental stages"},
+	{"value":"yield forecasting"},
+	{"value":"irrigation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002246",
+	"dct:identifier":"FI2016002246",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/6510/5540",
+	"dct:language":"eng",
+	"dct:title":{"value":"Phosphorus and faecal bacteria in runoff from horse paddocks and their mitigation by the addition of P-sorbing materials.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uusi-Kämppä, Jaana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Närvänen, Aaro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaseva, Janne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jansson, Håkan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vedenlaatu"},
+	{"value":"water quality"},
+	{"value":"fosfori"},
+	{"value":"suodatus"},
+	{"value":"horses"},
+	{"value":"phosphorus"},
+	{"value":"indikaattoribakteerit"},
+	{"value":"valumavesi"},
+	{"value":"fekaaliset bakteerit"},
+	{"value":"paddocks"},
+	{"value":"hevostilat"},
+	{"value":"faecal flora"},
+	{"value":"runoff"},
+	{"value":"filters"},
+	{"value":"pollution control"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001074",
+	"dct:identifier":"FI2016001074",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

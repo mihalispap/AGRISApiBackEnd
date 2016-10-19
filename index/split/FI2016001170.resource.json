@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of P, K, Mg and NO₃-N contents of carrots to irrigation, soil compaction, and nitrogen fertilisation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pietola, Liisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salo, Tapio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil types"},
+	{"value":"tiivistyminen"},
+	{"value":"porkkana"},
+	{"value":"loam soils"},
+	{"value":"organic soils"},
+	{"value":"Daucus carota"},
+	{"value":"maaperä"},
+	{"value":"clay soils"},
+	{"value":"ravinteiden otto"},
+	{"value":"nutrient uptake"},
+	{"value":"carrots"},
+	{"value":"maalajit"},
+	{"value":"sadon laatu"},
+	{"value":"soil management"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001170",
+	"dct:identifier":"FI2016001170",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

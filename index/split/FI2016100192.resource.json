@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/e13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of minimum tillage systems on physical and chemical properties of soil"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rusu, Teodor (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gus, Petru (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bogdan, Ileana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oroian, Ioan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paulette, Laura (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100192",
+	"dct:identifier":"FI2016100192",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The paper presents the influence of conventional plough tillage system on physical and chemical properties of soil in comparison with the alternative minimum tillage systems (disc harrow, rotary harrow, paraplow and chisel plow). Minimum soil tillage systems in three years rotation culture: maize (Zea mays L.), soybean (Glycine hispida L. Merr.) and wheat (Triticum aestivum L.) enable the rise of hydro stability of the aggregates with 2.2-5.5% in 0-10 cm, 3.3-11.8% in 10-20 cm and 3.6-10.4% in 20-30 cm soil depth. Soil minimum tillage modifies soil bulk density and resistance to penetration, but these modifications are within optimal limits of the soil type. Paraplow and chisel plow soil tillage, due to reduction of soil intensity and to incorporation at the soil surface of vegetables remnants, leads to an increase in humus content with 0.35–0.51% and in water permeability of soil. Minimum soil tillage is not leading to a significant modification of soil reaction and NPK content in the arable layer but determines the stratification of those at the surface of the soil."}
+	}}

@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Koiran perikardiumin hemorraginen effuusio /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Tammisalo, Netta.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"perikardiumin hemorraginen effuusio koira"},
+	{"value":"sydän- ja verisuonitaudit"},
+	{"value":"pet animals"},
+	{"value":"dogs"},
+	{"value":"cardiovascular diseases"},
+	{"value":"eläintaudit"},
+	{"value":"animal diseases"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001253",
+	"dct:identifier":"FI2016001253",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

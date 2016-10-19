@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"O ensino de frações sob o olhar de discentes",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rafael Pontes Lima "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pedro Franco de Sá "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00036",
+	"dct:identifier":"BR2015M00036",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Este trabalho apresenta os resultados de uma pesquisa de campo sobre o ensino de frações que teve como objetivo realizar um diagnóstico do ensino de frações a partir da opinião de discentes. A produção das informações foi realizada por meio da aplicação de um formulário a 222 alunos de matemática de escolas públicas e privadas da cidade de Macapá/AP. As informações produzidas após terem sido sistematizadas e analisadas permitiram concluir que a maioria dos alunos possui entre 12 e 14 anos. Sobre a dificuldade em aprender matemática, 94% dos alunos respondeu que não sente dificuldade ou apenas um pouco, 21,6% e 72,1% respectivamente. Para o hábito de estudar matemática, 49% dos alunos afirmaram estudar apenas na véspera da prova. Sobre as notas na disciplina de matemática, a maioria respondeu estar na média, 61%. Cerca de 50% dos alunos apontaram as operações com divisão como as mais difíceis de serem realizadas. Para o domínio da tabuada, 57% afirmou não possuir domínio. Quanto ao uso de tecnologia computacional, 47% dos alunos disse possuir computador pessoal, e 51% dos alunos disse acessar internet em casa. No entanto, 91% afirmou não ter tido aula de informática no laboratório de informática.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

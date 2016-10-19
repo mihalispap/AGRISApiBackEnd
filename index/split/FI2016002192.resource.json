@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysing uncertainties of interval judgment data in multiple-criteria evaluation of forest plans.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Leskinen, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Jyrki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"planning"},
+	{"value":"statistical methods"},
+	{"value":"metsäsuunnitelmat"},
+	{"value":"epävarmuus"},
+	{"value":"decision making"},
+	{"value":"tilastomenetelmät"},
+	{"value":"arviointi"},
+	{"value":"evaluation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002192",
+	"dct:identifier":"FI2016002192",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

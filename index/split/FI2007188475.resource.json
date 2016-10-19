@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment and comparison of three crop growth models under tropical climate conditions"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188475",
+	"dct:identifier":"FI2007188475",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a24.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Clemente, Roberto S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asadi, Mohammad E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dixit, Prakash N. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This study focused on the comparison and assessment of three crop growth models under tropical climatic conditions. Specifically, CERES-Maize, CropSyst and SWACROP models were used in this study. Primary data from a corn fertigation experiments conducted at Asian Institute of Technology (AIT), Thailand in 1999 and 2000 were used as inputs in the 3 models. Also, the field measured data on moisture content, grain yield, and biomass was used as a basis for comparing the performance of the three models. It was found that CropSyst requires many cultivar and site specific data. SWACROP does not require much site specific and cultivar specific data and also does not take into account the initial nitrogen and organic matter present in the soil, hence it produced poor simulation and predicted biomass, yield and maximum leaf area index. Biomass, grain yield, moisture content in different soil layers and evapotranspiration were well simulated by CERES-Maize and CropSyst. Moisture content in different soil layers showed similar variation with time in CERES-Maize and SWACROP. However CropSyst did not give very good simulation of soil moisture in all the layers except the top layer. CERES-Maize and CropSyst produced almost the same potential evapotranspiration while SWACROP predicted higher potential evapotranspiration. Different amounts of actual evapotranspiration were obtained by the three models and CERES-Maize gave higher values of actual evapotranspiration. Statistical parameters showed that CERES-Maize predicted biomass, yield and maximum leaf area index (LAI) well (% root mean square error (RMSE) = 7.43, 9.53 and 7.03; coefficient of determination (CD) = 0.94, 0.83 and 0.52 for biomass, yield and maximum LAI respectively). CropSyst predicted biomass and yield very well although it did not give good simulation of maximum LAI (% RMSE = 4.27, 8.66 and 30.58; CD = 0.96, 0.83 and 0.16 for biomass, yield and maximum LAI respectively). SWACROP could not simulate any of the three parameters very well and gave poor simulations (% RMSE = 15.45, 18.51 and 13.18; CD = 0.72, 0.73 and 0.26 for biomass, yield and max. LAI respectively). Biomass and yield were significantly underestimated by SWACROP. This could mainly be attributed to the lack of cultivar-specific input requirements."}
+	}}

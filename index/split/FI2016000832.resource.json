@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Bacteriological quality of drinking water from refrigerated coolers in a university community.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Khan, Aliya.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adesiyun, Abiodun A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"bakteerit"},
+	{"value":"säiliöt"},
+	{"value":"bacteria"},
+	{"value":"quality"},
+	{"value":"juomavesi"},
+	{"value":"laatu"},
+	{"value":"drinking water"},
+	{"value":"refrigeration equipment"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000832",
+	"dct:identifier":"FI2016000832",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

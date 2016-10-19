@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Safety evaluation of Emamectin benzoate 5 WG against green lacewing, Chrysoperla zastrowi sillemi (Esben-Petersen)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":278,
+	"dc:subject":[
+		{"value":"safety",
+	"xml:lang":"eng"
+	},
+	{"value":"securite",
+	"xml:lang":"fre"
+	},
+	{"value":"seguridad",
+	"xml:lang":"esp"
+	},
+	{"value":"chrysoperla",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":282,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000504",
+	"dct:identifier":"IN2015000504",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thangavel, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baskaran, R.K. Murali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rani, W. Baby"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The studies were conducted on the safety of emamectin benzoate 5 WG (EB) to eggs, larvae and adults of Chrysoperla zastrowi sillemi. The highest egg hatchability was recorded in EB 5 WG @ 5 (93.3%) and 6.25 g a.i/ha (91.0%), followed by EB 5 WG @ 7.5 (87.6%). At 48 hrs after treatment, the lowest larval mortality was recorded in EB 5 WG @ 5 (14.0%) and 6.25 g a.i. ha-1 (16.6%) in larval feeding method. In dry film method at 48 hrs, the lowest % mortality of 15.0 was recorded in EB 5 WG @ 5 followed by 18.3% at 6.25 g a.i. ha-1. Chlorantraniliprole 18.5 SC @ 30 g a.i. ha-1 registered the highest larval mortality (45.0%), while untreated check recorded no mortality. Adult longevity was the highest in untreated check (15.33 days), followed by EB 5 WG @ 5 (12.60 days) and 6.25 g a.i. ha-1 (11.33 days). Number of eggs laid/5 females was also greater in untreated check (368.33 eggs) when compared to EB 5 WG @ 5 (144.33 eggs) and 6.25 g a.i. ha-1 (138.00 eggs).",
+	"xml:lang":"eng"
+	}
+	}}

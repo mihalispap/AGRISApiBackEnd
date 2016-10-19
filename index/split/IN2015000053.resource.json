@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of Mite Infestation on Mulberry Leaf and Silkworm, Bombyx Mori L.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":378,
+	"dc:subject":[
+		{"value":"acarina",
+	"xml:lang":"esp"
+	},
+	{"value":"ver a soie",
+	"xml:lang":"fre"
+	},
+	{"value":"gusano de seda",
+	"xml:lang":"esp"
+	},
+	{"value":"silkworms",
+	"xml:lang":"eng"
+	},
+	{"value":"infestacion",
+	"xml:lang":"esp"
+	},
+	{"value":"morus",
+	"xml:lang":"esp"
+	},
+	{"value":"infestation",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":381,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000053",
+	"dct:identifier":"IN2015000053",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dar Yaqoob Mohd."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Illai Irfan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agrawal, O.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramegowda, G.K."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Silkworms were reared by feeding with mite infested and non infested (healthy) mulberry leaves of five different varieties (Goshoerami, KNG, TrlO, Ichinose, and Chinese white) during 2010. The effect of feeding with mite infested leaves on the commonly reared silkworm hybrid, SH6ÃNB4D2 was observed with respect to larval period, larval weight, cocoon weight, shell weight, shell ratio, filament length and denier. Healthy and mite infested leaves were analyzed for their biochemical composition viz., relative chlorophyll content, total carbohydrate and total protein. The larval period, larval weight, cocoon weight, shell weight, shell ratio, filament length and denier were higher on healthy leaves of all varieties as compared to mite infested leaves. Mulberry variety Goshoerami had higher values of total protein, carbohydrate and chlorophyll content index as compared to other varieties. The biochemical composition of healthy leaves was superior to that of mite attacked leaves. Results of t-test analysis show a significant difference in the larval and economic parameters of the silkworms fed on healthy and mite infested leaves separately.",
+	"xml:lang":"eng"
+	}
+	}}

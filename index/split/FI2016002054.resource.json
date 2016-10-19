@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of pulse chemical treatments on water relation in cut gerbera (Gerbera jamesonii cv. Pags) flowers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Amiri, M. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rabiei, V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zanjani, S. B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lakastuminen"},
+	{"value":"water uptake"},
+	{"value":"wilting"},
+	{"value":"leikkokukat"},
+	{"value":"plant water relations"},
+	{"value":"stems"},
+	{"value":"maljakkokestävyys"},
+	{"value":"flowers"},
+	{"value":"cut flowers"},
+	{"value":"sucrose"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002054",
+	"dct:identifier":"FI2016002054",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

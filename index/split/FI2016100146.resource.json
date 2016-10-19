@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a11.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Cassava leaves as a source of protein"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nassar, Nagib M. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marques, Antonio O. Marques (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100146",
+	"dct:identifier":"FI2016100146",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Analysis of cassava cultivars and interspecific hybrids leaves revealed a protein percentage ranges from 21 to 32%. Polyploid types did not show significant increase. Varieties with low HCN content can be selected to enrich flour of cassava and other grain crops. Interspecific hybrids with very vigorous vegetative growth are good sources of protein. They can be used for raising animals in Brazilian semi-arid region."}
+	}}

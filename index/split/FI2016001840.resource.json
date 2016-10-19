@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Xylooligosaccharide production from lignocellulosic wastes with Trichoderma longibrachiatum xylanase.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Akpnar, O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bostanc, S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Triticum aestivum"},
+	{"value":"cellulose"},
+	{"value":"oligosaccharides"},
+	{"value":"straw"},
+	{"value":"agricultural wastes"},
+	{"value":"Deuteromycotina"},
+	{"value":"xylans"},
+	{"value":"Trichoderma longibrachiatum"},
+	{"value":"xylanolytic microorganisms"},
+	{"value":"Nicotiana tabacum"},
+	{"value":"lignins"},
+	{"value":"enzymes"},
+	{"value":"Gossypium"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001840",
+	"dct:identifier":"FI2016001840",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

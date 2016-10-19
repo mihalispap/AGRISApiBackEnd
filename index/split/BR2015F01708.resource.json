@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   propriedade e estado fisiológico sobre a infecção gastrintestinal por nematóides em ovelha Santa Inês "},
+	{"value":"   Efeito da variação mensal ",
+	"xml:lang":"por"
+	},
+	{"value":"Effect of the monthly variation, property and physiologic state on gastrintestinal nematode infection in Santa Inês sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"condition scoring",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"haemonchus contortus",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"66/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01708",
+	"dct:identifier":"BR2015F01708",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2009-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1255110200.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SILVA,  Roberto M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"QUIRINO, Célia R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, Ricardo L. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NEVES, Gilliana D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, Clóvis P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALBERNAZ, Antonio P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVEIRA, Graziela R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"REIS, Natalia C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MACHADO, Josias A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MELO JÚNIOR, Orlando A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"It was checked the effects of the monthly variation, property and physiologic state on the Famacha©, rounded volume, egg counting for gram of feces, physical condition and lively weight in Santa Inês ewes from north of Rio de Janeiro State. The work was carried out in three farms, from January to December 2006, with 60 sheep. Every 14 days, the animals were weighed, evaluated for their physical condition, Famacha© and samples of feces were collected for counting of eggs per gram of feces (EPG) and coproculture, and samples of blood to evaluate the packed cell volume. Haemonchus was the predominant type, followed by Trichostrongylus, Cooperia and Oesophagostomum pointed out to themselves differences (P",
+	"xml:lang":"eng"
+	},
+	{"value":"Verificaram-se os efeitos da variação mensal, propriedade e estado fisiológico sobre o Famacha©, volume globular, contagem de ovos por grama de fezes, condição corporal e peso vivo em ovelhas Santa Inês do norte do estado do Rio de Janeiro. O trabalho foi realizado em três propriedades, de janeiro a dezembro de 2006. A cada 14 dias, 20 ovelhas de cada propriedade foram pesadas, avaliadas quanto a condição corporal, Famacha©, e foram coletadas amostras de fezes para realização de contagem de ovos por grama de fezes (OPG) e coprocultura, e amostras de sangue para avaliar o volume globular. Haemonchus foi o gênero predominante, seguido de Trichostrongylus. Observaram-se diferenças (P",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical composition, amino acids and functional properties of selected seafoods"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188162",
+	"dct:identifier":"FI2007188162",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f25.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ogunlade, I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Olaofe, O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fadare, T. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Proximate, mineral composition and functional properties of selected seafoods (Parapenaeopsis atlanta, Panulirus regius, Penaeus duorarum, Parapenaeopsis sp. and Penaeus kerathurus) were investigated using standard analytical techniques. Also the amino acid composition of P. kerathurus was analyzed. The moisture content, fat and carbohydrate were generally low for all samples. No crude fibre was found except in P. regius. The samples had high protein content varying from 42.1 to 81.3%. The samples were found to be good sources of essential minerals such as P, Fe, Mg, K, Na and Ca but Cu, Zn and Mn contents were low. The results of functional properties showed that oil absorption capacity was 130-307%, water absorption capacity 280-404% and gelation capacity 6-10%. The emulsion capacity, foaming capacity and stability were relatively good. The amino acid composition of P. kerathurus revealed essential amino acids comparable with that of egg protein."}
+	}}

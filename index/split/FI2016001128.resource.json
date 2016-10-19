@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Local models for forest canopy cover with beta regression /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Korhonen, Lauri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korhonen, Kari T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stenberg, Pauline.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maltamo, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rautiainen, Miina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Forest canopy"},
+	{"value":"canopy"},
+	{"value":"regressioanalyysi"},
+	{"value":"statistical methods"},
+	{"value":"beta regression"},
+	{"value":"metsäninventointi"},
+	{"value":"metsät"},
+	{"value":"latvusto"},
+	{"value":"kasvumallit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001128",
+	"dct:identifier":"FI2016001128",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

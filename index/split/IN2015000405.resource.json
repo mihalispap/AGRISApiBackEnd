@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Meat yield and quality traits of newly developed prolific sheep",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":229,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"composicion de la canal",
+	"xml:lang":"esp"
+	},
+	{"value":"composition de la carcasse",
+	"xml:lang":"fre"
+	},
+	{"value":"aptitud carnica",
+	"xml:lang":"esp"
+	},
+	{"value":"rendement en viande",
+	"xml:lang":"fre"
+	},
+	{"value":"rendimiento carnico",
+	"xml:lang":"esp"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"aptitude pour la viande",
+	"xml:lang":"fre"
+	},
+	{"value":"rajasthan",
+	"xml:lang":"esp"
+	},
+	{"value":"carcass composition",
+	"xml:lang":"eng"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"meat yield",
+	"xml:lang":"eng"
+	},
+	{"value":"meat performance",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":234,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000405",
+	"dct:identifier":"IN2015000405",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gadekar, Y.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shinde, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arora, A.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prakash, Ved"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karim, S.A."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Mutton production potential and meat quality traits of prolific crossbred sheep developed at Central Sheep and Wool Research Institute, Avikanagar, Rajasthan were studied. Nine yearling males of GMM (Garole-Malpura x Malpura) x Patanwadi (A genotype) and five yearlings of Patanwadi x GMM (Garole-Malpura x Malpura) (B genotype) were slaughtered at the age of 15â16 months. The pre-slaughter weights were significantly (P0.05) higher (41.13 vs. 33.56 kg) in A genotype than that of B. Similarly, higher hot carcass weights were significantly (P0.01) higher in A genotype (19.23 kg) compared to B (14.52 kg). However, dressing yield on empty live weight basis did not differ significantly between the genotypes. Loin eye area and total inedible offal weights were significantly (P0.01) higher in A genotype. No significant difference was observed in commercial carcass cuts except neck and shoulder. Chilling losses, lean yield, subcutaneous fat, intramuscular fat and meat quality attributes viz., water holding capacity, shear force value and cooking losses were similar between the genotypes. The study indicated that A genotype owing to heavy weights produced more mutton; however meat quality traits were almost similar in both the genotype.",
+	"xml:lang":"eng"
+	}
+	}}

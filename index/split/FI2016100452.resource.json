@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Correlation and genetic variability in cassava (Manihot esculenta Crantz)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ntui, V. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uyoh, E. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Affangideh, U. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Udensi, U. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Egbonyi, J. P. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100452",
+	"dct:identifier":"FI2016100452",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Correlation and genetic variability in cassava (Manihot esculenta Crantz) was studied using 6 varieties, viz: ADP 3 (4), ADP 3(5), ADP 4(4), TMS 3055, TMS 419 and one local variety Panya, all obtained from the Cross River Agricultural Development Programme, Calabar, Nigeria. The research was carried out at the Biological Sciences Experimental Farm, University of Calabar, Nigeria, from April, 2005 to January, 2006 using a randomized complete block design with five replications. The objectives were to determine the relationship between key morphological characters and yield and magnitude of variability that is present in the populations. Analysis of variance for some growth characters and yield showed that the varieties did not significantly (P>0.05) differ from each other. However, ADP 3(5) produced significantly (P<0.05) more tubers than the other varieties, indicating that it is a high yielding variety. The local variety Panya produced significantly (P<0.05) longer internode length, longer stem and fewer tubers per plant. Simple linear correlation of the data showed that sprouting (days to sprouting and number of sprouting nodes) had significant (P<0.01 and P<0.001, respectively) relationship with number of tubers produced per plant. Number of tubers per plant significantly (P<0.05) positively correlated with circumference of tuber. Number of leaves per plant produced significant (P<0.05) positive relationship with diameter of stem and number of branches per plant. The phenotypic coefficients of variation were higher than the genotypic coefficients in the entire traits studied. A high genetic gain was recorded for number of leaves per plant and number of sprouting nodes. It is hoped that these findings would be useful for future breeding programmes involving this important crop."}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Economic analysis of cocoa wine produced from cocoa powder"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lawal, J. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayeola, C. O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100112",
+	"dct:identifier":"FI2016100112",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Investment into cocoa wine production using cocoa powder is a viable venture that has been proven through its economic analysis in this research. Cocoa wine using cocoa powder was produced in the winery section of Cocoa Research Institute of Nigeria (CRIN). The analysis of physico- chemical and sensory characteristics of the cocoa wine was carried out and it compared reasonably well with commercially sold ones. The economic analysis based on small-scale wine production was carried out and the total cost of production ranged from 1,471,502.1 Naira in Year 1 to N1,422,550  in Year 5 with the selling price of 300.00 Naira per bottle, and the total profit or revenue ranged from N185,760,000 in Year 1 to N198,720,000 in Year 5. The average total revenue over the five years is therefore estimated as N158,112,000. The average net present value is estimated at N117,651,744 and the benefit cost ratio is 1.27."}
+	}}

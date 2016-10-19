@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"An optimized method for thermal diffusivity measurement of peeled off fruits and vegetables.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ansari, F. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abbas, K. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jamilah, B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methods"},
+	{"value":"moisture content"},
+	{"value":"vihannekset"},
+	{"value":"potatoes"},
+	{"value":"fruits"},
+	{"value":"vegetables"},
+	{"value":"hedelmät"},
+	{"value":"vegetable crops"},
+	{"value":"cucumbers"},
+	{"value":"methodology"},
+	{"value":"kuorinta"},
+	{"value":"cooling"},
+	{"value":"säilyvyys"},
+	{"value":"apples"},
+	{"value":"peeling"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002015",
+	"dct:identifier":"FI2016002015",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

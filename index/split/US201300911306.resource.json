@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Electrospray ionization mass spectroscopy shows speciation of phytate to be pH dependent"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911306",
+	"dct:identifier":"US201300911306",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/e8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Heighton, Lynne (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schmidt, Walter F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rice, Clifford P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Siefert, Ronald L. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Phosphorus (P) fate and transport is an emergent problem impacting environmental resources. Long time land application of P enriched manure has been implicated in the saturation of available P binding sites in many terrestrial, wetland and sediment systems. Transport of soluble or particle associated P by overland flow and possibly by subsurface leaching has increased eutrophication in waterways. Myo-inositol hexkis phosphate or more commonly phytic acid (PA) is an organic phosphate molecule with twelve acidic protons. The acid dissociation constants (pKa) are 1.9(3), 2.4(2), 3.2(1), 5.2(1), 6.3(1), 8.0(1), 9.2(1) and 9.5(2). The charged species fractions were calculated as a function of pH using the acid dissociation constants. Results predict three different charged species of phytic acid will simultaneously be present at most any environmentally relevant pH. Analysis of the electro-spray ionization mass spectrometry (ESI-MS) solution spectra of iron and copper complexes of PA at pH 2.8, 6 and 13 confirmed multiple charged species of PA occur simultaneously even in the presence of metal cations. Results showed minimal fragmentation of the parent phytate anions. Changes in the z of PA anions, not changes in the stability or fragmentation of the parent compound with pH, explain the observed fragmentation pattern. Assigning the correct z is a pre-requisite to identifying the (m/z) composition of PA fragments."}
+	}}

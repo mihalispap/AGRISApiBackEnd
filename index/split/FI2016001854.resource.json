@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Fluctuation of viscosity of a nutrient solution in a fluidization treatment with ceramics influences plant production.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Azad, Md. Abul Kalam.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yoshimura, Takahiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ishikawa, Katsumi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Islam, Naima.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Islam, Sheheli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrient solutions"},
+	{"value":"nutrient uptake"},
+	{"value":"Brassica campestris"},
+	{"value":"soilless culture"},
+	{"value":"hydroponics"},
+	{"value":"plant nutrition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001854",
+	"dct:identifier":"FI2016001854",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of biocontrol agents and fungicides against stem bleeding disease of coconut",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":395,
+	"dc:subject":[
+		{"value":"stem bleeding"},
+	{"value":"Bioagents"},
+	{"value":"hemorragie",
+	"xml:lang":"fre"
+	},
+	{"value":"ceratocystis paradoxa",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"tallos",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"tige",
+	"xml:lang":"fre"
+	},
+	{"value":"stems",
+	"xml:lang":"eng"
+	},
+	{"value":"haemorrhage",
+	"xml:lang":"eng"
+	},
+	{"value":"hemorragia",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":399,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000885",
+	"dct:identifier":"IN2015000885",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Meena, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramjegathesh, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramyabharathi, S.A."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

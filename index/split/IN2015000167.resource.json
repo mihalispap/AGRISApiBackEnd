@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Nephrotoxic effects caused by formaldehyde exposure in rabbits: A histomorphochemical study",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":935,
+	"dc:subject":[
+		{"value":"nephropathie",
+	"xml:lang":"fre"
+	},
+	{"value":"lapin (oryctolagus)",
+	"xml:lang":"fre"
+	},
+	{"value":"anatomie animale",
+	"xml:lang":"fre"
+	},
+	{"value":"anatomia animal",
+	"xml:lang":"esp"
+	},
+	{"value":"conejo (oryctolagus)",
+	"xml:lang":"esp"
+	},
+	{"value":"formaldehyde",
+	"xml:lang":"fre"
+	},
+	{"value":"kidney diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"enfermedades renales",
+	"xml:lang":"esp"
+	},
+	{"value":"animal morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"formaldehido",
+	"xml:lang":"esp"
+	},
+	{"value":"rabbits",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":937,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000167",
+	"dct:identifier":"IN2015000167",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bansal, Neelam"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uppal Varinder"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anuradha"
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"The experiment was conducted to observe the effect of direct exposure of formaldehyde in different concentrations on the physio-anatomy of kidneys. For this purpose, 14 rabbits ageing 3â 6 months were divided into 3 groups; group 1 (n, 6) were exposed to 10% formaldehyde solution for 12 weeks, group 2 (n, 6) to 40% formaldehyde solution for 6 weeks and group 3 (n, 2) served as control. After completion of experimental periods, fresh tissue samples were collected from both the kidneys for the demonstration of enzymes and some part of samples were also preserved in 10% NBF to study histological changes. The present study revealed that after an exposure to 40% formaldehyde solution, there was degeneration of glomeruli and tubular epithelium with necrosis of proximal and distal convoluted tubules. Marked congestion and haemorrhages were also seen in the glomeruli and intertubular blood vessels. There was weak activity of AKPase, ATPase, G-6-Pase, SDH, LDH and G-6-PD, and moderate to strong reaction of NADPH and NADH in the renal glomeruli, proximal and distal convoluted tubules. The alterations in the distribution pattern of phosphatases and oxidoreductases in the rabbit kidney reflects the impairment in the renal functions due to formaldehyde exposure.",
+	"xml:lang":"eng"
+	}
+	}}

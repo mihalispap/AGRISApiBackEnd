@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of rain cover cultivation on taste and aroma quality of strawberries (Fragaria ananassa Duch.) : Jens Rohloff ... [et al.].",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rohloff, Jens.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nestby, Rolf.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Folkestad, Johannes A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Iversen, Tor-Henning.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"environmental factors"},
+	{"value":"wet season"},
+	{"value":"fruits"},
+	{"value":"Fragaria ananassa"},
+	{"value":"maku"},
+	{"value":"sade"},
+	{"value":"sienitaudit"},
+	{"value":"lämpötila"},
+	{"value":"harmaahome"},
+	{"value":"fungal diseases"},
+	{"value":"kosteus"},
+	{"value":"strawberries"},
+	{"value":"quality"},
+	{"value":"mansikat"},
+	{"value":"Botrytis cinerea"},
+	{"value":"ympäristötekijät"},
+	{"value":"flavour"},
+	{"value":"rain"},
+	{"value":"sadon laatu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000040",
+	"dct:identifier":"FI2016000040",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

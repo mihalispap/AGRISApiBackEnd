@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Labour availability in coconut cultivation and impact on technology adoption as perceived by coconut farmers",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":186,
+	"dc:subject":[
+		{"value":"mechanisation,root(wilt) disease, technology adoption"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"manpower",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"main d'oeuvre",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"mano de obra",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":190,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000635",
+	"dct:identifier":"IN2015000635",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Anithakumari, P."
+	}
+	},
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Labour is an important resource for sustainable farming. Coconut, a perennial tree crop, requires skilled and unskilled labour components for adoption of scientific management practices. The study indicated that both hired and family labour were utilised in seedling planting and management, whereas family labour was prominently utilised in case of chemical fertiliser application and basin management with green manure. Hired labour was critical in basin opening, organic manure application, plant protection and harvesting. Most of the technologies adopted were irregular in nature which was indicated due to escalating input costs and declining output price. Majority of the respondents (76.32%) adopted keramithra for de-husking coconuts. Farmers who adopted mechanisation in land preparation opined 60-75 per cent reduction in expenditure compared to manual labour. Seventy eight per cent of respondents recorded scarcity in labour availability. The responses of the farming community towards the high wage rate and scarcity were discontinuation of milch animals in coconut homesteads, reduction in number of regular harvests, untimely harvests of coconut, reduction in intercropping, irregularity in basin opening and cultural practices, low level of organic manure application  etc. Mechanization in coconut cultivation among small/marginal holders is meagre and needs impetus from supporting agencies. The constraints and suggestions of the farmers were also documented.",
+	"xml:lang":"eng"
+	}
+	}}

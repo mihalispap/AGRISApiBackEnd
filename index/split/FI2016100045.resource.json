@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysis of farmer–specific socio–economic determinants of adoption of modern livestock management technologies by farmers in Southwest Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mafimisebi, T. E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Onyeka, U. P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ayinde, I A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ashaolu, O. F. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100045",
+	"dct:identifier":"FI2016100045",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The level of adoption of improved technologies is low in the animal production sub–sector in Nigeria. Enhanced adoption of production and productivity-boosting innovations is critical for the ability of the livestock sub-sector to increase and sustain per capita animal protein consumption in the country. The study, using descriptive statistics and ordinary least square regression investigates farmer-specific socio-economic variables which determine adoption level. The results showed that for the 17 livestock management practices extended to farmers, adoption rate stood at about 4 out of 10 farmers. Variables that were critical determinants of adoption rate included average income from farming activities, level of education, years of experience, farm size, number of types of livestock kept, membership of trade or co-operative association and source of credit for farming. These variables were significant at either 5% or 1% levels and jointly explained about 80.0% of the variations in adoption rate. The study concludes that young, wealthy and educated farmers should be identified and used as contact farmers by extension agents. The contact farmers should, however, be prevented from monopolizing extension information through in-built mechanisms. Measures to increase farmers’ equity capital, farm size and membership of trade or co-operative associations are suggested as a way of increasing innovation adoption in the  livestock sub-sector."}
+	}}

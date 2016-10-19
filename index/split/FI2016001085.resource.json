@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1188",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wallertz, Kristina,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nordenhem, Henrik,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nordlander, Göran,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Damage by the pine weevil Hylobius abietis to seedlings of two native and five introduced tree species in Sweden.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"suojaus"},
+	{"value":"coniferous forests"},
+	{"value":"defence mechanisms"},
+	{"value":"havupuut"},
+	{"value":"regeneration"},
+	{"value":"vauriot"},
+	{"value":"feeding"},
+	{"value":"taimet"},
+	{"value":"conifer seedlings"},
+	{"value":"taimikot"},
+	{"value":"Forest plantations"},
+	{"value":"seedlings"}
+	],
+	"bibo:doi":"10.14214/sf.1188",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001085",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001085",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Container systems for estimating influence of earthworms on decomposition of soil litter.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Rink, Uwe.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"forest soils"},
+	{"value":"methods"},
+	{"value":"maaperäeläimistö"},
+	{"value":"metsäliero"},
+	{"value":"degradation"},
+	{"value":"soil biology"},
+	{"value":"forest litter"},
+	{"value":"maaperäeliöstö"},
+	{"value":"soil fauna"},
+	{"value":"metsämaa"},
+	{"value":"Lumbricidae"},
+	{"value":"maaperä"},
+	{"value":"experimentation"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    International Colloquium on Soil Zoology
+    (11 :
+    1992 :
+    Jyväskylä)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000458",
+	"dct:identifier":"FI2016000458",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

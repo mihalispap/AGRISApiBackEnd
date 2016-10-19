@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Reproductive and maternal behavior of Caninde macaws (Ara ararauna)in captivity for conservation",
+	"xml:lang":"eng"
+	},
+	{"value":"   Comportamento reprodutivo e materno de araras Canindé (Ara ararauna) mantidas em cativeiro para conservação ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"aviculture",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"4/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015201859",
+	"dct:identifier":"BR2015201859",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/view/92/200",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Locatelli Ana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wrublack Suzana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Basile Leandro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nascimento Alexandre"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Berber Gilcele"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Berber Rodolfo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Assis Gurgacz"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Assis Gurgacz"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Assis Gurgacz"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"A preservação de animais silvestres tem sido reportada por vários grupos de pesquisadores e organizações não governamentais no mundo. Dentro deste contexto, algumas espécies de araras são foco de trafico ilegal e comercio internacional que resultam em muitos animais mortos durante o transporte e diminuição expressiva da população de aves. É importante enfatizar que programas de conservação ex situ de animais silvestres, bem como a educação voltada a garantir a preservação da biodiversidade, precisam ser incentivados. Assim, o objetivo desse trabalho foi revisar e descrevero comportamento reprodutivo e materno de araras Canindé relatando os procedimentos realizados no cativeiro conservacionista localizado nas Faculdades Assis Gurgacz, Paraná, Brasil. As observações e os dados foram registrados através de gravações de vídeos. Os resultados e condições mostrados neste trabalho podem indicar métodos que promovem boas condições para a postura, eclosão edesenvolvimento do filhote para essa espécie em cativeiro.",
+	"xml:lang":"por"
+	},
+	{"value":"The preservation of the wild animals had been reported by many researchers groups and nongovernmental organization in the world. Inside this context, many Brazilian species of macaws are focus of illegal traffic and international commerce that resulted in several deaths of birds during transport and expressive decrease of bird population. Is important to emphasize that conservation programs ex situ of wild species and environmental education, guaranteeing the preservation ofthe biodiversity must be incentive. Thus, the objective of this work was review and described the reproductive and maternal behaviors of Caninde macaws relating the proceedings performed in captivity of preservation localized in Assis Gurgacz Faculty, Parana, Brazil. The observations and thedata registered were performed by recorded videos. The results and conditions showed in this paper may indicate methods that promote good conditions the posture, eruption and development of the nest for this species in captivity.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

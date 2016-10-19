@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:title":{"value":"ESPÉCIES DE Partamona SCHWARZ, 1939 (HYMENOPTERA: APIDAE: MELIPONINAE) EM FRAGMENTO DE CERRADO NO MUNICÍPIO DE CASSILÂNDIA, MS, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":76,
+	"bibo:volume":2,
+	"bibo:pageEnd":81,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00008",
+	"dct:identifier":"BR2016H00008",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/243",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Carlos Aparecido Ferreira Barbosa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Émerson Guilherme Aguiar Souza"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sérgio Roberto Rodrigues"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gustavo Haralampidou da Costa Vieira"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"As abelhas Meliponini desempenham importantes atividades de polinização nos diferentes ambientes e para o gênero Partamona, poucas são as informações conhecidas. Desta forma, foram desenvolvidos estudos para a localização e identificação de espécies ...",
+	"xml:lang":"por"
+	}
+	}}

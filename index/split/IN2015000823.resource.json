@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Potential of native weed species as nutrient contributors of coconut garden in an Entisol",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":231,
+	"dc:subject":[
+		{"value":"mauvaise herbe",
+	"xml:lang":"fre"
+	},
+	{"value":"weeds",
+	"xml:lang":"eng"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"substance nutritive",
+	"xml:lang":"fre"
+	},
+	{"value":"nutrients",
+	"xml:lang":"eng"
+	},
+	{"value":"malezas",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"nutrientes",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":237,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000823",
+	"dct:identifier":"IN2015000823",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jeena Mathew"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Krishnakumar, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Narayanan Namboothiri, C.G."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

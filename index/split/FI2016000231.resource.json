@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nitrogen and phosphorus fractions as indicators of organic soil quality.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Parent, Léon E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Viau, Alain A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Anctil, François.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"indikaattorit"},
+	{"value":"maaperä"},
+	{"value":"nitrification"},
+	{"value":"quality"},
+	{"value":"soil surveys"},
+	{"value":"fraktiointi"},
+	{"value":"nitrifikaatio"},
+	{"value":"phosphorus"},
+	{"value":"laatu"},
+	{"value":"fractionation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000231",
+	"dct:identifier":"FI2016000231",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

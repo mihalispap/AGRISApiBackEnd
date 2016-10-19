@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-24.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Biotechnology applications in crops"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Agong, Stephen Gaya (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100113",
+	"dct:identifier":"FI2016100113",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Genetic engineering technology has revolutionized agriculture and related biological sciences. This manuscript presents and discusses the details of biotechnology applications in the crops with special emphasis on horticulture. Modern biotechnology and in particular genetic engineering adds greater precision and speed in plant breeding. Genetic transformation of plants has simplified by the use of recombinant DNA technology. Commonly utilized vectors include: Agrobacterium tumefaciens and A. rhizogenes. Identification of the transgenic products (plants) proceeds faster via molecular techniques like RAPD and RFLP polymerase chain reaction protocols. A number of horticultural crops; fruits, vegetables and flowers have been transformed thus increasing the market utility."}
+	}}

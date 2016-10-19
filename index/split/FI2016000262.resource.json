@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Cropping system impact on soil quality determinants /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vestberg, Mauritz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kukkonen, Sanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saari, Kaisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uosukainen, Marjatta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Palojärvi, Ansa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuovinen, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vepsäläinen, Milja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemi, Maarit.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"liming"},
+	{"value":"kasvukunto"},
+	{"value":"maaperä"},
+	{"value":"soil fertility"},
+	{"value":"viljelyjärjestelmät"},
+	{"value":"cropping systems"},
+	{"value":"viljelymenetelmät"},
+	{"value":"arable soils"},
+	{"value":"soil management"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000262",
+	"dct:identifier":"FI2016000262",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of the commonly used acaricides against different stages of the cattle tick Boophilus microplus by using different in vitro tests",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":248,
+	"dc:subject":[
+		{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"acaricide",
+	"xml:lang":"fre"
+	},
+	{"value":"acaricides",
+	"xml:lang":"eng"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"acaricidas",
+	"xml:lang":"esp"
+	},
+	{"value":"boophilus",
+	"xml:lang":"esp"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	},
+	{"value":"boophilus microplus",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":252,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000431",
+	"dct:identifier":"IN2015000431",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pradeep, B.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Renukaprasad, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza, Placid E.D."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The evaluation of the efficacy of three commonly used acaricides viz. cypermethrin, deltamethrin (0.05, 0.1 and 0.2% concentrations) and amitraz (0.1, 0.2 and 0.3% concentrations) was conducted against the cattle tick Boophilus microplus. Three in vitro methods viz. Tea bag method, filter paper impregnation method and immersion method were used to evaluate the efficacy of the acaricides. Adult immersion test with discriminating doses was also done to know the resistance development if present. Comparison of different in vitro methods was done based on the efficacy against larval stages of the ticks. Among the three acaricides amitraz fared better with no indication of resistance development against B. microplus. Cypermethrin showed 30% and deltamethrin showed 10% resistance against B. microplus. Among different in vitro methods, the immersion method fared better in efficacy followed by tea bag method and filter paper method.",
+	"xml:lang":"eng"
+	}
+	}}

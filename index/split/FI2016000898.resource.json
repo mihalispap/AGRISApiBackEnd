@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Adaptation of the timing of bud burst of Norway spruce to temperate and boreal climates /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Leinonen, Ilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hänninen, Heikki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"phenology"},
+	{"value":"lauhkeat alueet"},
+	{"value":"buds"},
+	{"value":"boreaaliset alueet"},
+	{"value":"frost damage"},
+	{"value":"adaptation"},
+	{"value":"sopeutuminen"},
+	{"value":"silmut"},
+	{"value":"temperate forests"},
+	{"value":"Picea abies"},
+	{"value":"boreal forests"},
+	{"value":"pakkasvauriot"},
+	{"value":"fenologia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000898",
+	"dct:identifier":"FI2016000898",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

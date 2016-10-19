@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The most similar neighbour reference in the yield prediction of Pinus kesiya stands in Zambia.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Maltamo, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eerikäinen, Kalle.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"metsiköt"},
+	{"value":"tuotos"},
+	{"value":"mallit"},
+	{"value":"statistical methods"},
+	{"value":"volume"},
+	{"value":"forest plantations"},
+	{"value":"Pinus kesiya"},
+	{"value":"kasvumallit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001624",
+	"dct:identifier":"FI2016001624",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

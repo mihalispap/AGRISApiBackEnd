@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"FATORES DE RISCOS ASSOCIADOS À TRANSMISSÃO DE MALÁRIA HUMANA, EM ÁREAS DE RESSACAS, NOS BAIRROS NOVO HORIZONTE E ZERÃO, MACAPÁ, AMAPÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":49,
+	"bibo:volume":1,
+	"bibo:pageEnd":57,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00000",
+	"dct:identifier":"BR2015N00000",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/156",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Faye Oliveira Maciel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raullyan Borja Lima Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raimundo Nonato Picanço Souto"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Prefeitura Municipal de Macapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"IEPA"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Esta pesquisa visou identificar os fatores de riscos associados à transmissão da malária humana em áreas Peri-urbanas da cidade de Macapá. Os dados referentes a incidência de malária, de espécies de plasmódios e das estratégias de controle foram obtidos junto a Vigilância Epidemiológica de Macapá. Dos moradores que adoeceram de malária nas áreas de estudo investigou-se o provável local da infecção e os aspectos socioeconômicos. A lista de espécies  de Anopheles foi cedida pela divisão de Zoologia do IEPA. Em 2000 a incidência de Plasmodium vivax Grassi e Feleti no Zerão foi 1.333 e no Novo Horizonte 452 e de P. falciparum Welch,18 no Zerão e 61 no Novo Horizonte. Em 2001, 112 casos do P. vivax no bairro Zerão e 602 no Novo Horizonte e para o P. falciparum 21 no Zerão e 160 no Novo Horizonte. Entre os moradores entrevistados, 57,5% no Zerão e 52,5% no Novo Horizonte afirmaram ter contraído a doença no próprio bairro. Os casos importados representaram no Zerão e no Novo Horizonte 12,5% e 27,5%, respectivamente. Alguns afirmaram não saber onde foram infectados, 30% no Zerão e 20% no Novo Horizonte. A baixa renda, a continua migração para áreas de transmissão de malária, as condições precárias das residências e suas localizações próximas aos ambientes naturais de espécies anofélicas, bem como, a ocorrência de espécies de Anopheles com competência vetorial são alguns fatores de riscos a transmissão de malária identificados junto as áreas de estudo. Anopheles, epidemiologia, ocupação desordenada, plasmódios.",
+	"xml:lang":"por"
+	}
+	}}

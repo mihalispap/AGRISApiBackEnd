@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetics of juvenile phase in cowpea [Vigna unguiculata (L.) Walp.]"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ishiyaku, Mohammad F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Bir B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100470",
+	"dct:identifier":"FI2016100470",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Long Juvenile Phase (LJP) has been found useful in allowing for the development of optimum canopy necessary for high yield under tropical shortday conditions. To study the genetics of LJP in cowpea [Vigna unguiculata (L.) Walp.], an LJP parent, Kanannado was crossed to a short Juvenile Phase (SJP) parent, IT87D-941-1 in the screenhouse. Suffecient F1, F2 and Backcross populations were generated. The parentals together with the F1, F2 and Backcross populations were screened for the duration of Juvenile Phase. The duration of the Juvenile phase was measured as time taken from sowing to first flower under short day conditions (10 h d-1 photoperiod). Based on the length of Juvenile Phase (JP) in the parents, plants with JP less than and greater than 40 d were classified as SJP and LJP, respectively. The result showed complete dominance of LJP over SJP. The F2 population segregated into 3 LJP : 1 SJP ratio suggesting the involvement of a single dominant gene in conditioning LJP in cowpea. The outcome in the F2 was confirmed by the segregation ratio of 1 SJP: 1 LJP in the Backcross involving the SJP parent. Absence of segregation, i.e. all plants being LJP, in the backcross involving the LJP parent further confirmed the complete dominance of LJP. Transgressive segregation for LJP was observed in the F2 suggesting that in addition to the single major gene, some minor modifying genes might be involved in the control of long Juvenile phase in cowpea."}
+	}}

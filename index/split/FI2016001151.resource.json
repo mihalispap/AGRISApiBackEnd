@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n2p116.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of growing dairy bulls offered diets based on silages made of whole-crop barley, whole-crop wheat, hairy vetch and grass.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huuskonen, Arto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Joki-Tokola, Erkki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kokoviljasäilörehu"},
+	{"value":"whole crop silage"},
+	{"value":"lypsykarja"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"feed intake"},
+	{"value":"rehuohra"},
+	{"value":"säilörehu"},
+	{"value":"growth rate"},
+	{"value":"rehunkulutus"},
+	{"value":"ruisvirna"},
+	{"value":"rehuvilja"},
+	{"value":"kasvu"},
+	{"value":"hairy vetch"},
+	{"value":"rehuvehnä"},
+	{"value":"Vicia villosa"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001151",
+	"dct:identifier":"FI2016001151",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

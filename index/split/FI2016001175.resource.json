@@ -1,0 +1,72 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of genetic diversity in Trigonella foenum graecum Tunisian cultivars using ISSR markers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Marzougui, N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boubaya, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Elfalleh, W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Guasmi, F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laaraiedh, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ferchichi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Triki, T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Beji, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"diversity"},
+	{"value":"varieties"},
+	{"value":"genetic polymorphism"},
+	{"value":"lajikkeet"},
+	{"value":"microclimate"},
+	{"value":"genetic diversity"},
+	{"value":"genetic markers"},
+	{"value":"alkuperä"},
+	{"value":"provenance"},
+	{"value":"Trigonella foenum graecum"},
+	{"value":"Tunisia"},
+	{"value":"heterozygotes"},
+	{"value":"geneettinen muuntelu"},
+	{"value":"genetic distance"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001175",
+	"dct:identifier":"FI2016001175",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The extent of south-north pollen transfer in Finnish Scots pine.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Varis, Saila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pakkanen, Anne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Galofré, Aina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pulkkinen, Pertti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kasvikannat"},
+	{"value":"coniferous forests"},
+	{"value":"geenivirta"},
+	{"value":"pölytys"},
+	{"value":"Finland"},
+	{"value":"plant population biology"},
+	{"value":"gene flow"},
+	{"value":"phenology"},
+	{"value":"geenit"},
+	{"value":"boreaaliset metsät"},
+	{"value":"adaptation"},
+	{"value":"mänty"},
+	{"value":"plant population"},
+	{"value":"biologia"},
+	{"value":"populaatiodynamiikka"},
+	{"value":"Pinus sylvestris"},
+	{"value":"sopeutuminen"},
+	{"value":"boreal forest dynamics"},
+	{"value":"coniferous phenology"},
+	{"value":"population dynamics"},
+	{"value":"fenologia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000942",
+	"dct:identifier":"FI2016000942",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

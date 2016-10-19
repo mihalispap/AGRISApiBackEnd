@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Trace mineral contents of grass and browses in Tanzania and its implication to ruminant feeding and reproduction.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kakengi, Victor A. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ndabikunze, Shem M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sarwatt, Sebastian V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fujihara, Tsutomu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"rehut"},
+	{"value":"United Republic of Tanzania"},
+	{"value":"animal feeding"},
+	{"value":"forage"},
+	{"value":"hivenaineet"},
+	{"value":"märehtijät"},
+	{"value":"ruminants"},
+	{"value":"trace elements"},
+	{"value":"laidunruokinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001295",
+	"dct:identifier":"FI2016001295",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

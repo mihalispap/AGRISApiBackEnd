@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2011,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"O processo de seleção dos livros didáticos de Matemática no Ensino Fundamental público: desafios para a gestão pedagógica das escolas municipais de Macapá",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Elida Viana de Souza "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Erasmo Senger "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Romualdo Tavares de Oliveira "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00054",
+	"dct:identifier":"BR2015M00054",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Apesar de o livro ainda ser um elemento presente nas salas de aula das<span>  </span>escolas, muitos educadores do país, têm grande dificuldade em escolher o material didático que muitas vezes é o único recurso pedagógico disponível no ensino público (Batista, 2003). Também é importante notar que a Matemática como componente curricular continua a liderar o índice de retenção nas escolas públicas brasileiras. Esta situação não é diferente no estado do Amapá. No entanto, vários estudos têm mostrado a importância que o livro continua a ter. (Lajolo, 1996). Este trabalho investigou o processo de escolha do livro didático de Matemática nas escolas de ensino fundamental II da cidade de Macapá. O estudo incluiu a participação de 12 professores de Matemática de 06 escolas na cidade de Macapá, que trabalharam na escola no momento da escolha dos livros didáticos de Matemática. Aplicou-se um questionário com perguntas abertas e fechadas com cada um dos participantes onde, posteriormente, foram analisados de forma quantitativa e qualitativa. Os resultados indicam a necessidade de alterar o tamanho do lugar de livros didáticos na prática docente e à necessidade de criar espaços de reflexão para o professor de Matemática sobre o processo de escolha do livro de Matemática.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Antennal response of Prinobius myardi to synthetic tree volatiles.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"Cerambycidae"},
+	{"value":"plant volatiles"},
+	{"value":"β-pinene"},
+	{"value":"electroantennography"},
+	{"value":"Quercus"},
+	{"value":"wood borers"},
+	{"value":"pinene"},
+	{"value":"Prinobius myardi"},
+	{"value":"EAG"}
+	],
+	"bibo:doi":"10.14214/sf.1305",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000205",
+	"dct:identifier":"FI2016000205",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1305",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Domínguez, Luis,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    López-Pantoja, Gloria,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tapias, Raúl,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

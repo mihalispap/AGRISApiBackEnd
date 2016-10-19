@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Seed weight, seed vigor index and field emergence in six upland cotton cultivars"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Barradas, Gonçalo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"López-Bellido, Rafael J. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100385",
+	"dct:identifier":"FI2016100385",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In regions where a short growing season is combined with low soil temperatures at sowing, field emergence and stand establishment is one of the most critical stages in cotton production. This study evaluates the relations between seed weight, seed vigor index and field emergence on 6 upland cotton (Gossypium hirsutum L.) genotypes, grown at Alentejo (Portugal). Leaf area per cotyledon, cotyledons to total leaf area and to total dry weight ratios were also analyzed. Seed vigor index, the sum of cold and standard germination tests, showed significant differences between genotypes, and different year to year soil temperatures had a significant impact on seedling emergence. No significant correlations were found between field emergence and seed weight or seed vigor index. However, poor positive linear relationships were found between seed weight and seed vigor index, as well as between standard test and field emergence. Probably, the expected impact of seed quality on field emergence was overlapped or confused by the influence of other factors (soil crusting) than temperature physical stress exerted over seeds. Cotyledons per total leaf area and dry weight represent important proportions of the entire plants during the relatively long seedling period often observed in the cotton crop grown on marginal spring weather conditions."}
+	}}

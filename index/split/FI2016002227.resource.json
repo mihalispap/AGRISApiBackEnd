@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Climate impact on 100-year foliage chronologies of Scots pine and Ponderosa pine in the northeast lowlands of Brandenburg, Germany.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Insinna, Patrick.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jalkanen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Götz, Bernhard.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mänty"},
+	{"value":"climate impact"},
+	{"value":"kronologia"},
+	{"value":"foliage"},
+	{"value":"Pinus ponderosa"},
+	{"value":"Pinus sylvestris"},
+	{"value":"lehvästö"},
+	{"value":"ilmasto"},
+	{"value":"climatic factors"},
+	{"value":"needle trace methods"},
+	{"value":"foliage parameters"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002227",
+	"dct:identifier":"FI2016002227",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

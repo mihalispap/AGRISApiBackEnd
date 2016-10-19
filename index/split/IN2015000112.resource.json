@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Anticancer effect of Taxus Baccata and cow urine on biochemical attributes of mice treated with Diethyl Nitrosamine",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":203,
+	"dc:subject":[
+		{"value":"lait de vache",
+	"xml:lang":"fre"
+	},
+	{"value":"cow milk",
+	"xml:lang":"eng"
+	},
+	{"value":"raton",
+	"xml:lang":"esp"
+	},
+	{"value":"baccaurea",
+	"xml:lang":"esp"
+	},
+	{"value":"souris",
+	"xml:lang":"fre"
+	},
+	{"value":"urine",
+	"xml:lang":"fre"
+	},
+	{"value":"mice",
+	"xml:lang":"eng"
+	},
+	{"value":"cancer (genre)",
+	"xml:lang":"fre"
+	},
+	{"value":"nitrosaminas",
+	"xml:lang":"esp"
+	},
+	{"value":"nitrosamines",
+	"xml:lang":"eng"
+	},
+	{"value":"leche de vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"cancer (genero)",
+	"xml:lang":"esp"
+	},
+	{"value":"nitrosamine",
+	"xml:lang":"fre"
+	},
+	{"value":"cancer (genus)",
+	"xml:lang":"eng"
+	},
+	{"value":"orina",
+	"xml:lang":"esp"
+	},
+	{"value":"taxus",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":208,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000112",
+	"dct:identifier":"IN2015000112",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Joshi, Ankita"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chauhan, R. S."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A large number of modem drugs have been isolated or derived from natural sources, based on their use in traditional medicine. The present investigation was to study the effect of extracts of Taxus baccata alone and in combination with indigenous Cow Urine Distillate (CUD) in mice.Carcinogenicity was induced by diethyl nitrosamine(200!ll/kg)(DEN).In a singledose DEN challenge danimals were given extracts alone and in combination with CUD, daily and named them as test group. For control group no DEN and no treatment was given.Negative control was given only DEN, to check its carcinogenicity with control and test group. Tumors were developed in Negative control animals, which died early but no mortality was observed in the test group. After six month the blood and tissues from liver and kidneys were collected to study the effect of carcinogen, plant extracts and their formulation with CUD and various biochemical attributeslike:Superoxide dismutase (SOD), Alkaline Phosphatase (ALP), Acid Phosphatase (ACP), AST, ALT, triglycerides, albumin, catalaseM, DA,total protein, creatinine, cholesterol, HDL-Cholesterol etc.The results showed that there was an significant increase in SOD, MDA,GLU,ALP, ACP, ALT, AST and CAT, TP, albumin, globulin, total cholesterol, HDL, triglyceride etc. were significantly decreased as compared with control group. The test groups had shown significant hepatoprotective and anticarcinogenic activity against DEN. The presentstudy concludes that Taxus baccata alone and its formulation with CUD have shown hepatoprotective and anticancer activity.",
+	"xml:lang":"eng"
+	}
+	}}

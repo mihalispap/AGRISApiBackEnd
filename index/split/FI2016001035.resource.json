@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Defoliation by the common pine sawfly (Diprion pini) and subsequent growth reduction in Scots pine : a retrospective approach /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kurkela, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aalto, Tarmo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Varama, Martti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jalkanen, Risto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"diameter increment"},
+	{"value":"insect attack"},
+	{"value":"radial growth"},
+	{"value":"needle production"},
+	{"value":"herbivores"},
+	{"value":"kasvinsyöjät"},
+	{"value":"needle retention"},
+	{"value":"density"},
+	{"value":"needle density"},
+	{"value":"pituuskasvu"},
+	{"value":"harsuuntuminen"},
+	{"value":"leaves"},
+	{"value":"production"},
+	{"value":"Diprion pini"},
+	{"value":"iskeytyminen"},
+	{"value":"defoliation"},
+	{"value":"height"},
+	{"value":"pest insects"},
+	{"value":"hyönteistuhot"},
+	{"value":"pilkkumäntypistiäinen"},
+	{"value":"paksuuskasvu"},
+	{"value":"sädekasvu"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001035",
+	"dct:identifier":"FI2016001035",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

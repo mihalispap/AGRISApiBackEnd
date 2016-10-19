@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Environmental effects on seed cocoon quality and fecundity of muga silkworm (Antheraea assamensis helfer)",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"seed treatment",
+	"xml:lang":"eng"
+	},
+	{"value":"ver a soie",
+	"xml:lang":"fre"
+	},
+	{"value":"environmental factors",
+	"xml:lang":"eng"
+	},
+	{"value":"gusano de seda",
+	"xml:lang":"esp"
+	},
+	{"value":"facteur du milieu",
+	"xml:lang":"fre"
+	},
+	{"value":"traitement des semences",
+	"xml:lang":"fre"
+	},
+	{"value":"silkworms",
+	"xml:lang":"eng"
+	},
+	{"value":"tratamiento de semillas",
+	"xml:lang":"esp"
+	},
+	{"value":"factores ambientales",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":186,
+	"bibo:volume":74,
+	"bibo:pageEnd":188,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000255",
+	"dct:identifier":"IN2015000255",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"jun.2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Goswami D"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh N.I."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

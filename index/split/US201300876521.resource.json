@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Physiological response of two species of datura to uniconazole and salt stress"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876521",
+	"dct:identifier":"US201300876521",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e21.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Rumaih, May M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Rumaih, Muna M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effect of different concentrations of NaCl (0, 100, 150, 200 and 300 mM) and the plant growth regulator uniconazole on protein and amino acid levels, nitrate reductase and protease activities in roots and shoots of two species of datura (Datura innoxia and Datura stramonium) was investigated. Salt stress imposed by NaCl induced a significant decrease in protein content along with the activity of nitrate reductase in the developed seedlings. It also significantly enhanced protease activity and increased amino acid levels. These changes were more significant at higher salinity levels. Pre-soaking seeds in uniconazole counteracted the adverse effects of salinity. It significantly increased protein levels and stimulated nitrate reductase activity, particularly at lower NaCl concentrations. It also decreased amino acid levels and repressed the activity of protease. Roots were more significantly affected by salt stress than shoots, and less affected by the combined treatment. The studied species exhibited almosta similar response to the different treatments. The importance of uniconazole in inducing salinity tolerance in datura plants is discussed."}
+	}}

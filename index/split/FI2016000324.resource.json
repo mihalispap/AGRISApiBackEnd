@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effectiveness of fluorescent pseudomonads strains HF 22 and HF 142 to control bacterial canker of tomato /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Boudyach, E. H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fatmi, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boubaker, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aoumar, A. Ait Ben.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akhayat, O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"bacterioses"},
+	{"value":"siemen"},
+	{"value":"biological control"},
+	{"value":"Clavibacter michiganensis subsp. michiganensis"},
+	{"value":"neoplasms"},
+	{"value":"bakteeritaudit"},
+	{"value":"Pseudomonas"},
+	{"value":"kasvitaudit"},
+	{"value":"disease control"},
+	{"value":"tomatoes"},
+	{"value":"Lycopersicon esculentum"},
+	{"value":"tomaatti"},
+	{"value":"biologinen torjunta"},
+	{"value":"seed treatment"},
+	{"value":"tomaatinsyöpä"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000324",
+	"dct:identifier":"FI2016000324",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

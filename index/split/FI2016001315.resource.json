@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Testing the modified CREAMS/GLEAMS model for pesticide concentration in soil /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Salo, Simo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Posch, Maximilian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rekolainen, Seppo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pitoisuus"},
+	{"value":"degradation"},
+	{"value":"trifluraliini"},
+	{"value":"finland"},
+	{"value":"mathematical models"},
+	{"value":"ympäristön saastuminen"},
+	{"value":"sandy soils"},
+	{"value":"maaperä"},
+	{"value":"hajoaminen"},
+	{"value":"clay soils"},
+	{"value":"torjunta-aineet"},
+	{"value":"matemaattiset mallit"},
+	{"value":"leaching"},
+	{"value":"pesticides"},
+	{"value":"huuhtoutuminen"},
+	{"value":"trifluralin"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001315",
+	"dct:identifier":"FI2016001315",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

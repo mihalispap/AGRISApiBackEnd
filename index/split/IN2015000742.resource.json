@@ -1,0 +1,72 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Reaction of the polycross progenies to two major lea diseases of rubber (Hevea brasiliensis)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":398,
+	"dc:subject":[
+		{"value":"prepotent"},
+	{"value":"abnormal leaf fall"},
+	{"value":"oidium heveae"},
+	{"value":"polycross"},
+	{"value":"mildiu",
+	"xml:lang":"esp"
+	},
+	{"value":"mildews",
+	"xml:lang":"eng"
+	},
+	{"value":"chute des feuilles",
+	"xml:lang":"fre"
+	},
+	{"value":"mildiou oidium",
+	"xml:lang":"fre"
+	},
+	{"value":"phytophthora",
+	"xml:lang":"esp"
+	},
+	{"value":"leaf fall",
+	"xml:lang":"eng"
+	},
+	{"value":"oidium (genre)",
+	"xml:lang":"fre"
+	},
+	{"value":"caida de las hojas",
+	"xml:lang":"esp"
+	},
+	{"value":"oidium",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":403,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000742",
+	"dct:identifier":"IN2015000742",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sadanand K. Mushrif"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kavitha K. Mydin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Edwin Prem, E."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A three-year study was undertaken to evaluate the polycross progeny of prepotent clones for their tolerance /susceptibility for abnormal leaf fall (ALF) disease caused by Phytophthora spp. and powdery mildew (PM) disease caused by Oidium heveae at the Central Experiment Station of Rubber Research Institute of India at Chethackal in Ranni. The clones were evaluated during 11th  to 13th year after planting. The data obtained were analysed and computed progeny wise and clone wise. The pooled data of three years showed that for ALF disease, the clone P 128 (progeny of AVT 73) was superior over other clones with leaf retention of 76 per cent followed by the clones P 75 (progeny of PB 217) and P 69 (progeny of PB 252) showing leaf retention of 75 per cent. However, the evaluation of the progenies and clones within each progeny against PM disease were not encouraging as lot of variation was observed among the progenies and clones and the disease intensity in general, was very high. The pooled data of three years of assessment on PM disease revealed that the clone P60 evolved from the progeny of RRII 105 and the clones P 54 and P 104 evolved from the progeny of 5/76 showed less than 25 per cent of PDI and thus, were tolerant. The ALF disease tolerant clones P 132, P 69 and P 128 are also reported to be promising in terms of latex and timber yield.",
+	"xml:lang":"eng"
+	}
+	}}

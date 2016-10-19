@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Microorganisms associated with human jewellery"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038465",
+	"dct:identifier":"FI2006038465",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f2.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ifesan, Beatrice O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adetuyi, Fatusa C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Onifade, Anthony K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agarry, Olubunmi O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Microbes associated with jewellery and some body ornaments such as necklaces, earrings, hand chains, wristwatches, spectacles, rings, bangles and hairclips were investigated. Unused samples were obtained from the Oba Market, Akure, Nigeria to serve as control. Bacteria were found on all the samples collected for individuals while three out of the eight control samples had bacterial growth. The bacteria isolated include Staphylococcus aureus, S. albus, Listeria murrayi, B. cereus, B. subtilis, Pseudomonas aeruginosa and Rothia dentocariosa. No fungus was isolated from spectacles samples. Percentage occurrence of the fungal isolates from various samples were as follows: Aspergillus niger 75%, A. flavus 25%, Diplococcium sp. 25%, Articulospora sp. 50%,Alternaria sp. 38%, Geotrichum sp. 75%, Acaulopage microspora 12.5% and Penicillum sp. 38%. The bacterial load of the handchain was the highest, (9.6 x 104 cfu/ml), followed by wristwatches (8.4 x 104 cfu/ml), earrings (4.6 x 104 cfu/ml), necklace (4.4 x 104 cfu/ml), and bangles (4.0 x 104 cfu/ml) and ring (2.6 x 104 cfu/ml)."}
+	}}

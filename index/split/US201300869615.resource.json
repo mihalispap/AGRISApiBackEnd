@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Association between water-use efficiency components and total chlorophyll content (SPAD) in wheat (Triticum aestivum L.) under well-watered and drought stress conditions"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869615",
+	"dct:identifier":"US201300869615",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a11.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fotovat, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Valizadeh, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toorchi, M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This study was conducted to determine the effect of total chlorophyll content (SPAD) on water-use efficiency (WUE) and its components in wheat (Triticum aestivum L.) and to explore a new and cheap method of indirect selection for improving WUE in wheat. Seven bread wheat cultivars were grown in pots under different watering levels. The pattern of variation for WUE and its components was different for cultivars in well-watered and drought stress conditions. The cultivars with high transpiration efficiency (TE) had also high chlorophyll content in well- watered and drought stress conditions, and there was a positive correlation (0.56) between SPAD and TE in drought stress. TE being relatively tedious to measure in large populations, the SPAD could be used as less expensive surrogates of measuring TE in the early stages of a breeding program."}
+	}}

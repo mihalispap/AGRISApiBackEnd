@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysis of pumpkin (Telferia occidentalis) production: The basis for poverty eradication in the humid tropical zone of Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026453",
+	"dct:identifier":"FI2005026453",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a2.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abang, S. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Idiong, I. C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akpan, O.E. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper analyses factors that significantly affect production cost, gross margins and returns associated with telferia production in the hot humid tropical zone of Nigeria. Farm level data, obtained through participatory interviews of 150 farmers, were used for the study. Ordinary least squares (OLS) multiple regression technique using different functional forms were specified to determine the impact of the selected variables on telferia output. Also cost and returns analyses were used to ascertain the performance of telferia farms in the area. The results show that female farmers and family labour predominate in these farms. Variable cost of production constituted a little over 70% of the total production cost while credit and farm size were responsible for the severe production drawbacks. On this basis, a number of recommendations, ranging from some governmental intervention to private initiatives of the farmers, are specified if the telferia production enterprises are to contribute sustainably to the growth of the agricultural sector of the nation’s economy."}
+	}}

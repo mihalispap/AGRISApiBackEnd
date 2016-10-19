@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of sowing depth on emergence, growth and yield of okra (Abelmoschus esculentus (L.) Moench).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Odeleye, F. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Odeleye, O. M. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Olaleye, A. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yakubu, F. B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"okras"},
+	{"value":"sato"},
+	{"value":"sowing depth"},
+	{"value":"crop yield"},
+	{"value":"kylvösyvyys"},
+	{"value":"emergence"},
+	{"value":"itäminen"},
+	{"value":"growth"},
+	{"value":"Abelmoschus esculentus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001959",
+	"dct:identifier":"FI2016001959",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

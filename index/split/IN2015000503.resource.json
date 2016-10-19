@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biology and seasonal incidence of aphid, Brevicoryne brassicae on Cabbage",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":275,
+	"dc:subject":[
+		{"value":"biology",
+	"xml:lang":"eng"
+	},
+	{"value":"biologie",
+	"xml:lang":"fre"
+	},
+	{"value":"brevicoryne brassicae",
+	"xml:lang":"esp"
+	},
+	{"value":"brassica oleracea",
+	"xml:lang":"esp"
+	},
+	{"value":"biologia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":277,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000503",
+	"dct:identifier":"IN2015000503",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Aggarwal, Meenakshi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Haseeb, Masarrat"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manzoor, Uzma"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Observations showed that a single female gave birth to 85.8Â±1.08 nymphs on an average within its life span. Nymphs developed through four instars and transformed into adults with an average of 8.3Â±0.83 days. Adult females (wingless) were dull green to grey coloured and covered with a whitish waxy powder. The average pre-natal, natal and post natal periods were recorded as 3.2Â±0.63, 16.1Â±4.09 and 10.7Â±1.16 days, respectively. The average female adult longevity was recorded as 25.6Â±4.60 days. The incidence of this aphid varied from 20 to 410/3 leaves / plant. The incidence was highest during 12th SW. These insects showed significantly negative correlation with maximum relative humidity while non-significant positive correlation was observed with maximum and minimum temperature.",
+	"xml:lang":"eng"
+	}
+	}}

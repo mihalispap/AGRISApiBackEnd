@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"OCORRÊNCIA DE Macrobrachium amazonicum (CRUSTACEA, DECAPODA) NA DIETA DE Lysapsus bolivianus (ANURA, HYLIDAE).",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":185,
+	"bibo:volume":3,
+	"bibo:pageEnd":187,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00130",
+	"dct:identifier":"BR2015N00130",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/752",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mayara Fabiana Melo Furtado"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carlos Eduardo Costa-Campos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suelique Souza Queiroz"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kelly Juliana Gaya Correa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Inacia Maria Vieira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual do Amapa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá (IEPA)"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; text-align: justify; line-height: 150%; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 12.0pt; line-height: 150%; font-family: \">A dieta de Pseudis laevis está baseada principalmente em pequenos artrópodes, representados geralmente por Diptera, Collembola e Hemiptera, sendo os crustáceos encontrados ocasionalmente. Nesta nota registramos a presença de Macrobrachium amazonicum na dieta de Pseudis laevis em planície de Inundação no Norte do Brasil.</span>",
+	"xml:lang":"por"
+	}
+	}}

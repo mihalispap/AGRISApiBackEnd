@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Laboratory studies on Musca domestica (diptera: Muscidae) and its pupal parasitoid, Dirhinus himalayanus (hymenoptera: Chalcidoidea)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":99,
+	"dc:subject":[
+		{"value":"parasitoids",
+	"xml:lang":"eng"
+	},
+	{"value":"parasitoide",
+	"xml:lang":"fre"
+	},
+	{"value":"hymenoptera",
+	"xml:lang":"esp"
+	},
+	{"value":"musca domestica",
+	"xml:lang":"esp"
+	},
+	{"value":"parasitoides",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":103,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000015",
+	"dct:identifier":"IN2015000015",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sumathi, K"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Harikrishnan, T.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anna, T"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Laboratory experiments on density relationships, host age and progeny emergence were conducted on Dirhinus himalayanus (Hymenoptera: Chalcidoidea), a solitary pupal parasitoid of flies including Musca domestica (Diptera: Muscidae). The effect of parasitoid and pupal host densities were determined for 24 h using parasitoid host ratios ranging from 1: 2 to 1: 20. When the number of parasitoids was held constant (n=1) and the number of pupal hosts varied, the parasitism % did not increase with increasing pupal host density. Maximum parasitoid emergence (25Â±1) was observed at 1: 4 ratio as against 6.66Â±0.51 at 1: 10 parasitoid host ratios at 21Â°C to 24Â°C. When the number of pupal hosts was held constant and the no. of parasitoids varied, the pupae parasitized increased with parasitoid density The mean number of pupae parasitized was higher at 1: 20 (33.67Â±5.13) than at 1: 3 (2.67Â±0.58) at 210C to 240C. Fly emergence decreased uniformly with increase in the host parasitoid ratio at 210C to 240C. No difference was recorded in the mean number of pupae parasitized when 24 h and 48 h pupae were exposed to D. himalayanus at 1: 10 parasitoid host ratio. The mean number of progeny produced by a virgin female in a day was 3.2 Â± 0.6 and the age of the ovipositing virgin female significantly affected the progeny emergence (3.2 Â± 0.6) (P0.05). The mean number of the progeny produced by a mated female D. himalayanus was 3.6 Â± 0.6 and the age of the mated female did not significantly affect the mean number of progeny emergence (3.6 Â± 0.6) (P0.05). Progeny production between virgin females and mated females did not differ significantly (P0.05). Virgin females lived for 8 days at 21Â°C to 24Â°C but in the company of males, the longevity was increased to 10 days.",
+	"xml:lang":"eng"
+	}
+	}}

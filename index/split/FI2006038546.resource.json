@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Isolation of DNA from olive oil and oil sediments: Application in oil fingerprinting"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038546",
+	"dct:identifier":"FI2006038546",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"de la Torre, Fernando (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bautista, Rocío (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cánovas, Francisco M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Claros, M. Gonzalo (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A lot of plant species are well characterized by using molecular markers. One of them is the olive-tree, although its main product, the olive oil, was refractory to characterization with such technologies. We report here an extraction method that isolates DNA from olive oil that serves as template for PCR reactions. This DNA has been used to identify and characterize olive oils based on specific molecular markers. The method has been developed with internal controls to ensure that contaminant DNA from other sources will not affect the results. The combination of SCAR markers and the DNA extracted from olive oil and sediments allows the fingerprint of different olive oils from different manufacturers. The DNA pattern obtained was (i) the same when DNA was extracted from olive oil or from oil sediments, and (ii) consistent with the one obtained using olive-tree genomic DNA. Finally, we observed that the specific fingerprint of each olive oil is a consequence of the olive-tree cultivars used during the olive milling. Then, our methodology represents the starting point to control the industrial production of olive oils to avoid fraud by mixing oils from cultivars not declared or by mixing other oils with olive oil. It also opens a new way to authenticate the olive oil in order to support Labels of Origin as well as Preserved Origin Denominations."}
+	}}

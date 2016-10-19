@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Public perception of genetic engineering and the choice to purchase genetically modified food in Jamaica"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abdulkadri, Abdullahi O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pinnock, Simone E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tennant, F. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100242",
+	"dct:identifier":"FI2016100242",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Since the release of the first genetically modified (GM) crop into the marketplace in the 1990’s, there has been continuing debate over the acceptability of such products. Today, GM crops are extensively grown in Argentina, Canada and the United States. However, these crops have not made similar inroads into Europe or Japan where regulations governing GM crops and food products are more restrictive. Moreover, a highly precautionary approach to food safety and environmental protection is promoted in these regions. International pressures including the precautionary tone of the 2000 Biosafety Protocol governing transboundary movements of GM crops and media campaigns out of Europe appear to have influenced the adoption of preventative or precautionary policies which are restricting, if not prohibiting, the availability of GM crops to farmers in several developing countries. Studies in developed countries suggest that acceptance of GM crops and food products is influenced by awareness and knowledge of the technology and confidence in the food system and regulatory bodies. With such studies limited in developing countries, this paper presents the results of a survey conducted on public perception of genetic engineering and GM products in Jamaica. In this developing country, a National Biosafety Committee was established in 1997 and regulatory guidelines for the release of genetically modified organisms drafted in 2000; the importation of GM crops is approved for research purposes only and there is no commercial importation or plantings of GM crops. Survey data were analysed using summary statistics and a logistic model framework was used to investigate the relationship between consumer’s willingness to buy GM product on one hand and (1) knowledge of genetic engineering, (2) awareness of regulatory bodies, (3) perception of GM foods, and (4) demographic characteristics on the other. Our findings suggest that the Jamaican consumer is fairly knowledgeable of the technology and overwhelmingly supports mandatory labeling of GM products. Safety of GM crops and food products remains a major concern for the consumer and the perception of the prospects for genetic engineering to improve the quality of life represents a major factor in a consumer’s decision to purchase GM products."}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimation of damage intensity of Chilo tumidicostalis Hampson in Sugarcane during primary and secondary infestation",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":253,
+	"dc:subject":[
+		{"value":"saccharum officinarum",
+	"xml:lang":"esp"
+	},
+	{"value":"chilo",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":256,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000497",
+	"dct:identifier":"IN2015000497",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chand, Hari"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Anil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paswan, Sudhir"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dwivedi, G.P."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Damage intensity of Chilo tumidicostalis clearly indicated that highly significant difference on qualitative and quantitative parameters under investigation except sucrose content which was found statistically significant. Perusal of data revealed that the percentage of reduction in damage intensity levels were gradually increased when number of damaged internodes were increased except 8- damaged internodes which was even lower than those of 6-and 7-damaged internodes. This might be due to lesser number of effective larvae feeding on internodes at this damage intensity and/or physiological changes like better recoverability of damaged tissues at this growth stages",
+	"xml:lang":"eng"
+	}
+	}}

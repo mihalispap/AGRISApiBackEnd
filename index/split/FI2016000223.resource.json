@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Integrating forest-level and compartment-level indices of species diversity with numerical forest planning.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pukkala, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Jyrki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kniivilä, Matleena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tiainen, Anne-Mari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"simulointi"},
+	{"value":"biodiversity"},
+	{"value":"ympäristösuunnittelu"},
+	{"value":"päätöksenteko"},
+	{"value":"luonnonsuojelu"},
+	{"value":"forestry"},
+	{"value":"heuristiikka"},
+	{"value":"decision making"},
+	{"value":"simulation"},
+	{"value":"nature conservation"},
+	{"value":"environment"},
+	{"value":"planning"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"metsätalous"},
+	{"value":"luonnon monimuotoisuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000223",
+	"dct:identifier":"FI2016000223",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

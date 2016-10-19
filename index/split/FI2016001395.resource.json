@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"α-Aminooxi-β-phenylpropionic acid controls phenylalanine ammonia lyase gene expression during storage of asparagus spears.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bhowmik, Pankaj Kumar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Matsui, Toshiyuki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"parsa"},
+	{"value":"lignifigation"},
+	{"value":"genes"},
+	{"value":"entsyymiaktiivisuus"},
+	{"value":"crop yield"},
+	{"value":"entsyymit"},
+	{"value":"enzymes"},
+	{"value":"geenit"},
+	{"value":"keeping quality"},
+	{"value":"geeniekspressio"},
+	{"value":"phenylalanine ammonia lyase"},
+	{"value":"enzyme activity"},
+	{"value":"quality"},
+	{"value":"säilyvyys"},
+	{"value":"gene expression"},
+	{"value":"Asparagus officinalis"},
+	{"value":"sadon laatu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001395",
+	"dct:identifier":"FI2016001395",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

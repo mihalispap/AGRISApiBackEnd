@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of heat and soil texture on seed germination and seedling emergence of marama bean, Tylosema esculentum (Burch.) A. Schreib."},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Travlos, Ilias S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Economou, Garyfalia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karamanos, Andreas J. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100301",
+	"dct:identifier":"FI2016100301",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Marama bean [Tylosema esculentum (Burch.) A. Schreib.] is an underutilized drought tolerant legume native to the arid and semi-arid regions of southern Africa, which produces protein- and oil-rich seed and tubers with potential for use as human food and animal fodder. Laboratory and greenhouse experiments were conducted in Greece, in order to investigate germination and emergence of this species. Most treatments, likewise control, resulted to relatively high germination and emergence percentages, confirming that marama seeds have no physiological dormancy. The speed and percentage of Tylosema esculentum seed germination was greatly increased by an immersion in hot water for 2 to 4 min or dry heating for 5 min at 100 to 150oC, while higher temperatures proved harmful to some seeds. These highly positive responses of marama seeds to such treatments clearly indicate that there is a moderate coat-imposed dormancy in this species. Soil texture seems crucial for T. esculentum emergence, as long as there was a beneficial effect of the sandy soil on seedling emergence (probably due to the optimization of several soil physical properties), while clay loam soils are rather unsuitable for marama emergence."}
+	}}

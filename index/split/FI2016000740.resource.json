@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors influencing endophytic communities in poplar plantations.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Martin-García, Jorge.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Espiga, Elba.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pando, Valentín.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Diez, Julio Javier.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrients"},
+	{"value":"foliar nutrition"},
+	{"value":"plantations"},
+	{"value":"Populus"},
+	{"value":"endophytes"},
+	{"value":"forest health"},
+	{"value":"site factors"},
+	{"value":"management"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000740",
+	"dct:identifier":"FI2016000740",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

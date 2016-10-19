@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Technical efficiency of tilapia production in Ilha Solteira, SP: a nonparametric analysis",
+	"xml:lang":"eng"
+	},
+	{"value":"   Eficiência técnica da produção de tilápias em Ilha Solteira ",
+	"xml:lang":"por"
+	},
+	{"value":"   SP: uma análise não paramétrica "}
+	],
+	"dc:subject":[
+		{"value":"fish culture",
+	"xml:lang":"eng"
+	},
+	{"value":"fishery production",
+	"xml:lang":"eng"
+	},
+	{"value":"management",
+	"xml:lang":"eng"
+	},
+	{"value":"tilapia",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F07856",
+	"dct:identifier":"BR2015F07856",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1435671977.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SABBAG, O. J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, S. M. A. L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Este estudo objetivou analisar o desempenho de unidades de produção de tilápias em sistemas de produção de piscicultura em tanques-redes no reservatório de Ilha Solteira, SP. Avaliou-se o grau de eficiência produtiva e o diferencial de cada insumo para chegar à eficiência dos sistemas produtivos em tanques-redes. Metodologicamente, foi aplicada a técnica de Análise Envoltória de Dados para retornos constantes de escala, com orientação input. As variáveis consideradas foram investimentos, custo operacional efetivo, remuneração de investimento (inputs) e produção (output). Os resultados mostraram que 25% das propriedades foram muito eficientes, com investimentos médios de R$241.000,00, custos operacionais de R$86.000,00 e produção correspondente a 23 toneladas/mês. Os resultados sinalizam para recomendação de que a unidade de produção (DMU) com menor desempenho reduza o uso dos inputs em 53% para tornar-se eficiente. Recomenda-se aos piscicultores maior atenção às ações que não contribuem para a otimização da infraestrutura disponível, em especial aos investimentos, considerado o fator responsável pelo maior grau de ineficiência nas DMU analisadas.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to analyze the performance of tilapia production units using tank networks for fish production in the Ilha Solteira reservoir, SP. The degree of productive efficiency and the differential of each raw material to achieve efficiency of the production systems in tank networks were evaluated. Methodologically, input-oriented data envelopment analysis (DEA) under constant returns to scale was applied. The variables analyzed were investments, effective operational costs, investment compensation (inputs), and production (output). The results showed that 25% of the units were very efficient, with average investments of R$241,000.00, operational costs of R$86,000.00, and production corresponding to 23 tons/month. The results point to the recommendation that the production unit (DMU) with low performance reduces the use of inputs by 53% to become efficient. Fish farmers should pay more attention to actions that do not contribute to the optimization of available infrastructure, especially investments, the factor responsible for the greater degree of inefficiency in the DMU analyzed.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

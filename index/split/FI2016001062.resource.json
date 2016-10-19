@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Feeding value of low quality grass silage supplemented with maize silage for sheep /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vranić, Marina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Knez̆ević, Mladen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bos̆njak, Kres̆imir.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leto, Josip.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Perćulija, Goran.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"maissi"},
+	{"value":"maize"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"säilörehu"},
+	{"value":"laatu"},
+	{"value":"grasses"},
+	{"value":"ravintoarvo"},
+	{"value":"quality"},
+	{"value":"sheep"},
+	{"value":"nurmirehut"},
+	{"value":"lammas"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001062",
+	"dct:identifier":"FI2016001062",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

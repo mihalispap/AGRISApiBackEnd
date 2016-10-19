@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The effects of bird species on farming activities within Osun grove, Osogbo, Osun State, Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Inah, E. I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Smith, O. F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Onadeko, S.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akinola, O. O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100151",
+	"dct:identifier":"FI2016100151",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effects of bird species on farming activities were assessed within the study area. Results showed that the effects were both positive and negative, though the positive impact could not be quantified. Summated Likert scale was used to analyse the negative effects of bird species on farming activities. Data obtained indicated that the most damaged crop by bird species was Sorghum bicolor (Guinea corn) (1.69) and the least damaged was Dioscorea rotundata (yam) (1.04) on the scale value. Of the crops damaged by birds in the study area occurred at pre-germination, post germination and fruiting stages 9.4, 28.1 and 62.5% respectively. Also about 3,165 of the 6,000 domestic fowls hatched from 1998 to 2002 were lost to predator bird species. This is a significant economic loss to the peasant farmers in the study area."}
+	}}

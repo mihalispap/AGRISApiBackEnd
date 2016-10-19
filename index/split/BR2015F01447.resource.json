@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Efeito da adubação nitrogenada na disponibilidade de forragem e composição bromatológica de um pasto de Brachiaria decumbens Stapf cv. Basilisk ",
+	"xml:lang":"por"
+	},
+	{"value":"Effect of Nitrogen fertilization on available forage and chemical composition of a Brachiaria decumbens stapf cv. Basilisk pasture",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"brachiaria",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"crude protein",
+	"xml:lang":"eng"
+	},
+	{"value":"surfactants",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"68/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01447",
+	"dct:identifier":"BR2015F01447",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2011-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1326988102.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"VITOR, C. M. T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, P. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VILELLA,  S. B. J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LEONEL, F. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALBUQUERQUE, J. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COELHO,  R. L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"This study was conducted to evaluate dry matter production, crude protein, neutral detergent fiber and acid detergent fiber of Brachiaria decumbens Stapf cv. Basilisk, subjected to increasing nitrogen doses (0, 100, 200 and 400 kg ha-1). The experiment design used was a completely randomized with three replications. Dry matter production and crude protein content increased linearly with nitrogen doses. The neutral detergent fiber and acid detergent fiber content was not affected by N doses. Thus, nitrogen fertilization is recommended as a management option to the evaluated grass.",
+	"xml:lang":"eng"
+	},
+	{"value":"Este trabalho foi conduzido com o objetivo avaliar a disponibilidade de forragem, e os teores de proteína bruta, fibra em detergente neutro e fibra em detergente ácido da Brachiaria decumbens Stapf cv. Basilisk submetida a doses crescente de nitrogênio (0, 100, 200 e 400 kg ha-1 de N). O delineamento experimental utilizado foi o inteiramente casualizado, com três repetições. A disponibilidade de forragem e o teor de proteína bruta foram aumentados de forma linear com o aumento das doses de N. Já os teores de fibra em detergente neutro e fibra em detergente ácido não foram influenciados pela adubação nitrogenada. Assim, a adubação nitrogenada é recomendada como opção de manejo para a gramínea avaliada.",
+	"xml:lang":"por"
+	}
+	]
+	}}

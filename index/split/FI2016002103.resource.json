@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The rate of technical change in Finnish agriculture, 1960 to 1990 /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Sims, Eric N.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"indeksit"},
+	{"value":"teknologinen kehitys"},
+	{"value":"cost analysis"},
+	{"value":"technological changes"},
+	{"value":"finland"},
+	{"value":"tuottavuus"},
+	{"value":"productivity"},
+	{"value":"maataloustuotanto"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002103",
+	"dct:identifier":"FI2016002103",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

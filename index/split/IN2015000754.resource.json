@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of cashew (Anacardium occidentale L) to osmopriming with gibberellic acid (GA3)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":455,
+	"dc:subject":[
+		{"value":"osmopriming"},
+	{"value":"cashews",
+	"xml:lang":"eng"
+	},
+	{"value":"germinacion",
+	"xml:lang":"esp"
+	},
+	{"value":"croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"acide gibberellique",
+	"xml:lang":"fre"
+	},
+	{"value":"gibberellic acid",
+	"xml:lang":"eng"
+	},
+	{"value":"germination",
+	"xml:lang":"fre"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"anacardo",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de cajou",
+	"xml:lang":"fre"
+	},
+	{"value":"acido giberelico",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":459,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000754",
+	"dct:identifier":"IN2015000754",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lakshmipathi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dinakara Adika, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kalaivanan, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saroj, P.L."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

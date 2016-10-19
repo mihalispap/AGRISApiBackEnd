@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Differences in fibre properties in Scots Pine (Pinus sylvestris L.) genetic entries grown at different spacing and sites.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gort, Jaume.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zubizarreta Gerendiain, Ane.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltola, Heli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pulkkinen, Pertti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Routa, Johanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jaatinen, Raimo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"density"},
+	{"value":"width"},
+	{"value":"ominaisuudet"},
+	{"value":"metsänjalostus"},
+	{"value":"spacing"},
+	{"value":"properties"},
+	{"value":"tiheys"},
+	{"value":"wood properties"},
+	{"value":"kuidut"},
+	{"value":"genetics"},
+	{"value":"fibres"},
+	{"value":"mänty"},
+	{"value":"pituus"},
+	{"value":"puusto"},
+	{"value":"Pinus sylvestris"},
+	{"value":"volume"},
+	{"value":"length"},
+	{"value":"leveys"},
+	{"value":"stems"},
+	{"value":"puu"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000904",
+	"dct:identifier":"FI2016000904",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,106 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Composição da carcaça de novilhos Nelore alimentados com dietas a base de silagens de capim Marandu ou de milho ",
+	"xml:lang":"por"
+	},
+	{"value":"Carcass composition of Nelore steers feed with tropical grass or corn silages",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"bones",
+	"xml:lang":"eng"
+	},
+	{"value":"feeding level",
+	"xml:lang":"eng"
+	},
+	{"value":"muscles",
+	"xml:lang":"eng"
+	},
+	{"value":"fats",
+	"xml:lang":"eng"
+	},
+	{"value":"carcasses",
+	"xml:lang":"eng"
+	},
+	{"value":"silage",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02066",
+	"dct:identifier":"BR2015F02066",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1216213810.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SIGNORETTI, R. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SAMPAIO,  R. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RESENDE, F. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COAN,  R. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"REIS,  R. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALLEONI,  G. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FARIA,  M. H"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SIQUEIRA,  G. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MIGUEL,  F. B."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"33.11 and 15.60%, respectively. The muscular: bony"},
+	{"value":"soft: bony"},
+	{"value":"14,91 e 4,92, respectivamente. Concluiu-se que dieta para ganho de 1,2kg/dia promoveu maior ganho de peso aos animais e as composições física e química da carcaça não foram influenciadas pelos volumosos e pelos planos nutricionais."},
+	{"value":"32,85"},
+	{"value":47.32},
+	{"value":"2) SC e ganho de 1,2 kg/dia"},
+	{"value":"tecido mole:ósseo"},
+	{"value":"Os objetivos do presente estudo foram avaliar o efeito do plano nutricional e do tipo de volumoso sobre a composição física e química da carcaça de novilhos em terminação. Foram utilizados 24 novilhos da raça Nelore, castrados, com idade média de 24 meses e peso vivo médio inicial de 369,05 ± (15,06kg), distribuídos em delineamento inteiramente casualizado, em arranjo fatorial 2 x 2 (volumosos x planos nutricionais) com seis repetições. Os tratamentos foram: 1) SC e ganho de 1,0kg/dia"},
+	{"value":"47,32"},
+	{"value":32.85},
+	{"value":"4) Corn silage and daily gain of 1.2kg. The silage and nutritional plane didn't affect all variables related to the chemical and physical carcass composition characteristics. However the animals whose received high nutritional diet plane showed highest daily weight gain in relation to the live and hot carcass weight, compared to animal feed in low nutritional plane. The muscular, adipose, and bony tissue proportions were 51.28"},
+	{"value":"5,44"},
+	{"value":"tecido adiposo:muscular e tecido adiposo:ósseo foram, em média, 3,27"},
+	{"value":"This research evaluated the nutritional plane and silage effect on the chemical and physical composition of the Nelore steers carcass. Twenty-four Nelore steers, averaging 369.05 ± 15.06kg of live weight and 24 months of age distributed in a randomized design, with a factorial scheme 2 x 2 (silage x nutritional plane) with six replications. The treatments had been: 1) Marandu grass silage and daily gain of 1.0kg",
+	"xml:lang":"eng"
+	},
+	{"value":"14.91 and 4.92, respectively. The diet for daily gain of 1.2 kg resulted in a better animal performance and silage and nutritional planes didn't affect the chemical and physical carcass composition."},
+	{"value":"0,65 e 2,14, respectivamente. As porcentagens médias de matéria seca, umidade, extrato etéreo, proteína e cinzas foram de 52,68"},
+	{"value":"33,11 e 15,60, respectivamente. As relações tecido muscular:ósseo"},
+	{"value":"3) Corn silage and daily gain of 1.0kg"},
+	{"value":"0.65, and 2.14, respectively. The dry matter, ethereal extract, protein and ash values were 52.68"},
+	{"value":5.44},
+	{"value":"adipose: muscle and adipose: bony tissue ration were in average 3.27"},
+	{"value":"3) SM e ganho de 1,0kg/dia e 4) SM e ganho de 1,2kg/dia. Não houve efeito das silagens estudadas e dos planos nutricionais em todas as variáveis relacionadas com a composição física e química da carcaça. No entanto, animais submetidos a dietas com alto plano nutricional apresentaram maiores ganhos diários em relação ao peso vivo e ao peso da carcaça quente em comparação àqueles com baixo plano nutricional. As porcentagens de tecido muscular, adiposo e ósseo foram, em média, de 51,28"},
+	{"value":"2) Marandu grass silage and daily gain of 1.2kg",
+	"xml:lang":"por"
+	}
+	]
+	}}

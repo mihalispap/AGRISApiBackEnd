@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Características físicas e químicas de pêssego em função da altura de inserção na planta ",
+	"xml:lang":"por"
+	},
+	{"value":"Physical and chemical characteristics of peach as function of the insertion height in the plant",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":{"value":"maturation",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206449",
+	"dct:identifier":"BR2015206449",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/409/283",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Matias Rosana Gonçalves Pires"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ribeiro Mariana Rodrigues"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva Danielle Fabíola Pereira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva José Osmar da Costa e"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira Sílvia Paula de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bruckner Claudio Horst"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Viçosa, Viçosa, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Viçosa, Viçosa, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Viçosa, Viçosa, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Viçosa, Viçosa, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Viçosa, Viçosa, MG, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Viçosa, Viçosa, MG, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O efeito da posição do fruto na planta é uma importante variável relacionada ao clima, podendo resultar em diferenças qualitativas nos mesmos. Este trabalho objetivou verificar a existência de diferenças entre características físicas e químicas de frutos de pessegueiro coletados na porçãoapical e basal na copa da planta. Utilizou-se o delineamento inteiramente casualizado com três repetições, sendo cada repetição representada por cinco frutos. As variáveis analisadas foram: cor da casca e da polpa (coordenadas b* e h°), peso do fruto, diâmetros sutural, equatorial e polar,firmeza, teor de sólidos solúveis (SS), acidez titulável, relação SS/AT, teor de vitamina C e teor de carotenoides. Realizou-se a análise de variância e teste de médias para comparar as características avaliadas entre os tratamentos, a 5% de probabilidade de erro pelo teste F. Verificou-se diferençassignificativas entre as porções apical e basal para peso, diâmetros, SS e relação SS/AT. Frutos de pessegueiro situados na porção apical apresentam melhores características físicas e químicas que os produzidos na porção basal das plantas de pessegueiro Aurora 1.",
+	"xml:lang":"por"
+	},
+	{"value":"The effect of fruit position in the plant is an important variable related to climate, which can result in qualitative differences in them. This study aimed to verify the existence of differences between physical and chemical characteristics of peach fruits collected in the apical and basal portion in the crown of the plant. We used a completely randomized design with three replicates, each replicate represented by five fruits. The variables analyzed were: skin and pulp color (b * h ° coordinates),fruit weight, sutural, equatorial and polar diameters, firmness, soluble solids (Brix), titratable acidity,SS/TA ratio, vitamin C and carotenoids. We conducted the analysis of variance and mean test to compare the characteristics evaluated between treatments at 5% level of probability for test F. There are significant differences between the apical and basal portions for weight, diameter,SS and SS/TA ratio. Peach fruits located in the apical portion have better physical and chemical characteristics than those produced in the basal portion of the Aurora 1 peach.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Maturação fisiológica de sementes de abóbora (Curcubita moschata Duch) produzidas no semiárido ",
+	"xml:lang":"por"
+	},
+	{"value":"Maturation of pumpkin seeds (Curcubita moschata Duch) produced in the semiarid",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":{"value":"germination",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202843",
+	"dct:identifier":"BR2015202843",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/552/257",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Figueiredo Neto Acácio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Assis Cardoso Almeida Francisco"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"França Dantas Bárbara"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"da Silva Garrido Marlon"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alberto Aragão Carlos"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Vale do São Francisco, Petrolina, PE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Campina Grande, PB, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Embrapa Semiárido, Petrolina, PE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Vale do São Francisco, Petrolina, PE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade do Estado da Bahia, Juazeiro, BA, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Objetivou-se com esse trabalho avaliar a qualidade fisiológica das sementes de abóbora cultivar Jacarezinho nas condições do Vale do São Francisco durante o processo de maturação. O cultivo desta cucurbitácea foi realizado no campus experimental de hortaliças da Universidade Estadualda Bahia, em Juazeiro, no período de dezembro de 2010 a março de 2011. As sementes foram colhidas de frutos em intervalos regulares, do 15º dia até 60º dia após a antese (DAA), cujo trabalho foi instalado em delineamento experimental inteiramente casualizado, com seis tratamentos(15, 25, 30, 40, 50 e 60 DAA) e quatro repetições. Para cada época, os frutos foram avaliados visualmente e determinado o peso médio e, as sementes extraídas dos frutos foram avaliadas pelos seguintes testes e/ou determinações: grau de umidade, massa da matéria seca das sementes, germinação, condutividade elétrica, emergência de plântulas em campo e índice de velocidade de emergência. As sementes atingiram a maturidade fisiológica aos 50 dias após a antese, emboraa melhor época para realizar a colheita de frutos desta cultivar na região semiárida seja no período de 50 a 60 dias, quando as sementes se encontram com menor grau de umidade.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to evaluate the physiological quality of pumpkin seeds cultivar ‘Jacarezinho’ growth under conditions of the San Francisco River Valley during the maturation process. The cultivation of this cucurbit was carried out in the experimental area of vegetables inState University of Bahia, Juazeiro city, in the period from December 2010 to March 2011. Seeds were harvested from the fruits at regular intervals, from 15 to 60 days after anthesis (DAA), whose work was installed in a randomized desing with six treatments (15, 25, 30, 40, 50 and 60 DAA) and four repetitions. For each, season, fruit were assessed visually and determined the average weight, and the seedsextracted from fruits were evaluated for the following tests and/or regulations: water content, dry matter of seeds, germination, electrical conductivity, emergency of seedling, emergence speed index. The seeds reached physiological maturity to 50 days after anthesis, although the best time tobegin the harvest fruit of this cultivar in the semiarid region is in the period from 50 to 60 days, when the seeds have less water content.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

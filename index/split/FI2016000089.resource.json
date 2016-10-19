@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of latitude, season and needle-age on the mycota of Scots pine (Pinus sylvestris) in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Terhonen, Eeva.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marco, Teresa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sun, Hui.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jalkanen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vuorinen, Martti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Asiegbu, Fred.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mycota"},
+	{"value":"Hormodema dematioides"},
+	{"value":"seasons"},
+	{"value":"Pinus sylvestris"},
+	{"value":"age"},
+	{"value":"cryptic lifecycle"},
+	{"value":"latitude"},
+	{"value":"leaves"},
+	{"value":"needle age"},
+	{"value":"harsh environment"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000089",
+	"dct:identifier":"FI2016000089",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

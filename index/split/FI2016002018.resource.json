@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"How reliable is a satellite forest inventory?.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Päivinen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Anttila, Perttu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"imagery"},
+	{"value":"forest inventories"},
+	{"value":"reliability"},
+	{"value":"metsäninventointi"},
+	{"value":"luotettavuus"},
+	{"value":"satelliittikuvaus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002018",
+	"dct:identifier":"FI2016002018",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

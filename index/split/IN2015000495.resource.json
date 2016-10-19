@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of IPM modules against Helicoverpa armigera (HÃ¼bner)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":244,
+	"dc:subject":[
+		{"value":"gestion de lucha integrada",
+	"xml:lang":"esp"
+	},
+	{"value":"integrated pest management",
+	"xml:lang":"eng"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"gestion integree des ravageurs",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":248,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000495",
+	"dct:identifier":"IN2015000495",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Rajesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mondal, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakravarty, M.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Results revealed that mean larval population of Helicoverpa armigera was considerably low after insecticidal sprays in different modules and lowest population of the insect (2.59/MRL) was recorded in Module 6 (spinosad @ 0.5 ml/l of water as 1st spray and indoxacarb @1 ml/l as 2nd spray) followed by Module 4 (indoxacarb @1.0 ml/l as 1st spray and triozophos @1.5 ml/l as 2nd spray) and Module 1 (spinosad @ 0.5 ml/l as 1st spray and triazophos @1.5 ml/l as 2nd spray) in 2009-2010. Similar results were also observed during 2010-2011. However, based on benefit-cost ratio, module 1 (1.57 &1.70) proved more viable than module 6 (1.39 &1.56) and module 4 (1.35 &1.55) due to lower cultivation cost in both the seasons.",
+	"xml:lang":"eng"
+	}
+	}}

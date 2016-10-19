@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/s/elainlaakari/104/12/koiranja.pdf",
+	"dct:language":"fin",
+	"dct:title":{"value":"Koiran ja kissan sappiperitoniitti, kirjallisuuskatsaus ja tapausselostus /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Soppela, Esa.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"cats"},
+	{"value":"tulehdus"},
+	{"value":"bile"},
+	{"value":"dogs"},
+	{"value":"pet animals"},
+	{"value":"sappi"},
+	{"value":"sappineste"},
+	{"value":"eläintaudit"},
+	{"value":"lemmikkieläimet"},
+	{"value":"ruoansulatuselinten taudit"},
+	{"value":"digestive system diseases"},
+	{"value":"sappiperitoniitti"},
+	{"value":"infektio"},
+	{"value":"animal diseases"},
+	{"value":"kissa"},
+	{"value":"peritonitis"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000292",
+	"dct:identifier":"FI2016000292",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

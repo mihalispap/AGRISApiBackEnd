@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relative efficacy of new insecticides against wheat aphid, Rhopalosiphum maidis (Fitch)",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"triticum aestivum",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"rhopalosiphum maidis",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticide",
+	"xml:lang":"fre"
+	},
+	{"value":"insecticidas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":206,
+	"bibo:volume":74,
+	"bibo:pageEnd":208,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000264",
+	"dct:identifier":"IN2015000264",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kaur Amandeep"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma Neha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kaur Gurpreet"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhawan A.K."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

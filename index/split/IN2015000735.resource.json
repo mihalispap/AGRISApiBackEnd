@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biology, damage potential and molecular identification of Conogethes punctiferalis Guenee in cocoa (Theobroma cacao Linn.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":350,
+	"dc:subject":[
+		{"value":"molecular identification"},
+	{"value":"Conogethes punctiferalis"},
+	{"value":"emerging pest"},
+	{"value":"theobroma cacao",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":356,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000735",
+	"dct:identifier":"IN2015000735",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alagar, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rachana, K.E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Keshava Bhat, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shafeeq Rahman"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajesh, M. K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Conogethes punctiferalis is an important polyphagous pest attacking many economically important crops. Recently, C. punctiferalis has been found to be an emerging pest in cocoa and was found to feed and bore into cocoa pods. The larvae feed on the rind of cocoa cherelles/pods, later bore into pods, feed the internal contents of the pods, the granular faecal pellets are seen outside the pods. When pods/cherelles touch each other, it is easy for the larvae to damage more than one pod/cherelle. Pods damaged by Conogethes are exposed to secondary infection by pathogens that lead to pod rot. The larvae sometimes feed on flower buds and flowers cushions. The damaged flower cushions may dry and shed prematurely. The damage of C. punctiferalis on cocoa is observed from December and peak incidence is noticed during March to May. On an average 2 per cent damage was recorded in the Central Plantation Crops Research Institute, Regional Station, Vittal. In order to develop a DNA-based molecular identification system for this species, primers were designed based on two nuclear genes  viz., ribosomal protein S5 (RPS5) gene and carbamoyl phosphate synthetase/aspartate transcarbamylase/ dihydroorotase (CAD). PCR-amenable DNA was isolated from C. puntiferalis larva. The designed primers amplified single bands of expected sizes using genomic DNA as template. The amplicons were purified, cloned and sequenced and sequence analysis revealed close homology to the gene of interest from related moths.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Formation of canker lesions on stems and black scurf on tubers in experimentally inoculated potato plants by isolates of AG2-1, AG3 and AG5 of Rhizoctonia solani : a pilot study and literature review.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lehtonen, Mari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wilson, Paula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahvenniemi, Paavo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valkonen, Jari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sienitaudit"},
+	{"value":"anastomoosiryhmät"},
+	{"value":"peruna"},
+	{"value":"fungal diseases"},
+	{"value":"Finland"},
+	{"value":"Solanum tuberosum"},
+	{"value":"Rhizoctonia solani"},
+	{"value":"plant diseases"},
+	{"value":"kasvitaudit"},
+	{"value":"fungal morphology"},
+	{"value":"perunaseitti"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000294",
+	"dct:identifier":"FI2016000294",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

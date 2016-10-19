@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Natural variability of forests as a reference for restoring and managing biological diversity in boreal Fennoscandia.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"stand characteristics"},
+	{"value":"metsäekosysteemit"},
+	{"value":"biodiversity"},
+	{"value":"luonnonmetsät"},
+	{"value":"metsikön rakenne"},
+	{"value":"sukkessio"},
+	{"value":"ennallistaminen"},
+	{"value":"ecosystems"},
+	{"value":"ecological succession"},
+	{"value":"häiriödynamiikka"},
+	{"value":"boreal forests"},
+	{"value":"virgin forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001972",
+	"dct:identifier":"FI2016001972",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

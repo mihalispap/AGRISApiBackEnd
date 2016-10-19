@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Phenotypic and genetic evaluation of a randombred control population of White Leghorn over 20 generations",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":74,
+	"dc:subject":[
+		{"value":"genetique des populations",
+	"xml:lang":"fre"
+	},
+	{"value":"genetica de poblaciones",
+	"xml:lang":"esp"
+	},
+	{"value":"correlation genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"heritability",
+	"xml:lang":"eng"
+	},
+	{"value":"endogamia",
+	"xml:lang":"esp"
+	},
+	{"value":"pollo",
+	"xml:lang":"esp"
+	},
+	{"value":"lutte genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"heritabilite",
+	"xml:lang":"fre"
+	},
+	{"value":"control genetico",
+	"xml:lang":"esp"
+	},
+	{"value":"heredabilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"genetic control",
+	"xml:lang":"eng"
+	},
+	{"value":"chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic correlation",
+	"xml:lang":"eng"
+	},
+	{"value":"population genetics",
+	"xml:lang":"eng"
+	},
+	{"value":"inbreeding",
+	"xml:lang":"fre"
+	},
+	{"value":"correlacion genetica",
+	"xml:lang":"esp"
+	},
+	{"value":"poulet",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":80,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000456",
+	"dct:identifier":"IN2015000456",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Brah,  G.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaudhary, M.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saini, Samita"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bajwa, I.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Population structure, changes in performance, distribution statistics, heritabilities and genetic and phenotypic correlations among economic traits were studied in a White Leghorn randombred control population over 20 generations. The average number of effective sires and dams were 39.2 and 92.3, providing an effective population size of 183.1. Inbreeding increased at the rate of 0.50% per generation and cumulated to 9.23%. Means of different traits showed wide fluctuations over generations with significant time-trend observed for some traits. These changes could be ascribed to environmental changes as calculated selection differentials for these traits were non-existent. There was no significant change in heritabilities, genetic and phenotypic variances over generations indicating the genetic stability of the line.",
+	"xml:lang":"eng"
+	}
+	}}

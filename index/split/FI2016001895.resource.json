@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Regional potential yields of short rotation willow plantations on agricultural land in Northern Europe.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Mola-Yudego, Blas.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"short rotation forestry"},
+	{"value":"energy planning"},
+	{"value":"socioeconomic development"},
+	{"value":"biofuels"},
+	{"value":"farmland"},
+	{"value":"forestry"},
+	{"value":"maatalousmaa"},
+	{"value":"lyhytkiertometsät"},
+	{"value":"energiapuu"},
+	{"value":"pajut"},
+	{"value":"regional biomass supply"},
+	{"value":"models"},
+	{"value":"suunnittelu"},
+	{"value":"felling cycle"},
+	{"value":"production models"},
+	{"value":"planning"},
+	{"value":"mallit"},
+	{"value":"alueelliset erot"},
+	{"value":"tuotanto"},
+	{"value":"Salix"},
+	{"value":"production possibilities"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001895",
+	"dct:identifier":"FI2016001895",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

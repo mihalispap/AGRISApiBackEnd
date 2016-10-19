@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Correlation of Serum Progesterone Concentration with Number of Corpora Lutea in Superovulated Assam Local and Beetal Goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":98,
+	"dc:subject":[
+		{"value":"hormonas del cuerpo luteo",
+	"xml:lang":"esp"
+	},
+	{"value":"pmsg",
+	"xml:lang":"esp"
+	},
+	{"value":"superovulacion",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"corpus luteum hormones",
+	"xml:lang":"eng"
+	},
+	{"value":"hormone du corps jaune",
+	"xml:lang":"fre"
+	},
+	{"value":"superovulation",
+	"xml:lang":"fre"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":99,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000086",
+	"dct:identifier":"IN2015000086",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Borah, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakravorty, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarmah, B.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhuyan, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka B.C."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"An experiment was conducted in five numbers of 2 â 3 years old healthy parous Assam local (AL) does, and another five numbers of Beetal (B) does of similar status to study the correlation of serum progesterone concentration with number of corpora lutea in superovulated goats. The goats were superovulated with Folligon (PMSG) and Chorulon (HCG) at the dose rate of 750 and 1500 I.U., respectively, with 2 ml of Iliren. In Assam local goats the numbers of corpora lutea (CL) significantly more (P  0.01) than that of Beetal goats (12.80 Â± 0.37 Vs 9.4 Â± 1.46), however, the Beetal goats had significantly (P  0.01) more numbers of matured follicles (10.00 Â± 2.21) than Assam Local goats (4.4Â± 0.68). Serum progesterone concentration assayed following COAT-A-COUNT method of Radio Immuno Assay revealed positive correlation with total number of CL both in Assam Local and Beetal goats with significant positive correlation (r ",
+	"xml:lang":"eng"
+	}
+	}}

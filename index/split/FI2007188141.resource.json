@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Fatty acid composition of flame-broiled beef longissimus muscle"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188141",
+	"dct:identifier":"FI2007188141",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nayigihugu, Venerand (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"D’Angieri, Fausto S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Murrieta, Charles M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rule, Daniel C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hess, Bret W. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effect of flame-broiling on fatty acid composition of beef cattle longissimus muscle was determined. Samples of longissimus muscle were taken adjacent to the following vertebrae: thoracic 4, thoracic 12, and lumbar 6. For each sample, the entire longissimus muscle (2.54 cm) was trimmed of external fat and separated from the bone. Each steak was cut in half sagitally with one half used for cooking. Steaks were flame-broiled to achieve an internal temperature of 65°C. Raw and cooked steaks were placed into whirl-pack bags and frozen prior to being freeze-dried. Freeze-dried raw and cooked samples were ground and 125 mg of material was subjected to direct fatty acid methyl ester preparation using methanolic KOH, and analyzed by GLC. Fatty acid data were analyzed as a 3 x 2 factorial with longissimus muscle location as the first treatment factor and raw vs. cooked as the second treatment factor. Flame-broiling resulted in 63.1% moisture loss (P<0.0001); therefore, because of the variability in moisture loss, fatty acid data were expressed on a DM basis. No location x cooking interactions were detected (>0.14). Total fatty acid concentration was not affected by location (=0.79) or flame-broiling (=0.57). Weight percentages of 18:1cis-9 and 18:2cis-9, trans-11 decreased (<0.05) from 39.5 to 38.0% and 0.5 to 0.4% for raw vs. flame-broiled steaks, respectively. Weight percentages of 18:1trans-11 (2.2 vs. 1.6%), 17:0 (0.9 vs. 0.7%), and 15:0 (0.5 vs. 0.4%) were greater (<0.03) in flame-broiled than in raw steaks. Weight percentage of 18:1trans-9 tended to be greater (=0.06) in raw (0.2%) compared to flame-broiled (0.1%) steaks. Weight percentages of other fatty acids were not affected (=0.21 to 0.94) by flame-broiling. Neither location within the longissimus muscle nor flame-broiling, once corrected for moisture loss, affected total fatty acid concentrations, and only slight alterations occurred in fatty acid composition by flame-broiling beef longissimus muscle steaks."}
+	}}

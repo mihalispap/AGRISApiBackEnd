@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Histomorphology of the pulmonary acinus in sambar deer (Cervus unicolor)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":127,
+	"dc:subject":[
+		{"value":"kerala",
+	"xml:lang":"esp"
+	},
+	{"value":"anatomie animale",
+	"xml:lang":"fre"
+	},
+	{"value":"anatomia animal",
+	"xml:lang":"esp"
+	},
+	{"value":"animal morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"cervidae",
+	"xml:lang":"esp"
+	},
+	{"value":"pulmones",
+	"xml:lang":"esp"
+	},
+	{"value":"poumon",
+	"xml:lang":"fre"
+	},
+	{"value":"lungs",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":131,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000411",
+	"dct:identifier":"IN2015000411",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Indu, V.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lucy, K.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Harshan, K.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chungath, J.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thankachen, K.C."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Histomorphological studies were conducted on the pulmonary acinus of a female adult Sambar deer collected from the Zoo, Trichur. The lung acinus which formed the functional unit of the gas exchange area consisted of all the air spaces distal to one terminal bronchiole and comprised respiratory bronchioles, alveolar ducts, alveolar sacs and alveoli. The respiratory bronchioles were distinctly wide and longer and showed the distended alveoli on their walls. The lining epithelium of the respiratory bronchioles was simple cuboidal except in the areas where they formed the alveoli. The smooth muscle reduced progressively during the transition from terminal bronchiole to respiratory bronchiole. More number of alveoli were recorded per field when compared to the lung tissue of domestic animals. Alveoli were composed of two types of cells, namely type-I pneumocytes and type-II pneumocytes with a few dust cells. The average alveolar diameter was found to be 40.44 Â± 2.39 mm.",
+	"xml:lang":"eng"
+	}
+	}}

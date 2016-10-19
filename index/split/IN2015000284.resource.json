@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of Murrah buffaloes at coastal region of Tamil Nadu, India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1080,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"desempeno animal",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"performance animale",
+	"xml:lang":"fre"
+	},
+	{"value":"animal performance",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1083,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000284",
+	"dct:identifier":"IN2015000284",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Thiruvenkadan, A.H."
+	}
+	},
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The present study was made to study the performance of Murrah buffaloes purchased from its breeding tract at coastal region of Tamil Nadu to assess any genotype Ã environment interaction in production traits. The study revealed that non-genetic factors such as period and season of calving had highly significant effect on all the traits studied. In general, the milk production performance of the Murrah buffaloes purchased from its breeding tract and reared at coastal region of Tamil Nadu was comparable with those maintained under other government and institutional herds in India, indicating that there might not be any appreciable genotype Ã environment interaction.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Feeding Canola Quality Meal on the Performance of Lactating Cows",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":373,
+	"dc:subject":[
+		{"value":"tourteau de colza",
+	"xml:lang":"fre"
+	},
+	{"value":"lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"rendimiento lechero",
+	"xml:lang":"esp"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"rendement laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"lactacion",
+	"xml:lang":"esp"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"rapeseed meal",
+	"xml:lang":"eng"
+	},
+	{"value":"harina de colza",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":12,
+	"bibo:pageEnd":381,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000064",
+	"dct:identifier":"IN2015000064",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tayo, Tilling"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dutta, Narayan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pattanaik, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Narang, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar Arvind"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The study was carried out to ascertain the effect of feeding canola quality RMC on the lactation performance of 18 crossbred lactating cows. The cows were randomly divided into three treatments 6 each in a completely randomized design and allocated in 3 dietary supplements viz. soybean meal (SBM), rapeseed mustard cake (RMC) and canola quality meal (CQM) containing soybean meal, rapeseed mustard cake and canola quality rapeseed mustard meal, respectively as a major protein source for a period of 90 days. The glucosinolates (GLS) content of RMC and CQM were 38.12 and 3.91Â¦Ãmol g−1DM, respectively. The daily intake of DM, OM and green fodder by lactating cows did not differ significantly (PÂ¡Ã0.05) irrespective of the dietary treatments. However, concentrate intake (kg d−1) was linearly (PÂ¡Ã0.04) lower in the animals given RMC concentrate as compared to their counterparts either fed SBM or CQM based concentrates. The digestibility coefficient (%) of DM, OM, CP, EE, NDF and ADF; and the nutrient intake (g/kgW0.75) and density (%) of composite diets in terms of DCP and TDN did not differ significantly (PÂ¡Ã0.05) irrespective of dietary treatments. The GLS intake (Â¦Ãmol d−1 or Â¦Ãmol g kg−1W0.75) by cows was linearly (PÂ¡Ã0.001) higher in RMC as compared to CQM group. Feeding of RMC based supplement to cows resulted in decreased (PÂ¡Ã0.03) daily milk yield, 4% FCM (kg d−1), fat and protein yield (g d−1) and total milk production (kg), as compared to CQM fed cows, however, SBM group had an intermediate position in respect to target parameters in between RMC and CQM groups. The efficiency of milk production was quadratically better (PÂ¡Ã0.07) in CQM group followed by cows given SBM and RMC without any significant effect (PÂ¡Ã0.05) on milk composition irrespective of dietary treatments. It may be concluded that soybean meal can be replaced completely by canola quality rapeseed-mustard meal without compromising the lactation performance of crossbred cows.",
+	"xml:lang":"eng"
+	}
+	}}

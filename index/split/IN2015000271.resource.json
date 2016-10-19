@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Histogenesis of circumvallate papillae of buffalo during prenatal life",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1022,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"lengua",
+	"xml:lang":"esp"
+	},
+	{"value":"anatomie animale",
+	"xml:lang":"fre"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"anatomia animal",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"tongue",
+	"xml:lang":"eng"
+	},
+	{"value":"animal morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"feto",
+	"xml:lang":"esp"
+	},
+	{"value":"langue",
+	"xml:lang":"fre"
+	},
+	{"value":"foetus",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1024,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000271",
+	"dct:identifier":"IN2015000271",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Verma, Deepanjali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uppal, Varinder"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bansal,  Neelam"
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The present study was conducted on the tongues of 36 buffalo foetii with CVR length from 1.2 cm to 99.5 cm (age ranging from 34 â 298 days) divided into group 1: foetii between 0â20 cm CVR, group 2: foetii between 20â40 cm CVR and group 3: foetii above 40 cm CVR. The tissues were fixed in neutral buffered formalin and processed. The paraffin sections of 5â6 Âµm were cut and stained with hematoxylin and eosin and Massons trichrome. In the present study, first indication of formation of circumvallate papillae was observed at 10.7 cm CVR length (77 days) lined by dark layered basal cells and 2â3 layers of superficial cells. In group 2, at 21.4 cm CVR length (122 days) the two stacks of papillae invaginated deep into the tongue mesenchyme to form serous acini. The connective tissue core at the same age was highly vascularized and large number of nerve fibers could be observed penetrating into the core. The primitive taste bud appeared on the apical surface of circumvallate papillae at 45.0 cm CVR length (175 days). The taste pore became apparent at 80.0 cm CVR length (254 days).",
+	"xml:lang":"eng"
+	}
+	}}

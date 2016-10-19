@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathomorphological changes induced by cypermethrin toxicity in broilers and it's amelioration with vitamin E",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":217,
+	"dc:subject":[
+		{"value":"vitamine e",
+	"xml:lang":"fre"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"cipermetrin",
+	"xml:lang":"esp"
+	},
+	{"value":"cypermethrine",
+	"xml:lang":"fre"
+	},
+	{"value":"vitamina e",
+	"xml:lang":"esp"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"vitamin e",
+	"xml:lang":"eng"
+	},
+	{"value":"cypermethrin",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":220,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000115",
+	"dct:identifier":"IN2015000115",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, Dharmendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Srivastava, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gangwar ,Neeraj Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Pratima"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"45 broilers of either sex, aged 2 weeks were randomly divided into three groups comprising 15 birds in each. The birds of group I provided coconut oil and served as control and group II were administered Cypermethrin @800mg/ kg body weight orally with vehicle coconut oil and group ll were administered Cypermethrin @800mg! kg with Vitamin E@150mg/ kg body weight orally for 30 days.Five broilers from each group were slaughtered at the intervals of 10,20 and 30 days forfurther study.Pathomorphologically birds of group-II revealed presence of grayish white multiple focal necrotic spots in liver and showed cellular swelling to vacuolisation and focal areas of necrosis of hepatocytes along with congestion and lymphoid aggregation in portal areas.Lungs showed focal area of consolidation and marked congestion of air vesicles. The lumen of air vesicles and parabronchi also had variable amount of light pink colour oedematous fluid.Kidney srevealed hypercellularity of glomeruli and infiltration of mononuclear cells and degenerative changes in the lining epithelium of renal tubules. Epicardial surface of the heart showed congestion and at places petechial to ecchymotic, subepicardial hemorrhages and degenerative changes in myofibres. Proventriculous revealed degeneration and desquamation of the mucosa epithelial lining with focal area of necrosis forming ulcers. Intestine revealed diffuse degeneration and necros desquamation of villous epithelium forming naked villi. The brainrevealedmild to moderate congestion of blood vessels and cerebral cortex showed central chromatolysis in neurons and perineuronal edema.Cerebellum revealed separation of molecular and granular layers. The bursa of Fabricius showed degeneration and necrosis of lymphoid tissue in the bursal follicles and hyperplasia of epithelium lining the bursa. The caecalmucosa showed hyperplasia of goblet cells with mildde generation of lymphoid cells from tonsils. Similar gross and microscopic picture were observed in the birds of group-ill but of mild in nature.",
+	"xml:lang":"eng"
+	}
+	}}

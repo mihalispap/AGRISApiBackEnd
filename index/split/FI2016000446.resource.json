@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Pioneering research on C₄ photosynthesis: implications for crop water relations and productivity in comparison to C₃ cropping systems.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    El-Sharkawy, M. A.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"irradiation"},
+	{"value":"cassava"},
+	{"value":"plant water relations"},
+	{"value":"water use efficiency"},
+	{"value":"leaves"},
+	{"value":"temperature"},
+	{"value":"gas exchange"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000446",
+	"dct:identifier":"FI2016000446",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

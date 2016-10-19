@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Population density and damage by pod borers, Helicoverpa armigera and Spodoptera exigua in a diverse array of chickpea genotypes under natural infestation in the field",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":117,
+	"dc:subject":[
+		{"value":"pest control",
+	"xml:lang":"eng"
+	},
+	{"value":"insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"lutte antiravageur",
+	"xml:lang":"fre"
+	},
+	{"value":"spodoptera exigua",
+	"xml:lang":"esp"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"control de plagas",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticide",
+	"xml:lang":"fre"
+	},
+	{"value":"insecticidas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":127,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000478",
+	"dct:identifier":"IN2015000478",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shankar, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Munghate, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Babu, T. Ramesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sridevi, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, H.C."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Host plant resistance is one of the important components of resistance to insects, and hence, we evaluated a diverse array of chickpea genotypes for resistance to pod borers, Helicoverpa armigera and Spodoptera exigua under field conditions. Data were recorded on S. exigua egg masses and larvae, H. armigera eggs and larvae, plant damage at the vegetative, flowering and podding stages, and grain yield at crop harvest. During the vegetative stage, significantly lower numbers of H. armigera and S. exigua larvae were recorded on ICC 10393, ICCL 86111, ICC 12475 and RIL 20; while leaf damage was significantly lower on ICC 12475, ICC 10393, ICCV 10, and RIL 25 as compared to that on ICC 3137. During the flowering stage, leaf damage was significantly lower on ICC 12475, RIL 20, RIL 25, ICC 10393, ICCL 86111, KAK 2, and ICCV 10 than on ICC 3137; of which the numbers of H. armigera larvae were significantly lower on ICCL 86111, RIL 20, ICC 10393, RIL 25 and ICC 12475 than on ICC 3137 in one or both sowings/seasons. During the podding stage, the H. armigera and/or S. exigua larval densities were significantly lower on ICC 12475, ICC 10393, RIL 25, ICCV 10, and RIL 20; of which ICC 10393, ICC 12475, RIL 20, ICCV 10 and RIL 25 suffered significantly lower leaf damage than ICC 3137 in one or both seasons. Pod damage was significantly lower on EC 583264, ICC 10393, ICC 12475, ICCL 86111, ICCV 10, RIL 20 and RIL 25 than in ICC 3137. The grain yield of these genotypes was also significantly greater than that of ICC 3137 one or both sowings/seasons, and these genotypes can be used for improving chickpea to pod borer resistance for sustainable crop production.",
+	"xml:lang":"eng"
+	}
+	}}

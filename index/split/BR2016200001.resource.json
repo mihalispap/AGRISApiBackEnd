@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Modulação da atividade antibacteriana do tecido adiposo da Gallus gallus domesticus (Linnaeus ",
+	"xml:lang":"por"
+	},
+	{"value":"   1758) "},
+	{"value":"Modulatory antibacterial activity of body fat from Gallus gallus domesticus (Linnaeus 1758)",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"staphylococcus aureus",
+	"xml:lang":"eng"
+	},
+	{"value":"gallus",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016200001",
+	"dct:identifier":"BR2016200001",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	},
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/view/412/276",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Coutinho Henrique"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aquino Pedro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leite Jéssica"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leandro Livia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Figueredo Fernando"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Matias Edinardo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guedes Tássia"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Regional do Cariri, Crato, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Leão Sampaio, Juazeiro do Norte, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Leão Sampaio, Juazeiro do Norte, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Leão Sampaio, Juazeiro do Norte, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Regional do Cariri, Crato, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Leão Sampaio, Juazeiro do Norte, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Leão Sampaio, Juazeiro do Norte, CE, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Based on the popular belief ,which uses fat from G. g. domesticus. (domestic chicken), to combat infectious and inflammatory processes, this work aims to evaluate the antibacterial action of lipids in adipose tissue of these animals besides verifying association with antibiotics observing the modulating effect of natural products against standard strains of Staphylococcus aureus and Escherichia coli and multiresistant of Staphylococcus aureus from clinical isolates. We evaluated the antibacterial activity of the samples, determining the minimum inhibitory concentration(MIC) by microdilution method. And after testing was conducted to verify the possible synergistic action between the samples and the antimicrobials using fat tissues in a sub inhibitory concentration.The interactions of aminoglycosides with the samples at concentrations of 128g /ml(MIC1/8)were effective against S.aureos 358,and amikacin activity associated with the TAGCc with most representative reduction from 64 to 8μg/mL. The results of this study indicate that the TAGc and TAGi are an alternative source of natural products with antibacterial action, as possible to potentiate the activity ofaminoglycosides against the strains of S.aureus 358. Both deserving continuing to elucidate the antimicrobial and toxicological action.",
+	"xml:lang":"eng"
+	}
+	}}

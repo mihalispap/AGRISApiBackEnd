@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Agricultural growth in West Bengal (1949-50 to 2009-10): evidence from multiple trend break unit root test",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":115,
+	"dc:subject":[
+		{"value":"bengale occidental",
+	"xml:lang":"fre"
+	},
+	{"value":"bengala occidental",
+	"xml:lang":"esp"
+	},
+	{"value":"agricultura",
+	"xml:lang":"esp"
+	},
+	{"value":"croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"tendance",
+	"xml:lang":"fre"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"tendencias",
+	"xml:lang":"esp"
+	},
+	{"value":"trends",
+	"xml:lang":"eng"
+	},
+	{"value":"west bengal",
+	"xml:lang":"eng"
+	},
+	{"value":"agriculture",
+	"xml:lang":"fre"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":70,
+	"bibo:pageEnd":129,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000003",
+	"dct:identifier":"IN2015000003",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f451062e"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal Of Agricultural Economics (India)"},
+	"bibo:ISSN":{"value":"0019-5014"}
+	}
+	}
+	],
+	"dct:issued":"jan-mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Kundu, Soumitra"
+	}
+	},
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Some researchers have found an acceleration in the growth of agricultural production in West Bengal from the beginning of the 1980s, while other researchers have criticised the methodologies and finings of these studies and concluded that no significant acceleration in the production of foodgrains have occurred in West Bengal in the 1980s. In the present study, using modem time series techniques allowing for endogenous structural breaks in the growth path of the series under considerations, we have found the evidence of a statistically significant acceleration in the growth rate of productions of foodgrains, rice and aman rice in the 1980s, which was caused by a significant increase in the growth rate of yield of aman rice from 1980-81. However, this increase in the agricultural growth in West Bengal was rather short lived as the growth rate of yield of aman rice declined significantly in the state from 1986-87, which leads to a subsequent decline in the growth rate of production offoodgrains in the state from 1987-88.",
+	"xml:lang":"eng"
+	}
+	}}

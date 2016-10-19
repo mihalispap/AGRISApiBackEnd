@@ -1,0 +1,98 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Presumptive Count of Clostridium perfringens in Iron Milk Medium from Meat Samples",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":69,
+	"dc:subject":[
+		{"value":"meat",
+	"xml:lang":"eng"
+	},
+	{"value":"calidad",
+	"xml:lang":"esp"
+	},
+	{"value":"goat meat",
+	"xml:lang":"eng"
+	},
+	{"value":"buffalo meat",
+	"xml:lang":"eng"
+	},
+	{"value":"carne de bufalo",
+	"xml:lang":"esp"
+	},
+	{"value":"poultry meat",
+	"xml:lang":"eng"
+	},
+	{"value":"viande de buffle",
+	"xml:lang":"fre"
+	},
+	{"value":"clostridio",
+	"xml:lang":"esp"
+	},
+	{"value":"quality",
+	"xml:lang":"eng"
+	},
+	{"value":"carne de cabra",
+	"xml:lang":"esp"
+	},
+	{"value":"carne",
+	"xml:lang":"esp"
+	},
+	{"value":"viande de volaille",
+	"xml:lang":"fre"
+	},
+	{"value":"clostridium",
+	"xml:lang":"fre"
+	},
+	{"value":"viande caprine",
+	"xml:lang":"fre"
+	},
+	{"value":"clostridium perfringens",
+	"xml:lang":"esp"
+	},
+	{"value":"carne de aves",
+	"xml:lang":"esp"
+	},
+	{"value":"qualite",
+	"xml:lang":"fre"
+	},
+	{"value":"viande",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":11,
+	"bibo:pageEnd":71,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000309",
+	"dct:identifier":"IN2015000309",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_13ab7667"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Veterinary Public Health"},
+	"bibo:ISSN":{"value":"0972-7485"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, R.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhilegaonkar, K.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agarwal, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rawat, S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The study was undertaken to determine the presumptive count of Clostridium perfringens in 90 meat samples (30 samples each of buffalo, goat and poultry,) using iron milk medium (IMM). The meat samples were collected from retail shops and slaughter houses in and around Bareilly city. In the study, most of the samples (57.75%) showed MPN counts of C. perfringens to be 1100 with the highest in goat meat samples (76.6%), followed by poultry (50%) and then buffalo (46.6%). Lower MPN counts were observed as 8.8%,12.2% and 21.1% in meat samples, in which the MPN counts ranges between  501-1100, 100 and 100-500,respectively.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical properties of raw and processed breadfruit (Treculia africana) seed flour"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038537",
+	"dct:identifier":"FI2006038537",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f10.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fasasi, O.S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eleyinmi, A.F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fasasi, A.R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karim, O.R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Treculia africana seeds (TAS) were fermented, autoclaved and toasted. Each sample was milled and divided into two parts; one part was defatted while the other was not. Unprocessed TAS served as control. The chemical properties were investigated. Results showed significant increases (P<0.05) in the protein and ash contents of fermented full fat and defatted fermented TAS flours compared with the other flours. Fermented TAS flours had 18.6 and 20.8% of its total dry matter as protein while the autoclaved, toasted and untreated TAS flours had 18.0 and 17.0%, 16.3 and 16.8%, and 15.1 and 18.1% protein respectively. The energy value of unprocessed full fat TAS flour (17.12 kJ/g) was significantly higher (P<0.05) than the processed full fat TAS flours (15.5 kJ/g, 16.3 kJ/g and 16.3 kJ/g for fermented, autoclaved and toasted TAS flours respectively). The percent utilisable energy due to protein was highest in the fermented TAS flour (20.2 and 23.9% for full fat and defatted samples), and the values were for other treatments: autoclaved TAS flour 18.6 and 18.8%, toasted TAS flour 16.9 and 18.6%, unprocessed TAS flour 14.8 and 20.3% respectively for the full fat and defatted samples. The K/Na ratio was >> 1 while the Ca/P ratio was << 1 in all the flours. Zinc was the predominant mineral in the flours and highest in fermented TAS flour. Results showed significant reduction in oxalates, phytates, tannin and hydrocyanic acid contents of processed TAS flours. Hydrocyanic acid was not detected in the processed TAS flours."}
+	}}

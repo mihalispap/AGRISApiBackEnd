@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Foliage and branch biomass estimation of coniferous and deciduous tree species.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Grote, Rüdiger.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"pyökki"},
+	{"value":"kuusi"},
+	{"value":"biomass"},
+	{"value":"foliage"},
+	{"value":"biomassa"},
+	{"value":"lehvästö"},
+	{"value":"Fagus sylvatica"},
+	{"value":"Picea abies"},
+	{"value":"branches"},
+	{"value":"oksat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000826",
+	"dct:identifier":"FI2016000826",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

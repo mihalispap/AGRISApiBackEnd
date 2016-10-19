@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Economics of coimbatore sheep rearing",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":239,
+	"dc:subject":[
+		{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"economia",
+	"xml:lang":"esp"
+	},
+	{"value":"economie",
+	"xml:lang":"fre"
+	},
+	{"value":"elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"animal husbandry",
+	"xml:lang":"eng"
+	},
+	{"value":"ganaderia",
+	"xml:lang":"esp"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"economics",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":243,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000406",
+	"dct:identifier":"IN2015000406",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Devendran, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kandasamy, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Panneerselvam, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Selvam, S."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A survey was conducted in 93 flocks of Coimbatore sheep in the breeding and migratory tracts to assess the socio-economic status of the flock owners and economics of rearing them. Data on household size, sex ratio, literacy and agricultural land holdings of owners as well as the fixed and variable costs and returns on different aspects were collected. The survey revealed that the Coimbatore sheep were owned almost exclusively by Kurumba/Kuruba community residing in Coimbatore and Dindigul districts of Tamil Nadu. The flock owners were mostly (90%) landless and among those who owned land, the average holding size was 5.29 acres of mostly dry land. The average household size of the flock owners, male: female ratio and literacy rate were 4.4, 1:0.87 and 54.34%, respectively. The families remained in the villages and did not move with the flock. Moreover, a single flock owner with more than one flock (27.1%) and more than one flock owner for a flock (33.3%) had been observed. Marketing of animals was unorganized involving middlemen and commission agents. The sale of surplus lambs at the age of two months was the major source of returns followed by sale of adults which contributed respectively 64.32 and 20.32% of total returns. Penning charges paid by the land owners during migration and sale of wool also added to the returns by 14.42 and 0.94%, respectively. The cost of rearing Coimbatore sheep was accounted through wages (57.64%) and food (33.67%) to shepherds, veterinary care (6.83%) and transport between migrating places (1.86%). The estimated overall average annual net return was Rs. 412 per adult sheep.",
+	"xml:lang":"eng"
+	}
+	}}

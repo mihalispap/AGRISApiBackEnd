@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Många orsaker till oxidationsskadorna på skinnen : granska också insidan av skinnet.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Blomstedt, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lohi, Outi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biodeterioration"},
+	{"value":"hapettuminen"},
+	{"value":"oxidation"},
+	{"value":"turkisnahat"},
+	{"value":"laatu"},
+	{"value":"kuivaus"},
+	{"value":"varastointi"},
+	{"value":"lipid peroxidation"},
+	{"value":"keeping quality"},
+	{"value":"furs"},
+	{"value":"furbearing animals"},
+	{"value":"processing"},
+	{"value":"säilyvyys"},
+	{"value":"käsittely"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001454",
+	"dct:identifier":"FI2016001454",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Tough times never last, but tough people do",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":6,
+	"dc:subject":[
+		{"value":"PRODUCER COMPANIES"},
+	{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"products",
+	"xml:lang":"eng"
+	},
+	{"value":"marketing",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"mercadeo",
+	"xml:lang":"esp"
+	},
+	{"value":"commercialisation",
+	"xml:lang":"fre"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"productos",
+	"xml:lang":"esp"
+	},
+	{"value":"produit",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":10,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000787",
+	"dct:identifier":"IN2015000787",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jul2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Deepthi Nair, S."
+	}
+	},
+	"bibo:issue":3
+	}}

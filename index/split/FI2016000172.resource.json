@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Seed priming and seedling establishment of barley (Hordeum vulgare L.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Abdulrahmani, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ghassemi-Golezani, K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valizadeh, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Feizi Asl, V.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"viability"},
+	{"value":"seed germination"},
+	{"value":"shoots"},
+	{"value":"seeds"},
+	{"value":"emergence"},
+	{"value":"seed treatment"},
+	{"value":"seed vigour"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000172",
+	"dct:identifier":"FI2016000172",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

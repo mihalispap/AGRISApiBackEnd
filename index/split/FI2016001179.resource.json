@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Dynamic interactions between forest structure and fire behavior in boreal ecosystems.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Ryan, Kevin C.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"stand characteristics"},
+	{"value":"metsäekosysteemit"},
+	{"value":"metsäpalot"},
+	{"value":"metsikön rakenne"},
+	{"value":"ecosystems"},
+	{"value":"häiriödynamiikka"},
+	{"value":"boreal forests"},
+	{"value":"forest fires"},
+	{"value":"boreaaliset metsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001179",
+	"dct:identifier":"FI2016001179",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of WST-1 to measurement of cell viability in low temperature-stressed explants of tropical vegetables /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Chucheep, Kamonwan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kanlayanarat, Sirichai.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maneerat, Chamorn.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Matsuo, Tomoaki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"solut"},
+	{"value":"cells"},
+	{"value":"vihannekset"},
+	{"value":"kasvit"},
+	{"value":"vauriot"},
+	{"value":"vegetables"},
+	{"value":"damage"},
+	{"value":"temperature"},
+	{"value":"stressi"},
+	{"value":"kylmäkäsittely"},
+	{"value":"tropical climate"},
+	{"value":"lämpötila"},
+	{"value":"micropropagation"},
+	{"value":"trooppiset kasvit"},
+	{"value":"solukkoviljely"},
+	{"value":"explants"},
+	{"value":"injurious factors"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000453",
+	"dct:identifier":"FI2016000453",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

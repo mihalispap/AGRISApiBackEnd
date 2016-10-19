@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of some heating and processing methods on fatty acid profile of milk and other dairy products"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025515",
+	"dct:identifier":"FI2005025515",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Herzallah, S.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Ismail, K. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Humeid, M. A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Milk lipids are the most diverse milk components as they contain more than 400 fatty acids and sterols, mostly cholesterol. Some of the fatty acids are found to have anti-carcinogenic properties such as conjugated linoleic acid (CLA) and butyric acid. Milk lipids are usually the most susceptible milk component to oxidation and chemical changes during heat treatment and storage. This will lower their nutritive value and may adversely affect the consumer’s health. The conventional heating methods, processing steps and microwave heating of milk did not cause any significant change in the fatty acid profile of milk and milk products. On the contrary, microwave heating of cheese for 10 min. caused significant (P<0.05) changes in the ratio of saturated to unsaturated fatty acids (SAT/USAT). Thus, the chemical changes of lipids were generally accelerated with the severity of the heat treatment and duration of storage."}
+	}}

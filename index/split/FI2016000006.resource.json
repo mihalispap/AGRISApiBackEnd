@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Respiration in a forest soil 27 years after fertilization with different doses of urea.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nohrstedt, Hans-Örjan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Börjesson, Gunnar.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mineral soils"},
+	{"value":"hiili"},
+	{"value":"kivennäismaat"},
+	{"value":"mänty"},
+	{"value":"humus"},
+	{"value":"urea"},
+	{"value":"podsolit"},
+	{"value":"Pinus sylvestris"},
+	{"value":"carbon"},
+	{"value":"lannoitus"},
+	{"value":"maahengitys"},
+	{"value":"mineralization"},
+	{"value":"mineralisoituminen"},
+	{"value":"Podzols"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000006",
+	"dct:identifier":"FI2016000006",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

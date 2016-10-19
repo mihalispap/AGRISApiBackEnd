@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of an introduced earthworm Aporrectodea velox on nutrient dynamics of forest soil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Haimi, Jari.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"maaperäeliöstö"},
+	{"value":"forest soils"},
+	{"value":"ravinnekierto"},
+	{"value":"soil fauna"},
+	{"value":"maaperäeläimistö"},
+	{"value":"lierot"},
+	{"value":"metsämaa"},
+	{"value":"maaperä"},
+	{"value":"Finland"},
+	{"value":"Aporrectodea velox"},
+	{"value":"metsät"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    International Colloquium on Soil Zoology
+    (11 :
+    1992 :
+    Jyväskylä)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000785",
+	"dct:identifier":"FI2016000785",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

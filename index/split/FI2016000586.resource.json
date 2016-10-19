@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal influence on mineral concentrations in dairy cows' blood and feed resources collected from Morogoro, Tanzania.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mtui, Dorah J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mellau, Lesakit S. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lekule, Faustin P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shem, Martin N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hayashida, Maki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fujihara, Tsutomu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feed supplements"},
+	{"value":"blood serum"},
+	{"value":"feeds"},
+	{"value":"dairy cows"},
+	{"value":"seasonal variation"},
+	{"value":"minerals"},
+	{"value":"mineral content"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000586",
+	"dct:identifier":"FI2016000586",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

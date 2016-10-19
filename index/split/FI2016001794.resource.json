@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of soil wetness on air composition and nitrous oxide emission in a loam soil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jaakkola, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Simojoki, Asko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hiue"},
+	{"value":"oxygen"},
+	{"value":"happi"},
+	{"value":"Finland"},
+	{"value":"loam soils"},
+	{"value":"maan kosteus"},
+	{"value":"cropping systems"},
+	{"value":"carbon dioxide"},
+	{"value":"soil water"},
+	{"value":"maan ilma"},
+	{"value":"dityppioksidi"},
+	{"value":"soil air"},
+	{"value":"maaperä"},
+	{"value":"hiilidioksidi"},
+	{"value":"denitrification"},
+	{"value":"nitrogen metabolism"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001794",
+	"dct:identifier":"FI2016001794",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

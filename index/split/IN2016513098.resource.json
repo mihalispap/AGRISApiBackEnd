@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:title":{"value":"Quinalphos Induced Oxidative Stress Biomarkers in Liver and Kidney of Common Carp, Cyprinus Carpio",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"quinalphos",
+	"xml:lang":"eng"
+	},
+	{"value":"carp",
+	"xml:lang":"eng"
+	},
+	{"value":"cyprinus carpio",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513098",
+	"dct:identifier":"IN2016513098",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=21",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Padmanabha A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy H. R. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhat Avinash"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khavi Muttappa"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Oxidative stress responses were evaluated in liver and kidney of freshwater fish, Cyprinus carpio exposed to organophosphorus pesticide, quinalphos (25% emulsified concentration). Lipid peroxidation levels and antioxidant enzyme activities were measured spectrophotometrically in liver and kidney of fish, treated with two sub-lethal concentrations of quinalphos viz., 0.275 ppm and 0.55 ppm along with control as a reference for 4, 8, 16 and 32 days. The experimental concentration of quinalphos evoked different degrees of activity in both the tissues, the liver and the kidney. The significant increase in lipid peroxidation suggests quinalphos-mediated free radical production",
+	"xml:lang":"eng"
+	},
+	{"value":"the increase in the activity of glutathione-S-transferase with corresponding increase in the activity of glutathione reductase indicates the glutathione conjugation of the pesticide"},
+	{"value":"activity of superoxide dismutase, catalase and glutathione peroxidase decreased drastically after 32nd day exposure to sub-lethal concentrations of pesticide. Overall, the results demonstrate that alteration in the antioxidant enzymes, glutathione system and induction of lipid peroxidation reflects the toxicity of quinalphos which may cause oxidative stress in the experimental fish. The study, therefore, provides a rational use of biomarkers of oxidative stress in biomonitoring programs."}
+	]
+	}}

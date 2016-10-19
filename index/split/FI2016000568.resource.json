@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n3p193.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Multi-step beef ration optimisation : application of linear and weighted goal programming with a penalty function.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zgajnar, Jaka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Erjavec, Emil.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kavcic, Stane.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lihakarjatilat"},
+	{"value":"linear programming"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"lihakarja"},
+	{"value":"beef cattle"},
+	{"value":"ruokinta"},
+	{"value":"mathematical models"},
+	{"value":"agricultural economics"},
+	{"value":"costs"},
+	{"value":"lihantuotanto"},
+	{"value":"kannattavuus"},
+	{"value":"meat animals"},
+	{"value":"matemaattiset mallit"},
+	{"value":"efficiency"},
+	{"value":"kustannukset"},
+	{"value":"naudanlihantuotanto"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000568",
+	"dct:identifier":"FI2016000568",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Joint action of Beauveria bassiana (Balsamo) Vuillemin and synthetic pyrethroids against Helicoverpa armigera (Hubner) (Noctuidae: Lepidoptera)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Duraimurugan, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Regupathy, A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100050",
+	"dct:identifier":"FI2016100050",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The joint action between Beauveria bassiana (Balsamo) Vuillemin and synthetic pyrethroids was tested against third instar larvae of Helicoverpa armigera (Hubner) on different hosts. Combined application of B. bassiana + pyrethroids at LC25 + LC25 on different hosts proved effective as the mortality was 2.67-16.99 and 7.17-26.00 per cent more than the expected mortality at LC50 of B. bassiana alone and LC50 of pyrethroids alone respectively."}
+	}}

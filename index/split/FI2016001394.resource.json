@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/4811/5291",
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro rumen methane output of forb species sampled in spring and summer.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Purcell, Peter.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boland, Tommy.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    O'Brien, Martin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    O'Kiely, Pádraig.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"käyminen"},
+	{"value":"feed grasses"},
+	{"value":"methane"},
+	{"value":"animal feeding"},
+	{"value":"rehut"},
+	{"value":"rumen"},
+	{"value":"märehtijät"},
+	{"value":"metaani"},
+	{"value":"kasvihuonekaasut"},
+	{"value":"päästöt"},
+	{"value":"nurmikasvit"},
+	{"value":"fermentation"},
+	{"value":"rikkakasvit"},
+	{"value":"rumen digestion"},
+	{"value":"ruminants"},
+	{"value":"weeds"},
+	{"value":"greenhouse gases"},
+	{"value":"ruoansulatus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001394",
+	"dct:identifier":"FI2016001394",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

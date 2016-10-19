@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth and wood property traits in narrow crowned Norway spruce (Picea abies f. pendula) clones grown in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zubizarreta Gerendiain, Ane.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltola, Heli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pulkkinen, Pertti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"density"},
+	{"value":"fenotyyppi"},
+	{"value":"kevätpuu"},
+	{"value":"crown"},
+	{"value":"ominaisuudet"},
+	{"value":"spacing"},
+	{"value":"plant breeding"},
+	{"value":"growth rings"},
+	{"value":"kuidut"},
+	{"value":"fibres"},
+	{"value":"mänty"},
+	{"value":"height"},
+	{"value":"pituus"},
+	{"value":"phenotypes"},
+	{"value":"Pinus sylvestris"},
+	{"value":"length"},
+	{"value":"runko"},
+	{"value":"stems"},
+	{"value":"puu"},
+	{"value":"diameter"},
+	{"value":"kesäpuu"},
+	{"value":"metsänjalostus"},
+	{"value":"tiheys"},
+	{"value":"latvus"},
+	{"value":"wood properties"},
+	{"value":"earlywood"},
+	{"value":"genetics"},
+	{"value":"wood density"},
+	{"value":"tilavuus"},
+	{"value":"puusto"},
+	{"value":"volume"},
+	{"value":"latewood"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000792",
+	"dct:identifier":"FI2016000792",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

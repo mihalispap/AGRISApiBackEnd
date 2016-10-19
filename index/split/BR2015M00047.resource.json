@@ -1,0 +1,22 @@
+{"resource": {
+	"dct:issued":2011,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"A relação entre peixes e habitat: métodos de análises",
+	"xml:lang":"por"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Luis Mauricio Abdon da Silva "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00047",
+	"dct:identifier":"BR2015M00047",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Este trabalho realiza uma breve discussão sobre as relações existentes entre peixes e habitat, apresentando as variáveis abióticas como reguladora da distribuição das espécies de peixes, bem como os métodos estatísticos aplicados na realização destas relações.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Peroxidase activity (POX) in some cucurbits under the stress of mercury and lead"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khan, Aisha S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaudhry, Najma Y. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100102",
+	"dct:identifier":"FI2016100102",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Peroxidase (POX) activity in Cucumis sativus L., Lagenaria siceraria (Mol.) Standl., Luffa cylindrica L. and Momordica charantia L. was studied under the stress of mercuric chloride and lead nitrate. High level of peroxidase activity was detected in all tissues when compared with the controls, roots having the highest activity. The high POX activity observed in tissues treated with both heavy metals (Hg and Pb) might indicate the initiation of disruption in biochemical processes. Generally it can be concluded that heavy metals cause severe stress to plants leading to highly effective defence reactions."}
+	}}

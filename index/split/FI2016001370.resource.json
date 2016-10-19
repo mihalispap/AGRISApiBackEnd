@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutritional status in commercial currant fields.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Niskanen, Raina.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Ribes nigrum"},
+	{"value":"makroravinteet"},
+	{"value":"punaherukka"},
+	{"value":"mikroravinteet"},
+	{"value":"soil analysis"},
+	{"value":"leaves"},
+	{"value":"lehtianalyysi"},
+	{"value":"viljelymaa"},
+	{"value":"herukat"},
+	{"value":"maaperä"},
+	{"value":"fruit crops"},
+	{"value":"Ribes rubrum"},
+	{"value":"ravinteet"},
+	{"value":"tissue analysis"},
+	{"value":"mineral nutrients"},
+	{"value":"mustaherukka"},
+	{"value":"soil"},
+	{"value":"valkoherukka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001370",
+	"dct:identifier":"FI2016001370",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

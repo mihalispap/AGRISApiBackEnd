@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on seasonal incidence, nature of damage and assessment of losses caused by Girdle beetle on Glycine max",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":320,
+	"dc:subject":[
+		{"value":"seasonal cropping",
+	"xml:lang":"eng"
+	},
+	{"value":"cultivo de temporada",
+	"xml:lang":"esp"
+	},
+	{"value":"culture saisonniere",
+	"xml:lang":"fre"
+	},
+	{"value":"glycine max",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":323,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000515",
+	"dct:identifier":"IN2015000515",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lal, Jayanti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raju, G. Shali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khandwe, Nanda"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Highest frequency of girdles was observed on stem (24%), petiole (21%), petiolet (13%) and branch (10%) during 2nd week of September. Similar trend of distribution of infestation continued up to 3rd week of September. However, there was an increase in frequency of girdling on branches (18%) in last week of September. This may be attributed to the succulence of branches in comparison to stem. Intergirdle length of 12.8 to 14.7 mm was recorded in different period of observations. Maximum inter girdle length (14.7 mm) was recorded in 1st week of September with maximum distance of egg hole (3.20 mm) from proximal girdle. Girdle formation by the adult female resulted in significant reduction in number of pods, number of seeds and seed weight. Losses caused by girdle beetle were also influenced by crop stage and different infestation levels. Up to 10% infestation level by girdle beetle did not seem to have much yield reduction at all the crop stages but the crop between 37 and 44 days after germination appeared to be most vulnerable to girdle beetle infestation. The severe yield reduction (40.0%) was observed in infested plant by girdle beetle in last week of August followed by first and second week of September i.e. 37.6 and 32.3%, respectively. The plants infested during September 4th week and October 1st week did not show more yield reduction.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":"2016-06-30",
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"MATURAÇÃO DE GRAVIOLAS APÓS ARMAZENAMENTO EM ATMOSFERA CONTROLADA"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sanches, Alex Guimarães, Universidade Federal do Pará, Campus Altamira-PA"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva, Maryelle Barros da, Pesquisadora Sebrae, Marabá-PA"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moreira, Elaine Gleice Silva, Pesquisadora Sebrae, Altamira-PA"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Costa, Jaqueline Macedo, Universidade Federal do Pará, Campus Altamira-PA"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cordeiro, Carlos Alberto Martins, Universidade Federal do Pará, Campus Bragança-PA"
+	}
+	}
+	],
+	"dct:extent":"54-61",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00040",
+	"dct:identifier":"BR2016H00040",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"bibo:abstract":{"value":"Por se tratar de um fruto climatérico a graviola apresenta vida útil relativamente curta principalmente pela perda de firmeza provocada pelo amadurecimento comprometendo assim sua expansão para mercados distantes. Diante disso, o presente trabalho tem por objetivo avaliar o efeito de diferentes condições de atmosfera controlada no prolongamento da vida útil deste fruto. O delineamento experimental adotado foi inteiramente casualizado em arranjo fatorial 5x3 sendo cinco variações de gás carbônico (CO2) sob atmosfera controlada e três tempos de armazenamento após a saída das câmaras, com cinco repetições e a parcela experimental composta por dois frutos. Após quinze dias em atmosfera controlada e mais oito dias em temperatura ambiente avaliou-se: coloração da casca e da polpa, produção de etileno, taxa respiratória, firmeza, acidez titulável, pH, sólidos solúveis, teor de amido, incidência de podridões e degenerescência da polpa. As pressões maiores de CO2 comprometeram a qualidade dos frutos por acelerar a síntese de etileno favorecendo a perda de firmeza, a degradação dos compostos clorofílicos da casca e da polpa além de reduzir a qualidade após quatro dias de armazenamento em condições ambiente. As menores pressões de CO2 mostraram-se mais eficientes para o armazenamento e prolongamento da vida útil deste fruto."},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"REVISTA DE AGRICULTURA NEOTROPICAL"}
+	}
+	}
+	}}

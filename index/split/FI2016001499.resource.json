@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of fertilization on root and leaf yields and quality of forage turnip (Brassica rapa L.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Turk, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Albayrak, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Balabanli, C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yuksel, O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"phosphate fertilizers"},
+	{"value":"roots"},
+	{"value":"crude protein"},
+	{"value":"crop yield"},
+	{"value":"application rates"},
+	{"value":"nitrogen fertilizers"},
+	{"value":"dry matter"},
+	{"value":"leaves"},
+	{"value":"chemical composition"},
+	{"value":"Brassica"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001499",
+	"dct:identifier":"FI2016001499",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

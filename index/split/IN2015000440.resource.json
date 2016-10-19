@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of extenders on the extra cellular activity of transaminases in boar semen during preservation",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":295,
+	"dc:subject":[
+		{"value":"semen",
+	"xml:lang":"esp"
+	},
+	{"value":"semen preservation",
+	"xml:lang":"eng"
+	},
+	{"value":"verraco",
+	"xml:lang":"esp"
+	},
+	{"value":"verrat",
+	"xml:lang":"fre"
+	},
+	{"value":"conservacion del semen",
+	"xml:lang":"esp"
+	},
+	{"value":"conservation du sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"boars",
+	"xml:lang":"eng"
+	},
+	{"value":"aspartate aminotransferase",
+	"xml:lang":"fre"
+	},
+	{"value":"aspartato aminotransferasa",
+	"xml:lang":"esp"
+	},
+	{"value":"sperme",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":297,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000440",
+	"dct:identifier":"IN2015000440",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lalrintluanga, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka, B.C.,"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nath, K.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhuyan, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ali, M.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarma, S."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A total of 24 ejaculates obtained from 7 Large White Yorkshire (LWY) boars were used by split sample technique for studying the effect of four extenders on the extracellular activity of transaminases in boar semen during preservation at 18Â°C for 72 hours using Beltsville Thaw Solution (BTS), Androhep, Fructose Egg Yolk (FEY) and Glucose Potassium Sodium tartrate Sodium citrate edate extender (GPSE) extenders. The mean extracellular activity of aspartate aminotransferase (AST) in BTS, Androhep, GPSE and FEY extenders at 18Â°C. were 15.51 Â± 1.42, 14.60 Â± 1.38, 14.56 Â± 0.99 and 15.73 Â± 1.51 unit/ml, respectively at 0 hour and 29.16 Â± 2.39, 28.75 Â± 1.97, 31.40 Â± 1.62 and 33.11 Â± 2.37 unit/ml respectively at 72 hours. The mean extracellular Alanine aminotransferase (ALT) activity were 3.64 Â± 0.70,3.60 Â± 0.67,4.31 Â± 0.81 and 4.09 Â± 0.59 unit/ml respectively at 0 hour and 13.24 Â± 1.61, 12.25 Â± 1.22, 14.61 Â± 1.77 and 16.03 Â± 1.95 unit/ml respectively at 72 hours. The AST and ALT activity did not vary significantly between extenders. However, the AST and ALT activity varied significantly (P0.01) between preservation periods but not due to interaction between extender and preservation period.",
+	"xml:lang":"eng"
+	}
+	}}

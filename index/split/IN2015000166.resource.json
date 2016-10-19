@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Postnatal development of the caput epididymis in Assam goat (Capra hircus)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":932,
+	"dc:subject":[
+		{"value":"periodo perinatal",
+	"xml:lang":"esp"
+	},
+	{"value":"biometry",
+	"xml:lang":"eng"
+	},
+	{"value":"testicule",
+	"xml:lang":"fre"
+	},
+	{"value":"perinatal period",
+	"xml:lang":"eng"
+	},
+	{"value":"testes",
+	"xml:lang":"eng"
+	},
+	{"value":"biometria",
+	"xml:lang":"esp"
+	},
+	{"value":"periode perinatale",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"assam",
+	"xml:lang":"esp"
+	},
+	{"value":"biometrie",
+	"xml:lang":"fre"
+	},
+	{"value":"testiculos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":934,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000166",
+	"dct:identifier":"IN2015000166",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sharma, Kamal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kalita, S.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarma, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devi, J."
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"The present work has been aimed to elucidate the age-wise post natal development of the testis, epididymis and thyroid gland of Assam goats from 0 day to 10 months of age. Assam (18) goats were divided into six age groups (N, 3; in each group) viz. group 1 (0âday), group 2 (2 months), group 3 (4 months), group 4 (6 months), group 5 (8 months) and group 6 (10 months). The gross and biometrical parameters of the caput epididymis were recorded. The tissues fixed from this organ were utilized for micrometrical studies. The values of majority of the biometrical parameters of caput, viz. length, width, thickness and weight showed a highly significant variation between different age groups. Bilateral variations of these parameters were also noticed between right and left counterparts of this organ. The diameter of the epididymal tubules, height of tubular epithelium and height of the stereo cilia in caput epididymides showed a significant increase with advancing age of the male Assam goats.",
+	"xml:lang":"eng"
+	}
+	}}

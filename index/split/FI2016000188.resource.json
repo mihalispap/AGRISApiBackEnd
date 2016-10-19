@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Replacement of fish meal with chemically preserved shrimp head in the diets of African catfish (Clarias gariepinus) /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nwanna, L. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Balogun, A. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ajenifuja, Y. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Enujiugha, V. N.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"kalat"},
+	{"value":"rehut"},
+	{"value":"fish culture"},
+	{"value":"Clarias gariepinus"},
+	{"value":"ruokinta"},
+	{"value":"kalanviljely"},
+	{"value":"chemical composition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000188",
+	"dct:identifier":"FI2016000188",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

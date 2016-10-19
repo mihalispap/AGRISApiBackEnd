@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-85.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Vitamin C and E can alleviate negative effects of heat stress in Japanese quails"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sahin, Kazim (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sahin, Nurhan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Onderci, Muhittin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gursu, Mehmet F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Issi, Mustafa (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100152",
+	"dct:identifier":"FI2016100152",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The present study investigates the effects of vitamin C (L-ascorbic acid) and E (α-tocopherol acetate) supplementation on egg production, egg quality, apparent digestibility, serum metabolites, and antioxidant status of Japanese quails (Coturnix coturnix japonica) exposed to a high ambient temperature (33 °C). One hundred and twenty laying Japanese quails (45-d-old) were divided into four groups, 30 birds per group. Quails were fed a basal diet or the basal diet supplemented with either 250 mg of L-ascorbic acid/kg of diet, 250 mg of α-tocopherol-acetate/kg of diet, or 250 mg of L-ascorbic acid plus 250 mg α-tocopherol-acetate/kg of diet. Separately or as a combination, supplemental vitamin C and E significantly increased live weight, feed intake and egg production (P < 0.05). Separately, dietary supplementation of vitamin C and E improved the egg quality, and the combination of vitamins C and E resulted in a greatest egg weight, specific gravity and Haugh unit value, thickest egg shell, and heaviest egg shell weight (P < 0.05). Apparent digestibility of nutrients (DM, OM, CP, and EE) was increased by supplementation of vitamin C and E (P < 0.05). Separately or as a combination, supplemental vitamin C and E increased serum concentration of total protein but decreased corticosterone, glucose, and cholesterol concentrations (P < 0.05). Supplemental vitamin C and E also increased serum vitamin C and E but decreased MDA (malondialdehyde) concentrations (P < 0.05). Results of the present study show that dietary supplementation of vitamin C and E, particularly as a combination, improved the performance, egg quality and antioxidant status of laying Japanese quails exposed to heat stress. Such a combination of supplement can offer a potential protective management practice in preventing heat stress-related losses in performance of laying Japanese quails."}
+	}}

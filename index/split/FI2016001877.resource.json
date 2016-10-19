@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors affecting snow damage of trees with partcular reference to European conditions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nykänen, Marja-Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltola, Heli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Quine, Christopher.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kellomäki, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Broadgate, Marianne.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maasto"},
+	{"value":"klimatologia"},
+	{"value":"damage"},
+	{"value":"lumi"},
+	{"value":"Europe"},
+	{"value":"topografia"},
+	{"value":"arviointi"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"lumituhot"},
+	{"value":"riskit"},
+	{"value":"snow"},
+	{"value":"forest stands"},
+	{"value":"forest pathology"},
+	{"value":"metsänhoito"},
+	{"value":"stems"},
+	{"value":"metsävauriot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001877",
+	"dct:identifier":"FI2016001877",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

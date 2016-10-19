@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1159",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Szewczyk, Grzegorz,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sowa, Janusz M,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grzebieniowski, Włodzimierz,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kormanek, Mariusz,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kulak, Dariusz,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stańczykiewicz, Arkadiusz,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Sequencing of harvester work during standard cuttings and in areas with windbreaks.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"time series"},
+	{"value":"post-disaster stands"},
+	{"value":"timber harvesting"},
+	{"value":"time study"},
+	{"value":"harvesters"},
+	{"value":"harvesterit"},
+	{"value":"time consumption"},
+	{"value":"logging"},
+	{"value":"aikasarjat"},
+	{"value":"ajankäyttö"}
+	],
+	"bibo:doi":"10.14214/sf.1159",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016002081",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002081",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

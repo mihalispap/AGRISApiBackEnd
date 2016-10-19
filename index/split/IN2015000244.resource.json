@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of carbosulfan, Glomus fasciculatum, Trichoderma harzianum and vermicompost alone and combination in management of Meloidogyne incognita on Green gram",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":154,
+	"dc:subject":[
+		{"value":"meloidogyne incognita",
+	"xml:lang":"esp"
+	},
+	{"value":"glomus fasciculatum",
+	"xml:lang":"esp"
+	},
+	{"value":"vigna radiata",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":156,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000244",
+	"dct:identifier":"IN2015000244",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, L. Michael"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahanta, B."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The results were found to be significantly different from control in respect of increasing growth parameters including significant reduction of final nematode population in soil. Maximum growth parameters viz.; plant height, fresh and dry weight of shoot and root were recorded in the treatment with combination of all the control agents (T. harzianum @ 2.5 kg/ha + G. fasciculatum @ 300 spores/m2 +carbosulfan ST @ 1.5% w/w + vermicompost 1.5 tonne/ha) followed by the treatment with integration of T. harzianum and G. fasciculatum. Maximum reduction in nematode population and maximum yield were obtained in the treatment, with integration of all the control options.",
+	"xml:lang":"eng"
+	}
+	}}

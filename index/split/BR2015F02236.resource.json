@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Forage nutritional value and its morphological components on Brachiaria decumbens stockpiled forage",
+	"xml:lang":"eng"
+	},
+	{"value":"   Valor nutritivo da forragem e de seus componentes morfológicos em pastagens de Brachiaria decumbens diferida ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"chemical composition",
+	"xml:lang":"eng"
+	},
+	{"value":"brachiaria",
+	"xml:lang":"eng"
+	},
+	{"value":"morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"composition",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02236",
+	"dct:identifier":"BR2015F02236",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1242240045.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SANTOS,  M. E. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FONSECA,  D. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"EUCLIDES,  V. P. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RIBEIRO JÚNIOR,  J. I."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BALBINO,  E. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CASAGRANDE,  D. R."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"131 and 163-day deferring period, and 1"},
+	{"value":{"value":103},
+	"xml:lang":"por"
+	},
+	{"value":"The research was carried out aiming to evaluate forage crude protein (CP), neutral detergent fiber (NDF), undigestible NDF (INDF), potentially digestible NDF (PDNDF) and potentially digestible dry matter (PDDM) percentages on Brachiaria decumbens pastures. The treatments included 73",
+	"xml:lang":"eng"
+	},
+	{"value":"57 and 85-day grazing periods. Randomized block in a split-plot design with two repetitions and 0,05 probability level was used. The nutritional value of the morphological components of the stockpiled forage was determined in the beginning and at the end of grazing period. Pastures under higher difering and grazing periods showed higher NDF and INDF percentages and lower CP and PDDM. The longer grazing period reduced the PDNDF percentage of the stockpiled forage. The living leaf blade (LLB) present at the end of the grazing period revealed a better nutritional value than the LLB from the beginning of this period. On the other hand, the opposite happened for the living stem, the dead foliar blade and the dead stem. The nutritional value is influenced by the morphological components of the stockpiled forage. Excepting the LLB, the nutritional value of the morphological components of forage worsens from the beginning to the end of grazing. Longer difering and grazing periods resulted in forage with a worse nutritional value. Thus, stockpiled forages in a partial way is the suitable management strategy to improve the forage nutritional value."},
+	{"value":"O experimento foi desenvolvido com o objetivo de avaliar os percentuais de proteína bruta (PB), fibra em detergente neutro (FDN), FDN indigestível (FDNi), FDN potencialmente digestível (FDNpoD) e matéria seca potencialmente digestível (MSpoD) da forragem e dos componentes morfológicos em pastagens diferidas de Brachiaria decumbens. Os tratamentos consistiram de períodos de diferimento (73, 103, 131 e 163 dias) e de pastejo (1, 29, 57 e 85 dias). Foi adotado o delineamento em blocos casualizados, num esquema de parcelas subdividas, com duas repetições e nível de significância de 5% de probabilidade. O valor nutritivo dos componentes morfológicos da forragem diferida também foi determinado no início e no término do período de pastejo. Pastagens sob maiores períodos de diferimento e de pastejo apresentaram maiores percentuais de FDN e FDNi e menores teores de PB e MSpoD. O maior período de pastejo reduziu o percentual de FDNpoD da forragem diferida. A lâmina foliar viva (LV) presente no término do período de pastejo apresentou melhor valor nutritivo do que a LV do início deste período, e comportamento contrário ocorreu com o colmo vivo, a lâmina foliar morta e colmo morto. O valor nutritivo da forragem diferida é influenciado pela sua composição morfológica. À exceção da LV, o valor nutritivo dos componentes morfológicos da forragem piora, do início para o término do período de pastejo. Maiores períodos de diferimento e de pastejo resultam em forragem de pior valor nutritivo. Com isso, o diferimento da pastagem de forma parcial consiste em estratégia de manejo adequada para melhorar o valor alimentício da forragem."},
+	{"value":29}
+	]
+	}}

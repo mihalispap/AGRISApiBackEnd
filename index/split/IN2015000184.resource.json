@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of Sex on Thyroid Hormone and Biochemical Profile in Marwari Goats Under Arid Tropical Environment",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":48,
+	"dc:subject":[
+		{"value":"biochimie",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"bioquimica",
+	"xml:lang":"esp"
+	},
+	{"value":"hormone thyroidienne",
+	"xml:lang":"fre"
+	},
+	{"value":"biochemistry",
+	"xml:lang":"eng"
+	},
+	{"value":"thyroid hormones",
+	"xml:lang":"eng"
+	},
+	{"value":"hormonas de la tiroide",
+	"xml:lang":"esp"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":52,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000184",
+	"dct:identifier":"IN2015000184",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pandey, Vijay"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sareen, Meenaxi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moolchandani, Anil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Raghvendra"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"In order to determine whether thyroid hormone and other blood components were affected by gender in Marwari goats, these components were estimated in 30 clinically healthy goats of either sex. The gender effect was studied on thyroxin, triiodothyronine (T3), glucose, total protein, albumin, globulin, AG ratio, urea, cholesterol and creatinine. The significant effect of gender was observed on the mean concentrations of serum creatinine and T3. The mean serum creatinine concentration in male was found to be higher than in female goats while serum T3 values was observed to be higher in female than male goats. The gender effect on other parameters like serum glucose, cholesterol, urea, total protein, albumin, globulin and T4 was observed to be non-significant. It was concluded that serum T3 and creatinine were influenced by gender in Marwari goats.",
+	"xml:lang":"eng"
+	}
+	}}

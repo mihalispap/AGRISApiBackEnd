@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genes responsible for cancer: a review",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":783,
+	"dc:subject":[
+		{"value":"gene",
+	"xml:lang":"fre"
+	},
+	{"value":"genes",
+	"xml:lang":"esp"
+	},
+	{"value":"oncogenicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"oncogenicity",
+	"xml:lang":"eng"
+	},
+	{"value":"neoplasme",
+	"xml:lang":"fre"
+	},
+	{"value":"neoplasmas",
+	"xml:lang":"esp"
+	},
+	{"value":"neoplasms",
+	"xml:lang":"eng"
+	},
+	{"value":"oncogenicite",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":802,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000150",
+	"dct:identifier":"IN2015000150",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"aug2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pawaiya, R.V.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lal, Krishna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ram Kumar"
+	}
+	}
+	],
+	"bibo:issue":8,
+	"bibo:abstract":{"value":"Cancer is a complex disease where dynamic changes in multiple genes essential for diverse molecular pathways are involved in its initiation, progression, invasion and metastasis. Cancer causing genes include those involved in cell cycle control, apoptosis, DNA repair, ageing and immortalization, angiogenesis, invasion and metastasis. Activation of oncogenes, inactivation of tumour suppressor genes and alterations in microRNA and other genes through sequential accumulation of mutations, combined with multiple cycles of clonal selection and evolution, facilitate the process of carcinogenesis. Disruption of about 6 to 12 cellular processes is required for neoplastic transformation of a cell. Many oncogenes and oncoproteins are being used as tumour markers and targets for cancer diagnosis, prognosis and therapy as also for the development of new anti cancer drugs. The oncology research spurred by recent advances in genomics and proteomics has resulted in the generation of individualized molecular portraits of various cancers, thus facilitating to provide individualistic treatment options. Considerable progress has been made in producing small molecules capable of inhibiting the enzymatic activity of Abl, Kit, EGFR, ErbB2 etc. For cases where oncogene products are not enzymes, it has been much more difficult to develop new agents. The discovery of the involvement of microRNAs in the tumorigenesis processes may provide additional targets for anticancer treatments and novel biomarkers. A few altered genes have also been detected in the animal tumours, and veterinary oncology research is being exploited potentially by the western world for the betterment of both animal and human cancer patients. There is a need to realize the importance of veterinary oncological research in the Indian subcontinent. This review discusses updated understanding about the origin of cancer and its progression which is alike in human and animal biology, and also aims to generate further interest particularly among animal cancer researchers in the Indian subcontinent.",
+	"xml:lang":"eng"
+	}
+	}}

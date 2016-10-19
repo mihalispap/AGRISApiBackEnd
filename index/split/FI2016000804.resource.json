@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n4p287.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimation of genetic parameters and genetic change for stillbirth in Iranian Holstein cows : a comparison between linear and threshold models.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Hossein-Zadeh, Navid.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"environmental factors"},
+	{"value":"dairy cows"},
+	{"value":"vasikat"},
+	{"value":"perinnöllisyys"},
+	{"value":"lypsykarja"},
+	{"value":"animal breeding"},
+	{"value":"tuotantoympäristö"},
+	{"value":"lehmät"},
+	{"value":"heritabiliteetti"},
+	{"value":"foetal death"},
+	{"value":"tunnusluvut"},
+	{"value":"vasikkakuolleisuus"},
+	{"value":"genetic parameters"},
+	{"value":"kuolleisuus"},
+	{"value":"heritability"},
+	{"value":"poikiminen"},
+	{"value":"linear models"},
+	{"value":"poikimisvaikeudet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000804",
+	"dct:identifier":"FI2016000804",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

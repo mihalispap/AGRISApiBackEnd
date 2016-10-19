@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of group size and early handling on some behavioural and physiological welfare parameters in farmed blue foxes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ahola, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harri, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mononen, Jaakko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pyykönen, Teija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kasanen, Sari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"animal housing"},
+	{"value":"furbearing animals"},
+	{"value":"animal welfare"},
+	{"value":"cages"},
+	{"value":"group size"},
+	{"value":"tarhaus"},
+	{"value":"foxes"},
+	{"value":"turkiseläimet"},
+	{"value":"tuotantoympäristö"},
+	{"value":"sinikettu"},
+	{"value":"hyvinvointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000088",
+	"dct:identifier":"FI2016000088",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

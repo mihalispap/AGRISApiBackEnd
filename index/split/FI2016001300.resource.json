@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"An overview of how rubisco and carbohydrate metabolism may be regulated at elevated atmospheric [CO2] and temperature.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bowes, George.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vu, Joseph C. V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hussain, Mian W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pennanen, Arja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Allen, L. Hartwell,
+    Jr.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"aineenvaihdunta"},
+	{"value":"kasvit"},
+	{"value":"säätely"},
+	{"value":"climatic change"},
+	{"value":"entsyymit"},
+	{"value":"kasvihuoneilmiö"},
+	{"value":"Glycine max"},
+	{"value":"carbon dioxide"},
+	{"value":"lämpötila"},
+	{"value":"palkokasvit"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"fotosynteesi"},
+	{"value":"Calvin cycle"},
+	{"value":"environmental temperature"},
+	{"value":"Plantae"},
+	{"value":"viljelykasvit"},
+	{"value":"soijapapu"},
+	{"value":"carbohydrate metabolism"},
+	{"value":"Oryza sativa"},
+	{"value":"rubisco"},
+	{"value":"Rubisco"},
+	{"value":"hiilidioksidi"},
+	{"value":"riisi"},
+	{"value":"crops"},
+	{"value":"hiilihydraatit"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    Global climate change and agriculture in the North
+    (1955 :
+    Helsinki)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001300",
+	"dct:identifier":"FI2016001300",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

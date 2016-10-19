@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bacteriocins: Nomenclature, detection, mechanism of action and potential use in poultry production"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188144",
+	"dct:identifier":"FI2007188144",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"de Lima, Edna Tereza (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raphael Lucio Andreatti, Filho (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The indiscriminate use of antibiotics as growth promoters might alter the effectiveness of products of competitive exclusion, minimizing the efficacy of protection in newborn poultry. Subtherapeutic doses of these chemotherapeutic agents administered almost throughout the life of fowls have some counter indications due to the eventual development of resistant bacterial populations. On the other hand, probiotics do not leave residues in products of animal origin or develop bacterial resistance because they are essentially natural, thus benefiting all segments of the animal production chain. Consumers of the 21st century are interested in foods with additional health benefits and those that contribute to the prevention of illnesses. The action of probiotics mainly lies in the inhibition of intestinal colonization by pathogenic bacteria such as Salmonella spp. Bacteria to be used as probiotics are selected based on the evaluation of their metabolites, colonization potential and multiplication capacity. Many probiotic bacteria produce substances that inhibit or kill intimately related species or even different strains of the same species. These substances, called bacteriocins, consist of an ample and diverse group of antimicrobial proteins, which differ from antibiotics since they are peptides and their structural genes are frequently found on plasmids and transposons. Until the last decade, research regarding bacteriocins was centered on those derived from Gram-negative bacteria, mainly colicin-producing Escherichia coli. However, although these bacteria are undesirable in food, studies on colicins have been important because they have permitted the development of the basic methods currently used for the detection and isolation of other classes of bacteriocins produced by Gram-positive bacteria (lactic acid bacteria). At present, bacteriocins produced by lactic acid bacteria call particular attention because of their potential application to the food industry as natural antimicrobial substances for food preservation and in probiotics for use in poultry production."}
+	}}

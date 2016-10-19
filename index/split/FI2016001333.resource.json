@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of dietary linseed supplements on ω-3 PUFA content and on IGF-1 expression in broiler tissues.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Saprõkina, Zinaida.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karus, Avo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuusik, Sirje.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tikk, Harald.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Järv, Peeter.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Soidla, Riina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lember, Aleksander.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaldmäe, Helgi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karus, Virge.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Roasto, Mati.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"siipikarja"},
+	{"value":"feed additives"},
+	{"value":"rehujen lisäaineet"},
+	{"value":"broiler chickens"},
+	{"value":"animal nutrition"},
+	{"value":"animal feeding"},
+	{"value":"linseed"},
+	{"value":"ruokinta"},
+	{"value":"broilerit"},
+	{"value":"rasvahapot"},
+	{"value":"polyunsaturated fatty acids"},
+	{"value":"linseed oil"},
+	{"value":"supplements"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001333",
+	"dct:identifier":"FI2016001333",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

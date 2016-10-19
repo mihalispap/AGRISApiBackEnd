@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Reducing grain damage in naked oat through gentle harvesting.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kirkkari, Anna-Maija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rita, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kaura"},
+	{"value":"harvesting date"},
+	{"value":"kuoreton kaura"},
+	{"value":"crop yield"},
+	{"value":"korjuuajankohta"},
+	{"value":"viability"},
+	{"value":"sadonkorjuu"},
+	{"value":"Avena sativa"},
+	{"value":"harvesting"},
+	{"value":"quality"},
+	{"value":"oats"},
+	{"value":"itävyys"},
+	{"value":"germination"},
+	{"value":"sadon laatu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002026",
+	"dct:identifier":"FI2016002026",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

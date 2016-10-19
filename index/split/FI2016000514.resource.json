@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Spread of Stereum sanguinolentum vegetative compatibility groups within a stand and within stems of Picea abies.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vasiliauskas, Rimvydas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stenlid, Jan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Stereum"},
+	{"value":"Stereum sanguinolentum"},
+	{"value":"wounds"},
+	{"value":"clonal variation"},
+	{"value":"verinahkasieni"},
+	{"value":"wood decay"},
+	{"value":"Picea abies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000514",
+	"dct:identifier":"FI2016000514",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

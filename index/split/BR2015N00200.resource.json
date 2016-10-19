@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"AVALIAÇÃO DA QUALIDADE DA ÁGUA EM TRÊS ESCOLAS PÚBLICAS DA CIDADE DE MACAPÁ, AMAPÁ",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":116,
+	"bibo:volume":5,
+	"bibo:pageEnd":122,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00200",
+	"dct:identifier":"BR2015N00200",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1367",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Graciele de Abreu da Trindade"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Júlio César Sá-Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Erineide Silva Silva"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá, Brasil"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 7.0pt; mso-bidi-font-family: TwCenMT-Regular;\">O estudo objetivou analisar a qualidade da água em três escolas públicas na cidade de Macapá-AP. As amostras foram coletadas em três pontos distintos (Caixa d'água, Torneira da Cozinha e Bebedouro) no período de janeiro de 2013. Os parâmetros analisado foram: turbidez, cor, pH, cloro, nitrato, coliformes totais e fecais. Os resultados obtidos revelaram que nem todas as amostras apresentavam-se de acordo com a legislação vigente da portaria 2914/11 do MS. A presença de coliformes totais e fecais foi detectada nos três pontos de coleta da escola Irineu da Gama Paes, assim como o pH, com os valores abaixo do recomendado pela portaria. O parâmetro turbidez nas amostras de água no ponto '1' e '3' da escola Barão do Rio Branco e os pontos '1', '2', e '3' da escola Azevedo Costa obtiveram valores acima do recomendado pelo Ministério da Saúde. A concentração do cloro foi baixa, na maioria dos pontos, apenas os pontos '2' e '3' da escola Azevedo atenderam os valores estabelecidos pela portaria. A concentração de ferro, no ponto '1' da escola Barão do Rio Branco e em todos os pontos da escola Azevedo Costa estava fora do padrão determinado pelo Ministério da Saúde. As concentrações da cor e nitrato atenderam o padrão em todos os pontos das escolas. Concluímos que a água das escolas não atendem os requesitos de potabilidade preconizados pelo Ministério da Saúde através da Portaria nº2914/11 e portanto requerem ações urgentes de adequação da água ofertada às essas comunidades escolares para se evitar danos à saúde de seus usuários.</span><p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><strong><span style=\"font-size: 7.0pt; mso-bidi-font-family: \";TwCenMT-Regular\,Bold\";;\">Palavra-chave: </span></strong><span style=\"font-size: 7pt;\">água potável, parâmetros de qualidade da água, escola.</span>",
+	"xml:lang":"por"
+	}
+	}}

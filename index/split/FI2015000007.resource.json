@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The consequences of Less Favoured Area support : a multi-regional CGE analysis for Poland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zawalinska, Katarzyna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Giesecke, James.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Horridge, Mark.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"agricultural policies"},
+	{"value":"support measures"},
+	{"value":"maatalouden tukipolitiikka"},
+	{"value":"kehitysalueet"},
+	{"value":"tukipolitiikka"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"less favoured areas"},
+	{"value":"EU-maat"},
+	{"value":"Poland"},
+	{"value":"rural economics"},
+	{"value":"subsidies"},
+	{"value":"maaseutu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2015000007",
+	"dct:identifier":"FI2015000007",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

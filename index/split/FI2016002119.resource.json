@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Morphological mechanism of growth response in treeline species Minjiang fir to elevated CO₂ and temperature.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hou, Ying.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Qu, Jintao.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Luo, Zukui.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, Chao.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wang, Kaiyun.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"morphology"},
+	{"value":"crown architecture"},
+	{"value":"Abies faxomania"},
+	{"value":"crown"},
+	{"value":"climatic change"},
+	{"value":"leaf morphology"},
+	{"value":"Abies"},
+	{"value":"response ratio"},
+	{"value":"leaves"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002119",
+	"dct:identifier":"FI2016002119",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"FLEBOTOMINEOS (DIPTERA: PSYCHODIDAE) COLETADOS EM UM ASSENTAMENTO RURAL NO ESTADO DO AMAPÁ, BRASIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":58,
+	"bibo:volume":1,
+	"bibo:pageEnd":62,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00002",
+	"dct:identifier":"BR2015N00002",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/145",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"José Ferreira Saraiva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raimundo Nonato Picanço Souto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ricardo Marcelo dos Anjos Ferreira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"O presente estudo teve como objetivo realizar levantamento das espécies de flebotomíneos do Assentamento Rural Nova Canaã, município de Porto Grande, Estado do Amapá, as amostragens foram realizadas em um período de quatro meses, estação menos chuvosa, com a utilização de armadilhas luminosas do tipo CDC instaladas do crepúsculo ao amanhecer. Foram coletadas 228 flebótomos pertencentes a sete espécies. A espécie mais abundante foi Lu. whitmani com 71(31,1%) dos indivíduos amostrados, as espécies Lu. umbratilis, Lu. whitmani, Lu. ubiquitalis  são relatadas como principais vetoras de leishmaniose tegumentar Americana e estão atualmente passando por processo de domicialização.  entomologia médica, epidemiologia, flebótomos,Lutzomyia, Leishmaniose.",
+	"xml:lang":"por"
+	}
+	}}

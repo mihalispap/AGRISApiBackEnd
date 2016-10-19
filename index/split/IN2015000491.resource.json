@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of diflubenzuron on the mortality of Spilosoma obliqua",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"pest control",
+	"xml:lang":"eng"
+	},
+	{"value":"spilosoma obliqua",
+	"xml:lang":"esp"
+	},
+	{"value":"lutte antiravageur",
+	"xml:lang":"fre"
+	},
+	{"value":"control de plagas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":167,
+	"bibo:volume":76,
+	"bibo:pageEnd":169,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000491",
+	"dct:identifier":"IN2015000491",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nathan, Lily Saroj"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nathan, Risha Jasmine"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

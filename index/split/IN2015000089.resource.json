@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pestivirus infection, an emerging threat to ruminants in India: A review",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":545,
+	"dc:subject":[
+		{"value":"border disease",
+	"xml:lang":"fre"
+	},
+	{"value":"bovine diarrhoea pestivirus",
+	"xml:lang":"eng"
+	},
+	{"value":"border enfermedad",
+	"xml:lang":"esp"
+	},
+	{"value":"pestivirus maladie des muqueuses",
+	"xml:lang":"fre"
+	},
+	{"value":"pestivirus de la diarrea bovina",
+	"xml:lang":"esp"
+	},
+	{"value":"rumiante",
+	"xml:lang":"esp"
+	},
+	{"value":"swine fever virus",
+	"xml:lang":"eng"
+	},
+	{"value":"inde",
+	"xml:lang":"fre"
+	},
+	{"value":"ruminants",
+	"xml:lang":"eng"
+	},
+	{"value":"virus peste porcine",
+	"xml:lang":"fre"
+	},
+	{"value":"pestivirus",
+	"xml:lang":"esp"
+	},
+	{"value":"india",
+	"xml:lang":"esp"
+	},
+	{"value":"ruminant",
+	"xml:lang":"fre"
+	},
+	{"value":"virus peste porcina",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":551,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000089",
+	"dct:identifier":"IN2015000089",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"june2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mishra, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajukumar, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kalaiyarasu, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dubey, S.C."
+	}
+	}
+	],
+	"bibo:issue":6,
+	"bibo:abstract":{"value":"(BVDV-1), BVDV-2, border disease virus (BDV) and classical swine fever virus (CSFV). Among ruminant pestiviruses, BVDV/BDV infections occur worldwide and due to its economic importance, BVD is listed by O I E as a priority cattle disease for international trade. Pestivirus antibodies were detected in several countries with prevalence rates varying from 0â90% in cattle and 0â50% in sheep. Ruminant pestiviruses are genetically and antigenically diverse, as displayed by identification of 16 subtypes within BVDV-1, 2 subtypes within BVDV-2 and 7 subtypes within BDV species. Heterogeneity in host spectrum, virulence and clinical signs provide further challenges in disease diagnosis and control. Both large and small ruminants form backbone of the livestock sector in India. BVD was earlier considered exotic despite serological evidence of BVDV infection reported during 1980s and 90s. The first confirmatory evidence of The genus Pestivirus in the family Flaviviridae comprises 4 recognized species: Bovine viral diarrhoea virus type 1 BVD by virus isolation from cattle was reported in 2004, followed by its detection in sheep, buffalo, yak and goats. Later reports established the predominant occurrence of BVDV-1 and sporadic occurrence of BVDV-2, with BVDV-1b, BVDV-1c, BVDV-2a and BVDV-2b genotypes identified in various species of ruminants. Furthermore, moderate pathogenicity of BVDV-1 was demonstrated in experimentally infected cattle. A systematic surveillance of ruminant pestiviruses and their economic implications need to be taken up in future. In this review, we discuss the current status of ruminant pestivirus infections in India besides highlighting the gaps in current knowledge with regard to epidemiology, diagnosis and control",
+	"xml:lang":"eng"
+	}
+	}}

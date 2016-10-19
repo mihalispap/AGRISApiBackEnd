@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"An accelerated process for fermented fish (seedal) production in Northeast region of India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":98,
+	"dc:subject":[
+		{"value":"aliment fermente",
+	"xml:lang":"fre"
+	},
+	{"value":"tripura",
+	"xml:lang":"esp"
+	},
+	{"value":"fermented foods",
+	"xml:lang":"eng"
+	},
+	{"value":"pescado",
+	"xml:lang":"esp"
+	},
+	{"value":"fish",
+	"xml:lang":"eng"
+	},
+	{"value":"poisson (aliment)",
+	"xml:lang":"fre"
+	},
+	{"value":"alimentos fermentados",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":106,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000459",
+	"dct:identifier":"IN2015000459",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Muzaddadi, A.U."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Basu, S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Seedal is a traditional semi-fermented fish product of Northeast India. It is prepared with minor carp belonging to the genus Puntius which is endemic to the region. Fish is fermented in specially designed earthen pots normally for 5â 6 months. This restricts the production to only 2 batches per year. Two predominant bacteria from fresh seedal and inprocess study were isolated and identified as coagulase-negative Staphylococcus aureus and Micrococcus varians. A mixed starter culture of these 2 organisms was incorporated to the raw material during processing along with 2 food additives, i.e. common salt and sugar in different concentrations and combinations for accelerating the process. The accelerated method could be achieved by using 2% salt, 2% sugar and 100 ml bacterial inoculum (10 cell/ml) of S. aureus and M. varians in traditional method and the fermentation period could be reduced to 45 days without losing the basic biochemical, microbiological and sensory characteristics of traditional best quality seedal. The quality of new Seedal was evaluated by 10 judges drawn from regular seedal eater. The scores given in 10 point hedonic scale were statistically analyzed. No significant difference was observed in comparison to the best quality traditional seedal.The storage characteristics of new seeldal and the traditional seedal were studied with different concentrations of salt in polythene bags at room temperature. The new seedal could be stored with 10% salt for 15 days keeping acceptable quality and the traditional seedal could be stored for 10 days at same conditions.",
+	"xml:lang":"eng"
+	}
+	}}

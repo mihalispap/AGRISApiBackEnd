@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Preparation and evaluation of formulated functional cheesecake for diabetics.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Abdel-Salam, A. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahmed, S. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"foods"},
+	{"value":"low calorie foods"},
+	{"value":"bakery products"},
+	{"value":"cakes"},
+	{"value":"human diseases"},
+	{"value":"diabetes"},
+	{"value":"cheese"},
+	{"value":"organoleptic properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000077",
+	"dct:identifier":"FI2016000077",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Elintarvikkeiden haihtuvat yhdisteet pilaantumisindikaattoreina /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Randell, Kati.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hurme, Eero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Latva-Kala, Kyösti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahvenainen, Raija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ethanol"},
+	{"value":"indikaattorit"},
+	{"value":"elintarvikkeet"},
+	{"value":"foods"},
+	{"value":"määritysmenetelmät"},
+	{"value":"volatile compounds"},
+	{"value":"pilaantuminen"},
+	{"value":"deterioration"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001962",
+	"dct:identifier":"FI2016001962",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

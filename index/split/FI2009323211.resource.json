@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evidence of the presence of genetically different rhizobial strains in a single cluster of a lupinoid nodule, the case of Lupinus luteus"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009323211",
+	"dct:identifier":"FI2009323211",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e23.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hilali, I. El (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brhada, F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alami, I. Thami (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maltouf, A. Filali (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In this study, we have identified fourteen different rhizobial strains from a single tap-root cluster of nodules obtained from the species Lupinus luteus. Genetic diversity of the strains was assessed by DNA fingerprinting using REP-PCR. Patterns obtained on agar gel were strain specific, indicating the presence of different strains and a considerable diversity. UPGMA clustering analysis divided the strains into two major groups that were linked at 62% of similarity level. Strains displayed a wide tolerance to salinity (50% tolerated up to 1530 mM), to acidity and alkalinity and to extreme temperatures ranging from 4 to 42°C. They were also highly resistant to some antibiotics such as erythromycin (200 µg ml-1) and to heavy metals like aluminum, zinc and manganese (400 µg ml-1). All the strains were infective, but they differed in their nitrogen fixation effectiveness. Numerical analysis yielded a dendrogram with three clusters showing relatively the same clustering linkage delimited by REP analysis. ARDRA analysis set up the Lupinus strains in clusters which are different from all the reference strains used."}
+	}}

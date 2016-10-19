@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Agriculture, rural poverty and natural resource management in less favored environments: Revisiting challenges and conceptual issues"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007038709",
+	"dct:identifier":"FI2007038709",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/en1(2).pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shiferaw, Bekele (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bantilan, Cynthia (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"There is a continuing debate on the relationship between poverty and the environment. Although many agree on the impacts on poverty of degraded environments, there is less agreement on how this occurs and whether poverty could indeed worsen environmental degradation. Meanwhile, despite continued efforts to enhance agricultural productivity and the increased momentum towards globalization, along with increasing scarcity of land and water resources, poverty and resource degradation have increased in some marginalized areas, especially in sub- Saharan Africa. A number of studies in recent times have postulated a self-reinforcing downward spiral between poverty, population pressure and natural resource degradation. These interlinkages seem to be valid for certain less-favored areas, especially arid and semi-arid regions, where biophysical and socioeconomic constraints limit investment opportunities. With emphasis on the semi-arid rainfed areas of the tropics, this study clarifies the debate on the livelihood-environment linkages in light of the existing theories and empirical evidence; synthesizes major lessons and policy implications; and advances a more holistic conceptual framework for understanding farmer decision behavior, investment strategies and the conditions that may lead to a more sustainable pathway or a downward spiral."}
+	}}

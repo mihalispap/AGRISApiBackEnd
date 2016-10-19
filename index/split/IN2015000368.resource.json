@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Anti-stress activity of Withania somnifera (Ashwagandha) on solar radiation induced heat stress in goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":64,
+	"dc:subject":[
+		{"value":"heat stress",
+	"xml:lang":"eng"
+	},
+	{"value":"estres termico",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"withania somnifera",
+	"xml:lang":"esp"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"stress thermique",
+	"xml:lang":"fre"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":68,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000368",
+	"dct:identifier":"IN2015000368",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tiwari Shireen"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sahni, Y.P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study was carried out to evaluate the anti-stress activity of Withania somnifera (Ashwagandha) on solar radiation induced heat stress in healthy male goats. Aqueous extract of W. somnifera root powder (@ 400 mg/kg body weight) was orally administered to goats along with exposure to solar radiation. The anti-stress activity of W. somnifera was investigated by measuring changes in lipid peroxidation, glutathione level and superoxide dismutase activity in erythrocytes of goats. There was a significant increase in the lipid peroxidation level and a significant reduction in the reduced glutathione and superoxide dismutase activity in untreated goats. Oral administration of W. somnifera root powder modulated the lipid peroxidation, reduced glutathione and superoxide dismutase level to near normal in heat stressed goats.",
+	"xml:lang":"eng"
+	}
+	}}

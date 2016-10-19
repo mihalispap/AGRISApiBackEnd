@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Production forecasting of coconut: Variation in number of bearing palms and productivity in selected districts in India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":314,
+	"dc:subject":[
+		{"value":"yields",
+	"xml:lang":"eng"
+	},
+	{"value":"rendimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"rendement",
+	"xml:lang":"fre"
+	},
+	{"value":"tecnicas de prediccion",
+	"xml:lang":"esp"
+	},
+	{"value":"produccion",
+	"xml:lang":"esp"
+	},
+	{"value":"production",
+	"xml:lang":"fre"
+	},
+	{"value":"technique de prevision",
+	"xml:lang":"fre"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"forecasting",
+	"xml:lang":"eng"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":320,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000730",
+	"dct:identifier":"IN2015000730",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Muralidharan, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thamban, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anithakumari, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Subramanian, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Palaniswami, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Krishnakumar, V."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Forecasting of coconut production in the country was attempted for three consecutive years from 2006-07. Stratified multistage sampling design was employed. At district level, forecasting of production was arrived by multiplying average predicted yield of palms with the 'harvested-area' of the crop in that district. Ratio estimator was constructed to obtain forecasting at different administrative levels. The all India forecasts of coconut production in the years 2006-07 to 2008-09 were obtained as 13448, 16331 and 14183 million nuts against the published values of 15840, 14743 and 15729 in order. On observing noticeable reduction in area under coconut in Kerala, the all India forecasting was revised as separately working out the forecasts for Kerala and rest of India and adding. By following this approach, the per cent difference of forecasts with published values were observed to be reduced from 15.1, -10.8, and 9.8 to 10.5, -5.2, and 6.0 in order in the years 2006-07 to 2008-09.",
+	"xml:lang":"eng"
+	}
+	}}

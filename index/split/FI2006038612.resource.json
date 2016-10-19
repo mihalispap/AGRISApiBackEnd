@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality traits of date palm fruits in a center of origin and center of diversity"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038612",
+	"dct:identifier":"FI2006038612",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jaradat, A.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zaid, A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Multivariate statistical analyses procedures were employed in data reduction of six fruit qualitative traits in addition to economic value and a final score of fruit quality, scored at the “tamr” fruit ripening stage of 203 date palm cultivars grown in 20 ecogeographical regions in six countries in the Arabian Peninsula. Phenotypic diversity indices varied tremendously among (0.885 to 1.122) and within (0.086 to 0.998) countries. These cultivars represent a complex gene pool within which historical movements of germplasm, recent introductions and human selection are shaping their genetic structure. The relatively low amount of variation (49%) explained by the first three principal components, and the portion of total diversity (0.761) partitioned among ecogeographical regions (32%), among populations (45%) and among cultivars (23%) indicate the presence of a highly diverse germplasm among and within countries. Discriminant analysis correctly assigned 55 to 88% of the germplasm to its country of origin; fruit color, ripening and shape provided the basis for this level of discrimination. Anthropogenic factors were reflected on the number of traits forming two-, three- or four-trait log-linear models for each country. However, fruit color, shape, size and ripening and their interactions predominantly reflected differences in consumer preferences in these countries. “Hot spots” were identified in some ecogeographical regions where unique variants of quality traits are found with high frequencies."}
+	}}

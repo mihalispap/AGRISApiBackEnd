@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Whitefly Fauna (Hemiptera: Aleyrodidae) of Myanmar",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":167,
+	"dc:subject":[
+		{"value":"bemisia",
+	"xml:lang":"esp"
+	},
+	{"value":"aleyrodidae",
+	"xml:lang":"esp"
+	},
+	{"value":"aleurocanthus",
+	"xml:lang":"esp"
+	},
+	{"value":"aleurodicus",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":74,
+	"bibo:pageEnd":172,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000251",
+	"dct:identifier":"IN2015000251",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"David, B. Vasantharaj"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dubey, A.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Twenty species of whiteflies were known from Myanmar up to now. During the course of a visit to Insein and Yangon in Myanmar in October 2011 the senior author collected whiteflies from these areas. The collections added 7 new records of whiteflies to our existing knowledge of Myanmar whitefly fauna. New records are: Aleurocanthus spiniferus (Quaintance), Bemisia breyniae (Singh), Dialeurolonga malleshwaramensis Sundararaj, Minutaleyrodes minuta (Singh), Dialeuropora decempuncta (Quaintance &Baker), Singhiella sp. and the sprialling whitefly Aleurodicus dispersus Russell.",
+	"xml:lang":"eng"
+	}
+	}}

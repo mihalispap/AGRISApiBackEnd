@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Physiological effects of ingesting eucalyptus essential oil with milk casein peptide.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Park, Bum-Jin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Morikawa, Takeshi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ogata, Tomohiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Washida, Kenji.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Iwamoto, Mario.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nakamura, Hirohiko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Miyazaki, Yoshifumi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"casein"},
+	{"value":"salivary cortisol"},
+	{"value":"peptidit"},
+	{"value":"relaxation"},
+	{"value":"maito"},
+	{"value":"Glucocorticoids"},
+	{"value":"Eucalyptus"},
+	{"value":"A behavior pattern"},
+	{"value":"kaseiini"},
+	{"value":"milk"},
+	{"value":"haihtuvat öljyt"},
+	{"value":"essential oils"},
+	{"value":"peptides"},
+	{"value":"fysiologiset vaikutukset"},
+	{"value":"Saliva"},
+	{"value":"eucalyptus"},
+	{"value":"POMS"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001693",
+	"dct:identifier":"FI2016001693",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

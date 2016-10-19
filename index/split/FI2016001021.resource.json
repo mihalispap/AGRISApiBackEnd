@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of growth, nutrition and soil properties of pure and mixed stands of Populus deltoides and Alnus subcornata /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sayyad, Ehsan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hosseini, Seyed Mohsen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mokhtari, Jamshid.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mahdavi, Reza.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jalali, Seyed Gholamali.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akbarinia, Moslem.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tabari, Masoud.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ravinnekierto"},
+	{"value":"kasvinravitsemus"},
+	{"value":"soil chemicophysical properties"},
+	{"value":"cycling"},
+	{"value":"viljelymetsät"},
+	{"value":"nitrogen fixation"},
+	{"value":"nutrients"},
+	{"value":"plantations"},
+	{"value":"nitrogen-fixing trees"},
+	{"value":"mixed forests"},
+	{"value":"kasvu"},
+	{"value":"typensidonta"},
+	{"value":"Alnus subcordinata"},
+	{"value":"typensitojapuulajit"},
+	{"value":"Populus deltoides"},
+	{"value":"trees"},
+	{"value":"sekametsät"},
+	{"value":"plant nutrition"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001021",
+	"dct:identifier":"FI2016001021",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

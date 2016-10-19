@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Feeding Different Levels of Whole Cottonseed (Gossypium spp.) on Performance of Lactating Buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":99,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrient intake",
+	"xml:lang":"eng"
+	},
+	{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"rendimiento lechero",
+	"xml:lang":"esp"
+	},
+	{"value":"cottonseed",
+	"xml:lang":"eng"
+	},
+	{"value":"ingestion de nutrientes",
+	"xml:lang":"esp"
+	},
+	{"value":"rendement laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"efficacite conversion alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"digestibilite",
+	"xml:lang":"fre"
+	},
+	{"value":"digestibilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"graine de coton",
+	"xml:lang":"fre"
+	},
+	{"value":"ingestion de substances nutritives",
+	"xml:lang":"fre"
+	},
+	{"value":"eficiencia de conversion del pienso",
+	"xml:lang":"esp"
+	},
+	{"value":"feed conversion efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"semilla de algodon",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":107,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000347",
+	"dct:identifier":"IN2015000347",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chaudhary, J.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jat, H.R."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Eighteen lactating Surti buffaloes in early stage of lactation divided into 3 groups of 6 animals each on milk yield (6.75Â±0.27 kg) and body weight (475.83Â±15.30 kg), basis were fed on 3 levels of whole cottonseed in their rations (T1; 0, T2; 30 and T3; 60%). In all the experiment, animals were also fed 15 kg green lucerne and ad libitum sorghum stover. The DMI, DCPI and TDNI were significantly (P0.05) higher in T3 than T2 and T1. The digestibility of OM, CP, CF and EE was significantly (P0.05) influenced by the levels of cottonseed in the ration. The total water intake was 66.55, 70.03 and 71.85 in T1, T2 and T3, respectively, which was significantly higher in T3 and T2 than T1 The average 6% FCM yield (kg) was 9.21, 10.16 and 11.32 in T1, T2 and T3 groups, respectively. Significantly higher (P0.05) milk yield was recorded in T3 than T2 and T1 however, T2 and T1 groups were comparable for milk yield. The DCP and TDN consumed per kg milk produced were not significantly affected by various levels of cottonseed in the ration. The same trend was observed in the case of net protein and net energetic efficiency among the three feeding regimes. The post-partum period and oestrus period was reduced significantly (P0.05) in T3 than T2 and T1 but the difference for number of services per conception was comparable among the treatments. It can be concluded that by increasing the level of cottonseed in the diet, the performance of lactating buffaloes can be enhanced.",
+	"xml:lang":"eng"
+	}
+	}}

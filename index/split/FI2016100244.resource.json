@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-51.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Membrane-bound polyphenol oxidases and peroxidases from Metroxylon sagu: Changes in activity and isoenzyme profiles during maturation"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Onsa, Galila Hassan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saari, Nazamid bin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Osman, Azizah (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bahri, Shamsul (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100244",
+	"dct:identifier":"FI2016100244",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Membrane-bound polyphenol oxidases (mPPO: E.C.1.10.3.2) and peroxidases (mPOD: E.C.1.11.1.7) were isolated from membrane-fractions of Metroxylonsagu employing temperature-induced hase partitioning technique using Triton X-114. The specific activities in unit activity / mg protein and their isoenzyme profile were studied during maturation. The stages of maturity are the young stage (1-2 years old), pre-mature (6-8 years old) and mature stage (9-12 years old). The highest mPPO specific activity was observed at the top log section of young stage and then decreased by 3.0 and 25-fold at premature and mature stage, respectively. On the other hand, mPOD activity was found to be constant at the early stages of maturity up to the premature stage. mPOD activity then increased by 1.5 and 2.9-fold at premature and matured stage respectively. High mPOD activity at mature stage was associated with the appearance of new isoenzymes as well as intensification of the existing one. A change in the polypeptides during maturation was also observed."}
+	}}

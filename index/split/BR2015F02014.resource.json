@@ -1,0 +1,78 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Production costs of growing Holstein-Zebu in elephantgrass pasture",
+	"xml:lang":"eng"
+	},
+	{"value":"   Custos de produção na recria de novilhas mestiças Holandês-Zebu em pastagem de capim-elefante ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"profit",
+	"xml:lang":"eng"
+	},
+	{"value":"concentrates",
+	"xml:lang":"eng"
+	},
+	{"value":"rotational grazing",
+	"xml:lang":"eng"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"stylosanthes",
+	"xml:lang":"eng"
+	},
+	{"value":"gross margins",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02014",
+	"dct:identifier":"BR2015F02014",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1216213909.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"PERES,  A. A. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SOUZA,  P. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VASQUEZ,  H. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA,  J. F. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"HADDADE,  I. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LISTA,  F. N."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Foram estimados os custos operacional e efetivo de diferentes sistemas de produção para novilhas leiteiras em pastagem de capim-elefante, suplementadas ou não, na região Norte Fluminense. Os sistemas de produção avaliados foram: SP1 - novilhas manejadas exclusivamente em pastagem de capim-elefante, SP2 - novilhas manejadas em pastagem de capim-elefante, recebendo ração concentrada e SP3 - novilhas manejadas em pastagem de capim-elefante, recebendo suplementação volumosa em pastagem de Stylosanthes guianensis, cv. Mineirão. Estimaram-se os principais itens de custos envolvidos nos diferentes sistemas, sendo eles: os custos fixos, variáveis e totais. A partir dos custos estimados foi possível determinar os principais indicadores de resultado econômico, sendo eles: a margem bruta, a margem líquida e o lucro. As informações, os dados e os preços envolvidos em cada sistema de produção foram coletados no comércio agropecuário, junto a órgãos de extensão rural, instituições de pesquisas e profissionais do setor, na região. Os três sistemas de produção apresentaram viabilidade financeira. O sistema de produção para novilhas manejadas em pastagem de capim-elefante suplementadas com ração concentrada apresentou os maiores valores monetários para os indicadores de resultado econômico estimados."},
+	{"value":"The operational and effective costs were estimated under different production systems of dairy heifers under rotational grazing on elephantgrass pasture, which received or not supplementation, at the North Fluminense region. The production systems evaluated were: PS1 - heifers on elephantgrass pasture, without supplementation",
+	"xml:lang":"eng"
+	},
+	{"value":"and PS3 - heifers on elephantgrass pasture receiving supplementation of Stylosanthes guianensis, vc. Mineirão under grazing. The main cost items involved in the different systems were: fixed cost, variable costs, and totals. From the estimated costs it was possible to determine the main economic result indicators, such as: gross margin, net margin, and profit. The information, data, and the prices involved in each production system were collected inlivestock commercial stores, rural extension departments, research institutions and professionals the region. All the production systems presented financial viability. The production system for heifers under rotational grazing on elephantgrass pasture with supplementation presented higher monetary values for the estimated economic result indicators."},
+	{"value":"PS2 - heifers on elephantgrass pasture receiving supplementation of concentrate feeding",
+	"xml:lang":"por"
+	}
+	]
+	}}

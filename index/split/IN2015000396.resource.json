@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Body weights and measurements of sangamneri goats during post- Weaning stage under field conditions",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":184,
+	"dc:subject":[
+		{"value":"periode apres sevrage",
+	"xml:lang":"fre"
+	},
+	{"value":"peso corporal",
+	"xml:lang":"esp"
+	},
+	{"value":"periodo postdestete",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"poids corporel",
+	"xml:lang":"fre"
+	},
+	{"value":"body weight",
+	"xml:lang":"eng"
+	},
+	{"value":"postweaning period",
+	"xml:lang":"eng"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":187,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000396",
+	"dct:identifier":"IN2015000396",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jagdale, V.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deokar, D.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Birari, D.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandakmale, S.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kaledhonkar, D.P."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Analysis of growth data of Sangamneri goats reared under field conditions for a period of 5 years revealed that the least squares means of body weights at 3, 6 and 9 months of age were 9.02Â±0.08, 14.09Â±0.10 and 17.77Â±0.13 kg respectively. The least squares means for heart girth, body length and height at withers at 3, 6 and 9 months of age were 47.69Â±0.18, 55.35Â±1.18, 59.06Â±0.21cm; 42.63Â±0.17, 49.30Â±0.17, 53.40Â±0.23 cm and 48.13Â±0.20, 56.01Â±0.21, 60.34Â±0.21 cm, respectively. Cluster of villages and sex had significant (P0.01) effect on body weights and height at withers at 3, 6 and 9 months, on body length at 3 and 9 months and on heart girth at 3 and 6 month of age. Year and season of birth showed significant (P0.05) effect on body weights at 9 and 6 months of age. Year of birth had significant (P0.05) effect on body length at 6 months and on height at withers at 6 and 9 months of age. Sex had significant (P0.01) effect on height at withers at 3 and 6 months of age.",
+	"xml:lang":"eng"
+	}
+	}}

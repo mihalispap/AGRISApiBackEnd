@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2011,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Avaliação da capacidade probiótica de uma linhagem de Ruminococcus gnavus da microbiota fecal de seres humanos contra Clostridium perfringens",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Flávio Henrique Ferreira Barbosa "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Larissa Paula Jardim de Lima Barbosa "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jacques Robert Nicoli "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CNPq; CAPES; FAPEMIG "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00063",
+	"dct:identifier":"BR2015M00063",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Probióticos são microrganismos utilizados com o propósito de beneficiar a saúde do hospedeiro, seja na prevenção ou tratamento de doenças. Este trabalho teve como objetivo avaliar uma cultura de Ruminococcus gnavus quanto ao seu efeito probiótico frente a um alvo patogênico in vivo por meio de avaliação histopatológica e perfil de hidrofobicidade da parede celular. A linhagem de R. gnavus foi isolada da microbiota fecal dominante de um adulto sadio. Uma amostra padrão de Clostridium perfringens foi utilizada como patógeno para o desafio por via oral de camundongos previamente monoassociados com R. gnavus. Camundongos suíços NIH isentos de germes foram usados como modelo animal. Nos resultados dos testes de adesão da superfície celular do microrganismo estudado, ficou constatado que a espécie R. gnavus possui uma parede celular mais hidrofóbica e ácida, sinalizando boa probabilidade de adesão ao epitélio intestinal. A análise histológica demonstrou que a monoassociação com R. gnavus não promoveu nenhuma alteração morfológica dos órgãos analisados (intestinos, baço e fígado), e apresentou efeito protetor, constatado no ceco e no fígado de camundongos gnotobióticos. Em suma, os resultados reforçam que R. gnavus possui características protetoras desejáveis no que tange a elaboração de futuros probióticos.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

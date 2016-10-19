@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Water uptake curve in physic nut seeds",
+	"xml:lang":"eng"
+	},
+	{"value":"   Curva de absorção de água em sementes de pinhão-manso ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"jatropha curcas",
+	"xml:lang":"eng"
+	},
+	{"value":"euphorbiaceae",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202833",
+	"dct:identifier":"BR2015202833",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/480/256",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Caetano Pimenta Alex"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Christina Zuffellato-Ribas Katia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Galvêas Laviola Bruno"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Panobianco Maristela"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Campus São Vicente, Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso, Santo Antônio do Leverger, MT, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná, Curitiba, PR, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Empresa Brasileira de Pesquisa Agropecuária, Embrapa Agroenergia, Brasília, DF, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná, Curitiba, PR, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"regression equations were adjusted for the uptake curves. It was concluded that Jatropha curcas seeds follow the three-phases water uptake pattern , being phase I between 0 and 15h, phase II between 15h and 60h and phase three starting after 60h.",
+	"xml:lang":"por"
+	},
+	{"value":"O pinhão-manso (Jatropha curcas L.) é uma espécie destinada à produção de óleo para fins energéticos, porém cientificamente pouco conhecida quanto a sua implantação como cultura agrícola. Objetivou-se neste trabalho determinar a curva de absorção de água em sementes de pinhão-manso, visando subsidiar futuras pesquisas dependentes dessa informação. Utilizaramse dois lotes de sementes, representados por duas subamostras (sementes intactas e sementes mortas) de cada lote. A curva de absorção de água foi determinada por pesagens em intervalos sistematizados, até a protrusão da raiz primária. Utilizou-se delineamento experimental inteiramente casualizado, com dois tratamentos e quatro repetições de 10 sementes/parcela. Os dados foramsubmetidos aos testes de Bartlett, Anova e Tukey"},
+	{"value":"para as curvas de absorção foram ajustadas equações de regressão. Concluiu-se que as sementes de Jatropha curcas seguem o padrão trifásico de absorção de água, sendo a fase I compreendida entre 0 e 15h, a fase II entre 15 e 60he a fase III iniciada após 60h."},
+	{"value":"Physic nut (Jatropha curcas L.) is a useful species in oil production for energy purposes, however its agricultural crop counts on little scientific knowledge. This work aimed to determine the water uptake curve in physic nut seeds, with the purpose to help future researches depending on thisinformation. Two batches of seeds were used, represented by two sub-samples (intact seeds and dead seeds) of each batch. The water uptake curve was determined weighing samples at specified intervals of time. A fully randomized experimental delineation was applied, with two treatments and four repetitions of 10 seeds each. Data were submitted to Bartlett, Anova and Turkey tests",
+	"xml:lang":"eng"
+	}
+	]
+	}}

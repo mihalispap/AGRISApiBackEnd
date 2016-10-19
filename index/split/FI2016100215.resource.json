@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-73.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Resistance management to Bt engineered crops"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Cerda, Hugo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sayyed, Ali H. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100215",
+	"dct:identifier":"FI2016100215",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The goal of resistance management to insecticides is to slow the rate of resistance evolution in the pest population. The evolution of resistance involve the interaction of many genetic, biological, and agronomical factors like pest movements, functional dominance of resistance genes or number of toxin deployed. Since 1996, million of acres have been planted with Bt transgenic crops. The novelty for the resistance management is that in the Bt crop we have a controlled and constant dose expression of the insecticide. We review the population genetics, ecological and operational factors related with this strategy."}
+	}}

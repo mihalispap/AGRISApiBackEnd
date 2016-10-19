@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/40938/12402",
+	"dct:language":"eng",
+	"dct:title":{"value":"Testing the use of an analytical and mechanistic C₃ - biomass accumulation model for precision fertilization.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hakojärvi, Mikko,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hautala, Mikko,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alakukku, Laura,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"lannoitusajankohta"},
+	{"value":"Triticum"},
+	{"value":"water availability"},
+	{"value":"biomass"},
+	{"value":"plant developmental stages"},
+	{"value":"crop yield"},
+	{"value":"kevätvehnä"},
+	{"value":"vesi"},
+	{"value":"field experimentation"},
+	{"value":"nitrogen"},
+	{"value":"Triticum aestivum"},
+	{"value":"kenttäkokeet"},
+	{"value":"lannoitus"},
+	{"value":"nutrient uptake"},
+	{"value":"biomassa"},
+	{"value":"täsmäviljely"},
+	{"value":"Finland"},
+	{"value":"growth period"},
+	{"value":"kasvukausi"},
+	{"value":"growth models"},
+	{"value":"fertilizer application"},
+	{"value":"kehitysvaiheet"},
+	{"value":"soil water"},
+	{"value":"spring wheat"},
+	{"value":"lannoitustaso"},
+	{"value":"ravinteiden otto"},
+	{"value":"typpi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002122",
+	"dct:identifier":"FI2016002122",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

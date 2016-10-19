@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Timber production possibilities and capital yields from the Norwegian forest area.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hoen, Hans Fredrik.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eid, Tron.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Økseter,Petter.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"tuotto"},
+	{"value":"wood production"},
+	{"value":"metsänkäsittelytavat"},
+	{"value":"forecasting"},
+	{"value":"skenaariot"},
+	{"value":"puuntuotanto"},
+	{"value":"metsätalous"},
+	{"value":"korko"},
+	{"value":"metsänhoito"},
+	{"value":"Norway"},
+	{"value":"profitability"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001650",
+	"dct:identifier":"FI2016001650",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of a water-hyacinth based sewage treatment system in Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ezeilo, Fabian E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Obika, Chukwuemeka O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ayotamuno, Josiah M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kogbara, Reginald B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"waste management"},
+	{"value":"Nigeria"},
+	{"value":"wastewater"},
+	{"value":"wastewater treatment"},
+	{"value":"Eichhornia"},
+	{"value":"environmental protection"},
+	{"value":"aquatic environment"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001149",
+	"dct:identifier":"FI2016001149",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

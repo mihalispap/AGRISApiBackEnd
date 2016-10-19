@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Population dynamics of Orseolia oryzae (Wood-Mason) on Rice crop at Gangetic plains of West Bengal",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":13,
+	"dc:subject":[
+		{"value":"population dynamics",
+	"xml:lang":"eng"
+	},
+	{"value":"dynamique des populations",
+	"xml:lang":"fre"
+	},
+	{"value":"orseolia oryzae",
+	"xml:lang":"esp"
+	},
+	{"value":"dinamica de poblaciones",
+	"xml:lang":"esp"
+	},
+	{"value":"oryza sativa",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":16,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000208",
+	"dct:identifier":"IN2015000208",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Chakraborty, Kaushik"
+	}
+	},
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Activity of Orseolia oryzae was seasonally allied and rice growth stage dependent. O. oryzae started to build up from 20 standard meteorological weeks (SMW), attained the peak of abundance at 34 SMW. The population, then subsumed gradually up to 39 SMW and then, abruptly attaining almost nil at 43 SMW. The correlation value revealed that the incidence of O. oryzae population and the number of silver shoot had positive and significant relation with maximum temperature, average temperature, maximum, minimum relative humidity, average relative humidity and rainfall. Non-significant and positive relation was noted with minimum temperature and average sunshine hrs. Relation between pest incidence and number of rainy days was insignificantly negative. Regression equation explained 91-9% variability and that was primarily due to rainfall.",
+	"xml:lang":"eng"
+	}
+	}}

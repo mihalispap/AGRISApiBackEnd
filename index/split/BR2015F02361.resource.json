@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Water microbiology quakity for anumal consumption",
+	"xml:lang":"eng"
+	},
+	{"value":"   Qualidade microbiológica da água para consumo animal ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"pollutants",
+	"xml:lang":"eng"
+	},
+	{"value":"escherichia coli",
+	"xml:lang":"eng"
+	},
+	{"value":"consumption",
+	"xml:lang":"eng"
+	},
+	{"value":"coliiformes",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02361",
+	"dct:identifier":"BR2015F02361",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1403099553.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"DUARTE,  K. M. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GOMES,  L. H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DOZZO,  A.D.P"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ROCHA, F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LIRA,  S.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DEMARCHI,  J. J. A. A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Water designed for human or animal consumption must attend to minimal quality standards in order to guarantee the ideal consumption, without injuries due to bad quality, such as microbiology or chemical contaminants. This work aimed to evaluate microbiology quality of water offered in the Institute of Animal Science and Pastures (IZ), for animal consumption. In 25 sampling sites, pH, total coliforms, Escherichia coli and heterotrophic bacteria were measured, using Colitest commercial kit for total and E.coli and, R2A and TSA media for heterotrophic bacteria counting. Total coliforms were presented at the Lake, at both sampling sites (boarder and inside the Lake) and in one of the paddocks, from Maracanã area. At IZ major area, total coliforms were observed at two sampling sites. In the Wellspring area (Manancial), no total coliforms were found. E.coli was presented at the lake edge, from Maracanã area and at the Planalto Stream, inside the Institute. From all 25 sampling sites, 28 % showed total coliforms and 8% presented E.coli. For heterotrophic bacteria, the maximum count indicated by official Governmental Agency (CETESB) designated to animal consumption must be under 1000 CFUmL -1. The R2A medium in comparison to TSA medium showed 293% more bacteria counting’s, confirming that rich–nutrient medium can fade the real count and biodiversity of a poor environment such as the water. Variance analysis showed significant difference at 1% by F test (1.781) for both R2A and TSA media, showing R2A was better for heterotrophic bacteria identification in water resources. Other studies must be continued in order to guarantee water quality given to livestock.",
+	"xml:lang":"eng"
+	},
+	{"value":"Água para consumo humano ou animal deve atender ao mínimo de exigências de padrões de qualidade para garantir consumo adequado, sem provocar injurias aos animais devido à má qualidade, como contaminação microbiológica ou química. Este trabalho avaliou a qualidade microbiológica da água oferecida aos animais de produção do Instituto de Zootecnia (IZ) e algumas instalações de pesquisa e administração. Nestas amostras, pH, coliformes totais, Escherichia coli e outras bactérias do grupo dasheterotróficas foram quantificados usando o kit comercial Colitest para coliformes totais e E.coli.Os meios R2A e TSA foram utilizados para contagem de bactérias heterotróficas. Coliformes totais foram encontrados no Lago do Maracanã, nas duas amostragens, da margem e do interior e em um dos piquetes. Na área central do IZ, coliformes totais foram encontrados no Riacho do Planalto, nas duas amostragens e no Bosque Isidoro Bordon, assim como no Lago. Na área do Manancial nenhum coliforme total foi encontrado. Destas áreas, E.coli estavam presentes em duas amostragens. Do total das 25 coletas, 28% apresentaram coliformes totais e 8% E.coli. Para bactérias heterotróficas, o máximo indicado pela CETESB para consumo animal é de 1000 UFC mL-1, e na comparação entre os dois meios para contagem de bactérias heterotróficas verificou-se que 68% das amostras apresentaram valores superiores no meio R2A e 32% no meio TSA. Na avaliação dos meios de cultura utilizados o R2A apresentou resultados 293% superiores aos do meio TSA mostrando que um meio rico em nutrientes pode mascarar a variabilidade microbiológica de um ecossistema naturalmente pobre (água). No teste estatístico de análise de variância o resultado obtido foi significativo a 1% de probabilidade pelo teste de F (1,781) mostrando a diferença entre os meios R2A e TSA utilizados, provando que o meio R2A foi melhor na identificação de bactérias heterotróficas presentes na água. Estudos devem continuar a serem conduzidos de forma a garantir água de qualidade aos animais de produção.",
+	"xml:lang":"por"
+	}
+	]
+	}}

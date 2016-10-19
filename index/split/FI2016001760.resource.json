@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/8577/10202",
+	"dct:language":"eng",
+	"dct:title":{"value":"Technological quality and composition of the M. semimembranosus and M. longissimus dorsi from Large White and Landrace Pigs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tomovic, Vladimir,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zlender, Bozidar,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jokanovic, Marija,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tomovic, Mila,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sojic, Branislav,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Skaljac, Snezana,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tasic, Tatjana,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ikonic, Predrag,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Soso, Milena,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hromis, Neneva,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"meat quality"},
+	{"value":"pork"},
+	{"value":"sikarodut"},
+	{"value":"composition"},
+	{"value":"sianliha"},
+	{"value":"breeds (animals)"},
+	{"value":"laatu"},
+	{"value":"swine"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001760",
+	"dct:identifier":"FI2016001760",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

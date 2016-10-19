@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Octolasion lacteum Örley (Oligochaeta, Lumbricidae) effects on C-allocation of Hordelymus europaeus L.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wolters, V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schaefer, Matthias.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stickan, W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Klebsch, D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maaperäeläimistö"},
+	{"value":"photosynthesis"},
+	{"value":"kasvit"},
+	{"value":"soil biology"},
+	{"value":"Hordelymus europaeus"},
+	{"value":"heinäkasvit"},
+	{"value":"grasses"},
+	{"value":"maaperäeliöstö"},
+	{"value":"soil fauna"},
+	{"value":"Lumbricidae"},
+	{"value":"maaperä"},
+	{"value":"kasvu"},
+	{"value":"Poaceae"},
+	{"value":"growth"},
+	{"value":"productivity"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    International Colloquium on Soil Zoology
+    (11 :
+    1992 :
+    Jyväskylä)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000315",
+	"dct:identifier":"FI2016000315",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

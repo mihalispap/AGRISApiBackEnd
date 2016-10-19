@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"How well do U.S. Forest Service terrestrial ecosystem surveys correspond with measured vegetation properties?",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Abella, Scott R.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"conditions"},
+	{"value":"undergrowth"},
+	{"value":"reference conditions"},
+	{"value":"ecosystem classification"},
+	{"value":"Pinus ponderosa"},
+	{"value":"classification"},
+	{"value":"forest surveys"},
+	{"value":"ecosystems"},
+	{"value":"properties"},
+	{"value":"vegetation"},
+	{"value":"potential natural vegetation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001372",
+	"dct:identifier":"FI2016001372",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative study on the effect of BSA and FCS as a supplement in TCM-199 on the in vitro maturation of buffalo oocytes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":298,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"ovulo",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"fecondation in vitro",
+	"xml:lang":"fre"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"ovule",
+	"xml:lang":"fre"
+	},
+	{"value":"fecundacion in vitro",
+	"xml:lang":"esp"
+	},
+	{"value":"in vitro fertilization",
+	"xml:lang":"eng"
+	},
+	{"value":"ova",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":301,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000441",
+	"dct:identifier":"IN2015000441",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Deneke, Yosef"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nanda, Trilok"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yadav, Prem Singh"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Availability of developmentally competent buffalo oocytes is critical for in vitro embryo production and application of related biotecniques. The objective of the present study was to assess the effect of BSA in place of FCS as maturation media supplement on in vitro maturation buffalo oocytes. Oocytes were aspirated from abattoir ovarian follicles of 2-8 mm diameter followed by maturation in TCM-199 supplemented with hCG, PMSG and containing either 0.4% BSA (group-I) or 10% FCS (group-II). Based on cumulus expansion maturation rate was assessed among the two groups, group II showing a significant higher percentage values (89.1Â±3.5%) as compared to the group I (73.9Â±4.2%).",
+	"xml:lang":"eng"
+	}
+	}}

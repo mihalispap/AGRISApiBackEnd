@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/12/3-4/variatio.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Variation in biomass related variables of reed canary grass.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sahramaa, Mia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ihamäki, Helena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jauhiainen, Lauri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"industrial crops"},
+	{"value":"sato"},
+	{"value":"genetic variation"},
+	{"value":"Phalaris arundinacea"},
+	{"value":"biomass"},
+	{"value":"biomassa"},
+	{"value":"crop yield"},
+	{"value":"ruokohelpi"},
+	{"value":"fuel crops"},
+	{"value":"energiakasvit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000926",
+	"dct:identifier":"FI2016000926",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

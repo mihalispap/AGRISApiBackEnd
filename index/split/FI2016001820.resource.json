@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Plant growth regulators to manipulate oat stands.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Rajala, Ari.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"sato"},
+	{"value":"plant growth substances"},
+	{"value":"kasvusto"},
+	{"value":"kaura"},
+	{"value":"satokomponentit"},
+	{"value":"Avena sativa"},
+	{"value":"plant anatomy"},
+	{"value":"crop yield"},
+	{"value":"yield components"},
+	{"value":"sadonmuodostus"},
+	{"value":"kasvunsääteet"},
+	{"value":"oats"},
+	{"value":"crop performance"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001820",
+	"dct:identifier":"FI2016001820",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

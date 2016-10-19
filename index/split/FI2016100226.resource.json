@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of upland cotton (Gossypium hirsutum L.) to partial defoliation at different growth stages in a semi-arid tropical environment"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ogunlela, Vincent B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Odion, Ehiabhi C. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100226",
+	"dct:identifier":"FI2016100226",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A field experiment was conducted at Samaru, Nigeria, during the 1996-98 cropping seasons to study the response of upland cotton to partial defoliation applied at different growth stages. Treatments were factorial combination of four defoliation intensities (non-defoliated check, mild 20%, moderate 40% and severe 60% defoliation) and four growth stages (6, 9, 12 and 15 weeks after planting, WAP). Growth stage at the time of defoliation had no significant effect on cotton yield parameters but significantly influenced vegetative parameters such as branches per plant and plant height. Pre-flowering stages were more sensitive to defoliation than post-flowering stages. Severe defoliation caused some 20-22% yield reductions while mild defoliation enhanced cotton yield slightly. The crop responded more to defoliation treatments in 1996 than in 1997 and 1998. Ginning out-turn, bolls per plant, seed cotton per plant, boll mass, fruiting points per plant, as well as seed characters did not respond to treatments. Growth stage x defoliation intensity interaction was significant for number of bolls per plant. Mild defoliation at 15 WAP and severe defoliation at 6 WAP were similar in their effects as each caused some 32% reduction in boll number. Simulating insect defoliation appears to be a reliable tool for precise quantification of crop injury and host responses."}
+	}}

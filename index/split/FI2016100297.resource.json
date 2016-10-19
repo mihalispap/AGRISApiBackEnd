@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f21.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Simple and rapid method of analysis for determination of pesticide residues in honey using dispersive solid phase extraction and GC determination"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Barakat, Ahmed A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Badawy, Hany M. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Salama, Emil (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Attallah, Emad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maatook, Gouda (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100297",
+	"dct:identifier":"FI2016100297",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Thirty six pesticides were determined using quick, easy, cheap, effective, rugged and safe (QuEChERS) extraction method followed by gas chromatography–electron-capture detection (GC–ECD) and gas chromatography–nitrogen-phosphorus detection (GC–NPD) for quantification. Honey samples were extracted by shaking with acetonitrile acidified with acetic acid in presence of magnesium sulphate and sodium acetate. The sample was centrifuged and an aliquot of the clear solution subjected to dispersive solid phase extraction using primary secondary amine (PSA) in presence of magnesium sulphate. The sample was centrifuged and an aliquot of the clear solution evaporated in presence of tertradecane, redissolved in hexane/acetone and injected into GC-NPD for determination of organophosphorus and organonitrogen compounds and GC-ECD for determination of organochlorine and pyrethroid compounds. The recoveries at three different concentration levels (0.02-5 mg/kg) ranged from 70 to 120%. The repeatability expressed as relative standard deviation (RSDr) was 1-22% (n = 6). The measurement uncertainty expressed as expanded uncertainty and in terms of relative standard deviation (at 95% confidence level) is within the range of ±30%."}
+	}}

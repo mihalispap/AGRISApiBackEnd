@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Elintarvikkeiden ja ravinnon vierasainepitoisuudet - kansainvälistä vertailua /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kumpulainen, Jorma.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hietaniemi, Veli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tahvonen, Raija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"residues"},
+	{"value":"raskasmetallit"},
+	{"value":"toxic substances"},
+	{"value":"cereal products"},
+	{"value":"finland"},
+	{"value":"milk products"},
+	{"value":"lead"},
+	{"value":"elintarvikkeiden laatu"},
+	{"value":"meat products"},
+	{"value":"egg products"},
+	{"value":"cadmium"},
+	{"value":"jäämät"},
+	{"value":"pesticides"},
+	{"value":"elintarvikkeiden vierasaineet"},
+	{"value":"kansainvälinen vertailu"},
+	{"value":"heavy metals"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000103",
+	"dct:identifier":"FI2016000103",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/e2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Contributions of nitrogen-fixing trees (NFTs) to soil physico-chemical properties in humid forest region in Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ogunnika, C.B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kayode, J.O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100277",
+	"dct:identifier":"FI2016100277",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Impact on physico-chemical properties of soil under NFTs (LLP – Leucaena leucocephala plot, AAP – Acacia auriculiformis plot, GSP (a) & (b) Gliricidia sepium plots (of ages 5 and 10 years respectively) and GAP – Gmelina arborea – plot (a non-nitrogen-fixer). The effect of these tree species on the soils in which they grow is compared with a cultivated farmland plot – CLP (Controls), were studied in 5 to 10-year-stands planted in adjacent plots on former agricultural land. Soil samples from three depth layers (0-15, 15–30 and 30–45 cm) under the different tree species and the control were compared in terms of pH, bulk density, water holding capacity, soil particle size distribution, pools and concentration of exchangeable macro- and micronutrients, total nitrogen and carbon. Significant differences (P<0.05) between tree species and the control were detected across the soil profile (i.e. upper, middle and lower soil layers) of the sampled sites. The most prominent differences were between CLP and LLP, GSP (b). CLP had considerably higher pH, base saturation, base cations compared to LLP and GSP (b), which showed the most acidifying effect on the mineral upper soil layers. Among the NFTs, GSP (b), GSP (a) and AAP displayed most similar effect to LLP on the upper layer of mineral top soils. Soil C, N and C/N ratios did differ significantly (P<0.05) among tree species and the control."}
+	}}

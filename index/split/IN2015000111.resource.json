@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathological alterations in the liver of Swiss albino mice induced by different degree of gamma radiation and cadmium",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":198,
+	"dc:subject":[
+		{"value":"rayonnement gamma",
+	"xml:lang":"fre"
+	},
+	{"value":"cadmio",
+	"xml:lang":"esp"
+	},
+	{"value":"raton",
+	"xml:lang":"esp"
+	},
+	{"value":"souris",
+	"xml:lang":"fre"
+	},
+	{"value":"mice",
+	"xml:lang":"eng"
+	},
+	{"value":"cadmium",
+	"xml:lang":"fre"
+	},
+	{"value":"liver",
+	"xml:lang":"eng"
+	},
+	{"value":"foie",
+	"xml:lang":"fre"
+	},
+	{"value":"pathology",
+	"xml:lang":"eng"
+	},
+	{"value":"pathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"patologia",
+	"xml:lang":"esp"
+	},
+	{"value":"radiacion gamma",
+	"xml:lang":"esp"
+	},
+	{"value":"higado",
+	"xml:lang":"esp"
+	},
+	{"value":"gamma radiation",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":202,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000111",
+	"dct:identifier":"IN2015000111",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bhardwaj, Chetna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta,  M.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Naveen"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"In the present study 48 healthy adult Swiss albino mice were used to investigate the effects of radiation and CdClz.The micewere divided into four groups. Group I (n=6)(Sham-irradiated), group II (n=6)(cadmium chloride treated), group III (n=18)(irradiated mice)and group IV (n=18)(mice treated with radiation and cadmium chloride). The mice of group III and IVwere further sub divided into 3 subgroups having 6 mice each. The mice of subgroups III received radiation dose of 1.2SGy,2.5Gy and S.OGy,respectively. The mice of subgroups IV received CdClz(20 ppm) treatment along with irradiation as described in subgroups III. One mice from each group/subgroup was euthanized after 1, 2, 4, 7, 14and 28days of treatment. After irradiation with various doses of gamma rays, histological changes dependupon the dose of radiation delivered. After the combined exposure of gamma rays and cadmium chloride, the histological changes were similar but showed higher magnitude than the individual exposure to radiation and cadmium chloride.",
+	"xml:lang":"eng"
+	}
+	}}

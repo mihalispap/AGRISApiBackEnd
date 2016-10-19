@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Suitablity of strawberry (Fragaria x ananassa Duch.) microplants to the field cultivation"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Żebrowska, Jadwiga I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Czernaś, J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gawroński, J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hortyński, J.A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100499",
+	"dct:identifier":"FI2016100499",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Suitability of strawberry microplants of cv. Teresa to the field cultivation was examined. In comparison to vegetatively propagated plants, microplants produced more leaves, runners and inflorescences. Also, yielding and resistance to leaf scorch of these plants were much higher. Good condition of microplants in the autumn positively influenced on the plant vigour and yielding in the next year of cultivation. The obtained results displayed, that strawberry microplants of cv. Teresa were more suitable for field cultivation when compared with standard propagated seedlings."}
+	}}

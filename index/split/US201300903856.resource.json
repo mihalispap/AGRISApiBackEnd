@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"An investigation of factors that influence the technical efficiency of soybean production in the Guinea savannas of Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903856",
+	"dct:identifier":"US201300903856",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/a3.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amaza, Paul S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ogundari, Kolawole (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The objective of this study was to examine the determinants of technical efficiency (TE) of soybean production in the Guinea savannas. A stochastic frontier production function, using maximum likelihood estimation (MLE) technique was applied in the analysis of data collected in 2006 from a sample of 182 soybean farmers in the guinea savannas of Borno State, Nigeria. The MLE results revealed that farm size, seeds, family labour, hired labour and fertilizer were the major factors that were associated with change in the output of soybeans and were significant (ρ = 0.05). About 78% variations in the farmers output can be attributed to differences in their technical efficiency. The mean farmers TE index was found to be 0.79. The implication is that soybean production could be increased by approximately 21% through the improved use of available resources, given the current state of technology. Farmer-specific efficiency factors, which comprise age, gender and use of animal traction and market accessibility, were the significant factors that account for the observed variation in efficiency among the farmers. The policy implication of this finding is that providing farmers with effective market linkage, access to education, especially extension education and credit facilities to purchase animal traction will strengthen their present level of TE and the productivity potential of the soybean farmers in the study area."}
+	}}

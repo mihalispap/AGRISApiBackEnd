@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"ESTIMATES OF ANNUAL FOOD CONSUMPTION/BIOMASS RATIO (Q/B) FROM THE FISH FAUNA OF A MANGROVE ESTUARY IN NORTH BRAZIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":149,
+	"bibo:volume":3,
+	"bibo:pageEnd":154,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00100",
+	"dct:identifier":"BR2015N00100",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/732",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tommaso Giarrizzo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Daniel Ferraz"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Victoria Isaac"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA)"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><span lang=\"EN-US\">To contribute to mass balanced trophic model parametrization, estimates of annual food consumption/biomass ratio (Q/B) were compiled for 37 selected fish species of the Curuçá Estuary in Northern Brazil using an empirical model. Samples were taken bimonthly between July 2003 and July 2004 in the main channel and intertidal creeks using an otter trawl and a fyke net, respectively. The aspect ratio of the caudal fin varied between 0.8 for Poecilia vivipara and 4.6 for Sciades  herzbergii and the Q/B ranged from 2.3 for Epinephelus itajara to 67.3 for Cetengraulis edentulus</em>. This study represents the first reference available on Q/B values of 29 fish species.</span>",
+	"xml:lang":"por"
+	}
+	}}

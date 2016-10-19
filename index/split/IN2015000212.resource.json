@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of plant extract and insecticides on immature stages of Trichogramma chilonis",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":27,
+	"dc:subject":[
+		{"value":"extractos vegetales",
+	"xml:lang":"esp"
+	},
+	{"value":"jatropha curcas",
+	"xml:lang":"esp"
+	},
+	{"value":"trichogramma chilonis",
+	"xml:lang":"esp"
+	},
+	{"value":"plant extracts",
+	"xml:lang":"eng"
+	},
+	{"value":"extrait d'origine vegetale",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":29,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000212",
+	"dct:identifier":"IN2015000212",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gogoi, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bora, D.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhattacharjee, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Borah, R.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Among the treatments, Jatropha curcas oil at 25 % concentration applied at the egg stage was least toxic to T. chilonis in terms of fecundity (82.2%), adult emergence (77.5%), male longevity (3.99 days), female longevity (7.90 days) and developmental period (8.50 days), while quinalphos 25 EC was most toxic. The toxic effect of the treatments in terms of fecundity, % adult emergence, % female emergence, male, female longevity and developmental period were similar when applied at the larval stages of the parasitoids. However, among the treatments, J. curcas oil was safest, followed by nimbecidine while quinalphos was most toxic.",
+	"xml:lang":"eng"
+	}
+	}}

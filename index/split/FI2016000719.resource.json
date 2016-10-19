@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/48472/14719",
+	"dct:language":"eng",
+	"dct:title":{"value":"The suitability of Finnish climate for fire blight (Erwinia amylovora) epidemics on apple.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Marinova-Todorova, Mariela,
+    kirjoittaja
+    Elintarviketurvallisuusvirasto
+    EVIRA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ranta, Jukka,
+    kirjoittaja.
+    Elintarviketurvallisuusvirasto
+    EVIRA
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hannunen, Salla,
+    kirjoittaja.
+    Elintarviketurvallisuusvirasto
+    EVIRA
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Finland"},
+	{"value":"epidemiologia"},
+	{"value":"bakteeritaudit"},
+	{"value":"epidemiology"},
+	{"value":"kasvitaudit"},
+	{"value":"tulipolte"},
+	{"value":"fire blight"},
+	{"value":"colonizing ability"},
+	{"value":"host pathogen relations"},
+	{"value":"ilmasto"},
+	{"value":"Malus"},
+	{"value":"taudinaiheuttajat"},
+	{"value":"Erwinia amylovora"},
+	{"value":"climate"},
+	{"value":"omenapuut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000719",
+	"dct:identifier":"FI2016000719",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

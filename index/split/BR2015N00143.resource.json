@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ESTRUTURA TRIDIMENSIONAL DA MAJOR SURFACE PROTEASE DE Leishmania guyanensis RESOLVIDA POR MODELAGEM COMPARATIVA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":74,
+	"bibo:volume":4,
+	"bibo:pageEnd":80,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00143",
+	"dct:identifier":"BR2015N00143",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/882",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Paulo Henrique Matayoshi-Calixto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Diego Santos Fagundes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Júlio César Sá-Oliveira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoBodyText\" style=\"margin-bottom: .0001pt; text-align: justify;\"><span style=\"font-family: 'Times New Roman', serif;\">O objetivo deste trabalho foi gerar e caracterizar a estrutura tridimensional da Major Surface Protease (MSP) de L. guyanensis </em>(LgMSP). A obtenção do modelo estrutural foi realizada por modelagem comparativa, empregando o programa Modeller, a partir da sequência de aminoácidos da LgMSP depositada no GenBank. Os resultados obtidos apontaram que a LgMSP possui todos os elementos necessários para o processamento pós-traducional e de funcionamento, tais como: peptídeo sinal; pro-peptídeo; sinal de adição de âncora de glicosilfostatidilinositol (GPI); e os aminoácidos envolvidos na composição do sítio catalítico, motif HEXXH. A estrutura da LgMSP, apresentou as mesmas características estruturais da proteína molde, MSP de Leishmania major </em>(LmMSP). O alinhamento entre as estruturas de LgMSP e LmMSP revelou grande conservação estrutural, sobretudo dos subdomínios onde está localizado o sítio catalítico. O estudo das cargas parciais aponta a mesma distribuição das cargas de superfície, indicando que ambas proteínas possam clivar os mesmos substratos. De acordo com os resultados, sugerimos que a LgMSP seja um excelente alvo para o tratamento profilático e/ou curativo da leishmaniose tegumentar americana, através do desenho racional de fármacos baseado na estrutura gerada.</span>",
+	"xml:lang":"por"
+	}
+	}}

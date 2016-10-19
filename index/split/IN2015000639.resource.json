@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Adoption of RRII 400 series rubber clones by rubber small growers",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":209,
+	"dc:subject":[
+		{"value":"Clone-adoption,mono-clonal,multi-clonal,new planting"},
+	{"value":"caoutchouc",
+	"xml:lang":"fre"
+	},
+	{"value":"replanting",
+	"xml:lang":"eng"
+	},
+	{"value":"replantacion",
+	"xml:lang":"esp"
+	},
+	{"value":"caucho",
+	"xml:lang":"esp"
+	},
+	{"value":"replantation",
+	"xml:lang":"fre"
+	},
+	{"value":"rubber",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":213,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000639",
+	"dct:identifier":"IN2015000639",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Veeraputhran, S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Siju, T"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joby Joseph"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tharian George, K"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The paper examines the response of small growers to the recommendation of multi-clonal planting in the context of release of RRII 400 series clones for commercial cultivation, since 2005. The data pertaining to 56080.6 ha under 130658 RPD permits, which availed subsidy from the Rubber Board during the seven year period from 2004 to 2010, were gathered from 26 Regional Offices of the Rubber Board located in the traditional rubber growing regions. The study revealed that the adoption had been characterised by the mono-clonal status (95.1%) of RRII 105 till the year 2004. However, the share of RRII 105 declined to 55.7 per cent in 2010. Conversely, share of RRII 400 series clones increased from 1.0 per cent in 2004 to 28 per cent in 2010 in the total planted area. But trends in adoption of new clones did not exhibit a consistent pattern across size-classes and regions during the post-release phase. It is in sharp contrast to the experience of RRII 105 since its release in 1980. Adoption of multi-clonal planting was only 2.6 per cent in 2004 which increased to more than 15 per cent in 2010. Multi-clonal planting was positively associated with the size of holdings during the period under review. But the strength of this relationship has been dependent on region-specific factors. Therefore, the study brings out the need for evolving a long term policy of region-specific clone recommendations based on life-cycle commercial yield performance.",
+	"xml:lang":"eng"
+	}
+	}}

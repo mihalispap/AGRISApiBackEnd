@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-57.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Lipid profile of prickly pear pulp fractions"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ramadan, Mohamed Fawzy (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mörsel, Jörg-Thomas (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100093",
+	"dct:identifier":"FI2016100093",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Pulp fractions, seeds and strained pulp, of prickly pear (Opuntia ficus-indica) were compared in the terms of fatty acids, lipid classes, sterols, fat-soluble vitamins and β-carotene. Neutral lipids accounted for 87.0% in seed oil, while polar lipids accounted for 52.9% in pulp oil. In both oils linoleic acid was the main fatty acid followed by palmitic acid. γ and α-Linolenic acids, occurred in higher amounts in pulp oil, while α-linolenic acids was only detected at low levels in the seed oil. The sterol marker, β-sitosterol, was 72.0% and 49.0% of the total sterol content in seed oil and pulp oil, respectively. Vitamin E level was high in the pulp oil (0.52%) but only 0.04% in the seed oil. γ- and δ-Tocopherols were the predominant components in seed and pulp oils, respectively β-Carotene was also measured in high level in pulp oil, but was low in the seed oil. Oils under investigation resemble each other in the level of vitamin K1."}
+	}}

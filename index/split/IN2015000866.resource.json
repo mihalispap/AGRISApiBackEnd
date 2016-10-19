@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Coconut replanting and rejuvenation programme for the revival of coconut sector",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":32,
+	"dc:subject":[
+		{"value":"replanting",
+	"xml:lang":"eng"
+	},
+	{"value":"replantacion",
+	"xml:lang":"esp"
+	},
+	{"value":"cultivo intercalado",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"produccion",
+	"xml:lang":"esp"
+	},
+	{"value":"production",
+	"xml:lang":"fre"
+	},
+	{"value":"intercropping",
+	"xml:lang":"eng"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"culture intercalaire",
+	"xml:lang":"fre"
+	},
+	{"value":"replantation",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":35,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000866",
+	"dct:identifier":"IN2015000866",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Pramod P. Kurian(Asst. Director)"
+	}
+	},
+	"bibo:issue":8
+	}}

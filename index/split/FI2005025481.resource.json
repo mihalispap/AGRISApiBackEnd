@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of cooling delay and cold-chain breakage on ‘Santa Clara’ tomato"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025481",
+	"dct:identifier":"FI2005025481",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"de Castro, Larissa R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vigneault, Clément (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Charles, Marie Thérèse (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cortez, Luís A. B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The cold-chain was broken by transferring tomato fruit from cold storage to ambient room temperature. The transfer was performed at different storage time. Precooled tomato, stored under continuous cold condition, was used as control to ascertain the effect of cold-chain break on several quality parameters associated with postharvest tomato fruit. Surveyed quality parameters included weight loss, soluble solids, titratable acidity, firmness, color and global acceptance/general appearance. The results indicated that more severe effects resulted from earlier cold-chain breakage and that less ripened tomato was apparently more susceptible to abuse. It was also demonstrated that there were no significant differences between tomato submitted to a 4-day cooling-delay treatment and the tomatoes that were cooled immediately after harvest. Fruit submitted to cold-chain-breakage treatments exhibited signs of abnormal ripening, increased weight loss and fungus development. It is most likely that disease development was stimulated by water condensation on fruit surface during warming episode."}
+	}}

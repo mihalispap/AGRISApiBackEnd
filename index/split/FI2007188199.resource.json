@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Spectroscopic comparison of rose callus methanol-extractable lignin to lignin extracted from differentiated rose tissue by alkaline treatment"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188199",
+	"dct:identifier":"FI2007188199",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gounaris, Yannis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Berthon, Jean-Yves (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Litinas, Constantinos (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leondiadis, Leondios (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tsiropoulos, Nikolaos (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Methanol extracts were obtained from in vitro cultured rose (Rosa hybrida L., variety Mammy Blue) callus cells, derived from leaf petioles. They were compared to methanol extracts from leaf petioles by thin layer chromatography (TLC). A blue fluorescent compound was detected on the plates only in the callus extracts and was missing from the petiole extracts. A blue fluorescent compound was detected on the TLC plates of the petiole extracts at a different position, namely at the sample origin, only after acid and/or alkaline treatment of the petiole tissue. Both fluorescent compounds, from the callus and the differentiated petiole tissue, were further purified by high performance liquid chromatography (HPLC) and their structures were compared by ultraviolet (UV), infrared (FTIR) and 1 H-nuclear magnetic resonance (NMR) spectroscopy, as well as by electron impact mass spectrometry (MS) and electrospray ionization mass spectrometry (ESI-MS). The two compounds have very similar spectra. Aromatic and aliphatic moieties were detected. The totality of the analytical data lead to the conclusion that both compounds are aromatic-aliphatic conjugates lignin fragments consisting of up to four phenylpropane moieties for the callus extracts and up to six phenylpropane units for the differentiated tissue extracts. The easy extractability of these compounds from the callus, compared to the petioles, might be related to a different cell wall structure in the two types of tissue."}
+	}}

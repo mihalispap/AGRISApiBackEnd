@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelling of landscape and land use changes with application of spatial analysis modelling tool to Quillow Region of North East Germany /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ajibefun, I. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wenkel, K.-O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wieland, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mirschel, W.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"paikkatietojärjestelmät"},
+	{"value":"mallintaminen"},
+	{"value":"maisema"},
+	{"value":"geographical information systems"},
+	{"value":"Europe"},
+	{"value":"maankäyttö"},
+	{"value":"Germany"},
+	{"value":"landscape"},
+	{"value":"land use"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002208",
+	"dct:identifier":"FI2016002208",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

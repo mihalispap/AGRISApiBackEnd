@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"DIET BREADTH AND NICHE OVERLAP BETWEEN Hypostomus plecostomus (LINNAEUS, 1758) AND Hypostomus emarginatus (VALENCIENNES, 1840) (SILURIFORMES) FROM THE COARACY NUNES HYDROELECTRIC RESERVOIR IN FERREIRA GOMES, AMAPÁ-BRAZIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":116,
+	"bibo:volume":3,
+	"bibo:pageEnd":125,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00097",
+	"dct:identifier":"BR2015N00097",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/722",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Júlio César Sá-Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Victoria Judith Isaac"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIFAP"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-size: 11.0pt; font-family: Arial;\">O presente estudo teve como objetivo analisar a ecologia trófica de 172 exemplares de<span> </span><Hypostomus <span style=\"background-position: initial initial; background-repeat: initial initial;\">plecostomus</span></ e 94 indivíduos de Hypostomus emarginatus</em><span><span style=\"background-position: initial initial; background-repeat: initial initial;\"> </span></span>do reservatório da UHE Coaracy Nunes, Ferreira Gomes-Amapá, coletados em oito campanhas, bimensalmente de maio de 2010 a julho de 2011, sendo quatro no período seco e quatro no período de cheia.<span> A análise baseou-se nos métodos de freqüência volumétrica (FV%) e de ocorrência (FO%), combinados no índice alimentar-IAi. Foram encontradas nove categorias de alimentos: Detritos, Fragmentos vegetais, Zooplâncton, Arthropoda, Chlorophyta, Bacillariophyta, Cyanobacteria, Dinophyta e Material não identificado. Nos dois períodos sazonais, detritos foi o item mais consumido, sendo os demais considerados itens de consumo acidental ou de complementação para ambas as espécies. No geral, a amplitude de nicho foi baixa, porém entre as duas espécies houve pequena diferença, sendo a amplitude de H. plecostomus maior que a de H. emarginatus</em>. Nos dois períodos sazonais, a sobreposição de nicho apresentou valores elevados, indicando que a sazonalidade não é um fator decisivo na alteração de nicho dessas espécies, provavelmente em virtude da alta disponibilidade de detritos, particularmente na região do represamento. Conclui-se que as duas espécies apresentam hábito alimentar detritívoro, realizando a partilha deste recurso, sem existir processos de competição interespecífica evidentes, que comprometam a sua co-existência.</span>",
+	"xml:lang":"por"
+	}
+	}}

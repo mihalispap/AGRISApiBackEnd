@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Pre- and postharvest fiber development in green asparagus as related to temperature during growth, storage and handling"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bhowmik, Pankaj Kumar (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Matsui, Toshiyuki (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suzuki, Haruo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kosugi, Yusuke (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alam, A.K.M. Shameem (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Enriquez, Fabio Gimena (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100353",
+	"dct:identifier":"FI2016100353",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effect of temperature during growth, storage, and handling on the fiber content of harvested green asparagus (Asparagus officinalis L. cvs. TE215 and KA979) was studied. Spears were harvested every month starting from March to October from greenhouse cultivation and the fiber content was measured rheologically by measuring the breaking force to shear the spears. The fiber content decreased until August in both cultivars and after that it started to increase. The effect of harvesting season on breaking force seemed to be dependent on temperature during the growing period. A highly significant negative correlation was found between temperature during the growing period and fiber content and the correlation between soil temperature and breaking force was superior to the correlations determined for air temperature and breaking force. Temperature during postharvest storage and handling appeared to have considerable effect on breaking force. Asparagus stored at 1°C gave lower breaking force readings than that stored at 25°C. The spears stored at 20°C with butts in water had the lowest breaking force values. The fiber content of the spears increased more when they were transferred to 25°C and the increase was maximum in the spears stored for 14 days at 1°C. There were no specific relationships between average monthly temperature during growing period and breaking force to shear asparagus spears under different storage conditions."}
+	}}

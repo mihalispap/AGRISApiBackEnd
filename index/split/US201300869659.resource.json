@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of cytokinin and calcium on cut flower quality in rose (Rosa hybrida L.) cv. Illona"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869659",
+	"dct:identifier":"US201300869659",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a28.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mortazavi, N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naderi, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khalighi, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Babalar, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Allizadeh, H. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Cuttings of rose cultivar Illona were grown in pots and treated with different levels of cytokinin (0, 0.1, 1 and 10 µmol/l) and calcium (0, 10, 20 and 30 mmol/l). Cut flowers were harvested and kept in the distilled water and under laboratory conditions. The cytokinin and calcium application decreased senescence percentage and electrolyte leakage and increased activity of anti-oxidant enzymes, catalase and peroxidase. The effects of cytokinin and calcium on relative water content and total protein content in cut flowers of rose cultivar Illona were not significant respectively. The highest level of cytokinin and calcium increased the permanence and quality of cut flowers more effectively than the other treatments."}
+	}}

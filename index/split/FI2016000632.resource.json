@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of precooling delay on the quality of stored sweet corn /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vigneault, Clément.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gariépy, Yvan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Roussel, Dominique.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Goyette, Bernard.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maissi"},
+	{"value":"cooling"},
+	{"value":"carbohydrate content"},
+	{"value":"säilyvyys"},
+	{"value":"laatu"},
+	{"value":"chemical composition"},
+	{"value":"varastointi"},
+	{"value":"sweet corn"},
+	{"value":"sokerimaissi"},
+	{"value":"storage"},
+	{"value":"hiilihydraatit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000632",
+	"dct:identifier":"FI2016000632",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

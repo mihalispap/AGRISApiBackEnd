@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"On-farm evaluation of some plant extracts as biofungicide and bioinsecticide on cowpea in Southwest Nigeria /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Owolade, O. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alabi, B. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Osikanlu, Y. O. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Odeyemi, O. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant extracts"},
+	{"value":"biopestisidit"},
+	{"value":"sienitaudit"},
+	{"value":"palkokasvit"},
+	{"value":"botanical insecticides"},
+	{"value":"fungal diseases"},
+	{"value":"tuhoeläimet"},
+	{"value":"cowpeas"},
+	{"value":"uutteet"},
+	{"value":"biologinen torjunta"},
+	{"value":"botanical pesticides"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000459",
+	"dct:identifier":"FI2016000459",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

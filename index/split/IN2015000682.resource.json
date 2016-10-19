@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Anticancer polyphenols from Coconut",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":18,
+	"dc:subject":[
+		{"value":"polyphenol",
+	"xml:lang":"fre"
+	},
+	{"value":"products",
+	"xml:lang":"eng"
+	},
+	{"value":"health",
+	"xml:lang":"eng"
+	},
+	{"value":"salud",
+	"xml:lang":"esp"
+	},
+	{"value":"huile de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"sante",
+	"xml:lang":"fre"
+	},
+	{"value":"aceite de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconut oil",
+	"xml:lang":"eng"
+	},
+	{"value":"productos",
+	"xml:lang":"esp"
+	},
+	{"value":"produit",
+	"xml:lang":"fre"
+	},
+	{"value":"polifenoles",
+	"xml:lang":"esp"
+	},
+	{"value":"polyphenols",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvi",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000682",
+	"dct:identifier":"IN2015000682",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"nov2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"School of Bio Sciences, M G University, Kottayam, Kerala"
+	}
+	},
+	"bibo:issue":7
+	}}

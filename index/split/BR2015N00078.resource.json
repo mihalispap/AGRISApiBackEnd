@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"COMPOSIÇÃO E DIVERSIDADE FLORÍSTICA EM UM TRECHO DE FLORESTA DE TERRA FIRMA NO SUDOESTE DO ESTADO DO AMAPÁ, AMAZÔNIA ORIENTAL, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":31,
+	"bibo:volume":4,
+	"bibo:pageEnd":36,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00078",
+	"dct:identifier":"BR2015N00078",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/859",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wanuyze Adriana Silva da Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marcelo de Jesus Veiga Carim"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"José Renan da Silva Guimarães"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Luciedi de Cássia Leôncio Tostes"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto de Pesquisas Cientificas e Tecnológicas do Estado do Amapá"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12.0pt; font-family: \">O presente estudo apresenta os resultados do levantamento florístico de um trecho de floresta de terra firme no Sudoeste do Estado do Amapá, Amazônia Oriental, Brasil. Com objetivo de avaliar a composição florística e fitossociológica visando ações de conservação desta formação florestal. Para o levantamento fora</span><span style=\"font-size: 12.0pt; font-family: \">m distribuídas aleatoriamente 10 parcelas de 10mx100m, perfazendo um hectare inventariado. Com auxílio de fita métrica e uma haste de 6m, dividida de um em um metro, foram tomados dados de altura e DAP ≥ 10cm (Diâmetro a Altura do Peito) de todos os indivíduos arbóreos vivos. </span><span style=\"font-size: 12.0pt; font-family: \">Neste trabalho foram registrados 462 indivíduos, pertencentes a 33 famílias e 123 espécies. As espécies com maiores valores de importância (VI) foram, </span><em><span style=\"font-size: 12.0pt; font-family: \">Sclerolobium </span></em><span style=\"font-size: 12.0pt; font-family: \">sp., Geissospermum sericeum</em>, Pouteria decorticans</em>, Pentaclethra macroloba e Rinorea racemosa</em></span><span style=\"font-size: 12.0pt; font-family: \">. Na área amostrada foram encontradas espécies com grande valor comercial, entre elas podemos citar Aniba rosaedora </em>(Pau rosa)<em>, Vouacapoua americana </em>(Acapú) e Bertholethia excelsa (Castanheira) que também fazem parte da lista de espécies de populações ameaçadas (IBAMA), vale destacar que a presença dessas espécies caracteriza um bom status de conservação do ambiente</span>",
+	"xml:lang":"por"
+	}
+	}}

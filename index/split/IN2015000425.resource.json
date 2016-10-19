@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of zinc supplementation on serum levels of certain enzymes in pigs",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":202,
+	"dc:subject":[
+		{"value":"enzimas",
+	"xml:lang":"esp"
+	},
+	{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"zinc",
+	"xml:lang":"fre"
+	},
+	{"value":"enzyme",
+	"xml:lang":"fre"
+	},
+	{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"enzymes",
+	"xml:lang":"eng"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"cinc",
+	"xml:lang":"esp"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":204,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000425",
+	"dct:identifier":"IN2015000425",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Borah, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarmah, B.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakravarty, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dutta, D.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarmah, B.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohan, N.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kalita, D.3"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"An experiment was conducted to study the effect of zinc supplementation on the activities of certain serum enzymes-alkaline phosphatase (ALP), CuZn superoxide dismutase (CuZnSOD), ceruloplasmin, SGOT and SGPT in pigs. Twenty four crossbred (Hampshire X Assam Local) pigs, 4 months of age were randomly divided into 3 groups (n=8 in each). Control (C) animals were offered basal diet supplemented with AAUVETMIN (Strategic Mineral Mixer) containing 100ppm elemental zinc (NRC requirement). Treatment 1 (T1) pigs were given Calcium Carbonate @1.5% on DM basis to induce zinc deficiency in addition to the diet offered to control group. Pigs of Treatment 2 (T2) group were offered the same basal diet but supplemented with AAUVETMIN containing 500ppm elemental zinc. The serum ALP and CuZnSOD activity decreased significantly (P0.01) in T1 group from day 15 (18.49 Â± 0.51KAU/100 ml and 29.67 Â± 0.68U/mgHb) of treatment but increased significantly (P0.01) in T2 group from day 15 (20.39 Â± 0.58 51KAU/100ml and 32.32 Â± 1.09 U/mgHb) till day 120 (28.91 Â± 0.27 KAU/100ml and 53.32 Â± 0.95 U/mgHb) respectively. Serum levels of ceruloplasmin ranged between 85.15Â±1.86/ig/100ml and 87.11 Â± 1.35 Âµg/100ml but did not differ significantly. SGOT and SGPT concentration increased significantly (P0.01) in T2 group from day 30 (47.14 Â± 1.09 U/L and 43.02 Â± 1.50U/L) and day 45 (50.59 Â± 1.27 U/L and 44.33 Â± 1.62 U/L) respectively. The SGPT concentration in T1 group decreased significantly (P0.01) from day 75 (41.35 Â± 0.29 U/L) onwards but no alteration was observed in T1 group.",
+	"xml:lang":"eng"
+	}
+	}}

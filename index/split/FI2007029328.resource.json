@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil profile of logged-over forest reserve in Okeluse, Ondo State, Nigeria."},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029328",
+	"dct:identifier":"FI2007029328",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/e3.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Olufemi, B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ikulamberu, R.A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effects of logging activities on soil nutrient contents in Okeluse Forest Reserve of Ondo State were studied. Soil sampling for the determination of soil physical and chemical properties was carried out in both logged-over and relatively undisturbed areas. Each of the soil profiles was examined at three horizons of 0–15 cm, 15– 30 cm and 30–45 cm. Coarse and fine sand contents decrease with soil depth. Phosphorus and potassium concentrations were significantly different among the treatments while calcium and magnesium were not significantly different among the treatments (P<0.05)."}
+	}}

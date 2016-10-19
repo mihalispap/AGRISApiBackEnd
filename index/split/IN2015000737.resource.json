@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Promising latex timber clones of Hevea brasiliensis evolved by ortet selection",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":364,
+	"dc:subject":[
+		{"value":"ortet selection"},
+	{"value":"timber yielders"},
+	{"value":"latex-timber-clones"},
+	{"value":"hevea brasiliensis",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":372,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000737",
+	"dct:identifier":"IN2015000737",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mercykutty, V.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meenakumari, T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kavitha K. Mydin"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"On the basis of systematic screening of large seedling population of mature trees originated from Tjir 1 seeds and planted in 552 ha during 1961 at Plantation Corporation of Kerala, seventy-five elite trees were initially selected for a detailed study. Forty two ortets were finally selected based on yield, girth and yield per unit length of tapping cut, of which, thirty-nine ortets  were cloned and evaluated in two small scale trials with one set of 27 clones and another set of 16 clones in a randomized block design with three replications. The check clones were RRII 105 and RRIM 600 in both the trials for comparison. Clonal performance was evaluated till eight years of tapping. The criteria for evaluation were yield, yield components, girth and secondary attributes. Timber yield was estimated at the 15th year of planting in terms of clear bole volume. Significant clonal variation for the traits resulted in selection of promising latex-timber clones and promising timber yielders. Three clones viz. KnO 39, KnO 36, KnO 49 recorded a mean yield of 55.25 g t-1 t-1, 53.38 g t-1 t-1  and 55.97 g t-1 t-1 respectively and they were showing higher yield comparable to that of RRII 105 with 50.54 g t-1 t-1. Theseclones appear to be promising latex-timber clones as they had recorded significantly high bole volume and possess desirable secondary characters also. Seventeen clones were promising timber yielders as evident from the higher clear bole volume. The superiority of ortets with respect to specific traits is discussed in detail with emphasis to three promising selections based on latex and timber yield.",
+	"xml:lang":"eng"
+	}
+	}}

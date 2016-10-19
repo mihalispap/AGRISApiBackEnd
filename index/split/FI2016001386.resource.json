@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Unmanned aerial system imagery and photogrammetric canopy height data in area-based estimation of forest variables.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"height"},
+	{"value":"canopy"},
+	{"value":"unmanned aerial system"},
+	{"value":"UAV"},
+	{"value":"forest inventories"},
+	{"value":"photogrammetric surface model"},
+	{"value":"metsänarviointi"},
+	{"value":"aerial photography"},
+	{"value":"photogrammetry"},
+	{"value":"canopy height model"},
+	{"value":"aerial imagery"}
+	],
+	"bibo:doi":"10.14214/sf.1348",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001386",
+	"dct:identifier":"FI2016001386",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1348",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tuominen, Sakari,
+    kirjoittaja
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Balazs, Andras,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saari, Heikki,
+    kirjoittaja.
+    Teknologian tutkimuskeskus VTT
+    VTT
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pölönen, Ilkka,
+    kirjoittaja.
+    Jyväskylän yliopisto
+    1906
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sarkeala, Janne,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Viitala, Risto,
+    kirjoittaja.
+    Hämeen ammattikorkeakoulu
+    2467
+  "
+	}
+	}
+	]
+	}}

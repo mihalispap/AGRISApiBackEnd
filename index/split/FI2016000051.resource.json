@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"QTL analysis for cold resistance-related traits in Brassica napus using RAPD markers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Asghari, Ali.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohammadi, Seied Abolgasem.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moghaddam, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohammaddoost, Hamid Reza.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"chromosomes"},
+	{"value":"cold tolerance"},
+	{"value":"genetic polymorphism"},
+	{"value":"quantitative trait loci"},
+	{"value":"Brassica napus"},
+	{"value":"genomics"},
+	{"value":"genetic markers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000051",
+	"dct:identifier":"FI2016000051",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

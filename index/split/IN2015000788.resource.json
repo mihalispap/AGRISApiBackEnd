@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Design and model of a successful Farmer Producer Organization",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":11,
+	"dc:subject":[
+		{"value":"PRODUCER COMPANIES"},
+	{"value":"cooperatives",
+	"xml:lang":"eng"
+	},
+	{"value":"organizations",
+	"xml:lang":"eng"
+	},
+	{"value":"organizaciones",
+	"xml:lang":"esp"
+	},
+	{"value":"cooperativas",
+	"xml:lang":"esp"
+	},
+	{"value":"cooperative",
+	"xml:lang":"fre"
+	},
+	{"value":"organisation",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":13,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000788",
+	"dct:identifier":"IN2015000788",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jul2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Minu Sagar"
+	}
+	},
+	"bibo:issue":3
+	}}

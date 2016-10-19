@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of cattle manure application on pod yield and yield indices of okra (Abelmoschus esculentus L. Moench) in a semi-arid sub-tropical environment"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025531",
+	"dct:identifier":"FI2005025531",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a2.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ogunlela, Vincent B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Masarirambi, Michael T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Makuza, Stanley M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effects of cattle manure rate and time of application on okra yield and yield indices were studied at Harare, Zimbabwe during two cropping seasons (2000-2002). The treatments were factorial combinations of four cattle manure rates (0, 6, 12 and 18 t ha-¹) and two application timings (4 and 8 weeks after planting). The experiment was a randomized complete block design with four replications. Both cumulative green pod count and yield were increased by manure application up to 12 t ha-¹ in 2000 and 6 t ha-¹ in 2001. Yield values for the best manure rates were 131 and 123% of those for the control in 2000 and 2001 respectively. Average green pod weight and length were increased by manure application in one year only (2000). Application of manure 6 t ha-¹ gave the highest dry pod weight while 12 t ha -¹ produced the highest weight of seeds pod -¹. Parameters were generally not influenced by time of manure application or rate x timing interaction. Leaf Ca was slightly higher for earlier applied manure and for 6 and 12 t ha-¹ than for no manure or 18 t ha-¹. Pod N was also slightly higher for earlier manure application than for the later application. The best manure rate would vary with manure quality. However, application of manure 6 t ha-¹ as early as possible in the cropping season appears to be best for okra production in semi-arid Zimbabwe."}
+	}}

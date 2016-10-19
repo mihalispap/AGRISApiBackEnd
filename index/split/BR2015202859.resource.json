@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Effect of hydrocolloid type on physiochemical properties of nonfat drinkable yogurt fermented with ropy and non-ropy yogurt cultures",
+	"xml:lang":"eng"
+	},
+	{"value":"   Efeito do tipo de hidrocolóide sobre as propriedades físico-químicas de iogurte desnatado bebivel fermentados com culturas de iogurte viscosos e não viscosos ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"rheology",
+	"xml:lang":"eng"
+	},
+	{"value":"stabilizers",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202859",
+	"dct:identifier":"BR2015202859",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/514/270",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Saad Gad Ahmed"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hassan Salah Mohamad Sahar"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Department of Dairy Science, National Research Center, Dokki, Cairo, Egypt"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Department of Dairy Science, National Research Center, Dokki, Cairo, Egypt"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Iogurte bebível é definido como um iogurte à base de produtos lácteos, que é potável na forma líquida e pode ou não incluir fruta ou aroma de fruta. Alterações de paladar podem ocorrer por condições de processamento, fermentos e seleção estabilizadora. Esta pesquisa investigou o efeito do tipo de hidrocolóide (gelatina, carboximetilcelulose ou alta pectina metoxi) sobre as características sensoriais e propriedades reológicas de iogurtes bebíveis fermentados com culturasde iogurte não viscoso e viscoso. Os resultados demonstraram que o iogurte potável estabilizado com gelatina fermentado com culturas não viscoso e viscoso tinham significativamente maior teor de acidez e proteína. Iogurte estabilizado com gelatina foi os iogurtes mais grossas com a falta de separação de soro e teve um efeito positivo significativo sobre as características sensoriais. Iogurtebebível estabilizado com carboximetilcelulose (CMC) provou ser completamente inaceitável como um estabilizador para a bebida de iogurte. Uma melhor compreensão dos fatores que contribuem para os atributos físicos e estruturais podem favorecer os fabricantes a melhorar a qualidade do iogurte.",
+	"xml:lang":"por"
+	},
+	{"value":"Drinkable yogurt is defined as a dairy-based yogurt that is drinkable in a liquid form and may or may not include fruit or fruit flavoring. Mouthfeel defects may be affected by processing conditions, starter cultures and stabilizer selection. This research was investigated the effect of hydrocolloid type (gelatin, carboxymethylcellulose or high methoxy pectin) on the sensory characteristics andrheological properties of drinkable yogurts fermented with nonropy and ropy yogurt cultures. The results demonstrated that gelatin-stabilized drinkable yogurt fermented with nonropy and ropy cultures had significantly higher acidity and protein content. Yogurt stabilized with gelatin was the thickest yogurts with lack of whey separation and had a positive significant effect on the sensory characteristics. Drinkable yogurt stabilized with carboxymethylcellulose (CMC) proved to be completely unacceptable as a stabilizer for the yogurt drink. A better understanding of factors contributing to the physical and structural attributes may allow manufacturers to improve the quality of yogurt.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

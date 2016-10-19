@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Thinning effects on jack pine and black spruce photosynthesis in eastern boreal forests of Canada.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Goudiaby, Venceslas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Brais, Suzanne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grenier, Yvon.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Berninger, Frank.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"thinning"},
+	{"value":"Picea mariana"},
+	{"value":"Pinus banksiana"},
+	{"value":"light"},
+	{"value":"nitrogen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001652",
+	"dct:identifier":"FI2016001652",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

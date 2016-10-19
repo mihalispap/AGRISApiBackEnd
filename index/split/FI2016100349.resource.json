@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Incidence of verocytotoxin (Shiga-like toxin) producing Escherichia coli 0157:H7 isolated from diarrhoeal patients and its health implication"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ngbede, J. E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jideani, I. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agbo, E. B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100349",
+	"dct:identifier":"FI2016100349",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Diarrhoeal disease in developing countries is caused by an increasing long list of bacteria, viral and parasitic enteropathogens. Escherichia coli is a type of bacteria present in all animal gut, but some strains cause diarrhoeal disease. There has been considerable progress during recent years regarding the role of toxins in diarrhoeal diseases. Enterohaemorrhagic E. coli (EHEC) is known to produce verocytotoxin (VT) which inhibits protein synthesis and cause endothelial damage of small blood vessels leading to local intravascular coagulation and fibrin deposition in central nervous system (CNS), gut and kidney resulting in severe illness. The aim of this study was to determine the incidence of verocytotoxin produced by E. coli 0157:H7 isolated from diarrhoeal patients and its health implication. During the study period, 850 diarrhoeal specimens were analysed using sorbitol MacConkey agar, latex agglutination test and antiserum-sorbitol fermentation medium. Of these specimens 26 (3.1%) were found to be infected with E. coli 0157:H7 among other enteropathogens. The E. coli 0157:H7 isolates were analysed for presence of verocytotoxin using standard VTEC-RPLA assay. VT-1 was detected from 3/26 (11.5%), VT-2 from 17/26 (65.4%) and VT-1 and VT-2 from 6/26 (23.1%) of isolates. We recommend that hospital laboratories should consider performing stool culture for verocytoxoxin producing E. coli (VTEC), especially serotype 0157:H7, either routinely or on selected patients to avoid the severe consequences of toxins produced by this strain of E. coli."}
+	}}

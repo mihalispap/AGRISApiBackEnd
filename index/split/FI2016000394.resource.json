@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relationships between climatic variables and tree-ring width of European beech and European larch growing outside of their natural distribution area.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"Larix decidua Mill."},
+	{"value":"wood"},
+	{"value":"Larix decidua"},
+	{"value":"climatic factors"},
+	{"value":"Fagus sylvatica"},
+	{"value":"Fagus sylvatica L."},
+	{"value":"Latvia"},
+	{"value":"introduced species"},
+	{"value":"wood increment"},
+	{"value":"climatic limitation"},
+	{"value":"growth"}
+	],
+	"bibo:doi":"10.14214/sf.1255",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000394",
+	"dct:identifier":"FI2016000394",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1255",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jansons, Ãris,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Matisons, Roberts,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Purina, Lïga,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Neimane, Una,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jansons, Jãnis,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

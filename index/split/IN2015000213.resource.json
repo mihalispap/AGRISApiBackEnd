@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of insecticides and natural products against Citrus leaf miner in Acid lime",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":30,
+	"dc:subject":[
+		{"value":"phyllocnistis citrella",
+	"xml:lang":"esp"
+	},
+	{"value":"citrus aurantiifolia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":32,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000213",
+	"dct:identifier":"IN2015000213",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Patil, S.K."
+	}
+	},
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The results revealed that two sprays of imidacloprid (0.005%) or thiodicarb (0.075%) or acephate (0.1125%) at 15 days interval just after initiation new flush was found to be most effective in reducing the citrus leaf miner infestation (14.9 to 18.8%) with significantly higher fruit yield (12.78 to 13.44 t/ha) and B:C ratio (1:2.21 to 1:2.64). Among the natural products, alternate spray of NSKE (5%) with thiamethoxam (0.0025%) was significantly superior in reduction of infestation (21.4%) and higher fruit yield (12.33 t/ha with B:C ratio of 1:1.94) as against NSKE 5% (11.48 t/ha with B:C ratio 1:1.45).",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of African oil palm germplasm for drought tolerance",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":170,
+	"dc:subject":[
+		{"value":"tolerance",
+	"xml:lang":"fre"
+	},
+	{"value":"oil palms",
+	"xml:lang":"eng"
+	},
+	{"value":"palmier oleifere",
+	"xml:lang":"fre"
+	},
+	{"value":"secheresse",
+	"xml:lang":"fre"
+	},
+	{"value":"genotipos",
+	"xml:lang":"esp"
+	},
+	{"value":"tolerancia",
+	"xml:lang":"esp"
+	},
+	{"value":"genotypes",
+	"xml:lang":"eng"
+	},
+	{"value":"genotype",
+	"xml:lang":"fre"
+	},
+	{"value":"sequia",
+	"xml:lang":"esp"
+	},
+	{"value":"palmas oleaginosas",
+	"xml:lang":"esp"
+	},
+	{"value":"drought",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":174,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000813",
+	"dct:identifier":"IN2015000813",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sanjeevraddi G. Reddi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patil, D.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maheswarappa, H.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arulraj, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mastana Reddy, B.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandravathi, B."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

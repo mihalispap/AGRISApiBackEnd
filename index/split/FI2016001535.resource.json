@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The role of earthworms in humus formation on grassland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Makulec, Grzegorz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kusinska, Alina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Lumbricus rubellus"},
+	{"value":"maaperäeläimistö"},
+	{"value":"Aporrectodea caliginosa"},
+	{"value":"soil biology"},
+	{"value":"organic matter"},
+	{"value":"Aporrectodea"},
+	{"value":"maaperäeliöstö"},
+	{"value":"grasses"},
+	{"value":"soil fauna"},
+	{"value":"humus"},
+	{"value":"Lumbricidae"},
+	{"value":"maaperä"},
+	{"value":"Poland"},
+	{"value":"carbon"},
+	{"value":"grasslands"},
+	{"value":"nurmet"},
+	{"value":"Lumbricus"},
+	{"value":"soil"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    International Colloquium on Soil Zoology
+    (11 :
+    1992 :
+    Jyväskylä)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001535",
+	"dct:identifier":"FI2016001535",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

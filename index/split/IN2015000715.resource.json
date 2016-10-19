@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pollachi farmers fix the price of tender coconut",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":31,
+	"dc:subject":[
+		{"value":"Tender coconut"},
+	{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"price fixing",
+	"xml:lang":"eng"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"fixation des prix",
+	"xml:lang":"fre"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"fijacion de precios",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":32,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000715",
+	"dct:identifier":"IN2015000715",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jan2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Sasi Kumar, C."
+	}
+	},
+	"bibo:issue":9
+	}}

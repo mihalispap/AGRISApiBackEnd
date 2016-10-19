@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/51469/16766",
+	"dct:language":"eng",
+	"dct:title":{"value":"Boron fertilisation of organically managed grass-clover swards on coarse-textured soils : effects on botanical and element composition.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Linse, Lisbeth,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dahlin, Sigrun,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nadeau, Elisabet,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Forkman, Johannes,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Öborn, Ingrid,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"deficiencies"},
+	{"value":"makroravinteet"},
+	{"value":"seosnurmet"},
+	{"value":"boori"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"grasses"},
+	{"value":"nutrients"},
+	{"value":"palkokasvit"},
+	{"value":"organic agriculture"},
+	{"value":"dairy farms"},
+	{"value":"nurmisäilörehu"},
+	{"value":"lannoitus"},
+	{"value":"boron"},
+	{"value":"feed composition"},
+	{"value":"legumes"},
+	{"value":"lypsykarjatilat"},
+	{"value":"kasvinravinteet"},
+	{"value":"mixed pastures"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000158",
+	"dct:identifier":"FI2016000158",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

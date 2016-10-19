@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Risk factors for prolonged estrus in crossbred dairy cattle",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":20,
+	"dc:subject":[
+		{"value":"trouble de la reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"cuerpo luteo",
+	"xml:lang":"esp"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"trastornos de la reproduccion",
+	"xml:lang":"esp"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"risk factors",
+	"xml:lang":"eng"
+	},
+	{"value":"factores de riesgofactores de riesgo",
+	"xml:lang":"esp"
+	},
+	{"value":"reproductive disorders",
+	"xml:lang":"eng"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"corpus luteum",
+	"xml:lang":"eng"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	},
+	{"value":"corps jaune",
+	"xml:lang":"fre"
+	},
+	{"value":"facteur de risquefacteur de risque",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":23,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000449",
+	"dct:identifier":"IN2015000449",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jagir Singh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghuman, S.P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Honparkhe, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dadarwal, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhaliwal, G.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study involving 40 crossbred dairy cattle from various private dairy farms in Punjab assessed various risk factors associated with prolonged duration of estrus (63.30Â±2.5 h). About 62.5% cattle had regressed corpus luteum (CL) at estrus, 17.5% cattle were over-conditioned and 30% had daily milk yield 30L. Mean duration of estrus in 60% cattle was 52.5Â±1.2 h, whereas, remaining 40% exhibited 79.5Â±2.87 h duration. Plasma progesterone at estrus in the former group was 0.48Â±0.04 ng/ml compared to 0.59Â±0.04 ng/ml in the latter group. In both these groups, duration of estrus was not influenced by body condition score (BCS) and regressed CL at estrus. About 75.7% cattle with normal BCS exhibited regressed CL at estrus. Moreover, 75% cattle with 19.11Â±1.30 litre per day milk yield had regressed CL at estrus in comparison to 33.3% cattle producing 39.67Â±1.98 litre. Plasma progesterone on the day of estrus was similar in cattle either with or without regressed CL. Luteal deficiency during the phase subsequent to prolonged estrus was recorded in 72.5% cattle. About 40% cattle without regressed CL and 92% cattle with regressed CL at estrus exhibited subsequent luteal inadequacy. About 70% cattle had per day milk yield 30 litre and 82% of these exhibited luteal deficiency at subsequent estrus. In brief, plasma progesterone at estrus is associated with prolonged duration of estrus. Regressed CL may not be the source of suprabasal plasma progesterone, but could be responsible for subsequent luteal inadequacy. High milk yield is associated and over-conditioning is not associated with occurrence of regressed CL at estrus, prolonged duration of estrus and subsequent luteal deficiency.",
+	"xml:lang":"eng"
+	}
+	}}

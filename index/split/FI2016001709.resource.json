@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of annual ring orientation and drying method on deformations, casehardening and colour of silver birch (Betula pendula) boards.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Luostarinen, Katri.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"epämuodostumat"},
+	{"value":"wood"},
+	{"value":"kiln drying"},
+	{"value":"drying schedules"},
+	{"value":"puutavara"},
+	{"value":"puunkuivaus"},
+	{"value":"colour"},
+	{"value":"distortion"},
+	{"value":"sapwood"},
+	{"value":"Betula pendula"},
+	{"value":"dimensional stability"},
+	{"value":"rauduskoivu"},
+	{"value":"quality"},
+	{"value":"pintapuu"},
+	{"value":"wood conditioning"},
+	{"value":"vuosilustot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001709",
+	"dct:identifier":"FI2016001709",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

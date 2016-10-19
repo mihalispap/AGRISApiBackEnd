@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A comparison of two parameter prediction methods for stand structure in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Siipilehto, Jouni.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"rinnankorkeusläpimitta"},
+	{"value":"forecasting"},
+	{"value":"stand structure"},
+	{"value":"distribution"},
+	{"value":"models"},
+	{"value":"mänty"},
+	{"value":"stand characteristics"},
+	{"value":"pituus"},
+	{"value":"tunnusluvut"},
+	{"value":"Pinus sylvestris"},
+	{"value":"ennustaminen"},
+	{"value":"puuston rakenne"},
+	{"value":"Picea abies"},
+	{"value":"breast height diameter"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001615",
+	"dct:identifier":"FI2016001615",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Molecular characterization of some turfgrass cultivars using randomly amplified polymorphic DNA (RAPD) markers"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007038731",
+	"dct:identifier":"FI2007038731",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/en8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Humaid, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Motawei, M.I. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Seven turfgrass cultivars (hybrid bermudagrass “Tifdwarf, Tifway, and Tifgreen”, local bermudagrass, common bermudagrass, Paspalum, and Saint-Augustinegrass) were investigated using RAPD fingerprints as genetic marker to establish genetic identities and assess genetic diversity. From 30 primers tested, only 16 were selected as reproducible, giving 172 bands. The RAPD profiles obtained were successfully used to differentiate the genotypes. The bermudagrass hybrid (Tifdwarf) was distinguished by a 1500-bp amplification fragment produced by primer OPA-16. The 1000-bp amplification fragment produced by primer OPA-15 was absent in all cultivars except the Tifgreen. Based on the pair- wise comparison of amplification products, the genetic similarity was estimated. The seven tested turfgrass cultivars showed variation at the DNA level. Common bermudagrass was more related to other bermudagrass hybrids than local bermudagrass. Saint-Augustinegrass was quite distinct from other turfgrasses. The UPGMA cluster analysis separated seven turfgrasses into five distinct groups comprising: (i) the bermudagrass hybrids (Tifdwarf, Tifway, and Tifgreen), (ii) common bermudagrass, (iii) paspalum grass, (iv) Saint-Augustinegrass, and (v) local bermudagrass. The consensus fingerprint profile using the genetically defined RAPD markers is a useful and reliable method for establishing the genetic identities of the turfgrass cultivars. Also, the polymorphism detected and its reproducibility suggest that RAPD markers can be used successfully in turfgrass for studying the genetic diversity of cultivars."}
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Rapid assessing of water and nitrogen status in wheat flag leaves"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188192",
+	"dct:identifier":"FI2007188192",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bonfil, David J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karnieli, Arnon (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raz, Michal (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mufradi, Israel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asido, Silvia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Egozi, Haim (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hoffman, Aharon (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schmilovitch, Ze’ev (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In semiarid regions, moisture supply is the most important uncontrollable factor influencing the effects of nitrogen (N) applications on wheat yields, protein content and test weight. The major effect of increasing N is to increase protein, but excessive N encourages the crop to outgrow its moisture supply, resulting in depressed crop yields and test weights. In contrast, yield may respond to N applications under abundant moisture, but protein increases occur only at very high rates. This study tested the use of near infrared transmittance (NIRt) and near infrared reflectance (NIRr) spectrometry for monitoring water and N contents in flag leaves at heading of spring wheat growing in a semi-arid region during three growing seasons (2000 to 2002). Four optical devices were compared: Minolta’s SPAD-502 that measures transmittance at two wavelengths (650 and 940 nm); Ocean Optics’ S2000 that measures transmittance spectra (530-1100 nm); Licor’s Li-1800 spectroradiometer equipped with an external integrating sphere, that measures reflectance within the range of 400-1100 nm; and Foss NIR System’s model 5000 that measures reflectance within the NIR region (1100-2498 nm). Each set of measurements was analyzed with the Foss WinISI® II software. Leaf water and nitrogen contents were calibrated with the whole spectra, with no restriction to specific vegetation indices. It was found that the SPAD values were dependent on water supply and were not correlated to water content. Reflectance was found to be an accurate indicator of water and nitrogen contents in the flag leaf. Best results for water and nitrogen were obtained by calculating the first and second derivatives, respectively, of the reflectance spectra in the 1100-2498 nm spectral region. Calibration accuracy was high and restricted only to standard error of 4 g kg-1 for cross validation of the water content and 1.4 g kg-1 for the nitrogen content. Validation procedure resulted standard errors of prediction of 9-11 g kg-1 and 2-2.5 g kg-1 for the water content and nitrogen content respectively. By providing a new tool for precision management of growing wheat we anticipate that these results will help decision-making regarding early hay harvest or will enable grain protein concentration to be enhanced. Both of these outcomes are important for increasing farmers’ income and improving the quality of wheat yields in semi-arid regions."}
+	}}

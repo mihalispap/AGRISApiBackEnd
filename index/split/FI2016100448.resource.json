@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Fruit quality of ‘Pacific Rose’ TM apple grown under partial rootzone drying and deficit irrigation"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hooijdonk, Ben M. van (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dorji, Karma (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Behboudian, M. Hossein (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100448",
+	"dct:identifier":"FI2016100448",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Water is limited world-wide and water saving irrigation practices are essential for crops, like apple, that are grown over wide acreages and within water limited regions. In a field experiment, we investigated plant water relations, yield and fruit quality of ‘Pacific Rose’™ apple under the following irrigation treatments: commercially irrigated (CI) control, where soil was maintained near field capacity throughout the season; partial rootzone drying (PRD), where half of the irrigation volume of CI was applied to only one side of the rootzone; and no irrigation (NI), where water was withheld for the duration of the experiment. From 62 days after full bloom (DAFB), the volumetric soil water content of NI and the un- irrigated PRD side were significantly lower than CI and the irrigated PRD side. Leaf water potential of PRD was generally similar to CI throughout the season, whereas leaf water potential of NI was lower than CI from 123 DAFB. Fruit yield and quality at harvest were similar among the treatments. However, PRD and NI fruit were firmer and had less weight loss during postharvest storage. In addition to enhancement of fruit storage potential, water savings of 0.78 and 1.56 megalitres per hectare occurred for PRD and NI treatments, respectively. Both PRD and NI are suitable for humid environments similar to that of the experimental site, while PRD may also have potential to save water in arid climates."}
+	}}

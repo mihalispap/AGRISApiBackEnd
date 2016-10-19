@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Promoting integrated management practices for speargrass (Imperata cylindrica (L.) Raeusch.) in soybean, cassava and yam in Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Chilkoye, David.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ellis-Jones, Jim.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Avav, Ter-Rumun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kormawa, Patrick M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Udensi, Udensi E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tarawali, Gbassey.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nielsen, Ole K.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"control methods"},
+	{"value":"plant production"},
+	{"value":"Manihot esculenta"},
+	{"value":"plant protection"},
+	{"value":"Heteropogon contortus"},
+	{"value":"Mucuna pruriens"},
+	{"value":"Dioscorea"},
+	{"value":"Imperata cylindrica"},
+	{"value":"weeds"},
+	{"value":"Glycine max"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000145",
+	"dct:identifier":"FI2016000145",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

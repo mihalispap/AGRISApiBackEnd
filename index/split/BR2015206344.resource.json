@@ -1,0 +1,102 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Valor nutricional de resíduos da agroindústria para alimentação de ruminantes ",
+	"xml:lang":"por"
+	},
+	{"value":"Nutritional valueof byproducts from agricultural industries for feedingof ruminants",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"carbohydrates",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206344",
+	"dct:identifier":"BR2015206344",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/view/870/275",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Silva Arinalva Maria"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira Ronaldo Lopes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ribeiro Ossival Lolato"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bagaldo Adriana Regina"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bezerra Leison Rocha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carvalho Silvana Teixeira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abreu Claudilene Lima"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leão André Gustavo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Escola de Medicina Veterinária, Universidade Federal da Bahia,Salvador, BA, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Escola de Medicina Veterinária, Universidade Federal da Bahia,Salvador, BA, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Escola de Medicina Veterinária, Universidade Federal da Bahia,Salvador, BA, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Recôncavo da Bahia, Cruz das Almas, BA, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Piauí, Campus “Prof.ª Cinobelina Elvas”, Bom Jesus, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual do Oeste do Paraná, Marechal Cândido Rondon, PR, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso do Sul, Campo Grande, MS, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso, Rondonópolis, MT, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"G2 (palm kernel cake) showed very high neutral detergent fiber (NDF) content and intermediate CP content, and could be characterized as forage",
+	"xml:lang":"por"
+	},
+	{"value":"G3 (bagaço de cana-de-açúcar, fruto do licuri, resíduo de acerola, resíduo de graviola, resíduo de maracujá e resíduo de uva) apresentou nível elevado FDN com baixa concentração em PB, podendo ser caracterizado como volumoso"},
+	{"value":"This study characterized the nutritional value of byproducts for feeding of ruminants. Data were evaluated by descriptive statically analysis (means) and gathering multivariate with the establishment of six groups. Group G1 (brewery residue, sunflower cake, licuri cake, castor meal) presented highcrude protein content (CP), which could be considered as concentrate protein",
+	"xml:lang":"eng"
+	},
+	{"value":"Objetivou-se determinar o valor nutritivo de resíduos agroindustriais com potencial para alimentação de animais ruminantes. Os dados foram submetidos a análises estatísticas descritivas (médias) e multivariadas de agrupamento com estabelecimento de seis grupos. O grupo G1 (resíduo de cervejaria, torta de girassol, torta de licuri e torta de mamona) apresentou alto teor de proteína bruta (PB), podendo assim ser caracterizado como concentrado proteico"},
+	{"value":"G4 (feno de sisal, mucilagem de sisal, raspa de mandioca e resíduo de abacaxi) e G5 (resíduo de cacau) apresentaram níveis médios de FDN e alto teor de NDT, podendo ser caracterizados comovolumosos energéticos e G6 (torta de amendoim) apresentou alto teor de PB e NDT, podendo ser caracterizado como concentrado proteico e energético. O conhecimento do valor nutricional dos resíduos possibilita a sua utilização na dieta de animais de forma mais eficiente, para que possam ser utilizados como fontes estratégicas de alimentos em período crítico de escassez de volumoso, ou em substituição a alimentos tradicionais que são mais caros."},
+	{"value":"G3 (sugarcane bagasse, licuri fruit, acerola residue, graviolaresidue, yellow passion residue, grape residue) has high NDF and low CP contents, being considered also as forage. G4 (agave hay, agave mucilage, cassava scrapings, pineapple residue) and G5 (cocoa residue) presented intermediate levels of NDF content and high TDN content, which couldbe characterized as energetic forage and G6 (peanut cake) showed high levels of CP and TDN contents, being characterized as protein and energetic concentrate. The knowledge of nutritional values of the byproducts allow their efficient utilization in the diets for ruminants, so they can be used as strategic sources of feedstuffs during the critic period of scarcity of roughage or in substitution ofexpensive traditional feedstuffs."},
+	{"value":"G2 (torta de dendê) apresentou nível elevado de fibra detergente neutro (FDN) com média concentração em PB,podendo ser caracterizado como volumoso"}
+	]
+	}}

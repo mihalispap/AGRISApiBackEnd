@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A comparison of optical and direct methods for monitoring the seasonal dynamics of leaf area index in deciduous forests /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mussche, Sylvie.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Samson, Roeland.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nachtergale, Lieven.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schrijver, An De.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lemeur, Raoul.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lust, Noël.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"valo"},
+	{"value":"broadleaved forests"},
+	{"value":"Quercus robur"},
+	{"value":"säteily"},
+	{"value":"Fagus sylvatica"},
+	{"value":"tammi"},
+	{"value":"valokuvaus"},
+	{"value":"pyökki"},
+	{"value":"lehtimetsät"},
+	{"value":"Fraxinus excelsior"},
+	{"value":"saarni"},
+	{"value":"canopy"},
+	{"value":"mixed forests"},
+	{"value":"lehtipinta-ala"},
+	{"value":"leaf area index"},
+	{"value":"mittaus"},
+	{"value":"karike"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001400",
+	"dct:identifier":"FI2016001400",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

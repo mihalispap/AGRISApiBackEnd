@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Seed priming and seedling establishment of barley (Hordeum vulgare L.)"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869600",
+	"dct:identifier":"US201300869600",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a2.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abdulrahmani, B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghassemi-Golezani, K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Valizadeh, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Feizi Asl, V. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This research was designed to compare the effects of hydropriming, osmopriming (10% PEG, 20% PEG, 2.5 mM CaCl2 and 5 mM CaCl2) and nutrient priming (in ZnSO4 solutions with 10, 50 and 100 mM Zn, in KH2PO4 with 10, 50 and 100 mM P together with their combinations) on seedling vigor of barley. Laboratory tests were conducted as CR design and field experiment was carried out as RCB design at Dryland Agricultural Research Institute (DARI) in Iran. Analysis of variance of laboratory data showed that all traits such as percentages of viable seeds and germination, electrical conductivity (EC) of seed leachates, germination rate, root and shoot dry weight and seedling dry weight were significantly affected by seed priming. Nutrient priming in P solutions was superior, compared to other priming technics. This priming media improved root and shoot dry weight by 25 and 12.5% over unprimed seeds, respectively. The superior treatments in laboratory including hydropriming, 10% PEG, 5 mM CaCl2, 10 mM Zn, 50 mM P, 100 mM P, 10 mM Zn + 50 mM P and 10 mM Zn + 100 mM P solutions were applied on seeds which subsequently sown in the field. Priming treatments had significant (p≤0.05) effects on mean seedling emergence percentage and rate in the field. Maximum seedling emergence percentage and rate were achieved with 100 mM P and 10 mM Zn + 100 mM P primings, respectively. Therefore,these priming techniques could be used to improve seedling establishment of barley in the field."}
+	}}

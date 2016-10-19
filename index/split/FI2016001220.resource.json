@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Ideology and ethics : can we prescribe institutional change?.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Schlüter, Achim.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"metsäsektori"},
+	{"value":"instituutiot"},
+	{"value":"forestry sector"},
+	{"value":"organizational change"},
+	{"value":"institutional change"},
+	{"value":"ideologiat"},
+	{"value":"institutions"},
+	{"value":"economic theories"},
+	{"value":"muutos"},
+	{"value":"ideology"},
+	{"value":"metsäekonomia"},
+	{"value":"forestry"},
+	{"value":"new institutional economics"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001220",
+	"dct:identifier":"FI2016001220",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

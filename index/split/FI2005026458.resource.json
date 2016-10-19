@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Germinability, vigour and electrical conductivity changes in acceleratedly aged watermelon (Citrullus lanatus T.) seeds"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026458",
+	"dct:identifier":"FI2005026458",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Maskri, A. Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, M. Mumtaz (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Iqbal, M. Javed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abbas, Mazhar (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Changes in viability and vigour in watermelon (Citrullus lanatus T.) seeds stored at high temperature (45°C) and high relative humidity (100%) for 0, 3, 5, and 7 days were observed. Storage at 45°C and high humidity caused severe damage to seed membranes as evidenced by loss of viability and an increase in electrical conductivity (EC) values. There was a positive correlation (r² = 0.89) between germination capacity and EC measured in seeds aged acceleratedly for 7 days. Germination percentage and radicle length decreased while germination speed, time to 50% germination and electrical conductivity increased with the passage of ageing time. These differences are indicative of an increase in the proportion of deteriorated seeds and with loss of membrane integrity."}
+	}}

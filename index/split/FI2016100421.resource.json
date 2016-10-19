@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/f11.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Dietary phytates protect the rat against lead toxicity"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Cúneo, Florencia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amaya-Farfan, Jaime (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Morgano, Marcelo A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100421",
+	"dct:identifier":"FI2016100421",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Lead uptake by growing 60 days old Wistar rats from diets contaminated with 160 µg g-1 PbO added with rice bran (RB) was investigated. Eight diets based on the AIN-93 were formulated to furnish either 0, 3 or 12 mg g-1 total phytates, while controlling the amounts of insoluble fiber at either 10 or 50 g kg-1. Two additional intermediate levels of phytates in the diet were obtained by adding partly hydrolyzed bran using exogenous phytase. After four weeks of feeding, the lead contents of blood, liver, kidney and bone were determined by atomic emission spectrometry. The accumulated metal in bone, kidney and liver were inversely proportional to the quantity of phytates ingested. It was possible to isolate the effect of the phytate on the lead accumulation in femur, liver and kidney of the animals consuming RB from that of the insoluble fiber. Significant reductions (P<0.05) were observed in bone from 65 to 35 to 15 µg kg-1, in kidney from 13 to 8 to 3.4 µg kg-1 and in liver from 1.34 to 0.9 to 0.5 µg kg-1, as the phytate content rose from 0 to 3 to 12 mg g-1 of diet, respectively. Differences in blood lead were significant only between the control diet and that with the higher addition of bran. The RB even at its lowest level (3 g kg-1 phytate) showed to be an effective dietary protectant against lead absorption and uptake by the animal, suggesting that too low phytate ingestion, as is often the case with some modern diets, increases the risk of lead poisoning, even from background contamination."}
+	}}

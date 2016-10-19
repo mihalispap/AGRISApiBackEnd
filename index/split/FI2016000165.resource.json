@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Tidsmæssig overgang fra die- til vækstperiodefoder hos mink : overgangsplaner 1994 og 1995.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Clausen, Tove N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Therkildsen, Niels.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Svendsen, Anette.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"pennut"},
+	{"value":"minks"},
+	{"value":"rehut"},
+	{"value":"young animals"},
+	{"value":"furbearing animals"},
+	{"value":"ruokinta"},
+	{"value":"animal breeding"},
+	{"value":"muutokset"},
+	{"value":"minkki"},
+	{"value":"turkiseläimet"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000165",
+	"dct:identifier":"FI2016000165",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

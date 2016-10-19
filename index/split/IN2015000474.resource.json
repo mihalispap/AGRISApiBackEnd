@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Species diversity of leafhoppers and planthoppers in agroclimatic zones of Maharashtra",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":92,
+	"dc:subject":[
+		{"value":"biodiversite",
+	"xml:lang":"fre"
+	},
+	{"value":"nephotettix virescens",
+	"xml:lang":"esp"
+	},
+	{"value":"pest insects",
+	"xml:lang":"eng"
+	},
+	{"value":"biodiversity",
+	"xml:lang":"eng"
+	},
+	{"value":"insectos daninos",
+	"xml:lang":"esp"
+	},
+	{"value":"insecte nuisible",
+	"xml:lang":"fre"
+	},
+	{"value":"biodiversidad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":96,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000474",
+	"dct:identifier":"IN2015000474",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dadmal, S.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khadakkar, Suvarna S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghuge, P. A."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The biodiversity of leafhoppers and planthoppers fauna under the family Cicadellidae and Delphacidae from four agroclimatic zones of Maharashtra viz. Western Vidarbha plains (Akola), Wet South Konkan (Karjat), Northern hills Maharashtra (Dhule) and Moist Eastern Vidarbha hills (Gadchiroli) were studied during 2012-13. A total of 24 species were found under (15 cicadellids and 6 delphacids) 21 genera. These were recorded on different host plants collected manually and through light traps. Akola (Western Vidarbha Plain) had 95.62% cicadellids fauna with seven species and 4.37 % of delphacids with three species. Dhule (Northern hills Maharashtra) also had rich diversity comprising of (86.08%) cicadellids with seven species and delphacids (of 13.91%) with three species. Karjat (Wet South Konkan) emerged as hotspot for the cicadellids (49.09%) comprising of fourteen species and delphacids (50.90%) with four species. Gadchiroli (Moist Eastern Vidarbha hills) being the monocropping (rice) area had cicadellids (62.54%) with only two species and delphacids (37.46%) with dominance of Nilaparvata lugens.",
+	"xml:lang":"eng"
+	}
+	}}

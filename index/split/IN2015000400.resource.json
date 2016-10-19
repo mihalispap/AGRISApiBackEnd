@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of certain additives on in vitro maturation of goat oocytes in different culture media",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":202,
+	"dc:subject":[
+		{"value":"ovulo",
+	"xml:lang":"esp"
+	},
+	{"value":"oocyte preservation",
+	"xml:lang":"eng"
+	},
+	{"value":"conservation d'ovocyte",
+	"xml:lang":"fre"
+	},
+	{"value":"ovule",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"ova",
+	"xml:lang":"eng"
+	},
+	{"value":"conservacion de ovocitos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":206,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000400",
+	"dct:identifier":"IN2015000400",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Biswas, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka, B.C."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Goat follicular oocytes recovered by dissection of ovaries obtained from abattoir immediately after slaughter were incubated in vitro at 39Â° C for 28 h in humidified carbon -di -oxide atmosphere using Dulbecco's Phosphate Buffer Saline (DPBS) and Tissue Culture Medium-199 (TCM-199) - based culture media containing non-hormonal additives to record the extent of oocyte maturation. The incidences of metaphase I and metaphase II in oocytes were significantly (P0.05) higher in TCM-199 (58.19%, 31.08%, 61.18%, 36.47%) than in DPBS medium (39.39%, 15.15%, 41.33%, 18.67%) when both contained 1 or 3% Bovine Serum Albumin (BSA), granulosa cells and 500 Ã¬g sodium pyruvate, 125 Ã¬g sodium lactate and 200 Ã¬g heparin/ml of media. Replacing BSA with heat-inactivated 20% non-oestrous or oestrous goat serum had no significant effect on the rate of in vitro maturation (IVM) of oocytes. It was concluded that the rate of IVM of goat oocytes could be enhanced by 1 or 3% BSA, granulosa cells, sodium pyruvate (500 Ã¬g), sodium lactate (125 Ã¬g) and heparin (200 Ã¬g)/ml of medium in TCM-199.",
+	"xml:lang":"eng"
+	}
+	}}

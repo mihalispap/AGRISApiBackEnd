@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Preparation and functional properties of beverages made from moss phlox (Phlox subulata L.) leaves.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nagai, Takeshi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kawashima, Taro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suzuki, Nobutaka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tanoue, Yasuhiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kai, Norihisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nagashima, Toshio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Phlox subulata"},
+	{"value":"antioxidants"},
+	{"value":"antioksidantit"},
+	{"value":"juomat"},
+	{"value":"sammalleimu"},
+	{"value":"tee"},
+	{"value":"beverages"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"leaves"},
+	{"value":"tea"},
+	{"value":"lehti"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002137",
+	"dct:identifier":"FI2016002137",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

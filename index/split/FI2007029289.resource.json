@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of newly developed Striga lutea tolerant maize genotypes under artificial Striga infestation"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029289",
+	"dct:identifier":"FI2007029289",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Olakojo, S.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ogunbodede, B.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Makinde, J.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ogundiya, M.O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Striga is a parasitic green plant commonly found on maize, sorghum, millet and cowpea especially on nitrogen depleted soils. It reduces grain yield in susceptible host crops by 20-80%. Research efforts is therefore concentrated on development of resistant/tolerant cultivars to control Striga. Seven Striga tolerant open pollinated (OP)maize, one resistant hybrid and one susceptible maize were evaluated under artificial infestation with Striga inoculum in Temidire Eruwa, Nigeria (a Striga lutea endemic area) in year 2001, 2002 and 2003. Results from this trial showed that, year and year x variety interaction were highly significant for many of the Striga and maize agronomic traits under Striga infested and uninfested conditions. Years of evaluation were also significantly different for varietal performance with respect to maize agronomic characters with varieties such as Acr97STR syn-Y, Acr 97TZL comp 1D, STR- EV 1WD, STR.EV 1WF, Advance NCRE-STR, TZB-STR and Hybrid 9022 have been responsible for the significant differences. Advance NCRE-STR, Hybrid 9022 and Acr97STR syn-Y recorded were Striga tolerant with higher grain yields and can therefore be nominated for on-farm trial for possible release and adoption to boost maize production."}
+	}}

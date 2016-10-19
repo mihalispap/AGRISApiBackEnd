@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"National grading of quality of beef and veal carcasses in Romania according to \"EUROP\" system.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Petroman, C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Balan, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Petroman, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Orboi, M. D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Banes, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Trifu, C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marin, D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"meat quality"},
+	{"value":"beef"},
+	{"value":"classification"},
+	{"value":"grading"},
+	{"value":"quality"},
+	{"value":"Romania"},
+	{"value":"carcasses"},
+	{"value":"veal"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001966",
+	"dct:identifier":"FI2016001966",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

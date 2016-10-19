@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Screening of Aspergillus strains isolated from vineyards for pectinase production"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591961",
+	"dct:identifier":"US201301591961",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e3.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Taşkin, Evrim (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eltem, Rengin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"da Silva, Erica Simplício (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"de Souza, João Vicente Braga (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Pectin is present in walls of plant cells. Pectinases are important for food and chemical industry that processes plant material, and also juice, textile and vine industry uses pectinases. They are able to modify and cause depolymerization in pectin chains. Fungi from genus Aspergillus are one of the most important sources of these enzymes. Vineyards contain plant material in decomposition and are a special place for pectinase producers. Many works screening pectinase producers were described in literature. However, better producers have been continuously found. This paper describes a screening of Aspergillus strains isolated from vineyards for pectinase production. The fungi strains (262) were evaluated in the screening methodology that studied the diameter of the pectin hydrolysis halo and the size of the colony in an agar culture media containing pectin as the sole carbon source. Four strains were selected for fermentation experiments. Aspergillus foetidus var. pallidus Ege-K-730 and Aspergillus aculeatus Ege-K-355 presented the highest pectinase production ratio, and Aspergillus foetidus var. pallidus K-635 and Aspergillus aculeatus K-398 presented the highest colony diameter. Aspergillus carbonarius CFTRI 1047 was used as a reference strain. In submerged fermentation (SbF), the strains Ege-K-730, Ege-K-355, Ege-K-635 and CFTRI 1047 produced the highest PG (polygalacturonase) and PMG (polymethylgalacturonase) levels, however, Ege-K-730 was the faster producer. In solid state fermentation (SSF), the strains Ege-K-730, Ege-K-635, Ege-K-398 and CFTRI 1047 produced the highest PG and PMG levels. In the experimental conditions, SSF was better than SbF for pectinase production."}
+	}}

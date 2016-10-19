@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Finnish trends in phosphorus balances and soil test phosphorus /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uusitalo, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Turtola, Eila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grönroos, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kivistö, Juhani.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäntylahti, Väinö.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Turtola, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lemola, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salo, Tapio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"fertilizers"},
+	{"value":"Finland"},
+	{"value":"agriculture"},
+	{"value":"phosphorus"},
+	{"value":"soil analysis"},
+	{"value":"maaperä"},
+	{"value":"ravinnetase"},
+	{"value":"runoff"},
+	{"value":"pellot"},
+	{"value":"liukoisuus"},
+	{"value":"kasvinravinteet"},
+	{"value":"fields"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000535",
+	"dct:identifier":"FI2016000535",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

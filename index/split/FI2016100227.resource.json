@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-89.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comments about rheological effects of food hydrocolloids addition"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gómez-Díaz, Diego (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Navaza, José M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100227",
+	"dct:identifier":"FI2016100227",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The present paper summarize in global form the recent studies developed in our research group and compared with very interesting articles existent in literature related with the rheology of aqueous solutions of different food additives employed as stabilizers or thickening agents. This compounds are used in the food industry to contribute a fixed texture grade or to reach the quality request demanded by the consumers. In this way, the article tries to explain the most interesting and common procedures to characterize structural and respect the rheological behaviour, the polymers used as food additives."}
+	}}

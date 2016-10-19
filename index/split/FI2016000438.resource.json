@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Eight heuristic planning techniques applied to three increasingly difficult wildlife planning problems /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bettinger, Pete.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Graetz, David.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boston, Kevin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sessions, John.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chung, Woodam.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"forest management"},
+	{"value":"rajoitukset"},
+	{"value":"elinympäristö"},
+	{"value":"metsänkäyttö"},
+	{"value":"mallit"},
+	{"value":"eläimistö"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"wildlife"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000438",
+	"dct:identifier":"FI2016000438",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

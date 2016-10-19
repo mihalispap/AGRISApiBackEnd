@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1F42-45gmfood.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"GM food: The risk-assessment of immune hypersensitivity reactions covers more than allergenicity"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Haslberger, Alexander G. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100423",
+	"dct:identifier":"FI2016100423",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Allergenicity of genetically modified food (GM food) has become a public concern and international expert panels e.g. WHO/FAO have depicted decision trees for a rigorous assessment and testing for GM foods, especially where no history of safe use is available. The way to use patient sera for the assessment of allergenicity is still under discussion in cases of proteins where stability and protein sequences may not be conclusive or for potential new allergies. The risk assessment of immune hypersensitivity reactions induced potentially by GM food needs also to consider effects on other type of immune responses e.g. activation of specific immune cell populations. The role of antigen presenting cells of the gut is now understood to direct immune responses resulting in humoral, cellular or IgE predominant characteristics. For GM microorganisms potential effects on the immune system need to be assessed."}
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of time of harvest on the yield and sensory attributes of white yam (Dioscorea rotundata) in Southwest Nigeria /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Akinwande, Bolanle A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Asiedu, Robert.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adeyemi, Isaac A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maziya-Dixon, Busie.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"organoleptic analysis"},
+	{"value":"taste (sensation)"},
+	{"value":"harvesting date"},
+	{"value":"consistency"},
+	{"value":"quality"},
+	{"value":"crop yield"},
+	{"value":"Dioscorea"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000891",
+	"dct:identifier":"FI2016000891",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

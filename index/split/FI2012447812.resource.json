@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of genetic and morphological data for inferring similarity among native Dalmatian (Croatia) grapevine cultivars (Vitis vinifera L.)"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2012447812",
+	"dct:identifier":"FI2012447812",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a39.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Zdunić, Goran (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pejić, Ivan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kontić, Jasminka Karoglan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vukičević, Damir (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vokurka, Aleš (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pezo, Ivan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maletić, Edi (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Sixteen native central Dalmatian grapevine cultivars were characterised at eight SSR loci and eighteen primary morphological descriptors. The present work describes for the first time twelve native Dalmatian cultivars with morphological and molecular descriptors. One pair of synonyms was determined (‘Babić’/’Rogoznička’), and the other previously assumed pair (’Crljenak Kaštelanski’/’Pribidrag’) was verified. The remaining cultivars showed unique SSR genotype and seemed to be different from any other previously described Croatian cultivars. The results of SSR characterisation suggested the possibility of parent-offspring relationship between ’Babić’ and ’Dobričić’ and between ’Plavac Mali’ and ’Babica’. Phenotypic relationship among cultivars based on morphological data (d-values) was determined according to original mathematical algorithm. The d-value proved to be informative and showed rather clear ability to discriminate between Dalmatian cultivars. Significant but weak correlation (r = -0.38) was observed by comparing the similarity matrices obtained from morphological and SSR data using the Mantel test."}
+	}}

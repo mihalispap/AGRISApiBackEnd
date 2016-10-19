@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of different bait additives against Bandicota bengalensis in Rice fields",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":98,
+	"dc:subject":{"value":"bandicota bengalensis",
+	"xml:lang":"esp"
+	},
+	"bibo:volume":21,
+	"bibo:pageEnd":100,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000230",
+	"dct:identifier":"IN2015000230",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Borah, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saikia, S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The results indicated that groundnut oil mixed with broken rice recorded highest bait consumption of 12.44, 14.44 and 10.77 g/day at maximum tillering, panicle initiation and milky stage, respectively in boro rice whereas in sali rice, average daily bait consumption of 13.99, 14.88 and 12.44 g was recorded at maximum tillering, panicle initiation and milk stage, respectively. Interaction effect of bait additives and crop stage revealed highest bait consumption in groundnut oil + broken rice at panicle initiation stage (14.44 &14.88 g/day) followed by groundnut oil + broken maize at panicle initiation stage (13.33 &13.99 g/day) of both boro and sali rice, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

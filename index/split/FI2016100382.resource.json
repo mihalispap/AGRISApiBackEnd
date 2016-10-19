@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e19.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Transport of atrazine through soil columns with or without switchgrass roots"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tsegaye, Teferi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Johnson, Alton (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mersie, Wondi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dennis, Samuel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Golson, Karnita (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100382",
+	"dct:identifier":"FI2016100382",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Fate and transport of atrazine in the presence of plant roots in soils is not adequately described in literature. Our objectives were to evaluate the effects of switchgrass (Panicum virgatum L.) roots on the transport of bromide and atrazine under constant pore water velocity. Two agricultural soil types, Emporia (fine loamy, siliceous, thermic Typic Hapludult) and Cullen (clayey, mixed, thermic Typic Hapludult) were used. The soils were taken from the A horizon in an area that has no history of pesticide application. Eight replicated columns (four for Emporia and four for Cullen) were used. Four columns, two of each soil type, were planted with warm season switchgrass and four other columns, two of each soil type, were left fallow. When the plants passed the tillering stage, the aboveground biomass was hand clipped from each column. A 505.6 mg Br/column tracer and 5.30 mg atrazine/column (3.0 kg /ha) were mixed with 100 g soil and uniformly applied on the surface of each column and left for 24 h to permit adsorption of atrazine onto switchgrass roots and soil. Leaching patterns differed between columns with and without switchgrass roots. The deterministic two- site/two region nonequilibrium model provided an excellent fit to all bromide and atrazine effluent curves. Switchgrass likely favored the creation of macropores that contributes to accelerated transport through the unsaturated zone, thus potentially increasing groundwater pollution. The breakthrough curves for both soils were similar; however, the early breakthrough and tailing of atrazine indicated the presence of preferential flow. Early breakthrough and long tails in the effluent curve were observed for bromide and atrazine in the presence of switchgrass roots indicating a nonequilibrium behavior. It appears that roots have not decomposed sufficiently to provide additional surface area or humus to affect binding and breakdown of atrazine."}
+	}}

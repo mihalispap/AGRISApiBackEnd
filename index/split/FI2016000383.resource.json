@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Quantification and characterisation of condensed tannin of selected indigenous browse tree species leaves of north-western Tanzania.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rubanza, Chrispinus D. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shem, Martin N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ichinohe, Toshiyoshi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fujihara, Tsutomu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Tanzania"},
+	{"value":"browse plants"},
+	{"value":"woody plants"},
+	{"value":"trees"},
+	{"value":"ruminants"},
+	{"value":"chemical composition"},
+	{"value":"leaves"},
+	{"value":"livestock"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000383",
+	"dct:identifier":"FI2016000383",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

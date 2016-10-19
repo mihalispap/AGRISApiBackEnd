@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Adaptation to changing environment in Scots pine populations across a latitudinal gradient.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Oleksyn, Jacek.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tjoelker, Mark G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Reich, Peter B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ilmastonmuutokset"},
+	{"value":"lämpötila"},
+	{"value":"mänty"},
+	{"value":"provenance"},
+	{"value":"päivänpituus"},
+	{"value":"kasvu"},
+	{"value":"climatic change"},
+	{"value":"Pinus sylvestris"},
+	{"value":"photoperiodicity"},
+	{"value":"alkuperä"},
+	{"value":"growth"},
+	{"value":"temperature"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001549",
+	"dct:identifier":"FI2016001549",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

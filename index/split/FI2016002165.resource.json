@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.970",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Du, Zhen-Yu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wang, Qing-Hua.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Xing, Shang-Jun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu, Fang-Chun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ma, Bing-Yao.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ma, Hai-Lin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu, De-Xi.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Fine root distribution, characteristics and rhizosphere soil properties in a mixed stand of Robinia pseudoacacia and Fraxinus velutina in a saline soil.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"mixed forests"},
+	{"value":"roots"},
+	{"value":"Robinia pseudoacacia"},
+	{"value":"rhizhosphere soil"},
+	{"value":"velvet ash"},
+	{"value":"fraxinus"},
+	{"value":"juuristo"},
+	{"value":"fine root"}
+	],
+	"bibo:doi":"10.14214/sf.970",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016002165",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002165",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

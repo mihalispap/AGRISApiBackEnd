@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/commentary.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Do we need quality assurance and quality control of analytical measurements in R&D laboratories?"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Mueller-Harvey, Irene (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100490",
+	"dct:identifier":"FI2016100490",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This review considers the evidence of poor data quality which has become apparent from inter-laboratory comparisons of food, feed and environmental analysis. There is clearly a need for quality assurance programmes and quality control measures for systematic (‘routine’) analysis and for analysis in research laboratories. Current good practices are summarised which will ensure that measurements are traceable and produce reliable data. High quality data will assist research efforts in all sectors of biological and environmental sciences and are essential for decision makers and regulatory authorities. Authors are encouraged to describe QC and method validation procedures to ensure research, which has been conducted well, can be recognised by others – and can hopefully also be reproduced by others."}
+	}}

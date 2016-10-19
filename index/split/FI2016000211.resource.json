@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Live-storage of Picea abies for two summers after storm felling in Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Jonsson, Maria.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"lahopuu"},
+	{"value":"kuusi"},
+	{"value":"windthrown"},
+	{"value":"tuulituhot"},
+	{"value":"postharvest decay"},
+	{"value":"sinistymä"},
+	{"value":"blue stain"},
+	{"value":"Picea abies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000211",
+	"dct:identifier":"FI2016000211",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

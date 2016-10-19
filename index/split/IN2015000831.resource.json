@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pollen fertility in cultivated and wild species of cashew",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":268,
+	"dc:subject":[
+		{"value":"POLLEN FERTILITY"},
+	{"value":"POLLEN SOURCE"},
+	{"value":"WILD SPECIES"},
+	{"value":"cashews",
+	"xml:lang":"eng"
+	},
+	{"value":"polen",
+	"xml:lang":"esp"
+	},
+	{"value":"anacardo",
+	"xml:lang":"esp"
+	},
+	{"value":"pollen",
+	"xml:lang":"fre"
+	},
+	{"value":"noix de cajou",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":271,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000831",
+	"dct:identifier":"IN2015000831",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Eradasappa, E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohana, G.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thimmappaiah"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saroj, P.L."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

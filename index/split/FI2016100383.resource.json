@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Cows milk quality in two regions in Lebanon and its effect on Baladi (local) cheese quality"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kamleh, Rabih (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tannous, Raja (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maydaa, Elias El (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100383",
+	"dct:identifier":"FI2016100383",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The main purpose of this study was to compare differences in the quality of cows’ milk and Baladi (local) cheese from two regions in Lebanon, Hermel and Kherbet Rouha, at different times of the year to observe the cows’ milk quality and the Baladi cheese quality that have not been discussed in the literature. Cow’s milk samples were taken twice a month from two milk collection centers. Principal cows milk components, fat, total nitrogen, protein, non-protein nitrogen, non-fat solids, ash, total solids, somatic cell counts and milk curd hardness were measured for eight months. Baladi cheeses were prepared monthly and cheese characteristics, pH, fat, total solids, total solids retention (TSR) and rheological characteristics were determined. The effect of locations, time of the year and their interactions on milk components and on cheese characteristics were highly significant (p< 0.01). All milk components differed significantly (p< 0.05) between the two locations and during the different times. Milks from Hermel region were higher in all milk components listed above except ash content. Moreover, the cheese characteristics differed significantly (p<0.05) between the two regions and during the different calendar dates; they were higher for cheeses made from Hermel’s milks than for Kherbet Rouha cheeses. In both regions, TSR was high during the cold period. A significant correlation (p< 0.01) has been found between the cheese total solids, cheese hardness and cheese cohesiveness."}
+	}}

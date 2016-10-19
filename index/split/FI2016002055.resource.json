@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Occupational exposure to carbosulfan applied for the management of Aceria guerreronis Keifer in coconut ecosystem /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ramasubramanian, T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuttalam, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chadrasekaran, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ramaraju, K.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"insecticides"},
+	{"value":"työturvallisuus"},
+	{"value":"coconuts"},
+	{"value":"occupational hazards"},
+	{"value":"tuhoeläimet"},
+	{"value":"pests of plants"},
+	{"value":"torjunta-aineet"},
+	{"value":"insektisidit"},
+	{"value":"carbosulfan"},
+	{"value":"kemiallinen torjunta"},
+	{"value":"Aceria guerreronis"},
+	{"value":"työtapaturmat"},
+	{"value":"chemical control"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002055",
+	"dct:identifier":"FI2016002055",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

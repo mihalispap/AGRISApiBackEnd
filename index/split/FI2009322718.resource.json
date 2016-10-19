@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of amplified fragment length polymorphism (AFLPs) analysis to plant breeding and genetics: Procedures, applications and prospects"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009322718",
+	"dct:identifier":"FI2009322718",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sorkheh, K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shiran, B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aranzana, M. J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohammadi, S. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Martínez-Gomez, P. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In the past century, various methods have been developed for the identification and characterization of prokaryotic and eukaryotic organisms at DNA level. One of these promising methods is the amplified fragment length polymorphism (AFLP) analysis. This method combines universal applicability with high powers of discrimination and reproducibility. Total genomic DNA is digested using two restriction enzymes. Double-stranded nucleotide adapters are ligated to the DNA fragments to serve as primer binding sites for PCR amplification. Primers complementary to the adapter and restriction site sequence, with additional nucleotides at the 3´-end, are used as selective agents to amplify a subset of ligated fragments. Polymorphisms are identified by the presence or absence of DNA fragments following analysis on polyacrylamide gels. An increasing number of reports describe the use of AFLP analysis for molecular characterization, phylogenetic studies, disease diagnostics, high-resolution genetic maps and positional cloning of genes of interest. This review describes the principles, advantages and disadvantages of AFLP analysis, summarizing its applications in different plant fields and the novel applications in the molecular analysis of plant DNA."}
+	}}

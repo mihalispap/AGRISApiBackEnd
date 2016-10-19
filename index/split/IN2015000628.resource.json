@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Structural modification of phloic rays in Hevea brasiliensis with reference to tapping panel dryness and stimulation",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":142,
+	"dc:subject":[
+		{"value":"phloic rays,tapping panel dryness"},
+	{"value":"ethephon",
+	"xml:lang":"fre"
+	},
+	{"value":"hevea brasiliensis",
+	"xml:lang":"esp"
+	},
+	{"value":"etefon",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":150,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000628",
+	"dct:identifier":"IN2015000628",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vinoth Thomas."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pramod, S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, K.S"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Hevea brasiliensis, the prime source of natural rubber, when tapped intensively showed the symptoms of gradual cessation of latex flow from the tapping wound and this phenomenon is termed as tapping panel dryness (TPD), leading to a number of structural deformations in the bark tissues. The unproductive bark thus formed due to TPD is subjected to ethephon stimulation resume latex flow for a period. The study was initiated to trace the structural modifications occurred in phloic rays as an alternative route for translocation under necessity. The dimension of phloic rays also showed significant variation in TPD trees in comparison with both healthy stimulated trees. A decrease in length and an increase in width of phloic rays were evident in TPD affected trees over healthy trees. Average height of ray (Âµm) in the bark of healthy, TPD affected, unaffected zone above the TPD affected area and TPD panel under ethephon was 495, 259, 416 and 285 respectively. In healthy trees, 57 per cent of the rays fall in the stratified height class of 300-500 Âµm but in TPD trees, 78 per cent of the phloic rays is having a height less than 300 Âµm. The average width of the ray measured 56.81 and 74.25 Âµm respectively for healthy and TPD trees. In healthy trees 61 per cent of the ray falls under width strata of 40-60 Âµm and in TPD trees 68 per cent is in the 60-80 and 24 per cent in 80-100 Âµm width strata. For the production of latex from unproductive bark of TPD tree on stimulation, adequate nourishments is being mobilized to the site of action by strengthening radial transport system in the affected area.",
+	"xml:lang":"eng"
+	}
+	}}

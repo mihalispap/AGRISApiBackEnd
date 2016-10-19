@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of temperatures on Life Table of Brevicoryne brassicae Linn.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":249,
+	"dc:subject":[
+		{"value":"life tables",
+	"xml:lang":"eng"
+	},
+	{"value":"table de survie",
+	"xml:lang":"fre"
+	},
+	{"value":"brevicoryne brassicae",
+	"xml:lang":"esp"
+	},
+	{"value":"tablas de mortalidad",
+	"xml:lang":"esp"
+	},
+	{"value":"temperatura",
+	"xml:lang":"esp"
+	},
+	{"value":"temperature",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":252,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000496",
+	"dct:identifier":"IN2015000496",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gupta, M.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chanu, Laishram Chitra"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Influence of six sets of temperature viz; 10, 15, 20, 25 and 30oC on the life table of Brevicoryne brassicae was studied. The demographic parameters viz; Gross reproductive rate (GRR), Net reproductive rate (Râ¬ Ã0+Ã), Innate capacity of increase (rm), Finite rate of increase (Ã«), and Weekly multiplication of population (sâ¢rm)w were 49, 25.54, 0.252, 1.284 and 5.753, respectively which was maximum when the insect was reared at 25Â°C while it was minimum of 46, 5.28, 0.082, 1.085 and 1.770, respectively reared at 15Â°C. At 20C, the gross reproductive rate, net reproductive rate, innate capacity of increase, finite rate of increase and weekly multiplication was 47.0, 16.45, 0.174, 1.19 and 3.379, respectively. The effect of temperature was also profound on the mean length of generation (Tc) of B. brassicae. The mean length of generation (Tc) and doubling time were longest at 15Â°C (20.29 &8.45, respectively) in comparison to 25Â°C which was 12.85 and 2.75, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

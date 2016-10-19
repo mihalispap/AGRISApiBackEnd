@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Salmonella occurrence in chicken eggs and environmental samples and their sero-prevalence in laying hens",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1087,
+	"dc:subject":[
+		{"value":"gallina ponedora",
+	"xml:lang":"esp"
+	},
+	{"value":"huevos",
+	"xml:lang":"esp"
+	},
+	{"value":"oeuf",
+	"xml:lang":"fre"
+	},
+	{"value":"layer chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"salmonella",
+	"xml:lang":"esp"
+	},
+	{"value":"eggs",
+	"xml:lang":"eng"
+	},
+	{"value":"poule pondeuse",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1088,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000285",
+	"dct:identifier":"IN2015000285",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Renu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yadav, A.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tripathi, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh R.P."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"A study was carried out to know the status of Salmonella occurrence in chicken eggs and poultry environment and to find their sero-prevalence in live birds in a selected poultry farm. A total of 720 samples of egg, feed, water cloacal swab and faeces of layers collected from an organized poultry farm were screened for the presence of Salmonella spp, which were isolated from 3.61% of samples. Out of 180 chicken egg, 120 from poultry feed, 120, drinking water; 120, faecal and 180 cloacal swab samples screened, Salmonella spp. were isolated from 8 (4.4%), 3 (2.5), 4 (3.3%), 3 (2.5%) and 8 (4.4%), respectively. For detecting Salmonella infected birds, the micro agglutination test with antigen of S. Typhimurium and S. Gallinarum had a sensitivity of 83.3% and 75% respectively. The prevalence of S. Typhimurium in chicken eggs and environment and their sero-positivity in live birds indicated that a good correlation existed between the sero-positivity in layer birds and their eggs.",
+	"xml:lang":"eng"
+	}
+	}}

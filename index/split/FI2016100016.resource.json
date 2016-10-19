@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Microorganisms associated with poultry faeces"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Adegunloye, D. V. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100016",
+	"dct:identifier":"FI2016100016",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Microbial analysis of poultry faeces was carried out. Two different poultry farms were sampled in Akure using standard method. Poultry faeces were collected in five days from cockerels and layers for analyses. Bacteria and fungi species were isolated from the different poultry faeces samples. The microbial load for bacteria ranged from 4.5x107  to 7.0x107 cfu/g for cockerels and layers respectively and for fungi from 5.1x106 to 8.0x106 cfu/g. Isolated bacteria included Bacillus cereus, Staphylococcus aureus, S. epidermidis and Escherichia coli. Isolated fungi included species of Aspergillus and Rhizopus."}
+	}}

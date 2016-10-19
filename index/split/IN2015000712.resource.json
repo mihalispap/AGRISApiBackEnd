@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Interplanting tender coconut varieties for better returns",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"Tender coconut"},
+	{"value":"intercropping",
+	"xml:lang":"eng"
+	},
+	{"value":"culture en melange",
+	"xml:lang":"fre"
+	},
+	{"value":"eau de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"mixed cropping",
+	"xml:lang":"eng"
+	},
+	{"value":"cultivo intercalado",
+	"xml:lang":"esp"
+	},
+	{"value":"coconut water",
+	"xml:lang":"eng"
+	},
+	{"value":"culture intercalaire",
+	"xml:lang":"fre"
+	},
+	{"value":"agua de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"cultivo mixto",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":22,
+	"bibo:volume":"lvi9)",
+	"bibo:pageEnd":24,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000712",
+	"dct:identifier":"IN2015000712",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jan2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Jnanadevan, R."
+	}
+	}
+	}}

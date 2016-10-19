@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Height distributions of Scots pine sapling stands affected by retained tree and edge stand competition.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Siipilehto, Jouni.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"säästöpuut"},
+	{"value":"percentile prediction"},
+	{"value":"Weibull function"},
+	{"value":"reunametsät"},
+	{"value":"reunavyöhyke"},
+	{"value":"seedlings"},
+	{"value":"mänty"},
+	{"value":"height distribution"},
+	{"value":"height"},
+	{"value":"pituus"},
+	{"value":"puusto"},
+	{"value":"Pinus sylvestris"},
+	{"value":"jakaumat"},
+	{"value":"retention"},
+	{"value":"matemaattiset mallit"},
+	{"value":"edge effects"},
+	{"value":"taimikot"},
+	{"value":"kilpailu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000159",
+	"dct:identifier":"FI2016000159",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

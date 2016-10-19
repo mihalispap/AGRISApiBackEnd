@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/f13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Physical characteristics and effects of processing methods on pigeon pea varieties"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fasoyiro, S.B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ajibade, S.R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saka, J.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ashaye, O. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Obatolu, V.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Farinde, E.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Afolabi, O.O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100289",
+	"dct:identifier":"FI2016100289",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Three varieties of pigeon peas (Cajanus cajan) were subjected to physical characteristics, cooking and sensory evaluation. Swelling capacity and cooking time ranged between 45.7 to 54.7% and 170–210 mins respectively. The red-brown coloured variety was the most acceptable among the varieties by sensory analysis. The effects of different processing methods were studied on the proximate, mineral and anti-nutritional factors of pigeon pea. Soaking and cooking method reduced cooking time but most of the processing methods reduced protein and mineral contents of pigeon pea. Roasted and fried seeds had higher protein, fat and ash contents than seeds from other processing methods. All processing methods significantly reduced the tannin, phytic acid and trypsin inhibitor contents of the seeds."}
+	}}

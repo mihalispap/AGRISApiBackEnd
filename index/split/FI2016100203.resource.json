@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f25.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Selection of a sweetener and the pectin metoxylation degree for the formulation of a cupuaçu (Theobroma grandiflorum) diet jelly"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sobrinho, Agostinho S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Borras, Maria R. L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza, João V. B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva, Érica S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaar, José M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100203",
+	"dct:identifier":"FI2016100203",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The aim was to define the most adequate sweetener and the pectin metoxylation degree for formulating a cupuaçu diet jelly. This study is the first one to describe a diet jelly formulation of cupuaçu. Fructose demonstrated to be a better sweetener than cyclamate/saccharin mixture in the experimental conditions. In addition to sucrose substitution, the formulation with fructose, in comparison with the conventional jelly, had 50% fewer soluble sugar. In the attributes of color, acidity, sweeteness, aroma and overall quality the sensorial analysis revealed no statistical difference between the formulations of pectin with different metoxylation degrees (31, 34 and 36%). It was considered unpleasant the texture of the formulation of pectin with 36% metoxylation degree, this formulation presented a jelly strength of 187±5 g mm-1."}
+	}}

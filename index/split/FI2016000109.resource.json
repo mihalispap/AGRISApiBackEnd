@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Cultivation of kenaf in north-east Greece.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kipriotis, Evripidis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alexopoulou, Efthimia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Papatheohari, Yolanda.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moskov, Georgi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Georgiadis, Stergios.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sato"},
+	{"value":"varieties"},
+	{"value":"kenaf"},
+	{"value":"lajikkeet"},
+	{"value":"Hibiscus cannabinus"},
+	{"value":"crop yield"},
+	{"value":"typpi"},
+	{"value":"kuiva-aine"},
+	{"value":"nitrogen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000109",
+	"dct:identifier":"FI2016000109",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

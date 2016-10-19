@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Eräiden antimikrobisten aineiden esiintyminen ja vaikutukset kalanviljelylaitosten ympäristössä : kirjallisuuskatsaus.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Wihlman, Harriet.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"antibiotics"},
+	{"value":"veterinary medicine"},
+	{"value":"varoaika"},
+	{"value":"fish culture"},
+	{"value":"dosage"},
+	{"value":"kalataudit"},
+	{"value":"farmakokinetiikka"},
+	{"value":"Scandinavia"},
+	{"value":"fish diseases"},
+	{"value":"kalat"},
+	{"value":"dosage effects"},
+	{"value":"aquaculture"},
+	{"value":"annostus"},
+	{"value":"fishes"},
+	{"value":"kalanviljely"},
+	{"value":"eläinlääkintä"},
+	{"value":"antibiootit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000120",
+	"dct:identifier":"FI2016000120",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

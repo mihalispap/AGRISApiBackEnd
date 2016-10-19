@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Industrial timberland ownership in the USA : arguments based on case studies.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Lönnstedt, Lars.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"metsäteollisuus"},
+	{"value":"price fixing"},
+	{"value":"Backward vertical integration"},
+	{"value":"pricing"},
+	{"value":"forest management"},
+	{"value":"secured supply"},
+	{"value":"ownership"},
+	{"value":"integration"},
+	{"value":"integraatio"},
+	{"value":"hinnanmuodostus"},
+	{"value":"supply"},
+	{"value":"metsänhoito"},
+	{"value":"puuhuolto"},
+	{"value":"metsänomistus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000673",
+	"dct:identifier":"FI2016000673",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

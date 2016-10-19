@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Surgical Management of Lick granuloma in a Boxer Dog",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":271,
+	"dc:subject":[
+		{"value":"operation chirurgicale",
+	"xml:lang":"fre"
+	},
+	{"value":"surgical operations",
+	"xml:lang":"eng"
+	},
+	{"value":"operaciones quirurgicas",
+	"xml:lang":"esp"
+	},
+	{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"dermatite",
+	"xml:lang":"fre"
+	},
+	{"value":"dermatitis",
+	"xml:lang":"esp"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":4,
+	"bibo:pageEnd":272,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000179",
+	"dct:identifier":"IN2015000179",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_9a9655b4"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Veterinary World (India)"},
+	"bibo:ISSN":{"value":"0972-8988"}
+	}
+	}
+	],
+	"dct:issued":"jun2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Samantara, Subharaj"
+	}
+	},
+	"bibo:issue":6,
+	"bibo:abstract":{"value":"Proper diagnosis of lick granuloma is very  difficult. Because the initiating factor is usually not  identified and because there is such a strong habit that  forms, treatment can also be very frustrating. If we approach the case in a logical way then we can be able to treat the case successfully. In this case surgical excision of the mass along with proper managemental and feeding practices made the treatment a great success.",
+	"xml:lang":"eng"
+	}
+	}}

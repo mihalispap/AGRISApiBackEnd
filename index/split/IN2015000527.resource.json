@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biochemical reaction of Tagetes spp. cultivars to Rhizoctonia solani",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":368,
+	"dc:subject":[
+		{"value":"rhizoctonia solani",
+	"xml:lang":"esp"
+	},
+	{"value":"biochemical reactions",
+	"xml:lang":"eng"
+	},
+	{"value":"reacciones bioquimicas",
+	"xml:lang":"esp"
+	},
+	{"value":"reaction biochimique",
+	"xml:lang":"fre"
+	},
+	{"value":"tagetes",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":373,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000527",
+	"dct:identifier":"IN2015000527",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khan, Mujeebur Rahman"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rizvi, Hina"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ansari, Rizwan Ali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Safiuddin"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Host reaction of three marigold cultivars of Tagetes spp. viz., Tagetes erecta cv. Yellow Dwarf, T. erecta cv. Hazara and T. patula cv. Jafri was evaluated against two inocula of Rhizoctonia solani (2 &4g colonized sorghum seeds/kg soil). The cv. Jafri and Yellow Dwarf were found susceptible to the fungus and showed stunted growth, leaf yellowing and web like blighting, especially at 4 g inoculum level. Roots of infected plants showed rotting in the form of browning of lateral roots and also the main root. The cv. Jafri was found highly susceptible with a root-rot severity of 1.2 and 2.8 (0-5 scale) and exhibited 6-27% and 8-32% decrease in the plant growth variables at 2 and 4g inocula of the fungus, respectively. The cv. Hazara expressed resistance to the fungus with 0.7 root-rot index without a significant decrease in the plant growth and chlorophyll pigments at 4 g inoculum level. The differential reaction of Tagetes cultivars was found correlated with salicylic acid (SA) and phenol contents (PC) of leaves. The two important biochemicals were synthesized by Tagetes spp. in significantly greater concentrations in response of the infection by R. solani. Moreover, the concentration of SA and PC was greatest in cv. Hazara that expressed resistance to R. solani, and lowest in cv. Jafri which was found highly susceptible to the fungus. Chlorophyll contents of leaves also showed negative relationship with root-rot index.",
+	"xml:lang":"eng"
+	}
+	}}

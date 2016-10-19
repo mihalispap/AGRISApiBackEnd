@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of coccinellid biodiversity under pesticide pressure in horticulture ecosystems",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":107,
+	"dc:subject":[
+		{"value":"plantas plaguicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"biodiversite",
+	"xml:lang":"fre"
+	},
+	{"value":"plante pesticide",
+	"xml:lang":"fre"
+	},
+	{"value":"biodiversity",
+	"xml:lang":"eng"
+	},
+	{"value":"horticulture",
+	"xml:lang":"fre"
+	},
+	{"value":"pesticide crops",
+	"xml:lang":"eng"
+	},
+	{"value":"horticultura",
+	"xml:lang":"esp"
+	},
+	{"value":"biodiversidad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":116,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000477",
+	"dct:identifier":"IN2015000477",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shah, Mohd Abas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, Akhtar Ali"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The biodiversity of predaceous coccinellids was worked out in major fruit and vegetable growing belts of Kashmir valley during the cropping season of 2011. Two locations from each district, with both pesticide-treated and pesticide-free orchards of fruit crops viz., apple, pear and cherry and vegetable fields viz., kale, knolkhol, cabbage and cauliflower were sampled for adult coccinellids. The study revealed the presence of 17 and 15 species of predaceous coccinellids in fruit and vegetable ecosystems, respectively. Less intensively cultivated crops like pear, kale and knolkhol were found to be comparatively rich in ladybeetle diversity. Higher values of biodiversity indices were noted for fruit orchards as compared to those of vegetable fields. Coccinella septempunctata, Hippodamia variegata and Adalia teraspilota turned out to be the predominant species in fruit orchards in decreasing order while A. teraspilota was noted as the predominant species in vegetable ecosystems followed by H. variegata and C. septempunctata. Pesticide treated ecosystems were found to support less number of ladybeetle species. The sprayed orchards were found to have 14 species of as compared to 17 in unsprayed ones. Similarly, only 10 species were recovered from the sprayed vegetable fields as compared to 12 from unsprayed fields. The biodiversity indices indicated appreciable effect of pesticide application on the coccinellids assemblages.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Crown envelope shape measurements and models.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rautiainen, Miina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mõttus, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stenberg, Pauline.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ervasti, Sanna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"latvusmuoto"},
+	{"value":"kuusi"},
+	{"value":"crown profile"},
+	{"value":"crown"},
+	{"value":"latvus"},
+	{"value":"kaukokartoitus"},
+	{"value":"reflectance model"},
+	{"value":"measurement"},
+	{"value":"mänty"},
+	{"value":"mallit"},
+	{"value":"Pinus sylvestris"},
+	{"value":"Picea abies"},
+	{"value":"mittausmenetelmät"},
+	{"value":"plant models"},
+	{"value":"remote sensing"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001757",
+	"dct:identifier":"FI2016001757",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

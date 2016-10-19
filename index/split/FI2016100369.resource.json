@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Morphological diversity among Indian jujube (Ziziphus mauritiana Lamk.) genotypes collected at Hisar, India"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Saran, P.L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Godara, A.K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yadav, I.S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sehrawat, S.K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lal, G. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100369",
+	"dct:identifier":"FI2016100369",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Indian Jujube (Ziziphus mauritiana Lamk.) is one of the most ancient fruit indigenous to India growing throughout the tropical, subtropical and arid region. India has accumulated a wide range of variability. Despite its importance, little systematic information is available on the genetic amelioration of Indian Jujube, especially on the magnitude of genetic diversity. Reduction in genetic variability makes a crop increasingly vulnerable to diseases and adverse climatic changes. Morphological variations among thirty five important Indian Jujube genotypes collected from different parts of India were studied at CCS Haryana Agricultural University Hisar, India, during 2004-2005. Ten morphological traits viz., yield, tree height, tree spread, stem girth, number of flowers per cyme, fruit size, fruit weight, flesh thickness, stone size and pulp stone ratio were recorded and data analyzed using Mahalanobis’s D2 statistic using Tocher’s method. All the genotypes were classified into IX distinct clusters, grouping together the less divergent genotypes. The cluster I was the largest with eight genotypes followed by cluster II and V (six genotypes each) while cluster III and VII had one genotype each. The cluster VII and IX were the most divergent with intercluster distance of 32.46 suggesting the parents for hybridization could be selected from these clusters to developing useful breeding material for jujube improvement."}
+	}}

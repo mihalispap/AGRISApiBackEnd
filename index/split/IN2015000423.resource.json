@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"An epidemiological study of canine neoplasms",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":196,
+	"dc:subject":[
+		{"value":"epidemiologie",
+	"xml:lang":"fre"
+	},
+	{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"epidemiologia",
+	"xml:lang":"esp"
+	},
+	{"value":"neoplasme",
+	"xml:lang":"fre"
+	},
+	{"value":"epidemiology",
+	"xml:lang":"eng"
+	},
+	{"value":"neoplasmas",
+	"xml:lang":"esp"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	},
+	{"value":"neoplasms",
+	"xml:lang":"eng"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":198,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000423",
+	"dct:identifier":"IN2015000423",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Babu, Praveena"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abraham, Mammen J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lalithakunjamma, C.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vijayan, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Narayanan, M.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The incidence of neoplasms among canines in Thrissur area of Kerala was studied. Samples were obtained from the canine cases presented to the University Veterinary hospitals of Mannuthy and Kokkalai as well as from the carcasses brought for post mortem examination in the Centre of Excellence in Pathology, College of Veterinary and Animal Sciences, Mannuthy during an year. Collected samples were subjected to histopathological studies for diagnosis of tumour type. Age, sex and breed of the affected animals were analyzed. Sixty one tumour cases were obtained. Sixty six per cent of the tumours were benign. Skin and soft tissue tumours were the common type observed. Maximum cases were observed in the 5 to 8 year group. Fifty eight per cent of the affected animals were females. Breed wise analysis revealed that German shepherds were the most affected.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:title":{"value":"Evaluation of Environmental Purification Service for Urban Green Space in Nanjing",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"pollution",
+	"xml:lang":"eng"
+	},
+	{"value":"pollution control",
+	"xml:lang":"eng"
+	},
+	{"value":"urban areas",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513233",
+	"dct:identifier":"IN2016513233",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=47",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wang  Zhenshan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhang Shaoliang"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wang Xuefei"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yang Yongjun"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Urban environmental pollution intensifies with the acceleration of industrialization and urbanization. Urban green space plays an important role in improving the quality of urban environment. Statistical reports from 2002 to 2013 were analysed to estimate the environmental purification value of urban green space in Nanjing by using the production cost method and substituted expenses method. Results showed that the environmental purification value of urban green space from 2002 to 2013 increased from 0.212 billion to 0.354 billion RMB, showing an increase of 0.142 billion RMB and an annual average growth rate of 14% in the past 12 years. Carbon fixation and oxygen release of urban green space ecosystems are transferable in regional space",
+	"xml:lang":"eng"
+	},
+	{"value":"hence, these services can be performed by the natural ecosystems beyond the city. However, harmful gas absorption, dust detention and noise reduction of urban green space is not transferable in space and thus must be performed by the urban ecosystem. Therefore, aside from innovating technologies for pollution-reducing and pollution-controlling, increasing green space coverage, optimizing green plant distribution structure, and enhancing urban green space management must be executed to improve the urban ecological environment."}
+	]
+	}}

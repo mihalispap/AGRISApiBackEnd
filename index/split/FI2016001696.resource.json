@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Input substitution and technological development on Finnish dairy farms for 1965-1991 : empirical application on bookkeeping dairy farms /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Ryhänen, Matti.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kulutus"},
+	{"value":"teknologinen kehitys"},
+	{"value":"farm inputs"},
+	{"value":"technological changes"},
+	{"value":"neoclassical economics"},
+	{"value":"finland"},
+	{"value":"maitotalous"},
+	{"value":"milk production"},
+	{"value":"maitotilat"},
+	{"value":"tuotannontekijät"},
+	{"value":"hinnat"},
+	{"value":"farms"},
+	{"value":"production economics"},
+	{"value":"kehittäminen"},
+	{"value":"maatilat"},
+	{"value":"käyttö"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001696",
+	"dct:identifier":"FI2016001696",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

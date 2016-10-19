@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Is the vigour of grafted tomato plants related to root characteristics?",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Oztekin, G. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Giuffrida, F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuzel, Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leonardi, C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"grafting"},
+	{"value":"Lycopersicon esculentum"},
+	{"value":"diameter"},
+	{"value":"density"},
+	{"value":"root hairs"},
+	{"value":"roots"},
+	{"value":"transpiration"},
+	{"value":"length"},
+	{"value":"dry matter"},
+	{"value":"vigour"},
+	{"value":"leaf area"},
+	{"value":"chemical composition"},
+	{"value":"tomatoes"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002047",
+	"dct:identifier":"FI2016002047",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

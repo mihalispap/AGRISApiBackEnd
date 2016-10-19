@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathology of classical swine fever in slaughtered pigs.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":136,
+	"dc:subject":[
+		{"value":"peste porcine classique",
+	"xml:lang":"fre"
+	},
+	{"value":"proceso cronico",
+	"xml:lang":"esp"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"fase aguda",
+	"xml:lang":"esp"
+	},
+	{"value":"sacrificio",
+	"xml:lang":"esp"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"swine fever",
+	"xml:lang":"eng"
+	},
+	{"value":"processus aigu",
+	"xml:lang":"fre"
+	},
+	{"value":"abattage d'animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"pathology",
+	"xml:lang":"eng"
+	},
+	{"value":"pathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"patologia",
+	"xml:lang":"esp"
+	},
+	{"value":"acute course",
+	"xml:lang":"eng"
+	},
+	{"value":"slaughtering",
+	"xml:lang":"eng"
+	},
+	{"value":"peste porcina",
+	"xml:lang":"esp"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"processus chronique",
+	"xml:lang":"fre"
+	},
+	{"value":"chronic course",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":142,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000099",
+	"dct:identifier":"IN2015000099",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rout, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saikumar, G."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The present work was conducted to study the prevalence and pathology of classical swine fever (CSF)in slaughtered pigs in Bareilly,Uttar Pradesh. Real-time PCR was used for confirmation of CSFV infection in pigs. The overall prevalence of CSF as determined by the detection of CSFV genome in tonsils from 1120pigs by real-time PCR was 7.67% (86/1120).Out of 86 positive CSF cases, 68.60% (59/86) were categorized as acute, 11.62%(10/86)as chronic and 19.76%(17/86)as clinically inapparent CSF based on standard gross lesions. All acute cases revealed typical hemorrhagic lesions and chronic cases revealed colonic button ulcers as well as pneumonic changes. Severe hemorrhages in visceral organs and marked lymphoid depletion in almost all lymphoid tissues were the most notable findings in acute and chronic CSF respectively. This paper provides a clear-cut pathological picture of CSF in slaughtered pigs that might help the field veterinarians to give a snap-shot diagnosis of the disease at an earliest.",
+	"xml:lang":"eng"
+	}
+	}}

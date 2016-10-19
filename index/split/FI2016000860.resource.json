@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"On diversity effects of alternative agricultural policy reforms in Finland : an agricultural sector modelling approach.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Miettinen, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lehtonen, Heikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hietala-Koivu, Reija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"agricultural policies"},
+	{"value":"biodiversity"},
+	{"value":"kasvinsuojeluaineet"},
+	{"value":"maisema"},
+	{"value":"biodiversiteetti"},
+	{"value":"maatalouspolitiikka"},
+	{"value":"farmland"},
+	{"value":"dremfia"},
+	{"value":"monimuotoisuus"},
+	{"value":"ravinnetase"},
+	{"value":"cultivated land"},
+	{"value":"land use"},
+	{"value":"maatalouden sektorimalli"},
+	{"value":"production possibilities"},
+	{"value":"fields"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000860",
+	"dct:identifier":"FI2016000860",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

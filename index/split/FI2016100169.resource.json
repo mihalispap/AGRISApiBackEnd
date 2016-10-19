@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of N fertilization on the vegetative growth of passion fruit (Passiflora edulis f. flavicarpa) seedlings"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Aiyelaagbe, I. O. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fagbayide, J. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Makinde, A. I. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100169",
+	"dct:identifier":"FI2016100169",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effects of N fertilization on the growth and dry matter production of juvenile-transition phase of yellow passion fruit plants were investigated in pot experiments conducted in 1996 and 2002/2003. The study covered the juvenile and transition stages of growth. In the first trial, the plants received N at rates equivalent to 30-120 kg ha-1. In the second trial, the plants received N at rates equivalent to 60-480 kg ha-1. In both trials, no N pots served as control. In the first trial, application of N 30-120 kg ha-1 had no consistent effects on the growth and dry matter accumulation by the passion fruit plants compared with control. In the second trial, the effects of N 0-120 kg ha-1 on vine length, number of leaves, leaf area, number of branches and dry matter production were similar to those observed in the earlier trial. However, application of N 240 or 480 kg ha-1 consistently significantly enhanced vine length, number of leaves, leaf area, number of branches and total dry matter accumulation of the plants. Except for number of branches, the effects of N 240 kg ha-1 on other growth parameters were often not significantly different from those of N 480 kg ha-1. Since, number of branches is positively related to fruit yield, thus N 480 kg ha-1 which produced the largest number of branches is considered the optimum N rate for the vegetative growth of yellow passion fruit during the juvenile and transition stages of growth."}
+	}}

@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors Affecting Life Time Production Traits of Ongole Cattle",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":43,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"production animale",
+	"xml:lang":"fre"
+	},
+	{"value":"correlation genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"heritability",
+	"xml:lang":"eng"
+	},
+	{"value":"produccion animal",
+	"xml:lang":"esp"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"heritabilite",
+	"xml:lang":"fre"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"heredabilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"animal production",
+	"xml:lang":"eng"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	},
+	{"value":"genetic correlation",
+	"xml:lang":"eng"
+	},
+	{"value":"correlacion genetica",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":39,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000072",
+	"dct:identifier":"IN2015000072",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Reddy, S. Sai"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, B. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vinoo, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sudhakar, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahender, M."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The data on Ongole 283 cows maintained at four farms, spread over a period of 18 years from 1985 to 2001 were analyzed. The overall least squares means for life time milk yield, herd life, productive life, milk yield per day of herd life and productive life; wet days and dry days per herd life; wet days and dry days per productive life and gestation period per herd life and productive life were 3805.88 kg, 3773.84 days, 2287.48 days, 1.00 and 1.67 kg; 32.15% and 67.85%; 53.58% and 46.41% and 39.46% and 66.54%, respectively. The effect of farm was significant on all the life time traits studied except wet days per herd life and productive life percentages. Period of birth significantly influenced all the life time production traits studied except life time milk yield and productive life. Significant influence of season of birth was observed on life time milk yield, milk yield per day of herd life and milk yield per day of productive life, while set of the bulls had no significant influence on any of the life time production traits studied. The life time performance of the animals of Lam farm was superior, followed by those of Chadalawada, Mahanandi and Chintaladevi farms. The heritabilities of life time production traits ranged from low to high. The genetic and phenotypic correlations between productive traits were positive while the traits related with dry period and gestation period showed negative Association with the traits under study.",
+	"xml:lang":"eng"
+	}
+	}}

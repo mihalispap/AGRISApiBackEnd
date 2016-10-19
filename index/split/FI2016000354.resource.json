@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors affecting the snow and wind induced damage of a montane secondary forest in northeastern China /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zhu, Jiao-jun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Li, Xiu-fen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu, Zu-gen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cao, Wei.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gonda, Yutaka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Matsuzaki, Takeshi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"stand characteristics"},
+	{"value":"mixed forests"},
+	{"value":"wind damage"},
+	{"value":"lumituhot"},
+	{"value":"metsikön rakenne"},
+	{"value":"tuulituhot"},
+	{"value":"snow"},
+	{"value":"secondary forests"},
+	{"value":"sekundaarimetsät"},
+	{"value":"plant damage"},
+	{"value":"sekametsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000354",
+	"dct:identifier":"FI2016000354",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

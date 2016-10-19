@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathogenic and morphological variations in Fusarium isolates causing post flowering stalk rot of Maize",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":48,
+	"dc:subject":[
+		{"value":"mecanismos de defensa",
+	"xml:lang":"esp"
+	},
+	{"value":"defence mechanisms",
+	"xml:lang":"eng"
+	},
+	{"value":"mais",
+	"xml:lang":"fre"
+	},
+	{"value":"mecanisme de defense",
+	"xml:lang":"fre"
+	},
+	{"value":"fusarium",
+	"xml:lang":"esp"
+	},
+	{"value":"maiz",
+	"xml:lang":"esp"
+	},
+	{"value":"maize",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":45,
+	"bibo:pageEnd":54,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000010",
+	"dct:identifier":"IN2015000010",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Mycology and Plant Pathology (India)"},
+	"bibo:ISSN":{"value":"0975-4180"}
+	}
+	},
+	"dct:issued":"mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bunker, R.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thori, H.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rawal, P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Ten isolates of Fusarium were obtained from post flowering stalk rot infected plants collected from maize fields of Udaipur districts of Rajasthan. These were showing variable disease severity on different maize cultivars. Nine isolates belonged to Fusarium moniliforme, and one isolate from Kathar was confirmed as F. oxysporum. Among these three isolates of F. moniliforme and one isolate of F. oxysporium exhibited considerable variations in cultural characteristics and size of micro and macro conidia. Isolates of F. moniliforme varied in colour from fluffy to submerged and white to dull white with slightly pinkish tinge growth and colony diameter ranged from (71.1-88.6 mm) on potato dextrose agar medium. The size of macroconidia and microconidia of F. moniliforme isolates were ranged from 2.6 x 25.5 to 3.7 x 34.1 urn and 2.5 x 7.2 to 2.8 x 8.5 urn respectively, while in F. oxysporum the size of macroconidia and microconidia was of 5.2 x 18.1 um and 3.6 x 24.7 urn respectively. Pathogenic variability among the isolates showed statistically significant (P 0.05) variations in disease severity for the host lines, isolates and also for the host line x isolates interactions. Inbred HKI 193-2-2 exhibited highly resistant (RR) reaction while HKI 164-7-4 ER-3 and Bio-9637 exhibited resistant (R) reaction against all the four isolates. Isolate from Udaipur (Fm-Ol) was most virulent and aggressive with highest mean disease score (5.0) across 35 maize inbreds evaluated. It would be desirable to evaluate and promote more new hybrids and inbreds against several races of Fusarium prevalent in different regions for stable source ofPFSR management.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Legumes in Finnish agriculture : history, present status and future prospects.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Stoddard, Frederick L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hovinen, Simo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kontturi, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindström, Kristina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nykänen, Arja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"crop rotation"},
+	{"value":"Trifolium pratense"},
+	{"value":"plant production"},
+	{"value":"palkokasvit"},
+	{"value":"faba beans"},
+	{"value":"Leguminosae"},
+	{"value":"Finland"},
+	{"value":"legumes"},
+	{"value":"nitrogen fixation"},
+	{"value":"kasvinviljely"},
+	{"value":"peas"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002228",
+	"dct:identifier":"FI2016002228",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

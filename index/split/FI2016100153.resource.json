@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a18.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors that influence coat hair length in primitive horses (Equus caballus)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Stachurska, Anna (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pięta, Mirosáaw (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jaworski, Zbigniew (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ussing, Anne P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pluta, Michal (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100153",
+	"dct:identifier":"FI2016100153",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This study was undertaken to investigate one of the adaptation mechanisms in primitive horses (Equus caballus), specifically the alterations of coat hair length, with regard to factors which influence this phenotype. Both the Polish Konik breed and the Bilgoraj population descend from the Tarpan (Equus caballus gmelini). Polish Koniks are included in the Global Strategy for the Management of Farm Animal Genetic Resources. In order to study environmental influence on hair length, the free-ranging horses in the forest reservations were compared to horses kept in stables, with limited access to pastures. 479 hair samples from the dorsal side near the withers, of 188 horses, were cut off closely to the skin and measured. Analysis of variance was used to elaborate the data. The results indicate that the primitive horses living in the East of Poland retained the ability of adapting to variable environmental conditions. The coat hair length is affected by the season of the year, the environment in which the horses are kept (stable/reservation), the geographic location of the breeding centre, as well as the horse’s age, gender and origin. The winter coat length of free-ranging horses amounts on average to 5.8 cm and is approx. 4.6 cm longer than the summer coat. The winter coat usually consists of two layers: outercoat and undercoat. The mean length of the underhairs is approx. 2.2 – 2.9 cm. The summer coat consists of outerhairs only. The stabled horses have a shorter coat, and the seasonal difference is less pronounced in this group. Foals have longer hairs than adult horses. Geldings have longer coat hairs than stallions and mares. Both kinds of hairs are longer in the Polish Koniks than in the Bilgoraj horses."}
+	}}

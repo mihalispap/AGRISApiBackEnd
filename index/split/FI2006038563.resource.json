@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The utilisation of dextrins from the thermolysis of starch with biogenic amino acids by Lactobacillus rhamnosus bacteria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038563",
+	"dct:identifier":"FI2006038563",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f27.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kapuśniak, Janusz (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tyflewska, Anna (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Dextrins resulting from roasting of equimolar blends of potato starch with one of glutamic acid (GLUA), glycine (GLC), histidine (HIS), phenylalanine (PHE), proline (PRO), and tryptophane (TRP) were tested in vitro for their potential prebiotic properties in respect to Lactobacillus rhamnosus. The water solubility and susceptibility of those dextrins to α-amylase were estimated for this purpose. Moreover influence of dextrins on growth and acidifying activity of Lactobacillus rhamnosus strain was studied. The results indicated that sparingly soluble PHE- and GLUA-dextrins could play a role of dietary fiber. The strain of Lactobacillus rhamnosus could utilize GLUA-, PHE- and TRP-dextrins as a fermentation substrate. From the point of view of it, that PHE- and GLUA-dextrins were readily digested by amylase could not play a role of prebiotics. The comparison of the results of α-amylolysis, growth of the L. rhamnosusand potentiometric tests decisively indicated that only dextrin obtained with TRP might be useful in form of dietary fiber as prebiotics."}
+	}}

@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of post-mortem time on the quality of ram cauda epididymal spermatozoa",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":174,
+	"dc:subject":[
+		{"value":"spermatozoide",
+	"xml:lang":"fre"
+	},
+	{"value":"testicule",
+	"xml:lang":"fre"
+	},
+	{"value":"spermatozoa",
+	"xml:lang":"eng"
+	},
+	{"value":"testes",
+	"xml:lang":"eng"
+	},
+	{"value":"belier",
+	"xml:lang":"fre"
+	},
+	{"value":"postmortem changes",
+	"xml:lang":"eng"
+	},
+	{"value":"morueco",
+	"xml:lang":"esp"
+	},
+	{"value":"cambios post mortem",
+	"xml:lang":"esp"
+	},
+	{"value":"rams",
+	"xml:lang":"eng"
+	},
+	{"value":"modification postmortem",
+	"xml:lang":"fre"
+	},
+	{"value":"espermatozoo",
+	"xml:lang":"esp"
+	},
+	{"value":"testiculos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":177,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000197",
+	"dct:identifier":"IN2015000197",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lone, F.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Islam, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, M.Z."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sofi, K.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, I."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A total of 36 ram testicles were collected from two local slaughter houses in Srinagar city and divided into four groups as per the post-mortem time. All the testicles were transported in normal saline and processed between 1â5 hrs (Gr I), between 6â10 hrs (Gr II), between 11â15 hrs (Gr III) and between 16â20 hrs (Gr IV) after slaughter. The mean testicular weights for group I, II, III and IV were 155.9Â±21.4, 174.5Â±13.3, 149.4Â±11.7 and 166.8Â±23.1 g, respectively and the corresponding values for cauda weight were 6.90Â±1.01, 9.13Â±0.70, 8.18Â±0.60 and 7.86Â±0.90 g. Sperm motility declined significantly from Gr I (85.0%) to Gr IV (70.56%). The sperm motility was significantly (P0.01) higher for Gr I than the other three groups. However, the difference was non-significant between Gr I and II and between Gr II and III. The mean live sperms were 92.5, 89.5, 89.67 and 83.28% for Gr I, II, III and IV, respectively. The mean intact acrosome percent also did not differ significantly between the four groups. The minor sperm abnormality percent increased non-significantly from Gr I to IV and was mainly contributed by distal cytoplasmic droplet which is considered as a normal part of sperm maturation process. Also the major sperm abnormality did not show any definite trend from Gr I to IV. In conclusion, the quality of ram cauda epididymal spermatozoa did not deteriorate even at 20 hrs after slaughter.",
+	"xml:lang":"eng"
+	}
+	}}

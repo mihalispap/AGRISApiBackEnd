@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Silagem da ponta de cana-de-açúcar com resíduos da agroindústria da mandioca ",
+	"xml:lang":"por"
+	},
+	{"value":"Sugar cane tip silage with cassava agroindustry residue",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"cassava",
+	"xml:lang":"eng"
+	},
+	{"value":"gas formulations",
+	"xml:lang":"eng"
+	},
+	{"value":"effluents",
+	"xml:lang":"eng"
+	},
+	{"value":"peel",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F00589",
+	"dct:identifier":"BR2015F00589",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1389613360.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"GARGANTINI,  O. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DAMASCENO,  J. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MACEDO,  F. A. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERREIRA,  M. C. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RAMOS, C. E. C. O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NEVES,  A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O trabalho teve como objetivo determinar os efeitos da adição dos níveis de 0, 5, 10, 15, e 20% na matéria natural, de casca de mandioca seca ao sol ou do farelo de varredura de mandioca sobre o valor nutricional da silagem de ponta de cana-de-açúcar. Para tal foram utilizados 36 silos experimentais pesados ao fechamento e após 60 dias de fermentação, antes da abertura para obtenção das perdas gasosas e por efluentes. Foram feitas amostragens para determinação dos valores de pH e composição química. Valores de matéria seca, proteína bruta, fibra em detergente neutro, fibra em detergente ácido, matéria mineral e nutrientes digestíveis totais foram determinados. Houve diferenças entre as silagens para todas as variáveis, com exceção da proteína bruta, na utilização da casca ou farelo de varredura de mandioca. Os valores de pH e produção de efluentes não foram influenciados pelo uso dos resíduos, já as perdas gasosas foram menores quando foi adicionada a casca de mandioca. Para melhorar a qualidade das silagens de ponta de cana-de-açúcar recomenda-se o uso de casca de mandioca seca ao sol ou de farelo de varredura de mandioca, ao nível de 20% na matéria natural, no ato da ensilagem."},
+	{"value":10},
+	{"value":{"value":5},
+	"xml:lang":"por"
+	},
+	{"value":"The study aimed to determine the effects of adding levels of 0",
+	"xml:lang":"eng"
+	},
+	{"value":"15 and 20% of cassava natural matter, peel dried in the sun or bran scan cassava over the nutritional value of sugarcane tip silage. To reach the proposal, 36 experimental silos were used. They were weighed at closing and after 60 days of fermentation, before opening to obtain the gas and effluent losses. Samples were collected for pH determination and chemical composition. Values of dry matter, crude protein, neutral detergent fiber, acid detergent fiber, mineral matter and total digestible nutrients were determined. There were differences between silages for all variables, except for crude protein when cassava peel or cassava bran scan was used. The pH values and effluent production were not affected by the use of the residues. However, the gas losses were lower when cassava peel was added. To improve the quality of sugar cane tip silage, it is recommended the use of cassava peel dried in the sun or cassava bran scan at the level of 20% in natural matter, upon ensilage."}
+	]
+	}}

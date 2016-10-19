@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Detection of pork in admixed meat and meat products by species-specific PCR technique",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1178,
+	"dc:subject":[
+		{"value":"adulteracion",
+	"xml:lang":"esp"
+	},
+	{"value":"adulteration",
+	"xml:lang":"fre"
+	},
+	{"value":"carne de cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"viande porcine",
+	"xml:lang":"fre"
+	},
+	{"value":"pork",
+	"xml:lang":"eng"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1181,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000297",
+	"dct:identifier":"IN2015000297",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mane, B.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mendiratta, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiwari, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, B.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhilegaokar, K.N.  ."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anjaneyulu, A.S.R"
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"The objective of this study was to detect the adulteration of pork in meat and meat products employing PCR assay. A PCR assay was successfully optimized for amplification of 263 bp DNA fragment extracted from pork using designed species-specific primer pairs based on mitochondrial 16S rRNA gene. The optimized PCR assay was subsequently validated for its specificity with DNA extracted from cattle, buffalo, sheep, goat, pig and chicken meat. The primer pair was found to be specific for pork and no cross reaction was observed with other species used in this study. Subsequently, optimized PCR assay was evaluated for its efficiency to amplify the DNA extracted from heat treated meat and meat emulsion. No adverse effect of heat treatments was found on PCR amplification of pork DNA. Thus, the developed primer pairs were found to be specific for pig.",
+	"xml:lang":"eng"
+	}
+	}}

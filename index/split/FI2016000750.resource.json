@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Three mathematical models for bucking-to-order.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Marshall, Hamish D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Murphy, Glen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boston, Kevin.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"buck-to-value"},
+	{"value":"mechanical harvesting"},
+	{"value":"harvesting"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"matemaattiset mallit"},
+	{"value":"optimal bucking"},
+	{"value":"metsäninventointi"},
+	{"value":"mechanical processing"},
+	{"value":"dynamic programming"},
+	{"value":"optimointi"},
+	{"value":"mixed integer programming"},
+	{"value":"puunkorjuu"},
+	{"value":"koneellinen korjuu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000750",
+	"dct:identifier":"FI2016000750",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

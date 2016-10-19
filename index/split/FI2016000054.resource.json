@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of different processing methods on cyanide content of garri from four cultivars of cassava.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uyoh, E. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Udensi, O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ntui, V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Urua, I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"frying"},
+	{"value":"food processing"},
+	{"value":"Manihot esculenta"},
+	{"value":"varieties"},
+	{"value":"cassava"},
+	{"value":"fermentation"},
+	{"value":"crop yield"},
+	{"value":"cyanides"},
+	{"value":"fertilizer application"},
+	{"value":"garri"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000054",
+	"dct:identifier":"FI2016000054",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

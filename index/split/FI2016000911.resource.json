@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Harvesting strategy and N fertilization influence ¹³⁴Cs uptake by forage plants.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Paasikallio, Arja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sormunen-Cristian, Riitta.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"feed grasses"},
+	{"value":"seasonal variation"},
+	{"value":"harvesting date"},
+	{"value":"crop management"},
+	{"value":"agriculture"},
+	{"value":"nitrogen fertilizers"},
+	{"value":"typpilannoitus"},
+	{"value":"heinäkasvit"},
+	{"value":"korjuuajankohta"},
+	{"value":"feed legumes"},
+	{"value":"palkokasvit"},
+	{"value":"radioactive pollutants"},
+	{"value":"sato"},
+	{"value":"cesium"},
+	{"value":"caesium"},
+	{"value":"radioaktiiviset aineet"},
+	{"value":"radioaktiivinen saastuminen"},
+	{"value":"rehukasvit"},
+	{"value":"sadon laatu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000911",
+	"dct:identifier":"FI2016000911",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

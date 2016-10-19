@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Importance Of Camel Milk And Production Potential Of Dromedary Breeds",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1173,
+	"dc:subject":[
+		{"value":"possibilite de production",
+	"xml:lang":"fre"
+	},
+	{"value":"production possibilities",
+	"xml:lang":"eng"
+	},
+	{"value":"camel milk",
+	"xml:lang":"eng"
+	},
+	{"value":"produccion potencial",
+	"xml:lang":"esp"
+	},
+	{"value":"leche de camella",
+	"xml:lang":"esp"
+	},
+	{"value":"lait de chamelle",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1177,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000296",
+	"dct:identifier":"IN2015000296",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mehta, S.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bissa, U.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patil, N.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pathak, K.M.L."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"The population of the dromedary in the country has gone down from 1.1 m to 0.5 m in last 3 decades. In recent past camel milk has been recognized as a possible tool to sustain the dromedary in situ. In this context this study was carried out in 6 Bikaneri and 4 Kachchhi camels. Two teat milking was followed. The average production from front and rear teats in the morning was 903.81Â±15.82 and 1113.31Â±18.40 ml and in the evening was 615.56Â±14.36 and 776.11Â±16.76 ml respectively. The average daily milk production pooled over breeds for the initial 16 months was 3606.31Â±64.59 ml and for rest of the months till 24 month was 2108.64Â±93.49 ml. The effect of breed was nonsignificant but that of individuals was significant. Out of 10 camels 9 continued till 16 months and the 1 camel, which discontinued giving milk in 14th month, got conceived in the 12th month of lactation. Therefore the lactation in the camels was considered to be of 16 months duration. Accordingly the average lactation yield was 3462 litres. In second phase of lactation about 58% reduction in average daily milk yield was noticed. The average daily milk production was highest in third parity (4847.09Â±40.24 ml). The peak yield was observed in the third month of lactation. The promotion of camel milk will not only conserve this threatened species of desert ecosystem but also support the life to weaker section of the society.",
+	"xml:lang":"eng"
+	}
+	}}

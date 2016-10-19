@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ASPECTOS DA ESTRUTURA POPULACIONAL DO Trachelyopterus coriaceus, AMARRA TARRAFA, VALENCIENNES, 1840 (SILURIFORMES, AUCHENIPTERIDAE) NA APA DO RIO CURIAÚ, ESTADO DO AMAPÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":100,
+	"bibo:volume":4,
+	"bibo:pageEnd":105,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00147",
+	"dct:identifier":"BR2015N00147",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/938",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Paulo Arthur de Abreu Trindade"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Júlio César Sá de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Huann Carllo Gentil Vasconcelos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Álvaro José de Almeida Pinto"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Evandro Chagas (IEC)"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p style=\"margin: 0cm; margin-bottom: .0001pt; text-align: justify;\"><span style=\"font-family: \">A espécie Trachelyopterus coriaceus</em>, conhecida popularmente como amarra tarrafa, está entre as espécies de peixes residentes da Área de Proteção Ambiental (APA) do rio Curiaú no Amapá, e apresenta-se de forma marcante no sistema rio-planície de inundação. O estudo avaliou a estrutura populacional da espécie T. coriaceus na APA do rio Curiaú, através das relações peso-comprimento, proporção sexual e estrutura da população em crescimento. A amostragem foi realizada entre Abril de 2007 e Fevereiro de 2008, levando em conta os períodos de maior e menor pluviosidade (Cheia e Seca). No total, foram coletados 45 indivíduos de T. coriaceus</em>. Os machos foram maiores que as fêmeas, entretanto as fêmeas foram mais pesadas que os machos. A espécie apresentou incremento alométrico positivo. A proporção foi de 1,14:1 (F/M). A estrutura em comprimento sazonal e bimestral demonstrou que houve um maior número de indivíduos de ambos os sexos entre as classes 70 - 80 mm. Observou-se diferença no comprimento total dos indivíduos apenas em relação aos bimestres. Fatores como temperatura, época do ano, alimentação, estádio de maturidade, sexo e períodos do ano, podem ser os causadores das diferenças nos aspectos da estrutura da população de T. coriaceus  na APA do rio Curiaú.</span>",
+	"xml:lang":"por"
+	}
+	}}

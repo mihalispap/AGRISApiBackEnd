@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":[
+		{"value":"   Características químicas e sensoriais da carne de bovinos Nelore (Bos indicus) terminados com diferentes espessuras de gordura subcutânea no Longissimus thoracis ",
+	"xml:lang":"por"
+	},
+	{"value":"Chemical and sensory meat characteristics of Nellore cattle (Bos indicus) finished with different levels of backfat thickness in the longissimus thoracis muscle",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"muscles",
+	"xml:lang":"eng"
+	},
+	{"value":"beef cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"tenderness",
+	"xml:lang":"eng"
+	},
+	{"value":"thickness",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.4",
+	"bibo:doi":"10.17523/bia.v72n4p341",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00003",
+	"dct:identifier":"BR2016F00003",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n4p341",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MALHEIROS, J. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BALDASSINI, W. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DIAS, V. A. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, J. A. II V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CURI,  R. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CHARDULO, L. A. L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O objetivo deste estudo foi avaliar o efeito da espessura de gordura subcutânea (EGS) na qualidade da carne de bovinos machos Nelore (Bos indicus), inteiros, terminados em confinamento. Setenta e dois animais foram terminados em confinamento por cerca de 100 dias. Para o presente estudo, 24 animais foram amostrados de acordo com a EGS obtida no longissimus thoracis, após o abate: 12 animais com EGS até 3,0 mm (classe EGS-3) e 12 animais com EGS maior que 6,0 mm (classe EGS-6). Foram avaliadas características químicas da carne (índice de fragmentação miofibrilar, conteúdo de lipídeos intramusculares e ácidos graxos insaturados e saturados), e características físicas da carcaça (peso da carcaça resfriada, área de olho de lombo e escore de marmorização). Adicionalmente, foram avaliadas em amostras maturadas por 21 dias, a força de cisalhamento e características sensoriais (aroma, sabor, maciez, mastigabilidade e suculência). Os valores de escore de marmorização e de conteúdo de lipídeos intramusculares foram considerados baixos para ambas as classes de EGS. As médias das características avaliadas não diferiram (P>0,05) entre as classes de EGS, com exceção dos ácidos graxos, que foi superior para o insaturado na classe EGS-6. As características sensoriais não diferiram (P>0,05) entre as classes de EGS. Foi verificado relação mais consistente entre índice de fragmentação miofibrilar e maciez, medida pela força de cisalhamento, em animais com maior EGS (classe EGS-6), comparativamente a animais com menor EGS (classe EGS-3), o que sugere possível problema de maciez em animais de carcaça mais magra. A observação de maior concentração de ácidos graxos insaturados em animais com maior EGS sugere aumento da percepção sensorial da carne, especialmente do sabor.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to evaluate the effect of backfat thickness (BFT) on the meat quality of feedlot-finished Nellore bulls (Bos indicus). Seventy-two animals were feedlot finished for about 100 days. For this study, 24 animals were sampled according to BFT in the longissimus thoracis muscle after slaughter: 12 animals with BFT up to 3.0 mm (class BFT-3) and 12 animals with BFT > 6.0 mm (class BFT-6). Chemical (myofibrillar fragmentation index, intramuscular fat content, and unsaturated and saturated fatty acids) and physical (cold carcass weight, rib eye area, and marbling score) characteristics of the meat were evaluated. Additionally, shear force and sensory characteristics (aroma, flavor, tenderness, chewiness, and juiciness) were analyzed. Marbling score and intramuscular fat content were considered low for the two BFT classes. The mean values of the characteristics studied did not differ (P>0.05) between BFT classes, except for fatty acids, with the observation of higher unsaturated fatty acid levels in the BFT-6 class. There was no difference (P>0.05) in sensory characteristics between BFT classes. The most consistent relationship was observed between the myofibrillar fragmentation index and tenderness, measured as shear force, in animals with greater BFT (BFT-6 class) compared to animals with lower BFT (BFT-3 class), suggesting possible tenderness problems in animals with a leaner carcass. The observation of a higher concentration of unsaturated fatty acids in animals with greater BFT suggests an increase in the sensory perception of meat, especially flavor.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Doses de enxofre na produção de massa seca e concentração de enxofre no capim-tanzânia e capim-tifton-85 ",
+	"xml:lang":"por"
+	},
+	{"value":"Forage mass and sulfur concentration in Panicum maximum Jacq. cv. Tanzânia and Cynodon dactylon (L.) Pers cv. Tifton-85 in response to sulphur rates",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrition",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"minerals",
+	"xml:lang":"eng"
+	},
+	{"value":"greenhouses",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01759",
+	"dct:identifier":"BR2015F01759",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1212499581.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BALIEIRO NETO,  G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CRUZ,  M. C. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERREIRA,  M. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FRACO,  A. C. B. J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NOBILE,  F. O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NASCIMENTO,  R. C."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"A capacidade de absorção e concentração de enxofre difere entre espécies classificadas num mesmo grupo de exigência nutricional. A produção de massa seca e concentração de enxofre na parte aérea do capim-tifton-85 e capim-tanzânia, foram estudadas em função da aplicação de enxofre (0, 10, 20, 30 e 40mg dm-3), em Latossolo Vermelho textura argilosa, em Jaboticabal (SP). O ensaio foi realizado em delineamento inteiramente ao acaso com quatro repetições. As produções de massa seca das espécies foram menores sem aplicação de enxofre. Houve efeito linear positivo de doses de enxofre na concentração de enxofre no capim-tifton-85 e efeito quadrático no capim-tanzânia. O capim-tifton-85 possui maior concentração de enxofre e é mais responsivo a aplicação de enxofre que o capim-tanzânia, aumentando a produção de massa seca com menor dose do nutriente.",
+	"xml:lang":"por"
+	},
+	{"value":"The absorption capacity and sulphur concentration diverges among species classified in a same group of nutritional demand. This experiment was carried to evaluate forage mass and sulphur concentration in the aerial part of Cynodon dactylon cv. Tifton-85 and Panicum maximum cv. Tanzania grasses in response to sulphur rates (0, 10, 20, 30 and 40 mg dm-3). The experimental design was completely randomized with four replications. In both species the forage mass was smaller without the sulphur. There was positive linear effect on sulphur rates in sulphur concentration on the Tifton-85 and quadratic effect on the Tanzânia. The tifton-85 grass posses larger sulphur concentration and it is more responsive the sulphur application than Tanzânia grass, increasing the production of dry mass with smaller doses of the nutrient.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

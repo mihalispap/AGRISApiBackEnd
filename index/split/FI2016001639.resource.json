@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of obstructed view on platform use in juvenile blue foxes (Alopex lagopus).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Korhonen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemelä, Paavo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hyllyt"},
+	{"value":"kettu"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"behaviour"},
+	{"value":"cages"},
+	{"value":"foxes"},
+	{"value":"sinikettu"},
+	{"value":"seinät"},
+	{"value":"pennut"},
+	{"value":"furbearing animals"},
+	{"value":"young animals"},
+	{"value":"näkyvyys"},
+	{"value":"Alopex lagopus"},
+	{"value":"häkit"},
+	{"value":"turkiseläimet"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001639",
+	"dct:identifier":"FI2016001639",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

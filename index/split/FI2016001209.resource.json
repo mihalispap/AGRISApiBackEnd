@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Weather variables in relation to development and spread of downy mildew (Peronospora destructor) in onions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Forsberg, Ann-Sofi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"sipulinnaattihome"},
+	{"value":"puutarhakasvit"},
+	{"value":"vihannekset"},
+	{"value":"leviäminen"},
+	{"value":"peronospora destructor"},
+	{"value":"disease transmission"},
+	{"value":"epidemiologia"},
+	{"value":"epidemiology"},
+	{"value":"kasvitaudit"},
+	{"value":"vegetable crops"},
+	{"value":"sienitaudit"},
+	{"value":"Allium"},
+	{"value":"sipulit"},
+	{"value":"sää"},
+	{"value":"weather"},
+	{"value":"mildews"},
+	{"value":"Sweden"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF Seminar
+    (1995 :
+    Lillehammer)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001209",
+	"dct:identifier":"FI2016001209",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Relation between soil properties and tree species composition in a Scots pine-Norway spruce stand in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Levula, Janne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ilvesniemi, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Westman, Carl Johan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maa-aines"},
+	{"value":"mänty"},
+	{"value":"kuusi"},
+	{"value":"vedenpidätyskyky"},
+	{"value":"luontainen uudistaminen"},
+	{"value":"soil water retention"},
+	{"value":"lajitekoostumus"},
+	{"value":"texture"},
+	{"value":"Pinus sylvestris"},
+	{"value":"natural regeneration"},
+	{"value":"Picea abies"},
+	{"value":"puulajikoostumus"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002001",
+	"dct:identifier":"FI2016002001",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

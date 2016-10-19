@@ -1,0 +1,98 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of different extenders on cryopreservation of Hampshire and crossbred boar semen",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":24,
+	"dc:subject":[
+		{"value":"conservacion biologica",
+	"xml:lang":"esp"
+	},
+	{"value":"conservation biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"congelation",
+	"xml:lang":"fre"
+	},
+	{"value":"semen preservation",
+	"xml:lang":"eng"
+	},
+	{"value":"verraco",
+	"xml:lang":"esp"
+	},
+	{"value":"congelacion",
+	"xml:lang":"esp"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"verrat",
+	"xml:lang":"fre"
+	},
+	{"value":"conservacion del semen",
+	"xml:lang":"esp"
+	},
+	{"value":"biological preservation",
+	"xml:lang":"eng"
+	},
+	{"value":"conservation du sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"freezing",
+	"xml:lang":"eng"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"boars",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":27,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000450",
+	"dct:identifier":"IN2015000450",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khan, M.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nath, K.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka, B.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naskar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bardoloi, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhuyan, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suresh Kumar"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The comparative efficacy of extenders, viz. LEYG (lactose egg yolk glycerol), BTSLEYG (Beltsvilli thawing solution lactose egg yolk glycerol), KEYG (Kiev egg yolk glycerol) and BTSEYG (Beltsvilli thawing solution egg yolk glycerol) were evaluated for cryopreservation of boar semen. Sperm rich fraction of ejaculates (12 each from 3 Hampshire and 3 crossbred boars) were collected by gloved-hand method using dummy sow. Ejaculates having more than 75% initial motility were taken for the study. Each ejaculate was divided in to 4 aliquots and processed with 4 different extenders using 3 h holding time and 1 h equilibration period and frozen in liquid nitrogen using 0.5 ml french medium straws. Each sample was evaluated just after collection and 24 h post-thawing for initial motility, live sperm count, acrosomal integrity and HOST reacted spermatozoa. Results revealed that out of 4 extenders, BTSLEYG was superior than LEYG, KEYG and BTSEYG in respect of post-thawing sperm motility (51.38Â±0.87 vs 46.79Â±1.15, 32.50Â±0.92, 42.71Â±0.89%), live sperm count (56.83Â±0.74 vs 55.37Â±0.96, 45.75Â±1.34, 54.83Â±0.81%), acrosomal integrity (56.83Â±0.74 vs 55.08Â±0.96, 43.37Â±0.70, 54.83Â±0.81%) and hypo-osmotic-reacted spermatozoa (43.79Â±0.83 vs 39.00Â±0.91, 36.37Â±1.01, 36.41Â±0.71%) respectively. Therefore, it may be concluded that BTSLEYG can be successfully used for cryopreservation of boar spermatozoa using 3% glycerol concentration with 3 hours holding and 1 h equilibration period.",
+	"xml:lang":"eng"
+	}
+	}}

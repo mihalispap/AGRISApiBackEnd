@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of pollen selection for moisture stress tolerance on progeny performance in sorghum"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Patil, B. S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ravikumar, R. L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Salimath, P. M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100413",
+	"dct:identifier":"FI2016100413",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In vivo pollen selection study, using 36% polyethylene glycol (PEG) as selective agent was carried out in sorghum. Two sets of thirteen and seven hybrids were produced during 1998-1999 and 1999-2000 respectively, using twelve post-rainy sorghum genotypes and three male sterile lines. Hybrids thus produced with and without pollen selection were evaluated under limited moisture condition over two seasons. During post-rainy season of 1999-2000 two sets of 13 hybrids produced during 1998-1999 and during 2000-2001, two sets of seven hybrids produced during 1999- 2000 were evaluated. The hybrids obtained through pollen selection produced significantly higher grain yield compared to hybrids obtained through control pollination in both the season. The results indicate that in vivo pollen selection using PEG as selective agent was effective in improving moisture stress tolerance of the progeny in sorghum. Further, the pollen selection also had influence on most of the component traits studied. The analysis of individual crosses indicated that pollen genotype selection was able to favour performance of the progeny. However, the pollen selection had positive effect in majority of the hybrids and the study demonstrates the transmission of the selected trait from pollen generation to progeny."}
+	}}

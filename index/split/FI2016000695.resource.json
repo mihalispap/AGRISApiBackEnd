@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"An analytical procedure for determination of sulphur species and isotopes in boreal acid sulphate soils and sediments /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Backlund, Krister.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boman, Anton.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fröjdö, Sören.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Åström, Mats.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sulphur"},
+	{"value":"acid sulphate soils"},
+	{"value":"soil types"},
+	{"value":"rikki"},
+	{"value":"isotopes"},
+	{"value":"analyysimenetelmät"},
+	{"value":"sediment"},
+	{"value":"analytical methods"},
+	{"value":"isotoopit"},
+	{"value":"sedimentit"},
+	{"value":"sulfaattimaat"},
+	{"value":"maalajit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000695",
+	"dct:identifier":"FI2016000695",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

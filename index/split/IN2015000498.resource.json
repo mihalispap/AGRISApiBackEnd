@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bio-efficacy of insecticides against Gram Pod Borer, Helicoverpa armigera (HÃ¼b.) in Chick pea",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":257,
+	"dc:subject":[
+		{"value":"insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"cicer arietinum",
+	"xml:lang":"esp"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticide",
+	"xml:lang":"fre"
+	},
+	{"value":"insecticidas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":259,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000498",
+	"dct:identifier":"IN2015000498",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, Amar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ali, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, P.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The larval population of Helicoverpa armigera was regularly monitored and treatments were applied, as and when larval population reached Economic Threshold Level i.e. 03 larvae m-1 linear row length. All the treatments were effective in controlling H. armigera. Indoxacarb 14.5 SC @ 60 g.a.i. ha-1 was effective treatment for Helicoverpa management as this resulted higher grain yield and more return based on B: C ratio. HaNPV @ 400 LE was least effective treatment compared to other new insecticide molecules, but it was on par with a conventional insecticide, endosulfan 35 EC @ 350 g.a.i. ha-1 at all stages of management",
+	"xml:lang":"eng"
+	}
+	}}

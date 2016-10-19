@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Apple fruit softening under controlled atmosphere: The potential role of cell wall enzymes"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026531",
+	"dct:identifier":"FI2005026531",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a23.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Siddiqui, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Streif, J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bangerth, F. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The fruits of apples cv. Golden Delicious were harvested at preclimacteric and climacteric stages of ripening and stored at 1°C for six months under conventional cold (Cold; 0.03% CO2 and 21% O2), controlled atmosphere (CA; 3% CO2 and 3% O2) and ultra low oxygen (ULO; 3% CO2 and 1% O2) conditions. Maximum retention of fruit firmness was observed under ULO followed by CA and cold storage conditions. The activities of both isolated and cell wall-bound preparations of polygalacturonase showed no correlation with fruit firmness. The activity of pectin methylesterase was not affected by various storage conditions. Cellulase activity could not be detected. The activity of β-D-galactosidase and the amount of soluble polyuronides in the flesh increased during storage and showed an inverse relation with fruit firmness under various storage conditions. Anion exchange chromatography on DEAE-Sephadex A-25 resin yielded only one peak of β-galactosidase activity. The above results were almost similar in preclimacteric and climacteric apples. The possible mechanism by which the storage conditions affect fruit firmness and cell wall metabolism has been discussed."}
+	}}

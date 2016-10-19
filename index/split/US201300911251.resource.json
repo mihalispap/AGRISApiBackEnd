@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Ferric reducing/antioxidant power of Maillard reaction products in model bread crusts"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911251",
+	"dct:identifier":"US201300911251",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/f11.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yilmaz, Yusuf (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akgun, F. Burcu (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Condensation reactions between amino acids (or proteins) and reducing sugars or lipid oxidation products result in Maillard reaction products (MRP), which might exhibit in vitro antioxidant activities. The objective of this study was to determine ferric reducing/antioxidant power (FRAP) of MRP in a model system of simulated bread crusts. Model bread crusts were produced by heating dough samples at 140 or 160°C for 10, 15, 20 and 30 min using an infrared moisture analyzer. Bread crusts formed at 140 and 160°C for 30 min had FRAP values of 14.52 and 36.14 µmol Trolox equivalent per 100 g dry matter, respectively. MRP from bread crusts exhibited the antioxidant activity determined by the FRAP assay. FRAP values were significantly correlated with absorbance at 420 nm, an indicator for pre-melanoidin and melanoidin formation (p<0.01), and both values increased as baking temperature increased. However, precaution is needed to take advantage of potential health benefits of MRP since the reaction destroys essential amino acids present in foods, and further steps of the reaction may lead to the formation of toxic or carcinogenic compounds like acrylamide."}
+	}}

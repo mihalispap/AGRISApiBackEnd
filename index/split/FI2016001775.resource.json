@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Microbial protein synthesis, digestion and lactation responses of cows to grass or grass-red clover silage diet supplemented with barley or oats.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vanhatalo, Aila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gäddnäs, Tomas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heikkilä, Terttu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feed cereals"},
+	{"value":"dairy cows"},
+	{"value":"animal feeding"},
+	{"value":"lypsykarja"},
+	{"value":"rehut"},
+	{"value":"milk fat"},
+	{"value":"ruokinta"},
+	{"value":"säilörehu"},
+	{"value":"milk yield"},
+	{"value":"milk protein"},
+	{"value":"rehuvilja"},
+	{"value":"lehmät"},
+	{"value":"maitotuotos"},
+	{"value":"haylage"},
+	{"value":"pötsikäyminen"},
+	{"value":"digestibility"},
+	{"value":"milk"},
+	{"value":"ravintoaineet"},
+	{"value":"rumen digestion"},
+	{"value":"nurmirehut"},
+	{"value":"ruoansulatus"},
+	{"value":"silage"},
+	{"value":"väkirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001775",
+	"dct:identifier":"FI2016001775",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

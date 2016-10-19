@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Traditional animal healthcare practices in disease prevention and control by small ruminant farmers in Oyo State, Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jegede, O. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ikani, I. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dafwang, I. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bolorunduro, P. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Annatte, A. I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"farmers"},
+	{"value":"traditional methods"},
+	{"value":"veterinary services"},
+	{"value":"disease prevention"},
+	{"value":"animal diseases"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001921",
+	"dct:identifier":"FI2016001921",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

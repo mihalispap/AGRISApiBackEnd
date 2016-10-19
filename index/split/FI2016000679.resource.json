@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nitrogen mineralization in soil in microcosms with or without bacterivorous nematodes and nematophagous mites.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Noordhuis, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Geurs, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bouwman, L. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Brussaard, Lijbert.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maaperäeläimistö"},
+	{"value":"typen kierto"},
+	{"value":"sukkulamadot"},
+	{"value":"cycling"},
+	{"value":"ankeroiset"},
+	{"value":"predators"},
+	{"value":"nitrogen"},
+	{"value":"maaperäeliöstö"},
+	{"value":"soil fauna"},
+	{"value":"punkit"},
+	{"value":"Acarina"},
+	{"value":"maaperäeläimistö populaatiodynamiikka"},
+	{"value":"maaperä"},
+	{"value":"bacteria"},
+	{"value":"mineralization"},
+	{"value":"typpi"},
+	{"value":"ravinteet"},
+	{"value":"mineralisoituminen"},
+	{"value":"luontaiset viholliset"},
+	{"value":"population dynamics"},
+	{"value":"Nematoda"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    International Colloquium on Soil Zoology
+    (11 :
+    1992 :
+    Jyväskylä)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000679",
+	"dct:identifier":"FI2016000679",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

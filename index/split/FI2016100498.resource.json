@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a8.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of molecular markers for hybrid maize (Zea mays L.) identification"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abdel-Mawgood, A. L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmed, M. M. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ali, B. A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100498",
+	"dct:identifier":"FI2016100498",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Three inbred lines of maize (L1, L2 and L3) and two F1 hybrids derived from them (H1 and H2) are used as a model system for examining the capability of molecular markers for the identification of these hybrids. Several molecular techniques, RAPD, SSR and 18s rRNA gene, were used in this study. Two primers out of five RAPD markers used in this study showed polymorphism. One of the polymorphic primers (Primer 1) was able to identify H2 hybrid from the two inbred lines involved in this hybrid. This primer showed the pattern of inheritance as expected from Mendelian inheritance. However, the same primer was not able to identify the H1, because there was one extra band in one parent that was not inherited in this hybrid. Primer 5 was able to identify the two hybrids from the pattern of bands in the inbred lines involved. The polymorphic SSR primers used in this study showed unclear pattern of inheritance of the number of repeats. Concerning the 18s rDNA no polymorphism between the inbred lines was noticed even after restriction digestion of the amplified fragment."}
+	}}

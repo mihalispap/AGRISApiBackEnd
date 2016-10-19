@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":"oct2014",
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Farm to table via world wide web-Patil &Co,Bangalore",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"farms",
+	"xml:lang":"eng"
+	},
+	{"value":"world wide web",
+	"xml:lang":"esp"
+	},
+	{"value":"explotaciones agrarias",
+	"xml:lang":"esp"
+	},
+	{"value":"exploitation agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:pageStart":13,
+	"bibo:volume":"lvii",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000838",
+	"dct:identifier":"IN2015000838",
+	"dct:type":"Summary",
+	"bibo:issue":6,
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	]
+	}}

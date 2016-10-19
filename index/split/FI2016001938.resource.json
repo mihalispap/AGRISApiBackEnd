@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The development and validation of pre-harvest inventory methodologies for timber procurement in Ireland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Nieuwenhuis, Maarten.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"simulointi"},
+	{"value":"mallit"},
+	{"value":"forest inventories"},
+	{"value":"Ireland"},
+	{"value":"metsänarviointi"},
+	{"value":"metsäninventointi"},
+	{"value":"simulation"},
+	{"value":"puunhankinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001938",
+	"dct:identifier":"FI2016001938",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

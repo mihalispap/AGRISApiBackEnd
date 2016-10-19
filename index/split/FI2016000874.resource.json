@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of nitrogen fertilization and timing of harvesting on leaf nitrate content and taste in mustard rape (Brassica juncea L. Czern).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Maereka, E. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Madkadze, R. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mashingaidze, A. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kageler, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nyakanda, C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Brassica juncea"},
+	{"value":"harvesting date"},
+	{"value":"application rates"},
+	{"value":"quality"},
+	{"value":"crop yield"},
+	{"value":"flavour"},
+	{"value":"nitrate"},
+	{"value":"fertilizer application"},
+	{"value":"soil"},
+	{"value":"organoleptic properties"},
+	{"value":"nitrogen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000874",
+	"dct:identifier":"FI2016000874",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

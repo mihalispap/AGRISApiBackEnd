@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth duration and above-ground dry-matter partitioning in oats /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"harvest index"},
+	{"value":"avena sativa"},
+	{"value":"kaura"},
+	{"value":"satokomponentit"},
+	{"value":"Avena sativa"},
+	{"value":"plant developmental stages"},
+	{"value":"biomassa"},
+	{"value":"finland"},
+	{"value":"kehitysvaiheet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001601",
+	"dct:identifier":"FI2016001601",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

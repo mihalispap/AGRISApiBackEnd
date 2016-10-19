@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of application of inorganic fertilizer and poultry manure on insect pests and yield of soybean (Glycine max L.) in the rain forest zone of Nigeria /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Umoetok, S. B. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uko, A. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Archibong, B. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ukeh, D. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Udo, I. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"Nigeria"},
+	{"value":"organic fertilizers"},
+	{"value":"crop yield"},
+	{"value":"application rates"},
+	{"value":"pest insects"},
+	{"value":"inorganic fertilizers"},
+	{"value":"fertilizer application"},
+	{"value":"Glycine max"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000033",
+	"dct:identifier":"FI2016000033",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

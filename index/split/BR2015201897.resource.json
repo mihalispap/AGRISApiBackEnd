@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Composição bromatológica e pH da silagem de diferentes frações da parte aérea da mandioca tratada com doses crescentes de óxido de cálcio ",
+	"xml:lang":"por"
+	},
+	{"value":"Chemical composition and pH silage of different fractions of the aerial parts of the cassava plant treated with increasing doses of calcium oxide",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"4/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015201897",
+	"dct:identifier":"BR2015201897",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/view/303/203",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Longhi Ricardo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Domingues Felipe"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mota Diego"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oaigen Ricardo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Calonego Juliano"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zundt Marilice"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade do Oeste Paulista"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade do Oeste Paulista"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade do Oeste Paulista"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this study was to evaluate the chemical composition and pH silage from different fractions of the aerial part of the cassava plant treated with increasing doses of calcium oxide. We used a completely randomized design with factorial 3 × 3, composed of three types of silages of different fractions of the aerial parts of the plant (1/3 above, 2/3 above and whole plant) and three doses of calcium oxide (0",
+	"xml:lang":"eng"
+	},
+	{"value":"0.5 and 1.0%). The dry matter values found for both doses of lime,as for the fraction of aerial parts showed differences (P0.05). The levels of ash and pH showed interaction between dose of lime and fractions from the ensiled aerial part (P"}
+	]
+	}}

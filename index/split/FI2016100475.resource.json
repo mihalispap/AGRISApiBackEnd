@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth and dry matter partitioning of soybean under variable nitrogen supplies and elevated CO2"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Srivastava, Avinash C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khanna, Yoginder P. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100475",
+	"dct:identifier":"FI2016100475",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This study was conducted to determine reciprocal effects of low to high doses of nitrogenous fertilizer (N30- 30 kg ha-1, N40- 40 kg ha-1, N50- 50 kg ha-1, N60- 60 kg ha-1, N70- 70 kg ha-1) and CO2 enriched environment on growth and dry matter partitioning in soybean (Glycine max (L.) Merril cv JS-335). Plants were grown from seedling emergence to maturity inside open top chambers under ambient CO2 (350±50 µmol mol-1) and elevated CO2(600±50 µmol mol-1) and analyzed at seedling, vegetative, flowering, pod forming and harvesting stages. Soybean responded to both CO2 enrichment and nitrogen supply. Plants grown under CO2 enrichment were taller and attained greater leaf area, root and shoot growth along with more dry matter at all growth stages. Growth of the plant under elevated CO2 was further enhanced with the increase in nitrogen application. However, optimum growth and yield response to soybean was obtained at 60 kg ha-1 of nitrogen instead of its recommended dose 50 kg hac-1 or low (30-40 kg hac-1) and high (70 kg hac-1) nitrogen doses. Response to high CO2 also depends upon the growth stage of the plant and it was more at vegetative and flowering stages compared to maturity stages. Our study indicates that reassessment of critical nitrogen concentration of soybean at regional and global level is needed in the present atmospheric conditions for getting maximum production under changing climate."}
+	}}

@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Nitric oxide donors inhibit calcium stimulated contraction in detrusor muscle of goat",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1208,
+	"dc:subject":[
+		{"value":"vessie",
+	"xml:lang":"fre"
+	},
+	{"value":"muscles",
+	"xml:lang":"eng"
+	},
+	{"value":"muscle",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"musculos",
+	"xml:lang":"esp"
+	},
+	{"value":"vejiga",
+	"xml:lang":"esp"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"bladder",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1211,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000323",
+	"dct:identifier":"IN2015000323",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vijayraj, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Roy, D.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka, D.K."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"The present study was undertaken to examine the role of nitric oxide on the modulation of Ca  in the urinary bladder muscles of goat. CaCl 2  (10 -5  M â 10 -2  M) induced cumulative concentration-contraction curves were generated at an increment of 0.5 log unit in isolated detrusor muscle strips in organ bath studies. SNP (sodium nitroprusside) and SINâ1(3-morpholino-sydnonimines) at a concentration of 10 -6  M and 10 -5  M were used to study the role of NO on extra cellular Ca 2+ . Results were compared with a known L-type Ca 2+  channel blocker, nifedipine (10 M). In another set of experiments, to study the role of NO on intra-cellular Ca 2+ , carbachol (CCh, 10 -4 M) induced sub-maximal contractions of detrusor tissues were produced in Ca 2+ -free EGTA containing PSS either in the absence or presence of SNP and SIN-1. The present investigation showed that NO donors SIN-1 and SNP concentration dependently shifted the concentration-contraction curves of CaCl  The NO donors also inhibited the CCh-induced contraction. Thus, it can beconcluded that SNP and SIN-1 are inhibitors of both extracellular as well as intracellular Ca in goat detrusor muscle.",
+	"xml:lang":"eng"
+	}
+	}}

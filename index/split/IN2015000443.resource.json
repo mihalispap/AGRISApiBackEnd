@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on prevalence of repeat breeding in crossbred cattle of Kashmir valley",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":306,
+	"dc:subject":[
+		{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"jammu and kashmir",
+	"xml:lang":"eng"
+	},
+	{"value":"complication de la gestation",
+	"xml:lang":"fre"
+	},
+	{"value":"complicaciones del embarazo",
+	"xml:lang":"esp"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"pregnancy complications",
+	"xml:lang":"eng"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"jammu et cachemire",
+	"xml:lang":"fre"
+	},
+	{"value":"jammu y kashmir",
+	"xml:lang":"esp"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":309,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000443",
+	"dct:identifier":"IN2015000443",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bhat, F.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhattacharyya, H.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, M.Z."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The prevalence of repeat breeding (RB) was calculated retrospectively for a period of 6 years from 2005 to 2010. The overall prevalence of RB was recorded as 28.31%. Prevalence of repeat breeding was although found to vary from 1st to 5th parity, but the difference was non-significant. However, significantly lowest prevalence was recorded at  6th (6.25%) when compared to other parities. Prevalence of RB with respect to breed, season and different years were found nonsignificant. Ovulatory disturbances (27.30%), ovarian cysts (7.89%) and metritis (18.09%) contributed as some of the major causes of repeat breeding in cattle of rural Kashmir.",
+	"xml:lang":"eng"
+	}
+	}}

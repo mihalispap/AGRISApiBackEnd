@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Chemical composition of corn and sorghum silage with inclusion of whole-plant soybeans",
+	"xml:lang":"eng"
+	},
+	{"value":"   Composição química das silagens de milho e sorgo com inclusão de planta inteira de soja ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"quality",
+	"xml:lang":"eng"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"composition",
+	"xml:lang":"eng"
+	},
+	{"value":"protein plants",
+	"xml:lang":"eng"
+	},
+	{"value":"soybeans",
+	"xml:lang":"eng"
+	},
+	{"value":"silage",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p73",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00012",
+	"dct:identifier":"BR2016F00012",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p73",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"STELLA, L. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PERIPOLLI, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PRATES, E. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BARCELLOS, J. O. J."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"This study evaluated the chemical and fermentation quality of corn and sorghum silage enriched with whole-plant soybeans. Whole soybean proportions of 75%, 50% and 25% were used for ensiling corn or sorghum. The increasing inclusion levels of whole-plant soybeans resulted in a linear increase in the dietary protein content of corn and sorghum silage and in an increase in acid detergent fiber of corn silage, while a decrease was observed in the energy content of corn silage and in neutral detergent fiber content of sorghum silage. The in vitro dry matter and organic matter digestibility did not differ between soybean inclusion levels in corn or sorghum silage. The addition of whole-plant soybeans increased the pH and N-NH3 concentration of corn and sorghum silage, but maintained the pH at acceptable levels when the inclusion level of whole soybeans was 50%. With respect to chemical composition, whole soybeans can be added to corn and sorghum silage at a proportion of up to 50%, with improvements of the final product.",
+	"xml:lang":"eng"
+	},
+	{"value":"Avaliou-se a qualidade química e fermentativa de silagens de milho e sorgo enriquecidas com planta inteira de soja. Foram utilizadas as proporções de 75%, 50% e 25% da planta de soja na ensilagem de milho ou de sorgo. Com o acréscimo do nível de inclusão da planta inteira de soja houve aumento linear no teor de proteína da dieta na silagem de milho e sorgo, e aumento no teor de fibra em detergente ácido na silagem de milho, porém houve decréscimo no teor energético da silagem de milho e do teor de fibra em detergente neutro da silagem de sorgo. Não foram observadas diferenças nos níveis de inclusão da planta de soja na ensilagem de milho e sorgo quanto à digestibilidade in vitro da matéria seca e da matéria orgânica. A adição da planta inteira de soja aumentou o pH e a concentração de N-NH3 das silagens de milho e sorgo, mas manteve o pH em níveis aceitáveis quando o nível de inclusão da planta de soja foi 50%. Sob o ponto de vista da composição química, a planta de soja pode ser adicionada em até 50% na ensilagem de milho e na ensilagem de sorgo, trazendo melhorias ao produto final.",
+	"xml:lang":"por"
+	}
+	]
+	}}

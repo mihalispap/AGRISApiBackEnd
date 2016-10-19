@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Export of suspended solids and dissolved elements from peatland areas after ditch network maintenance in south-central Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nieminen, Mika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahti, Erkki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koivusalo, Harri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mattsson, Tuija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sarkkola, Sakari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laurén, Ari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"maintenance"},
+	{"value":"forestry"},
+	{"value":"hydrochemistry"},
+	{"value":"valumavesi"},
+	{"value":"eroosio"},
+	{"value":"nutrients"},
+	{"value":"vesikemia"},
+	{"value":"kiintoaines"},
+	{"value":"kunnostusojitus"},
+	{"value":"drainage systems"},
+	{"value":"drainage water"},
+	{"value":"metsätalous"},
+	{"value":"ojitusalueet"},
+	{"value":"ravinteet"},
+	{"value":"ditching"},
+	{"value":"metsäojitus"},
+	{"value":"huuhtoutuminen"},
+	{"value":"drainage peatlands"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001356",
+	"dct:identifier":"FI2016001356",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

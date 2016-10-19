@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Variability of sugar content in potato varieties suitable for processing"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Haase, Norbert U. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Weber, Lydia (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100308",
+	"dct:identifier":"FI2016100308",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Sugar content of four potato varieties, grown at five sites over three growing seasons, was measured at harvest and after storage, to discriminate the best potato samples with respect to a low sugar content and a low sweetening reaction, to minimise the acrylamide formation. In this respect the right choice of the variety is much more important than the influence of the growing site, but growing season must be taken into consideration. Glucose and fructose content and their increase during storage were lowest in the variety Sempra, whereas sucrose was lowest in Agria."}
+	}}

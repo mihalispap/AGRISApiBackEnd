@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Mineral profile of feeds, fodders and cattle in north-eastern coastal plain zone of Odisha",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1143,
+	"dc:subject":[
+		{"value":"piensos",
+	"xml:lang":"esp"
+	},
+	{"value":"feeds",
+	"xml:lang":"eng"
+	},
+	{"value":"fourrage",
+	"xml:lang":"fre"
+	},
+	{"value":"aliment pour animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"forrajes",
+	"xml:lang":"esp"
+	},
+	{"value":"mineral content",
+	"xml:lang":"eng"
+	},
+	{"value":"orissa",
+	"xml:lang":"esp"
+	},
+	{"value":"teneur en elements mineraux",
+	"xml:lang":"fre"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"contenido mineral",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1147,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000293",
+	"dct:identifier":"IN2015000293",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jena, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra,S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Swain, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dehuri, P.K."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"Sample of feeds and fodders and serum samples of cows in 8 villages, 2 from each block and 2 blocks from each of the 2 districts namely Jajpur and Balesore of north eastern coastal plain zone (NECPZ) of Odisha were collected and analysed for macro and micro mineral content. Among the fodders, paddy straw was deficient in calcium (Ca), phosphorus (P), copper (Cu) and manganese (Mn). Deficiency of P was observed in most of the fodders. Most of the concentrates contained higher level of the analysed minerals. The average serum Ca, P, zinc (Zn), Cu, Mn and iron (Fe) content of cows in NECPZ were found to be 6.57Â±0.15 mg/dl, 3.57Â±0.11 mg/dl, 0.86Â±0.02ppm, 0.68Â±0.01 ppm, 0.26Â±0.006 ppm and 2.54Â±0.03 ppm, respectively. The percentage of animals deficient in serum Ca, P, Zn, Cu and Mn were observed to be 75.0, 75.0, 26.6, 31.6 and 28.3 %, respectively. The mean serum mineral content of the animals of NECPZ was deficient in Ca and P. The serum glucose, cholesterol, protein, albumin and globulin content of the animals in NECPZ were 43.64Â±1.49 mg/dl, 65.10Â±2.32 mg/dl, 4.23Â±0.12 g/dl, 2.11Â±0.05 g/dl and 2.11Â±0.09 g/dl, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

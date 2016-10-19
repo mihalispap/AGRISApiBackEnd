@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Året om -hyllans inverkan på silverrävens skinnkvalitet.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Korhonen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemelä, Paavo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kettu"},
+	{"value":"furs"},
+	{"value":"furbearing animals"},
+	{"value":"häkit"},
+	{"value":"turkisnahat"},
+	{"value":"cages"},
+	{"value":"quality"},
+	{"value":"laatu"},
+	{"value":"turkiseläimet"},
+	{"value":"foxes"},
+	{"value":"hopeakettu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000542",
+	"dct:identifier":"FI2016000542",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

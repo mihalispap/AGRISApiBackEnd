@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Management of Gram pod borer, Helicoverpa armigera by chemicals and botanicals",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":324,
+	"dc:subject":[
+		{"value":"management",
+	"xml:lang":"eng"
+	},
+	{"value":"gestion",
+	"xml:lang":"esp"
+	},
+	{"value":"cicer arietinum",
+	"xml:lang":"esp"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":326,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000516",
+	"dct:identifier":"IN2015000516",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sukumar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lyall, Hemant"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naik, Ramesh N."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Among the treatments, indoxacarb 14.5 SC found superior over all the treatments after first and second sprays and neem oil found superior over other plant products. Minimum pod damage of 13.7% and highest pod yield of 1745 kg/ha was registered in indoxacarb. Thus, highest cost benefit ratio was also recorded in indoxacarb (1:2.34) followed by chlorpyriphos (1:1.77), profenophos (1:1.51), neem oil (1:1.32), NSKE (1:1.07), Pongamia leaf extract (1:0.49) proved to be least effective treatment.",
+	"xml:lang":"eng"
+	}
+	}}

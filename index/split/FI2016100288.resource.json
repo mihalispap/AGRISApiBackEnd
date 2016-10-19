@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Detection of genetic diversity in Parkia timoriana (DC.) Merr. using randomly amplified polymorphic DNA analysis"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thangjam, Robert (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maibam, Damayanti (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Jitendra G. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100288",
+	"dct:identifier":"FI2016100288",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Genetic variation of eight genotypes of tree beans grown in Manipur, India was investigated at the DNA level using randomly amplified polymorphic DNA (RAPD) analysis. Of the 12 random primers used 8 were analysed and a total of 95 bands scored. The percentage of polymorphism ranged from 0 to 57.14 with an average of 42.10 per primer. Pair-wise comparisons were made for the RAPD profiles obtained. Similarity measurement using UPGMA followed by cluster analysis resulted in 3 major groups. The results of the dendrogram and principal co-ordinate analysis were in considerable agreement with the overall representation of relationships among the genotypes studied. It was also observed that the similarities between genotypes from the different geographical locations revealed considerable discrimination. The results indicated that RAPD could be effectively used for genetic diversity analysis in the closely related accessions of a species as it is reliable, rapid and superior to those based on pedigree information."}
+	}}

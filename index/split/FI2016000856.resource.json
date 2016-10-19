@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of fertilization on growth and solasodine content of four natural Solanum sodomeum L. populations /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Marzouk, Zohra.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chraief, Imed.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cheriaa, Jihene.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bakhrouf, Amina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boukef, Kamel.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"drug plants"},
+	{"value":"farmyard manure"},
+	{"value":"Solanum"},
+	{"value":"lääkekasvit"},
+	{"value":"cows"},
+	{"value":"solasodine"},
+	{"value":"nitrogen"},
+	{"value":"sato"},
+	{"value":"Solanum sodomeum"},
+	{"value":"typpi"},
+	{"value":"karjanlanta"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"Tunisia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000856",
+	"dct:identifier":"FI2016000856",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

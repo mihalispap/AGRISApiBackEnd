@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Natural regeneration of Scots pine and Norway spruce close to the timberline in northern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Juntunen, Vesa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Neuvonen, Seppo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"siemen"},
+	{"value":"maturity"},
+	{"value":"regeneration"},
+	{"value":"seed"},
+	{"value":"seedling  mortality"},
+	{"value":"seed maturity"},
+	{"value":"metsänraja"},
+	{"value":"seedlings"},
+	{"value":"uudistuskypsyys"},
+	{"value":"mänty"},
+	{"value":"tree line"},
+	{"value":"Pinus sylvestris"},
+	{"value":"kuolleisuus"},
+	{"value":"mortality"},
+	{"value":"taimet"},
+	{"value":"metsänuudistus"},
+	{"value":"timberline"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000986",
+	"dct:identifier":"FI2016000986",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

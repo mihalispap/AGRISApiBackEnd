@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Land use response to agricultural policy and market movements on Finnish dairy-farms.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Niemi, Jarkko K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pietola, Kyösti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"econometric models"},
+	{"value":"feed cereals"},
+	{"value":"milk production"},
+	{"value":"maatalouden tukimuodot"},
+	{"value":"hinnat"},
+	{"value":"rehuvilja"},
+	{"value":"dairy farms"},
+	{"value":"maidontuotanto"},
+	{"value":"pellot"},
+	{"value":"concentrates"},
+	{"value":"prices"},
+	{"value":"subsidies"},
+	{"value":"viljelyala"},
+	{"value":"peltoala"},
+	{"value":"tilakoko"},
+	{"value":"land use"},
+	{"value":"lypsykarjatilat"},
+	{"value":"väkirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000490",
+	"dct:identifier":"FI2016000490",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

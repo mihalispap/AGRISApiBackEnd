@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro maturation of oocytes in sheep",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":16,
+	"dc:subject":[
+		{"value":"ovulo",
+	"xml:lang":"esp"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"fecondation in vitro",
+	"xml:lang":"fre"
+	},
+	{"value":"ovule",
+	"xml:lang":"fre"
+	},
+	{"value":"fecundacion in vitro",
+	"xml:lang":"esp"
+	},
+	{"value":"in vitro fertilization",
+	"xml:lang":"eng"
+	},
+	{"value":"ova",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":25,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000359",
+	"dct:identifier":"IN2015000359",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sofi, K.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khan, M.Z."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akhoon, Z.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lone, F.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wani, A.R."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"In vitro maturation of oocytes is a valuable tool to capture vast supply of oocytes from abattoir material for in vitro production of embryos and other assisted reproductive technologies. In the initial efforts in sheep, mature oocytes were collected after ovulation or from pre-ovulated follicles. But, with the development of in vitro maturation as a successful tool, immature oocytes were first collected from intact ovaries and matured in vitro. This was followed by collection of oocytes from ovaries of abattoir material which is the cheapest and most abundant source of immature oocytes for various assisted reproductive technologies. Although developmental competence of in vitro matured oocytes is not at par to that of in vivo matured oocytes, but the continuous study in this aspect through the use of various cultural conditions supplemented with different hormones, growth factors and antioxidants have greatly enhanced the developmental potential of these in vitro matured oocytes, thereby, encouraged its use for large scale generation of embryos. Thus the efficient system is required to support the normal maturational process of ruminant oocytes in vitro, a pre-requisite for increasing the number of developmentally competent embryos from animals of agricultural importance. It will be equally important to enlarge the population of transgenic or endangered animals and to form female germplasm banks through cryopreservation of mature oocytes as a tool of conservation. Keeping in view the importance, the overview briefly describes various aspects of in vitro maturation.",
+	"xml:lang":"eng"
+	}
+	}}

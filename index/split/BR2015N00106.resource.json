@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"AVALIAÇÃO DA QUALIDADE DA ÁGUA DA RESERVA PARTICULAR DO PATRIMÔNIO NATURAL (RPPN) SERINGAL TRIUNFO, RIO ARAGUARÍ, FERREIRA GOMES - AP - BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":28,
+	"bibo:volume":4,
+	"bibo:pageEnd":42,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00106",
+	"dct:identifier":"BR2015N00106",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/786",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Erineide Silva Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Júlio César Sá-Oliveira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIFAP"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\">O presente estudo teve como objetivo avaliar a qualidade da água de um trecho do rio Araguari na área da Reserva Particular do Patrimônio Natural Seringal Triunfo através da análise de parâmetros químicos, físicos e microbiológicos exigidos em legislação, aplicando-se um índice de qualidade da água (IQA). Foram coletadas amostras da subsuperfície de água para análises físico-químicas e microbiológicas nos meses de dezembro de 2012 e junho de 2013. Os parâmetros analisados foram: Temperatura, pH, Turbidez, Coliformes, DBO, OD, Nitrato, Fosfato e Sólidos Totais. A maioria das variáveis encontrava-se dentro dos limites estabelecidos pela resolução vigente (CONAMA nº357/05). Através da aplicação do teste ANOVA demonstrou-se que houve uma diferença significativa entre os oitos pontos para a maioria dos parâmetros analisados nos dois períodos estudados (p<0,05). O IQA apresentou nível de qualidade entre Bom/Médio durante os períodos. O teste t mostrou que houve diferença significativa (p<0,05) de IQA entre o período de cheia e seca. De forma geral a qualidade da água superficial da RPPN Seringal Triunfo foi considerada com o nível de qualidade ‘média’ estando dentro dos parâmetros permitidos pela legislação para águas de classe 2.",
+	"xml:lang":"por"
+	}
+	}}

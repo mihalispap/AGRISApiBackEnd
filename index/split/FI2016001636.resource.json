@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"An overview on quantitative and genomic tools for utilising dominance genetic variation in improving animal production.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Mäki-Tanila, Asko.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"animal breeding"},
+	{"value":"jalostusmenetelmät"},
+	{"value":"muuntelu"},
+	{"value":"breeding methods"},
+	{"value":"selection"},
+	{"value":"crossbreeding"},
+	{"value":"heterosis"},
+	{"value":"genetic variation"},
+	{"value":"inbreeding"},
+	{"value":"breeding value"},
+	{"value":"jalostusarvo"},
+	{"value":"dominanssi"},
+	{"value":"kotieläinjalostus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001636",
+	"dct:identifier":"FI2016001636",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

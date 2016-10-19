@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Ethical orientations of Ohio residents toward genetically engineered plants and animals : an urban/rural comparison /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Napier, Ted L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tucker, Mark A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Henry, Coreen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yang, Xiaoyan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biotekniikka"},
+	{"value":"urban areas"},
+	{"value":"ethics"},
+	{"value":"geenitekniikka"},
+	{"value":"public opinion"},
+	{"value":"kaupunkiväestö"},
+	{"value":"genetic engineering"},
+	{"value":"biotechnology"},
+	{"value":"rural areas"},
+	{"value":"etiikka"},
+	{"value":"yleinen mielipide"},
+	{"value":"asenteet"},
+	{"value":"maaseutuväestö"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001260",
+	"dct:identifier":"FI2016001260",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

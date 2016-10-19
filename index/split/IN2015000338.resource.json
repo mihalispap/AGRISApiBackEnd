@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth and survival of Macrobrachium rosenbergii (de Man) post larvae fed with iso-proteic diets incorporated with fishmeal and its substitution exclusively by plant protein",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1272,
+	"dc:subject":[
+		{"value":"fish meal",
+	"xml:lang":"eng"
+	},
+	{"value":"alimentation complementaire",
+	"xml:lang":"fre"
+	},
+	{"value":"plant protein",
+	"xml:lang":"eng"
+	},
+	{"value":"farine de poisson",
+	"xml:lang":"fre"
+	},
+	{"value":"harina de pescado",
+	"xml:lang":"esp"
+	},
+	{"value":"supplementary feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"proteinas vegetales",
+	"xml:lang":"esp"
+	},
+	{"value":"alimentacion complementaria",
+	"xml:lang":"esp"
+	},
+	{"value":"macrobrachium rosenbergii",
+	"xml:lang":"esp"
+	},
+	{"value":"proteine vegetale",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1275,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000338",
+	"dct:identifier":"IN2015000338",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rath, S.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pillai, B.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohanty, S.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarkar, S."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"M. rosenbergii post-larvae were reared for 45 days in ponds using net hapa (2.5 m Ã 1.0 m Ã 1.0 m) of 0.8 mesh/ mm 2  and fed with 3 iso-proteic (35%) and iso-lipid (6%) feeds. Feed A and B contained 15 and 7.5% fish meal, which was totally replaced by soybean meal in feed C. At the end of the rearing period, there was a significant difference in weight of prawn larvae among different diets fed groups with a maximum in feed C (0.64Â±0.02 g) followed by feed B (0.62Â±0.72 g) and feed A (0.44Â±01 g). Survival (%) of prawn larvae in different feed groups did not differ significantly. SGR (% day -1 ) differed significantly among the experimental groups and the highest was recorded in feed C (1.35Â±0.30) followed by feed B (1.28Â±0.07) and feed A (0.99Â±0.01). Apparent FCR of feed C was significantly lower than feed B and feed A. The PER of feed C (1.1Â±0.04) and feed B (1.06Â±0.02) was significantly higher than feed A (0.74Â±0.01). Similarly, the NPU was significantly higher in feed C groups followed by feed B and feed C groups. The cost of feed C was lowest (INR 13.91) than feed B (INR 15.07) and C (INR 16.24).The results of this experiment revealed that fish meal could be completely replaced by soybean meal in the feeds for nursery rearing of M. rosenbergii without hampering the growth, dietary performances and survival of prawn larvae.",
+	"xml:lang":"eng"
+	}
+	}}

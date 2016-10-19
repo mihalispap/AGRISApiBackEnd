@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Dietary exposure to polycyclic aromatic hydrocarbons from commercially important seafood of the Arabian Gulf.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Alomirah, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Zenki, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Husain, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahmed, N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Al-Rashdan, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gevao, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sawaya, W.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"residues"},
+	{"value":"kala"},
+	{"value":"diet"},
+	{"value":"äyriäiset"},
+	{"value":"seafoods"},
+	{"value":"risk assessment"},
+	{"value":"polysykliset aromaattiset hiilivedyt"},
+	{"value":"water pollution"},
+	{"value":"Arabian Sea"},
+	{"value":"aromatic hydrocarbons"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000687",
+	"dct:identifier":"FI2016000687",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

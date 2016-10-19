@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Validation of analytical method for determination of ochratoxin A in cereals by C18 solid phase extraction and high-performance liquid chromatography with fluorescence detection"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911262",
+	"dct:identifier":"US201300911262",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/f23.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Attallah, Emad R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gomaa, Ahmed M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amer, Mohamed E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gad, Sohair A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A HPLC method was validated for determination of ochratoxin A (OTA) in cereals. Samples were extracted with chloroform in presence of phosphoric acid solution, OTA was isolated by liquid–liquid partitioning into aqueous bicarbonate solution. The sample solution is cleaned-up on a C18 column and OTA is eluted with ethyl acetate–methanol – acetic acid mixture. OTA is identified by reversed phase liquid chromatography and quantified by fluorescence detector. The limit of quantification (1 µg/kg) was found to be significantly lower than current regulatory EU limits. The average recovery of OTA from several different levels varied between 70 and 120%. The reproducibility expressed as relative standard deviation was 10.3%. The method showed to be linear from the limit of quantification up to 40 µg/kg level. The method accuracy was confirmed by participating in 7 proficiency testing (PT) programs organized by FAPAS, CSL, UK during the last 3 years (2004-2007). Two approaches were used for estimating measurement uncertainty; using validation data and PT results. The measurement uncertainty in terms of expanded uncertainty expressed as relative standard deviation (at 95% confidence level and coverage factor K= 2) was less than ±29%. The proposed method was applied to 78 samples of cereals and grains collected from the local Egyptian markets; OTA was detected in 3 samples."}
+	}}

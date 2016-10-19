@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Gene effects of some traits in chickpea"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911277",
+	"dct:identifier":"US201300911277",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Biçer, B. Tuba (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Şakar, Doğan (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The inheritance of days to flowering and other morphological traits in chickpea was studied in F2 population. Additive and dominance effects were highly significant for days to flowering and 100 seed weight. Additive effects appeared several folds of the dominance, indicating the importance of the additive effects in the inheritance of days to flowering and 100 seed weight. For some crosses there was dominance toward the heavy seeded parent and late parent. Additive and dominance genetic variance were significant for 100 seed weight, but the both components were not significant for days to flowering. Plant height and 100 seed weight at least by one pair, days to flowering at two pairs of genes with dominance effects were controlled."}
+	}}

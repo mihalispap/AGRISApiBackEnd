@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Protoplast isolation, culture and application to genetic improvement of woody plants"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Liu, Jihong (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Xu, Xiaoyong (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deng, Xiuxin (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100071",
+	"dct:identifier":"FI2016100071",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Traditional breeding of most woody plants is more or less confronted with certain barriers. Protoplast isolation and culture pave way for genetic improvement of woody plants. Since the first try on protoplast isolation and culture was conducted much progress has been made in woody plants, covering most of the important species including fruit trees, such as citrus, apple, pear, mango, kiwifruit, litchi, and forestry trees, such as sandalwood, poplar, eucalyptus, mulberry, conifer, etc. The present paper reviews the general protocols concerning protoplast isolation and culture, summarizes the factors affecting protoplast isolation and culture, introduces the variations, inclusive of chromosome number, morphology and resistance, occurring in protoplast-derived plants. In addition, application of protoplast to genetic improvement and basic study of woody plants are discussed herein, such as cryopreservation, somatic hybridization, genetic transformation and other basic researches."}
+	}}

@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of coconut based high density multi-species cropping system under organic and integrated nutrient management",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":130,
+	"dc:subject":[
+		{"value":"integrated nutrient management,organic"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"sistemas de cultivo",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"systeme de culture",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"cropping systems",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":135,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000626",
+	"dct:identifier":"IN2015000626",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Maheswarappa, H.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhanapal, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Subramanian, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Palaniswami, C"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A field experiment on evaluation of coconut based high density multi-species cropping system under organic and integrated nutrient management was initiated during 2007 in coconut based cropping system at Central Plantation Crops ResearchInstitute, Kasaragod. Three treatments viz., T1: 2/3rd of recommended NPK fertilizer + recycling biomass (vermicompost), T2: 1/3rd of recommended NPK fertilizer + recycling biomass (vermicompost) + bio-fertiliser + green manuring + vermiwash and T3: Fully organic with recycling biomass (vermicompost) + bio-fertiliser + green manuring + vermiwash + husk burial + mulching coconut basin were replicated seven times in RBD. The crops involved in the system were coconut, black pepper, pineapple, banana, clove, annual crops like, turmeric, ginger and vegetable crops (brinjal, pumpkin, and elephant foot yam), sweet corn and baby corn were grown in the space available during different seasons. Irrigation was provided through sprinkler system at IW/CPE=1.0. Average of five years (2007 to 2012) data on coconut yield indicated non significant difference among the treatments and it ranged between 145 to 155 nuts palm-1year-1. Black pepper yield also did not differ significantly among the treatments and ranged from 1.7 to 1.8 kg vine-1 , and banana(Njalipoovan variety) yield ranged from 6.0 to 7.2 kg bunch-1 and Grand naine variety yield also did not differ significantly among the treatments and it ranged from 13.7 kg to 15.5 kg bunch-1. The copra and oil content of coconut did not differ significantly among the treatments and it ranged from 159.5 to 164.6 g nut-1 and from 65.7 to 65.8 per cent respectively.Economics of the system indicated higher net return in T3 treatment.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"On-tree and after-harvesting evaluation of firmness, color and lycopene content of tomato fruit using portable NIR spectroscopy.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kusumiyati.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akinaga, Takayoshi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tanaka, Munehiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kawasaki, Sheishi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"colour"},
+	{"value":"Lycopersicon esculentum"},
+	{"value":"analytical methods"},
+	{"value":"quality"},
+	{"value":"firmness"},
+	{"value":"lycopene"},
+	{"value":"chemical composition"},
+	{"value":"tomatoes"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000613",
+	"dct:identifier":"FI2016000613",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

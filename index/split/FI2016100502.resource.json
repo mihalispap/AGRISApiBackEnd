@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/e5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Biotechnology of bioemulsifiers produced by micro-organisms"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Calvo, Concepción (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toledo, Francisca Lucía (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pozo, Clementina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Martínez-Toledo, María Victoria (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"González-López, Jesús (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100502",
+	"dct:identifier":"FI2016100502",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Biosurfactants are surface-active molecules produced by different organisms; they are widely used in pharmaceutical, food and cosmetic industries as well as in bioremediation technologies. Biodegradability and low environmental impact are some of the advantages shown by these substances compared with surfactants and emulsifiers produced by chemical procedure. Bacterial surfactants are produced by a large number of microbial species and are composed of polysaccharides, proteins, lipopolysaccharides or complex mixtures of these polymers. However, the nature of the nutrient composition of the growth media drastically affects the amount and chemical composition of these biopolymers. Industrial and environmental applications of microbial surface-active compounds have been developed and evaluated and the major factor limiting the wide use of biodegradable biosurfactants is their cost of production. In this sense, the use of inexpensive feed-stocks is essential to become competitive materials. This promise may become a reality with further investigation on how to control fermentation process and how to increase its productivity."}
+	}}

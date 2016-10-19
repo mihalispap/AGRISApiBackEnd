@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of exogenous fibrolytic enzyme supplementation or treatment of wheat straw on nutrient utilization and milk yield in crossbred cows",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":965,
+	"dc:subject":[
+		{"value":"enzimas",
+	"xml:lang":"esp"
+	},
+	{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"rendimiento lechero",
+	"xml:lang":"esp"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"rendement laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"enzyme",
+	"xml:lang":"fre"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"enzymes",
+	"xml:lang":"eng"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":967,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000173",
+	"dct:identifier":"IN2015000173",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Das, M.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, K.K."
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"The study was undertaken to study the effect of fibrolytic enzyme supplementation or treatment of wheat straw on nutrient utilization and milk yield in crossbred cows. Crossbred lactating cows (15; average body weight, 13.50 kg) were randomly divided in to 3 groups of 5 each. The animals of control group (T1) were fed untreated wheat straw, sorghum stover and concentrate as per requirement, whereas the animals of T2 and T3 were fed exogenous fibrolytic enzymes supplemented and treated wheat straw with fibrolytic enzyme, sorghum stover and concentrate mixture for a period of 90 days. At the end, a digestibility trial of 7-day collection was conducted. The dry matter intake was 8.69, 9.61 and 9.88 kg/day/animal, respectively, in T1, T2 and T3. DMI as per cent body weight was relatively higher in T2 and T3 than T1, though values were not statistically significant. Digestibility coefficient of DM and OM were comparable among the groups; however, digestibility of NDF and ADF was significantly higher in T2 and T3 than T1. DCP intake by the cows in different groups was similar, however, TDN intake (kg/day/animal) was comparatively higher in T2 (5.40) and T3 (5.59) than T1 (4.79). Milk yield and its composition were comparable among the groups. It can be concluded that fiber digestibility was improved by fibrolytic enzyme supplementation or feeding of wheat straw treated with fibrolytic enzymes, however, milk yield and its composition was unaffected in crossbred cows.",
+	"xml:lang":"eng"
+	}
+	}}

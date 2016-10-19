@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-42.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Thinning scenarios for Gmelina arborea plantations in south-western Nigeria using density management diagrams"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Onyekwelu, Jonathan C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Biber, Peter (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Stimm, Bernd (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100041",
+	"dct:identifier":"FI2016100041",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Thinning scenarios were developed for Gmelina arborea plantations in south-western Nigeria using density management diagram. Data were collected from even- aged plantations of 5 to 25 years. The youngest stand had well-developed crown canopies, indicating that canopy closure occurred at a younger age. Density (number of trees ha-1) decreased with increase in tree size. Density management diagram, with upper and lower growing stock lines, was developed. With references to these lines, three thinning scenarios A (no-thinning), B (moderate thinning) and C (heavy thinning) were developed. At the end of 20 years rotation, volume production under scenarios A, B and C would be 1050.3, 784.2 and 751.7 m3ha-1, respectively while mean diameter would be 29.8, 49.6 and 47.0 cm, respectively. This result indicates that Gmelina would react strongly to thinning by way of diameter increase, which only applies if thinning commences at early ages. Net present value (NPV) at interest rates between 5 and 8% revealed scenarios B and C to be similar but superior to scenario A. Only scenarios B and C are judged for appropriate for timber production."}
+	}}

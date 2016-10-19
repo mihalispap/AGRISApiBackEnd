@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Dry mass and the amounts of nutrients in understorey vegetation before and after fertilization on a drained pine bog.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Finér, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nieminen, Mika.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"aluskasvillisuus"},
+	{"value":"biomass"},
+	{"value":"plant litter"},
+	{"value":"turvemaat"},
+	{"value":"mänty"},
+	{"value":"lannoitus"},
+	{"value":"Pinus sylvestris"},
+	{"value":"biomassa"},
+	{"value":"peat soils"},
+	{"value":"ravinteet"},
+	{"value":"juuristo"},
+	{"value":"ojitetut suot"},
+	{"value":"root systems"},
+	{"value":"karike"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001871",
+	"dct:identifier":"FI2016001871",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

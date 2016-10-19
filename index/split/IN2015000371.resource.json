@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of concentrate and urea molasses mineral block supplementation on blood biochemical profile of Mecheri lambs",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":75,
+	"dc:subject":[
+		{"value":"molasses",
+	"xml:lang":"eng"
+	},
+	{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"melaza",
+	"xml:lang":"esp"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"concentrates",
+	"xml:lang":"eng"
+	},
+	{"value":"piensos concentrados",
+	"xml:lang":"esp"
+	},
+	{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"lambs",
+	"xml:lang":"eng"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"cordero",
+	"xml:lang":"esp"
+	},
+	{"value":"aliment concentre pour animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"agneau",
+	"xml:lang":"fre"
+	},
+	{"value":"melasse",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":79,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000371",
+	"dct:identifier":"IN2015000371",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Muralidharan, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayachandran, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Selvaraj, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vish, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saravanakuma, V. Ramesh"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Forty Mecheri male lambs (3â4 months old) were divided into 5 groups of 8 each and reared under T1 -Grazing alone, T2- Grazing + concentrate supplementation, T3 - Grazing + (urea molasses mineral block) UMMB supplementation, T4- Intensive rearing + concentrate supplementation and T5 - Intensive rearing + UMMB supplementation for a period of 150 days. Blood samples were collected at 30, 60, 90, 120 and 150 days of experiment. Serum protein increased in T2 and T3 groups whereas, serum albumin remained similar in all the groups. Serum calcium values were higher (P 0.05) in all the groups compared to the control and among them, UMMB supplementation group (T3) had highest values. Concentrate supplemented group (T2) had significantly (P0.05) higher serum phosphorus. Grazing and concentrate supplementation group (T2) had higher (P0.05) serum cholesterol than grazing alone group (T1) and stall-fed groups (T4 and T5). UMMB supplemented group (T5) had significantly (P  0.01) higher blood urea nitrogen values compared to other groups. It was concluded that blood biochemical parameters were influenced by supplementation of concentrate and UMMB.",
+	"xml:lang":"eng"
+	}
+	}}

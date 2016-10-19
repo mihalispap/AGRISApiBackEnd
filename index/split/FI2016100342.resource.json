@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Adoption of aquaculture management techniques in Delta State, Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Agbamu, J. U. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Orhorhoro, W. C. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100342",
+	"dct:identifier":"FI2016100342",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This study used the sigma method to determine the level of adoption of aquaculture technologies in Delta State. Data was collected from 144 respondents in 8 Local Government Areas of the state by use of guided interview schedule. Percentages, means and multiple regression were used to analyse the data. It was found that 55.6% of the fish farmers adopted concrete ponds and 88.9% adopted polyculture system. On management of the ponds, fertilization, weed control, checking pond leakage and control of pond temperature had adoption scores that ranged from 4.94 to 5.65. Liming and pH check, disease treatment and oxygen level check recorded low adoption scores. Of the nine independent variables, farmers income, education level, contact with extension agents and type of fish pond showed significant contribution to adoption score in a regression analysis. The major constraints to fish farming were high cost of pond construction, difficulty in obtaining micro-credit, expensive fish feed and inadequate fishery extension service. A key aspect of addressing food security problem in Delta State is the promotion of fish farming."}
+	}}

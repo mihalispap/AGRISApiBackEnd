@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a21.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Mineral status of forages and grazing goats in West Sumatra, Indonesia: 1. Macro minerals"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Warly, Lili (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fariani, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":", Evitayani (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hayashida, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fujihara, T. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100523",
+	"dct:identifier":"FI2016100523",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This experiment was conducted to study macro mineral status of forages and grazing goats in West Sumatra, Indonesia. The forages evaluated consisting 13 species of grass and 7 species of legume were harvested from 5 different locations during dry and rainy seasons. Blood samples of goats were collected at the same locations through jugular puncture to determine macro mineral status of the animals. Results of the study indicated that mineral concentrations of forages varied widely among species and seasons. Calcium concentration of forages both in dry and rainy seasons was above the critical value for deficiency. However, percentage deficiency of forage phosphorus was found either in dry season (85.7% for legume and 30.8% for grass) or rainy season (71.4% for legume and 30.8% for grass). Average concentration of forage magnesium in dry season was above the critical level, while in rainy season percentage of Mg deficiency was 28.6% for legume and 23.1% for grass. Percentage of sulfur deficiency in dry season was 42.9% for legume and 46.2% for grass, and these values were higher compared to those of rainy season (14.3% for legume and 30.8% for grass). Data on mineral status of grazing goats showed that in overall the incidence of Ca, P and Mg deficiencies were 4.6, 7.7 and 5.7%, respectively. This experiment is a part of a series of experiments on the study of mineral status of forages and grazing goats in West Sumatra, Indonesia."}
+	}}

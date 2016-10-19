@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1262",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jansons, Āris,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Matisons, Roberts,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zadin̦a, Māra,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sisenis, Linards,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jansons, Jānis,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"The effect of climatic factors on height increment of Scots pine in sites differing by continentality in Latvia.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"dendroecology"},
+	{"value":"vaihtelu"},
+	{"value":"meteorological factors"},
+	{"value":"height growth reconstruction"},
+	{"value":"increment variation"},
+	{"value":"pituuskasvu"},
+	{"value":"rekonstruktio"},
+	{"value":"dendrokronologia"},
+	{"value":"meteorological conditions"},
+	{"value":"mänty"},
+	{"value":"height"},
+	{"value":"Pinus sylvestris"},
+	{"value":"dendrochronology"},
+	{"value":"Baltic region"},
+	{"value":"reconstruction"},
+	{"value":"growth"}
+	],
+	"bibo:doi":"10.14214/sf.1262",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000114",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000114",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

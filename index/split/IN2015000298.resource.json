@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Isolation and identification of mycoplasmas from respiratory disease affected broiler birds in West Bengal",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1124,
+	"dc:subject":[
+		{"value":"bengale occidental",
+	"xml:lang":"fre"
+	},
+	{"value":"bengala occidental",
+	"xml:lang":"esp"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"enfermedades respiratorias",
+	"xml:lang":"esp"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"mycoplasma",
+	"xml:lang":"esp"
+	},
+	{"value":"west bengal",
+	"xml:lang":"eng"
+	},
+	{"value":"maladie respiratoire",
+	"xml:lang":"fre"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"respiratory diseases",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1125,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000298",
+	"dct:identifier":"IN2015000298",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Saha, T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guha, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Biswas, U."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakraborty, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sadhukhan, T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakraborty, G.C."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"An attempt was made to isolate and identify Mycoplasma spp. from respiratory disease affected dead broiler birds. Samples from trachea, lungs and air-sacs were taken into PPLO broth (with mycoplasma enrichment supplements) for the isolation of organisms and were identified on the basis of morphological, biochemical and serological characters. Out of 121 samples screened from same number of farms only 10 Mycoplasma spp. were identified. M gallisepticum were isolated from 8 farms and the rest 2 isolates were either M. gallinarum or M. iners.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro mycorrhization of micropropagated Helianthemum almeriense plantlets with Terfezia claveryi (desert truffle) /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Asunción Morte, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cano, Antonio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Honrubia, Mario.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Torres, Pilar.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rooting"},
+	{"value":"mikrolisäys"},
+	{"value":"Helianthemum almeriense"},
+	{"value":"mykorritsasienet"},
+	{"value":"ravinnepitoisuus"},
+	{"value":"juurrutus"},
+	{"value":"mineral content"},
+	{"value":"Terfezia claveryi"},
+	{"value":"in vitro experimentation"},
+	{"value":"culture media"},
+	{"value":"micropropagation"},
+	{"value":"helianthemum"},
+	{"value":"mycorrhizae"},
+	{"value":"survival"},
+	{"value":"terfezia"},
+	{"value":"kasvualustat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000257",
+	"dct:identifier":"FI2016000257",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

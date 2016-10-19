@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/f5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Prevalence of Escherichia coli 0157:H7 from diarrhoeal patients in Jos hospitals, Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ngbede, Joshua E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jideani, Israel A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agbo, Ediga B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100520",
+	"dct:identifier":"FI2016100520",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Growing concern on the emergence of enterohaemorrhagic Escherichia coli 0157:H7 (EHEC) in the developed countries associated with cattle, poultry, vegetable and pond water have focused our attention on the prevalence of this disease from diarrhoeal patients in Jos, Nigeria. From February 2002 to February 2004, 1050 faecal specimens from adults and children of both sexes with diarrhoeal (850) and non-diarrhoeal (200) illnesses were investigated for the presence of E. coli 0157:H7. From diarrhoeal patients, 26 (3.1%) were infected with E. coli 0157:H7. Other enteropathogens isolated include enteropathogenic E. coli (EPEC), enterotoxigenic E. coli (ETEC), Salmonella spp., Shigella spp., Yersinia enterocolitica, Campylobacter jejuni and Campylobacter coli. No E. coli 0157:H7 was isolated from non-diarrhoeal patients. In children between the ages of 6 to 10 yrs, E. coli 0157:H7 was isolated from 4/104 (3.8%) and 2/55 (3.6%) adults between the ages of 51 and 60 yrs. From bloody diarrhoea, 19 (6.9%) out of 274 were infected with E. coli 0157:H7, while 7 (1.2%) out of 576 infected were from non-bloody diarrhoea. All 26 E.coli 0157:H7 isolated from diarrhoeal patients produced verocytotoxin (VT). VT-1 was detected from 3 (11.5%), VT-2 from 17 (65.4%) and VT- 1 and -2 from 6 (23.1%). E. coli 0157:H7 came fourth (3.1%) as the most prevalent bacterial enteropathogen isolated from diarrhoeal patients attending hospitals in Jos, Nigeria. This study shows high prevalence of E. coli 0157:H7 infection in the area studied, which was statistically significant (P<0.05) by Chi-square test. We recommend physicians in developing countries to query E. coli 0157:H7 infection when clinical presentation (bloody diarrhoea) in patients is indicated. Education on properly cooked meal especially of bovine source is emphasized."}
+	}}

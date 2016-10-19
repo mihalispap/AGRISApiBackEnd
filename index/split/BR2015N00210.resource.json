@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"POPULATION STRUCTURE AND RELATIVE GROWTH OF FRESHWATER PRAWN Macrobrachium amazonicum (HELLER, 1862) (CRUSTACEA, PALAEMONIDAE) IN TWO REGIONS OF THE STATE OF AMAPÁ, AMAZON RIVER MOUTH, BRAZIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":52,
+	"bibo:volume":5,
+	"bibo:pageEnd":57,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00210",
+	"dct:identifier":"BR2015N00210",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1257",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jô de Farias Lima"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Luis Mauricio Abdon da Silva"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Empresa Brasileira de Pesquisa Agropecuária"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto de Pesquisa Cientifica e Tecnológicas do Estado do Amapá. Rodovia Juscelino Kubitschek, km 10, Fazendinha, CEP: 68903-419/68903-197, Macapá-AP."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><em><span style=\"font-size: 12.0pt;\">Macrobrachium amazonicum</span></em><span style=\"font-size: 12.0pt;\"> é um camarão nativo vastamente distribuído em bacias da América do Sul, largamente explorada por pescadores artesanais no Norte e Nordeste do Brasil e com grande potencial para aquicultura. Este estudo teve como objetivo analisar a biologia da população, com ênfase na razão sexual, distribuição de frequência de tamanho e descrever as equações matemáticas referentes ao crescimento relativo. Os espécimes foram analisados em termos de estrutura da população, razão sexual, distribuição de frequência de tamanho, recrutamento e o crescimento relativo sendo comparado por sexo e estações. Um número de 5.179 (2,977 femeas e 2.192 machos) foram coletados mensalmente, utilizando 20 matapis. A proporção entre os sexos em ambas as áreas foi favorável às fêmeas com 1:1,36 na Ilha de Santana e 1:1,41 em mazagão Velho. A distribuição mensal de frequência absoluta de juvenis, machos e fêmeas adultas variou de acordo com a estação nas duas áreas estudadas. As fêmeas adultas foram mais abundantes no período mais chuvoso; enquanto na estação menos chuvosa os machos e fêmeas adultas foram igualmente abundantes. Na Ilha de Santana, as fêmeas foram significativamente maiores que os machos, enquanto em Mazagão Velho os tamanhos foram semelhantes entre os sexos. As equações de regressão aplicada aos dados demonstram alometria positiva em todas as relações, com r² mais de 0,94 em ambos os sexos e locais.</span> <p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 12.0pt;\">Palavras-chave:</span></strong><span style=\"font-size: 12pt;\"> relações morfométricas, razão sexual, matapi.</span><!--[endif] -->",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Microbial and chemical changes in goat manure during composting and vermicomposting",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":207,
+	"dc:subject":[
+		{"value":"faeces",
+	"xml:lang":"eng"
+	},
+	{"value":"composting",
+	"xml:lang":"eng"
+	},
+	{"value":"composts",
+	"xml:lang":"eng"
+	},
+	{"value":"feces",
+	"xml:lang":"fre"
+	},
+	{"value":"compost",
+	"xml:lang":"esp"
+	},
+	{"value":"compostage",
+	"xml:lang":"fre"
+	},
+	{"value":"oligochaeta",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"heces",
+	"xml:lang":"esp"
+	},
+	{"value":"elaboracion del compost",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":211,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000401",
+	"dct:identifier":"IN2015000401",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gupta, Anjali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tripathi, Prabhat."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tripathi, M.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dutta, T.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Ravindra,"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaudhary, U.B."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Chemical and microbial activity changes during compost and vermicompost preparation from goat droppings were studied. Treatments were comprised of goat droppings alone or in combination of arial parts of five vegetative materials i.e Ailanthus excelsa, Prosopis juliflora, Azadirachta indica, Desmostachya bipinnata, Saccharum munja, in the ratio of 1:1 on dry matter basis. Earthworm species Eisenia foetida was used for vermicomposting treatments. All the treatments under composting and vermicomposting were recorded for loss in dry matter at the final stage. Extent of dry matter loss varied with plant materials and it ranged from 37 to 69% among treatments. During composting and vermicomposting carbon content reduced in all the treatments from its initial values. The maximum reduction of 77.24% in carbon was associated with Desmostachya bipinnata + goat dropping composting. The minimum total nitrogen losses were observed with Prosopis juliflora + goat faeces treatments i.e. 10.63 and 14.35% in vermicomposting and composting treatments, respectively. Mineralised nitrogen increased by 1.81 to 4.26 times from initial to final stage in all the treatments. Treatments containing earthworms had 367 to 980 times higher available phosphorus content from their initial values; however, they ranged from 349 to 485 times in composting treatments. Maximum microbial activity was associated with Saccharum munja + goat dropping under both the conditions i.e. composting and vermicomposting over other treatments. Therefore, it may be concluded that compost and vermicompost preparation from goat dropping enhance microbial activity, mineralisable nitrogen and phosphorus content in raw material and convert it into value added manure.",
+	"xml:lang":"eng"
+	}
+	}}

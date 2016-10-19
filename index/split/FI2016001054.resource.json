@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Forest inventory attribute prediction using airborne laser scanning in low-productive forestry-drained boreal peatlands.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"forest technology"},
+	{"value":"metsäteknologia"},
+	{"value":"random forests"},
+	{"value":"cartography"},
+	{"value":"wood technology"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"mapping"},
+	{"value":"random sampling"},
+	{"value":"k-NN estimation"},
+	{"value":"forest management planning"},
+	{"value":"remote sensing"}
+	],
+	"bibo:doi":"10.14214/sf.1218",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001054",
+	"dct:identifier":"FI2016001054",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1218",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Niemi, Mikko,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vastaranta, Mikko,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peuhkurinen, Jussi,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Holopainen, Markus,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	}
+	]
+	}}

@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Tree mortality in a Pinus sylvestris dominated boreal forest landscape in Vienansalo wilderness, eastern Fennoscandia.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rouvinen, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siitonen, Juha.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"luonnonmetsät"},
+	{"value":"metsikön rakenne"},
+	{"value":"damage"},
+	{"value":"Russian Federation"},
+	{"value":"Eastern Europe"},
+	{"value":"boreaaliset metsät"},
+	{"value":"virgin forests"},
+	{"value":"mänty"},
+	{"value":"stand characteristics"},
+	{"value":"metsätuhot"},
+	{"value":"Pinus sylvestris"},
+	{"value":"kuolleisuus"},
+	{"value":"kuolleet puut"},
+	{"value":"mortality"},
+	{"value":"häiriödynamiikka"},
+	{"value":"boreal forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000646",
+	"dct:identifier":"FI2016000646",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

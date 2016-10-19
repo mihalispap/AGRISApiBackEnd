@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Study on the Different Factors Affecting Mortality Pattern of Rabbit in India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":89,
+	"dc:subject":[
+		{"value":"lapin (oryctolagus)",
+	"xml:lang":"fre"
+	},
+	{"value":"statistique demographique",
+	"xml:lang":"fre"
+	},
+	{"value":"conejo (oryctolagus)",
+	"xml:lang":"esp"
+	},
+	{"value":"mortalite",
+	"xml:lang":"fre"
+	},
+	{"value":"vital statistics",
+	"xml:lang":"eng"
+	},
+	{"value":"mortalidad",
+	"xml:lang":"esp"
+	},
+	{"value":"mortality",
+	"xml:lang":"eng"
+	},
+	{"value":"inde",
+	"xml:lang":"fre"
+	},
+	{"value":"rabbits",
+	"xml:lang":"eng"
+	},
+	{"value":"india",
+	"xml:lang":"esp"
+	},
+	{"value":"estadisticas vitales",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":91,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000083",
+	"dct:identifier":"IN2015000083",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Das, S.K."
+	}
+	},
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Around 374 data on different mortality cases recorded from New Zealand White and Soviet Chinchilla breed of rabbit in three seasons i e summer, rainy and winter over a period of four years in Rabbit Research Farm of the institute under Animal Production Division were analyzed statistically. Rabbits were housed in indoor cage system and 50 % mash feeding and 50 % roughage feeding was practiced. It was found that highest mortality was in I st generation crops. Breed wise higher mortality was observed in New Zealand White breed of rabbit (22.12%). Sex wise higher mortality was in female (20.48 %). Age wise mortality revealed that highest mortality was in finisher (21.49 %). Season wise highest mortality was in summer (17.90 %). Etiology of disease indicated that highest mortality was due to coccidiosis (5.62 %) followed by deficiency disorder (5.50 %). In 1 st and 2 nd year there was significant differences (P  0.05) in mortality among grower, finisher and adult rabbits. There were also significant (P  0.05) differences in mortality between different seasons in 1 st year. There was significant difference of mortality between the generations in 1 st year. In 2 nd year breed difference was observed to be significant.",
+	"xml:lang":"eng"
+	}
+	}}

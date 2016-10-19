@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of quality on gari prices in Nigeria : a hedonic analysis.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ezedinma, Chuma I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nkang, Nkang Moses.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"gari"},
+	{"value":"food processing"},
+	{"value":"foods"},
+	{"value":"marketing"},
+	{"value":"cassava"},
+	{"value":"fermented foods"},
+	{"value":"quality"},
+	{"value":"prices"},
+	{"value":"consumer behaviour"},
+	{"value":"Keersmaker, Anne Therese de."}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001135",
+	"dct:identifier":"FI2016001135",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

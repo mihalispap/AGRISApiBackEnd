@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Testing a river basin model with sensitive analysis and autocalibration for an agricultural catchment in SW Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tattari, Sirkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koskiaho, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bärlund, Ilona.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jaakkola, Elina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vesiensuojelu"},
+	{"value":"simulointimallit"},
+	{"value":"Finland"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"simulation models"},
+	{"value":"rivers"},
+	{"value":"simulation"},
+	{"value":"vesistönkuormitus"},
+	{"value":"nutrients"},
+	{"value":"mallintaminen"},
+	{"value":"wetlands"},
+	{"value":"valuma-alueet"},
+	{"value":"runoff"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"kosteikot"},
+	{"value":"leaching"},
+	{"value":"water pollution"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000551",
+	"dct:identifier":"FI2016000551",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

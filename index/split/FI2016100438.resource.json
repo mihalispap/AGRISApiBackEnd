@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1E128-134fisheries.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Fisheries development issues and their impacts on the livelihoods of fishing communities in West-Africa: An overview"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Béné, Christophe (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Neiland, Arthur E. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100438",
+	"dct:identifier":"FI2016100438",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Fisheries (in particular small-scale fisheries) provide a vital source of food, employment, and economic well-being for rural people throughout the world. In West Africa several million households along the coast and also inland are critically dependent on fishing for their livelihoods. However, fishing communities are often characterised as being amongst “the poorest of the poor”. The main objective of this paper is to review the major issues relating to the development and management of small-scale fisheries in West Africa and to examine their impacts on the livelihoods of the fisheries-dependent communities of the region. Several major issues are identified, discussed and briefly illustrated using numerical examples or extracts of official documents. Globally, it appears that the fisheries sector, despite its potential role as a powerful lever for poverty reduction, is often neglected by national or supra-national decision-makers. Since 1999, however, a number of international initiatives (sponsored by Donor Agencies) have attempted to overturn this negative perception."}
+	}}

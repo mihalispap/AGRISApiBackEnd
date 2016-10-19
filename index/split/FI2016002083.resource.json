@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Natural development of stand structure in peatland Scots pine following drainage : results based on long-term monitoring of permanent sample plots.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sarkkola, Sakari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hökkä, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Penttilä, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"luonnonpoistuma"},
+	{"value":"rinnankorkeusläpimitta"},
+	{"value":"metsikön rakenne"},
+	{"value":"drainage"},
+	{"value":"suometsät"},
+	{"value":"forestry"},
+	{"value":"stand characteristics"},
+	{"value":"Pinus sylvestris"},
+	{"value":"puut"},
+	{"value":"mortality"},
+	{"value":"trees"},
+	{"value":"ojitus"},
+	{"value":"suot"},
+	{"value":"breast height diameter"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002083",
+	"dct:identifier":"FI2016002083",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

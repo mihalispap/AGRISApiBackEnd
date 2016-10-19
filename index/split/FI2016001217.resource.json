@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of rotation period on biomass production and atmospheric CO₂ emissions from broadleaved stands growing on abandoned farmland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Eriksson, Erik.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Johansson, Tord.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lehtipuut"},
+	{"value":"atmospheric emissions"},
+	{"value":"biomass"},
+	{"value":"biopolttoaineet"},
+	{"value":"MAI"},
+	{"value":"abandoned land"},
+	{"value":"rotation period"},
+	{"value":"biofuels"},
+	{"value":"farmland"},
+	{"value":"maatalousmaa"},
+	{"value":"carbon stock"},
+	{"value":"production"},
+	{"value":"kiertoaika"},
+	{"value":"abandoned farmland"},
+	{"value":"päästöt"},
+	{"value":"atmospheric CO2"},
+	{"value":"broadleaved tees"},
+	{"value":"hiilidioksidi"},
+	{"value":"biomassa"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001217",
+	"dct:identifier":"FI2016001217",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

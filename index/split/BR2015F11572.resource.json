@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Evaluation of alternative tissues and equipment for the analysis of neutral and acid detergente fiber.",
+	"xml:lang":"eng"
+	},
+	{"value":"   Avaliação de tecidos e equipamentos alternativos na análise de fibras em detergente neutro e de fibra em detergente ácido ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"tissue analysis",
+	"xml:lang":"eng"
+	},
+	{"value":"digestible fibre",
+	"xml:lang":"eng"
+	},
+	{"value":"surfactants",
+	"xml:lang":"eng"
+	},
+	{"value":"autoclaves",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.3",
+	"bibo:doi":"10.17523/bia.v72n3p229",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F11572",
+	"dct:identifier":"BR2015F11572",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n3p229",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"FARIAS, J. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"QUEIROZ, L.O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS,  G. R. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FAGUNDES,  J. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, M. A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this study was to compare alternative devices and tissues for the determination of neutral detergent fiber (NDF) and acid detergent fiber (ADF) with the conventional method. Two tissues, nylon (50 μm) and TNT (100 g/m²), and two devices (fiber digester and autoclave) were used for the determination of NDF and ADF content compared to the conventional method. A completely randomized experimental design, which consisted of five treatments and 10 repetitions, was used. The NDF content obtained with TNT in the two devices differed from that obtained with the conventional method (P0.01), indicating this combination as a possible alternative to the conventional method. There was no difference (P>0.01) between the alternative methods for the analysis of NDF. The content of ADF differed between the devices and tissues evaluated (P0.01) and may be indicated as a practical alternative for the analysis of ADF. The NDF content obtained with nylon tissue, irrespective of the equipment used, and the ADF content obtained with nylon tissue in the fiber digester were similar to the conventional method.",
+	"xml:lang":"eng"
+	},
+	{"value":"O objetivo do estudo foi comparar equipamentos e tecidos alternativos na determinação de fibra em detergente neutro (FDN) e de fibra em detergente ácido (FDA), com o método convencional. Foram utilizados dois tecidos, sendo o nylon (50 μm) e TNT (100g/m²), e dois equipamentos (digestor de fibra e autoclave) para determinação dos teores de FDN e FDA, comparado com o convencional. O delineamento experimental foi inteiramente casualizado com cinco tratamentos e 10 repetições. O teor de FDN obtido utilizando o tecido de TNT, nos dois equipamentos avaliados, diferiu dos valores verificados pelo método convencional (P0,01), indicando ser uma possível alternativa ao método convencional. Não houve diferença (P>0,01) entre os métodos alternativos de análise de FDN. Na análise dos teores de FDA não foi observado similaridade nos valores obtidos com os equipamentos e tecidos avaliados (P0,01), podendo ser indicado como alternativo prático para análises de FDA. O teor de FDN independente do equipamento utilizado, e o teor de FDA obtido no equipamento digestor de fibra, ambos com o tecido nylon, são semelhantes ao método convencional.",
+	"xml:lang":"por"
+	}
+	]
+	}}

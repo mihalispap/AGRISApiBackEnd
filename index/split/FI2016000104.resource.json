@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biochemical and physiological responses in Wistar rat after administration of puffer fish (Lagocephalus lagocephalus) flesh /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Saoudi, Mongi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rabeh, Faouzi Ben.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jammoussi, Kamel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abdelmoulch, Abdelwaheb.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Belbahri, Lassaad.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    El Feki, Abdelfettah.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"toxins"},
+	{"value":"human diseases"},
+	{"value":"animal models"},
+	{"value":"puffers (fish)"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000104",
+	"dct:identifier":"FI2016000104",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

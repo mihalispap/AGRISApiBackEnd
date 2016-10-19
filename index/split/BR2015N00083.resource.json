@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ESTRUTURA POPULACIONAL E PADRÃO DE DISTRIBUIÇÃO ESPACIAL DE Pouteria cladantha Sandwith EM UMA FLORESTAS SOB REGIME DE MANEJO SUSTENTÁVEL, PARÁ",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":42,
+	"bibo:volume":4,
+	"bibo:pageEnd":47,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00083",
+	"dct:identifier":"BR2015N00083",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/914",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Diego dos Santos Vieira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"João Ricardo Vasconcellos Gama"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dárlison Fernandes Carvalho de Andrade"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Oeste do Pará"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Chico Mendes de Conservação da Biodiversidade"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<span style=\"font-size:12.0pt;line-height:115%; font-family:\">Objetivou-se analisar a estrutura e distribuição espacial da população de </span><em><span style=\"font-size: 12pt; line-height: 115%; font-family: 'Times New Roman', serif;\">Pouteria cladantha</span></em><span style=\"font-size: 12pt; line-height: 115%; font-family: 'Times New Roman', serif;\"> Sandwith (Sapotaceae), assim como a influência da colheita florestal sobre a regeneração natural e estrato adulto. Utilizou-se amostragem em conglomerados, com 37 unidades amostrais, constituída por </span><span style=\"font-size: 12pt; line-height: 115%; font-family: 'Times New Roman', serif;\">quatro subunidades (parcelas) de 250 m² (5 m x 50 m) cada, considerando indivíduos com Ht ≥ 5 cm. No período de oito meses após a colheita florestal a </span><span style=\"font-size: 12pt; line-height: 115%; font-family: 'Times New Roman', serif;\">abundância da regeneração natural apresentou reduções significativas (p<0,05) de 55,2%, enquanto que o estrato adulto apresentou um aumento de 2,2 ind.ha<sup>-1</sup>, porém, não significativo.</span><span style=\"font-size: 12pt; line-height: 115%; font-family: 'Times New Roman', serif;\"> A distribuição dos indivíduos em classes de diâmetro e tamanho antes e após a exploração mostrou tendência ao “J invertido”. De modo geral, a população apresentou padrão de distribuição aleatório, no entanto, quando analisando separadamente, o estrato adulto apresentou mudança do padrão aleatório para o agregado, enquanto que, a regeneração apresentou o padrão aleatório mesmo após a colheita.</span>",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a19.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of planting date on seed yield and quality of barley grown under semi-arid Mediterranean conditions"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Samarah, Nezar H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Issa, Taha A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100304",
+	"dct:identifier":"FI2016100304",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Planting date may affect barley grown in semi-arid regions, where high temperature and drought stress are common during late crop development and maturation. The objective of this research was to study the effect of planting date on seedling emergence, yield and yield components, seed germination and vigor of two barley cultivars. Field emergence, yield and yield components and seed quality were measured for plants grown at two planting dates. Seed quality was estimated by the standard germination test, the germination rate index, the electrical conductivity of seed leachate, and the germination after accelerated aging (AA) test. Field emergence was higher for early planting date than that of late planting date for both cultivars. Number of spikes m-2, 100-grain weight and grain yield were higher in early planting date than those of late planting date. Planting date had no effect on seed quality except for the germination after AA test, due to seed dormancy. In conclusion, the improvement in grain yield of the early-planted barley might be due to the increase in field emergence and consequently the number of plants and spikes per unit area and/or the drought-stressavoidance of the early-planted barley. Planting date had no effect on seed quality except for the expression of seed dormancy in accelerated aging test. Further work is needed to identify more suitable accelerated aging conditions that do not induce seed dormancy to evaluate seed vigor in barley or to develop a treatment to overcome seed dormancy after the test."}
+	}}

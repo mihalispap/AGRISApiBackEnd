@@ -1,0 +1,79 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Brasil "},
+	{"value":"   A mosca doméstica Musca domestica L. (Diptera: Muscidae) como hospedeiro paratênico na cidade de Bom Jesus - Piauí ",
+	"xml:lang":"por"
+	},
+	{"value":"The housefly Musca domestica L. (Diptera: Muscidae) as a paratenic host in the city of Bom Jesus - Piauí, Brazil",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"parasitology",
+	"xml:lang":"eng"
+	},
+	{"value":"pathogens",
+	"xml:lang":"eng"
+	},
+	{"value":"public health",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016200102",
+	"dct:identifier":"BR2016200102",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	},
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/461/263",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sergio Cruz Souza Lima Mauro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Regiane Araújo Soares Maria"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pederassi Jonas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Costa Guimarães Aguia Brisa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alberto Sanches Pereira Carlos"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Campus Amílcar Ferreira Sobral, Universidade Federal do Piauí, Floriano, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Campus Amílcar Ferreira Sobral, Universidade Federal do Piauí, Floriano, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Ong Bioma, BIOMA, Volta Redonda, RJ, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Campus Amílcar Ferreira Sobral, Universidade Federal do Piauí, Floriano, PI, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Centro Universitário Geraldo diBiase, Volta Redonda, RJ, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Musca domestica é uma espécie de grande importância para a saúde pública por ser vetor mecânico de patógenos e uma praga agrícola quando afeta a produtividade de granjas egado. No município de Bom Jesus-PI, a proliferação de vetores desta natureza foi intensificada pela ausência de matadouros públicos e pelas alterações ambientais decorrentes da ocupação desordenada. No intuito de verificar o transporte de ovos e cistos por parte destes vetores, utilizouse o método “jug-trap”. Em 96 coletas foi possível capturar 1180 espécimes de Musca domestica, das quais foram isoladas cinco morfoespécies de protozoários: Entamoeba histolytica/dispar/moshkovskii, Entamoeba coli, Iodamoeba butschlii, Cystoisospora sp., and Giardia sp. e cinco morfoespécies de helmintos: Ascarídeos, Trichuris sp., Hymenolepis nana e Enterobius vermicularis. Estes resultados demonstram que a proliferação deste vetor constitui um grave problema de saúde pública no município, sendo sugerido o papel da mosca doméstica como um vetor de organismospatogênicos para as populações das cidades do Piauí.",
+	"xml:lang":"por"
+	},
+	{"value":"The common housefly Musca domestica L. (Diptera: muscidae) is of great importance to public health because it is a mechanical vector of pathogens, and acts as an agricultural blight affecting the productivity of chicken and cattle farming. In Bom Jesus, Piauí, Brazil, the proliferation of this vector was intensified with the absence of regulated slaughterhouses and environmental changes caused by disorder and rapid agricultural expansion. In order to isolate eggs and cysts/oocysts of enteric parasites in adults of M. domestica, this study used the “jug-trap” method from October 2008 to October 2009 to capture the flies. In the ecological analysis was used the Concentration of Relative Dominance (CRD) as well the Bodenheimer’s Constancy. In 96 collections, 1180 specimens of M. domestica were captured, from which five morphospecies of protozoans (Entamoeba histolytica/dispar/ moshkovskii, Entamoeba coli, Iodamoeba butschlii, Cystoisospora sp., and Giardia sp.) and five morphospecies of helminths (Ascarids, Trichuris sp., Hymenolepis nana andEnterobius vermicularis) were isolated. The role of the housefly as a potential mechanical transporter of potentially pathogenic enteric parasite to humans in environments from Piauí city, Brazil, is confirmed.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

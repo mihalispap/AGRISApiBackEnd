@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of type of forage offered and breed on performance of crossbred suckler heifers and their calves.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Manninen, Merja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aronen, Ilmo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Puntila, Marja-Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heikkilä, Reijo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jaakkkola, Seija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"vasikat"},
+	{"value":"weight"},
+	{"value":"heifers"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"roughage"},
+	{"value":"milk yield"},
+	{"value":"nautakarjarodut"},
+	{"value":"sisäruokinta"},
+	{"value":"crossbreds"},
+	{"value":"hiehot"},
+	{"value":"calves"},
+	{"value":"ulkoruokinta"},
+	{"value":"nautakarja"},
+	{"value":"maitotuotos"},
+	{"value":"kasvu"},
+	{"value":"karkearehut"},
+	{"value":"parturition"},
+	{"value":"poikiminen"},
+	{"value":"grazing systems"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001629",
+	"dct:identifier":"FI2016001629",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

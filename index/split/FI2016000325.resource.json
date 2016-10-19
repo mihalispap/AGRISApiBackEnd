@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Changes of yields, soil properties and micronutrients as affected by 17-yr fertilization treatments.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Li, Benyin
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wei MingBao
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shen Alin
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Xu JianMin
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, H. L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hao FaZheng
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrient availability"},
+	{"value":"zinc"},
+	{"value":"fertilizers"},
+	{"value":"soil pH"},
+	{"value":"rice"},
+	{"value":"straw"},
+	{"value":"organic fertilizers"},
+	{"value":"copper"},
+	{"value":"farmyard manure"},
+	{"value":"crop yield"},
+	{"value":"micronutrient fertilizers"},
+	{"value":"phosphorus"},
+	{"value":"organic matter"},
+	{"value":"manganese"},
+	{"value":"iron"},
+	{"value":"paddy soils"},
+	{"value":"essential plant nutrient"},
+	{"value":"potassium"},
+	{"value":"cadmium"},
+	{"value":"trace elements"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000325",
+	"dct:identifier":"FI2016000325",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

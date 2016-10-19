@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Predicting the value of grey alder (Alnus incana) logs based on external quality.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kärki, Timo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Alnus incana"},
+	{"value":"wood"},
+	{"value":"tukit"},
+	{"value":"forecasting"},
+	{"value":"sawnwood"},
+	{"value":"grading"},
+	{"value":"kunto"},
+	{"value":"sahatavara"},
+	{"value":"laatu"},
+	{"value":"harmaaleppä"},
+	{"value":"arvo"},
+	{"value":"puut"},
+	{"value":"quality"},
+	{"value":"ennustaminen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001855",
+	"dct:identifier":"FI2016001855",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

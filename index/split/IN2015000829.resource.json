@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on suitable formulation of entomopathogenic nematode for the management of cardamom root grub,Basilepta fulvicorne(Jacoby)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":262,
+	"dc:subject":[
+		{"value":"ENTOMOPATHOGEN"},
+	{"value":"CARDAVER"},
+	{"value":"ROOT GRUB."},
+	{"value":"cardamome",
+	"xml:lang":"fre"
+	},
+	{"value":"cardamoms",
+	"xml:lang":"eng"
+	},
+	{"value":"cardamomo",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":264,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000829",
+	"dct:identifier":"IN2015000829",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Varadarasan, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagarajan, K."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

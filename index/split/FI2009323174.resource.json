@@ -1,0 +1,18 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of distance from demonstration sites on farmers’ adoption of technologies"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009323174",
+	"dct:identifier":"FI2009323174",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e14.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Adekoya, A. E. (author)"
+	}
+	},
+	"bibo:abstract":{"value":"The study was designed to examine the impact of exposure to agricultural demonstrations on farmers’ adoption of technologies generated from the International Institute for Tropical Agriculture (IITA). The procedure was to determine the number of technologies adopted by farmers residing at measured distances from the demonstration plots location. Thus the study considered the diffusion of information on the technologies across distance from source. Data was collected through a questionnaire which examined the technologies farmers were aware of and those adopted. Differential analysis was used to compare data across the zones. Awareness of the technologies was total in Zone 1, while this diminished greatly in Zone 2 and was largely absent in Zone 3. The same pattern was depicted for adoption of the technologies across the zones. Analysis of variance put the differences in awareness and adoption of the technologies as being significant with the post hoc test indicating absolute differences among the zones. Thus it was inferred that nearness to agricultural demonstration sites influences both adoption and awareness of agricultural technologies."}
+	}}

@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Effect of recombinant bovine somatrotopina (rbST) in goats quantitative carcass characteristics from different breed groups",
+	"xml:lang":"eng"
+	},
+	{"value":"   Efeito da somatrotopina bovina recombinante (rbST) nas características quantitativas da carcaça de caprinos de diferentes grupos genéticos ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"tissue analysis",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"dressing percentage",
+	"xml:lang":"eng"
+	},
+	{"value":"carcasses",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"66/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01846",
+	"dct:identifier":"BR2015F01846",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2009-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1278345460.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"RODRIGUES, Luciana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GONÇALVES, Heraldo C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MENEZES, Jakilane J. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MEDEIROS, Brenda B. L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Twenty-three male goats of three genetic groups were used: 8 Alpine (A), 4 ½ Boer + ½ Alpine (½ BA) and 11 ¾ Boer + ¼ Alpine (¾ BA), from which 11 animals were the control group (4 A, 2 ½ BA and 5 ¾ BA) and 12 received rbST (4 A, 2 ½ BA and 6 ¾ BA). Growth hormone used was recombinant bovine somatotropin (rbST) (T2) and animals from control group (T1) received 0.3 mg kg-1 of body weight of saline solution, from 45 days of life, adjusted at 14 days intervals. It was not detected the influence of rbST in carcass characteristics evaluated. Animals from Alpine breed showed higher values of carcass internal length and leg length in relation to ¾ BA animals. Alpine breed goat showed higher muscle/fat related to animals ¾ BA. It was not evident the superiority of half-breed Boer animals in relation to Alpine breed on goats carcass characteristics of growing. However, Alpine breed showed unfavorable characteristics, by higher carcass internal length and shoulder bone proportion.",
+	"xml:lang":"eng"
+	},
+	{"value":"Foram utilizados 23 machos inteiros de três grupos genéticos, sendo 8 da raça Alpina (A), 4 ½ Boer + ½ Alpina (½ BA) e 11 ¾ Boer + ¼ Alpina (¾ BA), dos quais 11 foram controle (4 A, 2 ½ BA e 5 ¾ BA) e 12 receberam rbST (4 A, 2 ½ BA e 6 ¾ BA). O hormônio de crescimento utilizado foi a somatotropina recombinante bovina (rbST) e os animais controle (T1) receberam solução salina na quantidade de 0,3 mg kg-1 de peso vivo, a partir dos 45 dias, ajustada em intervalos de 14 dias e os animais do tratamento 2 receberam o hormônio na mesma dosagem e intervalo. Não foi detectada nenhuma influência da rbST nas características de carcaça avaliadas. Os animais da raça Alpina apresentaram valores superiores para o comprimento interno da carcaça e comprimento da perna, em relação aos animais ¾ BA. Os cabritos da raça Alpina apresentaram uma maior relação músculo/gordura em relação aos animais ¾ BA. Não ficou evidenciada a superioridade nas características da carcaça de caprinos em crescimento dos animais mestiços Boer em relação aos da raça Alpina, entretanto estes apresentaram características desfavoráveis, pelo maior comprimento interno da carcaça e maior proporção de osso na paleta.",
+	"xml:lang":"por"
+	}
+	]
+	}}

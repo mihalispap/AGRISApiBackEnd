@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Withania somnifera root extract on lead-induced DNA damage"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025467",
+	"dct:identifier":"FI2005025467",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f3(2).pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khanam, Salma (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devi, Kshama (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Protective effect of Withania somnifera against formation of micronuclei induced by lead nitrate in bone marrow cells of mice was studied. Administration of lead nitrate (40 mg/kg b.w) induced significant micronuclei in mouse bone marrow. The frequency of occurrence of micronucleated cells in bone marrow was reduced significantly when methanolic extract of W. somnifera (250 mg/kg b.w) was administered orally to mice for 7 days before intraperitoneal injection of lead nitrate. The level of SOD, catalase and GSH in liver was significantly depressed by lead nitrate treatment and the extract treatment enhanced level of these enzymes significantly. These findings suggest that W. somnifera extract is effective in preventing DNA damage, and one of the mechanisms of action might involve scavenging of active oxygen radicals generated in reactions initiated by lead nitrate."}
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"The effects of companion crop on alfalfa seed yield.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Erkovan, H. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tan, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"companion crops"},
+	{"value":"barley"},
+	{"value":"weed control"},
+	{"value":"straw"},
+	{"value":"crop yield"},
+	{"value":"cultural control"},
+	{"value":"seeds"},
+	{"value":"lucerne"},
+	{"value":"sowing rates"},
+	{"value":"Medicago sativa"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002189",
+	"dct:identifier":"FI2016002189",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

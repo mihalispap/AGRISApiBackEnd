@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil properties affecting weed distribution in spring cereal and vegetable fields /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Erviö, Raimo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyvärinen, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Erviö, Leila-Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salonen, Jukka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"calcium"},
+	{"value":"nutrient availability"},
+	{"value":"soil types"},
+	{"value":"ravinnepitoisuus"},
+	{"value":"finland"},
+	{"value":"botanical composition"},
+	{"value":"kivennäismaat"},
+	{"value":"vihannesviljely"},
+	{"value":"vegetable crops"},
+	{"value":"kevätviljat"},
+	{"value":"spring crops"},
+	{"value":"eloperäiset maat"},
+	{"value":"rikkakasvit"},
+	{"value":"cereal crops"},
+	{"value":"weeds"},
+	{"value":"maalajit"},
+	{"value":"savimaat"},
+	{"value":"lajikoostumus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000442",
+	"dct:identifier":"FI2016000442",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

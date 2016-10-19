@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The contents of Pb, Cu, Zn and Cd in meat in Nairobi, Kenya"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869570",
+	"dct:identifier":"US201300869570",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f24.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Oyaro, Nathan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Juddy, Ogendi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Murago, Elizabeth N. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gitonga, Eric (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The most important uptake of heavy metals by man occurs through ingestion, hence food analysis is of great importance. In Kenya, meat is sold in butcheries, which are strategically situated near the roadsides and near bus stops. Most of these butcheries have their doors open, and there is likelihood that meat is contaminated by heavy metals. In the current research Pb, Cu, Zn and Cd content in meat were determined. Samples of the kidney, liver and muscles from various cattle were taken from Nairobi and its surroundings. The overall concentration of Pb, Cu, Cd and Zn were below 2 ppm. Generally, the muscle had high concentration of Pb and Cd as compared with kidney and liver. This observation is an anomaly from what has been reported in the literature so far with the liver indicating high metal content. Since most of the butcheries in the study area are located along the highway with high vehicular density, there is a high possibility of direct deposition of Pb and Cd in the meat. The Pearson Chi-square gave a value of 0.231 for the lead and cadmium indicating that the two metals have a common source, which is thought to be vehicular density."}
+	}}

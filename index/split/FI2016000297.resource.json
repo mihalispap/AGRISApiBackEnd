@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Serological evidence of influenza virus infections in domestic animals and birds in North-Eastern Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Abubakar, M. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    El-Yuguda, A. D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Baba, S. S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"influenzavirus"},
+	{"value":"Nigeria"},
+	{"value":"avian influenzavirus"},
+	{"value":"antibodies"},
+	{"value":"epidemiology"},
+	{"value":"disease surveys"},
+	{"value":"birds"},
+	{"value":"domestic animals"},
+	{"value":"public health"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000297",
+	"dct:identifier":"FI2016000297",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

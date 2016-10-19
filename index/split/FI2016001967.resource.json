@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/49446/16525",
+	"dct:language":"eng",
+	"dct:title":{"value":"Improving efficiency assessments using additive data envelopment analysis models: an application to contrasting dairy farming systems.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Soteriades, Andreas,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Faverdin, Philippe,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    March, Margaret,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stott, Alistair,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"indikaattorit"},
+	{"value":"dairy farms"},
+	{"value":"mittarit"},
+	{"value":"maidontuotanto"},
+	{"value":"sustainable agriculture"},
+	{"value":"maatalousekonomia"},
+	{"value":"kestävä maatalous"},
+	{"value":"efficiency"},
+	{"value":"indicators"},
+	{"value":"tuottavuus"},
+	{"value":"milk production"},
+	{"value":"agricultural economics"},
+	{"value":"lypsykarjatilat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001967",
+	"dct:identifier":"FI2016001967",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

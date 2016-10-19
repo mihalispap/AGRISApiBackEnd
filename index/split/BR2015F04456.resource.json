@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Evaluation of reactor anaerobic sludge blanket in the treatment of wastewater slaughterhouse",
+	"xml:lang":"eng"
+	},
+	{"value":"   Avaliação de reator anaeróbio de manta de lodo no tratamento de efluentes de frigorífico ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"agroindustry",
+	"xml:lang":"eng"
+	},
+	{"value":"environmental impact",
+	"xml:lang":"eng"
+	},
+	{"value":"anaerobic treatment",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F04456",
+	"dct:identifier":"BR2015F04456",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://iz.sp.gov.br/pdfsbia/1418315680.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"RODRIGUES, L.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SPELTA, A.C.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS,  R.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LIMA, C.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DUTRA, J.C.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, I.J."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O presente trabalho objetivou avaliar a eficiência em escala real de um sistema de tratamento de efluentes de frigorífico. A estação de tratamento de efluentes em escala real foi projetada para uma vazão diária de 60 m³/d, correspondente a um abate de 60 bovinos por dia. O sistema de tratamento composto de uma calha parshall, para medição de vazão, seguida de peneira estática, caixa de gordura gravimétrica, decantador e reator anaeróbio de manta de lodo (UASB) foi monitorado semanalmente entre janeiro e agosto de 2012. Foram analisados os seguintes parâmetros: pH, alcalinidade, demanda bioquímica de oxigênio (DBO), demanda química de oxigênio (DQO), sólidos totais (ST), sólidos suspensos totais (SST), nitrogênio amoniacal e nitrogênio total Kjedhall. Os valores efluentes médios de pH, DQO e SST no reator UASB foram de 6,96",
+	"xml:lang":"por"
+	},
+	{"value":"660 mg/L e 188 mg/L, respectivamente. O sistema mostrou-se eficiente, com remoção média de 96,40% para DQO e 89,92% para SST. O reator UASB apresentou alta performance na remoção de sólidos e carga orgânica. Dessa forma, esse reator torna-se uma alternativa viável para o tratamento de águas residuárias de frigoríficos, já que oferece bons resultados de remoção e baixo custo de implantação."},
+	{"value":"This study aimed to evaluate the efficiency of a full-scale treatment system effluent slaughterhouse. The full-scale Sewage Treatment Station was designed for a daily flow of 60 m³/d, corresponding to a slaughter of 60 cattle per day. The treatment system consists of a Parshall flume for flow measurement, followed by static sieve, gravimetric fat, sedimentation and anaerobic sludge blanket (UASB) box and it was monitored weekly from January to August. The following parameters were analyzed: pH, alkalinity, biochemical oxygen demand (BOD), chemical oxygen demand (COD), total solids (TS), total suspended solids (TSS), ammonia nitrogen, and total nitrogen kjedhall. The average pH, COD and TSS in the UASB reactor effluent values were 6.96, 660 mg/L and 188 mg/L , respectively. The system proved to be efficient, with average removal of 96.40% to 89.92% for COD and TSS. The UASB reactor showed high performance in removing solids and organic load. Thus, this reactor becomes a viable alternative for treating wastewater slaughterhouse, offering good removal results and low cost of deployment.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

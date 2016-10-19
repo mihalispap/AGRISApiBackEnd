@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Antioxidant capacity of human plasma and serum as affected by a single dose of a beverage rich in antioxidants – use of three different assay systems"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038541",
+	"dct:identifier":"FI2006038541",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f12.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Böhm, Volker (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Netzel, Michael (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kler, Adolf (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marx, Stefan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Weiß, Michael (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Geiß, Kurt-Reiner (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A single dose of polyphenols comprised in a beverage based on fruit juices did not significantly increase the content of total phenolics neither in plasma nor in serum. How-ever, the ingestion of 500 mL beverage significantly enhanced the antioxidant capacity in plasma (FRAP) as well as in serum (FRAP, TRAP), reaching the peak after different times (30-60 min). In addition, the photochemiluminescence test system, being a very sensitive assay in recent investigations, did not show any alteration in antioxidant capacity neither in plasma nor in serum. Thus, the kind of physiological liquid a well as the kind of test system seem to be factors affecting the analysis of antioxidant capacity within human intervention studies. The use of at least two assays is strongly recommended."}
+	}}

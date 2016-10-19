@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Poverty and its determinants among farming households in West Africa: Empirical evidence from Borno State, Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591958",
+	"dct:identifier":"US201301591958",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e2.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amaza, Paul S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adejobi, Adediji O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kwaghe, Patrick V. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The study examines the extent of poverty and its determinants among farming households in Borno State of Nigeria. Primary data were obtained from 1,998 farming households using well-structured questionnaires in 2004. Mean monthly per adult equivalent household expenditure poverty line was used to characterize the households into poor and non-poor, while Tobit regression model was used to determine the factors associated with poverty experienced by the farming households in the study area. About 67% of the households were categorized as poor. The Tobit regression analysis reveals that 15 out of the 23 household livelihood-related variables included in the model had their coefficients significant at between (P<0.01) and (P<0.10), representing about 63 percent of the variables. The Tobit result reveals that increases in farm size, amount of credit, agricultural production diversification and extent of agricultural output commercialization contributed to reduce the poverty level among farming households. Poverty intensity is high among households having large size, high child dependency ratio and expenditure on education. Therefore, policy measures should aim at enhancing the rural farmers’ access to improved agricultural inputs, land and credit; thereby increasing agricultural productivity and production so as to meet home consumption and generate an increased surplus for the market."}
+	}}

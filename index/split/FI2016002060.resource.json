@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact and productivity of harvesting while retaining young understorey spruces in final cutting of downy birch.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Niemistö, Pentti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korpunen, Heikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laurén, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salomäki, Marika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uusitalo, Jori.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"spruce releasing"},
+	{"value":"betula pubescens"},
+	{"value":"harvesting"},
+	{"value":"logging"},
+	{"value":"Picea abies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002060",
+	"dct:identifier":"FI2016002060",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

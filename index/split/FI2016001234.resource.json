@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Microbiological quality of ogi and soy-ogi (a Nigerian fermented cereal porridge) widely consumed and notable weaning food in southern Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Amusa, N. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ashaye, O. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oladapo, M. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maissi"},
+	{"value":"soijapapu"},
+	{"value":"maize"},
+	{"value":"microbial flora"},
+	{"value":"biological contamination"},
+	{"value":"Niger"},
+	{"value":"food processing"},
+	{"value":"elintarvikkeet"},
+	{"value":"elintarvikemikrobiologia"},
+	{"value":"foods"},
+	{"value":"fermentation"},
+	{"value":"soybeans"},
+	{"value":"microorganisms"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001234",
+	"dct:identifier":"FI2016001234",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

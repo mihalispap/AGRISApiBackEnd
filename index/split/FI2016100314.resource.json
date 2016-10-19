@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1A87-94genetic.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic regulation of ethylene perception and signal transduction related to flower senescence"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Müller, Renate (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Stummann, Bjarne M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100314",
+	"dct:identifier":"FI2016100314",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The plant hormone ethylene is involved in the regulation of a number of physiological and developmental processes and its role as a regulator of flower senescence is of particular economic importance in floriculture. The present review focuses on genetic control of flower senescence, particularly at the level of ethylene perception. Research in a number of flowering plants has indicated that flower senescence is the result of a complex regulation of both ethylene biosynthesis and perception. In the present review, we outline current knowledge of ethylene signal transduction in the model plant Arabidopsis and in economically important ornamental flowers. The various members of the ethylene receptor families in carnation and rose are differentially regulated during flower senescence and provide evidence that regulation of receptor gene expression can modulate sensitivity and influence the response of the flowers to ethylene. Several approaches to decrease ethylene sensitivity and improve postharvest quality have been reported, such as the use of antisense RNA for ethylene biosynthesis genes or transformation with a gene coding for a mutant receptor that does not bind ethylene and which constitutively suppresses the normal ethylene responses. Further basic research on the mechanism of ethylene signal transduction will probably reveal further possibilities for biotechnological modifications that might complement traditional breeding methods to improve postharvest quality."}
+	}}

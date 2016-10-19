@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Estudo da evolução das biotécnicas de Transferência de Embriões e Fertilização in vitro na raça Nelore no Brasil ",
+	"xml:lang":"por"
+	},
+	{"value":"Evolution studies from embryo transfer and in vitro fertilization in Nelore cattle at Brazil",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"databases",
+	"xml:lang":"eng"
+	},
+	{"value":"history",
+	"xml:lang":"eng"
+	},
+	{"value":"embryology",
+	"xml:lang":"eng"
+	},
+	{"value":"biotechnology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01410",
+	"dct:identifier":"BR2015F01410",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2010-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1287402833.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BELTRAME,  R. T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"QUIRINO,  C. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BARIONI,  L. G."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Data from Brazilian Association of Zebu Breeders were used to show the evolution of conventional embryo transfer (ET) and in vitro fertilization techniques between 1997 and 2007 for the Nelore cattle in Brazil. Data from 109.775 conventional embryo transfer and 73.121 ovum pick-up (OPU) were used. The embryo transfer supremacy was observed until 2004 when a considerable increase of OPU number over ET occurred. More ET and OPU were carried out in Southeast and Mid-West than in others Brazilian regions. The average number of viable embryo along the analysis period is close to that reported by literature (between 5 and 7 embryos per flushing or OPU session).",
+	"xml:lang":"eng"
+	},
+	{"value":": Arquivos da Associação Brasileira dos Criadores de Zebu foram utilizados para traçar um panorama da evolução das biotécnicas de transferência de embriões e fertilização in vitro dos anos de 1997 a 2007 para a raça Nelore no Brasil. Registros de 109.775 coletas de embriões e de 73.121 aspirações foram disponibilizadas para análise. Observou-se a supremacia da técnica de transferência de embriões até o ano de 2004 com posterior crescimento da fertilização in vitro. As regiões Sudeste e Centro Oeste se destacaram na execução de ambas as biotécnicas. As médias de embriões viáveis produzidos pelas duas biotécnicas no decorrer dos anos nas regiões do país se encontram próximas as relatadas pela literatura (entre cinco e sete embriões por coleta ou aspiração).",
+	"xml:lang":"por"
+	}
+	]
+	}}

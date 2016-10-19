@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A simple protein extraction method for proteomic studies on olive leaves.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Malik, Nasir S. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bradford, Joe M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"elektroforeesi"},
+	{"value":"erotusmenetelmät"},
+	{"value":"kasvivalkuainen"},
+	{"value":"Olea europaea"},
+	{"value":"electrophoresis"},
+	{"value":"oliivi"},
+	{"value":"extraction"},
+	{"value":"leaves"},
+	{"value":"methodology"},
+	{"value":"olives"},
+	{"value":"plant protein"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001923",
+	"dct:identifier":"FI2016001923",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of uv-c irradiation on fecundity and fertility of the red cotton bug, Dysdercus koenigii (Heteroptera: pyrrhocoridae): Role of partially sterile insects in sterile insect techniques",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":176,
+	"dc:subject":[
+		{"value":"pest control",
+	"xml:lang":"eng"
+	},
+	{"value":"gestion de lucha integrada",
+	"xml:lang":"esp"
+	},
+	{"value":"sistemas de apareamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"mating systems",
+	"xml:lang":"eng"
+	},
+	{"value":"fertilite",
+	"xml:lang":"fre"
+	},
+	{"value":"control de plagas",
+	"xml:lang":"esp"
+	},
+	{"value":"fertilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"gestion integree des ravageurs",
+	"xml:lang":"fre"
+	},
+	{"value":"integrated pest management",
+	"xml:lang":"eng"
+	},
+	{"value":"dysdercus koenigii",
+	"xml:lang":"esp"
+	},
+	{"value":"lutte antiravageur",
+	"xml:lang":"fre"
+	},
+	{"value":"fertility",
+	"xml:lang":"eng"
+	},
+	{"value":"methode d'accouplement",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":74,
+	"bibo:pageEnd":182,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000254",
+	"dct:identifier":"IN2015000254",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"jun.2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mohan Snigdha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar Dinesh"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The sterile insect technique (SIT), an environment-friendly pest control technique, can be used as an efficient component of area-wide integrated pest management programme. Although there have been several studies of how partially sterile males or completely sterile females contribute in SIT programmes, role of partially sterile females has not been considered. In the present study, role of partially UV-sterilised female of Dysdercus koenigii in control of its population was evaluated. Nymphs were irradiated with UV rays (254nm) at 10 min and 20 min durations to get partially and completely sterile adults respectively. Six type of crosses, cross-1: wild female Â~ wild male (WÂÅ  Â~ WÂâ°), cross-2: partially sterile female Â~ partially sterile male (PSÂÅ  Â~ PSÂâ°) cross-3: partially sterile female Â~ wild male (PSÂÅ  Â~ WÂâ°), cross-4: partially wild female Â~ partially sterile male (WÂÅ  Â~ PSÂâ°), cross-5: completely sterile female Â~ wild male (CS Â~ W) and cross-6 completely sterile female Â~ partially sterile male (CSÂÅ  Â~ PSÂâ°) were maintained in the laboratory to examine the comparisons of mating compatibility, fecundity, fertility and productivity among them. Results reveal that UV irradiation significantly suppressed the reproductive ability in all crosses. The mating success and reproductive sterility in cross-2 were significantly high in comparison to all other crosses. It is concluded that partially sterile females might also impart a successful role in suppression of wild population like sterile males. Results demonstrate that release of partially sterile females alone or along with/without completely sterile females and partially sterile males in the field could be highly advantageous in improvement of SIT programmes.",
+	"xml:lang":"eng"
+	}
+	}}

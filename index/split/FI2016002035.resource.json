@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of short-wood forwarding systems used in Iberia /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Spinelli, Raffaele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Owende, Philip M. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ward, Shane M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tornero, Maximiano.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuormatraktorit"},
+	{"value":"forwarding"},
+	{"value":"maasto"},
+	{"value":"metsäkoneet"},
+	{"value":"cut-to-length harvesting"},
+	{"value":"site factors"},
+	{"value":"logging"},
+	{"value":"vertailu"},
+	{"value":"tuottavuus"},
+	{"value":"metsäkuljetus"},
+	{"value":"site disturbance"},
+	{"value":"eucalyptus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002035",
+	"dct:identifier":"FI2016002035",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Utaretulehduksen vaikutus mikrobiologisiin antibioottijäämätesteihin /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Honkanen-Buzalski, Tuula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Myllys, Vesa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaartinen, Liisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pyörälä, Satu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"residues"},
+	{"value":"antibiotics"},
+	{"value":"dairy cows"},
+	{"value":"mastitis"},
+	{"value":"maidontarkastus"},
+	{"value":"testaus"},
+	{"value":"finland"},
+	{"value":"eläintaudit"},
+	{"value":"maito"},
+	{"value":"cow milk"},
+	{"value":"elintarvikevalvonta"},
+	{"value":"utaretulehdus"},
+	{"value":"farms"},
+	{"value":"Escherichia coli"},
+	{"value":"jäämät"},
+	{"value":"testing"},
+	{"value":"antibiootit"},
+	{"value":"lypsykarjatilat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001534",
+	"dct:identifier":"FI2016001534",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

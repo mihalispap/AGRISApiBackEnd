@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Variation in nutrient and antinutrient contents of tubers from yellow yam (Dioscorea cayenensis) genotypes grown at two locations"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591864",
+	"dct:identifier":"US201301591864",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Akin-Idowu, Pamela E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Odunola, Oyeronke A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asiedu, Robert (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maziya-Dixon, Busie (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uwaifo, Anthony O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Eight genotypes of yellow yam (Dioscorea cayenensis) were planted at locations in two major yam-growing agroecologies of Nigeria (Onne in the humid forest zone and Ibadan in the forest/savannah transition zone) for assessment of the contents of minerals and antinutrients. Significant differences (P<0.05) were observed among the genotypes in tuber contents of Fe, Zn, Ca, Mn, P, Cu and tannin. The levels of Fe, Zn, Ca, Mg, K, P and phytate (Phy) were higher (P<0.05) in tubers grown at Ibadan than at Onne. Values for Cu and tannin were similar at the two locations for all genotypes. Significant (P<0.05) genotype x environment interactions were detected for tuber contents of only Zn, Mn and Phy. The ranges of molar ratios Phy:Zn (2.2 - 4.1), Ca:Phy (8.3 - 15.0), and [Ca][Phy]/[Zn] (0.01 - 0.02) suggest that phytate could inhibit bioavailability of calcium but not zinc in foods prepared from yellow yam. The tannin content was not high enough to influence the bioavailability of iron in yam-based foods. The levels of minerals and antinutrients in their tubers, the location and genotype x environment effects, and the potential influences on bioavailability of minerals in yam-based foods would be of interest to yam improvement and public health intervention programmes."}
+	}}

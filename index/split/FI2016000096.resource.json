@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Kaviorustojen luutuman määrän lisääntyminen iän myötä suomenhevosella /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hukkanen, Tuija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ruohoniemi, Mirja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Raekallio, Marja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangasniemi, Arto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hevonen"},
+	{"value":"horses"},
+	{"value":"ikääntyminen"},
+	{"value":"bone diseases"},
+	{"value":"tuki- ja liikuntaelinten taudit"},
+	{"value":"age"},
+	{"value":"eläintaudit"},
+	{"value":"bone formation"},
+	{"value":"suomenhevonen"},
+	{"value":"limbs"},
+	{"value":"animal diseases"},
+	{"value":"hooves"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000096",
+	"dct:identifier":"FI2016000096",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

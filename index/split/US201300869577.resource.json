@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Tea beverages made from Romanas rose (Rosa rugosa Thunb.) leaves possess strongly antioxidative activity by high contents of total phenols and vitamin C"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869577",
+	"dct:identifier":"US201300869577",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f28.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nagai, Takeshi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kawashima, Taro (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suzuki, Nobutaka (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tanoue, Yasuhiro (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kai, Norihisa (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagashima, Toshio (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Three kinds of tea beverages, unfermented, half-fermented and fermented tea beverages, made from Romanas rose (Rosa rugosa Thunb.) leaves were prepared and the functional properties were investigated. These beverages exhibited high total phenols and total vitamin C contents. In particular, unfermented and half-fermented tea beverages possessed strongly antioxidative activities and scavenging activities against superoxide anion radical and DPPH radical. Moreover, these beverages also showed angiotensin I-converting enzyme inhibitory activities. Drinking tea beverage made from Romanas rose leaves may help to prevent in vivo oxidative damage, such as lipid peroxidation, associated with many diseases, including cancer, atherosclerosis, diabetes, aging, arthritis, brain dysfunction and immune deficiency because of the presence of various compounds such as catechin derivatives, phenols and vitamin C with antioxidative activities."}
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"DGGE-fingerprinting of arable soils shows differences in microbial community structure of conventional and organic farming systems"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026644",
+	"dct:identifier":"FI2005026644",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/e9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kuffner, Melanie (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Piñar, Guadalupe (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hace, Karin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Handschur, Michael (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"G. Haslberger, Alexander (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Microbial diversity and community structure in soil samples from conventional (CF) and organic farming sites (OF) were analysed using denaturing gradient gel electrophoresis (DGGE) and shotgun cloning. DNA extracted directly from soil was amplified with different primer combinations to allow DGGE fingerprinting of the total eubacterial community, as well as of Actinomycetes, ammonia-oxidizers, Acidobacteria and Archaea. Highly similar band patterns obtained from replicate samples indicated that the genetic structure of the soil microflora was spatially homogeneous. Complex eubacterial community profiles reflected a high level of diversity. Group specific DGGE analysis produced simpler band patterns and facilitated the detection of differences between soils. CF and OF samples showed differences in the community structure of Eubacteria, Actinomycetes, ammonia-oxidizers and Archaea. In particular the ammonia-oxidizers showed clear and simple DGGE profiles and were found to be promising marker organisms for the analysis of agricultural soils. Eubacterial 16S rDNA fragments of about 640 bp were used to create a clone library of each soil. A total of 28 different inserts selected by DGGE screening were sequenced. The obtained sequences were affiliated with Actinobacteria, Acidobacteria and Proteobacteria."}
+	}}

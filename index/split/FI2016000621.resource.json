@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n4p305.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of processing and cooking on total and soluble oxalate content in frozen root vegetables prepared for consumption.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lisiewska, Zofia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ge̳bczyński, Piotr.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Slupski, Jacek.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kur, Katarzyna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vihannekset"},
+	{"value":"pakastus"},
+	{"value":"oxalates"},
+	{"value":"esikäsittely"},
+	{"value":"freezing"},
+	{"value":"kypsennys"},
+	{"value":"food processing"},
+	{"value":"säilöntä"},
+	{"value":"foods"},
+	{"value":"processing"},
+	{"value":"oksalaatit"},
+	{"value":"cooking"},
+	{"value":"root vegetables"},
+	{"value":"juurekset"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000621",
+	"dct:identifier":"FI2016000621",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

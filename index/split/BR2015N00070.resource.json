@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"PESCA E PROCEDIMENTOS DE CAPTURA DO CAMARÃO-DA-AMAZÔNIA A JUSANTE DE UMA USINA HIDRELÉTRICA NA AMAZÔNIA BRASILEIRA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":102,
+	"bibo:volume":4,
+	"bibo:pageEnd":112,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00070",
+	"dct:identifier":"BR2015N00070",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/996",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Maria Vera Lúcia Ferreira de Araújo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kátia Cristina de Araújo Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bianca Bentes Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ingrid Lins da Silva Ferreira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Israel Hidenburgo Aniceto Cintra"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"O estudo descreve a pesca e os procedimentos de captura do camarão-da-amazônia, na área a jusante da Usina Hidrelétrica de Tucuruí. Os dados foram obtidos por meio de observações de campo e entrevistas individuais auxiliadas por formulários semiestruturados aplicados junto aos pescadores, no período de setembro a novembro de 2011 e setembro de 2012. O camarão-da-amazônia é capturado por diversas artes de pesca,mas o matapi se destaca como o principal apetrecho. Os recursos usados na aquisição das armadilhas e outros insumos derivam da renda familiar.Todo o processo produtivo, como a confecção dos matapis, preparação das iscas, métodos de captura e estocagem da produção, é praticado de forma artesanal com base em métodos tradicionais, modificados, no decorrer dos anos. Os procedimentos de pesca são diversificados, algumas etapas são comuns entre os municípios a jusante e outras etapas bem específicas. No entanto, a captura do recurso pesqueiro está atrelada ao amplo conhecimento que os pescadores possuem sobre o ambiente em que vivem. Dentre os fatores ambientais que conduzem o ofício, estão as estações do ano e as marés que influenciam diretamente na escolha do local de pesca, o qual varia entre os igarapés, as margens dos rios e as praias. Estudos da seletividade dos matapis, da densidade de estocagemdos viveiros e ações de educação ambiental irão fornecer subsídios importantes a sustentabilidade socioambiental da atividade pesqueira do camarão-da-amazônia na região.",
+	"xml:lang":"por"
+	}
+	}}

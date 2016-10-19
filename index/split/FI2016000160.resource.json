@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Fractionation and assessment of antioxidant activities of active components of Garcinia kola seed.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Daramola, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adegoke, G. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Osanyinlusi, S. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"bitterness"},
+	{"value":"siemen"},
+	{"value":"antioxidants"},
+	{"value":"Garcinia kola"},
+	{"value":"antioksidantit"},
+	{"value":"drug plants"},
+	{"value":"seeds"},
+	{"value":"lääkekasvit"},
+	{"value":"Garcinia"},
+	{"value":"chemical composition"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"medicinal properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000160",
+	"dct:identifier":"FI2016000160",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

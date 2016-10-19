@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Timing applications of growth regulators to alter spring cereal development at high latitudes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rajala, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kevätviljat"},
+	{"value":"plant growth substances"},
+	{"value":"growth regulation"},
+	{"value":"treatment date"},
+	{"value":"kasvunsäätö"},
+	{"value":"crop yield"},
+	{"value":"cereal crops"},
+	{"value":"kasvunsääteet"},
+	{"value":"timing"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001162",
+	"dct:identifier":"FI2016001162",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

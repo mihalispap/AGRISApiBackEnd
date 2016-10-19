@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Competitive interactions of Fusarium graminearum and Alternaria alternata in vitro in relation to deoxynivalenol and zearalenone production.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sass, Vera.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Milles, Judith.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Krämer, Johannes.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Prange, Alexander.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fungal diseases"},
+	{"value":"Gibberella zeae"},
+	{"value":"pathogens"},
+	{"value":"biological competition"},
+	{"value":"Alternaria alternata"},
+	{"value":"mycotoxins"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001431",
+	"dct:identifier":"FI2016001431",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

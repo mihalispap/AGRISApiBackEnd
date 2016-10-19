@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"An brief overview of ruminant reproduction researches carried out by the Instituto de Zootecnia/APTA",
+	"xml:lang":"eng"
+	},
+	{"value":"   Descrição sucinta das pesquisas com reprodução de ruminantes realizadas pelo Instituto de Zootecnia/APTA ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"artificial insemination",
+	"xml:lang":"eng"
+	},
+	{"value":"physiology",
+	"xml:lang":"eng"
+	},
+	{"value":"embryo transfer",
+	"xml:lang":"eng"
+	},
+	{"value":"ruminants",
+	"xml:lang":"eng"
+	},
+	{"value":"reproduction",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"66/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01723",
+	"dct:identifier":"BR2015F01723",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2009-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1276705162.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"ALVAREZ, Rafael H."
+	}
+	},
+	"bibo:abstract":[
+		{"value":"A presente revisão objetivou analisar os resultados das pesquisas desenvolvidas pelo Instituto de Zootecnia na área de reprodução dos ruminantes no período de 1970 a 2008. Para tanto, foi realizado um levantamento bibliográfico dos artigos publicados nessa área por pesquisadores do Instituto de Zootecnia e selecionados aqueles que contribuíram com destaque para o avanço do conhecimento da fisiologia reprodutiva e tecnologias da reprodução. Foi evidenciado que, mais que gerar informações na fronteira do conhecimento, o IZ tem contribuído significativamente para a validação de tecnologias reprodutivas, com destaque para as relacionadas com as áreas de inseminação artificial e transferência de embriões no Brasil.",
+	"xml:lang":"por"
+	},
+	{"value":"The aim of this article was to review the researches on ruminant reproduction carried out by the Instituto de Zootecnia between 1970 and 2008. A bibliographic search of articles was made and selected the most relevant concerning the physiology and technology of reproduction. It was evidenced that, more that produce basic information for the advancement of knowledge, the Instituto de Zootecnia has been able to improve reproductive methodologies related to artificial insemination and embryo transfer technologies in Brazil.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

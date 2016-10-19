@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Cultivation of kenaf in north-east Greece. Part II - Effect of variety and nitrogen on growth and dry yield"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alexopoulou, Efthimia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kipriotis, Evripidis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Papatheohari, Yolanda (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moskov, Georgi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Georgiadis, Stergios (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100220",
+	"dct:identifier":"FI2016100220",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Kenaf is a rapidly growing annual crop that is mainly cultivated for its stem with numerous end uses (paper, insulation mats, oil/chemical absorbent, energy production, etc.). The growth and adaptability of several varieties have already been tested in central Greece for the period 1994-1997. This work aimed to evaluate the effect of variety (Tainung 2, Mal 1, Everglades 41) and nitrogen fertilization (N 60 and 120 kg/ha) on growth and yield in Xanthi (north-east Greece). After three years of experimentation (1997-1999), it was found that among the three tested varieties the most productive at the end of the growing season (December) was Tainung 2 with mean dry yield of 13.2 t/ha, followed by Mal 1 12.7 t/ha and Everglades 41 11.5 t/ha. The highest dry yield, averaged overalltreatments, was recorded in the third year (1999, 14.1 t/ha), followed by the mean yield of 1998 (12.6 t/ha) and the lowest yield was recorded in the first year (10.8 t/ha) as a result of the strong hails that occurred in August 1997 and resulted in damages of the apical meristem of the stems. Concerning the effect of nitrogen fertilization on growth and yield it was found that the high nitrogen application (N 120 kg/ha) resulted in taller plants (3.3%) with higher stem diameter (6.7%) and mean dry yield (11%) compared to plants which got low nitrogen application (N 60 kg/ha). It should be mentioned that the moisture content at the final harvests (December), averaged overall trials, was quite low (36%). At the same time the mean nitrogen content of the harvested material (stems) was 0.48% and this corresponds to a nitrogen uptake of 59.2 kg/ha."}
+	}}

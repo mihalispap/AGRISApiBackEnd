@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of different priming techniques on seed invigoration and seedling establishment of lentil (Lens culinaris Medik)"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911279",
+	"dct:identifier":"US201300911279",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a17.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ghassemi-Golezani, Kazem (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aliloo, Ali Asghar (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Valizadeh, Mustafa (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moghaddam, Mohammad (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Early emergence and stand establishment of lentil (Lens culinaris Medik) are considered to be the most important yield-contributing factors in rainfed areas. Laboratory tests and two field experiments were conducted in RCB design in 2006 and 2007 at the University of Tabriz, Iran, to evaluate the effects of hydropriming, halopriming (solutions of 1.5% KNO3 and 15 mS/cm NaCl) and osmopriming (PEG: Polyethylene glycol 6000 at -0.8MPa) on seedling vigor and field establishment of lentil. Analysis of variance of laboratory data showed that hydropriming significantly improved imbibition rate, germination rate, seed vigor index, shoot, root and seedling dry weights and reduced electrical conductivity of seed leachates, compared to other seed treatments. However, germination percentage for seeds primed with KNO3, water andPEG were statistically similar, but higher than those for unprimed and NaCl priming. Overall, hydropriming treatment was comparatively superior in the laboratory tests. Invigoration of lentil seeds by hydropriming and NaCl priming resulted in higher seedling emergence and establishment in the field, compared to control and seed priming with KNO3 and PEG. Seedling emergence rate was also enhanced by priming seeds with water, NaCl and KNO3. It was, therefore, concluded that hydropriming is a simple, low cost and environmentally friendly technique for improving seed and seedling vigor of lentil."}
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Multivariate Phenotypic Structures in the Batini barley landrace from Oman"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300904105",
+	"dct:identifier":"US201300904105",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a16.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Maskri, A. Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shahid, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jaradat, A. A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"We identified 14 phenological classes in three (grain, forage and dual-purpose) end-use types and formulated discriminant functions to help select elite germplasm for breeding purposes. Biological yield, pre- and post-anthesis thermal time, grain yield, plant height and tillers per plant, in decreasing order, were most influential in discriminating among phenological classes. Extensive divergence in the phenotypic covariance matrices among phenological classes suggests that directional selection, especially in the phenological traits, resulted in large, idiosyncratic changes in the principal components’ structure, and that some of the changes are attributed to shifts in the mean phenotype. Knowledge of genetic co-variation of these traits will be useful for plant breeders by targeting traits that have a disproportionately large influence on differences in the mean covariance."}
+	}}

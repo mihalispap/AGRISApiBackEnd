@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/environment-2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Technical and economic aspects in conventional and alternative agriculture: A case study on coffee"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"da Rosa Figueiredo, Fernando Eovídio (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"de Assis, Renato Linhares (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reydon, Bastiaan Philip (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100469",
+	"dct:identifier":"FI2016100469",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This paper is an attempt to answer questions from farmers and consumers about the feasibility of an alternative model for agriculture production. An alternative model should be able to revert the present environmental degradation as far as agriculture is concerned. The article is based on theoretical discussion of current literature and field experiences on coffee. From literature review two favourable factor for this model is detached: one standing market with higher prices for its assets, together with the fact that there is basically no difference between the current model and the alternative one, regarding labour needs. In the studies on coffee, it is observed the technical and economic efficiency of alternative methods for phytosanitary control, as much as it provides a quite positive result on its costs. According to local conditions, there are many alternatives to be developed. So it is necessary to develop research integrating the economic, social and ecological features, not limited to the cause-effect mechanisms."}
+	}}

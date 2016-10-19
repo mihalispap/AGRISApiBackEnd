@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors influencing peak yield and days to attain peak yield in different grades of buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":288,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"milk performance",
+	"xml:lang":"eng"
+	},
+	{"value":"correlation genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"aptitude laitiere",
+	"xml:lang":"fre"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"aptitud lechera",
+	"xml:lang":"esp"
+	},
+	{"value":"lactacion",
+	"xml:lang":"esp"
+	},
+	{"value":"genetic correlation",
+	"xml:lang":"eng"
+	},
+	{"value":"correlacion genetica",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":291,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000438",
+	"dct:identifier":"IN2015000438",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sanker, Shashi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal, K.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Dhirendra*"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahajan, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Nishant"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Data on 920 buffaloes were analyzed for peak yield and days to attain peak yield consisting of three Genetic groups viz. Graded Murrah, Diara buffaloes and non-descript buffaloes. Buffaloes were enumerated from 145 dairy units located in and around Patna Bihar. Genetic groups had shown highly significant (p0.01) influence on both the traits. Peak yield varied as 8.78(lit.) in Graded Murrah, 7.80(lit.) in Diara buffalo and 7.07(lit.) in non-descript ones. Farming system and lactation order had significant influence (p  0.01) peak yield which varies from 7.73 lit (animal husbandry alone) to 8.04 lit. (mixed farming) and 5.82 lit. (1st lactation) to 9.40 lit. (3rd lactation). Farming system and lactation order did not show significant effect on days to attain peak yield, while location had non-significant effect on both the traits.",
+	"xml:lang":"eng"
+	}
+	}}

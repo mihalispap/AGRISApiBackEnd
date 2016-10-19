@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/6082/5295",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of lactic acid on the meat quality properties and the taste of pork Serratus ventralis muscle.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Grajales-Lagunes, Alicia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rivera-Bautista, Cecilia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ruiz-Cabrera, Miguel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gonzalez-Garcia, Raul.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ramirez-Telles, Jorge.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abud-Archila, Miguel.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lactic acid"},
+	{"value":"meat quality"},
+	{"value":"liha"},
+	{"value":"pork"},
+	{"value":"meat"},
+	{"value":"quality"},
+	{"value":"ominaisuudet"},
+	{"value":"sianliha"},
+	{"value":"maitohappo"},
+	{"value":"laatu"},
+	{"value":"flavour"},
+	{"value":"maku"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000317",
+	"dct:identifier":"FI2016000317",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

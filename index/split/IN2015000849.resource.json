@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A Blue Print for Neera Supply Chain",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":13,
+	"dc:subject":[
+		{"value":"coconut products"},
+	{"value":"Supply Chain"},
+	{"value":"NEERA"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":15,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000849",
+	"dct:identifier":"IN2015000849",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"nov2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Jacob George"
+	}
+	},
+	"bibo:issue":7
+	}}

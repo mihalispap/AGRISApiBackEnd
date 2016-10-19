@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Substratos à base de lodo de esgoto na produção de mudas de Senna alata ",
+	"xml:lang":"por"
+	},
+	{"value":"Substrates of sewage sludge in the production of seedlings of Senna alata.",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"4/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015201905",
+	"dct:identifier":"BR2015201905",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/view/242/204",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Faria Júlio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Caldeira Marcos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Delarmelina William"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lacerda Leonardo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gonçalves Elzimar"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O objetivo desse trabalho foi avaliar o crescimento de mudas de Senna alata com uso de diferentes combinações de resíduos, sendo eles: lodo de esgoto, fibra de coco, vermiculita, casca de arroz in natura e substrato comercial. O experimento foi conduzido no Viveiro Florestal do Centro deCiências Agrárias da Universidade Federal do Espírito Santo, sendo montado em um delineamento inteiramente casualizado (DIC). Quando as mudas atingiram cinco meses de crescimento foram mensuradas às seguintes características: altura, diâmetro do coleto, relação entre altura e diâmetro do coleto, massa seca da parte aérea, massa seca do sistema radicular, massa seca total, relaçãoentre massa seca da parte aérea e massa seca do sistema radicular, relação entre massa seca do sistema radicular e massa seca da parte aérea e índice de qualidade de Dickson (IQD). Constatouse que para a produção de mudas de S. alata recomenda-se o uso de 80% de lodo de esgoto misturado com 20% fibra de coco.",
+	"xml:lang":"por"
+	},
+	{"value":"The aim of this study was to evaluate the growth of seedlings of Senna alata using different combinations of residues, which are: sewage sludge, carbonized rice husk, straw coffee in natura and commercial substrate. The experiment was conducted in the Nursery Center for Agricultural Sciences, Federal University of Espírito Santo, and mounted in a completely randomized design. When the seedlings reached five months growth the following parameters were measured: stem diameter, plant height, ratio between plant height and stem diameter, shoot dry mass, dry mass of root system, total dry mass, ratio of dry mass shoot/root dry mass, ratio of root dry mass/dry mass of shoots and Dickson qualityindex (IQD). It was found that for the production of seedlings S. alata recommend the use of 80% of sewage sludge mixed with 20% coconut fiber.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

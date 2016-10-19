@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Antibiotics in the Control of White Spot in Maize",
+	"xml:lang":"eng"
+	},
+	{"value":"   Antibióticos no Controle da Mancha Branca do Milho ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"fungus control (diseases)",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"4/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015201918",
+	"dct:identifier":"BR2015201918",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/view/244/206",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Manerba Felipe"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza Paulo Estevão"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pinho Renzo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dornelas Gabriel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Monteiro Fernando"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Lavras"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"oxitetraciclina(300, 400 e 500gp.c/ha)"},
+	{"value":"epoxiconazole + piraclostrobina (750mLp.c/ha) e mancozeb (2.500g p.c/ha). Houvediferençassignificativas para todos os tratamentos aplicados no estádio V8. O fungicidamancozeb na concentração 2.500g p.c/ha. Foram observadas diferenças significativas para todos os pesticidas aplicados na fase V8 e pré-pendoamento. Os antibióticos controlaram a doença tão bem como os fungicidas, resultando em aumento da produtividade."},
+	{"value":"A mancha branca do milho destaca-se como uma importante doença em todas as regiões produtoras, sendo relacionada com danos às plantas com consequente redução naprodutividade. O controle mais eficaz é o químico,sendo recomendado em estádios fenológicos V8 e pré-florescimento. Embora ainda existam controvérsias quanto a etiologia da doença, parte da comunidade científica reconhece a bactéria Pantoea ananatis como agente etiológico da doença. Por isso, o objetivofoi avaliar a severidade da mancha-branca-do-milho, em duas épocas de aplicação com antibióticos (V8 e pré-pendoamento) visando a melhor estratégia para o controle químico. O estudo foi realizado em área experimental a 910m de altitude, localizada a 21º58’S de latitude e 45º22’O de longitude. Foi utilizado no plantio um híbrido simplesAG9010, considerado superprecoce e susceptível à mancha-branca-do-milho. O delineamento experimental foiblocos ao acaso (DBC)com 4 repetições,6 tratamentos e dois controles positivos com fungicidas: oxitetraciclina + estreptomicina (400, 500 e 600gp.c/ha)",
+	"xml:lang":"por"
+	},
+	{"value":"The maize white spot stands out as an important disease for all regions where corn is cultivated. This disease is related to significant damage to corn crop by to reduce the productivity, especially when none treatment is apply. Although there are still controversies about the etiology of the disease, the latest evidence relates the bacterium Pantoea ananatis as etiological agent. The chemical control is the most effective tactic employed to avoid the disease progress. According to this doubt our objective was to evaluate the maize white spot severity by the application of antibiotics in two stages (V8 and pre-tasseling) to obtain the best strategy for the chemical control of this disease. The experimental design was randomized block design (RBD) with six treatments and four replications and two positive controls. The treatments were: oxytetracycline + streptomycin (400, 500 and 600g cp/ha), oxytetracycline (300, 400 and 500g cp/ha), epoxiconazole + pyraclostrobin (750ml cp/ha) and mancozeb (2500 g pc/ha). Significant difference was noted for all pesticides applied at V8and pre-tasseling stage. The antibiotics controlled the disease as good as the fungicides, resulting in rising the productivity.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

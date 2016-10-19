@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Reverence and responsibility in forest ethics : inserting the meaning of life back into the culture of possession.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Macqueen, Duncan.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Hinduism"},
+	{"value":"Buddhism"},
+	{"value":"Islam"},
+	{"value":"ethics"},
+	{"value":"forestry"},
+	{"value":"religions"},
+	{"value":"well-being"},
+	{"value":"etiikka"},
+	{"value":"Christianity"},
+	{"value":"biocentric responsibility"},
+	{"value":"metsätalous"},
+	{"value":"spirituality"},
+	{"value":"metsät"},
+	{"value":"spiritualiteetti"},
+	{"value":"hyvinvointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001433",
+	"dct:identifier":"FI2016001433",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

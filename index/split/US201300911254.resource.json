@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Some control strategies in agricultural grain driers: A review"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911254",
+	"dct:identifier":"US201300911254",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/f14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lutfy, O. F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Noor, S. B. Mohd (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abbas, K. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marhaban, M. H. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Significant developments and technical trends in the area of grain drying technology are reviewed. In particular, the innovations in different control strategies applied to grain driers along with the modelling and simulation techniques developed for different grain driers are reviewed. The review concentrates also on the analysis, investigation, assessment and performance evaluation of existing real-time grain drying systems in terms of energy consumption, grain quality and all the issues that aid in optimizing their operating efficiency. The increase in demand for energy as well as the persistent efforts to keep the environment as clean as possible has provided the impetus to search for alternative energy sources. Solar dryers represent a good substitution to conventional energy sources, and hence, this research area is also reviewed in this paper."}
+	}}

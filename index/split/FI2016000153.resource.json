@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Germination : a means to improve the functionality of oat.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kaukovirta-Norja, Anu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wilhelmson, Annika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Poutanen, Kaisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"viljavalmisteet"},
+	{"value":"elintarviketekniikka"},
+	{"value":"cereal products"},
+	{"value":"kaura"},
+	{"value":"Avena sativa"},
+	{"value":"idätys"},
+	{"value":"raw materials"},
+	{"value":"processing"},
+	{"value":"prosessointi"},
+	{"value":"oats"},
+	{"value":"germination"},
+	{"value":"raaka-aineet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000153",
+	"dct:identifier":"FI2016000153",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

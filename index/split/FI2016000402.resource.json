@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of Tunisian Trigonella foenum-graecum diversity using physiological parameters.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Marzougui, N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Guasmi, F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boubaya, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Elfalleh, W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lachieheb, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ferchichi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Beji, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"mesophyll"},
+	{"value":"diversity"},
+	{"value":"Trigonella foenum graecum"},
+	{"value":"varieties"},
+	{"value":"plant water relations"},
+	{"value":"transpiration"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000402",
+	"dct:identifier":"FI2016000402",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

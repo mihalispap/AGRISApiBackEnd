@@ -1,0 +1,81 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Desempenho produtivo e qualidade da carcaça de cordeiros avaliados em dois sistemas alimentares ",
+	"xml:lang":"por"
+	},
+	{"value":"Performance and carcass quality of lambs evaluated in two feeding systems",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"systems",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrition",
+	"xml:lang":"eng"
+	},
+	{"value":"lolium multiflorum",
+	"xml:lang":"eng"
+	},
+	{"value":"lambs",
+	"xml:lang":"eng"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"performing animals",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p15",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00011",
+	"dct:identifier":"BR2016F00011",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p15",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MOTTA, J. F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERREIRA, O. G. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VAZ, R. Z."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, O. A. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALONSO, L. A. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GONÇALVES, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LOPES, A. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PEDRA, W.U."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"b) mantidos com as mães, tendo como base alimentar o campo nativo diferido no mês de maio. Ao início do período experimental e a cada 20 dias, as seguintes mensurações foram realizadas: peso corporal, altura do anterior, altura do posterior, comprimento corporal, perímetro torácico e condição corporal. Ainda obteve-se a estrutura corporal (frame size index) por meio da fórmula [FSI = (altura do anterior + altura do posterior + comprimento corporal + peso corporal)/4], e a compacidade (compacidade = peso corporal/comprimento corporal). Ao término do período experimental foram abatidos oito animais, quatro por tratamento, para avaliações das características da carcaça (componentes corporais e regionais), das perdas por resfriamento, bem como dos rendimentos de carcaça propriamente dito, comercial, frigorífico e na fazenda. Os dados foram submetidos à análise de variância e as médias comparadas pelo teste F ou pelo teste não paramétrico Wilcoxon-Mann-Whitney (P0,05). Entretanto, aqueles mantidos com as mães no campo nativo diferido apresentaram melhor desempenho produtivo, com maiores ganhos totais em peso, condição corporal, perímetro torácico e compacidade. Nas avaliações pós abate, maior peso de carcaça quente e fria e melhor rendimento comercial e de frigorífico, além de carcaças mais compridas, com maior profundidade e proporção de perna, também foi verificado nos cordeiros mantidos com as mães em campo nativo, diferindo significativamente (P"},
+	{"value":"Objetivou-se com este estudo avaliar o desempenho produtivo e a qualidade da carcaça de cordeiros cruza Corriedale (n=28) em dois sistemas alimentares na fase de terminação: a) desmamados mantidos em pastagem de azevém anual (Lolium multiflorum Lam.) em final de ciclo"},
+	{"value":"The objective of this study was to evaluate the productive performance and carcass quality of Corriedale crossbred lambs (n=28) in two feeding systems during finishing: a) weaned and grazing on annual ryegrass (Lolium multiflorum Lam.) in late season",
+	"xml:lang":"eng"
+	},
+	{"value":"b) maintained with their mothers and grazing on May-deferred native pasture. The following measurements were made at the beginning of the experimental period and at intervals of 20 days: body weight, front height, rear height, body length, chest circumference, and body condition. Additionally, body structure was evaluated by the frame size index [FSI = (front height + rear height + body length + body weight)/4], and compactness as body weight/body length. Eight animals were slaughtered at the end of the experimental period, four per treatment, for the evaluation of carcass traits (body and regional components), cooking loss, and carcass yields (commercial, slaughter, and farm). The data were submitted to analysis of variance and means were compared by the F test or by the nonparametric Wilcoxon-Mann-Whitney test (P0.05). However, animals maintained with their mothers on deferred native pasture showed better productive performance characterized by higher total gains in weight, body condition, chest circumference, and compactness. Postslaughter evaluation showed significantly higher (P",
+	"xml:lang":"por"
+	}
+	]
+	}}

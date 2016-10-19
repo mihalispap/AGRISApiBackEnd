@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"EFEITOS DA SUBSTÂNCIA DE ALARME NO TESTE CLARO/ESCURO NO ZEBRAFISH, Danio rerio",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":87,
+	"bibo:volume":4,
+	"bibo:pageEnd":93,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00145",
+	"dct:identifier":"BR2015N00145",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/907",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bruno de Matos Mansur"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bruno Rodrigues dos Santos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amauri Gouveia jr"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Ufpa"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">O Zebrafish é um animal experimental que tem se mostrado útil em várias áreas de pesquisa do comportamento, incluindo estados afetivos relacionados ao estresse. A substância de alarme é conhecida por eliciar respostas de estresse, sendo portanto uma ferramenta para investigar as bases biológicas do medo. O teste claro escuro, por sua vez, é a ferramenta para investigar o papel da substância de alarme como sinalizador de comportamentos de ansiedade, alterando o padrão de preferência claro/escuro. Foram utilizados 21 animais adultos, experimentalmente ingênuos, da espécie Danio rerio e sexo indeterminado, divididos em três grupos de sete: grupo controle; tratamento agudo e tratamento crônico. No grupo crônico houve administração de substância de alarme durante 10 dias; no grupo agudo, a solução conteve substância de alarme somente no décimo dia. O teste Claro/Escuro foi aplicado antes e depois da exposição dos animais ao tratamento.</span><span style=\"font-size: 12.0pt; font-family: \"> O teste claro escuro não detectou mudanças nos comportamentos de permanência no lado claro, alternância e latência nos sujeitos da espécie Danio rerio expostos aguda e cronicamente à substância de alarme. Contudo, a análise gráfica aponta que a substância de alarme altera os padrões de preferência claro/escuro, havendo aumento da ansiedade nos grupos agudo e crônico, principalmente no grupo crônico.</span>",
+	"xml:lang":"por"
+	}
+	}}

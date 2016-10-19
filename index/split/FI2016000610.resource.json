@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Training system affects whole canopy photosynthesis of the greenhouse roses (Rosa hybrida 'Habari').",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Matloobi, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ebrahimzadeh, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khaligi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hasandokht, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"greenhouse crops"},
+	{"value":"photosynthesis"},
+	{"value":"canopy"},
+	{"value":"shoots"},
+	{"value":"Rosa"},
+	{"value":"plant training"},
+	{"value":"leaves"},
+	{"value":"leaf area"},
+	{"value":"light"},
+	{"value":"chlorophylls"},
+	{"value":"gas exchange"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000610",
+	"dct:identifier":"FI2016000610",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

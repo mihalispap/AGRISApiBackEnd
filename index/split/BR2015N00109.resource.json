@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"GERMINAÇÃO DE SEMENTES E EMERGÊNCIA DE PLÂNTULAS DE FAVEIRA (Clitoria fairchildiana R. A. Howard. - FABACEAE)",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":9,
+	"bibo:volume":4,
+	"bibo:pageEnd":14,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00109",
+	"dct:identifier":"BR2015N00109",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/661",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Breno Marques da Silva e Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fabiano Cesarino"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"SEMA - GEA"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"IEPA"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><Clitoria fairchildiana R.A. Howard, conhecida como faveira, é uma espécie amazônica usada na arborização e na recuperação de áreas degradadas. Todavia, as informações sobre a germinação de sementes e emergência plântulas de faveira são escassas. Desta forma, o objetivo presente trabalho foi determinar as temperaturas cardeais e o substrato mais adequado para germinação de sementes, assim como, avaliar a influência da profundidade de semeadura na emergência de plântulas de faveira. Para avaliar a temperatura, as sementes foram colocadas em caixas plásticas sobre papel, mantidas em germinadores nas temperaturas de 5, 10, 15, 20, 25, 30, 35, 40 e 45ºC e com fotoperíodo de 12 horas. Posteriormente, avaliadas por dois critérios de germinação, protrusão da raiz primária e plântula normal. Para avaliar o substrato, as sementes foram colocadas em caixas de plástico sobre Plantmax<sup>R</sup>, vermiculita, areia e papel, mantidas em germinadores a 30<sup>0</sup>C e com fotoperíodo de 12 horas. Para emergência, foram utilizadas bandejas de plástico contento Plantmax<sup>R </sup>e vermiculita, sobre sombreamento de 50% em casa de vegetação. A faixa temperatura ótima de germinação das sementes de faveira é de 25 a 30ºC. A germinação de sementes de faveira é semelhante <span lang=\"EN-US\">Plantmax<sup>R</sup>, vermiculite, areia e papel. Profundidades iguais ou superiores a 2cm são inadequadas para a emergência de plântulas de faveira. ",
+	"xml:lang":"por"
+	}
+	}}

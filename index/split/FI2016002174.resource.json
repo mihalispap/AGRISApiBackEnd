@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Reduced simple ratio better than NDVI for estimating LAI in Finnish pine and spruce stands /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Stenberg, Pauline.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rautiainen, Miina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Manninen, Terhikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Voipio, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Smolander, Heikki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"coniferous forests"},
+	{"value":"Landsat TM"},
+	{"value":"spectrometry"},
+	{"value":"kasvillisuuskartoitus"},
+	{"value":"havumetsät"},
+	{"value":"satelliittikuvat"},
+	{"value":"vegetation"},
+	{"value":"boreaaliset metsät"},
+	{"value":"spectral  vegetation indices"},
+	{"value":"lehtipinta-ala"},
+	{"value":"satellites"},
+	{"value":"boreal forests"},
+	{"value":"leaf area index"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002174",
+	"dct:identifier":"FI2016002174",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

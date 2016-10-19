@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nursery factors influencing containerized Pinus pinaster seedlings' initial growth.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fraysse, Jean Yves.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Crémiére, Loíc.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rannikkomänty"},
+	{"value":"Pinus pinaster"},
+	{"value":"istutus"},
+	{"value":"fertilizer application"},
+	{"value":"nitrogen"},
+	{"value":"planting date"},
+	{"value":"kasvu"},
+	{"value":"kylvö"},
+	{"value":"forest nurseries"},
+	{"value":"lannoitus"},
+	{"value":"taimitarhat"},
+	{"value":"sowing date"},
+	{"value":"typpi"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001097",
+	"dct:identifier":"FI2016001097",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

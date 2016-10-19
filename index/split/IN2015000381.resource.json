@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Management practices followed by goat farmers in Namakkal district of Tamil Nadu",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":125,
+	"dc:subject":[
+		{"value":"animal husbandry methods",
+	"xml:lang":"eng"
+	},
+	{"value":"elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"methode d'elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"animal husbandry",
+	"xml:lang":"eng"
+	},
+	{"value":"ganaderia",
+	"xml:lang":"esp"
+	},
+	{"value":"metodos de crianza",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":128,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000381",
+	"dct:identifier":"IN2015000381",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sakthivel, K.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Narmatha, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akila, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uma, V."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was conducted among 140 goat farmers in Namakkal district of Tamil Nadu to ascertain the management practices followed by them. The study revealed that goats were mostly housed in thatched shed with mud flooring. They were fed tree leaves, crop residues and the fodder. Bleating, mounting and wagging were the signs used for heat detection and natural service followed for breeding of goats. Pregnancy diagnosis was mainly done based on abdominal appearance. Majority of the farmers reported that they have not faced any major disease problems. Foot and mouth disease was the only disease for which animals were vaccinated. Generally deworming was done in kids below the age of 3months. Most of the farmers sold their goats at the age of 4â6 months in village weekly markets to meet the family needs. The study revealed there is a need to create awareness on scientific practices of goat rearing.",
+	"xml:lang":"eng"
+	}
+	}}

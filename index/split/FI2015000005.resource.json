@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Milk production from silage : comparison of grass, legume and maize silages and their mixtures.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Dewhurst, Richard.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"lypsykarja"},
+	{"value":"animal feeding"},
+	{"value":"maize"},
+	{"value":"ruokinta"},
+	{"value":"feed intake"},
+	{"value":"säilörehu"},
+	{"value":"laatu"},
+	{"value":"feed crops"},
+	{"value":"rehunkulutus"},
+	{"value":"milk production"},
+	{"value":"grasses"},
+	{"value":"maitotuotos"},
+	{"value":"maidontuotanto"},
+	{"value":"milk"},
+	{"value":"Trifolium"},
+	{"value":"quality"},
+	{"value":"rehukasvit"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2015000005",
+	"dct:identifier":"FI2015000005",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Management of metritis in crossbred cattle of Kashmir using oxytetracycline, cephalexin and prostaglandin F2Â¨Â»",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":187,
+	"dc:subject":[
+		{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"jammu and kashmir",
+	"xml:lang":"eng"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"controle de maladies",
+	"xml:lang":"fre"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"jammu y kashmir",
+	"xml:lang":"esp"
+	},
+	{"value":"jammu et cachemire",
+	"xml:lang":"fre"
+	},
+	{"value":"disease control",
+	"xml:lang":"eng"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"endometrite",
+	"xml:lang":"fre"
+	},
+	{"value":"endometritis",
+	"xml:lang":"esp"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"control de enfermedades",
+	"xml:lang":"esp"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":189,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000422",
+	"dct:identifier":"IN2015000422",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bhat, F.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhattacharyya, H.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A total of 36 cows suffering from metritis were divided into 3 groups i.e. group-IA (metritis without palpable CL), Group-IB (metritis without palpable CL) and group-II (metritis with palpable CL) keeping equal number of animals in each group. Animals of group-IA were treated with oxytetracycline 3.0 gm intrauterine daily for 2â4 days; whereas, group-IB animals were treated with cephalexin 4 gm intrauterine daily for 2â4 days. Single intramuscular injection of Dinoprost (PGF2a) 25mg was given to animals of group-II. Recovery rate, on the basis of results of cultural examination, of 3 groups were found as 80.00, 71.43 and 91.67% respectively.",
+	"xml:lang":"eng"
+	}
+	}}

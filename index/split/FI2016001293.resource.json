@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Toxocara canis ja Toxascaris leonina - koiran suolinkaiset /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nevalainen, Martti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saari, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nikander, Sven.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dogs"},
+	{"value":"loiset"},
+	{"value":"suolinkainen"},
+	{"value":"loistaudit"},
+	{"value":"toxascaris leonina"},
+	{"value":"toxocara canis"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001293",
+	"dct:identifier":"FI2016001293",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

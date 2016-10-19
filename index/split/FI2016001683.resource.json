@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Ecological factors affecting the ripening time of cloudberry (Rubus chamaemorus) fruit under cultivation conditions /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kortesharju, Jouko.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"fruit growing"},
+	{"value":"Rubus chamaemorus"},
+	{"value":"pölytys"},
+	{"value":"ripening"},
+	{"value":"finland"},
+	{"value":"pollination"},
+	{"value":"fertilizer application"},
+	{"value":"lämpötilasumma"},
+	{"value":"temperature"},
+	{"value":"marjanviljely"},
+	{"value":"rubus chamaemorus"},
+	{"value":"kypsyminen"},
+	{"value":"lannoitus"},
+	{"value":"lakka"},
+	{"value":"genotypes"},
+	{"value":"marjat"},
+	{"value":"genotyyppi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001683",
+	"dct:identifier":"FI2016001683",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

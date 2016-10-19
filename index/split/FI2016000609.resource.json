@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A simple and inexpensive method for producing and maintaining closed pot cultures of arbuscular mycorrhizal fungi /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Walker, Christopher.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vestberg, Mauritz.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vesicular arbuscular mycorrhizae"},
+	{"value":"Acaulospora"},
+	{"value":"pot culture"},
+	{"value":"fragaria ananassa"},
+	{"value":"glomus"},
+	{"value":"arbuskelimykorritsasienet"},
+	{"value":"acaulospora"},
+	{"value":"Gigaspora"},
+	{"value":"gigaspora"},
+	{"value":"mykorritsasienet"},
+	{"value":"viljelymenetelmät"},
+	{"value":"Glomus"},
+	{"value":"plantago lanceolata"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000609",
+	"dct:identifier":"FI2016000609",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

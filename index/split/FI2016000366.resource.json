@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Dissolved reactive phosphorus in runoff assessed by soil extraction with an acetate buffer.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uusitalo, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jansson, Håkan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"runoff"},
+	{"value":"runoff water"},
+	{"value":"phosphorus"},
+	{"value":"viljavuustutkimus"},
+	{"value":"leaching"},
+	{"value":"soil analysis"},
+	{"value":"huuhtoutuminen"},
+	{"value":"valumavesi"},
+	{"value":"maa-analyysi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000366",
+	"dct:identifier":"FI2016000366",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

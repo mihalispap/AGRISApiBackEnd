@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Management strategies for Pearl Millet Downy Mildew (Sclerospora graminicola)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":128,
+	"dc:subject":[
+		{"value":"tortas oleaginosas",
+	"xml:lang":"esp"
+	},
+	{"value":"pennisetum glaucum",
+	"xml:lang":"esp"
+	},
+	{"value":"sclerospora graminicola",
+	"xml:lang":"esp"
+	},
+	{"value":"tourteau d'oleagineux",
+	"xml:lang":"fre"
+	},
+	{"value":"oilseed cakes",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":130,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000238",
+	"dct:identifier":"IN2015000238",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rajpur, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandya, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Panse, Raju"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The effect of soil application of botanicals (i.e. cakes of neem, mustard, linseed and til, plant extracts of neem, datura, eucalyptus, parthenium and calotropis, butter milk &cow urine), the cow urine, butter milk, oil cakes and botanicals imparted a significant role on the control of downy mildew in pearl millet. Application of butter milk @ 5% (33.2%) was found most effective in respect of downy mildew control.",
+	"xml:lang":"eng"
+	}
+	}}

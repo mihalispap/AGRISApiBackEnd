@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Goat management practices adopted by farmers in Jaipur district of Rajasthan",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":121,
+	"dc:subject":[
+		{"value":"conduite d'elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"livestock management",
+	"xml:lang":"eng"
+	},
+	{"value":"elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"manejo del ganado",
+	"xml:lang":"esp"
+	},
+	{"value":"animal husbandry",
+	"xml:lang":"eng"
+	},
+	{"value":"ganaderia",
+	"xml:lang":"esp"
+	},
+	{"value":"rajasthan",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":124,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000380",
+	"dct:identifier":"IN2015000380",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tanwar, P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rohilla, P.P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A survey of goat farmers in Jaipur district of Rajasthan indicated that majority of them (94.58%) provided katcha floor for the goat houses. Nearly 50% of farmers constructed goat houses near human dwelling. Small farmers with limited number of goats housed them in human dwelling. Majority (92.08%) of goat farmers used locally available thatch material for construction of roof. Boundary walls of goat houses were made with dry twigs of Khejri (Prosopis cineraria), Keekar (Acacia nilotica) and Pala (Zizyphus nummularia) bushes. Majority of the farmers (87.92%) housed males and females together but kids separately. Daily cleaning of goat house was practiced by 66.25% farmers. Deworming of goats was practiced regularly by 44.58% farmers. Only 23% of the farmers adopted vaccination against common infectious diseases. Majority of the farmers (68.33%) preferred village Gunni for treatment of sick goats, however 57.63% of large farmers approached veterinarian for treatment. Most (92.08%) of farmers sold goats to the local traders in their own villages. Physical appearance of the animals was considered as the main criteria for selling (48.33%) of animals. Majority of male kids were sold within 7â12 months of age.",
+	"xml:lang":"eng"
+	}
+	}}

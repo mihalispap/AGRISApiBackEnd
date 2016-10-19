@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Análise financeira sob condições de risco de sistemas de produção de leite na região do Vale do Paraíba ",
+	"xml:lang":"por"
+	},
+	{"value":"   SP "},
+	{"value":"Financial Analysis Under risk Conditions of Milk Production Systems at the Paraiba Valley, SP",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds",
+	"xml:lang":"eng"
+	},
+	{"value":"animals",
+	"xml:lang":"eng"
+	},
+	{"value":"roughage",
+	"xml:lang":"eng"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"live weight",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00233",
+	"dct:identifier":"BR2016F00233",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1216214104.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"OKAMOTO,  F"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CUNHA,  E. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BUENO, M. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA.  M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS,  L. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RODRIGUES,  A. A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O desempenho de borregas alimentadas com dietas compostas de concentrado (20%) e volumoso (80%) a base de cana-de-açúcar (Saccharum officinarum cv RB 72-454) e ramas de amoreira (Morus spp.) foi avaliado. Os tratamentos foram: A- 80% de cana-de-açúcar"},
+	{"value":"The performance of ewe lambs fed concentrate (20%) and roughage (80%) based on sugar cane (Saccharum officinarum cv RB 72-454) and increasing levels of mulberry branches Morus spp were evaluated. The treatments were",
+	"xml:lang":"eng"
+	},
+	{"value":"A- 80% of sugar cane",
+	"xml:lang":"por"
+	},
+	{"value":"B- 60% de cana-de-açúcar e 20% de ramas de amoreira e C- 40% de cana-de-açúcar e 40% de ramas de amoreira. O delineamento estatístico foi em blocos casualizados sendo os dados submetidos à análise de regressão. Foram utilizadas 24 fêmeas da raça Santa Inês, com idade aproximada de cinco meses e peso vivo inicial de 18,3 ± 2,7kg. Avaliou-se o consumo voluntário de matéria seca, o ganho de peso vivo diário e total e a conversão alimentar. Constatou-se efeito linear significativo (P"},
+	{"value":"B- 60% of sugar cane plus 20% of mulberry branches and C- 40% of sugar cane plus 40% of mulberry branches. A random blocks design was used and data were evaluated by regression. Twenty four ewe lambs aged five month with 18.3 ± 2.7kg were used. The voluntary intake, live weight gain and feed conversion were measured. The increase on the proportion of mulberry branches in the sugar cane diets led to a significant linear increase (P"}
+	]
+	}}

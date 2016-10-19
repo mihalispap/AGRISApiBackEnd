@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1077",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bergqvist, Göran,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergström, Roger,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wallgren, Märtha,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Recent browsing damage by moose on Scots pine, birch and aspen in young commercial forests - effects of forage availability, moose population density and site productivity.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"Alces alces"},
+	{"value":"Betula"},
+	{"value":"Populus"},
+	{"value":"Pinus sylvestris"},
+	{"value":"Alces"},
+	{"value":"hirvi"}
+	],
+	"bibo:doi":"10.14214/sf.1077",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001864",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001864",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

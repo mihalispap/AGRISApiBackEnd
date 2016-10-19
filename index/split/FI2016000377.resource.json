@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Intra-plant variation for progress of cell division in developing oat grains : a preliminary study.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rajala, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kehitys"},
+	{"value":"pölytys"},
+	{"value":"kukka"},
+	{"value":"inflorescences"},
+	{"value":"kaura"},
+	{"value":"Avena sativa"},
+	{"value":"plant developmental stages"},
+	{"value":"seed filling"},
+	{"value":"jyvä"},
+	{"value":"röyhy"},
+	{"value":"sadonmuodostus"},
+	{"value":"oats"},
+	{"value":"pollination"},
+	{"value":"flowers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000377",
+	"dct:identifier":"FI2016000377",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

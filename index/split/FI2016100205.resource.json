@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Cultivar evaluation and mega-environment investigation of Dioscorea cayenensis cultivars in Ghana based on the GGE biplot analysis"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Otoo, Emmanuel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asiedu, Robert (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100205",
+	"dct:identifier":"FI2016100205",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Cultivar evaluation and mega-environment identification are the most important objectives of multi-environment trials (MET). The objective of this study was to assess the effect of genotype and genotype x environment interaction on the tuber yield of 18 yellow yam (D. cayenensis L.) genotypes via GGE (genotype plus genotype x environment) biplot methodology. Experiments were conducted using a completely randomized design (RCD) 4 years at 3 locations (12 environments). The biplot analysis identified three D. cayenensis mega-environments in Ghana. The first mega-environment contained Wenchi 2002 (WEN02) with G10 as the winning genotype; Genotype 16 won in the second mega-environment consisting of Wenchi 2004 (WEN04), Bodwease 2001 (BOD01), Bodwease (BOD02), Fumesua 2001 (FUM01),Wenchi 2003 (WEN03), Bodwease 2004 (BOD04) and Fumesua 2002 (FUM02) and the winning genotype at Fumesua 2003 (FUM03), Wenchi 2001 (WEN01), Bodwease 2003 (BOD03) and Fumesua 2004 (FUM04) (the third mega-environment) was Genotype 17. Two thirds of the tested genotypes were identified as redundant. Genotype 16 was the most stable and highest yielding genotype and Genotype 11 the poorest. Genotypes 16 and 17 were closest to the ideal genotype. FUM02 and BOD04 were closest to the ideal environment with BOD04 as the best and WEN02 the poorest environment."}
+	}}

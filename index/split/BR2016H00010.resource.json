@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:title":{"value":"APLICAÇÃO DE ACYBENZOLAR-S-METHYL EM ALGODOEIRO PARA CONTROLE DE Aphis gossypii (GLOVER) E Ramularia areola (ATKINSON)",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":53,
+	"bibo:volume":2,
+	"bibo:pageEnd":59,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00010",
+	"dct:identifier":"BR2016H00010",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/245",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gustavo Luís Mamoré Martins"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Germison Vital Tomquelski"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Geraldo Papa"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"O acibenzolar-S-methyl funciona como um ativador na resistência das plantas contra pragas e doenças. O objetivo do trabalho foi avaliar a atividade de acybenzolar-S- methyl sobre Aphis gossypii (Glover) e Ramularia areola (Atkinson) em algodoeiro. O ...",
+	"xml:lang":"por"
+	}
+	}}

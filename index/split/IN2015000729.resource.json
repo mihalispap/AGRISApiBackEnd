@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Principal component analysis and association studies for yield component traits in plus trees of Theobroma cacao",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":307,
+	"dc:subject":[
+		{"value":"cocoa"},
+	{"value":"GRest analysis"},
+	{"value":"PCA"},
+	{"value":"asociaciones",
+	"xml:lang":"esp"
+	},
+	{"value":"association",
+	"xml:lang":"fre"
+	},
+	{"value":"theobroma cacao",
+	"xml:lang":"esp"
+	},
+	{"value":"associations",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":40,
+	"bibo:pageEnd":313,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000729",
+	"dct:identifier":"IN2015000729",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Karthik Kumar, R.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jansirani, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Iyankar, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paramaguru, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, N."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A survey conducted in the major cocoa growing tracts of Tamil Nadu could identify 27 plus trees. These trees were observed for a period of two years to study the variability in yield and quality traits and to generate knowledge on the correlation between the ten different traits. Principal component analysis was used to identify the distinguishing traits and grouping them in clusters. The selected plus trees showed large variability in yield and biochemical traits. The number of pods per tree per year ranged from 57.6 to 93.9 with an average pod yield of 73.6. The average dry bean weight was 1.06 g which is a desirable trait in selection of the individuals having high processing efficiency in factory.The dry bean yield per tree per year was 2590 to 3665 g and the average yield was 3131 g. GRest analysis scored the plus trees based on the weightage of the desirable traits of individual trees. The first four PC axes explained 81.3 per cent of the total variation among the 27 plus trees of cocoa and all the traits studied were grouped in five basic clusters. The number of pods per tree (NP) was positively correlated with the pod value (PV) and dry bean weight per tree (DBYT).",
+	"xml:lang":"eng"
+	}
+	}}

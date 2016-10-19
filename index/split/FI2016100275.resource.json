@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a11.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Economics of sorghum production and soil fertility management in Kabale Highlands, Uganda"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kasozi, S.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bashaasha, B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ochwoh, V. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100275",
+	"dct:identifier":"FI2016100275",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A recursive bio-economic modelling approach is used to trace the effects of current sorghum cultivation practices on the condition of the soil and household incomes in the densely populated and highly soil degraded district of Kabale, in South-western Uganda. The model, which combines a biophysical model of plant growth, the ‘Environmental Productivity Impact Climate’ (EPIC), with a non-linear programming model of economic behaviour, was chosen for its versatility in assessing complex socio-economic and agro-ecological interlinkages. The cultivation practices under investigation included the use of soil conservation measures, crop residues and manure in sorghum production, a major staple food and cash crop in the area. Data on various aspects of agricultural production and natural resource management were collected from a sample of 50 randomly selected farmers in the Kiruruma watershed and relevant government offices. The choice variables examined were soil depth (DEPTH) and soil organic matter in the form of available nitrogen (ORGN), which were used to measure the quality or condition of the soil. The yield (SYIELD) was used in determining profit as a “proxy” for income over-time. EPIC was calibrated to simulate 30 years data on sorghum yield, soil depth and soil organic matter, among other things, a period considered reasonable enough to derive a trend and enable policy makers explore potential development pathways. Empirical results showed a nearly exponential declining trend in soil depth, available nitrogen and yield over the long-term, implying that the current sorghum cultivation practices have contributed to soil nutrient mining and are therefore not sustainable. With nitrogen mining of up to 40 g/ton of soil per year and consequent decline in yield, farmers will eventually have no incentive and resources to continue farming. Hence it is imperative that suitable policies be developed that can handle trade-offs between household welfare and sustainability."}
+	}}

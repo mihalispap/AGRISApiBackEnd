@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Metabolizable Energy and Rumen Undegradable Protein Levels Supplemented With or Without Vitamins on the Performance of Crossbred Cows during Transition Phase",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1,
+	"dc:subject":[
+		{"value":"alimentation complementaire",
+	"xml:lang":"fre"
+	},
+	{"value":"vitamine",
+	"xml:lang":"fre"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"supplementary feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"digestion du rumen",
+	"xml:lang":"fre"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"rumen digestion",
+	"xml:lang":"eng"
+	},
+	{"value":"digestion ruminal",
+	"xml:lang":"esp"
+	},
+	{"value":"alimentacion complementaria",
+	"xml:lang":"esp"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"vitamins",
+	"xml:lang":"eng"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"vitaminas",
+	"xml:lang":"esp"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":29,
+	"bibo:pageEnd":8,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000469",
+	"dct:identifier":"IN2015000469",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7987e6b1"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Nutrition (India)"},
+	"bibo:ISSN":{"value":"0970-3209"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Grewal, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wadhwa, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bakshi, M.P.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study was conducted to assess the effect of rations containing different levels of metabolizable energy (ME) and rumen undegradable protein (UDP) supplemented with vitamins on the productive performance of crossbred cows during transition phase. Twenty four crossbred dairy cows divided into 4 equal groups were offered iso-nitrogenous complete feeds containing either LME-LUDP (ME-100% of NRC and UDP-24% of CP), MME-LUDP (ME-110% of NRC and UDP-24% of CP), HME-LUDP (ME-120% of NRC and UDP-24% of CP) or HME-HUDP-V (ME-120% of NRC, UDP-40% of CP supplemented with biotin, niacin and vitamin E) from 40 days pre-partum through 100 days post partum. The blood and spot urine samples were collected on -40, -30, -20, -10, -5, -3, 0, 3, 5, 10, 20, 30, 40, 60, 80, and 100 days post calving. The DM consumption (irrespective of the stage of transition phase) by cows in HME-HUDP-V group was higher (P0.05) than those in HME-LUDP group, but was comparable with those in LME-LUDP and MME-LUDP groups. The DM intake, irrespective of the dietary combination was lower (P0.05) during prepartum period than that compared to the postpartum period. The body condition score of animals offered MME-LUDP, HME LUDP or HME-HUDP-V diet was comparable, but higher (P0.05) than those offered LME-LUDP diet. The digestibility of DM (P0.05) and NDF (P0.05) were higher in HME-HUDP-V group as compared to other groups. The blood profile was not affected by dietary combinations, but the blood urea nitrogen (BUN) was lowest in HME-HUDP-V group. The blood glucose was higher (P0.05) at 0 d as compared up to 30 day postpartum. The dietary combinations did not have any impact on the daily milk yield, but it showed increasing trend in HME-HUDP-V group. Similar trend was observed in lactose content. The peak yield was achieved around 60 day postpartum, thereafter, the milk yield started declining, but the differences were statistically non-significant. It was concluded that the diet containing ME-120% of NRC with 40% UDP of dietary CP supplemented with niacin, biotin and vitamin E (HME-HUDP-V) exhibited best response on the performance of high yielding crossbred cows, but UDP beyond 24% of CP did not have any significant beneficial effect.",
+	"xml:lang":"eng"
+	}
+	}}

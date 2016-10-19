@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a26.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of growing conditions on yield and quality of cherry: II. Fruit quality"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Predieri, Stefano (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dris, Ramdane (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rapparini, Francesca (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100435",
+	"dct:identifier":"FI2016100435",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Cherry fruit quality is determined by attributes that affect fruit marketing appeal and consumer satisfaction at consumption. The quantification of specific cherry fruit quality parameters is of high importance in the orientation of the decision-making process at every production step, from the choice of cultivar and agricultural practices to be applied, to the determination of harvest date, always geared towards ultimate consumer satisfaction. This review discusses opportunities for fruit quality evaluation and improvement."}
+	}}

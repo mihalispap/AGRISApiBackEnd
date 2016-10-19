@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Average performace of various first lactation 305 day and test day milk yield in Murrah buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":310,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"milk performance",
+	"xml:lang":"eng"
+	},
+	{"value":"rendimiento lechero",
+	"xml:lang":"esp"
+	},
+	{"value":"lactation duration",
+	"xml:lang":"eng"
+	},
+	{"value":"rendement laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"aptitude laitiere",
+	"xml:lang":"fre"
+	},
+	{"value":"duree de la lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"aptitud lechera",
+	"xml:lang":"esp"
+	},
+	{"value":"duracion de la lactancia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":312,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000444",
+	"dct:identifier":"IN2015000444",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Patil, Chandrashekhar S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakravarty, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Vijay"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Raghvendra Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Pankaj"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"In the present investigation the average performance of various first lactation production traits in murrah buffaloes has been studied. In this study 707 first lactation production records of murrah buffaloes maintained at National Dairy Research Institute (NDRI), Karnal were collected and analysed. The present study revealed that the average first lactation (305-days or less) milk yield in Murrah buffaloes was 1750.91 Â±28.62 kg. The coefficient of variation of first lactation (305 day) milk yield was observed as 43.31%. The minimum first lactation monthly test day milk yield (FLMTDMY) was found to be 4.36Â±0.09 kg on TD 1 while maximum FLTDMY was found to be 8.06Â±0.09 kg on TD 3. The coefficients of variation of first lactation monthly Test day milk yield varied from 29.67% to 43.31%.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Soil cover and water quality for irrigation purposes",
+	"xml:lang":"eng"
+	},
+	{"value":"   Cobertura do solo e qualidade de águas para fins de irrigação ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"salinity",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202500",
+	"dct:identifier":"BR2015202500",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/285/242",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bertossi Ana Paula"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Espírito Santo, Alegre, ES, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"In order to assess the relationship between land cover and water quality for irrigation in the sub-basin of the stream Horizonte, located in the Espírito Santo State, Brazil, we selected five places in the sub-basin to collect surface water and groundwater, each influenced by different soil cover types: pasture, forest, coffee, upstream and downstream of the urban area. Collecting samples were made during periods of drought and rainfall. The physical-chemical analysis of water was made by determining the pH, electrical conductivity, calcium, magnesium, sodium and calculated sodium adsorption ratio (SAR). According to the results we can conclude that the soil cover did not change the quality of water for irrigation and water evaluated, both surface and groundwater, showed no risk of soil salinization, but can cause problems sodification, making it difficult to water infiltration.",
+	"xml:lang":"eng"
+	},
+	{"value":"Com o objetivo de avaliar a relação entre a cobertura do solo e a qualidade da água para irrigação na Sub-bacia hidrográfica do Córrego Horizonte, localizada no Espírito Santo, foram selecionados cinco lugares na sub-bacia para coleta de água superficial e subterrânea, cada qual influenciado por diferentes coberturas do solo: pastagem, floresta, cafeicultura, à montante e à jusante da área urbana. As coletas foram feitas em períodos de estiagem e de chuvas. A análise físico-química das águas foi feita por meio da determinação do pH, condutividade elétrica, cálcio, magnésio, sódio e calculada a razão de adsorção de sódio (RAS). De acordo com os resultados pode-se concluir quea cobertura do solo não alterou a qualidade da água para irrigação e as águas avaliadas, tanto superficiais, quanto subterrâneas, não apresentaram risco de salinização do solo, mas poderiam acarretar problemas de sodificação, dificultando a infiltração de água.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Residual effect of clover-rich leys on soil nitrogen and successive grain crops /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nykänen, Arja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Granstedt, Arthur.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jauhiainen, Lauri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laine, Antti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"crop rotation"},
+	{"value":"ravinnekierto"},
+	{"value":"typen kierto"},
+	{"value":"ley farming"},
+	{"value":"lannoitusvaikutukset"},
+	{"value":"nitrogen fixation"},
+	{"value":"viljakasvit"},
+	{"value":"nitrogen"},
+	{"value":"Trifolium pratense"},
+	{"value":"nitrogen cycle"},
+	{"value":"maaperä"},
+	{"value":"typensidonta"},
+	{"value":"ravinteiden otto"},
+	{"value":"puna-apila"},
+	{"value":"mineralization"},
+	{"value":"typpi"},
+	{"value":"nurmet"},
+	{"value":"nurmiviljely"},
+	{"value":"leaching"},
+	{"value":"huuhtoutuminen"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000323",
+	"dct:identifier":"FI2016000323",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

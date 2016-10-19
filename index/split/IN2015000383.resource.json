@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors influencing birth weight of black bengal and crossbred kids",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":132,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"poids a la naissance",
+	"xml:lang":"fre"
+	},
+	{"value":"peso al nacimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"kids",
+	"xml:lang":"eng"
+	},
+	{"value":"chevreau",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"cabrito",
+	"xml:lang":"esp"
+	},
+	{"value":"birth weight",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":134,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000383",
+	"dct:identifier":"IN2015000383",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Amit"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmad, Maroof"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, L.B."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Data on 54 Black Bengal, 272 (50% Beetal x 50% Black Bengal) and 145 (50% Sirohi x 50% Black Bengal) kids were used to assess the variation in birth weight due to season of birth, sex of kid, type of birth, parity of dam and weight at kidding. Season of birth of kids had significant (P0.01) influence on birth weight in all three genetic groups. There was no significant effect of sex on birth weight in Black Bengal kids, however, significant effect of sex was observed in Beetal and Sirohi half-breds. Type of birth, parity of dam and weight of dam at kidding had significant (P0.05) effect on birth weight of kids in all three genetic groups.",
+	"xml:lang":"eng"
+	}
+	}}

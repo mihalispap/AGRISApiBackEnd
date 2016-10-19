@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Management of Sitophilus oryzae (L.) under modified atmospheric condition in Stored Sorghum",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":94,
+	"dc:subject":{"value":"sitophilus oryzae",
+	"xml:lang":"esp"
+	},
+	"bibo:volume":21,
+	"bibo:pageEnd":97,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000229",
+	"dct:identifier":"IN2015000229",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mekali, Jayashree"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naganagoud, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sreenivas, A.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Udaykumar, Nidoni"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Somasekhar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jyothi"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Incidence of Sitophilus oryzae under modified atmospheric (MA) condition in stored sorghum containing various concentrations of carbon dioxide (CO2), oxygen (O2) and nitrogen (N2) was studied. Adult emergence and mass loss (%) was recorded after exposure periods of 90, 135, 180, 225, 270 and 315 days. Fifteen and 20 % CO2 concentrations exposed up to 315 days and resulted in cent per cent mortality of insects. Further, there was no adult emergence with mass loss (%) was nil and also there was no loss in germination of grains.",
+	"xml:lang":"eng"
+	}
+	}}

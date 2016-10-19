@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Strategies for production of coconut planting material in Karnataka, Goa and Maharashtra",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":9,
+	"dc:subject":[
+		{"value":"COCONUT PLANTING MATERIALS"},
+	{"value":"plantule",
+	"xml:lang":"fre"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"plantulas",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"seedlings",
+	"xml:lang":"eng"
+	},
+	{"value":"produccion",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"production",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":11,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000603",
+	"dct:identifier":"IN2015000603",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Mathewkutty, T.I."
+	}
+	},
+	"bibo:issue":2
+	}}

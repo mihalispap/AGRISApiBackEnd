@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficacy of insecticides and biopesticides against hadda beetle, Henosepilachna vigintioctopunctata (fabricius) (coleoptera: Coccinellidae) on bitter gourd",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":163,
+	"dc:subject":[
+		{"value":"epilachna vigintioctopunctata",
+	"xml:lang":"esp"
+	},
+	{"value":"biopesticides",
+	"xml:lang":"eng"
+	},
+	{"value":"insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"bioplaguicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticide",
+	"xml:lang":"fre"
+	},
+	{"value":"insecticidas",
+	"xml:lang":"esp"
+	},
+	{"value":"biopesticide",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":166,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000028",
+	"dct:identifier":"IN2015000028",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khursheed, Sheikh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raj, Desh"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Studies were undertaken to evaluate seven insecticides/biopesticides viz., chlorpyriphos 0.05, carbaryl 0.20, malathion 0.05, endosulfan 0.07, abamectin 0.0015, lambda-cyhalothrin 0.004 and azadirachtin 0.0045% against hadda beetle, Henosepilachna vigintioctopunctata on bitter gourd at Entomological Experimental Farm, CSKHPAU and farmer's field, Bara (Hamirpur). Lambda-cyhalothrin and carbaryl were found to be the most potent and remained effective throughout the observational period i.e. up to 15 days of application with mean reduction of 89.26 and 85.09 and 87.10 and 83.45% in pest population over untreated check.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Efficiency of fixed-time artificial insemination using a progesterone device combined with GnRH or estradiol benzoate in Nellore heifers.",
+	"xml:lang":"eng"
+	},
+	{"value":"   Eficiência da inseminação artificial em tempo fixo utilizando dispositivo de progesterona associado com GnRH ou benzoato de estradiol em novilhas da raça Nelore. ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"benzoates",
+	"xml:lang":"eng"
+	},
+	{"value":"artificial insemination",
+	"xml:lang":"eng"
+	},
+	{"value":"pregnancy",
+	"xml:lang":"eng"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"estradiol",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.3",
+	"bibo:doi":"10.17523/bia.v72n3p271",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F11609",
+	"dct:identifier":"BR2015F11609",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n3p271",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"PONCIO, V.A.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MELO, A.J.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DUARTE,  K. M. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, C. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALVAREZ, R. H."
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The use of estrogens in artificial insemination protocols for cattle is the least expensive and most efficient method currently available. However, the trend to prohibit the use of estrogens for this purpose has made it necessary to find alternatives that replace estrogens without compromising the reproductive performance of the animals. The objective of this study was to evaluate conception rates in Bos indicus beef heifers treated with a progesterone device (P4) combined with GnRH or an estradiol ester. On day 0, pubertal Nellore heifers (n = 100) received an intravaginal device containing 1 g P4 and were randomly divided into two groups. The GnRH group (n = 49) received an intramuscular injection of 100 µg GnRH, while the E2 group (n = 51) received 2 mg estradiol benzoate (EB). The P4 device was removed after 5 (GnRH group) or 8 days (E2 group), followed by an injection of 125 µg of the PGF2α, analog cloprostenol. On that occasion, the E2 group received an additional injection of 300 IU eCG. Twenty-four hours later, the GnRH group received a second injection of 125 µg cloprostenol, while the E2 group received 1 mg EB. The heifers were inseminated 72 (GnRH group) or 54 hours (E2 group) after removal of the P4 device. At the time of insemination, the GnRH group received additionally an injection of 100 µg GnRH. Estrus was monitored during the period of cloprostenol injection until the time of artificial insemination and pregnancy was diagnosed 40 days after insemination by transrectal ultrasonography. The data were analyzed by Fisher’s exact test. The pregnancy rate was 38.8% and 31.4% in the GnRH and E2 groups, respectively (P>0.05). The ovarian condition of the heifers (estrus or anestrus) tended to influence (P=0.07) pregnancy rates in the GnRH group, but not in the E2 group. At the time of artificial insemination, 33.3% of heifers in the GnRH group showed signs of estrus versus 88.2% in the E2 group (P",
+	"xml:lang":"eng"
+	}
+	}}

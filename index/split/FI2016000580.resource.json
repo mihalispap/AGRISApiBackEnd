@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of repeated slash removal in thinned stands on soil chemistry and understorey vegetation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rosenberg, Olle.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jacobson, Staffan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"harvennus"},
+	{"value":"undergrowth"},
+	{"value":"soil chemistry"},
+	{"value":"thinning"},
+	{"value":"alikasvos"},
+	{"value":"carbon"},
+	{"value":"cations"},
+	{"value":"typpi"},
+	{"value":"kationit"},
+	{"value":"hiili"},
+	{"value":"whole tree logging"},
+	{"value":"kokopuumenetelmä"},
+	{"value":"nitrogen"},
+	{"value":"maaperäkemia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000580",
+	"dct:identifier":"FI2016000580",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

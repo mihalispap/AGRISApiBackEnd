@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"New records of mites (ACARI: PROSTIGMATA) on Vitis sp. (L.) in Brazil",
+	"xml:lang":"eng"
+	},
+	{"value":"   Novos registros de ácaros (ACARI: PROSTIGMATA) em Vitis sp. (L.) no Brasil ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"tarsonemus pallidus",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"4/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202012",
+	"dct:identifier":"BR2015202012",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/416/213",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bertolo Fernanda"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moura Raquel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Matioli Andre"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ott Ana"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Sul"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Sul"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Biologico de São Paulo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Sul"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Tetranychus mexicanus (McGregor, 1950) (Tetranychidae) foi coletado em folhas de videiras (Vitis vinifera L. and V. labrusca L.) em Caxias do Sul, RS, Brasil. Este é o primeiro registro desta espécie ocorrendo em videira no sul do Brasil. Phytonemus pallidus (Banks, 1899) e Tarsonemus confusus Ewing, 1939 (Tarsonemidae) foram encontrados em folhas de videira (V. vinifera) em Sant’Ana do Livramento, RS, Brasil. Este é o primeiro registro destas espécies de tarsonemídeos ocorrendo emvideira no Brasil.",
+	"xml:lang":"por"
+	},
+	{"value":"Tetranychus mexicanus (McGregor, 1950) (Tetranychidae) was found on leaves of grapevines (Vitis vinifera L. and V. labrusca L.) in Caxias do Sul, RS, Brazil. This is the first register of this mite species occurring on grapevine in South Brazil. Phytonemus pallidus (Banks, 1898) and Tarsonemus confusus Ewing, 1939 (Tarsonemidae) were found on leaves grapevines (V. vinifera) in Sant’Ana do Livramento, RS, Brazil. This is the first register of these tarsonemids species occurring on grapevine in Brazil.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

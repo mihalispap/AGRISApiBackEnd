@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of postharvest water replacement on shelf life of parsley leaves.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Finger, Fernando L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Álvares, Virginia de S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Silva, Jacson R. da.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Calestine, Caetano.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Casali, Vicente W. D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content"},
+	{"value":"postharvest decay"},
+	{"value":"Petroselinum crispum"},
+	{"value":"leaves"},
+	{"value":"storage losses"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001705",
+	"dct:identifier":"FI2016001705",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

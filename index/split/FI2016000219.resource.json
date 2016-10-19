@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/41195/12398",
+	"dct:language":"eng",
+	"dct:title":{"value":"The flows and balances of P, K, Ca and Mg on intensively managed Boreal high input grass and low input grass-clover pastures.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Järvenranta, Kirsi,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Virkajärvi, Perttu,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heinonen-Tanski, Helvi,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"calcium"},
+	{"value":"fosfori"},
+	{"value":"magnesium"},
+	{"value":"grazing lands"},
+	{"value":"clover"},
+	{"value":"nitrogen"},
+	{"value":"kalium"},
+	{"value":"grasses"},
+	{"value":"laiduntaminen"},
+	{"value":"lannoitus"},
+	{"value":"nutrient uptake"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"nurmet"},
+	{"value":"kalsium"},
+	{"value":"nutrient balance (plants)"},
+	{"value":"Finland"},
+	{"value":"phosphorus"},
+	{"value":"fertilizer application"},
+	{"value":"nutrients"},
+	{"value":"laitumet"},
+	{"value":"ravinnetase"},
+	{"value":"lannoitustaso"},
+	{"value":"ravinteiden otto"},
+	{"value":"runoff"},
+	{"value":"grasslands"},
+	{"value":"potassium"},
+	{"value":"ravinteet"},
+	{"value":"leaching"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000219",
+	"dct:identifier":"FI2016000219",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

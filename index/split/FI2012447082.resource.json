@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of vermicompost on the growth and yield of spinach (Spinacia oleracea L.)"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2012447082",
+	"dct:identifier":"FI2012447082",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/a7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Peyvast, Gh. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Olfati, J.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Madeni, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Forghani, A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effects of different amounts of vermicompost (0, 10, 20 and 30%) to sandy loam soil on growth, yield and chemical characteristics of spinach (Spinacia oleracea L.) cultivar Virofly were investigated in an unheated greenhouse at the Horticultural Department the Guilan University, Rasht, Iran, during 2006 using Complete Randomized Design (CRD). The results showed that an addition of vermicompost to soil can increase plant height and number of leaves significantly. Spinach leaves and roots were highest when fertilized with vermicompost and lowest when the vermicompost was not supplied. The plants with 10% vermicompost added to soil gave significantly highest leaf area, potassium, phosphorus, total nitrogen, calcium and magnesium and nitrate-N in petioles and leaves, total soluble solids and microelements such as iron, copper, manganese and zinc."}
+	}}

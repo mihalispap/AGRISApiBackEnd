@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Ethological response and haematological and biochemical profiles of carp (Cyprinus carpio) exposed to trichlorfon"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591972",
+	"dct:identifier":"US201301591972",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e15.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Ghanim, Khalid A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Balawi, Hmoud F. Al-Kahem (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Akel, Ali S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Misned, Fahad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmad, Zubair (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Annazri, H. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Specimens of carp (Cyprinus carpio) exposed to different lethal and sublethal concentrations of trichlorfon showed restlessness, excess secretion of mucus, rapid body movements and difficulty in respiration. The LC50 values along with 95% fiducial lower and upper limit (in parentheses) for 24, 48, 72 and 96 h, computed from a probit graph for tested fish were 26.65 (26.03-27.17), 23.40 (22.55-24.30), 20.92 (20.26-21.61) and finally 18.74 (18.18- 19.30) mg/l, respectively. Haematological parameters studied showed that the erythrocytes count, haemoglobin concentrations and haematocrit values increased whereas leukocytes count dropped down after trichlorfon exposure. Values of erythrocytic indices like MCV, MCH and MCHC also changed. Differential counts showed that the trichlorfon causes lymphopenia, thrombopenia and neutrophilia in the toxicant exposed fish. Level of glycogen in muscles and liver of fish decreased significantly (p<0.05) while glucose level increased remarkably after pesticide treatment. A significant reduction in the acetylcholinesterase (AChE) activity in the brain tissue of the fish exposed to trichlorfon was registered."}
+	}}

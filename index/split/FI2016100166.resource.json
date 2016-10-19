@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f23.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of the probiotic properties of a strain of Lactobacillus plantarum isolated from fermenting corn slurry (Ogi)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Oyetayo, V.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Osho, B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100166",
+	"dct:identifier":"FI2016100166",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The probiotic potential of a strain of Lactobacillus plantarum isolated from fermenting corn slurry was investigated. The isolate displayed a good inhibitory action against some pathogenic and spoilage bacteria with zones of inhibition between 1-4 mm. The adhesive ability of the strain (3 bacteria/IEC) to ileal epithelial cell (IEC) of rat was also adequate. Beneficial effects such as lower serum aminotransferases and cholesterol was recorded for rats dosed with Lactobacillus plantarum (LS). Moreover, the serum alkaline phosphatase activity was also low but not significant (P<0.05) from control (CS). However there was an increase in the level of these biomarkers in the serum of the rats dosed with Lactobacillus plantarum and simultaneously challenged with E. coli (LC)."}
+	}}

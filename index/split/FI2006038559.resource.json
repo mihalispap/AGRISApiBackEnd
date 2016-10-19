@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Container opening design for horticultural produce cooling efficiency"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038559",
+	"dct:identifier":"FI2006038559",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f24.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"de Castro, Larissa R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vigneault, Clément (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cortez, Luís A. B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Rapid cooling is recommended to decrease postharvest losses of fruits and vegetables. Cooling rate and homogeneity are affected by the package design. Thus, the aim of this research was to evaluate the effect of different container opening configurations on cooling process. The variables analyzed were: thirteen opening designs and four airflow rates. Twenty-eight out of the 224 produce simulators inside the container were instrumented with thermocouple. The configurations of the openings on the package walls were compared in terms of three individual orifice areas (0.67, 1 and 2%) distributed in 4 and 3 positions in width and height (X and Y directions), respectively. The statistical analysis demonstrated that airflow rate was the most important variable in explaining the variations of half-cooling time. The opening position in Y direction had no significant effect on pressure drop, cooling rate and its uniformity. At the maximum airflow rate studied, individual area and position of the openings had no significant effect on half-cooling time. Increasing total opening area for more than 8% did not produce significant cooling rate increment. The 14% opening area generated cooling rates as uniform as the ones obtained using fully opened configuration as well as negligible differences in pressure drop."}
+	}}

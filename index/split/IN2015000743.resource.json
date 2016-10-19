@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Market integration of arecanut in Karnataka state: An error correction model approach",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":404,
+	"dc:subject":[
+		{"value":"error correction model"},
+	{"value":"market integration"},
+	{"value":"arecanut"},
+	{"value":"cointegration"},
+	{"value":"areca",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":410,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000743",
+	"dct:identifier":"IN2015000743",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kiran Kumar R. Patil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aditya, K. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manjunatha, G.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chinnappa, B."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Arecanut, being an important commercial and plantation crop of Karnataka, its influence on state economy is significant and profound. To stabilize the vital arecanut economy in the state, government has to emphasize on both production and market related issues. But the existing government policies are favoring the production related aspects. While the existing fewer government policies related to marketing are devised devoid of information on market integration, which is unscientific. In order to formulate scientific policies in case of arecanut, consideration of market integration becomes imperative. In order to assess the existence of market integration in arecanut, data on monthly modal prices of arecanut was collected through Agmarknet from seven representative markets in Karnataka state. Cointegration and error correction model were employed to test the presence of market integration and the results of the study revealed that the arecanut markets in the state are integrated with high speed of adjustment. Thus, it can be concluded that integrated arecanut markets are efficient in price transmission. Hence, in order to stabilize arecanut economy government has to stabilize the prices in one important market, which will be transmitted to other markets automatically with a speed equal to coefficient of error correction, eventually reducing the cost of stabilization.",
+	"xml:lang":"eng"
+	}
+	}}

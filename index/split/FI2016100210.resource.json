@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f3.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Inhibition of lipid metabolic enzymes using Mangifera indica extracts"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Moreno, Diego A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ripoll, Christophe (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ilic, Nebojsa (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Poulev, Alexander (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aubin, Cristin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raskin, Ilya (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100210",
+	"dct:identifier":"FI2016100210",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This study assesses the effects of mango tree (Mangifera indica L.) extracts (stem bark – MSB and leaves – ML) on lipases (pancreatic lipase, lipoprotein lipase and hormone-sensitive lipase). The MSB and ML samples were extracted in 95% ethanol and the extracts assayed for the inhibition of pancreatic lipase (PL) and lipoprotein lipase (LPL) as well as for the inhibition of lipolysis of 3T3-L1 adipocytes. We have also examined the anti-obesity action of MSB and ML by testing whether the extracts prevented weight gain induced by feeding a high-fat diet to male Wistar rats for 12 weeks. Both MSB and ML inhibited PL and LPL, suggesting that they may affect both fat absorption and the uptake of fatty acids, if enough of the active components can be absorbed and entered into the circulation. The inhibition of stimulated lipolysis by MSB and ML suggested that the cells took up the active components of the extracts. In addition, MSB and ML increased fecal fat excretion and reduced serum glucose and insulin levels and down-regulated some obesity-related genes (LPL, hormone-sensitive lipase, fatty acid synthase, resistin) in liver and epididymal fat. The precise molecular mechanisms by which MSB and ML inhibit lipases and lipolysis still requires further investigation.However, the relative biochemical complexity of these extracts may produce a pleiotropic action on several lipid and carbohydrate metabolism targets simultaneously, making MSB and ML multifunctional botanical therapeutics useful in weight control. MSB and ML or some of their components may also provide effective biochemical tools for studying the complex relationships between energy balance, adiposity and endocrine function."}
+	}}

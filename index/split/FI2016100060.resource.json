@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a24.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Labour cost as a correlate of output value in cocoa production: A case of Cocoa Research Institute of Nigeria (CRIN)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Emaku, Leo A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lawal, Justina O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100060",
+	"dct:identifier":"FI2016100060",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Using the participatory research evaluation approach techniques this study examined the labour cost vis-a-vis the revenue generated from cocoa plantations at CRIN in the year 2000. Four different categories of labour were involved in the maintenance and husbandry of cocoa plantations. With a total number of 1,538 workers, 1,270 casual labourers (C/L) contributing 34.4% to cost of production, 48 assistant chief agricultural field overseers (ACAFO) 8.4% to cost; 172 senior agricultural field overseers (SAFO) 25.3% to cost and 48 principal agric. superintendents (PAS) with 31.9% contribution to cost. Data collected was subjected to descriptive and regression statistics, analysis of variance and t-test for accuracy. The regression statistics, labour account for 35% of the value of production and ANOVA at 5% level of probability (α = 0.05) show there is significant difference between labour cost and revenue. Regression line showed a strong correlation between labour cost and revenue. The number and categories of labour/ workers was hypothetically reduced to 528 in the same year. The cost of production was reduced drastically from N8,639,607 to N1,649,504 , but the same revenue N895,018 was generated. At the peak of production for the hypothetically reduced category, a profit of N16,289 was generated compared to when there was no reduction of workers. The analysis of variance and t-test for this group showed no significant difference in terms of cost of labour and the revenue. Thus, the cost of procuring labour would not be too expensive to bear in the maintenance of cocoa research plots. The deficit in the cost and revenue of production at CRIN can be attributed to be part of the cost of maintaining research plots for future economic dividend for the institute and the nation."}
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Produce-simulator property evaluation for indirect airflow distribution measurement through horticultural crop package.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vigneault, Clément.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Castro, Larissa R. de.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"containers"},
+	{"value":"simulointi"},
+	{"value":"horticulture"},
+	{"value":"simulation"},
+	{"value":"heat"},
+	{"value":"kuljetussäiliöt"},
+	{"value":"puutarhatuotteet"},
+	{"value":"jäähdytys"},
+	{"value":"tuuletus"},
+	{"value":"packaging"},
+	{"value":"cooling"},
+	{"value":"kontit"},
+	{"value":"ilmanvaihto"},
+	{"value":"air"},
+	{"value":"plant products"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000619",
+	"dct:identifier":"FI2016000619",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

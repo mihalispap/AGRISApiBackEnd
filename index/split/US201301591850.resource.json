@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relationships between antiplatelet activity, dry matter content and flavor in onion cultivars"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591850",
+	"dct:identifier":"US201301591850",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sance, Maria M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"González, Roxana E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Soto, Verónica C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Galmarini, Claudio R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A number of studies suggest that dietary intake of onion (Allium cepa L.) benefits cardiovascular health. The in vitro antiplatelet activity observed in Alliums is influenced by genotype and environmental factors. Few descriptions about Argentinean onion cultivars and their health benefits have been reported. To investigate the relationship between antiplatelet effect, pyruvic content, soluble solids content and total dry matter, eight Argentinean onion cultivars (‘Angaco INTA’, ‘Antartica INTA’, ‘Ancasti INTA’, ‘Refinta 20’, ‘Valcatorce INTA’, ‘Valuno INTA’, ‘Cobriza INTA’ and ‘Navideña INTA’) of different physiological requirements for bulbification and genetic background were grown during two years. Thirty days after harvest onion bulbs were sampled, and pungency, dry matter, soluble solids and in vitro antiplatelet activity were analyzed. Significant cultivar x year interactions were observed for all studied variables (P < 0.05). ‘Refinta 20’ and ‘Antartica INTA’ showed 100% inhibition of platelet aggregation, while ‘Angaco INTA’ presented the lowest inhibiting effect. Significant positive correlations were found between in vitro antiplatelet activity and pyruvic acid content, soluble solids and dry matter content in both years. There seems to be interesting differences among cultivars according to their origins. ‘Angaco INTA’ originated from ‘Valencianita’ populations shows low pungency and also low in vitro antiplatelet activity, whereas cultivars selected from ‘Valenciana’ type populations show intermediate pungency and antiplatelet activity. ‘Refinta 20’ selected from ‘Southport White Globe’ populations has the highest antiaggregatory effect, pungency and solids. Another interesting relationship seems to be related to bulb color; white–bulb cultivars (‘Ancasti INTA’, ‘Refinta 20’, and ‘Antartica INTA’) have more soluble solids content and in vitro antiplatelet activity than colored bulb cultivars."}
+	}}

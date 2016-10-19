@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Blood goup and protein polymorphism in the Finnish native cattle populations /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kantanen, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ojala, Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"itäsuomenkarja"},
+	{"value":"genetic polymorphism"},
+	{"value":"finland"},
+	{"value":"muuntelu"},
+	{"value":"nautakarjarodut"},
+	{"value":"pohjoissuomenkarja"},
+	{"value":"ayshire"},
+	{"value":"cattle"},
+	{"value":"blood proteins"},
+	{"value":"valkuaisaineet"},
+	{"value":"land races"},
+	{"value":"blood groups"},
+	{"value":"veriryhmät"},
+	{"value":"länsisuomenkarja"},
+	{"value":"friisiläinen"},
+	{"value":"genotyyppi"},
+	{"value":"genetic distance"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002179",
+	"dct:identifier":"FI2016002179",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/e8.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Mechanisms promoting recovery from defoliation in determinate and indeterminate soybean cultivars"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Li, Xiangjun (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"An, Ping (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Inanaga, Shinobu (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Eneji, A. Egrinya (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ali, Abdelbagi Mukhtar (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100367",
+	"dct:identifier":"FI2016100367",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effects of defoliation on soybean [Glycine max (L.) Merr.] yield have been widely studied, but the mechanisms promoting recovery from defoliation have not been well understood. This greenhouse study was aimed at determining the recovery mechanisms after defoliation in determinate (Enrei) and indeterminate (Tousan 69) soybean cultivars. Three defoliation treatments (control, 67% and 100%) were applied at the reproductive stage (R2) when all plants had at least one flower in the two uppermost nodes. The effects of defoliation on vegetative growth and yield were determined. The 67% defoliation did not cause a significant reduction in yield, but the yield was markedly reduced at 100% defoliation. The reduction in yield due to complete defoliation was less in Tousan 69 indicating that intermediate soybeans may be more tolerant of defoliation, and consequently insect damage, than determinate ones. The mechanisms promoting recovery from defoliation were different between the two soybean cultivars. The determinate cultivar (Enrei) allocated more biomass to reproductive organs after defoliation, which resulted in less leaf regrowth. Although delayed leaf senescence was found, this was only for the remaining leaves. On the other hand, the indeterminate cultivar (Tousan 69) increased biomass partitioning to leaves through delayed reproductive development, which allowed defoliated plants to product more new leaves. Delayed leaf senescence was prominent for the remaining as well as for the regrowth leaves. Those different mechanisms can result in different compensatory ability and relationship between defoliation and yield loss. Determinate and indeterminate cultivars will, therefore, have different degrees of tolerance to insect damage."}
+	}}

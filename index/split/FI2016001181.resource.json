@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Machinery systems management of walking tractor (power tiller) for rice production (sawah) in Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fashola, Oluwarotimi O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ademiluyi, Segun Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Faleye, Tope.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    James, David.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wakatsuki, Toshiyuki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant production"},
+	{"value":"rice"},
+	{"value":"Oryza sativa"},
+	{"value":"equipment"},
+	{"value":"production costs"},
+	{"value":"walking tractors"},
+	{"value":"small farms"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001181",
+	"dct:identifier":"FI2016001181",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

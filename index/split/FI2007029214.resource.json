@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of salt iodization on the quality of pickled vegetables"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029214",
+	"dct:identifier":"FI2007029214",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f27.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amr, Ayed S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jabay, Omar A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Vegetables were pickled in 100 g L-1 brines prepared from refined and crude table salt (NaCl) obtained from the Dead sea and natural brine wells (wet-mined) with and without the addition of 40 mg kg-1 iodine in the forms of KIO3 or KI. The effect of iodine form, salt source and refining on the sensory quality, iodine content and vitamin C content of the pickles, as well as vitamin A content of carrot pickles was studied. Sensory evaluation results indicated that iodization has no effect on the taste of the pickles, while the addition of KIO3 to both crude and refined salt resulted in significant (P=0.05) darkening and discoloration of most pickled vegetables regardless of the salt source. Addition of KIO3 also resulted in significant (P<0.05) softening of the pickles prepared from both crude and refined Dead sea salt, while this effect was less pronounced in the case of the wet-mined salt. None of these negative effects was noticed when potassium iodide was used. The process of pickling also resulted in great reduction in vitamin C levels in the pickled vegetables, and a similar reduction in vitamin A level in pickled carrots, while the process of iodization had no pronounced effect on the pickle content of these vitamins regardless of the salt source or refining. Iodine concentration in the pickled vegetables reached levels of 1.60-1.80 mg kg -1 or about 40-45% of its initial concentration in the respective brines, regardless of the type of salt used or the form of iodine added, while iodine concentration in the brines reached 1.6-2.1 mg kg-1 after the same period."}
+	}}

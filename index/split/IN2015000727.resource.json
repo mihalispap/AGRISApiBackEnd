@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Molecular characterization and association analysis in cashew using RAPD and ISSR markers",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":292,
+	"dc:subject":[
+		{"value":"phenotypic trait"},
+	{"value":"ISSR"},
+	{"value":"RAPD"},
+	{"value":"genetic diversity"},
+	{"value":"marker association"},
+	{"value":"cashews",
+	"xml:lang":"eng"
+	},
+	{"value":"anacardo",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de cajou",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":40,
+	"bibo:pageEnd":299,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000727",
+	"dct:identifier":"IN2015000727",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shobha, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thimmappaiah"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jose, C.T."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Assessment of genetic diversity in 146 accessions of cashew using RAPD and ISSR markers and its phenotypic evaluation carried out on14 traits revealed considerable variability existing among the accessions. An association analysis was carried out using 96 polymorphic markers (40 RAPD and 56 ISSR) used in diversity analysis with the 14 phenotypic traits studied. Stepwise multiple regression analysis revealed 24 markers in RAPD, 33 markers in ISSR and 48 combined (RAPD and ISSR) markers associating with at least one or more of the phenotypic traits. Several markers associating with a single phenotypic trait and a single marker associating simultaneously with several phenotypic traits (pleiotropy)were observed. The number of markers regressing on each phenotype varied from 1 to 8 in RAPD, 3 to 10 in ISSR and from 3 to 12 with combined markers. Maximum number of RAPD markers (8) was associated with sex ratio followed by 5 markers for flowering intensity (%) and 4 markers for tree spread. Similarly, highest numbers of ISSR markers (10)were associated with inter-node length followed by 8 markers each for percentage of flowering intensity and sex ratio.Highest numbers of combined markers (13) were associated with twig diameter followed by 12 markers for flowering intensity, 11 markers for inter-node length and 10 markers for sex ratio. Least number of markers (1-3) was associated with apple weight followed by number of leaves /twig and kernel weight. R2 value improved with inclusion of ISSR and combined markers. Markers with significant association are of value if deployed in MAS after due validation.",
+	"xml:lang":"eng"
+	}
+	}}

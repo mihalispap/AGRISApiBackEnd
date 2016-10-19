@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of heat stress on antioxidant status in Beetal goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":178,
+	"dc:subject":[
+		{"value":"vitamine",
+	"xml:lang":"fre"
+	},
+	{"value":"enzimas",
+	"xml:lang":"esp"
+	},
+	{"value":"estres termico",
+	"xml:lang":"esp"
+	},
+	{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"antioxidants",
+	"xml:lang":"eng"
+	},
+	{"value":"stress thermique",
+	"xml:lang":"fre"
+	},
+	{"value":"heat stress",
+	"xml:lang":"eng"
+	},
+	{"value":"antioxydant",
+	"xml:lang":"fre"
+	},
+	{"value":"enzyme",
+	"xml:lang":"fre"
+	},
+	{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"vitamins",
+	"xml:lang":"eng"
+	},
+	{"value":"antioxidantes",
+	"xml:lang":"esp"
+	},
+	{"value":"enzymes",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"vitaminas",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":181,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000198",
+	"dct:identifier":"IN2015000198",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Manish"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jindal, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nayyar, S."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Oxidative stress may be a crucial factor affecting heat tolerance, thus affecting productive / reproductive performance in farm animals. The effect of summer heat stress was evaluated on the status of various parameters related to oxidative stress. Haematological parameters (packed cell volume and haemoglobin), antioxidant vitamins (vitamins C and E) and enzymes (glutathione peroxidase and superoxide dismutase) were assessed in Beetal goats during pre-summer and summer months. Stressed goats exhibited lower levels of haemoglobin, packed cell volume, vitamin C and E. The activity of glutathione peroxidase was lowered and superoxide dismutase activity increased. It was concluded that oxidative stress was increased in goats during summer.",
+	"xml:lang":"eng"
+	}
+	}}

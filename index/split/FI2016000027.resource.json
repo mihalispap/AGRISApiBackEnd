@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1046",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nordström, Eva-Maria,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Holmström, Hampus.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Öhman, Karin.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Evaluating continuous cover forestry based on the forest owner's objectives by combining scenario analysis and multiple criteria decision analysis.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"sustainable forest management"},
+	{"value":"planning"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"uneven aged stands"},
+	{"value":"metsänarviointi"},
+	{"value":"forestry"},
+	{"value":"decision making"}
+	],
+	"bibo:doi":"10.14214/sf.1046",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000027",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000027",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

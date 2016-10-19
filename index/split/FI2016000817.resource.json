@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Localisation of primary food production in Finland : production potential and environmental impacts of food consumption patterns /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Risku-Norja, Helmi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hietala, Reija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Virtanen, Hanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ketomäki, Hanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Helenius, Juha.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ympäristö"},
+	{"value":"alkutuotanto"},
+	{"value":"ruoka"},
+	{"value":"kulutus"},
+	{"value":"Finland"},
+	{"value":"environmental impact"},
+	{"value":"elintarviketuotanto"},
+	{"value":"traditional farming"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"lähiruoka"},
+	{"value":"organic agriculture"},
+	{"value":"foods"},
+	{"value":"ympäristövaikutukset"},
+	{"value":"tavanomainen viljely"},
+	{"value":"food consumption"},
+	{"value":"tuotanto"},
+	{"value":"maaseutu"},
+	{"value":"food production"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000817",
+	"dct:identifier":"FI2016000817",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

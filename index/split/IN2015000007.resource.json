@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Integrated management of Pink Canker (Corticium salmonicolor Berk. &Br.) in Apple",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":22,
+	"dc:subject":[
+		{"value":"management",
+	"xml:lang":"eng"
+	},
+	{"value":"gestion",
+	"xml:lang":"esp"
+	},
+	{"value":"integracion",
+	"xml:lang":"esp"
+	},
+	{"value":"corticium",
+	"xml:lang":"esp"
+	},
+	{"value":"apples",
+	"xml:lang":"eng"
+	},
+	{"value":"manzana",
+	"xml:lang":"esp"
+	},
+	{"value":"pomme",
+	"xml:lang":"fre"
+	},
+	{"value":"integration",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":45,
+	"bibo:pageEnd":29,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000007",
+	"dct:identifier":"IN2015000007",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Mycology and Plant Pathology (India)"},
+	"bibo:ISSN":{"value":"0975-4180"}
+	}
+	},
+	"dct:issued":"mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prashad, Durga"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shama, I.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhiman, Sushil"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Combined efficacy of six in vitro effective fungicides, three plant oils, three botanicals, and five antagonists revealed that combination of Contaf + Brassica juncea var Cunefolia provided aximum wound recovery (92.94%) and callus formation followed by combinaion of Score + Brassica juncea var cunefolia (91.86%). However, integration of Contaf + Cow urine + Melia azedarach + Vitexnegundo + Artimisia roxburghiana +Juglans regia +Roylea elegans and Score + Cow urine + Melia azedarach + Vitex negundo + Artimisiarox burghiana + Juglans regia + Roylea elegans xhibited maximum wound recovery (87.17 and 85.81%), respectively. A combination of Contaf + Pseudomonas sp., significantly resulted maximum wound recovery (82.35%) in 2011 than in 2012 with wound recovery of 78.59 per cent followed by combination of Contaf + Trichoderma hamatum with 81.37 and 78.52 per cent wound recovery, respectively. Callusing of more than 10 mm was also found maximum in integration of Contaf + Pseudomonas sp. and Contaf + Trichoderma hamatum. Combination of Avtar + Bacillus subtilis (BS,), Score + Bacillus subtilis (BS,), Contaf + Bacillus subtilis (BS,) and Score + Actinomycetes sp. provided 74.92, 73.11, 71.11 and 74.18 per cent wound recovery, respectively. Hence combined application of fungicides with plant oils, botanicals, and BCAs is an important substitute for integrated management of pink canker in apple.",
+	"xml:lang":"eng"
+	}
+	}}

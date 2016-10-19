@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Laboratory standardization of procedure for the preparation of Zou – a fermented beverage made from rice"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Panmei, Chamgongliu (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gautam, Satyendra (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Variyar, Prasad S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devi, G. A. Shantibala (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Arun (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100393",
+	"dct:identifier":"FI2016100393",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Zou or Yu is a distilled product of rice beer prepared using Albizzia bark. Albizzia bark was found to provide an ecological niche to a mold and a few yeast strains. The mold strain was found to be responsible for the alcoholic fermentation of rice. The strain was identified as Mucor indicus Lendner. For the fermentation process a starter culture called hamei (khai) was prepared by inoculating aqueous mixture of gamma sterilized rice and bark powders with M. indicus culture. Hamei was used as inoculum for the fermentation of rice slurry. The fermentation was carried out for 5 days at ambient temperature (26 ± 2°C). After completion of the fermentation, the beer was distilled at 78°C. The ethanol yield was quantified by gas chromatographic and alcohol dehydrogenase assay methods."}
+	}}

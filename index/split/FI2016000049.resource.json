@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Simple and rapid method of analysis for determination of pesticide residues in honey using dispersive solid phase extraction and GC determination /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Barakat, Ahmed A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Badawy, Hany M. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salama, Emil.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Attallah, Emand.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maatook, Gouda.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"food contamination"},
+	{"value":"pesticide residues"},
+	{"value":"analytical methods"},
+	{"value":"honey"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000049",
+	"dct:identifier":"FI2016000049",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Mården - uppfödning och förökning i farmförhållande /",
+	"xml:lang":"swe"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Korhonen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pyyvaara, Päivi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemelä, Paavo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kasvatuskokeet"},
+	{"value":"animal husbandry"},
+	{"value":"fur bearing animals"},
+	{"value":"finland"},
+	{"value":"martens"},
+	{"value":"turkistarhaus"},
+	{"value":"reproduction"},
+	{"value":"turkiseläimet"},
+	{"value":"näätä"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000349",
+	"dct:identifier":"FI2016000349",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

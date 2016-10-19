@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"A controvérsia da nova classe média brasileira",
+	"xml:lang":"por"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Ualace Roberto de Jesus Oliveira "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00013",
+	"dct:identifier":"BR2015M00013",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"No presente trabalho será abordada a visão de alguns autores sobre a controvertida temática da \"nova classe média\", destacando, assim, as diferenças conceituais e metodológicas existente entre a visão dos partidários da concepção de que há uma \"nova classe média\" brasileira e daqueles que são contrários a tal concepção. No presente trabalho serão discutidos também os avanços sociais ocorridos no Brasil nas ultimas décadas. Não obstante, a tradicional classe média também será discutida nesse processo, uma vez que para compreender o \"fenômeno\" que gerou a primeira é necessário entender a segunda, fato que permitirá, inclusive, possíveis comparações entre esses dois grupos",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

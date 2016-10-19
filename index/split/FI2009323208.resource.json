@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Greek oregano (Origanum vulgare ssp. hirtum) as allelopathic plant"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009323208",
+	"dct:identifier":"FI2009323208",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e22.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Economou, Garyfalia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Travlos, Ilias S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Folinas, Athanasios (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karamanos, Andreas J. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Roots, leaves and shoots from Origanum vulgare ssp. hirtum were evaluated for their allelopathic potential on the biosensor plants Avena sativa and Lemna minor through in vivo and in vitro studies. The in vivo study was performed in growth chambers, using 5, 10 and 20 g of oregano tissue mixed with screened perlite as a substrate. The effects of oregano leaves and roots were evaluated by determining the shoot and root fresh and dry weight of oat. The in vitro experiments were performed in Petri dishes and Erlenmeyer flasks where seeds from the two biosensor species were subjected to an increasing concentration of oregano extract. The extracts were obtained from oregano roots and shoots that were diluted with water and either shaked at room temperature or placed in water bath at 40°C for 24 h. The allelopathic potential of the oregano tissues was confirmed with bioassays using oat (Avena sativa) and duckweed (L. minor) and determination of fresh weight and radicle length, respectively. The results strongly suggested the allelopathic potential of the oregano tissue, being more pronounced in the roots and moderate in the leaves and shoots. The inhibition of the L. minor suggested that the water soluble phytotoxic compounds were inhibitors of Photosystem II."}
+	}}

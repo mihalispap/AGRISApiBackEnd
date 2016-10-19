@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Reduced tillage: influence on erosion and nutrient losses in a clayey field in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Koskiaho, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kivisaari, Simo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vermeulen, Stephan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kauppila, Raimo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kallio, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Puustinen, Markku.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"auraton viljely"},
+	{"value":"erosion"},
+	{"value":"maanmuokkaus"},
+	{"value":"conservation tillage"},
+	{"value":"losses from soil"},
+	{"value":"phosphorus"},
+	{"value":"kevennetty maanmuokkaus"},
+	{"value":"nitrogen"},
+	{"value":"eroosio"},
+	{"value":"clay soils"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"ravinteet"},
+	{"value":"tillage"},
+	{"value":"savimaat"},
+	{"value":"leaching"},
+	{"value":"huuhtoutuminen"},
+	{"value":"minimum tillage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001799",
+	"dct:identifier":"FI2016001799",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

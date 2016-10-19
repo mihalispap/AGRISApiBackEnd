@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Susceptibility of different varieties of wheat and barley to cereal leafminer Syringopais temperatella Led. (Lep., Scythrididae) under laboratory conditions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Al-Zyoud, F. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salameh, N. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ghabeish, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saleh, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Agromyzidae"},
+	{"value":"barley"},
+	{"value":"larvae"},
+	{"value":"varieties"},
+	{"value":"wheats"},
+	{"value":"pests of plants"},
+	{"value":"leaves"},
+	{"value":"leaf area"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001468",
+	"dct:identifier":"FI2016001468",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

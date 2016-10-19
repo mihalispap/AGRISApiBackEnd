@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Anther culture properties of oat x wild red oat progenies and a search for RAPD markers associated with  anther culture ability /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kiviharju, Elina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laurila, Jaana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lehtonen, Mari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tanhuanpää, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Manninen, Outi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"random amplified polymorphic DNA technique"},
+	{"value":"ponsiviljely"},
+	{"value":"anther culture"},
+	{"value":"progeny"},
+	{"value":"androgenesis"},
+	{"value":"kaura"},
+	{"value":"Rapd"},
+	{"value":"risteytys"},
+	{"value":"haploidijalostus"},
+	{"value":"Avena sativa"},
+	{"value":"Avena sterilis"},
+	{"value":"genotypes"},
+	{"value":"oats"},
+	{"value":"genotyyppi"},
+	{"value":"susikaura"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001381",
+	"dct:identifier":"FI2016001381",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

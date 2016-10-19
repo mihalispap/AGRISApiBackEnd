@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/5144/5297",
+	"dct:language":"eng",
+	"dct:title":{"value":"Viability of Lactobacillus paraplantarum DSM 14485 in human gastrointestinal tract and its molecular and biochemical identification after fermented vegetable consumption.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tamminen, Marja Tuulikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ouwehand, Arthur C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäki, Maarit.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Joutsjoki, Tiina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sjöblom, Marietta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nissinen, Kaija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ryhänen, Eeva-Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lactic acid bacteria"},
+	{"value":"vihannekset"},
+	{"value":"probiootit"},
+	{"value":"intestinal flora"},
+	{"value":"suolisto"},
+	{"value":"maitohappokäyminen"},
+	{"value":"vegetables"},
+	{"value":"maitohappobakteerit"},
+	{"value":"elintarvikkeet"},
+	{"value":"viability"},
+	{"value":"identification"},
+	{"value":"fermented foods"},
+	{"value":"quality"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000270",
+	"dct:identifier":"FI2016000270",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

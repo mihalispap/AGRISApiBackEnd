@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Validation of IPM Technologies: Problems and Practices",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":342,
+	"dc:subject":[
+		{"value":"gestion de lucha integrada",
+	"xml:lang":"esp"
+	},
+	{"value":"integrated pest management",
+	"xml:lang":"eng"
+	},
+	{"value":"gestion integree des ravageurs",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":344,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000521",
+	"dct:identifier":"IN2015000521",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bhardwaj, Tulsi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, J.P."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The study was carried out to identify the impediments to IPM technology that are being faced by farmers. It was found that non-availability of multiple resistant varieties, lack of economic threshold, difficult to know ETL, high cost of labour and unawareness were the topmost problems to IPM technology faced by the agri-workers while adopting IPM technology. The maximum number (19) of problems observed by farmers were in the category of biological deterrents. While least number (6) was recorded in the category of technical deterrents. However, the interactive and socioeconomic category had a moderate number of impediments.",
+	"xml:lang":"eng"
+	}
+	}}

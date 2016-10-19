@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"Managing Multi-functional Forests Using Forest Development types (FDTs) - A Perspective from Monoculture Forests in Southern Subtropical China",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"forestry development",
+	"xml:lang":"eng"
+	},
+	{"value":"multipurpose forestry",
+	"xml:lang":"eng"
+	},
+	{"value":"monoculture",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513003",
+	"dct:identifier":"IN2016513003",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=5",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pang Lifeng"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jiang  Jun"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lu Yuanchang"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The Chinese Government wants to develop mixed stands with complex structures, particularly in monoculture forest areas. However, despite the enthusiasm for planting trees, is sufficient thought being given to the development of forestry objectives? A logical alternative would seem to describe the structure of such mixed stands through the use of specific-model management tools. This paper conceptualizes and assesses forest development types (FDTs) of management designs and silvicultural principles across three contemporary forest development types: the restoration, the nature-based, and the commercial paradigms. Forest development type design and silvicultural treatments were conceptualized from a review and case studies. The study was conducted as a case study focusing on the planning and development of long-term management goals for three mixed stands for multiple uses. Using FDTs, visual representations of planting design and stand development were obtained as a basis for the “expert” assessment of five criteria: the forest overview, the objectives, the proportion of tree species, the mix type, and the management operations. The assessment showed that forests vary considerably among planting designs and silvicultural systems. FDTs utilizing succession and variation in species, diversity, growth and tree regeneration offer an extended paradigm of multi-functional management. With regard to the ongoing move from timber-dominated forestry to the multifunctional management of mixed stands, fostering dialogue may be the most effective means for forest development types to contribute to the implementation of new management paradigms.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Hormonal management of ovarian activity in breeding camels two months ahead of the natural breeding season",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1,
+	"dc:subject":[
+		{"value":"foliculos ovaricos",
+	"xml:lang":"esp"
+	},
+	{"value":"camello",
+	"xml:lang":"esp"
+	},
+	{"value":"chameau",
+	"xml:lang":"fre"
+	},
+	{"value":"camels",
+	"xml:lang":"eng"
+	},
+	{"value":"ovarian follicles",
+	"xml:lang":"eng"
+	},
+	{"value":"follicule ovarien",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":1,
+	"bibo:pageEnd":12,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000355",
+	"dct:identifier":"IN2015000355",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Camel: An International Journal of Veterinary Sciences (India)"},
+	"bibo:ISSN":{"value":"2321-709X"}
+	}
+	},
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Quzy, I."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anwar, Suhel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Purohit, G.N."
+	}
+	}
+	],
+	"bibo:issue":1
+	}}

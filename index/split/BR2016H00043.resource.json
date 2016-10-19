@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":"2016-06-06",
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"CORRELAÇÃO DOS COMPONENTES VEGETATIVOS DA CULTURA DA PUPUNHA E DOS ATRIBUTOS QUÍMICOS DO SOLO"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Montanari, Rafael , Universidade Estadual Paulista ¨Júlio de Mesquita Filho\", Faculdade de Engenharia, Campus de Ilha Solteira, FEIS-UNESP."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lima, Elizeu de Souza, "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lovera, Lenon Henrique, "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ferrari, Samuel , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Queiroz, Hernandes Andrade, "
+	}
+	}
+	],
+	"dct:extent":"25-33",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00043",
+	"dct:identifier":"BR2016H00043",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"bibo:abstract":{"value":"A pupunha (Bactris gasipaes) tem se mostrado uma excelente opção econômica para os produtores rurais, pois sua produção de palmito permite precocidade de corte, rusticidade, perfilhamento abundante, boa palatabilidade, ausência de oxidação do palmito, alta produtividade e facilidade nos tratos culturais. Objetivou-se selecionar, entre os atributos do solo pesquisado, aquele com a melhor correlação, linear e espacial, para explicar a variabilidade da planta da pupunha. O experimento foi conduzido na fazenda de pesquisa e extensão da Faculdade de Engenharia de Registro (SP), foi avaliada a variabilidade espacial dos componentes vegetativos da pupunha e dos atributos químicos de um Cambissolo Eutrófico. Uma malha contendo 54 pontos foi georreferenciada de forma a representar toda a área de amostragem de aproximadamente 1 ha. Os atributos químicos apresentaram variabilidade de muito alta a baixa e os atributos de planta apresentaram variabilidade de média a muito alta. Os valores médios de MO, P, Ca e Mg encontrados estiveram próximos ao adequado para o desenvolvimento da pupunha, sendo explicado por um modelo exponencial e esférico altamente significativo em função do potássio e da CTC.."},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"REVISTA DE AGRICULTURA NEOTROPICAL"}
+	}
+	}
+	}}

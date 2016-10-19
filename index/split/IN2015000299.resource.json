@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on Occurrence and Distribution of Virulent Strains of Vibrio parahaemolyticus in Finfishes and Prawns from Different Ecosystem of Gujarat (India)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":7,
+	"dc:subject":[
+		{"value":"pouvoir pathogene",
+	"xml:lang":"fre"
+	},
+	{"value":"ecosystems",
+	"xml:lang":"eng"
+	},
+	{"value":"agent pathogene virulent",
+	"xml:lang":"fre"
+	},
+	{"value":"gambas y camarones",
+	"xml:lang":"esp"
+	},
+	{"value":"crevette",
+	"xml:lang":"fre"
+	},
+	{"value":"virulent pathogens",
+	"xml:lang":"eng"
+	},
+	{"value":"vibrio parahaemolyticus",
+	"xml:lang":"esp"
+	},
+	{"value":"pathogenicity",
+	"xml:lang":"eng"
+	},
+	{"value":"organismos patogenos virulentos",
+	"xml:lang":"esp"
+	},
+	{"value":"ecosysteme",
+	"xml:lang":"fre"
+	},
+	{"value":"patogenicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"ecosistema",
+	"xml:lang":"esp"
+	},
+	{"value":"gujarat",
+	"xml:lang":"esp"
+	},
+	{"value":"prawns and shrimps",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":11,
+	"bibo:pageEnd":10,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000299",
+	"dct:identifier":"IN2015000299",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_13ab7667"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Veterinary Public Health (India)"},
+	"bibo:ISSN":{"value":"0972-7485"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kshirsagar, D.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brahmbhatt, M.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chatur, Y.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sinha, N."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"In the present study occurrence and distribution of virulent strains of Vibrio parahaemolyticus in finfishes and prawns collected from different ecosystem of Gujarat viz., marine and fresh water were investigated. A total of 155 samples were subjected for isolation of Vibrio parahaemolyticus, of which 18 (11.61%) samples were found to be positive.  Among 105 marine fish samples comprising 65 finfishes and 40 prawns, 15 (14.28%) were found to be positive for V. parahaemolyticus and 50 fresh water fish samples comprising 30 finfishes and 20 prawns yielded 3 positive samples (6.0%). Furthermore, all positive V. parahaemolyticus isolates were studied for polymerase chain reaction (PCR) amplification of the toxR, tdh and trh genes. All the biochemically confirmed strains were found to have toxR (368 bp) gene fragment.  Only 2 (11.11%) isolates amplified tdh (269 bp) gene. None were found to amplify trh gene.",
+	"xml:lang":"eng"
+	}
+	}}

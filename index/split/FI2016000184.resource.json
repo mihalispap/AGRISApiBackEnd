@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Treatment of delignification effluent with Aspergillus 2BNL1 and optimization of biomass production /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Souza, João V. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Silva, Érica S. da.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Silva, João P. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rodrigues, Márcio B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Silva, Flávio T. da.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Paiva, Teresa C. B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"delignification"},
+	{"value":"jätteiden käsittely"},
+	{"value":"paperiteollisuus"},
+	{"value":"waste utilization"},
+	{"value":"cellulose"},
+	{"value":"pulp and paper industry"},
+	{"value":"biomass"},
+	{"value":"biomassa"},
+	{"value":"biological production"},
+	{"value":"Aspergillus"},
+	{"value":"ligniini"},
+	{"value":"selluloosa"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000184",
+	"dct:identifier":"FI2016000184",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

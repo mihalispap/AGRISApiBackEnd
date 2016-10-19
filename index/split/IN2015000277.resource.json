@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Feeding value of simaruba (Simarouba glauca) fat in broilers",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1060,
+	"dc:subject":[
+		{"value":"simaroubaceae",
+	"xml:lang":"esp"
+	},
+	{"value":"prise alimentaire (animaux)",
+	"xml:lang":"fre"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"efficacite conversion alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"feed intake",
+	"xml:lang":"eng"
+	},
+	{"value":"ingestion de piensos",
+	"xml:lang":"esp"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"eficiencia de conversion del pienso",
+	"xml:lang":"esp"
+	},
+	{"value":"feed conversion efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"alimentacion",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"alimentation",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1063,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000277",
+	"dct:identifier":"IN2015000277",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Behura, N.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dehuri, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, S.K."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The effects of simaruba fat (SF) use was studied on day-old broiler chicks (500). The chicks were distributed into 5 groups, each having 5 replicates. Test diets, viz. T 1  (control), T 2  (2.5% SF), T 3  (5% SF), T 4  (7.5% SF) and T  (10% SF) were tried. The body weight gain and feed consumption were recorded. The serum biochemical, enzyme activity and histopathological examinations were done at the end of experiment. The sixth week average body weight in T , T 4  and T  were 1854, 1845, 1836, 1829 and 1818g, respectively. The sixth week body weight of different groups did not differ significantly. The feed conversion ratio (FCR) of T 5 1 , T 2 , T 3 , T 4  and T  were 1.92, 1.90, 1.90, 1.88 and 1.87, respectively. The mean serum triglycerides, cholesterol, HDL cholesterol, total protein, albumin, globulin, serum urea nitrogen, and serum uric acid values of the broilers fed different levels of SF did not differ significantly from the control. There was no significant difference in the mean serum ASAT, ALAT and ALP activities between the groups. Histopathology examination revealed that in T 5,there was moderate to marked vascular congestion of the portal veins and sinusoidal distention with increased activity of Kupffer cells. The cost of broiler production was reduced with the increase in the level of SF in the diet. The experimental results revealed that the expeller pressed SF could be incorporated in the broiler ration up to 7.5% without any deleterious effect on growth and FCR.",
+	"xml:lang":"eng"
+	}
+	}}

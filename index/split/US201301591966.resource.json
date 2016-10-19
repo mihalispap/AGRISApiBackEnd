@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of excess copper on lettuce (Lactuca sativa L.) grown in soil and nutrient solution"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591966",
+	"dct:identifier":"US201301591966",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Teklić, Tihana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Engler, Meri (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cesar, Vera (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lepeduš, Hrvoje (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Parađiković, Nada (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lončarić, Zdenko (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Štolfa, Ivna (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marotti, Tatjana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mikac, Nevenka (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Žarković, Neven (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Lettuce is as a world-wide popular leafy vegetable, commonly grown in urban and suburban gardens exposed to the potential risk of soil contamination by intensive and uncontrolled usage of copper-based pesticides. In this research, the physiological response of two lettuce cultivars to excess copper was investigated in controlled conditions, where copper was administered in nutrient solution as 0.5 mM Cu for two days and in an experiment performed outdoors till the lettuce heads formation, using two soils with high total copper content (Cu 120 and 180 mg kg-1 soil). The evaluated parameters were copper accumulation in leaves, lipid peroxidation level, leaf protein and proline content as well as total and specific peroxidase activity. The results indicate similar physiological response mechanisms to copper induced oxidative stress in lettuce grown in different experimental conditions, depending on the severity of stress and cultivar tolerance. Based on the established copper accumulation in lettuce leaves, observed antioxidative activity (GPOX) and increased proline concentration, it could be concluded that the exposure of lettuce plants to excess copper in nutrient medium resulted with altered plant metabolism due to oxidative stress. A short treatment with high copper concentration in nutrient solution resulted in significant difference between cultivars in lipid peroxidation level, showing higher tolerance of cultivar Triatlon that accumulated more copper but had lower TBARS content than cultivar Nadine. Significant correlative relationships between free proline accumulation and peroxidase activity in leaves under influence of copper stress imply possible metabolic connections of enzymatic and non-enzymatic antioxidative response pathways in lettuce."}
+	}}

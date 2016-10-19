@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Research–extension–farmer linkage system in Southwestern Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Oladele, Oladimeji Idowu (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sakagami, Jun-Ichi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toriyama, Kazunobu (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100319",
+	"dct:identifier":"FI2016100319",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This paper examines the research–extension–farmer linkage system in Southwestern Nigeria due to the fact that many farmers have not been properly reached by agricultural extension services and the problem of poor food production has been attributed to the weak linkages existing between research, extension and farmers. Simple random sampling technique was used to select researchers, extension agents and farmers and their responses on involvement in linkage activities were elicited through a questionnaire. The result showed that there is a significant difference in the involvement of researchers, extension agents and farmers in linkage activities (F = 9.188, p < 0.05). The mean involvement score revealed that extension agents (68.00) are mostly involved in linkage activities followed by researchers (44.46) and then farmers (39.06). The paper concludes with the need for a closer collaboration among the three components."}
+	}}

@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Plant biotechnology for deeper understanding, wider use and further development of agricultural and horticultural crops.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Elomaa, Paula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Joensuu, Jussi J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Korpelainen, Helena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkinen, Kristiina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niklander-Teeri, Viola.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pirhonen, Minna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Seppänen, Mervi M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Teeri, Teemu H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valkonen, Jari P. T.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biotekniikka"},
+	{"value":"genetic engineering"},
+	{"value":"biotechnology"},
+	{"value":"plant production"},
+	{"value":"transgenic plants"},
+	{"value":"Finland"},
+	{"value":"genes"},
+	{"value":"kasvintuotanto"},
+	{"value":"geenitekniikka"},
+	{"value":"plant breeding"},
+	{"value":"molekyylibiologia"},
+	{"value":"kasvinjalostus"},
+	{"value":"kasvibiotekniikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000761",
+	"dct:identifier":"FI2016000761",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

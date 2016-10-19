@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Birth of twin kids following transfer of in-vitro produced goat embryos",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1132,
+	"dc:subject":[
+		{"value":"partos multiples",
+	"xml:lang":"esp"
+	},
+	{"value":"parto",
+	"xml:lang":"esp"
+	},
+	{"value":"embryo transfer",
+	"xml:lang":"eng"
+	},
+	{"value":"gestation multiple",
+	"xml:lang":"fre"
+	},
+	{"value":"transferencia de embriones",
+	"xml:lang":"esp"
+	},
+	{"value":"parturition",
+	"xml:lang":"fre"
+	},
+	{"value":"transfert embryonnaire",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"multiple births",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1134,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000314",
+	"dct:identifier":"IN2015000314",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kharche, S.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goel, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jindal, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goel, Puja"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jha Bipul Kumar"
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"Oocytes (1127) were collected from 531 goat ovaries of abattoir origin. Collected oocytes were matured in TCM199 medium containing 5Âµg/ml FSH, 10Âµg/ml LH, 10% FBS and 3 mg/ml BSA at 38.5Â°C in CO  incubator under humidified air. After 27 h of in-vitro maturation oocytes were denuded by hyaluronidase enzyme and by passing repeatedly through fine pipette. After 48h post insemination, oocytes were observed for cleavage. Cleavage rate, 2 cell, 4 cell, 8â 16 cell, morulae and blastocysts were 44%, 17%, 25%, 33.11%, 16% and 2%, respectively. In-vitro produced embryos of 2 - 4 cell stage were surgically transferred into the fallopian tube ipsilateral to the ovary containing corpus luteum of two naturally synchronized surrogate does (8 embryos each). Similarly, 8â16 cell and morula stage embryos were transferred surgically at the tip of uterine horn ipsilateral to the ovary containing corpus luteum of 6 naturally synchronized surrogate does (8 embryos each). Following transfer, 2 recipients were initially found pregnant at day 35 th  post transfer by ultrasonography. Subsequently on re-examination at day 60, only 1 recipient was confirmed pregnant and delivered twin offspring of male and female sex after 142 days of gestation.",
+	"xml:lang":"eng"
+	}
+	}}

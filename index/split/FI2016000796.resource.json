@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Polymer coated turnip rape seed did not facilitate early broadcast sowing under Finnish growing conditions /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Känkänen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pahkala, Katri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salo, Yrjö.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huusela-Veistola, Erja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltonen, Jari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"siemen"},
+	{"value":"polymer"},
+	{"value":"polymeerit"},
+	{"value":"Brassica rapa"},
+	{"value":"seed"},
+	{"value":"emergence"},
+	{"value":"elinvoima"},
+	{"value":"itäminen"},
+	{"value":"temperature"},
+	{"value":"rapsi"},
+	{"value":"Brassica napus L. var. oleifera subvar. annua"},
+	{"value":"rapeseed"},
+	{"value":"viability"},
+	{"value":"Brassica napus"},
+	{"value":"sowing date"},
+	{"value":"rypsi"},
+	{"value":"Brassica rapa L. var. oleifera subvar. annua"},
+	{"value":"kylvöaika"},
+	{"value":"seed pelleting"},
+	{"value":"pinnoitteet"},
+	{"value":"kylvösiemen"},
+	{"value":"germination"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000796",
+	"dct:identifier":"FI2016000796",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

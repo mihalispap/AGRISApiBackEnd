@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Cloning and expression of hmgr1 gene from Hevea brasiliensis",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":336,
+	"dc:subject":[
+		{"value":"rubber biosynthesis"},
+	{"value":"HMG-CoA reductase"},
+	{"value":"hmgr1 gene"},
+	{"value":"gene",
+	"xml:lang":"fre"
+	},
+	{"value":"genes",
+	"xml:lang":"esp"
+	},
+	{"value":"caoutchouc",
+	"xml:lang":"fre"
+	},
+	{"value":"caucho",
+	"xml:lang":"esp"
+	},
+	{"value":"hevea brasiliensis",
+	"xml:lang":"esp"
+	},
+	{"value":"rubber",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":340,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000876",
+	"dct:identifier":"IN2015000876",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ambily, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Molly Thomas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Krishnakumar, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohamed Sathik"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Annamalainathan, K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Biosynthesis of natural rubber (cis-1,4-polyisoprene) takes place through mevalonate pathway in Hevea. The enzyme 3-hydroxy- 3-methyl glutaryl-CoA reductase (HMGR), which catalyses the synthesis of mevalonate from HMG-CoA is a key regulatory enzyme in this pathway. This study aimed to clone and express hmgr1 gene, in order to obtain the HMGR protein in vitro and to further use this protein as a marker for yield potential in Hevea. For this purpose, mRNA was isolated from the latex of Hevea (clone RRII 105). cDNA was synthesized and PCR amplification of coding region of hmgr1 was performed using hmgr1 specific primers. The PCR amplified product (~1.8 kb) was cloned into an expression vector (pRSET-A) and transformed into E. coli (BL21DE3) cells. Protein expression in transformed cells when monitored by SDS-PAGE analysis indicated the presence of HMGR protein (61.6 kDa). The protein would be used for developing specific antibody that could be further utilized for the quantification of HMGR in different Hevea clones for screening the yield potential. The details of cloning and expression of hmgr1 are presented and discussed.",
+	"xml:lang":"eng"
+	}
+	}}

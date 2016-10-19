@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Grass silages as feedstuff for horses"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026514",
+	"dct:identifier":"FI2005026514",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Peiretti, P.G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bergero, D. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The use of a diet based on silages or haylages is becoming increasingly more important in the prevention and control of some diseases that affect the respirator apparatus of horses. The present knowledge concerning conservation quality and the nutritive value of some of the most commonly used grass silages is studied in depth in this work. In order to evaluate the conservation quality of silages, a series of determinations is necessary that ranges from the dry matter to the chemical composition, from the gross energy to the pH and the dosage of the fermentation products (lactic and butyric acid, ammonia, etc). The nutritive value of silages is often better than that of the corresponding hays due to the earlier stage of the grass at harvesting and to the minor loss of leaves, in particular for legumes. The use of silages could therefore be a valid alternative to hay condition that these products are well conserved, have kept a nutritive value that is similar to that of the original grass, are without risks for the health of the horses (listeriosis, botulism and aflatoxin) and are available in different bale sizes according to the requirements of the stables. In conclusion, grass silages have proven to be useful feedstuff for horses, in function of their quality and the working procedures that their use would imply for the stables. An analytical evaluation of the quality of the product is essential for a correct insertion in the rations and to prevent the most important intestinal problems that affect horses."}
+	}}

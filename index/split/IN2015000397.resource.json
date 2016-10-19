@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of edka sheep of puri district of Odisha",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":188,
+	"dc:subject":[
+		{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"desempeno animal",
+	"xml:lang":"esp"
+	},
+	{"value":"biodiversite",
+	"xml:lang":"fre"
+	},
+	{"value":"performance animale",
+	"xml:lang":"fre"
+	},
+	{"value":"biodiversity",
+	"xml:lang":"eng"
+	},
+	{"value":"biodiversidad",
+	"xml:lang":"esp"
+	},
+	{"value":"adaptation",
+	"xml:lang":"fre"
+	},
+	{"value":"adaptacion",
+	"xml:lang":"esp"
+	},
+	{"value":"orissa",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"animal performance",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":190,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000397",
+	"dct:identifier":"IN2015000397",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Panda, Pragati"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, P."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A study on the performance of Edka sheep of coastal areas of Puri district of Odisha showed that these sheep are medium in size with an average adult body weight of 24.67Â±0.07 kg. The overall least squares means of body weights at birth, 3, 6, 9 and 12 months of age were 1.93Â±0.03, 6.14Â±0.05, 10.28Â±0.07, 14.66Â±0.08 and 18.57Â±0.06 kg, respectively. The least squares means of age at sexual maturity, gestation period, age at first lambing, lambing interval and age at second lambing were 208.64Â±2.29, 149.54Â±0.06, 379.33Â±1.28, 210.66Â±0.06 and 589.52Â±2.37 days, respectively. The twinning rate was more than 70% from second lambing onwards. Sheep rearing is dependable source of subsidiary income under low input system for the farmers of coastal region of Odisha.",
+	"xml:lang":"eng"
+	}
+	}}

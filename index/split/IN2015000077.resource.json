@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Expression and Immunohistochemical Localization of Ghrelin Gene in Buffalo (Bubalus Bubalis) Corpus Luteum",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":61,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"glutacion",
+	"xml:lang":"esp"
+	},
+	{"value":"cuerpo luteo",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"corpus luteum",
+	"xml:lang":"eng"
+	},
+	{"value":"glutathion",
+	"xml:lang":"fre"
+	},
+	{"value":"corps jaune",
+	"xml:lang":"fre"
+	},
+	{"value":"glutathione",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":65,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000077",
+	"dct:identifier":"IN2015000077",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jain, Asit"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jain, Tripti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mitra, Abhijit"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Ghrelin, a novel motilin related 28-amino acid peptide, is an endogenous ligand for GH secretagogue receptor (GHS-R). In addition to its neuro-endocrine effects in the control of growth hormone (GH) secretion and food intake, recently an unexpected reproductive facet of ghrelin has emerged as its expression and cognate receptors are reported in the rat testis. However, the presence of this signalling system is yet to be ascertained in the buffalo gonads. In this study, amplified 230 bp of ghrelin gene from buffalo corpus luteum (CL) using cDNA as a template have been taken. Also, by immunohistochemistry using specific polyclonal antibodies, the presence and localization of ghrelin in the cyclic and pregnant CL were assessed. Expression of ghrelin protein was persistent local observed in the estrous cycle and early pregnancy (~d40). However, the signals of ghrelin protein were found to be higher during early pregnancy compared to estrous cycle. These dynamic changes in the expression profile of ghrelin during the estrous cycle and throughout the pregnancy propose a precise regulation of ovarian expression of ghrelin, which could portray the potential role of ghrelin in regulation of luteal development. In conclusion our study is the first to demonstrate the expression of ghrelin in the cyclic and pregnant buffalo CL which opens up the possibility of using this molecule in regulating the reproduction.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Reproductive Performance in Camel (Camelus dromedarius)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":13,
+	"dc:subject":[
+		{"value":"camello",
+	"xml:lang":"esp"
+	},
+	{"value":"semen",
+	"xml:lang":"esp"
+	},
+	{"value":"camels",
+	"xml:lang":"eng"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"recoleccion de semen",
+	"xml:lang":"esp"
+	},
+	{"value":"recolte de sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"chameau",
+	"xml:lang":"fre"
+	},
+	{"value":"sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"semen collection",
+	"xml:lang":"eng"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":1,
+	"bibo:pageEnd":27,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000354",
+	"dct:identifier":"IN2015000354",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Camel: An International Journal of Veterinary Sciences (India)"},
+	"bibo:ISSN":{"value":"2321-709X"}
+	}
+	},
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Deen, Aminu"
+	}
+	},
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The study was conducted to explore various aspects of reproduction in camels viz. Effect of breed on fertility, effect of repeat services during same estrous period on pregnancy rate, effect of copulation time on fertility in female dromedary camels, early versus late onset of sexual libido in males, male fertility and investigations into mating ability, semen donation efficiency in Artificial Vagina, gross characteristics of semen ejaculate, individual sperm motility examination and morphological evaluation of spermatozoa of sterile male camels. Bikaneri breeds of camels exhibited greater First service and overall conception rate as compared to Jaisalmeri and Kachchi breeds. Infertile females were also lesser in Bikaneri breed than Kachchi and Jaisalmeri. Repeated services during the same estrus period had no beneficial effect on pregnancy rate over single service, when females were selected for follicular phases prior to breeding. Copulation time did not vary significantly between males for single service, however few significant differences between males were observed in multiple services during same estrus period. Copulation time for the breeding resulting into successful or unsuccessful conception did not differed significantly. Late manifestation of sexual libido was observed in males, which was correlated with delayed onset of circulating testosterone rise. The fertility rate of males differed between breeds ranging 40â58, 10â33.3 and 0â100% in Bikaneri, Jaisalmeri and Kachchi breeds. Subfertility in Â¾ Jaisalmeri studs and sterility in 2/4 Kachchi studs was recorded. Mating ability of sterile males was not lower than fertile males. Gross characteristics and individual sperm motility examinations for one of the two sterile male camels had been perfectly normal, while another sterile male had watery ejaculates with nil individual sperm motility on all occasions except once. Morphology of spermatozoa of sterile male camels had been poor. It is concluded that selection of females for follicular phases prior to mating omit the repeated services during the same estrus period without affecting the pregnancy rates. Late manifestation of sexual libido in males was correlated with late arousal of endocrine surge. Copulation time was not significantly different for successful and unsuccessful conceptions. Significant proportions of male studs were found subfertile and sterile.",
+	"xml:lang":"eng"
+	}
+	}}

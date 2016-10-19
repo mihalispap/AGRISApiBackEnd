@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Apparent digestibility of mixed feed with increasing levels of false flax (Camelina sativa L.) seeds in rabbit diets"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2008320583",
+	"dct:identifier":"FI2008320583",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Peiretti, Pier Giorgio (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mussa, Pier Paolo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meineri, Giorgia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Perona, Giovanni (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Thirty crossbred rabbits were randomly allocated to three groups each with ten animals (five male and five female rabbits each), and kept individually in separate cages. Three diets were formulated with increasing levels (0, 10 or 15%) of false flax (Camelina sativa L.) seeds (FFS). The experimental period lasted 7 weeks. No obvious health problems were encountered during the experiment. The measured parameters were growth performance and digestibility of dry matter (DM), organic matter (OM), crude protein (CP), crude fibre (CF), ether extract (EE), nitrogen-free extract (NFE), neutral detergent fibre (NDF), acid detergent fibre (ADF) and gross energy (GE). The weekly live weight and weight gain did not differ significantly (P>0.05) for among the dietary treatments. Nevertheless, the growth curves of the rabbits showed a major difference between the diet without FFS and the diets with supplementary FFS; the inclusion of 10 and 15% FFS in the rabbit diets decreased the total weight gain by 3.6 and 2.7% compared to the control group, respectively. The digestibility coefficients were calculated according to standard procedures following the indirect digestibility method, using acid-insoluble ash as an inert marker. The digestibility of the DM, OM, NFE and EE significantly increased as the proportion of the FFS increased. Conversely, the ADF digestibility decreased as the proportion of the FFS increased, while the CF and NDF digestibility showed the same trend, but without any statistical differences. The CP digestibility of the two mixed feeds with FFS inclusion level of 10 and 15% were 69.5 and 66.2%, respectively, while in the diet without FFS it was intermediate. It can be concluded that false flax seed can be given to rabbits at levels of up to 15% in the diet without any adverse effects on growth performance and with a better digestibility of DM, OM, EE, NFE and GE than in the control diet."}
+	}}

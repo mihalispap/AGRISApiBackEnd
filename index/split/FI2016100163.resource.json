@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/rn1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"About the safety of stevioside used as a sweetener"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"M.C. Geuns, Jan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Johan, Buyse (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vankeirsbilck, Annelies (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Temme, Liesbeth (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100163",
+	"dct:identifier":"FI2016100163",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Stevioside is a natural sweetener extracted from leaves of Stevia rebaudiana (Bertoni) Bertoni. The literature about Stevia, the occurrence of its sweeteners, their biosynthetic pathway and toxicological aspects are discussed. Injection experiments or perfusion experiments of organs are considered as not relevant for the use of Stevia or stevioside as food additive, and therefore these studies are not discussed. The metabolism of stevioside by volunteers has been studied. In the faeces only free steviol was found. No free steviol or stevioside were found in blood or urine, but steviol conjugates were found in blood and urine as typical excretion products."}
+	}}

@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on pollinator fauna of Sunflower (Helianthus annuus L.) and their relative abundance",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":303,
+	"dc:subject":[
+		{"value":"polinizadores",
+	"xml:lang":"esp"
+	},
+	{"value":"apis",
+	"xml:lang":"esp"
+	},
+	{"value":"pollinisateur",
+	"xml:lang":"fre"
+	},
+	{"value":"pollinators",
+	"xml:lang":"eng"
+	},
+	{"value":"helianthus annuus",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":305,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000510",
+	"dct:identifier":"IN2015000510",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Krishna, K. Venata"
+	}
+	},
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Among the total pollinators, Apis. mellifera was predominant and constituted 28.2% followed by A. florea 21.5%, A. indica 18.9%, A. dorsata 13.8%, Trigona sp. 9.5%, and others 8.3%, respectively. The intensity of A. mellifera, A. indica, A. dorsata and A. florea were reached at its peak at 10.00- 12.00 hrs, the intensity of Trigona sp. reached its peak at 08.00-09.00 hrs and others were found at their peak activity at 09.00-11.00 hrs. When bee intensity in cages, in open pollination, in sugar syrup spray and cinnamon spray was compared, the activity of six framed A. mellifera colony was highest as compared to other treatments. Intensity of one colony A. florea and four framed A. indica were differing significantly.",
+	"xml:lang":"eng"
+	}
+	}}

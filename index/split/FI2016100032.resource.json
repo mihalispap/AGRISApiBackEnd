@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Complexes of anionic polysacchardies with metal salts. Part IV. λ-Carrageenan"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Ciesielski, Wojciech (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100032",
+	"dct:identifier":"FI2016100032",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Properties of λ-carrageenan complexes with paramagnetic transition metal cations [Co (II), Cu (II), Fe(III), Mn (II),and Ni (II)] were evaluated using the EPR spectrometry, conductivity measurements, thermogravimetric (TG), and differential scanning calorimetric (DSC) studies as well as computations with involvement of the ZINDO-1 method. The formation of the Werner-type complexes with metal central atom and polysaccharide as the ligand was proven. Ligation of the central atom involved lone electron pairs of the polysaccharide hydroxyl groups and the SO3- groups of carrageenan."}
+	}}

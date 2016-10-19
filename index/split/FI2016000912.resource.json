@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Spatial variability of topsoil salinity in the lower reaches of Zerka River, Central Jordan Valley.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tahboub, Alaeddin A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abbassi, Bassim E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ta'any, Rakad A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saffarini, Ghazi A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"groundwater"},
+	{"value":"spatial distribution"},
+	{"value":"soil salinity"},
+	{"value":"agriculture"},
+	{"value":"sustainability"},
+	{"value":"rivers"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000912",
+	"dct:identifier":"FI2016000912",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

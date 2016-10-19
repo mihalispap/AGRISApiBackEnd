@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of winter feeding strategies with alternative feeds on the performance of mature suckler cows and their progeny /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Manninen, Merja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saarijärvi, Kirsi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huhta, Harri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jauhiainen, Lauri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aspila, Pentti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"emolehmät"},
+	{"value":"seasonal variation"},
+	{"value":"kokoviljasäilörehu"},
+	{"value":"straw"},
+	{"value":"whole crop silage"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"body condition"},
+	{"value":"suckler cows"},
+	{"value":"ruokinta"},
+	{"value":"roughage"},
+	{"value":"cereal byproducts"},
+	{"value":"säilörehu"},
+	{"value":"nautakarja"},
+	{"value":"winter"},
+	{"value":"talviruokinta"},
+	{"value":"olki"},
+	{"value":"body weight"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001662",
+	"dct:identifier":"FI2016001662",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

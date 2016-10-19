@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Resource use efficiency of small-holder farmers : the case of cassava producers in Cross River State, Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Abang, S. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Agom, D. I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rahoitus"},
+	{"value":"farm size"},
+	{"value":"cassava"},
+	{"value":"kasvintuotanto"},
+	{"value":"food security"},
+	{"value":"trooppiset juurekset"},
+	{"value":"capital"},
+	{"value":"labour"},
+	{"value":"tuotannontekijät"},
+	{"value":"Niger"},
+	{"value":"plant production"},
+	{"value":"production factors"},
+	{"value":"maniokki"},
+	{"value":"tehokkuus"},
+	{"value":"pientilat"},
+	{"value":"työvoima"},
+	{"value":"efficiency"},
+	{"value":"tilakoko"},
+	{"value":"small farms"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000919",
+	"dct:identifier":"FI2016000919",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

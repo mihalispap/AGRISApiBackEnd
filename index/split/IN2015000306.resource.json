@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Prevalence of Salmonella in Foods of Animal Origin and its Public Health Significance",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":57,
+	"dc:subject":[
+		{"value":"pork",
+	"xml:lang":"eng"
+	},
+	{"value":"sante publique",
+	"xml:lang":"fre"
+	},
+	{"value":"huevos",
+	"xml:lang":"esp"
+	},
+	{"value":"public health",
+	"xml:lang":"eng"
+	},
+	{"value":"oeuf",
+	"xml:lang":"fre"
+	},
+	{"value":"viande de volaille",
+	"xml:lang":"fre"
+	},
+	{"value":"carne de cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"viande porcine",
+	"xml:lang":"fre"
+	},
+	{"value":"carne de aves",
+	"xml:lang":"esp"
+	},
+	{"value":"salud publica",
+	"xml:lang":"esp"
+	},
+	{"value":"salmonella",
+	"xml:lang":"esp"
+	},
+	{"value":"eggs",
+	"xml:lang":"eng"
+	},
+	{"value":"poultry meat",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":11,
+	"bibo:pageEnd":60,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000306",
+	"dct:identifier":"IN2015000306",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_13ab7667"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Veterinary Public Health"},
+	"bibo:ISSN":{"value":"0972-7485"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shekhar, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Upadhyay, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S.P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Total 417 samples from foods of animal origin comprising poultry meat (212) poultry eggs (49) and pork (156) were aseptically collected for the isolation of Salmonella from Pantnagar, Nagla, Lalkuan and Rudrapur. Total 5 Salmonella isolates were recovered from poultry meat (2), poultry eggs (1) and pork (2). The maximum prevalence was observed in poultry eggs (2.04%), followed by pork (1.28%) and poultry meat (0.94%). Salmonella isolates recovered from different samples were sent for serotyping and were identified as Salmonella Typhimurium and Salmonella Weltevreden. The most prevalent serovar was Salmonella Typhimurium, followed by Salmonella Weltevreden.",
+	"xml:lang":"eng"
+	}
+	}}

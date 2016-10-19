@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of continuous mechanical harvesting on eaf leatheriness and possible alleviation measures",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":196,
+	"dc:subject":[
+		{"value":"Banji content,,KNO3,leaf leatheriness"},
+	{"value":"mechanization",
+	"xml:lang":"eng"
+	},
+	{"value":"mecanisation",
+	"xml:lang":"fre"
+	},
+	{"value":"camelia sinensis",
+	"xml:lang":"esp"
+	},
+	{"value":"mecanizacion",
+	"xml:lang":"esp"
+	},
+	{"value":"camellia sinensis",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":201,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000637",
+	"dct:identifier":"IN2015000637",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jibu Thomas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raj Kumar, R"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal,  A.K.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Muraleedharan, N"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Mechanization in plucking has become imperative to improve the profitability and efficiency in tea industry. Continuous shear harvesting of tea shoots creates a stress on plant thereby changing the texture of the crop shoots termed as leaf leatheriness. Objective of the study was to generate data on the formation of leaf leatheriness due to continuous shear harvesting and to propose the remedial measures. A factorial block design experiment was conducted with a Chinery clone UPASI-9. Results indicated that continuous shear harvesting for a period of six months resulted in the accumulation of total wax content when compared to the hand plucked crop shoots which contributed to the leatheriness of crop shoots. Significant increase in the banji content in the harvest was also noticed due to continuous shear harvesting.Foliar applied chemicals influenced the reduction in banji shoots in the shear harvested treatments. Among the foliar applied treatments, reduction in the total wax content in the continuously shear harvested plots was obtained by the foliar application of KNO3(2%) + Urea (1%) followed by KNO3 (2%) and Ca(NO3)2(2%) when compared with control. Study concluded that foliar application of KNO3 (2%) alone or in combination with Urea (1%) is beneficial in alleviating the leaf leatheriness caused due to continuous shear harvesting without deterioration of quality characteristics with a prophylactic effect to improve the yield of tea plants.",
+	"xml:lang":"eng"
+	}
+	}}

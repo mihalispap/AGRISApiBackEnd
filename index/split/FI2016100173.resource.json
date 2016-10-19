@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Yield, nutrient content and physico-chemical and organoleptic properties in green bean are affected by N:K ratios"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khah, E. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arvanitoyannis, I. S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100173",
+	"dct:identifier":"FI2016100173",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"There is insufficient information about whether cultivars of green bean can be separated on based sensory properties. This study was undertaken in order to determine if cultivars could be separated based on yield components and nutrient content with quality related (sensory and physical) properties. The effect of the ratio of N and K treatments on number and weight of green pods and fresh and dry weight of individual plants of the green bean cvs.’Montano’ and ‘Larma’. The physico-chemical parameter [moisture content, chlorophyll and carotenoid content, soluble solids, total acidity, pH, color parameters (L*, a* and b*), firmness, sugars, starch, dietary fiber, proteins, polyphenols, nitrate content, metal taste, vitamin C] were studied. Using a trained panel of ten persons, and untrained panel of 50 consumers, various sensory parameters were also studied. The physico-chemical parameters were correlated with the sensory properties, as well as with the yield. Although ‘Montano’ in general had higher yield than ‘Larma’, both cultivars irrigated only with water led to higher performance and increase in yield than the other three fertilizer regimes. Application of Principal Component Analysis resulted in classification of treatments (type and level of fertilizers) with regard to their sensory and physical properties. Overall impression was associated with sweetness, saltiness, color and odor."}
+	}}

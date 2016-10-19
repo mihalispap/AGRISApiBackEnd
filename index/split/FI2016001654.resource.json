@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Energy wood and pulpwood harvesting from young stands using a prototype whole-tree bundler.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jylhä, Paula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laitila, Juha.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tuotekehitys"},
+	{"value":"integrated harvesting"},
+	{"value":"bundling"},
+	{"value":"tuottavuus"},
+	{"value":"energiapuu"},
+	{"value":"kuitupuu"},
+	{"value":"harvesterit"},
+	{"value":"hakkuukoneet"},
+	{"value":"harvesting"},
+	{"value":"pulpwood"},
+	{"value":"Fixteri"},
+	{"value":"puunkorjuu"},
+	{"value":"energy wood"},
+	{"value":"productivity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001654",
+	"dct:identifier":"FI2016001654",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

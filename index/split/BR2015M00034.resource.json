@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"A manifestação da violência no espaço escolar",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Monique Pessanha de Sales "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carlos Eduardo Batista de Sousa "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CNPq "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00034",
+	"dct:identifier":"BR2015M00034",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O ambiente escolar é um espaço destinado ao desenvolvimento cognitivo, pessoal e social. Entretanto, algumas interações apresentam aspectos de violência, tanto física quanto psicológica. As ações que caracterizam essas manifestações violentas incluem uma diversificada gama de comportamentos e, atualmente, têm adquirido grande importância em nossa sociedade, embora a relação entre violência e educação não tenha recebido a devida atenção. Através da análise do bullying, busca-se identificar o que faz com que tais eventos violentos ocorram no espaço escolar. Diante de tal contexto, a presente pesquisa pretende levantar questões que venham contribuir para o entendimento deste fenômeno e suas implicações na prática pedagógica, objetivando a intervenção através da prevenção e redução dos casos de agressividade nas escolas, além da identificação dos fatores desencadeantes do comportamento agressivo e seu impacto nas vítimas.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of cooking on the mineral and antinutrient contents of the leaves of seven accessions of Colocasia esculenta (L.) Schott growing in South Africa.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lewu, M. N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adebola, P. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Afolayan, A. J.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"calcium"},
+	{"value":"zinc"},
+	{"value":"tannins"},
+	{"value":"magnesium"},
+	{"value":"Colocasia esculenta"},
+	{"value":"copper"},
+	{"value":"nutritive value"},
+	{"value":"phosphorus"},
+	{"value":"oxalates"},
+	{"value":"sodium"},
+	{"value":"leaves"},
+	{"value":"manganese"},
+	{"value":"iron"},
+	{"value":"phytic acid"},
+	{"value":"phytates"},
+	{"value":"boiling"},
+	{"value":"antinutritional factors"},
+	{"value":"potassium"},
+	{"value":"cooking"},
+	{"value":"trace elements"},
+	{"value":"chemical composition"},
+	{"value":"minerals"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002104",
+	"dct:identifier":"FI2016002104",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

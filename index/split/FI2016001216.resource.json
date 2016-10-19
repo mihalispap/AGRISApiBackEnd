@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"An analysis of succesful natural regeneration of Downy and silver birch on abandoned farmland in Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Karlsson, Anders.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Albrektson, Arne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Forsgren, Anders.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Svensson, Lennart.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vanhat pellot"},
+	{"value":"afforestation"},
+	{"value":"Betula pendula"},
+	{"value":"hieskoivu"},
+	{"value":"metsitys"},
+	{"value":"site preparation"},
+	{"value":"kasvupaikka"},
+	{"value":"rauduskoivu"},
+	{"value":"site factors"},
+	{"value":"maanpinnan valmistus"},
+	{"value":"Betula pubescens"},
+	{"value":"arable soils"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001216",
+	"dct:identifier":"FI2016001216",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

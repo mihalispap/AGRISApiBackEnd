@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Heat stroke in king cobra (Ophiophagus hannah) - A case report.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":269,
+	"dc:subject":[
+		{"value":"calor",
+	"xml:lang":"esp"
+	},
+	{"value":"enfermedades cardiovasculares",
+	"xml:lang":"esp"
+	},
+	{"value":"histopatologia",
+	"xml:lang":"esp"
+	},
+	{"value":"serpent",
+	"xml:lang":"fre"
+	},
+	{"value":"histopathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"culebra",
+	"xml:lang":"esp"
+	},
+	{"value":"snakes",
+	"xml:lang":"eng"
+	},
+	{"value":"chaleur",
+	"xml:lang":"fre"
+	},
+	{"value":"histopathology",
+	"xml:lang":"eng"
+	},
+	{"value":"maladie cardiovasculaire",
+	"xml:lang":"fre"
+	},
+	{"value":"cardiovascular diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"heat",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":270,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000132",
+	"dct:identifier":"IN2015000132",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Suvaneeth, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Divya, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nair, N.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vijayan, N."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"An unusual case of heat stroke observed in a King Cobra is being reported. The snake was brought for postmortem with a history of sudden death. Detailed necropsy revealed marked congestion of various organs. Histopathological observations supported haemorrhages in various organs and vascular stasis resulting in stagnant anoxic death. Overall observations with the high temperature climate of the region during the days confirmed it as a case of heat stroke.",
+	"xml:lang":"eng"
+	}
+	}}

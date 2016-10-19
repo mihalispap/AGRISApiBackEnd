@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Production and performance of pure cashmere shawl fabric using machine spun yarn by nylon dissolution process",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":203,
+	"dc:subject":[
+		{"value":"productos animales procesados",
+	"xml:lang":"esp"
+	},
+	{"value":"laine",
+	"xml:lang":"fre"
+	},
+	{"value":"fibre animale",
+	"xml:lang":"fre"
+	},
+	{"value":"produit animal transforme",
+	"xml:lang":"fre"
+	},
+	{"value":"wool",
+	"xml:lang":"eng"
+	},
+	{"value":"animal fibres",
+	"xml:lang":"eng"
+	},
+	{"value":"lana",
+	"xml:lang":"esp"
+	},
+	{"value":"processed animal products",
+	"xml:lang":"eng"
+	},
+	{"value":"fibras de origen animal",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":206,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000202",
+	"dct:identifier":"IN2015000202",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Raja, A.S.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shakyawar, D.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pareek, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wani, Sarfaraz A."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Cashmere fibre is produced from the down hair of domesticated double-coat goat (Capra hircus). It is very difficult to spin it in machine due to its soft, short and slippery scales which create lapping due to the development of static charges during carding, sliver making and spinning processes. In this study, an attempt was made to produce machine spun cashmere yarn using nylon as a carrier fibre for manufacturing shawl type fabric. The nylon portion of the fabric was removed by hydrochloric acid treatment and 18% was found to be satisfactory. Finally, the fabric produced was compared with the conventionally hand spun yarn made cashmere shawl fabric. The results showed non-significant difference between the two fabrics in terms of softness and thermal conductivity. However, the machine spun yarn made fabric showed 60% lower extension and 50% higher abrasion losses. Scanning electron microscopy showed that the machine spun yarn made fabric had minute deposits of dissolved nylon at a few places. The results indicated that the process of preparing cashmere fabric using hand spun yarn could be replaced with machine spun yarn using nylon dissolution process without compromising the softness and thermal insulation properties; however, higher abrasion loss is a limiting factor.",
+	"xml:lang":"eng"
+	}
+	}}

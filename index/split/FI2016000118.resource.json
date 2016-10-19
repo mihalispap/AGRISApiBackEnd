@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"The evaluation of microbiological profile of some spices used in Turkish meat industry.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hampikyan, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bingol, E. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Colak, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aydin, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"food contamination"},
+	{"value":"moulds"},
+	{"value":"ginger"},
+	{"value":"meat"},
+	{"value":"pepper"},
+	{"value":"yeasts"},
+	{"value":"spices"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000118",
+	"dct:identifier":"FI2016000118",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

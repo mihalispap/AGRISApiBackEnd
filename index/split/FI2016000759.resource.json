@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Northern primeval forests - ecology, conservant and management : preface.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jonsson, Bengt Gunnar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kouki, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"nature conservation"},
+	{"value":"forest ecology"},
+	{"value":"boreal forests"},
+	{"value":"virgin forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000759",
+	"dct:identifier":"FI2016000759",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

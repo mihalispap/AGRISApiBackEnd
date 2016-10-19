@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of Plastic and HDPE Bags as Alternatives to Pit for Silage Preparation",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":109,
+	"dc:subject":[
+		{"value":"ensilaje",
+	"xml:lang":"esp"
+	},
+	{"value":"ensilage (produit)",
+	"xml:lang":"fre"
+	},
+	{"value":"silage",
+	"xml:lang":"eng"
+	},
+	{"value":"ensilado",
+	"xml:lang":"esp"
+	},
+	{"value":"ensilage (traitement)",
+	"xml:lang":"fre"
+	},
+	{"value":"silage making",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":115,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000348",
+	"dct:identifier":"IN2015000348",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Saijpaul, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Grewal, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lamba, J.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saini, A.L."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"This study investigated the quality of silage prepared in plastic or HDPE poly bags in comparison to silage prepared in pit. Chaffed oat fodder was compacted in translucent plastic bag (OSbT), HDPE plastic bag (OSbHDPE) or in the pit (OSp). After 45 days all the samples were found to be free from mold with comparable pH. The ammonia N (NH3-N) as % of total N was within the normal limits in OSbT and OSp but was more than 10% in OSbHDPE The buffering capacity was similar in OSbT and OSbHDPE but was lower than OSp. Acetic acid was the predominant fatty acid with small amount of propionic acid but butyric acid was absent. The CP was higher in OSbT and OSbHDPE as compared to OSp. The water soluble carbohydrate was higher in OSbT but remained similar in OSbHDPE and OSp. The acid detergent insoluble N (ADIN) and ADIN as % of total N were comparable in all the silages. The truly digestible non-fiber carbohydrate (tdNFC) was lower in silage made in pit against silage made in polybags. The truly digestible CP forage (tdCPf) was higher in OSbT and OSbHDPE than OSp. The digestion kinetics of DM, OM and NDF indicated higher soluble fraction, lower degradable fraction in the polybag silages as compared to pit silage. Effective degradability of DM and NDF were similar in OSbT and OSp but lower in OSbHDPE. It may be concluded that translucent plastic bags are better alternative to pit and HDPE plastic bag for making good quality silage.",
+	"xml:lang":"eng"
+	}
+	}}

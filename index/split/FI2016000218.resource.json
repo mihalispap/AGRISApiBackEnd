@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/4765/5292",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of mulching systems on fruit quality and phytochemical composition of newly developed strawberry lines.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fan, Li.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Roux, Valentine.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dubé, Claudine.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Charlebois, Dennis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tao, Shutian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khanizadeh, Shahrokh.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mulches"},
+	{"value":"varieties"},
+	{"value":"crop management"},
+	{"value":"crop yield"},
+	{"value":"laatu"},
+	{"value":"Fragaria ananassa"},
+	{"value":"mulching"},
+	{"value":"kateviljely"},
+	{"value":"cultural methods"},
+	{"value":"sato"},
+	{"value":"strawberries"},
+	{"value":"quality"},
+	{"value":"mansikat"},
+	{"value":"katteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000218",
+	"dct:identifier":"FI2016000218",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

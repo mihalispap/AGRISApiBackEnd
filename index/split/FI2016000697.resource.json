@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Physicochemical and pasting characterisation of water yam (Dioscorea spp.) and relationship with eating quality of pounded yam.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Baah, F. D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maziya-Dixon, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Asiedu, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oduro, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ellis, W. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Dioscorea  alata"},
+	{"value":"organoleptic analysis"},
+	{"value":"varieties"},
+	{"value":"physicochemical properties"},
+	{"value":"quality"},
+	{"value":"yams"},
+	{"value":"purple yam"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000697",
+	"dct:identifier":"FI2016000697",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

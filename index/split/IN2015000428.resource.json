@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Adoption of improved sheep production technologies in arid western plain zone of Rajasthan",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":225,
+	"dc:subject":[
+		{"value":"animal breeding",
+	"xml:lang":"eng"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"technology transfer",
+	"xml:lang":"eng"
+	},
+	{"value":"vulgarisation",
+	"xml:lang":"fre"
+	},
+	{"value":"transferencia de tecnologia",
+	"xml:lang":"esp"
+	},
+	{"value":"extension activities",
+	"xml:lang":"eng"
+	},
+	{"value":"adoption de l'innovation",
+	"xml:lang":"fre"
+	},
+	{"value":"rajasthan",
+	"xml:lang":"esp"
+	},
+	{"value":"adopcion de innovaciones",
+	"xml:lang":"esp"
+	},
+	{"value":"transfert de technologie",
+	"xml:lang":"fre"
+	},
+	{"value":"extension",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"innovation adoption",
+	"xml:lang":"eng"
+	},
+	{"value":"amelioration des animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"mejoramiento animal",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":230,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000428",
+	"dct:identifier":"IN2015000428",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Verma, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, N.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Seikh, A.S."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The study was conducted in arid western plain zone of Rajasthan. A total of 240 sheep farmers constituted small, medium and large flocks were selected for the study purpose. Results indicated that more than half of the respondents possessed medium level of adoption. They had higher adoption about improved feeding technologies followed by management and breeds and breeding technologies. There also existed a significant difference with regard to adoption levels of small, medium and large sheep farmers.",
+	"xml:lang":"eng"
+	}
+	}}

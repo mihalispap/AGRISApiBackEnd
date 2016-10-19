@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/  |z Silva Fennica",
+	"dct:language":"eng",
+	"dct:title":{"value":"Host tree and insect genetic diversity on the borderline of natural distribution : a case study of Picea abies and Pityogenes chalcographus (Coleoptera, Scolytinae) in Greece.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Avtzis, D. N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aravanopoulos, F. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic bases"},
+	{"value":"Scolytidae"},
+	{"value":"Greece"},
+	{"value":"natural distribution"},
+	{"value":"Pityogenes chalcographus"},
+	{"value":"genetic diversity"},
+	{"value":"Picea abies"},
+	{"value":"marginal populations"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000692",
+	"dct:identifier":"FI2016000692",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

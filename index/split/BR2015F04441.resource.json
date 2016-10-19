@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Cupuassu cake in feeding feedlot Nellore young bulls",
+	"xml:lang":"eng"
+	},
+	{"value":"   Torta de cupuaçu na alimentação de tourinhos Nelore confinados ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"soybean meal",
+	"xml:lang":"eng"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"consumption",
+	"xml:lang":"eng"
+	},
+	{"value":"feeding behaviour",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F04441",
+	"dct:identifier":"BR2015F04441",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://iz.sp.gov.br/pdfsbia/1418132671.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MOTA, D.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FRAGATA, N.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRITO, E.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CASAGRANDE,  D. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ROSA, B.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BORGES, C.R.A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"15% and 20%, in substitution of corn and soybean meal and were subjected to the experiment 5 × 5 latin square, composed of five animals and five periods. Each of the five experimental periods lasted 15 days: 10 days for diet adaptation and five days for the assessment of nutrient digestibility. The feeding behavior (visual observation) was measured at the end of each experimental period (15th day) for 24 h. The dry matter (DMI), ether extract (EEI) and crude protein intake (CPI), all expressed in kg/day and %BW, presented a quadratic effect (P"},
+	{"value":"15% e 20%, em substituição ao milho e farelo de soja. O delineamento experimental utilizado foi o quadrado latino 5 × 5, composto de cinco animais e cinco períodos experimentais. Cada período experimental teve duração de 15 dias: 10 dias de adaptação à dieta e cinco dias para a avaliação da digestibilidade dos nutrientes. A mensuração do comportamento ingestivo (observação visual) foi realizada no final de cada período experimental (15º dia), durante 24 h. O consumo de matéria seca (CMS), extrato etéreo (CEE) e de proteína bruta (CPB), expresso em kg/dia e %PV, apresentaram efeito quadrático (P0,10) entre os teores de inclusão. A inclusão de até 5% de torta de cupuaçu, em substituição ao farelo de soja e milho, é recomendado em dietas para tourinhos Nelore em confinamento, pois não interfere no consumo e digestibilidade de nutrientes e comportamento ingestivo dos animais."},
+	{"value":"5%"},
+	{"value":"This study aimed to evaluate the intake, digestibility and feeding behavior of Nellore young bulls, fed with diets containing different levels of cupuassu cake. Five animals with an average body weight (BW) of 186.8 ± 19.5 kg and approximately 13 months of age were used. The animals were divided into five treatments with different levels of cupuassu cake (CC): 0.0%",
+	"xml:lang":"por"
+	},
+	{"value":"10%"},
+	{"value":"5.0%",
+	"xml:lang":"por"
+	},
+	{"value":"Objetivou-se avaliar o consumo, a digestibilidade dos nutrientes e o comportamento ingestivo de tourinhos Nelore confinados, alimentados com diferentes teores de torta de cupuaçu na dieta. Foram utilizados cinco animais com peso vivo (PV) médio de 186,8± 19,5 kg e aproximadamente 13 meses de idade. Os animais foram distribuídos em cinco tratamentos contendo diferentes teores de torta de cupuaçu (TC): 0%"}
+	]
+	}}

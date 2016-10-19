@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Three-dimensional spiral grain pattern in five large Norway spruce stems.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gjerdrum, Peder.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bernabei, Mauro.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tree helix"},
+	{"value":"3D-model"},
+	{"value":"kuusi"},
+	{"value":"grain and figure in wood"},
+	{"value":"ominaisuudet"},
+	{"value":"runko"},
+	{"value":"split disk"},
+	{"value":"Picea abies"},
+	{"value":"grain angle"},
+	{"value":"wood properties"},
+	{"value":"avaruudellinen hahmottaminen"},
+	{"value":"kierteisyys"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001964",
+	"dct:identifier":"FI2016001964",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

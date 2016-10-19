@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative performance of mechanised peeling machines for unpeeled cashew kernels â A case study",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":323,
+	"dc:subject":[
+		{"value":"Operational capacity"},
+	{"value":"peeling",
+	"xml:lang":"eng"
+	},
+	{"value":"methode mecanique",
+	"xml:lang":"fre"
+	},
+	{"value":"metodos mecanicos",
+	"xml:lang":"esp"
+	},
+	{"value":"mechanical methods",
+	"xml:lang":"eng"
+	},
+	{"value":"cashews",
+	"xml:lang":"eng"
+	},
+	{"value":"pelado",
+	"xml:lang":"esp"
+	},
+	{"value":"anacardo",
+	"xml:lang":"esp"
+	},
+	{"value":"pelage",
+	"xml:lang":"fre"
+	},
+	{"value":"noix de cajou",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":328,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000874",
+	"dct:identifier":"IN2015000874",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Balasubramanian, D."
+	}
+	},
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Mechanization of cashewnut processing in India has become inevitable due to growing problem of non-availability of work force at various stages of processing. Peeling is the process of removing the outer skin called testa to obtain edible kernels. Traditionally shelled kernels were peeled manually using wooden pellets or knives after drying.  Qualitative and quantitative efficiency vary depending on the skill of labour involved in the operation. Mechanized peeling machines were introduced in the Indian cashew processing system for twin reasons, to tackle the problem of labour shortage and to enhance rate of production. This study deals about the performance of three different mechanised peeling machines viz., shear type, brush type and abrasion type available in the line of processing in terms of operational capacity, peeling efficiency and whole kernel recovery. Operational capacity found to be in the range of 108 to 332 kg h-1 for the type of peeling machines and origin of the cashewnuts. Variation in the adherence of testa with the kernel after pre-treatment would be the key factor influencing the operation capacity with respect to different origin of cashewnuts considered. Mean values of whole kernel recovery (70.1) and peeling efficiency (79.1) recorded for shear type peeling machine and raw cashewnuts obtained from Maharashtra were found to be higher than all other trials. Whole kernels obtained at the end of peeling process were higher during the first pass than the second pass.  Possibly, the forces viz. impact or shear or abrasion force depending on the type of peeling machine, acted on these kernels during first pass, once again applied with the same intensity during second pass resulted in a marginal reduction in the whole kernel recovery. The performance parameters such as operational capacity, whole kernel recovery and peeling efficiency were found to be non-significant among the machines considered for the present investigation. Besides, cost economics was worked out and compared with existing manual peeling process. Increase in the net benefit was 53.9, 68.4 and 47.4 per cent respectively for shear, brush and abrasion type mechanical peeling machines.",
+	"xml:lang":"eng"
+	}
+	}}

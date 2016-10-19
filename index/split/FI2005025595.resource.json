@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"An evaluation of microbial load, heavy metals and cyanide contents of water sources, effluents and peels from three cassava processing locations"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025595",
+	"dct:identifier":"FI2005025595",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/e1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abiona, O.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sanni, L.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bamgbose, O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Microbial load, heavy metals and cyanide contents of water sources and effluents from three processing locations (Ibadan, Abeokuta and Ilaro) were evaluated. Water samples and effluents were aseptically collected using sterile containers and analysed for microbial load, heavy metals and cyanide contents. The peels were also analysed for cyanide content. Water samples from cassava processing location at Ilaro had the highest microbial load with a value of 1.8×106cfu/ml. The values of fungi (1.1×102-2.0×102 cfu/ml) in water samples from Abeokuta were highest. In terms of coliform counts (0.9 x102-1.0×102cfu/ml), water samples from Ibadan and Ilaro were most contaminated. There were significant differences (P< 0.05) in cyanide contents of peels and in Mn and Fe contents of effluent and water samples. Peels, effluents and water samples from cassava processing location at Ilaro recorded the highest values for cyanide, Mn and Fe respectively. There was no detectable level of Pb in effluents and water samples from Abeokuta and Ilaro."}
+	}}

@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Causes of mortality in leopards (Panthera pardus) in Himachal Pradesh.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"necrosis",
+	"xml:lang":"esp"
+	},
+	{"value":"necrose",
+	"xml:lang":"fre"
+	},
+	{"value":"pantera",
+	"xml:lang":"esp"
+	},
+	{"value":"lesiones",
+	"xml:lang":"esp"
+	},
+	{"value":"panthere",
+	"xml:lang":"fre"
+	},
+	{"value":"lesion",
+	"xml:lang":"fre"
+	},
+	{"value":"lesions",
+	"xml:lang":"eng"
+	},
+	{"value":"panthers",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":36,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000113",
+	"dct:identifier":"IN2015000113",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kurade, N.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pati, U.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kishtwaria , R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sahoo, A."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Thorough necropsy examination was carried out on 35 carcasses of leopards received from different parts of Himachal Pradesh during 2001-2009.The various causes of mortality recorded were traumatic injury (42.86%),enteritis (17.14%), pneumonia (20.0%),jaundice/ hepatitis (8.57%)and autolysis/unidentified (11.43%).Among the cases of traumatic injuries, wire trap injuries (60.0%)due to entry into human habitat were most common. Pneumonia was the frequent cause of death in captive leopards as compared to wild trapped animals. Presence of tapeworm Taenia taeniaeformis was recorded in both wild and captive leopards (25.7%).",
+	"xml:lang":"eng"
+	}
+	}}

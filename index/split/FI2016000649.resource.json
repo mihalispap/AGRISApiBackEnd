@@ -1,0 +1,81 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":[
+		"http://ojs.tsv.fi/index.php/AFS/article/view/49729/16516",
+	"http://ojs.tsv.fi/index.php/AFS/article/view/49729/16507",
+	"http://ojs.tsv.fi/index.php/AFS/article/view/49729/16510",
+	"http://ojs.tsv.fi/index.php/AFS/article/view/49729/16509",
+	"http://ojs.tsv.fi/index.php/AFS/article/view/49729/16521"
+	],
+	"dct:language":"eng",
+	"dct:title":{"value":"Phytic acid, inorganic phosphorus, antioxidants in bread and durum wheat and their associations with agronomic traits.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Brankovic, Gordona,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dragicevic, Vesna,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dodig, Dejan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Knezevic, Desimir,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kandic, Vesna,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Surlan-Momirovic, Gordona,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Secanski, Mile,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"leipävilja"},
+	{"value":"muuntelu"},
+	{"value":"laatu"},
+	{"value":"plant breeding"},
+	{"value":"selection"},
+	{"value":"kasvinjalostus"},
+	{"value":"Triticum aestivum"},
+	{"value":"genetic variation"},
+	{"value":"vehnäjauhot"},
+	{"value":"flours"},
+	{"value":"triticum"},
+	{"value":"Triticum durum"},
+	{"value":"chemical composition"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"valinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000649",
+	"dct:identifier":"FI2016000649",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

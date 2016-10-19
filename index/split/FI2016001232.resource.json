@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Hypolipidemic effect of some vegetable oils in rats /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    El-Gengaihi, S. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salem, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bashandi, S. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ibrahim, N. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    el-Hamid, S. R. Abd.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"animal models"},
+	{"value":"blood lipids"},
+	{"value":"rasvahapot"},
+	{"value":"kasviöljyt"},
+	{"value":"cholesterol"},
+	{"value":"kolesteroli"},
+	{"value":"eläinkokeet"},
+	{"value":"veri"},
+	{"value":"plant oils"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001232",
+	"dct:identifier":"FI2016001232",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

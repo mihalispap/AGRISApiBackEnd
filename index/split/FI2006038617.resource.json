@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pollination and breeding of eggplants"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038617",
+	"dct:identifier":"FI2006038617",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a9(2).pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pessarakli, Mohammad Mahdi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dris, Ramdane (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The purpose of this review article is to provide clear and brief information on pollination and breeding of eggplant to increase yield and improve fruit quality. Considerable progress in artificial pollination and plant breeding techniques have played a very important role in increasing plant, including eggplant, yield and improving fruit quality. With classical methods, homozygous diploid lines can be obtained in 5-8 years depending on the species. In-vitro techniques such as anther and pollen culture have been very successful in shortening the required time for this process. Artificial pollination and proper breeding techniques substantially increase eggplant yield and improve its fruit quality."}
+	}}

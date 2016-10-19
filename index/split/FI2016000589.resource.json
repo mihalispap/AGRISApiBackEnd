@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Tarhaus voi tartuttaa tauteja poroihin /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Oksanen, Antti.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"infectious diseases"},
+	{"value":"reindeer"},
+	{"value":"domestication"},
+	{"value":"poro"},
+	{"value":"loiset"},
+	{"value":"eläintaudit"},
+	{"value":"tartuntataudit"},
+	{"value":"animal diseases"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000589",
+	"dct:identifier":"FI2016000589",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

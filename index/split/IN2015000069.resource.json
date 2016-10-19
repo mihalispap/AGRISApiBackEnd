@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of Feeding Acacia Nilotica Pods on Intake, Nutrient Utilization and Immune Status in Pregnant Goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":8,
+	"dc:subject":[
+		{"value":"acacia nilotica",
+	"xml:lang":"esp"
+	},
+	{"value":"immunity",
+	"xml:lang":"eng"
+	},
+	{"value":"prise alimentaire (animaux)",
+	"xml:lang":"fre"
+	},
+	{"value":"fruto",
+	"xml:lang":"esp"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"feed intake",
+	"xml:lang":"eng"
+	},
+	{"value":"immunite",
+	"xml:lang":"fre"
+	},
+	{"value":"ingestion de piensos",
+	"xml:lang":"esp"
+	},
+	{"value":"inmunidad",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"fruit",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":14,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000069",
+	"dct:identifier":"IN2015000069",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kushwaha, Raju"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rai, S.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, A.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Twenty one first time pregnant crossbred goats (Alpine x Beetal) of similar age and body weights were divided in to three groups of seven each and fed on three different diets in the ratio of 50:50 concentrate: roughage. Babul (Acacia nilotica) pods (pulp+seeds) were incorporated @ 0, 33 and 50 % in concentrate mixture, to make the diets equivalent to tannin concentrations of 0, 3 and 4.5 % in the total mixed ration (TMR) of I, II and III respectively. Native babul pods were supplemented in TMR II while in TMR III, it was pre-treated with 3 % Ca (OH)2 before supplementation. Body weights of the animals and intake of DM, C P, EE, C F, NFE, NDF and ADF remained similar amongst different treatments. Digestibility of dry matter and organic matter were however, higher (P0.05) in TMR II than TMR I or TMR III, while digestibility of ether extract was higher (P0.01) in both TMR II and TMR III than control. The concentration of plasma minerals such as Cu, Fe, Mn and Zn remained similar amongst the dietary groups. There was no significant change in plasma antioxidant activity and plasma total immunoglobulin levels between the groups. There was also no effect on the plasma retinol and Ã¡-tocopherol concentrations during pregnancy under different dietary groups. It is concluded that Acacia nilotica pods could be safely incorporated up to 3% tannin equivalent i.e.33% in the concentrates mixture of pregnant goats with out affecting intake and nutrient utilization. However, at higher levels at 4.5% tannins equivalent i.e. 50% in the concentrate may require calcium hydroxide treatment (3%w/w) before use.",
+	"xml:lang":"eng"
+	}
+	}}

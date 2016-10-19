@@ -1,0 +1,107 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Different Dietary Protein Levels on Growth, Nutrient Utilization and Rumen Fermentation in Mithun (Bos frontalis) Fed on Rice Straw based Diet",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":305,
+	"dc:subject":[
+		{"value":"paja de arroz",
+	"xml:lang":"esp"
+	},
+	{"value":"bovina",
+	"xml:lang":"esp"
+	},
+	{"value":"proteine",
+	"xml:lang":"fre"
+	},
+	{"value":"rumen digestion",
+	"xml:lang":"eng"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"digestion ruminal",
+	"xml:lang":"esp"
+	},
+	{"value":"rice",
+	"xml:lang":"eng"
+	},
+	{"value":"bovinae",
+	"xml:lang":"fre"
+	},
+	{"value":"proteins",
+	"xml:lang":"eng"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"digestion du rumen",
+	"xml:lang":"fre"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"arroz",
+	"xml:lang":"esp"
+	},
+	{"value":"proteinas",
+	"xml:lang":"esp"
+	},
+	{"value":"paille de riz",
+	"xml:lang":"fre"
+	},
+	{"value":"riz",
+	"xml:lang":"fre"
+	},
+	{"value":"rice straw",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":12,
+	"bibo:pageEnd":313,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000059",
+	"dct:identifier":"IN2015000059",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Das, K.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baruah, K.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Haque, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajkhowa, C."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"To assess the growth, nutrient utilization and rumen fermentation pattern in growing mithun (Bos frontalis) calves fed on different levels of dietary protein fed on paddy straw based diet, 21 male mithun of about 10-12 months of age were divided into three groups. The animals of each group was fed on rice straw-based iso-energetic diet containing three levels of dietary CP viz. 80 (LP), 100 (MP) and 120 (HP) g/kg DM to represent low, medium and high protein diets. Fortnightly body weight gain and daily DM intake were recorded. After 6 months, a metabolism trial was conducted. Rumen liquor was collected from three groups of animals and analysed. The experiment was continued for 42 weeks. The average daily gain (ADG) exhibited by LP, MP and HP group of calves were 0.464Â¡Ã0.03, 0.476Â¡Ã0.04 and 0.477Â¡Ã0.02 kg, respectively, with no differences (PÂ¡Ã0.05) among the groups. The digestibility of nutrients remained similar except for a higher (PÂ¡Ã0.05) CP digestibility in HP group of calves. Higher (PÂ¡Ã0.05) intake of nitrogen in HP group was accompanied by higher (PÂ¡Ã0.05) excretion though both faeces and urine leading to similar (PÂ¡Ã0.0) retention among the three groups. Rumen parameters revealed that level of ammonia nitrogen as well as activities of protease and urease enzymes increased significantly (PÂ¡Ã0.05) with increasing CP level; whereas Â¦Ã-amylase activity was significantly lower in HP fed animals than other two groups. Similarly the carboxymethyl-cellulase and xylanase activities were reduced in MP and HP as compared to LP. Overall, it was concluded that male growing mithun calves may be reared with the rice straw based diet containing minimum protein level of 80 g/kg DM.",
+	"xml:lang":"eng"
+	}
+	}}

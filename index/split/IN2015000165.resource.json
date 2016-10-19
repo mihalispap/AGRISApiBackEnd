@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A transmission electron microscopic study on the buffalo oviduct during follicular and luteal phases of estrous cycle",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":928,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"microscopie",
+	"xml:lang":"fre"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"cycle oestral",
+	"xml:lang":"fre"
+	},
+	{"value":"oviducts",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"ciclo estral",
+	"xml:lang":"esp"
+	},
+	{"value":"oviductos",
+	"xml:lang":"esp"
+	},
+	{"value":"microscopy",
+	"xml:lang":"eng"
+	},
+	{"value":"oestrous cycle",
+	"xml:lang":"eng"
+	},
+	{"value":"oviducte",
+	"xml:lang":"fre"
+	},
+	{"value":"microscopia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":931,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000165",
+	"dct:identifier":"IN2015000165",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pathak, Devendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bansal, Neelam"
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"The present investigation was conducted on different segments of both the oviducts from buffaloes (12) during follicular and luteal phases of estrous cycle. It was lined by two distinct types of columnar cells, viz. ciliated and secretory cells. The numbers of ciliated and secretory cells varied in different segments and phases of estrous cycle. Ciliated cells were more observed in infundibulum and ampulla as compared to isthmus. The nuclei of these cells were elongated and usually centrally or basally located. Secretory cells with the cytoplasmic protrusions extending beyond the luminal border of the secretory cells were observed in higher number in the follicular phase of estrous cycle. In the secretory cells, some secretory granules were present in the supranuclear cytoplasm. The secretory granules had homogenous electron-dense matrices. The non-ciliated secretory cells of the isthmus had few secretory granules, but contained many lysosome like bodies. Secretory cells at follicular phase were characterized by numerous secretory granules showing maximum differentiation and a well developed rough endoplasmic reticulum with dilated cistern. During the luteal phase the ciliation was less and amount of secretory activity also reduced as compared to that of follicular phase.",
+	"xml:lang":"eng"
+	}
+	}}

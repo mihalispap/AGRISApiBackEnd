@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"Linear Discriminant Function Analysis for the Different Characters of Pigeonpea (Cajanus Cajan (L.) Millsp) Accessions",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"pigeon peas",
+	"xml:lang":"eng"
+	},
+	{"value":"analysis",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513041",
+	"dct:identifier":"IN2016513041",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=11",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar S. T. Pavan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Avinalappa  H. H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tuppad  G. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kamei Adam"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Variations in different characters of the pigeonpea were studied using 122 accessions under rainfed condition during 2013. The characters considered viz., days to 50 per cent flowering, plant height (cm), days to physiological maturity, pods per plant, pod bearing length (cm), seeds per pod, 100 seed weight (g) and seed yield per plant (g) were used for the analysis. K-means cluster analysis was carried out based on the mean values and classified 122 accessions into four distinct clusters. The cluster-I (14 accessions), cluster-II (40 accessions), cluster-III (17 accessions) and in fourth cluster 51 accessions were distinctly classified. It is found that, days to physiological maturity, pods per plant, days to 50 per cent flowering and pod bearing length (cm) were significant discriminating characters. The stepwise discriminant analysis showed that pods per plant and days to physiological maturity were highly discriminating characters and these two characters were explained by the 98.8 percent variation in the accessions studied and these accessions were classified 97.5 percent correctly in the four clusters.",
+	"xml:lang":"eng"
+	}
+	}}

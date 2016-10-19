@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of bio-control agents and botanicals on in vitro growth and development of Ganoderma applanatum",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":151,
+	"dc:subject":[
+		{"value":"Basal stem rot,bio-control agents,botanicals,Ganoderma applanatum"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":156,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000629",
+	"dct:identifier":"IN2015000629",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Palanna, K.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Boraiah, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagaraj, M. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thyagaraj, N. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramaswamy, G.R"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Efficacy of bio-control agents and botanicals against Ganoderma applanatum, a fungi causing basal stem rot of coconut was studied at Agricultural Research Station, Arsikere during the year 2008-09. Among the 17 bio-control agents screened, native Trichoderma sp. (V2) recorded minimum radial growth of 1.72 cm by exerting 81 per cent reduction over control, which was followed by Trichoderma sp. (12a) by accounting 2.30 cm radial growth with 74 per cent reduction over control. Among the six bio-control agents, tested for biomass production, native Trichoderma sp. (B4) recorded maximum biomass (0.76 g) followed by Trichoderma sp. (C4) which accounted for 0.7 g 100 ml-1  potato dextrose broth. Among 10 botanicals tested, only Glyricidia was found to be inhibitory against G. applanatum, by recording radial growth of 5.4 cm as against 9.0 cm in control.",
+	"xml:lang":"eng"
+	}
+	}}

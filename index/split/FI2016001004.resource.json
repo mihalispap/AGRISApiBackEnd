@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"The effects of bird species on farming activities within Osun grove, Osogbo, Osun State, Nigeria /",
+	"xml:lang":"swe"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Inah, E. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Smith, O. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Onadeko, S. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akinola, O. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Aves"},
+	{"value":"plant production"},
+	{"value":"crop losses"},
+	{"value":"agriculture"},
+	{"value":"birds"},
+	{"value":"predatory birds"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001004",
+	"dct:identifier":"FI2016001004",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

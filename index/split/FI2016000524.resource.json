@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of fenvalerate and permethrin on soil arthropods and on residues in and decomposition of barley straw /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huusela-Veistola, Erja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kurppa, Sirpa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pihlava, Juha-Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"residues"},
+	{"value":"collembola"},
+	{"value":"Hordeum vulgare"},
+	{"value":"arachnida"},
+	{"value":"niveljalkaiset"},
+	{"value":"degradation"},
+	{"value":"organic soils"},
+	{"value":"permethrin"},
+	{"value":"insektisidit"},
+	{"value":"finland"},
+	{"value":"permetriini"},
+	{"value":"maaperäeliöstö"},
+	{"value":"sandy soils"},
+	{"value":"soil fauna"},
+	{"value":"fenvaleraatti"},
+	{"value":"ohra"},
+	{"value":"hajoaminen"},
+	{"value":"fenvalerate"},
+	{"value":"torjunta-aineet"},
+	{"value":"barley straw"},
+	{"value":"hordeum vulgare"},
+	{"value":"torjunta-ainejäämät"},
+	{"value":"olki"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000524",
+	"dct:identifier":"FI2016000524",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

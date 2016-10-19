@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of weaning programs on serum metabolites and hepatic IGF-1 mRNA of first-calf heifers or mature cows"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Whitney, Travis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Duff, Glenn (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cuneo, Peder (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Henderson, David (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schafer, David (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hallford, Dennis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Collier, Robert (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gentry, Paula (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100492",
+	"dct:identifier":"FI2016100492",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Effects of early weaning calves on serum metabolites and hepatic insulin-like growth factor-1 messenger RNA (IGF-1 mRNA) of first-calf heifers or mature cows was investigated. Treatments were arranged in a 2 x 2 factorial and included 14 crossbred first-calf heifers and 14 crossbred mature cows assigned randomly to one of two treatment regimens: early-weaned (EW, calves weaned at an average age of 114 d) or normal-weaned (NW, calves weaned at an average age of 197 d). Blood samples were collected from dams on d 114, 141, 197 and 205 postpartum via coccygeal venipuncture. Heifers with calves EW experienced a greater increase (parity x weaning; P = 0.02) in BW over heifers with calves NW, but no change in BW due to weaning was observed for mature cows (P>0.71). Early weaning (vs. NW) increased (P<0.05) body condition (BC) and change in BC of heifers and cows. Effects of weaning regimen or parity were not observed for ADG. There were no parity x weaning or parity x weaning x d interactions (P>0.16) observed for serum IGF-1, serum non-esterified fatty acids (NEFA), or serum urea nitrogen (SUN). A parity x d interaction (P<0.05) for hepatic IGF-1 mRNA, serum IGF-1 and SUN, and a trend for parity x d for NEFA (P<0.10) were observed, but no differences were detected between first-calf heifers and mature cows within sampling d. Early weaning tended to decrease (P = 0.06) SUN compared with NW status. These results suggest that EW can increase BW and BC in first-calf heifers, and decrease SUN in both first-calf heifers and mature cows. However, no other differences in performance or serum chemistry were detected between first-calf heifers and mature cows with either weaning regimen applied, in open rangeland conditions of the arid southwest United States during drought."}
+	}}

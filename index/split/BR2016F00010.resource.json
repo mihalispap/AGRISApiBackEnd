@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Ordenha robotizada de vacas leiteiras: uma revisão ",
+	"xml:lang":"por"
+	},
+	{"value":"Robotic milking of dairy cows: a Review",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"robots",
+	"xml:lang":"eng"
+	},
+	{"value":"dairy cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"automation",
+	"xml:lang":"eng"
+	},
+	{"value":"precision agriculture",
+	"xml:lang":"eng"
+	},
+	{"value":"livestock",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p80",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00010",
+	"dct:identifier":"BR2016F00010",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p80",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MACULAN, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LOPES, M. A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"An innovative technology that currently tries to gain market share are milking robots. Despite the high costs, robotic milking may produce benefits for the farmer and for animals submitted to this system. The objective of this study was to perform a literature review on the use of robotic milking of dairy cows, addressing aspects such as implementation and functioning of the system and effect on milking frequency, milk production and composition, somatic cell count, mastitis, reproduction, and animal welfare. The results showed that the programming of the robot depends on the number of animals to be milked daily and on the milking frequency adopted in each batch. The implementation of the system mainly depends on the site where the facilities will be built and already existing structures on the farm. The milking frequency is higher for high-producing cows and at the beginning of lactation and is influenced by the palatability of the concentrate offered at the time of milking. Frequencies higher than three times per day reduce total milk fat production and increase the concentration of free fatty acids. The incidence of mastitis and somatic cell count tend to increase in the first three months after implementation of the system. After the second year, udder health tends to improve, normalizing mastitis incidence and somatic cell count. Reproduction of the cows is not affected if dry matter intake compensates the higher energy expenditure required for higher milk productions. Robotic milking improves cow welfare since the animals voluntarily turn to the robot when they feel discomfort.",
+	"xml:lang":"eng"
+	},
+	{"value":"Uma tecnologia inovadora e que tenta ganhar espaço no mercado atual são os robôs ordenhadores. Apesar dos altos custos, a ordenha robotizada pode gerar benefícios para o pecuarista e para os animais submetidos a esse sistema. Objetivou-se apresentar uma revisão da literatura sobre a utilização da robótica na ordenha de vacas leiteiras, abordando aspectos como implantação do sistema e funcionamento, efeito sobre a frequência de ordenhas, produção e composição do leite, contagem de células somáticas, mastite, reprodução e bem estar animal. Constatou-se que a programação do robô depende da quantidade de animais a serem ordenhados diariamente e da frequência de ordenha adotada em cada lote. A implantação do sistema depende, primeiramente, do local onde serão construídas as instalações e das possíveis estruturas já existentes na propriedade. A frequência de ordenha é maior em vacas de maior produção leiteira e no início da lactação, sendo esta influenciada pela palatabilidade do concentrado oferecido no momento da ordenha. Frequências maiores que três vezes ao dia diminuem a produção de gordura total no leite e aumentam a concentração de ácidos graxos livres. A incidência de mastite e a contagem de células somáticas tendem a aumentar nos três primeiros meses após a implantação do sistema",
+	"xml:lang":"por"
+	},
+	{"value":"a partir do segundo ano, a saúde do úbere tende a melhorar normalizando a incidência de mastite e contagem de células somáticas. A reprodução das vacas não é afetada se a ingestão de matéria seca compensar os maiores gastos energéticos para produções leiteiras mais elevadas. A ordenha robotizada proporciona maior bem estar para as vacas, pois elas se encaminham ao robô de forma voluntária, no momento em que sentirem desconforto."}
+	]
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Social forestry reconsidered.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hyde, William F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Köhlin, Gunnar.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"developing countries"},
+	{"value":"kehitysmaat"},
+	{"value":"maaseudun kehitys"},
+	{"value":"forestry"},
+	{"value":"rural communities"},
+	{"value":"kylämetsätalous"},
+	{"value":"welfare economics"},
+	{"value":"metsäpolitiikka"},
+	{"value":"forest resources"},
+	{"value":"metsävarat"},
+	{"value":"metsien häviäminen"},
+	{"value":"communal forests"},
+	{"value":"deforestation"},
+	{"value":"hyvinvointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000945",
+	"dct:identifier":"FI2016000945",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Occurrence of fires in the eastern Saariselkä area, north-west Russia.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kauhanen, Heikki.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"imagery"},
+	{"value":"metsäpalot"},
+	{"value":"kuvatulkinta"},
+	{"value":"Russian Federation"},
+	{"value":"forest fires"},
+	{"value":"satelliittikuvaus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000644",
+	"dct:identifier":"FI2016000644",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

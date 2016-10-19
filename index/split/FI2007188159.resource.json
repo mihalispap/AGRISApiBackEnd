@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Omega-3 fatty acid composition and biological activity of three microalgae species"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188159",
+	"dct:identifier":"FI2007188159",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f23.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rosa, Antonella (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deidda, Delia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Serra, Alberto (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deiana, Monica (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dessì, M. Assunta (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pompei, Raffaello (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Microalgae have long been recognised as a potential source of products of commercial interest for aquaculture, dietetics and cosmetic. The nutritional quality of the microalgal biomass is correlated to the omega-3 polyunsaturated fatty acids content. Microalgae have also drawn much attention as sources of antitumoral, antibacterial and antifungal metabolites for the pharmaceutical industries. In this work the omega-3 fatty acids content and biological activity of three species of microalgae, Chlorella minutissima, Haematococcus pluvialis and Tetraselmis suecica, extensively used by the marine-culture industry, were examined. A significant concentration of polyunsaturated fatty acid 20:5 ω-3 (eicosapentaenoic acid) was present in Chlorella minutissima, and high amounts of 18:3 ω-3 (a-linolenic acid) were detected in Haematococcus pluvialis and Tetraselmis suecica. The lyophilized microalgae were tested in vitro for their cytotoxic (on VERO and MDCK cells), antibacterial, antiviral and antifungal activity. The chloroform, methanol and hexane extracts of Haematococcus pluvialis and Tetraselmis suecica were also assayed on cell cultures for their cytotoxicity (VERO, MDCK and Hela cells). Lyophilized Haematococcus pluvialis and Tetraselmis suecica and their chloroform and methanol extracts, exhibited significant cytotoxic activity on tumor cell cultures."}
+	}}

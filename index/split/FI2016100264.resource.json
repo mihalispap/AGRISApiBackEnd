@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1A115-117theuseofrapd.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The use of RAPD markers for strawberry identification and genetic diversity studies"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Żebrowska, Jadwiga I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tyrka, Miroslaw (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100264",
+	"dct:identifier":"FI2016100264",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"RAPD markers were used to identify and assess the genetic diversity level among 9 strawberry cultivars differing in reaction to photoperiod. 21 (29%) out of total number of 73 RAPD markers obtained with 6 selected primers, were monomorphic; 11 (15%) markers were cultivar-specific and enabled to identify cultivars: ‘Ambryo’, ‘Cambridge Favourite’, ‘Rapella’, ‘Teresa’ and ‘Senga Sengana’. The number of profiles revealed in present studies varied from 3 to 9. Banding profiles obtained separately with E20, D6 and D7 primers were sufficient to identify all cultivars. Obtained results confirmed the usefulness and suitability of RAPD markers for strawberry cultivars identification. Mean similarity within analyzed strawberry genotypes was 53% and varied from 32% in case of ‘Cambridge Favourite’ vs. ‘Teresa’ to 77% for combination of ‘Elsanta’ and ‘Redgauntlet’. On the basis of analyses performed progeny of cross between cultivars ‘Ambryo’ with ‘Teresa’ or ‘Senga Sengana’ is expected to yield highest polymorphism and thus is the most suitable for genetic map construction and identification of markers linked with photoperiod reaction."}
+	}}

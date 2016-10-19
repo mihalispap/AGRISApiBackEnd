@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A traditional Turkish beverage shalgam: Manufacturing technique and nutritional value"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591848",
+	"dct:identifier":"US201301591848",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"İncedayi, Bige (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uylaşer, Vildan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Çopur, Ömer Utku (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Turnip is a vegetable that has a high nutritional value, aroma and flavor. It can be utilized in many forms. One of the most consumed forms of turnip is the traditional Turkish fermented vegetable juice which is called “shalgam (şalgam)”. Purple carrot, bulgur flour, sourdough, salt, turnip and water are used for shalgam production. Its nutritional value results from the raw-materials, and some compounds formed during the fermentation. It’s also determined that shalgam has an effective role in prevention or retardation of some diseases. In this review, traditional production of shalgam, its nutritional value and effects on health were explained."}
+	}}

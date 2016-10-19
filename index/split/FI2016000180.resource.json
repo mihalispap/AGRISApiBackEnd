@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of different protein evaluation systems for growing pigs : digestible crude protein, and total, faecal digestible and ileal digestible amino acid intakes as performance response predictors /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Valaja, Jarmo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"digestible nitrogen"},
+	{"value":"lihasika"},
+	{"value":"aminohapot"},
+	{"value":"carcass composition"},
+	{"value":"methionine"},
+	{"value":"rehuarvojärjestelmät"},
+	{"value":"ruokinta"},
+	{"value":"lysine"},
+	{"value":"ruokintakokeet"},
+	{"value":"ravitsemusfysiologia"},
+	{"value":"feed conversion efficiency"},
+	{"value":"teuraslaatu"},
+	{"value":"valkuaisaineet"},
+	{"value":"metioniini"},
+	{"value":"treoniini"},
+	{"value":"valkuaisarvo"},
+	{"value":"protein quality"},
+	{"value":"threonine"},
+	{"value":"swine"},
+	{"value":"rehunkäyttökyky"},
+	{"value":"lysiini"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000180",
+	"dct:identifier":"FI2016000180",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

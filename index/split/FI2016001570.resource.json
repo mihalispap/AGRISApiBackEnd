@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Developing a Scots pine breeding objective : a case study involving a Swedish sawmill.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Berlin, Mats.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lönnstedt, Lars.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jansson, Gunnar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Danell, Öje.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ericsson, Tore.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tree breeding"},
+	{"value":"metsänjalostus"},
+	{"value":"laatu"},
+	{"value":"plant breeding"},
+	{"value":"mänty"},
+	{"value":"forest management"},
+	{"value":"sahateollisuus"},
+	{"value":"puusto"},
+	{"value":"Pinus sylvestris"},
+	{"value":"bio-economic model"},
+	{"value":"economic value"},
+	{"value":"multi-trait selection"},
+	{"value":"sawmills"},
+	{"value":"economic weights"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001570",
+	"dct:identifier":"FI2016001570",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of supplemental microbial phytase on performance of broiler chickens /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kiiskinen, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Piironen, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hakonen, Tiina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"calcium"},
+	{"value":"fosfori"},
+	{"value":"phytase"},
+	{"value":"fytaasi"},
+	{"value":"kivennäisaineet"},
+	{"value":"broiler chickens"},
+	{"value":"rehut"},
+	{"value":"feed intake"},
+	{"value":"broilerit"},
+	{"value":"phosphorus"},
+	{"value":"ruokintakokeet"},
+	{"value":"entsyymit"},
+	{"value":"luusto"},
+	{"value":"mineral content"},
+	{"value":"limb bones"},
+	{"value":"siipikarja"},
+	{"value":"digestibility"},
+	{"value":"kalsium"},
+	{"value":"weight gain"},
+	{"value":"supplements"},
+	{"value":"rehunkäyttökyky"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000418",
+	"dct:identifier":"FI2016000418",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

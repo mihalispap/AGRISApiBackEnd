@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of salt, starch and pH on the electroosmosis dewatering of tomato paste suspension"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2008319320",
+	"dct:identifier":"FI2008319320",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jumah, Rami (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Asheh, Sameer (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Banat, Fawzi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Zoubi, Khalid (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Preservative agents are usually added to extend the shelf life of manufactured foods. In this paper, the effect of adding starch and NaCl salt as well as adjusting the suspension pH on the electroosmosis dewatering of tomato paste suspension was considered. Starch addition lessened the dewatering rate, while salt addition enhanced it. The effect of suspension pH was dependent on the electrical field; the dewatering rate increased with increased pH under AC electrical field and decreased with increased pH under DC electrical field."}
+	}}

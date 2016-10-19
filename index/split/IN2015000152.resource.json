@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Role of reduced glutathione in improving post-thawed frozen seminal characters of poor freezable Jersey crossbred bull semen",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":807,
+	"dc:subject":[
+		{"value":"conservacion del semen",
+	"xml:lang":"esp"
+	},
+	{"value":"conservation du sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"toro",
+	"xml:lang":"esp"
+	},
+	{"value":"semen",
+	"xml:lang":"esp"
+	},
+	{"value":"taureau",
+	"xml:lang":"fre"
+	},
+	{"value":"semen preservation",
+	"xml:lang":"eng"
+	},
+	{"value":"bulls",
+	"xml:lang":"eng"
+	},
+	{"value":"sperme",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":810,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000152",
+	"dct:identifier":"IN2015000152",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"aug2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Peruma, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Selvaraju, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barik, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohanty, D.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, P.C."
+	}
+	}
+	],
+	"bibo:issue":8,
+	"bibo:abstract":{"value":"The role of reduced glutathione in improving the post thaw seminal characters in good and poor freezable Jersey crossbred bull semen was studied. And from each group 18 ejaculates were taken where tris extender supplementing with reduced glutathione @ 5mM was used for the experiment; thereafter, rapid freezing in liquid nitrogen was followed by thawing. The post-thawed seminal characters were studied to observe efficacy of addition of glutathione. The total motility showed significant difference between the 2 groups in both freezable bull semen, whereas livability, total sperm abnormality, loss of acrosomal integrity, percentage of hypo osmotic swelling positive sperm and vanguard distance travelled by sperm (mm/hour) in cervical mucus were found highly significant between the reduced glutathione treated and control group. However, the lipid peroxide levels as assessed by malondialdehyde formation were nonsignificant between the 2 groups, but the glutathione had reduced the production of more ROS as compared to the control group. The addition of reduced glutathione had maintained the functional state of good semen and enhances frezability of poor semen. Thus the reduced glutathione improves post thaw sperm functional parameters such as motility, viability, functional membrane and acrosomal integrity in poor freezable semen suggesting that addition of reduced glutathione in semen might have improved post-thawed seminal characters of crossbred bull frozen semen.",
+	"xml:lang":"eng"
+	}
+	}}

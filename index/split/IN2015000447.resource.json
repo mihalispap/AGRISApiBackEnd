@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Multiplex PCR for the detection of five important Staphylococcus sp. in bovine subclinical mastitis milk",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":9,
+	"dc:subject":[
+		{"value":"diagnostico",
+	"xml:lang":"esp"
+	},
+	{"value":"staphylococcus",
+	"xml:lang":"esp"
+	},
+	{"value":"staphylococcus aureas",
+	"xml:lang":"esp"
+	},
+	{"value":"staphylococcus aureus",
+	"xml:lang":"fre"
+	},
+	{"value":"mammite bovine",
+	"xml:lang":"fre"
+	},
+	{"value":"mastitis bovina",
+	"xml:lang":"esp"
+	},
+	{"value":"diagnosis",
+	"xml:lang":"eng"
+	},
+	{"value":"diagnostic",
+	"xml:lang":"fre"
+	},
+	{"value":"bovine mastitis",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":14,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000447",
+	"dct:identifier":"IN2015000447",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shome, Bibek Ranjan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mitra, Susweta Das"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhuvana , Mani"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Krithiga, Natesan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shome , Rajeswari"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhanikachalam, Velu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prabhudas, Krishnamshetty"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The multiplex PCR (mPCR) was standardized for the direct detection of 5 most significant Staphylococcus sp., viz. Staphylococcus aureus, Staphylococcus chromogenes, Staphylococcus epidermidis, Staphylococcus sciuri and Staphylococcus haemolyticus from milk. Early detection and identification of predominantly Staphylococcus aureus and recent emergence of coagulase-negative staphylococci (CNS) in causing bovine mastitis is important to improve the udder health by effective treatment and control measures. The mPCR assay successfully achieved bacterial identification up to species level based on specific amplification of conserved regions of genes, viz. 23S rRNA (S. aureus), sodA (S. chromogenes and S. haemolyticus), rdr (S. epidermidis) and gap (S. sciuri) genes. The evaluation of mPCR assay with 36 ATCC reference strains and validation with 115 milk samples from subclinically infected herd and 36 bulk milk samples rendered the assay 100% specific and highly efficacious than culture method. The detection limit was found to be from 10 3  to 10 cfu/ml for the 5 target Staphylococcus species. The results suggest the suitability of mPCR assay to rapidly detect and differentiate 5 important Staphylococcus sp. in about 5 h. The method can be adopted for herd surveillance as a part of health management programme.",
+	"xml:lang":"eng"
+	}
+	}}

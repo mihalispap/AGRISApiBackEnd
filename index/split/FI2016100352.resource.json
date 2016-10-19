@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/food-5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The yield of isothiocyanates in wasabi rhizomes stored at different temperatures"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sultana, Tamanna (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Savage, Geoffrey P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"McNeil, David L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Porter, Noel G. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100352",
+	"dct:identifier":"FI2016100352",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Wasabi rhizomes are commonly kept for varying lengths of time in cold storage as harvesting occurs at set times of the year and manufacturing into products, for instance, mayonnaise and sauces, occurs throughout the year. Six isothiocynates (ITCs) (iso-propyl ITC, sec-butyl ITC, allyl ITC, 3-butenyl ITC, 4-pentenyl ITC and 5-hexenyl ITC) were measured in the fresh and stored rhizomes; allyl ITC was the most abundant one, comprising 94% of the total ITC concentration. The total ITC content in the fresh rhizome was 1857.8 was mg kg-1. The yields of individual and total ITC remained stable when rhizomes were stored at -10, -20 and -80°C over a period of 8 weeks, except for 3-butenyl ITC which showed a significant fall after 3 weeks storage. The mean yield of total ITC after 8 weeks of storage of rhizomes at ≤-10°C was 1859.7 mg kg-1. There was no significant advantage to rapidly freezing the rhizomes with liquid nitrogen when compared to slower conventional freezing techniques. Defrosting and then refreezing the rhizomes at -15°C led to very significant losses of allyl and total ITC. Defrosting led to a 99.7% loss of allyl ITC when previously frozen rhizomes were stored at 4°C for 16 days. These data will considerably assist the efficient storage of this valuable material."}
+	}}

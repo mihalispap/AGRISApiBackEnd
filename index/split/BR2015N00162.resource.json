@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ESPÉCIES BOTÂNICAS UTILIZADAS NO ARTESANATO COMERCIALIZADO NA CIDADE DE ALTAMIRA-PA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":1,
+	"bibo:volume":4,
+	"bibo:pageEnd":5,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00162",
+	"dct:identifier":"BR2015N00162",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/909",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Olganeth Moreira de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raírys Cravo Herrera"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maurício Möller Parry"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gracinete Moreira de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"José Antônio Herrera"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ana Paula Ferreira dos Santos"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\">A diversidade de espécies florestais que existe na região amazônica é imensa, tornando imprescindível o conhecimento de cada espécie, a fim garantir a conservação e preservação da biodiversidade, e o desenvolvimento das atividades econômicas. O presente trabalho objetivou a identificação das espécies botânicas mais utilizadas no artesanato da cidade de Altamira e a caracterização dos processos de coleta e beneficiamento adotados pelos artesãos. Para aplicação de formulário e entrevista, foram visitadas duas associações de artesãos. Foram encontradas 48 espécies, sendo 34 identificadas e 14 indeterminadas. Dentre as famílias identificadas, destacaram-se: Fabaceae, Arecaceae e Lecythidaceae. Quanto aos processos de coleta, beneficiamento e armazenamento das sementes, as instituições apresentaram formas e técnicas adquiridas com o tempo de profissão.",
+	"xml:lang":"por"
+	}
+	}}

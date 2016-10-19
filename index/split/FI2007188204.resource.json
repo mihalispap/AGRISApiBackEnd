@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of the impact of manure additives on worker exposure and odour attenuation"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188204",
+	"dct:identifier":"FI2007188204",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a10.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lavoie, Jacques (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Massé, Daniel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Croteau, Francis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Masse, Lucie (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Topp, Edward (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Odours represent a major challenge in agriculture, particularly for hog producers. Different companies have introduced additives for liquid manure, which they claim reduce odours by eliminating the compounds that are responsible for them. This statement is not scientifically documented and could create a false sense of security for workers. Agriculture and Agri-Food Canada (AAFC) became interested in this problem, but from an environmental standpoint, and proposed collaboration with us to cover the main aspects of the use of such additives. Our collaboration has addressed the aspect of biosafety for workers. The objectives of this study were to ensure that the use of additives does not create new hazards, and to measure the odours using standardised methods in order to evaluate a laboratory methodology or protocol to verify scientifically the additive manufacturers’ statements. A set-up was developed at the AAFC research centre in Lennoxville, Quebec. The protocol and the four additives most commonly used on the market were evaluated over a 12-month period. Physicochemical characteristics, gases (methane, ammonia and hydrogen sulphide), odours and viable bioaerosols (total bacteria, endotoxins and moulds) were measured during this same period. The results indicate that the four additives tested for the entire storage period had no effect on the barrel system with shallow gutters under floorboards (open system). In the system with deep manure storage barrels (closed system), one of these additives, the chemical neutraliser, reduced volatile fatty acid and ammonia emissions. However, the quantity of chemical neutraliser added to the manure corresponded to 14 times the dose recommended on the packaging, which is economically unacceptable for commercial use. The results also suggest that system configuration may have an impact on the additives’ effects. The odour analysis sampling techniques also need to be improved. Odour analyses should also be done at least in triplicate due to the experimental error related to dilution and human factors."}
+	}}

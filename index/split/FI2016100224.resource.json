@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/f9.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of consumption of whole bread baked from wheat cultivated with micronutrient fertilizers on blood indices of iron"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fallahi, Ebrahim (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohtadinia, Javad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahboob, Soltan Ali (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100224",
+	"dct:identifier":"FI2016100224",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A 4-month-long, double-blind field study involving one village control community (n=160) receiving regular whole bread and other community (n=152) receiving whole bread baked from wheat cultivated with microfertilizers was conducted to test the effect of this approach on blood iron indices. Hemoglobin, serum iron and total iron binding capasity and serum ferritin were determined by cyanmethemoglobin, colorimetric and radioimmunoassay methods, respectively. Transferrin saturation was calculated. Hemoglobin concentration was increased only in 5-12 age groups of both experimental and control groups. Transferrin saturation was increased in all age groups of experimental village (P<0.05). Serum ferritin in both villages was decreased. Consumption of whole bread baked from cultivated wheat with microfertilizers increased transferrin saturation percentage in all age and gender groups and hemoglobin only in 5-12 age group. Agronomic methods may be useful in preventing iron deficiency anemia."}
+	}}

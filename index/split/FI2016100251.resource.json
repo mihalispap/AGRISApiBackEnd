@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-36.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of treatment technologies for pre-treated animal rendering plant wastewater in Scotland"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"O’Brien, Catherine A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Scholz, Miklas (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"McConnachie, Gordon L. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100251",
+	"dct:identifier":"FI2016100251",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The performance of an industrial membrane bioreactor (MBR) comprising denitrification, nitrification and ultrafiltration for the secondary treatment of primary treated animal rendering wastewater has been compared with an experimental, low-cost and novel vertical-flow constructed treatment wetland. The process wastewater (maximum of 427 m3/d) followed pre-treatment by dissolved air flotation (DAF) and for the pilot plant investigation, five litres were added to a constructed wetland planted with Reedmace (Typha latifolia) approximately twice per week. The highly variable nature of this DAF effluent, gave average mean chemical oxygen demand (COD) and ammonia concentrations of approximately 5200 (± 2050) and 490 (± 270) mg/l, respectively. Scottish Water sets thresholds for discharge into the local sewer of 200 and 500 mg/l for ammonia and suspended solids (SS), respectively. The Mogden equation taking also COD concentrations of the trade effluent into account is used to calculate wastewater charges. Compliance is measured by the Scottish Environmental Protection Agency. The industrial plant effluent for COD and ammonia was 45 and 63 mg/l, respectively. Despite cold climatic conditions (mean of 8°C between October 2002 and May 2003), the mean treatment performance of the constructed wetland for COD, ammonia and SS was 167, 63 and 15 mg/l, respectively. Individual plant sensitivity and effectiveness was also explored. Whilst the MBR treatment performance depends heavily on operation control and maintenance, the passive constructed treatment wetland requires a large footprint but minimal management effort."}
+	}}

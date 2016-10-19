@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":"2016-06-10",
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"EFFICIENCY LOSS OF RECORDED FUNGICIDES FOR THE CONTROL OF ASIAN SOYBEAN RUST IN CENTRAL REGION OF BRAZIL"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Aguiar, Renata Alves, Setor de Horticultura da Escola de Agronomia da Universidade Federal de Goiás
+Campus Samambaia – Rodovia Goiânia/Nova Veneza, Km 0 – Caixa Postal 131, CEP 74690-900, Goiânia, GO, Brasil."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cunha, Marcos Gomes, Setor de Horticultura da Escola de Agronomia da Universidade Federal de Goiás
+Campus Samambaia – Rodovia Goiânia/Nova Veneza, Km 0 – Caixa Postal 131, CEP 74690-900, Goiânia, GO, Brasil."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Araújo, Fernando Godinho, Núcleo em Nematologia Agrícola do Instituto Federal Goiano - Câmpus Urutaí"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carneiro, Luciana Celeste, Universidade Federal de Goiás, Campus Avançado de Jataí, Centro de Ciências Agrárias"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Borges, Edson Pereira, Universidade Federal de Mato Grosso do Sul - Chapadão do Sul/MS"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carlin, Valtemir José, Agrodinâmica Assessoria Agropecuária LTDA - Tangará da Serra/MT"
+	}
+	}
+	],
+	"dct:extent":"41-47",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00048",
+	"dct:identifier":"BR2016H00048",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"bibo:abstract":{"value":"Due to grower allege of low efficiency of triazole fungicides in recent years in Central Brazil on the control of Asian soybean rust (Phakopsora pachyrhizi), this study was undertaken to demonstrate the efficiency loss of products registered for rust and applied alone and to evaluate the efficiency of fungicides mixtures. The trials were carried out in five locations in Brazil, in the 2009/10 growing season. The experimental design was completely randomized blocks with four replications. Ten mixtures of triazole + strobilurin and two applications of pure triazoles were evaluated and the control without application. The application of fungicides started in the R1/R2 stage or in any vegetative stage if infections occurred early. The mixtures of fungicides were effective in controlling Asian soybean rust. Application of sole triazole fungicides was less effective in controlling the rust than the mixtures of triazoles + strobilurins. The use of commercial mixtures of triazole with strobilurin for rust control is recommended."},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"REVISTA DE AGRICULTURA NEOTROPICAL"}
+	}
+	}
+	}}

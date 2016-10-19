@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative assessment of yield potentials of improved cowpea breeding lines using performance index and ranking methods"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ajeigbe, Hakeem A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohammed, Sanusi G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Bir B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100451",
+	"dct:identifier":"FI2016100451",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Identification of the best variety from a variety trial is often done using the least significant difference (LSD), Duncan’s multiple range test (DMRT) and stability analysis methods. However, these methods are unable to discriminate among a smaller group of varieties which are not statistically significantly different from each other. Therefore, there is a need for another method which can further discriminate among these small groups of varieties. This study was undertaken to assess the efficacy of the performance index (PI) and rank total (RT) methods in identifying the best variety from a variety trial. Eighteen cowpea breeding lines including a local check were grown for two years in three environments representing the major cowpea growing zone of West Africa to assess their grain yield potential. The yield data were analyzed and variety means were compared using different methods. The PI revealed that IT98K-398-14 was the best with a PI index of 88% compared to 59% for IT98K-412-13 and IT98K-506-1 with 35%, and RT method showed IT98K-412-13 with RT of 34, IT98K-398-14 with RT of 35 and IT98K-506-1 with RT 42 as the most promising cowpea varieties while the stability analysis indicated IT98K-506-1 with a b value of 1.03 as the most stable variety in the test environments with a mean yield of 1491 kg ha-1 which is above overall mean yield of 1340 kg ha-1. The PI is a simple and easy approach to classify varieties especially when the number of varieties and test environments is large. The RT method is also an alternative approach devoid of much calculation and will therefore be a valuable tool for plant breeders especially when quick decisions are to be made on the selections of varieties. All three methods identified the same three varieties as the best varieties."}
+	}}

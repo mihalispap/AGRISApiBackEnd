@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effects of arbuscular mycorrhizal fungi and water stress on leaf chlorophyll production of cassava (Manihot esculenta Crantz) /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ekanayake, Indira J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oyetunji, O. Jacob.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Osonubi, O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lyasse, Omar.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"drought stress"},
+	{"value":"Manihot esculenta"},
+	{"value":"maniokki"},
+	{"value":"klorofylli"},
+	{"value":"Glomus mosseae"},
+	{"value":"mykorritsa"},
+	{"value":"mycorrhizae"},
+	{"value":"vesi"},
+	{"value":"chlorophylls"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001086",
+	"dct:identifier":"FI2016001086",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

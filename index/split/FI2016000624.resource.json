@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/4806/5535",
+	"dct:language":"eng",
+	"dct:title":{"value":"Potential and limitations of phosphate retention media in water protection : a process-based review of laboratory and field-scale tests",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Klimeski, Aleksandar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chardon, Wim.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Turtola, Eila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uusitalo, Risto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"sorption"},
+	{"value":"vesiensuojelu"},
+	{"value":"valunta"},
+	{"value":"agriculture"},
+	{"value":"phosphorus"},
+	{"value":"sorptio"},
+	{"value":"runoff"},
+	{"value":"eutrophication"},
+	{"value":"leaching"},
+	{"value":"huuhtoutuminen"},
+	{"value":"pollution control"},
+	{"value":"rehevöityminen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000624",
+	"dct:identifier":"FI2016000624",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

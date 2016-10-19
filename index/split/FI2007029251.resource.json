@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The relative advantage of agroforestry system over arable crop farming: Empirical evidence from cocoa based agroforestry and arable crop farming systems in Oyo State, Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029251",
+	"dct:identifier":"FI2007029251",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alabi, R. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Daramola, A.G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ajibefun, I.A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Data obtained from 57 cocoa based agroforesters and 67 arable crop farmers were analysed using stochastic frontier production function. Cocoa based agroforestry system had higher value of output than arable crop farming. Although cocoa based agroforestry system is more labour and capital intensive than arable crop farming, it is relatively more technically efficient than arable crop farming. The technical efficiencies of arable crop farmers ranged from 0.19 to 0.96 (mean value 0.82) and those of cocoa based agroforestry farmers from 0.10 to 0.99 (mean value 0.85). Age of the farmers, educational level and farming experience explained the existence of inefficiency effects in the farming systems. While age was positively related to inefficiency, educational level and experience were negatively related to inefficiency of the farmers. More output can be gotten from arable crop farming by increasing labour supply (family labour) while output of cocoa based agroforestry system can be increased by expanding the farm size. The study consequently recommends agroforestry farming system as efficient farming system option."}
+	}}

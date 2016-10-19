@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Economic evaluation of container seedling packing and disinfection machinery /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rantala, Juho.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Väätäinen, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kiljunen, Nuutti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harstela, Pertti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"packaging"},
+	{"value":"forest nurseries"},
+	{"value":"taimitarhat"},
+	{"value":"purification"},
+	{"value":"automatisointi"},
+	{"value":"equipment"},
+	{"value":"taimet"},
+	{"value":"pakkaukset"},
+	{"value":"taloudellisuus"},
+	{"value":"seedlings"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001022",
+	"dct:identifier":"FI2016001022",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

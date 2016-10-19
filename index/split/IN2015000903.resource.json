@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro evaluation of insecticidal seed treatments in wheat",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":215,
+	"dc:subject":[
+		{"value":"gestion de lucha integrada",
+	"xml:lang":"esp"
+	},
+	{"value":"integrated pest management",
+	"xml:lang":"eng"
+	},
+	{"value":"chlorpyrifos",
+	"xml:lang":"fre"
+	},
+	{"value":"gestion integree des ravageurs",
+	"xml:lang":"fre"
+	},
+	{"value":"clorpirifos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":218,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000903",
+	"dct:identifier":"IN2015000903",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thube,  S.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahapatro,  G.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar M.B. Arun"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Seed treatment plays crucial role in protecting the emerging seedlings from insect-pests and diseases. Recommendations of seed treatment for various crops are offered by Government of India under its most ambitious programme Total Seed Treatment Campaign since 2007. Use of seed treatments in field crops (cereals, pulses and oilseeds) has increased considerably over the past few years. But mostly the field recommendations are not based on in vitro investigation. Thus laboratory evaluations were made with three insecticides â imidacloprid (600 FS), fipronil (5 FS) and chlorpyriphos (20 EC) (each at three doses) to verify deleterious effects of test-doses for wheat â a major cereal crop, following in between paper method. It is advocated that â imidacloprid @ 3-5; fipronil @ 4 and chlorpyriphos @ 2 ml/kg seeds is safe for the emerging wheat seedlings, accordingly location-specific IPM-packages may be formulated.",
+	"xml:lang":"eng"
+	}
+	}}

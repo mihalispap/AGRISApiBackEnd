@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Safety of insecticides against Aenasius bambawalei hayat (Hymenoptera: Encyrtidae)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":224,
+	"dc:subject":[
+		{"value":"insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"hymenoptera",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticide",
+	"xml:lang":"fre"
+	},
+	{"value":"encyrtidae",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticidas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":228,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000905",
+	"dct:identifier":"IN2015000905",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Suroshe, Sachin S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gautam,  R. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fand,  Babasaheb B."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Six insecticides viz; chlorpyriphos 20 EC (0.1%), endosulfan 35 EC (0.14%), monocrotophos 36 SL (0.08%), malathion 50 EC (0.25%), dichlorvos 76 EC (0.3%), and alphamethrin 10 EC (0.02%) were evaluated for their toxicity against Aenasius bambawalei the solitary endoparasitoid of mealybug, Phenacoccus solenopsis. At the recommended field dose their residual toxicity was extremely high, registering 100% mortality at 24 hrs of exposure. However, when dose was reduced by twenty times the contact toxicity of alphamethrin (55.23%) followed by monocrotophos (78.57%) was less. It was noticed that endosulfan as contact poison was more toxic (85.23%) than as stomach poison (10.88%) and unlike alphamethrin; which showed 55.23% mortality as contact poison while 65.30% as stomach poison. The only insecticide, which did not record mortality after 1 hr exposure, was alphamethrin.",
+	"xml:lang":"eng"
+	}
+	}}

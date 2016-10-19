@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"LEVANTAMENTO FLORISTICO NO SÍTIO ARQUEOLÓGICO NO CAMPUS MARCO ZERO DA UNIVERSIDADE FEDERAL DO AMAPÁ, MACAPÁ/AP",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":74,
+	"bibo:volume":1,
+	"bibo:pageEnd":80,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00003",
+	"dct:identifier":"BR2015N00003",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/141",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Cristiane Rodrigues Menezes"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Renata Cristina das Mercês Ferreira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIFAP"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":" O campus Marco Zero do Equador da Universidade Federal do Amapá (UNIFAP) encontra-se situado no bairro Marco Zero do município de Macapá, com cerca de 10 hectares de área, possui um espaço físico construído que se dividiu entre prédios administrativos, salas de aula e laboratórios e outra que é composta de vegetação nativa que ocupa cerca de 70% da área, esta vegetação é caracterizada por Fragmento de Mata e Cerrado. Dentre esses 10 hectares, foi encontrada no ano de 1997, vasilhames de cerâmicos com uma profundidade de 1 m da superfície, esta área foi chamada de sítio arqueológico, sendo tombada pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN). Por apresentar importância histórica e biológicos, observou-se a falta de inventário florístico e registro do material, haja vista que a mesma passara por remoção da vegetação de cerrado para que ocorra às escavações e pesquisa históricas no sítio. Foi feito um levantamento para marcação da área e acompanhamento seguido de técnicas de herborização das plantas em seu período de floração, e registradas no herbário didático do laboratório de botânica (UNIFAP). Como resultados, foram identificadas 20 espécies, distribuídas em 12 famílias que destacam /Leguminosae Adans, Tuneraceae DC, Cypaeraceae Juss e Poacea Barnhart. Cerrado, flora, Leguminosae.",
+	"xml:lang":"por"
+	}
+	}}

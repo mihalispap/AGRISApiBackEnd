@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2011,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Malária na gestação",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rafael Cleison Silva dos Santos "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Olinda Consuelo Lima Araújo "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00049",
+	"dct:identifier":"BR2015M00049",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Este trabalho tem como objetivo<strong> </strong>realizar o levantamento das produções científicas sobre as alterações da malária no curso da gravidez. Trata-se de uma pesquisa descritiva, que utilizou o método de Revisão Integrativa da Literatura. Os dados foram adquiridos através da seleção de artigos da literatura nacional e internacional indexados nas bases de dados LILACS e BDENF no período entre 1995 a 2009. Após o levantamento dos artigos a amostra final foi composta por 08 estudos que atenderam aos critérios de inclusão. Os resultados apontam que a maioria dos estudos foi realizada em países Latino Americanos da Amazônia Legal. 62,5% são produções nacionais e 37,5% são produções internacionais. Nenhum artigo foi publicado em periódicos de enfermagem. 62,5% foram descritivos com análise quantitativa; 37,5% relato de casos; 37,5% prospectivos; 25% retrospectivo e 25% série de casos. A alteração no curso da gestação foi muito freqüente em gestantes durante o episódio agudo de malária, sendo muito mais freqüente a ameaça de interrupção do que a interrupção da gestação, cuja ocorrência foi baixa. Conclui-se que a infecção por malária continua sendo relevante fator de morbidade entre as grávidas e tem efeitos ainda pouco investigados sobre a saúde da mulher e do recém-nascido.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relation of tree-ring width and earlywood vessel size of alien Quercus rubra L. with climatic factors in Latvia.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"kevätpuu"},
+	{"value":"wood anatomy"},
+	{"value":"earlywood vessel lumen area"},
+	{"value":"introduced species"},
+	{"value":"growth rings"},
+	{"value":"earlywood"},
+	{"value":"dendroklimatologia"},
+	{"value":"Quercus rubra L."},
+	{"value":"temperature"},
+	{"value":"lämpötila"},
+	{"value":"climate-growth relationships"},
+	{"value":"Quercus rubra"},
+	{"value":"kasvu"},
+	{"value":"precipitation"},
+	{"value":"ilmasto"},
+	{"value":"vieraslajit"},
+	{"value":"climatic factors"},
+	{"value":"anatomia"},
+	{"value":"shifting sensitivity"},
+	{"value":"dendroclimatology"},
+	{"value":"vuosilustot"}
+	],
+	"bibo:doi":"10.14214/sf.1391",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000810",
+	"dct:identifier":"FI2016000810",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1391",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Matisons, Roberts,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jansons, Jānis,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Katrevičs, Juris,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jansons, Āris,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

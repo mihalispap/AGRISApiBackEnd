@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"An analysis of the influence of shrinkage on water retention characteristics of fen peat-moorsh soil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Oleszczuk, Ryszard.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Szatylowicz, Jan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Brandyk, Tomasz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gnatowski, Tomasz.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peat"},
+	{"value":"vedenpidätyskyky"},
+	{"value":"maaperä"},
+	{"value":"water holding capacity"},
+	{"value":"soil water retention"},
+	{"value":"shrinkage"},
+	{"value":"kutistuminen"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001957",
+	"dct:identifier":"FI2016001957",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

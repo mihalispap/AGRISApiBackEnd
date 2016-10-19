@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Isolation and characterization of cDNA encoding cyclophilin gene from dormant bud of Camellia sinensis(L.)O.Kuntze",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":256,
+	"dc:subject":[
+		{"value":"cDNA LIBRARY"},
+	{"value":"CYCLOPHILIN"},
+	{"value":"dormance",
+	"xml:lang":"fre"
+	},
+	{"value":"dormicion",
+	"xml:lang":"esp"
+	},
+	{"value":"camelia sinensis",
+	"xml:lang":"esp"
+	},
+	{"value":"dormancy",
+	"xml:lang":"eng"
+	},
+	{"value":"camellia sinensis",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":261,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000828",
+	"dct:identifier":"IN2015000828",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thirugnanasambantham, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prabu, G.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal,  A.K.A."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

@@ -1,0 +1,90 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Livestock marketing and supply chain management of livestock products",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":42,
+	"dc:subject":[
+		{"value":"economia",
+	"xml:lang":"esp"
+	},
+	{"value":"gestion",
+	"xml:lang":"esp"
+	},
+	{"value":"economie",
+	"xml:lang":"fre"
+	},
+	{"value":"animal products",
+	"xml:lang":"eng"
+	},
+	{"value":"marketing",
+	"xml:lang":"eng"
+	},
+	{"value":"produit animal",
+	"xml:lang":"fre"
+	},
+	{"value":"betail",
+	"xml:lang":"fre"
+	},
+	{"value":"etude de marche",
+	"xml:lang":"fre"
+	},
+	{"value":"productos de origen animal",
+	"xml:lang":"esp"
+	},
+	{"value":"livestock",
+	"xml:lang":"eng"
+	},
+	{"value":"market research",
+	"xml:lang":"eng"
+	},
+	{"value":"supply",
+	"xml:lang":"eng"
+	},
+	{"value":"economics",
+	"xml:lang":"eng"
+	},
+	{"value":"management",
+	"xml:lang":"eng"
+	},
+	{"value":"offre",
+	"xml:lang":"fre"
+	},
+	{"value":"investigacion de mercados",
+	"xml:lang":"esp"
+	},
+	{"value":"mercadeo",
+	"xml:lang":"esp"
+	},
+	{"value":"oferta",
+	"xml:lang":"esp"
+	},
+	{"value":"commercialisation",
+	"xml:lang":"fre"
+	},
+	{"value":"ganado",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":70,
+	"bibo:pageEnd":63,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000000",
+	"dct:identifier":"IN2015000000",
+	"dct:type":"Bibliography",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f451062e"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal Of Agricultural Economics (India)"},
+	"bibo:ISSN":{"value":"0019-5014"}
+	}
+	}
+	],
+	"dct:issued":"jan-mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Staal, Steven J."
+	}
+	},
+	"bibo:issue":1
+	}}

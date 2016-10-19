@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Wind and snow damage in the Pyrenees pine forests : effect of stand attributes and location.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Martín-Alcón, Santiago.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gonzáles-Olabarria, José Ramón.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Coll, Lluı́s.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"havupuut"},
+	{"value":"stabiilius"},
+	{"value":"stability"},
+	{"value":"plant damage"},
+	{"value":"stand structure"},
+	{"value":"models"},
+	{"value":"Pinus uncinata"},
+	{"value":"pinophyta"},
+	{"value":"wind damage"},
+	{"value":"lumituhot"},
+	{"value":"mallit"},
+	{"value":"Pinus sylvestris"},
+	{"value":"tuulituhot"},
+	{"value":"snow"},
+	{"value":"Pyreneet"},
+	{"value":"Pinus nigra"},
+	{"value":"Pinus nigra f. salzmanii"},
+	{"value":"metsät"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000030",
+	"dct:identifier":"FI2016000030",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

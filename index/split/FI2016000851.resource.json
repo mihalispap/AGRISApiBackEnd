@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Exchange rate changes and the Finnish sawnwood demand and price in the UK market.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Hänninen, Riitta H.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"hinnat"},
+	{"value":"exports"},
+	{"value":"sawnwood"},
+	{"value":"statistical methods"},
+	{"value":"prices"},
+	{"value":"kysyntä"},
+	{"value":"sahatavara"},
+	{"value":"exchange rate"},
+	{"value":"United Kingdom"},
+	{"value":"vienti"},
+	{"value":"valuuttakurssit"},
+	{"value":"demand"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000851",
+	"dct:identifier":"FI2016000851",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

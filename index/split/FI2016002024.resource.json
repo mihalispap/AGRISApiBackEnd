@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality and yield of pulpwood in drained peatland forests : pulpwood properties of Scots pine in stands of first commercial thinnings /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Varhimo, Antero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kojola, Soili.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Penttilä, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laiho, Raija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"silviculture"},
+	{"value":"pulping"},
+	{"value":"peatlands"},
+	{"value":"ensiharvennus"},
+	{"value":"metsäteollisuus"},
+	{"value":"thinning"},
+	{"value":"suometsät"},
+	{"value":"fibres"},
+	{"value":"mänty"},
+	{"value":"kuitupuu"},
+	{"value":"Pinus sylvestris"},
+	{"value":"harvennuspuu"},
+	{"value":"pulpwood"},
+	{"value":"puunkäyttö"},
+	{"value":"massateollisuus"},
+	{"value":"metsänhoito"},
+	{"value":"ojitetut suot"},
+	{"value":"puu"},
+	{"value":"metsäojitus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002024",
+	"dct:identifier":"FI2016002024",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

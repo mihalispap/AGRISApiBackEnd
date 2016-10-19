@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A method of making digital fruit color charts for cultivation management and quality control /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Motonaga, Yoshitaka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kondou, Hiroya.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hashimoto, Atsushi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kameoka, Takaharu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maturity"},
+	{"value":"väri"},
+	{"value":"crop yield"},
+	{"value":"laatu"},
+	{"value":"kuva-analyysi"},
+	{"value":"colour"},
+	{"value":"viiniköynnökset"},
+	{"value":"sato"},
+	{"value":"Vitis vinifera"},
+	{"value":"kypsyminen"},
+	{"value":"grapes"},
+	{"value":"image processing"},
+	{"value":"quality controls"},
+	{"value":"image analysis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000749",
+	"dct:identifier":"FI2016000749",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Livestock extension education activities of the State Departments of Animal Husbandry (SDAH) in India: A case of Tamil Nadu state",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":757,
+	"dc:subject":[
+		{"value":"vulgarisation",
+	"xml:lang":"fre"
+	},
+	{"value":"explotaciones agrarias",
+	"xml:lang":"esp"
+	},
+	{"value":"production animale",
+	"xml:lang":"fre"
+	},
+	{"value":"extension activities",
+	"xml:lang":"eng"
+	},
+	{"value":"elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"exploitation agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"produccion animal",
+	"xml:lang":"esp"
+	},
+	{"value":"animal husbandry",
+	"xml:lang":"eng"
+	},
+	{"value":"ganaderia",
+	"xml:lang":"esp"
+	},
+	{"value":"farms",
+	"xml:lang":"eng"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"animal production",
+	"xml:lang":"eng"
+	},
+	{"value":"extension",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":762,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000148",
+	"dct:identifier":"IN2015000148",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ravikumar, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chander, M."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"The State Departments of Animal Husbandry (SDAH) are the major stakeholder for the delivery of extension education services to the Livestock Owners (LOs) in India. However, the SDAH have to perform multitudes of other function with major emphasis on animal health. Thus, to test the hypothesis that the SDAH are not performing their role regarding delivery of extension services to the expected level, a survey of LOs, Veterinary Assistant Surgeons (VASs) and livestock inspectors (LIs) was undertaken in the state of Tamil Nadu. The SDAH, Tamil Nadu was primarily catering to animal health and breeding needs. There was no well defined institutional structure, catering specifically towards extension education activities oriented to livestock development. The grassroots level extension functionaries especially the veterinarians considered the extension activities as low profile job. Whereas, the LOs considered the SDAH as the major source of information relating to livestock health and production, but the functionaries of SDAH were not exposed to various extension-teaching methods for the want of budget, infrastructure and low priority attached to this role in preference to other activities. The economic importance of information was well recognized by the LOs, the Director of SDAH and extension functionaries within the SDAH, yet the institutional mechanism was not geared to this need of LOs. The budgetary provisions for extension education activities was limited to less than 1%, while 5% of the total budget was considered appropriate by the concerned officials. Therefore, a need was felt for a separate unit within the SDAH for effective delivery of extension services to the livestock farmers.",
+	"xml:lang":"eng"
+	}
+	}}

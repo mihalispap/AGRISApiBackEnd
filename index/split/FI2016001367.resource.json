@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Water stress, antioxidant enzyme activity and lipid peroxidation in wheat seedling.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Esfandiari, Ezzat-Ollah.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shakiba, Mohammad Reza.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mahboob, Soltan Ali.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alyari, Hoshang.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toorchi, Mahmood.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Triticum aestivum"},
+	{"value":"vehnä"},
+	{"value":"drought stress"},
+	{"value":"kestävyys"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"kuivuus"},
+	{"value":"plant water relations"},
+	{"value":"enzyme activity"},
+	{"value":"lipid peroxidation"},
+	{"value":"stressi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001367",
+	"dct:identifier":"FI2016001367",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Polymorphism of growth hormone BMP-15 gene in Marwari goat",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":32,
+	"dc:subject":[
+		{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"polimorfismo",
+	"xml:lang":"esp"
+	},
+	{"value":"polymorphism",
+	"xml:lang":"eng"
+	},
+	{"value":"rflp",
+	"xml:lang":"esp"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"polymorphisme",
+	"xml:lang":"fre"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":36,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000361",
+	"dct:identifier":"IN2015000361",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Godara, Aditya"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gahlot, G.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ashraf, Mohammad"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghorui, S.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was undertaken to investigate polymorphism in BMP-15 (Fec XBand Fec XG in exon-2) gene in Marwari goats by RFLP technique. Samples were collected from 60 unrelated goats of Marwari breed from different locations in Bikaner district. Genomic DNA was extracted by phenol:chloroform method and amplified using exon-2 Fec XB and Fec XG specific primers. The amplification was obtained at between 153 bp and 141 bp. The purified amplicons were digested with five base cutter restriction enzymes: DdeI and HinfI (5GANTCA 3CTNAGT). All samples showed the absence of polymorphism at the Fec XB and Fec XG loci of BMP-15 gene. Hence, BMP-15 gene cannot be regarded as the major gene associated with the fecundity of goats. Further investigation may be directed at other loci of BMP-15 gene or other genes, using larger sample size.",
+	"xml:lang":"eng"
+	}
+	}}

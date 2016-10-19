@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of environmental factors on the quality of wheat grown in Algeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029317",
+	"dct:identifier":"FI2007029317",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a30.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amir, Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Djabri, D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guellil, H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Youyou, A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The wheat production still remains beneath the national consumption in Algeria and undergoes quantitative and qualitative variations. To understand the fluctuations in cereal production at a regional level, soft and hard wheat (Triticum aestivum, T. durum) varieties grown on the same locations were sampled in three non-successive periods and analyzed for quality characteristics. Our study demonstrated the positive impact of the rainfall during the 2003 season on the specific weight (74.86-83.70 kg hl-1) and the one thousand-kernel weight (TKW 34.89-46.90 g) almost through the four locations studied. The increase of the average TKW was remarkable between 1999 and 2003 for the variety Vitron (10.74%). The impact of the external factors on the vitreousness of the hard wheat varieties (84.31-93.04%) was also studied. The protein content of the seeds showed highly positive correlations with rainfall (r1 exceeds +0.80), but no clear relationship between the temperature and the quality factors was detected in most of the locations (r2 ranged from 0 to – 0.9)."}
+	}}

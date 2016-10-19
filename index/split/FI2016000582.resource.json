@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Multiple solution harvest scheduling.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Van Deusen, Paul C.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"simulointi"},
+	{"value":"hakkuu"},
+	{"value":"mallit"},
+	{"value":"planning"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"logging"},
+	{"value":"metsänhoito"},
+	{"value":"ajoitus"},
+	{"value":"timing"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000582",
+	"dct:identifier":"FI2016000582",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

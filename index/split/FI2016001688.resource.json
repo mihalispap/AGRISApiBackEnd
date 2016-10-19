@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Selective nematicidal activity of allyl isothiocyanate /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Yu, Qing.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tsao, Rong.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chiba, Mikio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Potter, John.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Heterodera schachtii"},
+	{"value":"Heterodera glycines"},
+	{"value":"ankeroiset"},
+	{"value":"Meloidogyne hapla"},
+	{"value":"nematicides"},
+	{"value":"chemical control"},
+	{"value":"Meloidogyne incognita"},
+	{"value":"Pratylenchus neglectus"},
+	{"value":"Caenorhabditis elegans"},
+	{"value":"pests of plants"},
+	{"value":"kemiallinen torjunta"},
+	{"value":"plant nematodes"},
+	{"value":"Pratylenchus penetrans"},
+	{"value":"Nematoda"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001688",
+	"dct:identifier":"FI2016001688",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"FREQUÊNCIA DE AVISTAMENTOS DO BOTO TUCUXI, Sotalia fluviatilis (ODONTOCETI: DELPHINIDAE) EM ÁREA DE ENTORNO DA ILHA DE SANTANA, MACAPÁ, AMAPÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":143,
+	"bibo:volume":4,
+	"bibo:pageEnd":145,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00152",
+	"dct:identifier":"BR2015N00152",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/884",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Luana Caroline de Souza Barroso"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Andréa Soares Araújo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carlos Eduardo Costa Campos"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; text-align: justify;\"><em><span style=\"font-size: 12.0pt; font-family: \">Sotalia fluviatilis</span></em><span style=\"font-size: 12.0pt; font-family: \"> conhecido como boto tucuxi é considerado o único delfinídeo exclusivamente fluvial e de acordo com o IBAMA, é classificada como espécie de “Dados insuficientes”. O objetivo do presente trabalho é </span><span style=\"font-size: 12.0pt; font-family: \">descrever a frequência de ocorrência da espécie S. fluviatilis no Porto do Açaí, em Santana, Amapá</span><span style=\"font-size: 12.0pt; font-family: \">. O estudo foi realizado através de observações in loco e contagem de observações dos indivíduos. Durante três meses de atividade em campo por 4 horas semanais, houve 102 avistamentos, o que sugere uma preferência de habitat desses animais na referida área de estudo.</span>",
+	"xml:lang":"por"
+	}
+	}}

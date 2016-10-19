@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The analysis of return and its components of non-industrial private forest ownership by forestry board districts in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lausti, Antrei.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Penttinen, Markku.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tuotto"},
+	{"value":"toiminta"},
+	{"value":"private farms"},
+	{"value":"yksityismetsänomistajat"},
+	{"value":"yksityismetsätalous"},
+	{"value":"arviointi"},
+	{"value":"evaluation"},
+	{"value":"metsälautakunnat"},
+	{"value":"risk"},
+	{"value":"forest management"},
+	{"value":"riskit"},
+	{"value":"metsänomistajat"},
+	{"value":"administration"},
+	{"value":"profitability"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000519",
+	"dct:identifier":"FI2016000519",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

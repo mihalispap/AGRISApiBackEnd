@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Harvest time residues of carbosulfan in brinjal fruits"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029338",
+	"dct:identifier":"FI2007029338",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a21.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rajeswaran, J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Merlinkamala, I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandrasekaran, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayakumar, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kuttalam, S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Carbosulfan (2,3-dihydro-2,2-dimethyl-7-benzo-furnanyl (di-n-butyl amino) thio methyl carbamate) residues were 0.05, 0.12 and 0.27 μg g-1 at first harvest of the brinjal (Solanum melongena L.) fruits after three rounds of spraying when applied at 250, 500 and 1000 g a.i.ha-1 respectively. However, the residues were below detectable at all the levels of application at the third harvest of the produce. The residues were below the maximum permissible residue limit (MRL) of 0.1 μg g-1 at the recommended dose of 250 g a.i. ha-1 even at the first harvest itself."}
+	}}

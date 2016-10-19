@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of fertigation, mulches, and CO₂ enrichment on eggplant production.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pessarakli, Muhammad Mahdi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dris, Ramdane.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kastelulannoitus"},
+	{"value":"hiilidioksidilannoitus"},
+	{"value":"sato"},
+	{"value":"munakoiso"},
+	{"value":"mulches"},
+	{"value":"crop yield"},
+	{"value":"fertigation"},
+	{"value":"Solanum melongena"},
+	{"value":"carbon dioxide enrichment"},
+	{"value":"aubergines"},
+	{"value":"katteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000478",
+	"dct:identifier":"FI2016000478",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

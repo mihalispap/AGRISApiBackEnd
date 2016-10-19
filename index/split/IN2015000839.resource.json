@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"FPOs take up organic farming",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":14,
+	"dc:subject":[
+		{"value":"encephale",
+	"xml:lang":"fre"
+	},
+	{"value":"aceite de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"systeme d'exploitation agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"brain",
+	"xml:lang":"eng"
+	},
+	{"value":"cerebro",
+	"xml:lang":"esp"
+	},
+	{"value":"sistemas de explotacion",
+	"xml:lang":"esp"
+	},
+	{"value":"coconut oil",
+	"xml:lang":"eng"
+	},
+	{"value":"huile de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"farming systems",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":15,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000839",
+	"dct:identifier":"IN2015000839",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"oct2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Abdul Razak"
+	}
+	},
+	"bibo:issue":6
+	}}

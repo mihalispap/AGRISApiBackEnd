@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Survivability of mutant strains of Duddingtonia flagrans in goats following oral administration of albendazole",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":106,
+	"dc:subject":[
+		{"value":"mutant",
+	"xml:lang":"fre"
+	},
+	{"value":"mutants",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"benzimidazole",
+	"xml:lang":"fre"
+	},
+	{"value":"benzimidazoles",
+	"xml:lang":"esp"
+	},
+	{"value":"mutantes",
+	"xml:lang":"esp"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":112,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000377",
+	"dct:identifier":"IN2015000377",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rawte, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sanyal, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kerketta, Archana E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pal, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal, S.C."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Local goats of same sex and similar body weights in 3 groups, were fed on barley grain culture of albendazole mutant (DF-ABZ) and ethyl methane sulphonate mutant (DF-EMS) strains and wild strain (DF-CON) of Duddingtonia flagrans separately following deworming at 20 g per animal per day for 10 consecutive days. On 5th day of fungus feeding, goats of all the three groups were intraruminally administered albendazole (5.0 mg kg−1 body weight). Whole blood was collected in heparinised vacutainer tubes at 0, 4, 8, 12, 18, 24, 30, 36, 48 and 72 h post -dosing of albendazole and plasma albendazole metabolite concentrations were determined by high performance liquid chromatography. Simultaneously faecal samples were collected per rectum on the same hour intervals during blood collection and for another two days after completion of blood sampling at 24 h interval and were subjected to coproculture for faecal fungal recovery. Data on fungal recovery was superimposed with the data on plasma drug metabolite concentration so as to deduce the optimum concentration of drug that might exhibit mycostasis. No significant differences in the levels of anthelmintically active moiety albendazole sulphoxide (ABZ-SO) and anthelmintically inactive moiety albendazole sulphone (ABZ-SO2) could be demonstrated in goats fed on barley grain cultures of DF-CON, DF-ABZ and DF-EMS mutants of D. flagrans. However, for ABZ-SO, concentration maximum (Cmax) was significantly more in goats fed on DF-CON compared to DF-ABZ and DF-EMS fed animals and time to reach Cmax (tmax), AUC and t1/2Ã¢ were significantly less in goats fed DF-CON. For ABZ-SO2, Cmax, tmax and area under concentration-time (AUC) curve were significantly less in DF-CON fed goats and t1/2 Ã¢ was significantly more in goats fed DF-CON. The ABZ mutant (DF-ABZ) of D. flagrans was more tolerant to in vivo administration of albendazole compared to the wild isolate (DF-CON). However, albendazole exhibited total mycostatic effect on EMS mutant (DF-EMS) of D. flagrans. These findings can be exploited for application of integrated parasite management programmes.",
+	"xml:lang":"eng"
+	}
+	}}

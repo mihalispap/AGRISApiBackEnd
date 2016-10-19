@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Role of arbuscular mycorrhizae in development of salt-tolerance of Trifolium alexandrinum plants under salinity stress.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gharineh, M. H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nadian, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fathi, G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siadat, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maadi, B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"salt tolerance"},
+	{"value":"vesicular arbuscular mycorrhizae"},
+	{"value":"sodium chloride"},
+	{"value":"sodium sulphite"},
+	{"value":"weight"},
+	{"value":"soil salinity"},
+	{"value":"roots"},
+	{"value":"nutrient uptake"},
+	{"value":"Glomus intraradices"},
+	{"value":"Trifolium alexandrinum"},
+	{"value":"shoots"},
+	{"value":"phosphorus"},
+	{"value":"mycorrhizae"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001720",
+	"dct:identifier":"FI2016001720",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

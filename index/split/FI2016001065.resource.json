@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/6830/5542",
+	"dct:language":"eng",
+	"dct:title":{"value":"Fosfilt filters in an agricultural catchment : a long-term field-scale.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kirkkala, Teija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ventelä, Anne-Mari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tarvainen, Marjo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrients"},
+	{"value":"fosfori"},
+	{"value":"eutrophication"},
+	{"value":"kalkki"},
+	{"value":"lime"},
+	{"value":"phosphorus"},
+	{"value":"suodattimet"},
+	{"value":"leaching"},
+	{"value":"huuhtoutuminen"},
+	{"value":"filters"},
+	{"value":"rehevöityminen"},
+	{"value":"pollution control"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001065",
+	"dct:identifier":"FI2016001065",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

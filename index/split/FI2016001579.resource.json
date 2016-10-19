@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of cattle slurry and cultivation on air exchange in sandy and silty soils from northern Norway.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Haraldsen, Trond Knapp.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"lietelanta"},
+	{"value":"soil pore system"},
+	{"value":"maan rakenne"},
+	{"value":"porosity"},
+	{"value":"maan ilma"},
+	{"value":"viljelymaa"},
+	{"value":"sandy soils"},
+	{"value":"slurry"},
+	{"value":"silty soils"},
+	{"value":"maaperä"},
+	{"value":"hiekkamaat"},
+	{"value":"hiesumaat"},
+	{"value":"cultivated land"},
+	{"value":"aeration"},
+	{"value":"cultivation"},
+	{"value":"maalajit"},
+	{"value":"viljely"},
+	{"value":"permeability"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001579",
+	"dct:identifier":"FI2016001579",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

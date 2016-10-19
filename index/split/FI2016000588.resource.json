@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of different rates of inorganic fertilization on some agronomic characteristics with emphasis in roots and yield in four flax (Linum usitatissimum L.) varieties.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Papatheohari, Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bilalis, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alexopoulou, E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Papastylianou, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Avgoulas, C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"organic agriculture"},
+	{"value":"varieties"},
+	{"value":"roots"},
+	{"value":"crop yield"},
+	{"value":"application rates"},
+	{"value":"leaves"},
+	{"value":"Linum usitatissimum"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000588",
+	"dct:identifier":"FI2016000588",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

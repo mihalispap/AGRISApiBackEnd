@@ -1,0 +1,84 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Coconut Producer Companies on Multi Commodity Exchange(MCX)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":17,
+	"dc:subject":[
+		{"value":"carbon",
+	"xml:lang":"eng"
+	},
+	{"value":"gaz a effet de serre",
+	"xml:lang":"fre"
+	},
+	{"value":"cambio climatico",
+	"xml:lang":"esp"
+	},
+	{"value":"mercados de productos basicos",
+	"xml:lang":"esp"
+	},
+	{"value":"carbono",
+	"xml:lang":"esp"
+	},
+	{"value":"climate",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"clima",
+	"xml:lang":"esp"
+	},
+	{"value":"climat",
+	"xml:lang":"fre"
+	},
+	{"value":"commodity markets",
+	"xml:lang":"eng"
+	},
+	{"value":"marche des produits de base",
+	"xml:lang":"fre"
+	},
+	{"value":"greenhouse gases",
+	"xml:lang":"eng"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"changement climatique",
+	"xml:lang":"fre"
+	},
+	{"value":"gases de efecto invernadero",
+	"xml:lang":"esp"
+	},
+	{"value":"climatic change",
+	"xml:lang":"eng"
+	},
+	{"value":"carbone",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":18,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000861",
+	"dct:identifier":"IN2015000861",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Manu Prem"
+	}
+	},
+	"bibo:issue":8
+	}}

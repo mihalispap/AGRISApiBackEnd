@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Stability of iron and zinc concentrations in selected genotypes of cassava (Manihot esculenta Crantz) tuberous roots"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591946",
+	"dct:identifier":"US201301591946",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a34.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ssemakula, G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dixon, A. G. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maziya-Dixon, B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Iron (Fe) and Zinc (Zn) concentrations in tuberous roots of twenty-five cassava (Manihot esculenta Crantz) genotypes were determined over 2 years (2004/2005 and 2005/2006) at five locations representing distinct agroecologies in Nigeria. The objectives were to study the magnitude and nature of genotype by environment interaction (GEI) and stability of the micronutrients concentrations. Combined analyses of variance using the GLM procedure of SAS indicated that location (L), genotype (G), year (Y) and Y x L interaction were significant (P<0.001) for both micronutrients. G x L interaction was marginally significant for Zn only. There was no statistical evidence to suggest that any of GEI partitions (G x L, G x Y and G x L x Y) for Fe were significant albeit largest percentage contribution to total sum of squares by G x L and G x L x Y interactions. Contrastingly, the additive main effect and multiplicative interaction (AMMI) analysis revealed that the effects of GEI were statistically significant for both micronutrients. AMMI also revealed that many clones were stable for Fe and Zn. Similar to the GLM analysis, AMMI revealed a high contribution of GEI to total sum of squares for both Fe and Zn; it was more than double that of G. Clones 01/1368, 94/0330, 01/1442, 01/1412, 01/1413, 01/1610, 01/1115, 01/ 1663 and 01/1273 were the most stable for Fe concentration with levels above the overall mean; 01/1273 and 01/1404 were the most stable with above average concentrations of Zn. The results suggest that it is possible to breed cassava for high and stable levels of both micronutrients."}
+	}}

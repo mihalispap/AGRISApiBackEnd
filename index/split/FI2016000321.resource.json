@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Settlement and compressive properties of suspended solids in a domestic-institutional wastewater.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Oke, I. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oladepo, K. T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Olajumoke, A. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"water use"},
+	{"value":"jätevedenkäsittely"},
+	{"value":"wastewater"},
+	{"value":"jätevesi"},
+	{"value":"vesiensuojelu"},
+	{"value":"terveys"},
+	{"value":"sewage"},
+	{"value":"vesi"},
+	{"value":"vesihuolto"},
+	{"value":"environmental protection"},
+	{"value":"Niger"},
+	{"value":"groundwater"},
+	{"value":"groundwater pollution"},
+	{"value":"vesivarat"},
+	{"value":"sustainability"},
+	{"value":"waste disposal"},
+	{"value":"water resources"},
+	{"value":"public health"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000321",
+	"dct:identifier":"FI2016000321",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

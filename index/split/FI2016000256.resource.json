@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Whey pretreatments before ultrafiltration /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tupasela, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koskinen, Heikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Antila, Pirkko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"erotusmenetelmät"},
+	{"value":"juusto"},
+	{"value":"whey protein"},
+	{"value":"hera"},
+	{"value":"valkuaisaineet"},
+	{"value":"sivutuotteet"},
+	{"value":"meijeriteollisuus"},
+	{"value":"mikrosuodatus"},
+	{"value":"microfiltration"},
+	{"value":"ultrafiltration"},
+	{"value":"maitovalmisteet"},
+	{"value":"ultrasuodatus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000256",
+	"dct:identifier":"FI2016000256",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

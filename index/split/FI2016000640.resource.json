@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Adoption of traceability system in Chinese fishery process enterprises: difficulties, incentives and performance.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wang Feng
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fu ZeTian
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mu WeiSong
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moga, L. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang XiaoShuan
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"traceability"},
+	{"value":"fisheries"},
+	{"value":"enterprises"},
+	{"value":"fish processing 2  agrovoc"},
+	{"value":"food safety"},
+	{"value":"quality controls"},
+	{"value":"China"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000640",
+	"dct:identifier":"FI2016000640",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

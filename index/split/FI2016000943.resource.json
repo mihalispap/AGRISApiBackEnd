@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effects of environmental factors on the quality of human life and ecosystems in Romania.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Oroian, Ioan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Paulette, Laura.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rusu, Teodor.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dumitras, Adelina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"environmental factors"},
+	{"value":"food safety"},
+	{"value":"economic situation"},
+	{"value":"Romania"},
+	{"value":"quality of life"},
+	{"value":"public health"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000943",
+	"dct:identifier":"FI2016000943",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

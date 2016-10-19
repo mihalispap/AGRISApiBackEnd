@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Age and size structure of gap-dynamic, old-growth boreal forest stands in Newfoundland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    McCarthy, John W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Weetman, Gordon.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vanhat metsät"},
+	{"value":"koko"},
+	{"value":"gap dynamics"},
+	{"value":"ikärakenne"},
+	{"value":"boreaaliset metsät"},
+	{"value":"Newfoundland"},
+	{"value":"virgin forests"},
+	{"value":"stand characteristics"},
+	{"value":"size structure"},
+	{"value":"puusto"},
+	{"value":"rotated sigmoid"},
+	{"value":"old growth forests"},
+	{"value":"jakaumat"},
+	{"value":"uneven aged stands"},
+	{"value":"forest stands"},
+	{"value":"age structure"},
+	{"value":"boreal forests"},
+	{"value":"eri-ikäiset metsiköt"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000805",
+	"dct:identifier":"FI2016000805",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

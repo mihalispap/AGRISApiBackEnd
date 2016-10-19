@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of bruising and storage temperature on vitamin C content of tomato fruit"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sablani, S.S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Opara, L.U. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Balushi, K. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100476",
+	"dct:identifier":"FI2016100476",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Bruising is a common problem that downgrades the quality of fresh tomato during postharvest handling and marketing. In this study, samples of bruised and undamaged tomato fruit were stored at two different temperatures for about two weeks. The temperatures selected were refrigeration temperature (4°C) and room temperature (25°C). A titration method was used to measure the content of vitamin C in fruit at different storage times. Vitamin C content in fruit decreased with increasing duration of storage time at both temperatures, but no significant differences were found in vitamin C content of damaged and undamaged fruit tissue. The rate of vitamin C loss was higher when fruit were stored at higher temperature."}
+	}}

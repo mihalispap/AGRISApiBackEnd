@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Convergence and Collective Convergent Action",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":4,
+	"dc:subject":[
+		{"value":"coconut improvement"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lv",
+	"bibo:pageEnd":5,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000544",
+	"dct:type":"Summary",
+	"dct:identifier":"IN2015000544",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"bibo:issue":9
+	}}

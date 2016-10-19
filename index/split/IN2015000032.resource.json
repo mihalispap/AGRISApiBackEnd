@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of migratory bee-keeping in Apis mellifera on honey production and colony development in Kashmir",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"jammu and kashmir",
+	"xml:lang":"eng"
+	},
+	{"value":"panales de miel",
+	"xml:lang":"esp"
+	},
+	{"value":"apis mellifera",
+	"xml:lang":"esp"
+	},
+	{"value":"jammu y kashmir",
+	"xml:lang":"esp"
+	},
+	{"value":"jammu et cachemire",
+	"xml:lang":"fre"
+	},
+	{"value":"rayon de miel",
+	"xml:lang":"fre"
+	},
+	{"value":"honeycombs",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:pageStart":174,
+	"bibo:volume":75,
+	"bibo:pageEnd":175,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000032",
+	"dct:identifier":"IN2015000032",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Paray, M.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zaki, F.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rangraze,  M.A."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

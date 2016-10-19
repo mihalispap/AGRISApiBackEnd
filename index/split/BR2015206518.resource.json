@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Morphologic evaluations of Australian Cedar submitted to different doses of osmocote plus® fertilizer",
+	"xml:lang":"eng"
+	},
+	{"value":"   Avaliações morfológicas de mudas de Cedro australiano submetidas a diferentes doses do fertilizante osmocote plus® ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"forestry production",
+	"xml:lang":"eng"
+	},
+	{"value":"toona",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206518",
+	"dct:identifier":"BR2015206518",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/305/291",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Somavilla André"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cantarelli Edison Bisognin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mariano Lilian Gonçalves"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":3},
+	{"value":"12 kg m-³ de substrato. O adubo de solubilização controlada Osmocote Plus® na formulação de 15-09-12, em todas as dosagens,proporcionou aumento nas características morfológicas avaliadas. Sendo assim, a fertilização de Cedro Australiano com Osmocote Plus® proporciona os melhores parâmetros avaliados, em doses variando de 7,5 a 8,5 kg m-³ de substrato. Podendo assim inferir que uma dose ideal do fertilizante Osmocote Plus® na formulação de 15-09-12 para adubação de mudas de Cedro Australiano, é de8,0 kg m-³ de substrato."},
+	{"value":6},
+	{"value":"O Cedro Australiano (Toona ciliata M. Roem) é uma espécie exótica que vem se destacando em decorrência do grande potencial para a silvicultura comercial brasileira por apresentar alta taxa de crescimento. Este trabalho objetivou avaliar o desenvolvimento de mudas de Toona ciliataquando submetidas a diferentes doses do fertilizante. O experimento foi desenvolvido em blocos ao acaso, sendo as respectivas doses de Osmocote Plus®: 0"},
+	{"value":9},
+	{"value":"The Australian Cedar (Toona ciliata M. Roem) is an exotic specie that has been highlighting due its great potential in brazilian commercial silviculture for presenting high growing taxes. This work aimed evaluate the development of seedlights of Toona ciliata when submitted to differets doses of fertilizer. The experiment was developed in random blocks, being the respective doses of Osmocote Plus®: 0",
+	"xml:lang":"eng"
+	},
+	{"value":"12 kg m-³ of substrate. The fertilizer of controlled solubilization Osmocote Plus® in formulation of 15-09-12, in all dosing, afforded the increase in morphologic characteristics evaluated. Thus, the fertilization of Australian Ceder with Osmocote Plus® provided the best parameters evaluated, indoses ranging of 7,5 to 8,5 kg m-³ of substrate. So it is porssible infer that an ideal dose of Osmocote Plus® fertilizer in formulation of 15-09-12 for fertilization of Australian Cedar seedlights, is of 8,0 kg m-³ of substrate."}
+	]
+	}}

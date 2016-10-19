@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of bio-activators on yield and quality composition of triticale forage as an animal food resource.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lestingi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Giorgio, D. de.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Montemurro, F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Convertini, G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laudadio, V.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"yields"},
+	{"value":"rehut"},
+	{"value":"mykorritsa"},
+	{"value":"laatu"},
+	{"value":"ruisvehnä"},
+	{"value":"Italy"},
+	{"value":"nitrogen"},
+	{"value":"vesicular arbuscular mycorrhizae"},
+	{"value":"sato"},
+	{"value":"ravinteiden otto"},
+	{"value":"forage"},
+	{"value":"nutrient uptake"},
+	{"value":"quality"},
+	{"value":"typpi"},
+	{"value":"mycorrhizae"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"Triticosecale"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000291",
+	"dct:identifier":"FI2016000291",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

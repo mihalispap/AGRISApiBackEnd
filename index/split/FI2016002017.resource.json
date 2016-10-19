@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Multidimensional site description of peatlands drained for forestry.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Hotanen, Juha-Pekka.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"makroravinteet"},
+	{"value":"characteristics"},
+	{"value":"turpeen ominaisuudet"},
+	{"value":"vegetation"},
+	{"value":"nutrients"},
+	{"value":"stand characteristics"},
+	{"value":"peat"},
+	{"value":"turvemaat"},
+	{"value":"monimuotoisuus"},
+	{"value":"kasvillisuus"},
+	{"value":"pituusboniteetti"},
+	{"value":"classification"},
+	{"value":"luokitus"},
+	{"value":"peat soils"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002017",
+	"dct:identifier":"FI2016002017",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

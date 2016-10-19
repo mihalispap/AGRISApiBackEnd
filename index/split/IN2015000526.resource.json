@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysis of factors responsible for incidence of Pigeon pea wilt (Fusariun udum Butler)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":363,
+	"dc:subject":[
+		{"value":"cajanus cajan",
+	"xml:lang":"esp"
+	},
+	{"value":"fusarium",
+	"xml:lang":"esp"
+	},
+	{"value":"soil types",
+	"xml:lang":"eng"
+	},
+	{"value":"tipos de suelos",
+	"xml:lang":"esp"
+	},
+	{"value":"type de sol",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":367,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000526",
+	"dct:identifier":"IN2015000526",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Sunil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Upadhyay, J.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patel, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar Sanjeev"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Monika"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Effect of soil types on wilt incidence revealed maximum incidence of 74.7% in loam soil and least in clay soil (49.5%). Similarly soil pH on disease indicated maximum wilt incidence (51.5%) at soil pH 5 followed by pH 7. Correlation coefficient between wilt incidence and pH of the soil indicated that incidence was negatively (-0.960*) and significantly correlated with soil pH. Significantly maximum population of F. udum (4.83 x 103 cfu/g soil) was recorded in 1st July and 16th July sowing at upper (0-15) soil strata followed by the subsequent date of sowing on same depth of soil strata. At crop harvest stage, maximum population of F. udum 15.17 x 103 cfu/g soil in 1st July sowing at upper soil strata (0-15 cm). The minimum population of F. udum was recorded in 16th August sowing at 31-45 cm soil strata. Sowing of pigeon pea in first fortnight recorded maximum wilt incidence 89.5 % in 1st July sowing which was on par with 16th July sowing (86.8 %) and significantly higher than August sowing.",
+	"xml:lang":"eng"
+	}
+	}}

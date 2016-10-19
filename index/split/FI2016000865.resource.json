@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Quantification of fine root responses to selenium toxicity.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hartikainen, Helinä.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pietola, Liisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Simojoki, Asko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Xue, Tailin.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"seleeni"},
+	{"value":"juuri"},
+	{"value":"selenium"},
+	{"value":"roots"},
+	{"value":"salaatti"},
+	{"value":"myrkyllisyys"},
+	{"value":"kuva-analyysi"},
+	{"value":"Lolium"},
+	{"value":"toxicity"},
+	{"value":"morfologia"},
+	{"value":"plant anatomy"},
+	{"value":"Lactuca sativa"},
+	{"value":"raiheinät"},
+	{"value":"image analysis"},
+	{"value":"lettuces"},
+	{"value":"Lactuca"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000865",
+	"dct:identifier":"FI2016000865",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Decomposition of fine roots and α-cellulose in a short rotation willow (Salix spp.) plantation and abandoned agricultural land.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Püttsepp, Ülle.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Löhmus, Krista.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koppel, Andres.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fine roots"},
+	{"value":"cellulose"},
+	{"value":"degradation"},
+	{"value":"juuri"},
+	{"value":"roots"},
+	{"value":"hajoaminen"},
+	{"value":"short rotation forest"},
+	{"value":"Salix"},
+	{"value":"lignins"},
+	{"value":"lyhytkiertometsät"},
+	{"value":"selluloosa"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001501",
+	"dct:identifier":"FI2016001501",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

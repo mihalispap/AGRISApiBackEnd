@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Kuhan iridovirus /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tapiovaara, Hannele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Olesen, Niels-Jørgen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindén, Jere.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rimaila-Pärnänen, Eija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bonsdorff, Carl-Henrik von.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Iridoviridae"},
+	{"value":"iridovirus"},
+	{"value":"viroses"},
+	{"value":"kuha"},
+	{"value":"freshwater fishes"},
+	{"value":"Stizostedion lucioperca"},
+	{"value":"eläintaudit"},
+	{"value":"virustaudit"},
+	{"value":"animal diseases"},
+	{"value":"kalat"},
+	{"value":"identification"},
+	{"value":"pike perch"},
+	{"value":"viruses"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001221",
+	"dct:identifier":"FI2016001221",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelling the factors predisposing Scots pine to moose damage in artifically regenerated sapling stands in Finnish Lapland /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nikula, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hallikainen, Ville.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jalkanen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyppönen, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkitalo, Kari.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"mallintaminen"},
+	{"value":"mänty"},
+	{"value":"Alces alces"},
+	{"value":"elks"},
+	{"value":"Pinus sylvestris"},
+	{"value":"hirvituhot"},
+	{"value":"damage"},
+	{"value":"forestry"},
+	{"value":"boreal forests"},
+	{"value":"boreaaliset metsät"},
+	{"value":"taimikot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000491",
+	"dct:identifier":"FI2016000491",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

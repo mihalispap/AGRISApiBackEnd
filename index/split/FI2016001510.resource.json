@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutrient allocation, accumulation and above-ground biomass in grey alder and hybrid alder plantations.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uri, Veiko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tullus, Hardi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Löhmus, Krista.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"Alnus incana"},
+	{"value":"biomass"},
+	{"value":"hybridit"},
+	{"value":"Alnus incana x glutinosa"},
+	{"value":"phosphorus"},
+	{"value":"harmaaleppä"},
+	{"value":"nitrogen"},
+	{"value":"Alnus glutinosa"},
+	{"value":"nutrients"},
+	{"value":"tervaleppä"},
+	{"value":"kalium"},
+	{"value":"lepät"},
+	{"value":"hybrids"},
+	{"value":"biomassa"},
+	{"value":"potassium"},
+	{"value":"ravinteet"},
+	{"value":"typpi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001510",
+	"dct:identifier":"FI2016001510",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Stratification of regional sampling by model-predicted changes of carbon stocks in Forested mineral soils.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltoniemi, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heikkinen, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkipää, Raisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methods"},
+	{"value":"forest soils"},
+	{"value":"soil chemistry"},
+	{"value":"monitoring"},
+	{"value":"muutos"},
+	{"value":"anticaped variance"},
+	{"value":"hiili"},
+	{"value":"hiilen kierto"},
+	{"value":"tilastomenetelmät"},
+	{"value":"metsämaa"},
+	{"value":"sampling"},
+	{"value":"carbon"},
+	{"value":"statistical methods"},
+	{"value":"soil surveys"},
+	{"value":"carbon cycle"},
+	{"value":"otanta"},
+	{"value":"uncertainty"},
+	{"value":"maaperäkemia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000092",
+	"dct:identifier":"FI2016000092",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

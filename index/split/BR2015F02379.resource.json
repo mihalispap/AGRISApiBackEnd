@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Resíduo de limpeza de soja em substituição ao farelo de soja na dieta de cordeiro em terminação ",
+	"xml:lang":"por"
+	},
+	{"value":"Replacement of oybean meal by soybean cleaning residue on finishing lamb diets",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"feed conversion efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"cassava",
+	"xml:lang":"eng"
+	},
+	{"value":"panicum maximum",
+	"xml:lang":"eng"
+	},
+	{"value":"carcasses",
+	"xml:lang":"eng"
+	},
+	{"value":"feedlots",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02379",
+	"dct:identifier":"BR2015F02379",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1403097448.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"CAÇÃO, M.M.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, G.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CAVALETTI, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BUENO, M. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NARDON,  R.F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PEREIRA,  J.O."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"This study aimed to evaluate the replacement of soybean meal by soybean cleaning residue on performance, carcass traits and non–carcass components of finishing lambs. The experiment was conducted in a completely randomized design using 24 texel lambs, with average initial weight of 21.35±0.62 kg, distributed in four treatments: 1) 0% of soybean cleaning residue, 2) 25% of soybean cleaning residue, 3) 50% of soybean cleaning residue and 4) 75% of soybean cleaning residue in replacement of soybean meal. The diets were composed of 40% of roughage (50% of cassava foliage plus 50% of Panicum maximum cv aruana) plus 60% of concentrate. The performance and carcass traits and non-carcass components of the lambs were not affected by the different levels of soybean cleaning residue used in the diets. Soybean cleaning residue can be used up to 75% in replacement of soybean meal, without impairment of performance and carcasses traits.",
+	"xml:lang":"eng"
+	},
+	{"value":"3) 50% de resíduo de limpeza de soja e 4) 75% de resíduo de limpeza de soja em substituição ao farelo de soja. As dietas foram compostas de 40% de volumoso (50% feno de rama de mandioca e 50% de feno de Panicum maximum cv aruana) e 60% de ração concentrada. As características de desempenho, os componentes de carcaça e não-carcaça não foram influenciados pelos diferentes níveis de inclusão de resíduo de farelo de soja na alimentação dos ovinos. Resíduo de limpeza de soja pode ser utilizado até 75% de substituição ao farelo de soja sem prejuízos para o desempenho e características da carcaça."},
+	{"value":"2) 25% de resíduo de limpeza de soja"},
+	{"value":"O objetivo deste trabalho foi avaliar a substituição do farelo de soja por resíduo de limpeza de soja no desempenho, nas características e rendimento da carcaça e dos componentes não-carcaça de cordeiros confinados. O experimento foi realizado sob delineamento inteiramente casualizado, utilizando 24 cordeiros, com base genética Texel e peso médio inicial de 21,35±0,62 kg, divididos em quatro tratamentos: 1) 0% de resíduo de limpeza de soja",
+	"xml:lang":"por"
+	}
+	]
+	}}

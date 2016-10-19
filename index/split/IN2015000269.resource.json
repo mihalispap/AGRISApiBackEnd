@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Cytokines expression profile of Brucella abortus infected Indian water buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1010,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"cytokine",
+	"xml:lang":"fre"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	},
+	{"value":"brucella",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"brucella abortus",
+	"xml:lang":"esp"
+	},
+	{"value":"cytokines",
+	"xml:lang":"eng"
+	},
+	{"value":"citoquinas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1012,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000269",
+	"dct:identifier":"IN2015000269",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jain,  Neeraj"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Trangadia, Bhavesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rana, Samir Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Muraleedharan P"
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"In the present study investigation was carried out on the expression of cytokines in buffaloes infected with Brucella abortus. The study included, groups 1 and 2 of buffaloes each containing 5 of Brucella sero-positive buffaloes with history of abortions and sero-positive with no history of abortions respectively. Group 3, comprised 3 Brucella seronegative buffaloes without history of abortion, and was considered as negative control. The transcript levels of IFN-Ã£, TNF-Ã¡, IL-2, IL-8 and IL-12 were analyzed using Taq-Man real-time polymerase chain reaction in blood cells of all animals. While comparing the levels of cytokines among these groups of animals, only TNF-Ã¡ and IL-12 transcripts showed a significant (P 0.05) decrease in animals of group 1 as compared to group 2. However, no significant difference was recorded in the levels of expression of remaining cytokines among the groups. These findings are perplexing and warrants an in depth analysis with large number of samples, to elucidate the complex interaction of various cytokines in immune response due to natural Brucella infection in Indian water buffaloes.",
+	"xml:lang":"eng"
+	}
+	}}

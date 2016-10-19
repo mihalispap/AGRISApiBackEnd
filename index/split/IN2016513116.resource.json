@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:title":{"value":"Correlation Matrix of Physico-chemical Characteristics of Select Tank Waters of Tiptur Taluk in Tumkur District, Karnataka",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"water quality",
+	"xml:lang":"eng"
+	},
+	{"value":"chemicophysical properties",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513116",
+	"dct:identifier":"IN2016513116",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=26",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shivanna A. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagendrappa G."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Analysis of water quality of five tank water samples in Tiptur taluk through 18 physico-chemical parameters, namely WT, pH, DO, BOD, EC, TDS, TA, TH, CO32-, HCO3-, Cl-, SO42-, PO43-, NO3-, Na+, K+, Ca2+ and Mg2+ was taken up during December 2010 to November 2012. A systematic calculation of correlation coefficient among these 18 physico-chemical parameters was carried out using Microsoft excel spreadsheet. A correlation coefficient of 1.00 was found between the TA-HCO3- pair in Eachanur and V. Mallenahalli samples and the pair is perfectly correlated, whereas, ‘r’ value was 0.99 in Halkurke and Honnavalli samples and 0.97 in Albur samples. EC and TDS were perfectly correlated in Halkurke samples and for the same pair ‘r’ value was 0.99 in Eachanur, V. Mallenahalli and Honnavalli samples, whereas it was 0.85 in Albur samples. BOD and PO43- were perfectly correlated in Eachanur samples. When r > ± 0.5 was considered, a total of 22 positive and 3 negative correlations in Eachanur samples",
+	"xml:lang":"eng"
+	},
+	{"value":"18 positive and 9 negative correlations in V. Mallenahalli samples"},
+	{"value":"31 positive and 2 negative correlations in Halkurke samples"},
+	{"value":"36 positive and 6 negative correlations in Honnavalli samples"},
+	{"value":"and 18 positive and 5 negative correlations in Albur samples were found during the analysis. For a better interpretation of the results, the coefficient of determination was used in addition to ‘r’ value.Analysis of water quality of five tank water samples in Tiptur taluk through 18 physico-chemical parameters, namely WT, pH, DO, BOD, EC, TDS, TA, TH, CO32-, HCO3-, Cl-, SO42-, PO43-, NO3-, Na+, K+, Ca2+ and Mg2+ was taken up during December 2010 to November 2012. A systematic calculation of correlation coefficient among these 18 physico-chemical parameters was carried out using Microsoft excel spreadsheet. A correlation coefficient of 1.00 was found between the TA-HCO3- pair in Eachanur and V. Mallenahalli samples and the pair is perfectly correlated, whereas, ‘r’ value was 0.99 in Halkurke and Honnavalli samples and 0.97 in Albur samples. EC and TDS were perfectly correlated in Halkurke samples and for the same pair ‘r’ value was 0.99 in Eachanur, V. Mallenahalli and Honnavalli samples, whereas it was 0.85 in Albur samples. BOD and PO43- were perfectly correlated in Eachanur samples. When r > ± 0.5 was considered, a total of 22 positive and 3 negative correlations in Eachanur samples"},
+	{"value":"18 positive and 9 negative correlations in V. Mallenahalli samples"},
+	{"value":"31 positive and 2 negative correlations in Halkurke samples"},
+	{"value":"36 positive and 6 negative correlations in Honnavalli samples"},
+	{"value":"and 18 positive and 5 negative correlations in Albur samples were found during the analysis. For a better interpretation of the results, the coefficient of determination was used in addition to ‘r’ value."}
+	]
+	}}

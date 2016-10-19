@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:title":[
+		{"value":"Fumaric acid and calcium and phosphorus chelate in the diet of weaned piglets",
+	"xml:lang":"eng"
+	},
+	{"value":"   Ácido fumárico e quelato de cálcio e fósforo na ração de leitões desmamados ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"calcium",
+	"xml:lang":"eng"
+	},
+	{"value":"dicalcium phosphate",
+	"xml:lang":"eng"
+	},
+	{"value":"acidification",
+	"xml:lang":"eng"
+	},
+	{"value":"minerals",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"69/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01286",
+	"dct:identifier":"BR2015F01286",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1365774044.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"TIERZO,  V. L"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BERTO,  D. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"AUGUSTO,  R. M. N"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"HAUPTLI,  L"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MELLO,  G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TAMASSIA,  L. F. M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LUIGGI,  F. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVEIRA,  J. P. F."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Foram realizados dois experimentos com objetivo de avaliar os efeitos do ácido fumárico e de diferentes fontes de cálcio contendo fósforo, adicionados nas dietas de leitões desmamados, sobre o desempenho (E1) e morfometria intestinal (E2). Utilizaram-se 96 e 32 leitões desmamados aos 21 dias de idade, com pesos médios de 5,66 ± 0,44kg e 5,34 ± 0,45kg, no E1 e E2, respectivamente. Os delineamentos experimentais foram em blocos casualizados, em arranjo fatorial 2 x 2 (níveis de ácido fumárico x fontes de cálcio e fósforo) no E1 e 2 x 2 x 2 (níveis de ácido fumárico x fontes de cálcio e fósforo x épocas de abate) no E2. Não foram encontradas diferenças (P>0,05) no consumo diário de ração nos períodos avaliados. A conversão alimentar foi melhor (P",
+	"xml:lang":"por"
+	},
+	{"value":"Two experiments (E) were carried out with the objective of evaluating the effects of fumaric acid and carbo-amino-fosfo-quelato of calcium diets of weaned pigs on performance (E1) and intestinal morphology (E2). A total of 96 and 32 pigs with initial mean weights of 5,66 kg ± 0,44kg and 5,34 ± 0,45kg , in E1 and in E2, were used respectively. Randomized block designs were used in both experiments, with a 2 X 2 factorial arrangement in E1 and a 2 X 2 X 2 factorial arrangement in E2. No interaction between acidifier, source of calcium and phosphorus were found for the variables studied in the two experiments. No treatment effects were found on daily feed intake in evaluating periods. Feed conversion from 0 to 17 days was better (P",
+	"xml:lang":"eng"
+	}
+	]
+	}}

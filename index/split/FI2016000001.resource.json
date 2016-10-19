@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/7/3/effevala.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of dietary crude protein and energy content on nitrogen utilisation, water intake and urinary output in growing pigs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Valaja, Jarmo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siljander-Rasi, Hilkka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"aineenvaihdunta"},
+	{"value":"muuntosuhde"},
+	{"value":"feeds"},
+	{"value":"animal feeding"},
+	{"value":"urination"},
+	{"value":"rehut"},
+	{"value":"ruokinta"},
+	{"value":"protein content"},
+	{"value":"nitrogen"},
+	{"value":"valkuaispitoisuus"},
+	{"value":"sulavuus"},
+	{"value":"digestibility"},
+	{"value":"typpi"},
+	{"value":"swine"},
+	{"value":"nitrogen metabolism"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000001",
+	"dct:identifier":"FI2016000001",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

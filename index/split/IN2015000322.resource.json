@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Detection of specific nucleotide changes in the hypervariable region of 16S rDNA gene of Rhipicephalus (Boophilus) microplus and Hyalomma anatolicum anatolicum",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1204,
+	"dc:subject":[
+		{"value":"boophilus",
+	"xml:lang":"esp"
+	},
+	{"value":"ixodidae",
+	"xml:lang":"esp"
+	},
+	{"value":"hyalomma anatolicum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1207,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000322",
+	"dct:identifier":"IN2015000322",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rinesh Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paul, Souvik"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sachin Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Anil Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, Sweta"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rawat, Ajay Kumar Singh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaudhuri, Pallab"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ray, D.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghosh, Srikant"
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"Hyper variable segment of mitochondrial 16S rDNA from different stages of laboratory reared, disease free and acaricide susceptible Hyalomma anatolicum anatolicum and Rhipicephalus (Boophilus) microplus were partially amplified, sequenced and analyzed with the aid of the GenBank database. Thirty conserved genus specific nucleotide change were observed in Hyalommid and Boophilid ticks. These conserved sequences were sufficient to identify embryonic stages of the ticks. These conserved sequences at the genus level could act as biomarker for identification of ticks during epidemiological studies of tick borne diseases, transmitted by Hyalommid and Rhipicephalid ticks.",
+	"xml:lang":"eng"
+	}
+	}}

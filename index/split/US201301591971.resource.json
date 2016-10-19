@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Movement and flow velocity of groundwater in wells"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591971",
+	"dct:identifier":"US201301591971",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dökmen, Funda (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kurtuluş, Cengiz (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The movement and the flow velocity of groundwater were determined from data obtained from ten wells drilled in Derince district of Kocaeli, İzmit, Turkey. The data were determined on the basis of Darcy’s law. The depths and groundwater levels of the wells ranged from 16 to 115 m and from 3.90 to 25.10 m, and the maximum and the minimum discharge rates were determined to be 604.8 and 172.8 m3 day-1, respectively. The velocity of the groundwater varied between 21.6 and 75.6 m day-1. The filtration of the aquifer and the hydraulic slope affected the flow of the groundwater strongly. Pumping and the slope of the basement influenced strongly by the velocity of the groundwater."}
+	}}

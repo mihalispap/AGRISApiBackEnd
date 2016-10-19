@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ufrb.edu.br/wrim/images/wrim-2-2-2013/v02n02a01.pdf",
+	"dct:language":"eng",
+	"dct:title":[
+		{"value":"   Estimativa do índice de área foliar de pomares de bananeira pelo método IAF-LUX ",
+	"xml:lang":"por"
+	},
+	{"value":"Estimation of leaf area index of banana orchards using the method LAI-LUX",
+	"xml:lang":"eng"
+	}
+	],
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Guimarães M.J.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Coelho Filho M.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Peixoto C. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gomes F. A. J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira V. V. M."
+	}
+	}
+	],
+	"dc:subject":{"value":"leaf area index",
+	"xml:lang":"eng"
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015301765",
+	"dct:identifier":"BR2015301765",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/18074"
+	},
+	"bibo:abstract":[
+		{"value":"This paper aimed to compare leaf area index (LAI) from two genotypes banana orchards (GrandNaine and Tropical) estimated by biometric measurements with the LAI-LUX method. This method is basedon measurements of radiation transmittance using a digital luximeter. There were under and overestimationof LAI using the LAI-LUX method. The measurements taken on orchards aged over 8 months have shown themean relative error of -4.35% related to cultivar Tropical and +2.77% for the Grand Naine. The overall resultsrevealed the underestimation of results by 3.85% when the ‘Grand Naine’ banana cultivar was analyzed andoverestimation of 6.3% in the case of cultivar ‘Tropical’. These results have shown the potential to the practicaluse the method LAI-LUX to estimate LAI in banana orchards but are also necessary to improve the studies in neworchards (up to 8 months) for better understanding the main sources of error.",
+	"xml:lang":"eng"
+	},
+	{"value":"Este trabalho visou comparar o índice de área foliar (IAF) de pomares de bananeira (Musa spp.)estimados por método envolvendo medidas biométricas de folhas com o método indireto de estimativa IAF-LUX.Este método baseia-se em leituras de transmitância de luz com uso de um luxímetro digital. Houve tendênciade sub e superestimativas pelo IAF-LUX. Para pomares com idade superior a 8 meses os erros relativos médiosforam -4,35% para cultivar Grand Naine e +2,77% para bananeira Tropical. Em média, houve subestimativa de3,85% para Grand Naine e superestimativas de 6,3% para a bananeira Tropical. Esses resultados evidenciam apotencialidade de uso do método IAF-LUX. Estudos mais detalhados deverão ser realizados para aumento daconfiança nos resultados principalmente até os oito meses do plantio.",
+	"xml:lang":"por"
+	}
+	]
+	}}

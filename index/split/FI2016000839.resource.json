@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Utilization of gestagen hormones and pituitary FSH extracts in inducing the superovulation at embryo donor cows.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Petroman, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pacala, N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Petroman, C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bencsik, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Orboi, M. D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dronca, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Banes, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"embryo transfer"},
+	{"value":"FSH"},
+	{"value":"animal embryos"},
+	{"value":"pituitary gland"},
+	{"value":"Romania"},
+	{"value":"uses"},
+	{"value":"superovulation"},
+	{"value":"cows"},
+	{"value":"hormones"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000839",
+	"dct:identifier":"FI2016000839",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

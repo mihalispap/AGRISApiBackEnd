@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Climate risks and age-related damage probabilities - effects on the economically optimal rotation length for forest stand management in Japan.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kuboyama, Hirofumi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oka, Hiroyasu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"simulointimallit"},
+	{"value":"lumi"},
+	{"value":"damage"},
+	{"value":"statistical analysis"},
+	{"value":"land productivity"},
+	{"value":"forest trees"},
+	{"value":"kiertoaika"},
+	{"value":"felling cycle"},
+	{"value":"metsätuhot"},
+	{"value":"riskit"},
+	{"value":"age"},
+	{"value":"ilmasto"},
+	{"value":"climatic factors"},
+	{"value":"Japan"},
+	{"value":"weather hazards"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001126",
+	"dct:identifier":"FI2016001126",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

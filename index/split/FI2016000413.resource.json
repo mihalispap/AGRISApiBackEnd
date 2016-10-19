@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Forces required to vertically uproot tree stumps.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lindroos, Ola.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Henningsson, Marina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Athanassiadis, Dimitris.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nordfjell, Tomas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"machine development"},
+	{"value":"kannot"},
+	{"value":"kuusi"},
+	{"value":"tuotekehitys"},
+	{"value":"Betula"},
+	{"value":"metsäkoneet"},
+	{"value":"fuelwood"},
+	{"value":"forestry equipment"},
+	{"value":"stump pullers"},
+	{"value":"stump harvesting"},
+	{"value":"bioenergy"},
+	{"value":"energiapuu"},
+	{"value":"koivut"},
+	{"value":"bioenergia"},
+	{"value":"harvesterit"},
+	{"value":"Picea abies"},
+	{"value":"puunkorjuu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000413",
+	"dct:identifier":"FI2016000413",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

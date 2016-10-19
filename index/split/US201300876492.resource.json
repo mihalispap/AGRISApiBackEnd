@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil fertility management in North-East Romania"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876492",
+	"dct:identifier":"US201300876492",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jitareanu, Gerard (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ailincai, Costica (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bucur, Daniel (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effect of different soil tillage systems on crop yield and soil chemical and physical characteristics were studied during 1985-2006. Experiments were established in split-split plots on a typical cambic chernozem of clay-loam texture, a mean humus content of 3.3%, a weakly acid reaction and a moderate level of mineral nutrients. Twenty-two years of ploughing to a depth of 20 cm resulted in settling of the soil at a depth of 19-27 cm; causing high bulk density (1.52 g/cm3), low porosity (43.3%) and a high degree of settling (16.4% of volume). In the case of chisel tillage, bulk density decreased from 1.41 to 1.33 g/cm3, settling degree was lower at 0.8% and hydraulic conductivity increased from 6.4 to 21.5 mm/hour at a depth of 40cm. The mean wheat yield over the period, using 20 cm ploughing was 3690 kg/ha. Compared to 20 cm ploughing, using chisel ploughing and disks and also by repeated disking produced lower yields by 5.0% (-170 kg/ha) and 11.0% (-423 kg/ha), respectively. In maize, fertilizers were better utilized under conditions of deeper soil tillage (30 cm ploughing; chisel ploughing and disks) where yield increases varied with fertilizer rates from 98 to 131% (3940-5260 kg/ha). In soybean, mean yields using 20 cm ploughing and chisel ploughing and disk tillage were similar; in the case of chisel ploughing and disks, yield was higher by 12.0% (260 kg/ha) and with disks alone, yields were lower by 15.0% (336 kg/ha). The results indicate that soil tillage systems must be adjusted to plant requirements for crop rotation and to the pedoclimatic conditions of the area."}
+	}}

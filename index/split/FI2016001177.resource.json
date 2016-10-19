@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The influence of architects and structural engineers on timber in construction : perceptions and roles.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Roos, Anders.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Woxblom, Lotta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    McCluskey, Denise.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"timber structure"},
+	{"value":"puurakenteet"},
+	{"value":"specifiers"},
+	{"value":"roolit"},
+	{"value":"mielipiteet"},
+	{"value":"timber design"},
+	{"value":"osakkaat"},
+	{"value":"puurakennukset"},
+	{"value":"timber frame building"},
+	{"value":"rakennusinsinöörit"},
+	{"value":"stakeholders"},
+	{"value":"qualitative analysis"},
+	{"value":"building construction"},
+	{"value":"arkkitehdit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001177",
+	"dct:identifier":"FI2016001177",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

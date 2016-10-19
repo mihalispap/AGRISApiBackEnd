@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Estudo da localização de abatedouros e centros de distribuição de agroindústrias de frangos de corte no Distrito Federal ",
+	"xml:lang":"por"
+	},
+	{"value":"Study of the localization of slaughterhouses and distribution center of broilers agroindustries in Distrito Federal",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"optimization methods",
+	"xml:lang":"eng"
+	},
+	{"value":"poultry rearing",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"68/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01493",
+	"dct:identifier":"BR2015F01493",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2011-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1340909960.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"CARMO,  E. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SOARES,  J. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LOPES, M. A."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O presente trabalho estudou a localização de uma agroindústria avícola e otimizou sua rede, dos integrados aos consumidores, determinando a quantidade de abatedouros e centros de distribuição que a empresa deve possuir e a localização destes de forma a minimizar custos. A partir da coleta de dados reais e utilizando ferramentas de Sistemas de Informações Geográficas e programação linear binária, determinou-se a configuração ótima para a rede, bem como, a configuração de diversos cenários alternativos. A função objetivo utilizada, minimiza o somatório dos custos da localização do abatedouro, os custos da localização do centro de distribuição, os custos de produção e remessa dos frangos vivos do integrado até o abatedouro, os custos de abate e remessa até o centro de distribuição e os custos de armazenagem no centro de distribuição e remessa até os clientes finais. O cenário ótimo obtido considera apenas a instalação de um abatedouro e um centro de distribuição de maior capacidade, evidenciando ganhos de escala. Os resultados favoreceram a localização de abatedouros próximos aos integrados e de centros de distribuição próximos aos clientes, sujeitas às diversas restrições impostas pela realidade local.",
+	"xml:lang":"por"
+	},
+	{"value":"The work investigated the localization of an avian industry and optimized its net, from the　corporatives　　to the consumers, determining the amount of slaughterhouses 　and distribution centers　that the concern should possess and their　localization in order to minimize costs. From the collection of real data and by utilizing tools of Geographic Information Systems and binary linear programming, the optimum setting for the net as well the setting of several alternative scenarios were determined. The objective function utilized minimizes the sum of the costs of the slaughterhouse localization, the costs of the localization of the distribution center, the production costs and shipment of the living chickens 　from the corporatives to the slaughterhouse, the costs of slaughter　 and shipment as far as the distribution center and the storage costs in the distribution center and shipment to the end clients. The optimum 　scenario　 obtained takes into account only the establishment of a slaughterhouse and a distribution center of increased capacity, standing out scale gains. The results support the localization of slaughterhouses close to the　coporatives 　and distribution centers close to the clients submitted to the several restrictions imposed by the local reality.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

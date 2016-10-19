@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Spatial tree age structure and fire history in two old-growth forests in eastern Fennoscandia /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wallenius, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heikkilä, Raimo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindholm, Tapio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"metsäpalot"},
+	{"value":"vanhat metsät"},
+	{"value":"Finland"},
+	{"value":"tilajärjestys"},
+	{"value":"ikärakenne"},
+	{"value":"ikä"},
+	{"value":"historia"},
+	{"value":"virgin forests"},
+	{"value":"mänty"},
+	{"value":"ikäjakauma"},
+	{"value":"puusto"},
+	{"value":"Pinus sylvestris"},
+	{"value":"age structure"},
+	{"value":"Picea abies"},
+	{"value":"häiriödynamiikka"},
+	{"value":"forest fires"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002066",
+	"dct:identifier":"FI2016002066",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

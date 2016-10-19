@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Yield formation of spring rye at high latitudes with reference to seeding rate and plant growth regulation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rajala, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Muurinen, Susanna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sato"},
+	{"value":"ruis"},
+	{"value":"plant growth substances"},
+	{"value":"growth control"},
+	{"value":"crop yield"},
+	{"value":"kasvunsääteet"},
+	{"value":"sowing"},
+	{"value":"spacing"},
+	{"value":"Secale cereale"},
+	{"value":"rye"},
+	{"value":"kylvötiheys"},
+	{"value":"sowing rates"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001997",
+	"dct:identifier":"FI2016001997",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

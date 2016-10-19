@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Inhibitory effect of polysaccharides produced by medicinal macrofungus Cordyceps jiangxiensis on cancer cells via apoptotic pathway and cell cycle arrest"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911252",
+	"dct:identifier":"US201300911252",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/f12.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Xiao, Jian-hui (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zhong, Jian-jiang (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Edible and medicinal macrofungi-derived polysaccharides play a vital role for the development of functional foods and discovery of new drugs in the past, present and future. Cordyceps jiangxiensis, an entomopathogenic macrofungus belonging to the Ascomycetes, has been used as a famous traditional Chinese medicine in Eastern China for over centuries due to its specific physiological activities. In the present study, mycelial polysaccharides produced by C. jiangxiensis showed potent antitumor activity. Furthermore, further investigations indicated that the antitumor activity of the polysaccharide could take effects via apoptotic biochemistry pathway and mitosis arrest. Our findings suggest that the mycelial polysaccharides of C. jiangxiensis are a potential source of natural antitumor products."}
+	}}

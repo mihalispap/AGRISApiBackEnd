@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of water deficit on growth, grain yield and osmotic adjustment in rapeseed.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Norouzi, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toorchi, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salekdeh, Gh. Hosseini.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohammadi, S. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Neyshabouri, M. R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aharizad, S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rapeseed"},
+	{"value":"drought stress"},
+	{"value":"proline"},
+	{"value":"water deprivation"},
+	{"value":"Brassica napus"},
+	{"value":"flowering stage"},
+	{"value":"growth"},
+	{"value":"drought"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002084",
+	"dct:identifier":"FI2016002084",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

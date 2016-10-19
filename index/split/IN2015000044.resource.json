@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Rajendra Agricultural University. Department of Entomology. Bihar (India).",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":331,
+	"dc:subject":[
+		{"value":"noctuidae",
+	"xml:lang":"esp"
+	},
+	{"value":"ethiopia",
+	"xml:lang":"eng"
+	},
+	{"value":"tiempo meteorologico",
+	"xml:lang":"esp"
+	},
+	{"value":"depredadores",
+	"xml:lang":"esp"
+	},
+	{"value":"predators",
+	"xml:lang":"eng"
+	},
+	{"value":"ethiopie",
+	"xml:lang":"fre"
+	},
+	{"value":"sorghum",
+	"xml:lang":"esp"
+	},
+	{"value":"lepidoptera",
+	"xml:lang":"esp"
+	},
+	{"value":"temps meteorologique",
+	"xml:lang":"fre"
+	},
+	{"value":"weather",
+	"xml:lang":"eng"
+	},
+	{"value":"busseola fusca",
+	"xml:lang":"esp"
+	},
+	{"value":"coccinellidae",
+	"xml:lang":"esp"
+	},
+	{"value":"predateur",
+	"xml:lang":"fre"
+	},
+	{"value":"etiopia",
+	"xml:lang":"esp"
+	},
+	{"value":"oenothera",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":337,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000044",
+	"dct:identifier":"IN2015000044",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rai, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wakgari Mulatu"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"An experiment was conducted at Haramaya University, Haramaya (Ethiopia) research field on sorghum crop to find out the infestation level of most common stem borer, Busseola fusca (Fuller) under the influence of predominant predator, Oenopia conglobatta (L.) (coccinellid) using correlation and multiple regression analyses. One peak of infestation was observed during second fortnight of September. After peak the infestation started to decrease continuously till second fortnight of November. Infestation showed increasing trend after second of fortnight November and continued till harvest. The peak average of O. conglobatta (L.) numbers was 13.06 at corresponding peak of infestation (33.35%). After a peak number of predator, it decreased continuously reaching to lowest number during second fortnight of November at corresponding infestation of zero per cent. The correlation coefficients between weather factors and infestation were found significant except average maximum temperature but the significant correlation coefficients of O. conglobatta (L.) - predator were found with minimum temperature and sunshine hrs as positive and negative, respectively. The significant regression coefficients of O. conglobatta (L.) - predator was found as negative and positive with maximum and minimum temperature though negative with sunshine hrs. The coefficients of determination were 0.73 and 0.90 for infestation and Oenopia numbers, respectively along with significant regression equations",
+	"xml:lang":"eng"
+	}
+	}}

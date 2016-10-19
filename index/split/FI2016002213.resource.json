@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Harvennushakkuut voivat lisätä jalopuulehdon suojeluarvoa /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Kiuru, Heikki.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"thinning"},
+	{"value":"Quercus robur"},
+	{"value":"Tilia cordata"},
+	{"value":"luonnonsuojelu"},
+	{"value":"finland"},
+	{"value":"forest trees"},
+	{"value":"lehdot"},
+	{"value":"quercus robur"},
+	{"value":"tammi"},
+	{"value":"metsälehmus"},
+	{"value":"forest protection"},
+	{"value":"maisemanhoito"},
+	{"value":"harvennushakkuut"},
+	{"value":"puut"},
+	{"value":"fraxinus"},
+	{"value":"ulmus"},
+	{"value":"tilia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002213",
+	"dct:identifier":"FI2016002213",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

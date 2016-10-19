@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Stand characteristics and external quality of young Scots pine stands in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huuskonen, Saija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hynynen, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ojansuu, Risto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"yields"},
+	{"value":"thinning"},
+	{"value":"precommercial thinning"},
+	{"value":"young stand management"},
+	{"value":"nuoret metsiköt"},
+	{"value":"laatu"},
+	{"value":"mänty"},
+	{"value":"kasvu"},
+	{"value":"puusto"},
+	{"value":"Pinus sylvestris"},
+	{"value":"harvennushakkuut"},
+	{"value":"external stem quality"},
+	{"value":"metsänhoito"},
+	{"value":"stems"},
+	{"value":"growth and yield"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000138",
+	"dct:identifier":"FI2016000138",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

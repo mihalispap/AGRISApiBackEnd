@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Fysisk-matematiske metoder kan analysere minkskindets egenskaber.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Thorhauge, Kaj.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"minks"},
+	{"value":"analyysimenetelmät"},
+	{"value":"turkisnahat"},
+	{"value":"analytical methods"},
+	{"value":"statistical analysis"},
+	{"value":"ominaisuudet"},
+	{"value":"mathematical models"},
+	{"value":"tilastomenetelmät"},
+	{"value":"furs"},
+	{"value":"chemicophysical properties"},
+	{"value":"furbearing animals"},
+	{"value":"minkki"},
+	{"value":"turkiseläimet"},
+	{"value":"matemaattiset menetelmät"},
+	{"value":"fysikaaliset menetelmät"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000028",
+	"dct:identifier":"FI2016000028",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

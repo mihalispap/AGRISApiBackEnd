@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"COMPARAÇÃO ENTRE MÉTODOS PARA A AVALIAÇÃO DO VIGOR DE SEMENTES DE ALGODÃO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":35,
+	"bibo:volume":1,
+	"bibo:pageEnd":41,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00002",
+	"dct:identifier":"BR2016H00002",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/237",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gabriel Elias de Souza"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fábio Steiner"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tiago Zoz"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silvia Sanielle Costa de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sihélio Júlio Silva Cruz"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Em um programa de controle de qualidade, a avaliação do vigor de sementes é fundamental e necessária para o sucesso da produção. Métodos que possibilitam a rápida avaliação do vigor das sementes são de grande interesse no controle de qualidade das ...",
+	"xml:lang":"por"
+	}
+	}}

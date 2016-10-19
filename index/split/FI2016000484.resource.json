@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of bubbler, sprinkler and basin irrigation for date palms (Phoenix dactylifera, cv. Zahdi) growth in Kish Island, Iran.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Amiri, M. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Panahi, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aghazadeh, G.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrients"},
+	{"value":"water availability"},
+	{"value":"plant water relations"},
+	{"value":"drought resistance"},
+	{"value":"water use efficiency"},
+	{"value":"irrigation systems"},
+	{"value":"evapotranspiration"},
+	{"value":"irrigation"},
+	{"value":"Phoenix dactylifera"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000484",
+	"dct:identifier":"FI2016000484",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

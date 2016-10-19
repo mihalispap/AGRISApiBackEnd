@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Susceptibility of the locust Schistocerca gregaria to cells and cell-free solutions from the entomopathogenic bacterium Xenorhabdus nematophila.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mahar, Ali N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hague, N. G. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gowen, Simon R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Xenorhabdus nematophilus"},
+	{"value":"entomogenous bacteria"},
+	{"value":"Triticum aestivum"},
+	{"value":"vehnä"},
+	{"value":"biological control"},
+	{"value":"tuhoeläimet"},
+	{"value":"pests of plants"},
+	{"value":"wheats"},
+	{"value":"torjuntaeliöt"},
+	{"value":"biological control agents"},
+	{"value":"biologinen torjunta"},
+	{"value":"Schistocerca gregaria"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000248",
+	"dct:identifier":"FI2016000248",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

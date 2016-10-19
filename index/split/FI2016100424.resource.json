@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/f4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Angiotensin I-converting enzyme inhibitory activities of beverages made from sea algae and commercially available tea extracts"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nagai, Takeshi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suzuki, Nobutaka (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagashima, Toshio (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100424",
+	"dct:identifier":"FI2016100424",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Beverages were prepared from sea algae such as sea lettuce, hizikia, sea trumpet and wakame. Angiotensin I-converting enzyme inhibitory activities were measured in these beverages. Except for sea lettuce, these beverages showed the activities as follows: sea trumpet (0.625 mg dry matter/ml), hizikia (7.79 mg dry matter/ml) and wakame (26.4 mg dry matter/ml), respectively. These were similar to those from various fermented foods. Angiotensin I-converting enzyme inhibitory activities of these beverages did not correlate with the content of polyphenols. Beverages made from sea algae are of benefit not only to health drink to contain much minerals, but also to suppress the hypertensive activity of angiotensin I."}
+	}}

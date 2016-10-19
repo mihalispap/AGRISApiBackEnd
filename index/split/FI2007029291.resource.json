@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of increasing concentrations of sodium carbonate on pearl millet Pennisetum americanum"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029291",
+	"dct:identifier":"FI2007029291",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/a19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ali, Ghulam M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Collins, J.C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"McNeilly, T. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Significant reduction of seedling root length was observed, due to increased concentration of Na2CO3 and considerable variation was found between accessions for growth in salt. Analysis by non-linear least square inversion method using root length data revealed significant differences in pearl millet accessions on the basis of salinity threshold Ct, the Na2CO3 solution concentration at which root length begins to decrease. The concentration caused a 50% decrease in root length (C50) and the concentration causing zero root growth (C0). From the comparison of these three characters, C50 appears to be a useful character by means of assessing and quantifying salinity tolerance."}
+	}}

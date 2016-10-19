@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Modelling of vegetative filter strips in catchment scale erosin control.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rankinen, Katri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tattari, Sirkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rekolainen, Seppo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vesiensuojelu"},
+	{"value":"erosion"},
+	{"value":"suojavyöhykkeet"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"watersheds"},
+	{"value":"mathematical models"},
+	{"value":"vegetation"},
+	{"value":"pintavesi"},
+	{"value":"eroosio"},
+	{"value":"paikkatietojärjestelmät"},
+	{"value":"erosion control"},
+	{"value":"geographical information systems"},
+	{"value":"valuma-alueet"},
+	{"value":"suojakaistat"},
+	{"value":"matemaattiset mallit"},
+	{"value":"eutrophication"},
+	{"value":"cereal crops"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001597",
+	"dct:identifier":"FI2016001597",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:title":{"value":"MANEJO DA ADUBAÇÃO NITROGENADA NA CULTURA DA CANOLA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":41,
+	"bibo:volume":2,
+	"bibo:pageEnd":52,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00015",
+	"dct:identifier":"BR2016H00015",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/251",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Roberto Webber Puhl"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jimmy Walter Rasche"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Atualmente não existe recomendação de fertilização nitrogenada na canola no Paraguai. O objetivo foi verificar o efeito do manejo da adubação nitrogenada na cultura de canola. Foi implantado um experimento com 5 tratamentos que consistiram em diferentes ...",
+	"xml:lang":"por"
+	}
+	}}

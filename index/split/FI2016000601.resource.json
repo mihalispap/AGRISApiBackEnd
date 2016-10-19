@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth and recruitment after mountain forest selective cutting in irregular spruce forest : a case study in northern Norway.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Øyen, Bernt-Håvard.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nilsen, Petter.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"vuoristot"},
+	{"value":"Picea abies"},
+	{"value":"harsinta"},
+	{"value":"Norway"},
+	{"value":"mountain areas"},
+	{"value":"selective cutting"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000601",
+	"dct:identifier":"FI2016000601",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

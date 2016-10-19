@@ -1,0 +1,75 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Lambs live weight componentes and carcass cuts of lambs in different feeding systems",
+	"xml:lang":"eng"
+	},
+	{"value":"   Componentes não constituintes da carcaça e cortes cárneos de cordeiros em diferentes sistemas de alimentação ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"pastures",
+	"xml:lang":"eng"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"weaning",
+	"xml:lang":"eng"
+	},
+	{"value":"abomasum",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"66/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01721",
+	"dct:identifier":"BR2015F01721",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2009-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1255112000.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"RIBEIRO, Ticiany M. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, Ciniro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MONTEIRO, Alda L. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, Marina G. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GILAVERTE, Suzana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PRADO, Odilei R."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"(3) lambs without weaned in the same pasture with their dams until slaughter and (4) same treatment (3), but supplemented with concentrate in creep feeding around 40 days age until slaughter. The lambs had been slaughtered at 32kg of live weight. After slaughter, the non-carcass components were collected and weighted. There were made the following cuts: shoulder, leg, loin, false and true ribs, breast and neck. Lambs weaned in pasture showed (P"},
+	{"value":"O sistema de alimentação dos cordeiros durante a fase de cria tem grande influência no produto final carne de cordeiro, principalmente em função do abate à jovem idade, que é o objetivo atual no mercado mundial. Objetivou-se com o presente trabalho avaliar os componentes não-carcaça do peso corporal e os pesos e rendimentos dos cortes cárneos das carcaças de cordeiros em sistemas de produção: (1) cordeiros desmamados precocemente, aos 40 dias de idade, e mantidos em pastagem de azevém até o abate"},
+	{"value":"Lambs feeding have great influence on final product, lamb meat, especially due to slaughter at young age, which is the current objective on the world market. The objective of this study was to evaluate live weight components, weight and yield of cuts lamb carcasses in production systems: (1) lambs weaned around 40 days of age in ryegrass pasture (Lolium multiflorum Lam.) until slaughter",
+	"xml:lang":"eng"
+	},
+	{"value":"(2) cordeiros desmamados aos 40 dias e confinados, alimentados com silagem de milho + ração concentrada até o abate"},
+	{"value":"(2) lambs weaned and confined, fed with silage and concentrate \"ad libitum\", until slaughter",
+	"xml:lang":"por"
+	},
+	{"value":"(4) idem ao anterior, porém cordeiros suplementados em creep feeding a partir dos 40 dias de idade até o abate. Os cordeiros machos foram abatidos cada vez que atingissem o peso corporal individual de 32kg. Após o abate, foram coletados e pesados dos componentes do peso corporal. Foram realizados os seguintes cortes: paleta, perna, lombo, costelas verdadeiras, costelas falsas, baixos e pescoço. Os cordeiros desmamados e terminados em pasto apresentaram (P"},
+	{"value":"(3) cordeiros sem desmame, na mesma pastagem de azevém com as mães até o abate"}
+	]
+	}}

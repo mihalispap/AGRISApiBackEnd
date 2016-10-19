@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"AVALIAÇÃO FITOQUÍMICA, MICROBIOLÓGICA E CITOTÓXICA DAS FOLHAS DE Gossypium arboreum L. (MALVACEAE)",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":18,
+	"bibo:volume":5,
+	"bibo:pageEnd":22,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00204",
+	"dct:identifier":"BR2015N00204",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1034",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Raimundo de Almeida Meira-Neto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheylla Susan Moreira da Silva de Almeida"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-family: 'Tw Cen MT', sans-serif;\" A espécie Gossypium arboreum L. (Malvaceae) é utilizada pela população para várias enfermidades, principalmente para doenças respiratórias. O objetivo dessa pesquisa</span><span style=\"mso-bidi-font-size: 12.0pt; font-family: \";Tw Cen MT\";,sans-serif;\"  foi realizara triagem fitoquímica, atividade microbiológica e análise citotóxica do extrato bruto etanólico das folhas dessa espécie. Utilizou-se para análise fitoquímica a metodologiasanalítico-qualitativa descrita por Barbosa et al. (2004), e a microbiológica pelo método de difusão em disco nas concentrações de 25 mg/mL, 50 mg/mL e 100 mg/mL do extrato bruto etanólico. Por meio da triagem fitoquímica foram identificados alcalóides, fenóis, taninos, saponinas espumídicas, depsídeos e depsidonas, esteróides e triterpenos, estes metabólitos apresentam algumas atividades que se correlacionam com as alegadas pela população. Com a análise citotóxica foi possível obter a CL<sub>50</sub>= 238 µg/mL, indicando que o extrato bruto etanólico apresenta moderada toxicidade. O extrato não apresentou nenhuma inibição frente à Klebsiella pneumoniae (ATCC 13883), Staphylococcus aureus (ATCC 25923) e Escherichia coli (ATCC 25922) nas concentrações de 25 mg/mL, 50 mg/mL e 100 mg/mL. Os resultados estão correlacionados com uso popular da espécie, sendo que, a citoxicidade deverá ser investigada com mais profundidade para que esta espécie seja usada de forma adequada e segura, ou seja, buscando sempre segurança e eficácia na utilização de plantas medicinais.</span><p class=\"MsoNormal\" style=\"text-align: justify;\"><strong><span style=\"font-size: 12pt; font-family: 'Tw Cen MT', sans-serif;\" Palavras-chave: </span></strong><span style=\"font-size: 12pt; font-family: 'Tw Cen MT', sans-serif;\" Algodão, metabólitos secundários, Artemia salina</em>, ensaio biológico.</span><!--[endif] -->",
+	"xml:lang":"por"
+	}
+	}}

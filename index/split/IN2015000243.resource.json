@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil less medium for culturing and multiplication of root knot and cyst nematodes for basic and applied studies",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":148,
+	"dc:subject":[
+		{"value":"meloidogyne",
+	"xml:lang":"esp"
+	},
+	{"value":"heterodera avenae",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":153,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000243",
+	"dct:identifier":"IN2015000243",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Umarao"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tyagi, Nidhi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Amita"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kamaraju, Divya"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Banakar, Prakash"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, Sashi Bhushan"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present study demonstrated an approach to culture Meloidogyne incognita, M. graminicola and Heterodera avenae employing the growth pouches in a soil less medium. Comparison of multiplication of M. incognita between pouches and soil indicated that initial inoculum of 300 J2s could result in about 160 egg masses in the pouches as compared to about 50 egg masses in soil. This method can assist to overcome some of the problems of in vitro culturing of nematodes with a possibility to control the time and duration of nematode infection. This will be of immense value to unravel the various molecular and cellular events at exact time intervals of nematode parasitisation of their host plants. The information is very useful for designing modern nematode management options. The method described here could be used for screening the germpalsm/ cultivars for nematode resistance and also to evaluate the various biological and other agents for nematode management.",
+	"xml:lang":"eng"
+	}
+	}}

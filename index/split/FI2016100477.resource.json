@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-commentary.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Should the hazard analysis and critical control point (HACCP) system be checked? A nutritional viewpoint"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Soriano, J.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moltó, J.C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mañes, J. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100477",
+	"dct:identifier":"FI2016100477",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Nowadays, there is a concern about increased recording of foodborne disease as a worldwide problem of major public health due to that a wide variety of agents can cause human illness1. Microorganisms and toxins found in raw and ready-to-eat foods are probably the most commonly reported agents of foodborne diseases2. The presence of these agents can be due to incorrect processing and management practices common in agriculture, such as the growing, harvesting, washing, sorting, packing and transporting3. For ensuring a food safety, three major approaches to achieving food quality; one is the inspection for the Public Health Inspection Department to ensure that manufacturing and processing follows appropriate codes of good manufacturing practice, the other is the use of training foodhandlers in the rules of food hygiene and for preventing foodborne diseases and finally, a system to manage the safety of food products systematically by paying special attention to steps in the process that are essential in the production of acceptably safe foods. This last step is called Hazard Analysis and Critical Control Point (HACCP) system4,5 which is obligatory in the European Community according to the Food Safety regulations 1995 implements in the Directive on Food Hygiene (93/43/EEC)6. In the early 1970s, the Pillsbury Company jointly with the National Aeronautic and Space Administration (NASA) and the U.S. Army Natick Laboratories developed the Hazard Analysis and Critical Control Points (HACCP) system. This system was presented at the 1971 National Conference on Food Protection7 to ensure that the foods for the space program were free of all pathogens that could cause illness to astronauts during space travel. Thereafter, the food industry introduced the same system to prevent any risk to the health of its consumers. To avoid differences in the food safety objectives and criteria, HACCP guidelines were drawn up by several working groups: the International Commission on Microbiological Specifications for Foods8, the National Advisory Committee on Microbiological Criteria for Foods9 and the Food Hygiene Committee of the Codex Alimentarious Commission10, among others. They have recognized that to ensure food safety, properly designed HACCP systems must consider chemical and physical hazards in addition to other biological hazards."}
+	}}

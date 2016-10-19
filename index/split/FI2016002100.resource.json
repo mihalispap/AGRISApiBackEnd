@@ -1,0 +1,72 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1214",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hamunen, Katri,
+    kirjoittaja
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Virkkula, Outi,
+    kirjoittaja.
+    Oulun yliopisto
+    1904
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hujala, Teppo,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hiedanpää, Juha,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kurttila, Mikko,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Enhancing informal interaction and knowledge co-construction among forest owners.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"guidance"},
+	{"value":"learning communities"},
+	{"value":"communities"},
+	{"value":"farmers organizations"},
+	{"value":"learning"},
+	{"value":"forest owner clubs"},
+	{"value":"farmers associations"},
+	{"value":"social network"},
+	{"value":"information transfer"},
+	{"value":"ownership"},
+	{"value":"farms"},
+	{"value":"peer learning"},
+	{"value":"farm forestry"},
+	{"value":"communities of practice"}
+	],
+	"bibo:doi":"10.14214/sf.1214",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016002100",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002100",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

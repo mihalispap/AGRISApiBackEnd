@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Detection and determination of furfural in crude palm oil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Abdul Azis Ariffin
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rosnah Mat Soom
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Boo HueyChern
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Loi ChiaChun
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chai YuenHwa
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    AbdulKarim, S. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"spectrophotometry"},
+	{"value":"thin layer chromatography"},
+	{"value":"furfural"},
+	{"value":"colorimetry"},
+	{"value":"analytical methods"},
+	{"value":"palm oils"},
+	{"value":"oil palms"},
+	{"value":"chemical compounds"},
+	{"value":"chemical composition"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000170",
+	"dct:identifier":"FI2016000170",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

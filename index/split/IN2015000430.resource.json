@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Isolation, characterization and antibiotic sensitivity test of pathogenic Listeria species in livestock, poultry and farm environment of Odisha*",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":242,
+	"dc:subject":[
+		{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"poultry",
+	"xml:lang":"eng"
+	},
+	{"value":"aves de corral",
+	"xml:lang":"esp"
+	},
+	{"value":"volaille",
+	"xml:lang":"fre"
+	},
+	{"value":"orissa",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"listeria monocytogenes",
+	"xml:lang":"esp"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"listeria",
+	"xml:lang":"esp"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":247,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000430",
+	"dct:identifier":"IN2015000430",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sarangi, Laxmi Narayan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Panda, H.K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The present investigation was undertaken to study the occurrence of Listeria species in different animal and farms of Odisha. Atotal of 456 samples including 386 clinical samples and 70 environmental samples collected from different animals like cattle, sheep, goat, pig and poultry of different farms were screened for presence of Listeria species and 33 Listeria species were isolated which on pathogenicity testing revealed 5 L. monocytogenes and 3 L. ivanoviito be pathogenic. On biochemical characterization they were identified as L. monocytogenes, L. ivanovii, L. innocua, L. welshimeri, L. seeJigeri and L. grayi with prevalence rate of 1.75, 0.65, 1.75, 1.53, 1.31 and 0.21 percent respectively. Out of these isolates 5 L. monocytogenes and 2 L. ivanovii were found to be pathogenic in nature. Similarly prevalence of Listeria in different animals revealed 6.49% from cattle, 10% from sheep, 12.5% from goat, 15.83% from pig and 7.14% from poultry. Screening of environmental samples revealed isolation of 4 Listeria species with sewage having the highest prevalence followed by soil. Antibiotic sensitivity study indicated high susceptibility to ciprofloxacin, livofloxacin, amoxicillin, enrofloxacin where as high resistance were observed against gentamycin, penicillin G, cephadroxil, ceftriaxone, cephotaxim and oxytetracycin.",
+	"xml:lang":"eng"
+	}
+	}}

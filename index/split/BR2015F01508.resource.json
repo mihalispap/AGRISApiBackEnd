@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Monoclonal Antibodies production technology",
+	"xml:lang":"eng"
+	},
+	{"value":"   Tecnologia de produção de anticorpos monoclonais ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"antigens",
+	"xml:lang":"eng"
+	},
+	{"value":"antitoxins",
+	"xml:lang":"eng"
+	},
+	{"value":"immunological techniques",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"68/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01508",
+	"dct:identifier":"BR2015F01508",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2011-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1340910932.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"ROCHA, F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DUARTE,  K. M. R."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Desde a criação das primeiras células capazes de manter a produção contínua de anticorpos, por Köhler e Milstein em 1975, já despontava seu potencial uso na medicina e na indústria. Novas pesquisas foram então desenvolvidas na finalidade de potencializar o uso destas células, incluindo: imunização, células de mieloma, metodologia de fusão, técnicas de triagem, isolamento celular, meios de cultura, e tantos outros detalhes quanto fossem necessários para maximizar e ampliar o uso desta tecnologia. Hoje, os anticorpos monoclonais são ferramentas bem estabelecidas para investigação proteômica e com enorme aplicação em diversas áreas, principalmente no diagnóstico de enfermidades, veterinárias e/ou humanas e na identificação e rastreamento de compostos alergênicos em alimentos e resíduos das mais diversas fontes no ambiente. Esta revisão pode ser de interesse para profissionais, pesquisadores e estudantes, por se tratar de uma compilação de alguns trabalhos que contribuíram para o aperfeiçoamento da tecnologia de anticorpos monoclonais, hoje utilizada em diferentes áreas do conhecimento, como diagnostico de doenças humanas, doenças e desordens em toda cadeia do agronegócio.",
+	"xml:lang":"por"
+	},
+	{"value":"Since the first cells were capable of maintain a continuous antibody supply, developed by Köhler and Milstein in 1975, its use in medicine and industry showed a great potential. New researches were developed to enhance the use of such cells, including immunizations, mieloma cells, fusion methodology, screening techniques, cloning, culture media, among several details which enable and optimizes its use. Nowadays, monoclonal antibodies are a well-established tool for proteomics research and it have countless applications on several knowledge areas, mainly human and/or animal disease diagnostic, identification and tracking of allergenic compounds in food and residues in the environment. This review can be used by professionals, researches and students searching for a compiled papers contributing to the improvement of the monoclonal antibodies technology, used at different knowledge areas such as human diseases and diseases and disorders in agriculture and livestock chain.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

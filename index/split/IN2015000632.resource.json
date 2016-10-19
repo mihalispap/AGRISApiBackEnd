@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Seed quality and germination in selected hybrids of oil palm (Elaeis guineensis, Jacq.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":172,
+	"dc:subject":[
+		{"value":"physical characterstics"},
+	{"value":"grosseur des semences",
+	"xml:lang":"fre"
+	},
+	{"value":"palmier oleifere",
+	"xml:lang":"fre"
+	},
+	{"value":"seed size",
+	"xml:lang":"eng"
+	},
+	{"value":"oil palms",
+	"xml:lang":"eng"
+	},
+	{"value":"germinacion",
+	"xml:lang":"esp"
+	},
+	{"value":"germination",
+	"xml:lang":"fre"
+	},
+	{"value":"tamano de la semilla",
+	"xml:lang":"esp"
+	},
+	{"value":"palmas oleaginosas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":176,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000632",
+	"dct:identifier":"IN2015000632",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Murugesan, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shareef, M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Haseela, H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mathur, R.K"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Different indigenous oil palm hybrids were evaluated with an objective to assess their quality and to develop seed quality standards in commercial seed production centers. Majority of the indigenous hybrids had large proportion of small seeds and their percentage of distribution varied according to the hybrids. The different hybrid combinations recorded coefficient of variation of 11.70, 11.28 and 15.35 for seed weight, shell weight and kernel weight, respectively. Large seed group in all the crosses had high seed weight, shell weight, shell thickness and kernel weight. Though shell thickness had significant differences among crosses and size groups, the coefficient of variation recorded (6.38%) was low compared to other characteristics. Selected hybrids had low average kernel weight of 1.63, 1.05 and 0.74 g for large,medium and small seeds, respectively. In this study, high and low germination percentage was recorded in all the categories of seed groups irrespective of their sizes. All the seed physical parameters studied were positively correlated which are highly significant.",
+	"xml:lang":"eng"
+	}
+	}}

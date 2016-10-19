@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Cotton cultivation on narrow rows as an alternative culture method: Production and economics"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038606",
+	"dct:identifier":"FI2006038606",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mygdakos, Efthymios (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Avgoulas, Christos (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adamidis, Konstantinos (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Economou, Garifalia (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This paper focuses on the comparative study of cotton grown on narrow (75 cm) and conventional (96 cm) row spacing and the evaluation of the two systems in terms of cotton yield, production cost and crop profitability. The three-years experimentation showed that cotton grown on narrow-row spacing increased yield by 15.1% and gross margin by 18.2% compared to conventional row spacing; their differences were on average statistically significant. From the farmers’ point of view, these findings are very important for their income. If practical problems relating to cultural practices for the narrow-row system, could be overcome, then this option will be viable for cotton growing in Greece, cotton producers and the economy as a whole."}
+	}}

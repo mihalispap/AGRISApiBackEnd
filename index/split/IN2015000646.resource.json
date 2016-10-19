@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bio-efficacy of pumpkin phloem lectin on red spider mite, Oligonychus coffeae (Nietner) infesting tea",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":247,
+	"dc:subject":[
+		{"value":"Oligonychus coffeae"},
+	{"value":"ovipositional deterrence"},
+	{"value":"Camellia spp."},
+	{"value":"lectinas",
+	"xml:lang":"esp"
+	},
+	{"value":"mortalidad",
+	"xml:lang":"esp"
+	},
+	{"value":"mortality",
+	"xml:lang":"eng"
+	},
+	{"value":"mortalite",
+	"xml:lang":"fre"
+	},
+	{"value":"lectine",
+	"xml:lang":"fre"
+	},
+	{"value":"lectins",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":250,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000646",
+	"dct:identifier":"IN2015000646",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kalaivani, A"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sathyapriya, P"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arvinth, S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raj Kumar,R"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohan Kumar, P"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

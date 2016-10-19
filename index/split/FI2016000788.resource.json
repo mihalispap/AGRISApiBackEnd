@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of seed and seedling vigor on antioxidative isozyme activity and cold acclimation capability of winter oilseed rape.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ghassemi-Golezani, K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khomari, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valizadeh, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"frost resistance"},
+	{"value":"rape (plant)"},
+	{"value":"vigour"},
+	{"value":"catalase"},
+	{"value":"peroxidase"},
+	{"value":"leaves"},
+	{"value":"isoenzymes"},
+	{"value":"seedlings"},
+	{"value":"medicinal properties"},
+	{"value":"oilseed crops"},
+	{"value":"antioxidants"},
+	{"value":"acclimatization"},
+	{"value":"Brassica napus"},
+	{"value":"enzyme activity"},
+	{"value":"seeds"},
+	{"value":"superoxide dismutase"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000788",
+	"dct:identifier":"FI2016000788",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

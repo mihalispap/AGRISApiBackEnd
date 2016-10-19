@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Economic analysis of maize-tepary bean production using a soil fertility replenishment product (PREP-PAC) in semi-arid Eastern Kenya.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Shisanya, Chris A.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"rock phosphate"},
+	{"value":"palkokasvit"},
+	{"value":"sekaviljely"},
+	{"value":"Kenya"},
+	{"value":"maaperä"},
+	{"value":"maissi"},
+	{"value":"soil fertility"},
+	{"value":"Zea mays"},
+	{"value":"raakafosfaatti"},
+	{"value":"viljavuus"},
+	{"value":"intercropping"},
+	{"value":"Phaseolus acutifolius"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001747",
+	"dct:identifier":"FI2016001747",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

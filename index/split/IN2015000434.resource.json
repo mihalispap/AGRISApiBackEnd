@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Azolla (Azolla pinnata) based concentrate mixture on nutrient utilization in buffalo bulls",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":268,
+	"dc:subject":[
+		{"value":"azolla pinnata",
+	"xml:lang":"esp"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"concentrates",
+	"xml:lang":"eng"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"piensos concentrados",
+	"xml:lang":"esp"
+	},
+	{"value":"toro",
+	"xml:lang":"esp"
+	},
+	{"value":"taureau",
+	"xml:lang":"fre"
+	},
+	{"value":"aliment concentre pour animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"bulls",
+	"xml:lang":"eng"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":271,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000434",
+	"dct:identifier":"IN2015000434",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Srinivas, Kumar D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, R.M.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kishore, K. Raja"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, E. Raghava"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A metabolism trial was conducted after 30 days of feeding using twelve graded Murrah buffalo bulls (301.96 Â± 6.98) to study the effect of incorporation of sun dried Azolla (Azolla pinnata) meal in the concentrate mixture on intake, digestibility of nutrients and on retention of nitrogen, calcium and phosphorus. The DMI (kg/100 kg BW) was similar between the 2 groups. The average digestibility coefficients of DM, OM, CP, EE, CF, NFE, NDF, ADF, cellulose and hemicellulose decreased (P0.05) with incorporation of sun dried Azolla meal in the concentrate mixture of buffalo bulls as compared with the control. All the buffalo bulls were in positive N, Ca and P balances. The % DCP (P0.05) and TON (P0.05) content decreased with incorporation of sun dried Azolla (Azolla pinnata) meal in the concentrate mixture compared with the control. It can be concluded that sun dried Azolla meal could replaced about 25 per cent of the total protein in the concentrate mixture of graded Murrah buffalo bulls for maintenance without any adverse effects.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Temporal and spatial occurrence of strong winds and large snow load amounts in Finland during 1961-2000 /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gregow, Hilppa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Venäläinen, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltola, Heli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kellomäki, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schultz, David.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil temperature"},
+	{"value":"coniferous forests"},
+	{"value":"metsätuhot"},
+	{"value":"wind damage"},
+	{"value":"vaihtelu"},
+	{"value":"lumituhot"},
+	{"value":"precipitation"},
+	{"value":"sääilmiöt"},
+	{"value":"riskit"},
+	{"value":"tuulituhot"},
+	{"value":"snow"},
+	{"value":"frost"},
+	{"value":"winds"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000214",
+	"dct:identifier":"FI2016000214",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

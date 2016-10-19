@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Impacts of free trade area (FTA) within Eastern and Southern Africa countries and unilateral tariff elimination by other regions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tekle, Kelali Adhana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kameyama, Hiroshi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ito, Shoichi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Itohara, Yoshihito.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tariffs"},
+	{"value":"agricultural products"},
+	{"value":"trade liberalization"},
+	{"value":"agricultural trade"},
+	{"value":"terms of trade"},
+	{"value":"trade policies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000236",
+	"dct:identifier":"FI2016000236",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

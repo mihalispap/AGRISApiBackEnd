@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Microfibril angle and density patterns of fertilized and irrigated Norway spruce.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Lundgren, Christina.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"MoE"},
+	{"value":"fertilizers"},
+	{"value":"lustonleveys"},
+	{"value":"lannoitteet"},
+	{"value":"growth rate"},
+	{"value":"kasvunopeus"},
+	{"value":"growth rings"},
+	{"value":"irrigation"},
+	{"value":"ring width"},
+	{"value":"juvenile wood"},
+	{"value":"X-ray"},
+	{"value":"Picea abies"},
+	{"value":"kastelu"},
+	{"value":"nuorpuu"},
+	{"value":"vuosilustot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000989",
+	"dct:identifier":"FI2016000989",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

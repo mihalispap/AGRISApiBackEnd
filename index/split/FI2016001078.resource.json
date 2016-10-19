@@ -1,0 +1,97 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/46502/18496",
+	"dct:language":"eng",
+	"dct:title":{"value":"Digestion of wood-based hemicellulose extracts as screened by in vitro gas production method and verified in vivo using sheep.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rinne, Marketta,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kautto, Outi,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuoppala, Kaisa,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahvenjärvi , Seppo,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kitunen, Veikko,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ilvesniemi, Hannu,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wilför, Stefan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sormunen-Cristian, Riitta,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"Betula"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"uutteet"},
+	{"value":"märehtijät"},
+	{"value":"lehtikuusi"},
+	{"value":"extraction"},
+	{"value":"hemicellulose"},
+	{"value":"sulavuus"},
+	{"value":"digestibility"},
+	{"value":"Larix"},
+	{"value":"Picea"},
+	{"value":"puut"},
+	{"value":"koivu"},
+	{"value":"ruminants"},
+	{"value":"hemiselluloosa"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001078",
+	"dct:identifier":"FI2016001078",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

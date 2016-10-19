@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of agricultural intensification on the quality of rivers in rural watersheds of Nepal"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009323204",
+	"dct:identifier":"FI2009323204",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e21.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dahal, Bed M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sitaula, Bishal K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Subodh (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bajracharya, Roshan M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The impact of agricultural intensification on surface water quality is an issue of global concern. The effects of crop intensification on stream water quality in Midhill watersheds of Nepal were studied. Variations in anion (NH3, NO3, PO4) and cation (Na, K, Pb, Zn, Cu) concentrations, composition of stream macroinvertebrate communities and level of faecal coliform contamination in public drinking water sources were assessed for two rural streams (Ansikhola and Chakhola) of Nepal. Both qualitative and quantitative samples of macroinvertebrate communities were sampled to determine biomass and abundance. Samples were collected from Chakhola and Ansikhola during July (rainy season) and November (dry season) in the year 2004. Both watersheds had similar biophysical conditions but differed in the degree of agricultural intensification, which was higher in Ansikhola compared to Chakhola in terms of number of crops per year. Concentrations of NH3 and NO3 were higher in sites of Chakhola compared to Ansikhola. Sodium was the dominant cation at all sites in both streams. Most of the drinking water sources were found contaminated with faecal coliforms during the rainy season. Biomass and abundance of macroinvertebrate communities increased with increasing agricultural intensification, although species richness decreased. Hydropsychidae were more common in agricultural sites, whereas Baetidae dominated forest sites. Hence, increased agricultural intensification alters water chemistry, microbiology, as well as benthic faunal diversity and biomass."}
+	}}

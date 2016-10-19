@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Integrated management of Meloidogyne incognita infecting Turmeric",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":418,
+	"dc:subject":[
+		{"value":"meloidogyne incognita",
+	"xml:lang":"esp"
+	},
+	{"value":"curcuma longa",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":421,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000539",
+	"dct:identifier":"IN2015000539",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mohanta, Swatilekha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Swain, P.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Application of individual and combined management modules decreased root-knot index, population of nematode in soil and root including increase in various growth parameters as well as yield. Among the individual management modules, carbofuran @ 1.5 kg a.i / ha was the effective management module which enhanced plant growth, yield and reduced disease development. Although significant increase in growth, yield and disease development was recorded in T9 (Bacillus subtilis @ 5 lit / ha + soil solarization), T10 (crustacean exoskeleton @ 0.75 t / ha + soil solarization), T11 (carbofuran @ 0.75 kg a.i / ha + B. subtilis @ 5 lit / ha) and T12 (sesame oil cake @ 0.75 t / ha + soil solarization), T11 was found to be the most important cost effective management module with a B : C ratio of 2.8 : 1.",
+	"xml:lang":"eng"
+	}
+	}}

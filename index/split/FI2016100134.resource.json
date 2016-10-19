@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a19.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of feeding urea–treated wheat straw on body weight gain and biochemical metabolites of young camels"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Al-Sultan, S. I. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100134",
+	"dct:identifier":"FI2016100134",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Spraying of urea solution (0.1g/ml) in water to wheat straw at a concentration of 40 g/kg resulted in two-fold increase in protein content of straw. Feeding of urea-treated straw to camels significantly increased weight gain compared to camels fed on straw only. Lack of adverse effect of feeding urea on liver, heart and muscle-specific enzymes suggested that feeding urea at this concentration could be tolerated."}
+	}}

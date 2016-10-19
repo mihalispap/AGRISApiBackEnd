@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of different rooting media and indole butyric acid on rooting of stem cuttings in sage (Salvia officinalis L. and Salvia triloba L.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kacar, O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Azkan, N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Coplu, N.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rooting"},
+	{"value":"plant growth stimulants"},
+	{"value":"sage"},
+	{"value":"weight"},
+	{"value":"development"},
+	{"value":"Salvia"},
+	{"value":"plant growth substances"},
+	{"value":"potting composts"},
+	{"value":"roots"},
+	{"value":"pumice"},
+	{"value":"IBA"},
+	{"value":"perlite"},
+	{"value":"growing media"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002045",
+	"dct:identifier":"FI2016002045",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

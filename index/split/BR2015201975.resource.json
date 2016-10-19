@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Response function of melon to nitrogen doses for two irrigation levels",
+	"xml:lang":"eng"
+	},
+	{"value":"   Função de resposta do meloeiro a doses de adubação nitrogenada para dois níveis de irrigação ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":{"value":"nitrogen",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"4/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015201975",
+	"dct:identifier":"BR2015201975",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/296/210",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Soares Cristiana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rocha Júnior Agenor"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva Natália"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mousinho Francisco"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zanini José"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual Paulista"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Piauí"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"With this research was evaluated the response of the melon to the application of nitrogen fertilizer levels, to two irrigation levels. The same was donein the experimental area of Teresina Agricultural College, affiliated with the Federal University of Piauí in Teresina, PI, Brazil. It was used a randomized block design with four replications and four doses of nitrogen (0, 75, 150 and 300kg Nha-1), usingtwo irrigation levels equivalent to 1 and 1.5 times the crop evapotranspiration (ETc). For each level of irrigation, regression analyzes were performed in order to fit a mathematical model that best represents the variation yield function of nitrogen applied in melon. In the experiment which used a water depth equivalent to 1.5 times the ETc, yields were relatively larger compared with the experiment with the lowest water depth. The economic study response of melon to nitrogen for both experiments allowed identification of alternatives of nitrogen fertilizer use for greater economicreturn, based on plant response to N and the relationship between the price of N and melon.",
+	"xml:lang":"eng"
+	},
+	{"value":"Com este trabalho teve-se por objetivo avaliar a resposta do meloeiro à aplicação de doses de adubação nitrogenada, para dois níveis de irrigação. O experimento foi realizado na áreaexperimental do Colégio Agrícola de Teresina, vinculado à Universidade Federal do Piauí em Teresina, PI. Utilizou-se o delineamento experimental em blocos casualizados, com quatro repetições e quatro doses de adubação nitrogenada (0, 75, 150 e 300 kg de Nha-1), utilizando-se dois níveisde irrigação equivalentes a 1 e 1,5 vez a evapotranspiração da cultura (Etc). Para cada nível de irrigação, foram realizadas análises de regressão visando ajustar um modelo matemático que melhor representasse a variação de rendimento do melão em função das doses de nitrogênio aplicadas. No experimento onde se utilizou lâmina de água equivalente a 1,5 vez a ETc os rendimentos foramrelativamente maiores quando comparado com o experimento com menor lâmina de água. O estudo econômico da resposta do melão à aplicação de nitrogênio para ambos os experimentos permitiu a identificação de alternativas de utilização da adubação nitrogenada visando maior retorno econômico, baseando-se na resposta da planta ao N e a relação entre o preço do N e do melão.",
+	"xml:lang":"por"
+	}
+	]
+	}}

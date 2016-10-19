@@ -1,0 +1,88 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Quantitative analysis of chives irrigated with saline water",
+	"xml:lang":"eng"
+	},
+	{"value":"   Análise quantitativa da cebolinha irrigada com água salina ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"electrical conductivity",
+	"xml:lang":"eng"
+	},
+	{"value":"water quality",
+	"xml:lang":"eng"
+	},
+	{"value":"allium fistulosum",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202773",
+	"dct:identifier":"BR2015202773",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/512/250",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ferreira da Silva Patrícia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Santos Cavalcante Valéria"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Camilo dos Santos Claúdia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva Costa Elenize"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vieira Barbosa Tatiana"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Campina Grande, PB, Brasill"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual Paulista “Júlio de Mesquita Filho”, Jaboticabal, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Campina Grande, PB, Brasill"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Unidade Acadêmica de Garanhuns, Universidade Federal Rural de Pernambuco, Garanhuns, PE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Campina Grande, PB, Brasill"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"S5: 3,5 dS m-1). O delineamento foi em blocos casualizado, com quatro repetições. Os dados foram submetidos à análise de variância e as médias foram comparadas pelo teste F a (P< 0,05 e 0,01). O máximo rendimento para as variáveis massa seca de raiz, massaseca total de raiz, comprimento de raiz, número de bulbos, massa fresca de raiz e relação raiz:parte aérea foi obtido com aproximadamente 2,00 dS m-1 aos 15 dias após o transplante. As variáveis massa seca de raiz, massa seca total de raiz, massa fresca de raiz, crescimento de raiz, diâmetro inferior do bulbo e relação raiz:parte aérea aos 30 dias após o transplante tiveram decréscimo linear com redução a partir de 0,7 dS m-1."},
+	{"value":"S4: 2,8"},
+	{"value":"S2: 1,4"},
+	{"value":"The common chives (Allium fistulosum) is one of the vegetables most produced in the Alagoas state, being cultivated by small farmers. However, the cultivation of this vegetable in the region suffers serious problems with the poor quality of irrigation water. In this sense, the objective was to evaluate the growth Allium fistulosum irrigated with different salinity levels of irrigation water. In an experimentconducted under field condition in campus of the Federal University of Alagoas - Arapiraca. The treatments were five levels of electrical conductivity (S1: 0.7, S2: 1.4, S3: 2.1",
+	"xml:lang":"eng"
+	},
+	{"value":"S5: 3.5 dS m-1). The maximum performance for the variables root dry mass, total dry mass of root, root length, number of bulbs, fresh mass of the root and relation root:aerial part was obtained with approximately 2.00 dS m-1 at 15 days after transplantation. Variables root dry mass, total dry mass of root, fresh mass of root, root growth, bottom diameter of the bulb and the relation root:aerial part at 30 days after transplantation had a linear decrease reduction from 0.7 dS m-1."},
+	{"value":"S4: 2.8",
+	"xml:lang":"por"
+	},
+	{"value":"A cebolinha comum (Allium fistulosum) é uma das hortaliças mais produzidas no Estado de Alagoas, sendo cultivada por pequenos olericultores. Entretanto, o cultivo desta hortaliça na região sofre sérios problemas com relação à má qualidade da água de irrigação. Nesse sentido, objetivou-se avaliar o crescimento inicial do Allium fistulosum irrigado com diferentes níveis de salinidade da água de irrigação. Em experimento conduzido em condição de campo no campus da Universidade Federal de Alagoas - Arapiraca. Os tratamentos foram cinco níveis de condutividade elétrica (S1: 0,7"},
+	{"value":"S3: 2,1"}
+	]
+	}}

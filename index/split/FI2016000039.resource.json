@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1043",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Martín-García, Jorge,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Barbaro, Luc,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Diez, Julio Javier,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jactel, Hervé,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Contribution of poplar plantations to bird conservation in riparian landscapes.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"clones"},
+	{"value":"hybrids"},
+	{"value":"Populus x euramericana"},
+	{"value":"native forests"},
+	{"value":"linnut"},
+	{"value":"luonnonsuojelu"},
+	{"value":"clone I-214"},
+	{"value":"management"},
+	{"value":"Populus euramericana"}
+	],
+	"bibo:doi":"10.14214/sf.1043",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000039",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000039",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

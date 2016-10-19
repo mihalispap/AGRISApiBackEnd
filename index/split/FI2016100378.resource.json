@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/f9.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Antimicrobial susceptibility of enterohaemorrhagic Escherichia coli 0157:H7 isolated from diarrhoeal patients in Jos hospitals, Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ngbede, Joshua E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jideani, Israel A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agbo, Ediga B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100378",
+	"dct:identifier":"FI2016100378",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A total of 26 enterohaemorrhagic Escherichia coli 0157:H7 isolates from diarrhoeal patients in Jos area were tested for susceptibility to 11 antimicrobial agents by the standard disc diffusion and tube dilution methods. All the isolates were susceptible to gentamycin, ciprofloxacin and chloramphenicol but resistant to cloxacillin. There was a high prevalence susceptibility of the isolates to tetracycline (92.3%) and cephalexin (80.8%) by disc diffusion method. The isolates were moderately susceptible to doxycycline (46.2%) and ampicillin (42.3%) by tube dilution method. A low prevalence of resistance by tube dilution method to ampicillin (42.3%), doxycycline (42.3%), erythromycin (42.3%), amoxycillin (42.3%) and cefuroxime (26.9%) was observed. The difference in susceptibility results between the two methods of susceptibility assessment was minor. The tube dilution method was found to better distinguish between sensitive and resistant strains of E. coli 0157:H7 to the chosen antibiotics."}
+	}}

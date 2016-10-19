@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Colour changes of fresh-cut leafy vegetables during storage"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026366",
+	"dct:identifier":"FI2005026366",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/f8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ferrante, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Incrocci, L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Serra, G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tognoni, F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maggini, R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Use of fresh-cut vegetables has increased and new technologies have been applied to preserve the quality during transportation and storage. The aim was to investigate the colour changes during storage of fresh-cut rocket, chicory and Swiss chard leafy vegetables during storage at 4-5°C with or without light (150 µmol m-2 s-1 light intensity per 12 h). Moreover, the effect of wash treatments (water or 150 mg L-1 citric acid, applied at the harvesting time) on colour changes was evaluated. During the experimental period of 12 days the colour changes were monitored by the variations of total chlorophyll, carotenoids and anthocyanins. The potential browning development was assessed by polyphenol measurements. Rocket and chicory stored in light conditions showed leaf yellowing after 4 days, while Swiss chard was affected after 8 days of light storage. On the contrary, dark storage preserved better the visual appearance of the minimally processed leafy vegetables tested. The carotenoids declined after 8 days of storage in all treatments and species used. At the end of the experiment the carotenoids reduction was in average 37-47% respect the initial value. Anthocyanins declined in light stored rocket but did not change in other species or treatments. Total polyphenols did not change during storage in all species tested."}
+	}}

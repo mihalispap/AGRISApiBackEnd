@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Whey as raw material for development of new products for human nutrition and health : a review.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Korhonen, Hannu.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"juustoteollisuus"},
+	{"value":"terveysvaikutukset"},
+	{"value":"milk byproducts"},
+	{"value":"sivutuotteet"},
+	{"value":"health"},
+	{"value":"maitovalmisteet"},
+	{"value":"koostumus"},
+	{"value":"whey"},
+	{"value":"nutrients"},
+	{"value":"hera"},
+	{"value":"proximate composition"},
+	{"value":"valkuaisaineet"},
+	{"value":"ravitsemus"},
+	{"value":"human nutrition"},
+	{"value":"uses"},
+	{"value":"meijeriteollisuus"},
+	{"value":"proteins"},
+	{"value":"hyötykäyttö"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF/NMR-seminar
+    (252 :
+    1995 :
+    Turku)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000472",
+	"dct:identifier":"FI2016000472",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

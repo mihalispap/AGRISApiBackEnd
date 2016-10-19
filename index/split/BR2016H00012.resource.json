@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:title":{"value":"EFEITO DA APLICAÇÃO DE RESÍDUOS URBANOS E INDUSTRIAIS NA CULTURA DA AVEIA PRETA CULTIVADA EM LATOSSOLO VERMELHO EM SISTEMA PLANTIO DIRETO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":66,
+	"bibo:volume":2,
+	"bibo:pageEnd":75,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00012",
+	"dct:identifier":"BR2016H00012",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/247",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Susiane de Moura Cardoso dos Santos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"João Arthur Antonangelo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Angélica Cristina Fernandes Deus"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leonardo Theodoro Büll"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"O emprego racional de resíduos industriais e urbanos na agricultura sob sistema plantio direto (SPD) promove inúmeros benefícios sobre as propriedades físicas, químicas e biológicas do solo, reduzindo assim, a utilização de fertilizantes sintéticos, ...",
+	"xml:lang":"por"
+	}
+	}}

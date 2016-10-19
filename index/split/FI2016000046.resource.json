@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Training dairy bull calves to stay within light-built electric fences /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Martiskainen, Paula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuomisto, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huuskonen, Arto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mononen, Jaakko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fencing"},
+	{"value":"oppiminen"},
+	{"value":"aitaukset"},
+	{"value":"vasikat"},
+	{"value":"animal learning"},
+	{"value":"animal behaviour"},
+	{"value":"young animals"},
+	{"value":"sähköpaimenet"},
+	{"value":"electrical installations"},
+	{"value":"cattle"},
+	{"value":"calves"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000046",
+	"dct:identifier":"FI2016000046",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Web-based reference databases and subject gateways to locate current research information in agricultural and food sciences : a Finnish perspective.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Aaltonen, Maj-Lis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hagelin, Ritva.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"tiedonlähteet"},
+	{"value":"Finland"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"research"},
+	{"value":"tietokannat"},
+	{"value":"tietopalvelu"},
+	{"value":"tutkimus"},
+	{"value":"tiedonhakujärjestelmät"},
+	{"value":"elintarviketieteet"},
+	{"value":"information retrieval"},
+	{"value":"databases"},
+	{"value":"food science"},
+	{"value":"elintarvikeala"},
+	{"value":"maataloustieteet"},
+	{"value":"information systems"},
+	{"value":"Internet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001338",
+	"dct:identifier":"FI2016001338",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

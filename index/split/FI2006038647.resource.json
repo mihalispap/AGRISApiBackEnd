@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Salt gradients near roots of a rose plant by using a model system"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038647",
+	"dct:identifier":"FI2006038647",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bougoul, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jaffrin, A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The ionic concentration of the nutrient solution absorbed by a plant may dramatically vary over a period of 24 hours ; yet, it is not common to modify the feeding solution at this short time scale. Any lasting discrepancy will generate concentration gradients at the root surface, possibly responsible for plant stress and stomatal closure, but such local gradients are diluted in the drainage flow and their intensity is usually underestimated. A direct evidence of salinity gradients was obtained by piling absorbing paper sheets directly in contact with the bare root system of a rose plant grown with a nutrient film technique (NFT). After a period of high transpiration rate, paper sheets exhibited very different salt contents at various distances from the root surface. These concentration gradients can be only alleviated by efficient washing through a high rate recycling of drainage solutions."}
+	}}

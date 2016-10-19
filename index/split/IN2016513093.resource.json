@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:title":{"value":"Equilibrium and Thermodynamic Studies for Adsorption of 1,4-Benzoquinone by Fly Ash",
+	"xml:lang":"eng"
+	},
+	"dc:subject":{"value":"fly ash",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513093",
+	"dct:identifier":"IN2016513093",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=20",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Li Guoting"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Feng Yanmin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chai  Xiaoqi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"He Xiaoshuang"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Fly ash, an industrial waste from thermal power plants, was used for the adsorptive removal of 1,4-benzoquinone, one of the oxidation intermediates generated in AOPs. Effect of fly ash dosage and solution pH was investigated. The highest 1,4-benzoquinone uptake occurred at pH 7.0. Neutral and alkaline conditions were more favourable for the adsorptive removal of 1,4-benzoquinone. Isotherm data at 288, 298 and 308 K were simulated by Langmuir, Freundlich, Temkin, Redlich-Peterson, Koble-Corrigan and Dubinin-Radushkevich isotherm models. Both the Koble-Corrigan and Dubinin-Radushkevich isotherms can predict equilibrium adsorption behaviour better at different reaction temperatures. The reaction enthalpy was 29.42 kJ/mol and the entropy achieved 164.52 J/mol·K. The change of Gibbs free energy achieved -19.48 kJ/mol at 298 K. The above indicates that the sorption process was spontaneous and endothermic. This also reveals that, fly ash has the potential for the adsorptive removal of 1,4-benzoquinone.",
+	"xml:lang":"eng"
+	}
+	}}

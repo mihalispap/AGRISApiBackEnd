@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative efficacy of Glomus fasciculatum, Trichoderma harzianum, carbofuran and carbendazim in management of Meloidogyne incognita and Rhizoctonia solani disease complex on French bean",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":172,
+	"dc:subject":[
+		{"value":"meloidogyne incognita",
+	"xml:lang":"esp"
+	},
+	{"value":"trichoderma harzianum",
+	"xml:lang":"esp"
+	},
+	{"value":"glomus fasciculatum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":175,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000249",
+	"dct:identifier":"IN2015000249",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gogoi, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mahanta, B."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The treatment with Trichoderma harzianum @ 1.25 kg/ha and carbofuran @ 1 kg a.i/ha was found to be effective in increasing plant growth parameters and yield of french bean. All the treatments significantly decreased final nematode population in soil except carbendazim @ 0.1%. The treatment with carbofuran @ 2 kg a.i/ha was found to be best in suppressing the final nematode population in soil. Maximum reduction in disease incidence was recorded in treatment with T. harzianum @ 1.25 kg/ha + carbofuran @ 1 kg a.i/ha.",
+	"xml:lang":"eng"
+	}
+	}}

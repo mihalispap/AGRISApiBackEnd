@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"Experimental Study of Bagasse Ash Utilisation for Road Application on Expansive Soil",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"bagasse",
+	"xml:lang":"eng"
+	},
+	{"value":"ashes",
+	"xml:lang":"eng"
+	},
+	{"value":"road construction",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513119",
+	"dct:identifier":"IN2016513119",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=27",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rajakumar C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meenambal T."
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Expansive soils show extensive volume and their strength changes at varying moisture content due to their chemical composition. This causes significant structural damage to foundations, including pavements. One way of overcoming these problems in soils is to stabilize them with admixtures. Owing to this fact, continuous researches have been carried out and still being carried out by individuals, firms and institutions on ways to improve the engineering properties of soils. The need to bring down the cost of soil stabilizers and the environmental damage has led to intense global research towards economic utilization of wastes for engineering purposes. Bagasse ash is a waste-product of the sugar refining industry. This study was carried out to determine the effect of bagasse ash utilization for road application on clay. The laboratory investigations are carried out to examine the index and engineering properties of the soil sample. The soil falls under CI category of Indian standard soil classification system. The experiments have been carried out to study the changes in the properties of soil such as plasticity characteristics, free swell index, pH, calcium carbonate content, total dissolved solids and cation exchange capacity using bagasse ash in varying percentages of 2%, 4%, 6%, 8% and 10%. The study shows promising results with effective utilization of bagasse ash in the improvement of soil strength.",
+	"xml:lang":"eng"
+	}
+	}}

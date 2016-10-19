@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Synnynnäinen värekarvojen liikehäiriö koiralla - tapausselostus /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rajamäki, Minna M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Elfving, Sanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saari, Seppo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dogs"},
+	{"value":"eläintaudit"},
+	{"value":"respiratory diseases"},
+	{"value":"värekarvojen liikehäiriö"},
+	{"value":"animal diseases"},
+	{"value":"hengityselinten taudit"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001866",
+	"dct:identifier":"FI2016001866",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

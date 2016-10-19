@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/6832/5536",
+	"dct:language":"eng",
+	"dct:title":{"value":"Gypsum amendment as a means to reduce agricultural phosphorus loading : an economic appraisal.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Iho, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laukkanen, Marita.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"kustannus-hyötyanalyysi"},
+	{"value":"vesiensuojelu"},
+	{"value":"Finland"},
+	{"value":"maatalous"},
+	{"value":"kipsi"},
+	{"value":"agriculture"},
+	{"value":"cost benefit analysis"},
+	{"value":"phosphorus"},
+	{"value":"arable land"},
+	{"value":"nutrients"},
+	{"value":"fertilization"},
+	{"value":"lannoitus"},
+	{"value":"gypsum"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"leaching"},
+	{"value":"huuhtoutuminen"},
+	{"value":"rehevöityminen"},
+	{"value":"pollution control"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000790",
+	"dct:identifier":"FI2016000790",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

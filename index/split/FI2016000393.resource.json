@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Successive alkalinity producing system for the treatment of acid sulphate soil runoff : preliminary results of a field trial.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kustula, Virve.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Witick, Allan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Meriläinen, Jarmo J.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"limestone"},
+	{"value":"water"},
+	{"value":"water quality"},
+	{"value":"acid sulphate soils"},
+	{"value":"vedenpuhdistus"},
+	{"value":"SAPS"},
+	{"value":"drainage"},
+	{"value":"compost"},
+	{"value":"kalkkikivi"},
+	{"value":"vesi"},
+	{"value":"vedenkäsittely"},
+	{"value":"acidity"},
+	{"value":"happamuus"},
+	{"value":"viljelymaa"},
+	{"value":"kuivatus"},
+	{"value":"komposti"},
+	{"value":"drainage water"},
+	{"value":"sulfaattimaat"},
+	{"value":"runoff water"},
+	{"value":"arable soils"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000393",
+	"dct:identifier":"FI2016000393",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

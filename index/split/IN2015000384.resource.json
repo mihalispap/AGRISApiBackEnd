@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth performance of osmanabadi goats under field conditions",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":135,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"desempeno animal",
+	"xml:lang":"esp"
+	},
+	{"value":"performance animale",
+	"xml:lang":"fre"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"animal performance",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":137,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000384",
+	"dct:identifier":"IN2015000384",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Birari, D.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Desale, R.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deokar, D.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deshmukh, A.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandakmale, S.D."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Body weights on 4869 Osmanabadi goats of both the sexes were recorded at birth, 3, 6 and 12 months of age under farmers management in Ahemadnagar, Solapur and Osmanabad districts of Maharashtra. The body weights in males were higher at all the ages except 12 months compared to females. The effect of sex of kid and district was significant (P0.01) on the body weights of goats indicating greater scope for improvement in the body weights of Osmanabadi goats through selection.",
+	"xml:lang":"eng"
+	}
+	}}

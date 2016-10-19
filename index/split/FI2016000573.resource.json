@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n3p217.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Characteristics of dry- and brine-salted salmon later treated with liquid smoke flavouring.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Martinez, Olaia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salmerón, Jesús.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Guillén, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Casas, Carmen.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"elintarviketekniikka"},
+	{"value":"lohi"},
+	{"value":"salting"},
+	{"value":"laatu"},
+	{"value":"food preservation"},
+	{"value":"liquid smoke"},
+	{"value":"flavouring"},
+	{"value":"savustus"},
+	{"value":"Salmo salar"},
+	{"value":"smoked fish"},
+	{"value":"nestesavu"},
+	{"value":"säilöntämenetelmät"},
+	{"value":"suolaus"},
+	{"value":"kala"},
+	{"value":"smoking"},
+	{"value":"fishes"},
+	{"value":"salmon"},
+	{"value":"processing"},
+	{"value":"flavour"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000573",
+	"dct:identifier":"FI2016000573",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

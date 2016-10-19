@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of stump size and timing of stump harvesting on ground disturbance and root breakage diameter.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"Ecorex30"},
+	{"value":"sweden"},
+	{"value":"glacial till soils"},
+	{"value":"forest management"},
+	{"value":"regeneration"},
+	{"value":"site impact"},
+	{"value":"stump removal"},
+	{"value":"scarification"},
+	{"value":"stump barrow"},
+	{"value":"site factors"},
+	{"value":"Picea abies (L.) H. Karst."}
+	],
+	"bibo:doi":"10.14214/sf.1312",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000712",
+	"dct:identifier":"FI2016000712",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1312",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Berg, Simon Karl Nils,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nordfjell, Tomas,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergström, Dan,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

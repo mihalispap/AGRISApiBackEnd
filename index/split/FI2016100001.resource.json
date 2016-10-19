@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Determinants of the decision to adopt improved maize variety by smallholder farmers in the savannas of northern Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chianu, Jonas N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tsujii, Hiroshi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mbanasor, Jude (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100001",
+	"dct:identifier":"FI2016100001",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Improved germplasm of various cereals (maize, sorghum, millet, etc.) have been introduced to farmers in the savannas of northern Nigeria. Farmers’ adoption rate for improved maize (49%) was the highest. The technological reasons for the high adoption rate for improved maize have been documented. However, only very little is known about the socioeconomic factors. This paper investigates these using the logit model on data collected from household surveys. Significant parameters with the expected signs were household size, farmers’ crop diversification level, membership of farmers’ associations, household income and nearness to market. This shows that household’s labor availability, risk management capability, access to information, economic capability and market access are important socioeconomic factors that explain farmer adoption of improved maize. The study was concluded with the policy recommendations for promoting the adoption of improved maize among farmers, including the need for maize varieties that combine high yield with labor-efficiency, national and international research systems and other agencies involved in agricultural development in the study area and similar environments to increase research on plant health management and small farmers’ crop diversification strategies in order to reduce risk that small farmers face, and improvement in farmers’ access to market through improvement of market infrastructure to reduce transaction costs."}
+	}}

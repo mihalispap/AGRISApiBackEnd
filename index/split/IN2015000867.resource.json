@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The Future of Coconut during Globalization",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":36,
+	"dc:subject":[
+		{"value":"comercio",
+	"xml:lang":"esp"
+	},
+	{"value":"globalizacion",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"commerce",
+	"xml:lang":"fre"
+	},
+	{"value":"mondialisation",
+	"xml:lang":"fre"
+	},
+	{"value":"trade",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"globalization",
+	"xml:lang":"eng"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvii",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000867",
+	"dct:identifier":"IN2015000867",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Sebastian, M.A.(Superintendent)"
+	}
+	},
+	"bibo:issue":8
+	}}

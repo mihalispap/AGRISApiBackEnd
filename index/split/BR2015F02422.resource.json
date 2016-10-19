@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Sistemas de Integração lavoura-pecuária-floresta (iLPF)- Experiências no BRASIL ",
+	"xml:lang":"por"
+	},
+	{"value":"Systems integration crop-livestock-forest (ICLF) - Experiences in Brazil",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"meat",
+	"xml:lang":"eng"
+	},
+	{"value":"carbon sequestration",
+	"xml:lang":"eng"
+	},
+	{"value":"animal welfare",
+	"xml:lang":"eng"
+	},
+	{"value":"soybeans",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02422",
+	"dct:identifier":"BR2015F02422",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1401132403.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"KICHEL, A.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, J.A.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALMEIDA,  R.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PAULINO,  V. T."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The integrated crop-livestock-forest systems are sustainable and the choice of the appropriate system to a given locality depends on the soil and climatic conditions and the availability of infrastructure for input supply, storage and transportation of production. Productivity and profitability are three times higher for beef cattle and 10-30% for grain crops relative to traditional production systems. On the other hand it is observed in more complex systems (using the tree component) animal welfare increase and mitigation of greenhouse gases.",
+	"xml:lang":"eng"
+	},
+	{"value":"Os sistemas de integração lavoura-pecuária-floresta são sustentáveis e a escolha do sistema adequado à determinada localidade depende das condições edafo-climáticas e da existência de infraestrutura para suprimento de insumos, armazenagem e escoamento da produção. A produtividade e a rentabilidade são três vezes maiores para a pecuária de corte e de 10 a 30% para as lavouras de grãos em relação aos sistemas tradicionais de produção. Por outro lado, observa-se nos sistemas mais complexos (com uso de componente arbóreo) o aumento do bem-estar animal e a mitigação de gases de efeito estufa.",
+	"xml:lang":"por"
+	}
+	]
+	}}

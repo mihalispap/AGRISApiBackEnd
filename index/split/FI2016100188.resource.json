@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a10.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Characterization of pepino accessions and hybrids resistant to tomato mosaic virus (ToMV)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Leiva-Brondo, Miguel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prohens, Jaime (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nuez, Fernando (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100188",
+	"dct:identifier":"FI2016100188",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Pepino (Solanum muricatum Aiton) is a vegetable crop domesticated in the Andean region with great possibilities for being introduced in Mediterranean climate areas as a new crop. However, tomato mosaic virus (ToMV) can restrict pepino expansion, due to delay in fruit ripening and loss of quality of fruits caused by the virus, which make the fruits non-marketable. Three accessions of pepino previously identified as resistant through hypersensitive reaction (HR) against mechanical inoculation were characterized for their resistance behaviour in three different ranges of temperature (high: 28ºC< t <36ºC; medium: 25ºC/18ºC (day/night); low 12ºC< t <20ºC). The movement of the virus within the plant at short distance (within the leave) and long distance (through all the plant), as well as the reaction to different types and dilutions of inocula were studied. These accessions give resistant reaction at low and medium temperatures, while at high temperature they behave as susceptible. Hybrids between resistant accessions and the susceptible accession ‘Sweet Round’ showed different segregation patterns depending on the resistant parent used. Due to the vegetative propagation system used with pepino, successful selection among resistant hybrids could quickly yield resistant commercial varieties. These varieties combined with suitable prevention measures will avoid damage to the pepino crop caused by ToMV."}
+	}}

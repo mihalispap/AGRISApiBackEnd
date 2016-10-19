@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/46431/14075",
+	"dct:language":"eng",
+	"dct:title":{"value":"Colour of subcutaneous adipose tissue and colour and tenderness of the longissimus thoracis et lumborum muscle from Holstein-Friesian, Norwegian RedxHolstein-Friesian and JerseyxHolstein-Friesian cattle slaughtered at two live weights as bulls or steers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    McNamee, Andrew,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Keane, Michael,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kenny, David,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    O'Riordan, Edward,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dunne, Peter,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moloney, Aidan,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lihantuotanto"},
+	{"value":"meat production"},
+	{"value":"lihakarja"},
+	{"value":"beef cattle"},
+	{"value":"biological differences"},
+	{"value":"meat"},
+	{"value":"animal breeding"},
+	{"value":"quality"},
+	{"value":"lihakarjarodut"},
+	{"value":"teuraspaino"},
+	{"value":"slaughter weight"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002154",
+	"dct:identifier":"FI2016002154",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

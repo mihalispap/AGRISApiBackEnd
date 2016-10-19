@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f24.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Production, proximate and nutritional evaluation of sweet potato curd"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Panda, Smita H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naskar, S.K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ray, R.C. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100061",
+	"dct:identifier":"FI2016100061",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Sweetpotato (SP) is an important root crop grown all over the world and consumed either as a vegetable, boiled, baked or often fermented into food and beverages. A curd like product was prepared by fermenting boiled anthocyanin-rich SP puree and cow milk with curd (starter) culture (Lactobacillus bulgaricus, Streptococcus lactis, St. diaceticlactis, etc.). There were no variations in pH, titratable acidity and lactic acid in SP curd consisting different concentration of SP puree. However, curd with 8-12% SP puree was most preferred by a consumer’s panelist. The addition of SP puree (8-12%) made the curd quite firm and imparted flavour, body/texture, minerals, nutrients, antidiabetic substances, anthocyanin pigments (antioxidant), dietary fibres and starch (carbohydrate source). The lactic acid bacterial counts in the curd after 18 h fermentation having 8 and 12% sweetpotato were 5x107 and 7x107  (CFU ml-1), respectively."}
+	}}

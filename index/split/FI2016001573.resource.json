@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of logging on the threatened epiphytic lichen Usnea longissima : a comparative and retrospective approach. /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Storaunet, Ken Olaf.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rolstad, Jørund.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toeneiet, Målfrid.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rolstad, Erlend.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"stand reconstruction"},
+	{"value":"dendroecology"},
+	{"value":"päällyskasvit"},
+	{"value":"metsähistoria"},
+	{"value":"hakkuu"},
+	{"value":"epiphytes"},
+	{"value":"ennallistaminen"},
+	{"value":"forestry"},
+	{"value":"logging"},
+	{"value":"harsinta"},
+	{"value":"Lichenes"},
+	{"value":"selective felling"},
+	{"value":"Usnea longissima"},
+	{"value":"history"},
+	{"value":"jäkälät"},
+	{"value":"Picea abies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001573",
+	"dct:identifier":"FI2016001573",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

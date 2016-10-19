@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of cytokinin and calcium on cut flower quality in rose (Rosa hybrida L.) cv. Illona.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mortazavi, N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Naderi, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khalighi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Babalar, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Allizadeh, H.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"calcium"},
+	{"value":"moisture content"},
+	{"value":"plant growth substances"},
+	{"value":"enzyme activity"},
+	{"value":"senescence"},
+	{"value":"quality"},
+	{"value":"Rosa"},
+	{"value":"roses"},
+	{"value":"cytokinins"},
+	{"value":"protein content"},
+	{"value":"fertilizer application"},
+	{"value":"cut flowers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001446",
+	"dct:identifier":"FI2016001446",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Waiting period for insecticides and a botanical used in control of Mulberry Thrips",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":42,
+	"dc:subject":{"value":"bombyx mori",
+	"xml:lang":"esp"
+	},
+	"bibo:volume":21,
+	"bibo:pageEnd":45,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000216",
+	"dct:identifier":"IN2015000216",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jyothi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ashoka, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bheemanna, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagangouda, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sreenivas, A.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mekali, Jayashree"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The results revealed that waiting periods were different for different insecticides viz., nimbicidine (7 days), dichlorvos (9 days), fipronil(11 days), flupyradifurone and imidacloprid (15 days each), acetamiprid and thiamethoxam (21 days each), and spinosad (35 days). The residual toxicity of insecticides and a botanical on economic parameters of mulberry silkworm indicated that there was no deleterious effect of toxicants on silkworm growth and development as evidenced through non-significant differences in economic and survival parameters of mulberry silkworm.",
+	"xml:lang":"eng"
+	}
+	}}

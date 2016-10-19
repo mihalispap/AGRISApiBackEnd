@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Sequence and phylogenetic analysis of Toll like receptor genes TLR-3 and TLR-9 in buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1225,
+	"dc:subject":[
+		{"value":"respuesta inmunologica",
+	"xml:lang":"esp"
+	},
+	{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"secuencia nucleotidica",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"nucleotide sequence",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"sequence nucleotidique",
+	"xml:lang":"fre"
+	},
+	{"value":"reponse immunitaire",
+	"xml:lang":"fre"
+	},
+	{"value":"immune response",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1230,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000328",
+	"dct:identifier":"IN2015000328",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Banerjee, Priyanka"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joshi, Jyoti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Upasna,  S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tantia, M.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vijh, R.K."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"Toll like receptors (TLRs) play an important role in the innate immune recognition. Ten members of the TLR family have been identified in bovine and 2 of these recognize PAMPs specific to viruses (TLR3 and TLR9). The main objective of this work was to sequence the 2 genes in Bubalus bubalis, detection of SNPs in these 2 genes in different buffalo breeds, prepare gene tree and compare amino acid sequences with other species for construction of phylogenetic tree. The primers for the 2 genes were designed from the cattle genome database. The genomic DNA samples from 24 animals drawn from 6 diverse breeds of Indian water buffalo (Bhadawari, Kerela, Murrah, Pandharpuri, Surti and Tarai) were utilized. The amplified genomic DNA yielded fragments of expected sizes. The alignment of sequences with Bos taurus as reference sequence, permitted the comparative analysis of buffalo TLR3 and TLR9 gene and the presumed protein sequence with respect to cattle. TLR3 consisted of 5 exons in which 6 SNPs were detected, out of which 4 were non-synonymous whereas, TLR9 comprised of 2 exons and 7 SNPs were identified, out of which 1 was non-synonymous. These SNPs in the exonic regions were novel and has potential for their use in diversity analysis as well as association studies with tolerance to bacterial and viral infections in buffaloes. The phylogenetic analysis revealed even-toed animals joining first followed by other mammals which later joined by poultry species. The last to join the tree were bony fishes (Sarcopterygii). Surprisingly, TLR9 showed similarity with TLR7 in all the species studied for which information is available in the database. This has been reflected in the phylogenetic tree.",
+	"xml:lang":"eng"
+	}
+	}}

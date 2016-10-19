@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficacy of Insecticides and Their Mixture for Management of Insect Pests of Brinjal.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":308,
+	"dc:subject":[
+		{"value":"management",
+	"xml:lang":"eng"
+	},
+	{"value":"insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"gestion",
+	"xml:lang":"esp"
+	},
+	{"value":"berenjena",
+	"xml:lang":"esp"
+	},
+	{"value":"efficacite",
+	"xml:lang":"fre"
+	},
+	{"value":"efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"eficacia",
+	"xml:lang":"esp"
+	},
+	{"value":"aubergines",
+	"xml:lang":"eng"
+	},
+	{"value":"aubergine",
+	"xml:lang":"fre"
+	},
+	{"value":"pest insects",
+	"xml:lang":"eng"
+	},
+	{"value":"insecticide",
+	"xml:lang":"fre"
+	},
+	{"value":"insectos daninos",
+	"xml:lang":"esp"
+	},
+	{"value":"insecte nuisible",
+	"xml:lang":"fre"
+	},
+	{"value":"insecticidas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":311,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000039",
+	"dct:identifier":"IN2015000039",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nath Vishwa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S.R."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Efficacy of two dosages of insecticides viz., triazophos (350g and 700g a.i./ha) and deltamethrin (10g and 20g a.i./ha) and their registered mixture Spark(360g and 720g a.i./ha) were studied against insect pests of brinjal var. Pusa Purple Long. Three foliar sprays at fortnightly intervals were given. Studies revealed that all six treatments were effective against leafhopper and whitefly. However, lower dose were not as effective. As far as borer (Leucinodes orbonalis) is concerned, damage ranged from 8.44â21.35% which was 27.07% in untreated plots.",
+	"xml:lang":"eng"
+	}
+	}}

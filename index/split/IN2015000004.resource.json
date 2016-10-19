@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Understanding trait preferences of farmers for post-rainy Sorghum and Pearl Millet in India-a conjoint analysis",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":130,
+	"dc:subject":[
+		{"value":"choice of species",
+	"xml:lang":"eng"
+	},
+	{"value":"pennisetum glaucum",
+	"xml:lang":"esp"
+	},
+	{"value":"conduite de la culture",
+	"xml:lang":"fre"
+	},
+	{"value":"sorghum",
+	"xml:lang":"esp"
+	},
+	{"value":"manejo del cultivo",
+	"xml:lang":"esp"
+	},
+	{"value":"choix des especes",
+	"xml:lang":"fre"
+	},
+	{"value":"eleccion de especies",
+	"xml:lang":"esp"
+	},
+	{"value":"inde",
+	"xml:lang":"fre"
+	},
+	{"value":"crop management",
+	"xml:lang":"eng"
+	},
+	{"value":"india",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":70,
+	"bibo:pageEnd":143,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000004",
+	"dct:identifier":"IN2015000004",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f451062e"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal Of Agricultural Economics (India)"},
+	"bibo:ISSN":{"value":"0019-5014"}
+	}
+	}
+	],
+	"dct:issued":"jan-mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Basavara, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, Parthasarathy"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Achoth, Lalith"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lagesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pokharkar, V.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Ashok A."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was carried out on two important dryland crops, i.e., post-rainy season sorghum and pearl millet which are staples in Maharashtra, Kamataka, Rajasthan and Gujarat states of India. Both post-rainy (rabi) season sorghum and pearl millet are mainly grown under low rainfall regimes as they are drought tolerant and are prized for grain quality and fodder.  The present study is undertaken to quantify the varietal attributes preferred by the farmers for post-rainy sorghum and pearl millet using conjoint analysis technique. With this knowledge, researchers can focus on the most important features of seeds and design a variety that is most likely to gain acceptance of the target buyers. Further the utility attributes derived from the analysis are used to simulate preferences for new improved cultivars for both the crops that will identify the most preferred variety. The study would thus help in screening new improved cultivars of these crops for preferred attributes and overall preference.",
+	"xml:lang":"eng"
+	}
+	}}

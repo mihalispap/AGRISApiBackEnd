@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimating cavity tree abundance using nearest neighbor imputation methods for western Oregon and Washington forests.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Temesgen, Hailemariam.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Barrett, Tara M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Latta, Greg.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"snag size"},
+	{"value":"metsiköt"},
+	{"value":"snag frequency"},
+	{"value":"puusto"},
+	{"value":"metsäninventointi"},
+	{"value":"stand structure"},
+	{"value":"nearest neighbor imputation"},
+	{"value":"tilastomenetelmät"},
+	{"value":"forest landscape modeling"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001138",
+	"dct:identifier":"FI2016001138",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

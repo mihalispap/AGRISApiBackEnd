@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"REVISÃO DE ESTUDOS SOBRE DETERMINAÇÃO DA IDADE ATRAVÉS DE OTÓLITOS DOS PEIXES MARINHOS BRASILEIROS",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":125,
+	"bibo:volume":4,
+	"bibo:pageEnd":131,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00160",
+	"dct:identifier":"BR2015N00160",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1102",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mônica Rocha Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Stephen John Hawkins"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Clive Trueman"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maria Emília Yamamoto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sathyabama Chellappa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Norte"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"University of Southmapton"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"University of Southampton"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12.0pt; line-height: 115%; font-family: \">Nesta publicação foi revisada a idade de 40 espécies de peixes marinhos 45 artigos, sendo categorizados de acordo com a década, par de otólito usado para estimar a idade, métodos de validação e causas da formação do anel etário e idade dos peixes da região costeira do Brasil. Os resultados mostraram aumento de estudos de idade e crescimento. O otólito sagitta foi o mais usado para estudos de estimação de idade. Em geral, as marcas estiveram relacionadas com a atividade reprodutiva e a temperatura. Os peixes marinhos do Brasil têm elevada longevidade (máximo 76 anos). Podemos concluir com essa revisão que é possível o uso de otólitos em estudos de estimativa de idade de peixes que habitam ambientes marinhos tropicais sendo de fundamental importância para os estudos biológicos básicos que fornecem subsídios para tomadas de medidas na gestão e proteção dos estoques naturais de peixes.</span>",
+	"xml:lang":"por"
+	}
+	}}

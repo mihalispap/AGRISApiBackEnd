@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/e2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Stress responses of fruits and vegetables during storage"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Niskanen, Raina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dris, Ramdane (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100341",
+	"dct:identifier":"FI2016100341",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"During storage, fruits and vegetables are liable to quality losses due to microbial decay and responses to stresses induced by the storage environment, which largely are the result of attempts to prevent or retard microbial decay and the ultimate storage disorder - senescence. Besides, establishing a physical barrier by strengthtening their cell walls, plants produce phytoalexins and accelerate cell death to suppress the spread of infectious pathogens. Furthermore, a wide variety of proteins can be induced to accumulate in response to pathogenic attack or wounding or other physical or chemical stress. The stress responses are discussed in the present review."}
+	}}

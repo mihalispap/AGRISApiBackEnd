@@ -1,0 +1,79 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Atividade enzimática da superóxido dismutase em resposta aos fitorreguladores em Gerbera jamensonii ",
+	"xml:lang":"por"
+	},
+	{"value":"Superoxide dismutase enzyme activity in response to plant hormones in Gerbera jamensonii",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"embryonic development",
+	"xml:lang":"eng"
+	},
+	{"value":"tissue culture",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"6/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206649",
+	"dct:identifier":"BR2015206649",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/443/306",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nunes Rita Cassia Alves"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Viana Ronaldo Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Neto Nelson Barbosa Machado"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual Paulista, Araçatuba, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade de Tecnologica, Araçatuba, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade do Oeste Paulista-Campus II, Presidente Prudente, SP, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"2.0 and 4.0 mg.L-1) and naphthaleneacetic acid-ANA (0"},
+	{"value":{"value":0.5},
+	"xml:lang":"por"
+	},
+	{"value":"1,0"},
+	{"value":"0,25"},
+	{"value":"The objective of this study was to evaluate best concentrations of phytohormones benzylaminopurineand naphthalene acetic acid in various concentrations in leaf explants of gerbera for obtainingsomatic embryogenesis and the use of superoxide dismutases (SOD) as a biochemical markerfor the evaluation selection of calluses Gerbera jamesonii cv. Cherry. Fully expanded leaves ofplants Gerbera jamesonii cv. Cherry were submitted to the disinfection, cut in fragments (1cm2) andinoculated in MS media in a factorial growth phytoregulators combination (5x5): benzilaminopurine-BAP (0",
+	"xml:lang":"eng"
+	},
+	{"value":"0,50"},
+	{"value":1},
+	{"value":"2,0 e 4,0 mg.L-1) e ácido naftalenoacético-ANA (0,0"},
+	{"value":0.25},
+	{"value":"0,5"},
+	{"value":"1,0 e 2,0 mg.L-1). Os calos foram avaliados em dois períodos, aos 30 e 60 dias observando-se o crescimento e coloração. Amelhores combinações de fitoreguladores de crescimento para obtenção de calos friáveis foram 1,0/1,0 mg L-1 de BAP/ANA, 1,0/2,0 mg L-1 de BAP/ANA, 0,5/0,5 mg L-1 de BAP/ANA respectivamente. Houve um incremento na atividade enzimática da superoxido dismutase (SOD) quando utilizada a combinação dos fitohormonios 2,0/2,0 e 4,0/1,0 mg L-1 de BAP/ANA e consequentemente menor crescimento de calos."},
+	{"value":"1.0 and 2.0mg.L-1). The calluses were evaluated in two periods at 30 and 60 days observing the growth andcoloration. The best combination of growth phytoregulators to obtain friable calluses were 1.0 /1.0 mg.L-1BAP / NAA, 1.0 / 2.0 mg.L-1 BAP / NAA, 0.5 / 0.5 mg.L-1BAP / NAA respectively. There wasan increase in the enzymatic activity of superoxide dismutase (SOD) when used combination ofphytohormones 2,0 / 2,0 and 4,0 / 1,0 mg.L-1BAP / NAA and consequently lower growth of calluses."},
+	{"value":"O objetivo deste trabalho foi avaliar a resposta dos fitorreguladores benzilaminopurina e ácido naftalenoacético em diversas concentrações nos explantes foliares de gérbera para a obtenção de calos embriogênicos e a utilização de superóxido dismutases (SOD) como marcador bioquímico na avaliação para seleção dos calos em Gerbera jamesonii cv. Cherry. As folhas completamente expandidas foram retiradas das plantas de Gerbera jamesonii cv. Cherry cultivadas em vaso, desinfetadas, seccionadas em fragmentos de aproximadamente 1cm2 e inoculadas em meio de cultura MS em combinação fatorial 5x5 de reguladores de crescimento: benzilaminopurina-BAP (0,0"},
+	{"value":0.5}
+	]
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A proposed method for sampling, detection and quantification of maize kernels using traditional and real-time PCR"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2008320597",
+	"dct:identifier":"FI2008320597",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Swailem, Abdulaziz M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shehata, Maher M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shair, Omar H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Shammari, Turki A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Al-Anazi, Ibrahim O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sabaan, Saeed A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The extent, to which sampling of raw materials and foods for detection of the presence of GMOs presents a significant problem, depends on the type of material to be sampled, the purpose of the analysis and the degree of risk that is acceptable in obtaining a wrong result. Development of internationally accepted, harmonised sampling plans based on sound scientific and statistical principles is urgently needed, and initiatives should be undertaken quickly to ensure the acceptability of GMO products, which to a great extent are traded internationally. PCR methods are available for qualitative screening and quantitation of virtually all DNA-containing food materials. Our work was planned to reflect the definition of sampling protocols for GMO detection and/or quantification, to propose a new statistical model to estimate the sampling error associated to different sampling protocols as function of both number and size of samples taken from any consignment of particulate and to demonstrate the picture of GM distribution in Saudi Arabia. Preliminary results from our simulations indicated that the pattern of convergence to the true contamination value is similar for different contamination levels and lot heterogeneity scenarios. Our results will have a remarkable impact upon the definition of sampling protocols, as it will ensure a proper sampling if non-random distribution of contaminants is observed or expected, as in the case of kernel lots. Our assay method is proved to be suitable for analytical purposes, with excellent limits of detection and quantification."}
+	}}

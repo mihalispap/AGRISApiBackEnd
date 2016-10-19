@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-30.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Carbon sequestration in wetlands: Concept and estimation"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pant, Hari K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rechcigl, Jack E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adje, Martin B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100140",
+	"dct:identifier":"FI2016100140",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Requirements of scientific advancement in understanding of processes regulating carbon (C) balance in terrestrial/semi-aquatic ecosystems, and the roles of the ecosystems in exchange of carbon dioxide (CO2) between atmosphere and terrestrial biosphere are well recognized. However, only limited studies have been conducted to assess the roles and potentials of wetlands, semi-aquatic ecosystems, in C sequestration. Out of 7% of world?s land is wetland. Thus, the study of C sequestration and the factors regulating it in a wetland will not only provide most needed knowledge for global C budgets, but also assess the possible integration of C sequestration in the objectives of creation and restoration of wetlands. The determination of stability of organic matter and assessment of roles of biotic and abiotic factors in regulating C exchanges between wetland ecosystems and the atmosphere may not only enhance the understanding of fundamental biogeochemical and eco-physical processes regulating C transformation in aquatic and terrestrial systems, but also help in the endeavors of reduction of anthropogenic CO2 in the atmosphere with long-term parity, and enhance the accuracy of global C budgets."}
+	}}

@@ -1,0 +1,25 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Biomanipulaatio tarjoaa monia mahdollisuuksia ravinnekuormituksen pienentämiseen = Biomanipulation erbjuder många möjligheter att minska närsaltsbelastningen.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Lehtelä, Kari.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"biomanipulaatio"},
+	{"value":"fish culture"},
+	{"value":"kalanviljely"},
+	{"value":"Oncorhynchus mykiss"},
+	{"value":"environmental protection"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001645",
+	"dct:identifier":"FI2016001645",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The proximate and amino acid composition of defatted rubber seed meal"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869569",
+	"dct:identifier":"US201300869569",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f23.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Oyewusi, P.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akintayo, E.T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Olaofe, O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The defatted seed meals of the cultivated and uncultivated rubber trees have been analysed for proximate and amino acid composition. The proximate analysis of the defatted uncultivated rubber seed meal showed that moisture, ash, crude protein, crude fat and carbohydrate were 14.1±7.0, 9.7±2.5, 10.3±1.7, 6.4±1.1 and 73.7±5.1% dry matter respectively while those of cultivated were 2.6±0.4, 2.3±0.2, 21.9±1.2, 15.8±1.9 and 65.1±5.2% dry matter respectively. Glutamic acid, aspartic acid and leucine were the most abundant amino acids while the S-containing amino acids, methionine and cystine, had the lowest concentration (9.9-14.9 g/kg crude protein). There is no significant differences between the essential amino acids of the two defatted seed meals at p<0.05 confidence level and the levels of most essential amino acids could probably supply the required supplements for both livestock and human beings. The protein egg score of phenylalanine plus tyrosine and leucine compare favourably with those in egg while threonine is the limiting essential amino acid."}
+	}}

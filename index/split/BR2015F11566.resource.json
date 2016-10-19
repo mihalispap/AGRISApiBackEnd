@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Características agronômicas e produtividade de milho e milheto para silagem adubados com biofertilizante suíno sob irrigação. ",
+	"xml:lang":"por"
+	},
+	{"value":"Agronomic characteristics and silage productivity of corn and millet fertilized with swine biofertilizer under irrigation.",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"humate fertilizers",
+	"xml:lang":"eng"
+	},
+	{"value":"pennisetum glaucum",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.3",
+	"bibo:doi":"10.17523/bia.v72n3p185",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F11566",
+	"dct:identifier":"BR2015F11566",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n3p185",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MOREIRA, E. D. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERNANDES, L. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COLEN, F."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CRUZ, R. C."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The use of biofertilizers in agriculture is a promising alternative to mineral fertilizers and as a destination of manure. The objective of this study was to evaluate the morphological characteristics, biomass production and leaf nutrient content of irrigated corn and millet fertilized with swine biofertilizer. Two experiments were conducted between June and September 2011 using corn and millet grown on a Red-Yellow Latosol in a randomized block design consisting of six treatments and four repetitions: swine biofertilizer doses to provide 0, 50, 100, 150 and 200 kg/ha P2O5 and one additional treatment using NPK 4-14-8 mineral fertilizer. Each dose of phosphorus provided by the swine biofertilizer was compared by the Dunnett test to the additional treatment with mineral fertilizer and significance was defined when P",
+	"xml:lang":"eng"
+	},
+	{"value":"A utilização de biofertilizante na agricultura é uma alternativa promissora aos fertilizantes minerais e de destino de dejetos. Objetivou-se neste estudo avaliar características morfológicas, produção de biomassa e teores de nutrientes foliares do milho e do milheto irrigados e adubados com biofertilizante suíno. Foram conduzidos dois experimentos, com milho e com milheto no período de junho a setembro de 2011 em um latossolo vermelho amarelo, em delineamento de blocos casualizados, com seis tratamentos e quatro repetições, a saber: doses de biofertilizante suíno para fornecer 0, 50, 100, 150 e 200 kg/ha de P2O5, e um tratamento adicional com adubo mineral NPK 4-14-8. Cada uma das doses de fósforo fornecida pelo biofertilizante suíno foi comparada, pelo teste de Dunett, ao tratamento adicional com adubo mineral, e a significância foi declarada quando P",
+	"xml:lang":"por"
+	}
+	]
+	}}

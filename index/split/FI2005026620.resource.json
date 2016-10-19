@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic diversity analysis among rice accessions differing in drought tolerance using molecular markers"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026620",
+	"dct:identifier":"FI2005026620",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a26.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vivek, K. T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gomez, S. Michael (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suresh, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, S. Satheesh (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yogameenakshi, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chezhian, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Boopathi, N. Manikanda (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shanmugasundaram, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Babu, R. Chandra (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The extent of genetic diversity among 46 indica ecotypes was assessed by fingerprinting using 40 random amplified polymorphic DNA (RAPD) markers. Out of the total (401) bands generated, 376 were found to be polymorphic (93.8%) and informative. Cluster analysis based on RAPD data showed that the drought tolerant and susceptible accessions were grouped in two different clusters. The rice accessions were also screened for drought tolerance under field conditions. Considerable variation was observed for drought resistance traits among the rice accessions. Norungan and TKM1 were found to perform better under water stress as compared to other accessions and may be useful in mapping genes associated with drought resistance. Correlation studies indicated that selection based on higher leaf chlorophyll stability index and proline under stress and thicker roots will be useful for improving drought tolerance in rice."}
+	}}

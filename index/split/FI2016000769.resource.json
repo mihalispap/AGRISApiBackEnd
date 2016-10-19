@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Tree age distributions in old-growth forest sites in Vienansalo wilderness, eastern Fennoscandia /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäki, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karjalainen, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lehtonen, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"metsäpalot"},
+	{"value":"regeneration"},
+	{"value":"ikärakenne"},
+	{"value":"ikä"},
+	{"value":"Russian Federation"},
+	{"value":"Eastern Europe"},
+	{"value":"boreaaliset metsät"},
+	{"value":"mänty"},
+	{"value":"Pinus sylvestris"},
+	{"value":"puut"},
+	{"value":"age structure"},
+	{"value":"Picea abies"},
+	{"value":"uudistuminen"},
+	{"value":"boreal forests"},
+	{"value":"forest fires"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000769",
+	"dct:identifier":"FI2016000769",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

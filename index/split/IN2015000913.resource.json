@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Edible and medicinal insects of Manipur",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"insecta",
+	"xml:lang":"esp"
+	},
+	{"value":"manipur",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":256,
+	"bibo:volume":76,
+	"bibo:pageEnd":259,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000913",
+	"dct:identifier":"IN2015000913",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ayekpam Natasha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh N.I."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh T.K."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

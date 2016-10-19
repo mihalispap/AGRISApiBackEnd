@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Substituição do milho por resíduo de panificação na dieta de ovinos: consumo e digestibilidade aparente ",
+	"xml:lang":"por"
+	},
+	{"value":"Replacement of corn for bakery waste in the diet of sheep: intake and apparent digestibility",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"nutritive value",
+	"xml:lang":"eng"
+	},
+	{"value":"diet",
+	"xml:lang":"eng"
+	},
+	{"value":"digestibility",
+	"xml:lang":"eng"
+	},
+	{"value":"dietary components",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02385",
+	"dct:identifier":"BR2015F02385",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1403617864.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SANTOS, G.R.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"QUEIROZ, L.O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, M.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ANDRADE,  A.C.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SOUZA, E.J.O."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":66},
+	{"value":"This work was carried-out to study the effects of substitution level of corn by bakery waste (BW) (0",
+	"xml:lang":"eng"
+	},
+	{"value":"quadrático sobre CDPB, apresentando valor máximo de 70,62% com 43,69% de substituição, e diminuição linear (P"},
+	{"value":"100%), in the sheep feed on intake and digestibility of the nutrients. Eight male sheep, no castrated, from Santa Inês breed, with average weight of 40 kg, maintained in metabolic cages and distributed in two 4 x 4 latin square design, were used with four treatments and four periods. The assay had the duration of 48 days, being 7 for adaptation of the animals to the experimental diets and 5 days for data collection. The diets were supplied twice a day, in the form of ration total. Food scraps and faeces were identified, and stored for analyses chemical composition. There was no effect of corn replacement level for BW, for dry matter intake (DM), organic matter (OM), crude protein (CP), total carbohydrates (TCHO) and total digestible nutrients (TDN) and on the digestibility coefficients (DC) of DM, OM and TCHO. With the inclusion of BW there was a linear decreasing effect for of ether extract intake (EE) and neutral detergent fiber (NDF)"},
+	{"value":"and quadratic effect on DCCP, with maximum DCCP of 70,62% with 43,69% of substitution and linearly decrease (P"},
+	{"value":33},
+	{"value":"66 e 100%) em rações para ovinos sobre o consumo e digestibilidade dos nutrientes. Foram utilizados oito ovinos da raça Santa Inês, machos não castrados, com peso médio de 40 kg, mantidos em gaiolas metabólicas e distribuídos em delineamento quadrado latino 4 x 4 duplo, com quatro tratamentos e quatro períodos. O ensaio teve duração de 48 dias, sendo sete para adaptação dos animais às dietas experimentais e cinco dias para colheita de dados. As dietas foram fornecidas duas vezes ao dia, na forma de ração completa. As rações oferecidas, sobras e fezes foram pesadas e, posteriormente, amostras foram coletadas, identificadas e armazenadas para realização das análises da sua composição bromatológica. Não houve efeito do nível de substituição do milho pelo RP para os consumos de matéria seca (MS), matéria orgânica (MO), proteína bruta (PB), carboidratos totais (CHOT), nutrientes digestíveis totais (NDT) e para os coeficientes de digestibilidade (CD) da MS, MO e CHOT. Com a inclusão do RP houve efeito linear decrescente para os consumos de extrato etéreo (EE) e fibra em detergente neutro (FDN)"},
+	{"value":"Avaliaram-se os efeitos dos níveis da substituição do milho pelo resíduo de panificação (RP) (0"}
+	]
+	}}

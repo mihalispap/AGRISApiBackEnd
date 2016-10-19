@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"If there were intrinsic values in the forest, could we see them?.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Sajama, Seppo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"ympäristö"},
+	{"value":"environment"},
+	{"value":"etiikka"},
+	{"value":"ethics"},
+	{"value":"intrinsic value"},
+	{"value":"luontoarvot"},
+	{"value":"naturalism"},
+	{"value":"metsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001418",
+	"dct:identifier":"FI2016001418",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

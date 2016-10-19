@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:title":{"value":"Microfiltration, Groundwater Remediation and Environmental Engineering Science - A Scientific Perspective and a Far-reaching Review",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"microfiltration",
+	"xml:lang":"eng"
+	},
+	{"value":"environmental engineering",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513051",
+	"dct:identifier":"IN2016513051",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=13",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Palit Sukanchan"
+	}
+	},
+	"bibo:abstract":{"value":"The environmental engineering paradigm is surpassing one visionary frontier over another. Mankind today stands in the midst of optimism and scientific vision. The world of challenges is befitting to the progress of human civilization. The road to progress in implementation of environmental sustainability is vast, varied and ground-breaking. In such a crucial juncture of history and time, the need of application of environmental engineering science is of immense and effective importance. Microfiltration and other membrane separation processes are the ultimate avenues of scientific and engineering progress. Science and engineering are moving steadfastly towards a newer scientific generation and a newer scientific understanding. The step forward is painstaking as regards zero-discharge norms. Environmental regulations and stringent environmental restrictions have plunged the scientific community to devise paths towards progress. Industrial pollution control, wastewater treatment and application of microfiltration are the primordial issues targeted in this treatise. The focus towards addressing novel separation processes and novel environmental engineering techniques stands today as a formidable challenge in the road towards zero-discharge norms. The author diligently and lucidly brings forward to the scientific community the immense rigorous and effective challenges in the application of microfiltration as an efficient membrane separation process. History of environmental engineering science, history of science and technology needs to be readdressed and reassessed in the future application of membrane science as an efficient separation technique.",
+	"xml:lang":"eng"
+	}
+	}}

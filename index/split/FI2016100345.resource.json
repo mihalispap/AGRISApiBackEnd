@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Near infrared spectroscopy, cluster and multivariate analysis – contributions to wine analysis"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Guggenbichler, Wolfgang (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Huck, Christian W. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kobler, Armin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Popp, Michael (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bonn, Günther K. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100345",
+	"dct:identifier":"FI2016100345",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In this work we investigated different vine grapes (genus Vitis), grape varieties and bottled red wines using fiber-optics based near infrared transflectance  and transmission spectroscopy. Recording of spectra in the transmission mode allowed distinguishing between different vine grapes. 57 bottles of  Cabernet Sauvignon, Lagrein and Chianti Classico were analysed. Principal component analysis (PCA) over a wavenumber range from 4,500 to  10,000 cm-1 including data pretreatment allowed assigning each wine to a separate cluster with a Q-value of 0.72. Partial least square regression  (PLSR) additionally allowed determining the mixing ratio of grape varieties in one bottle of red wine. Therefore this model can help the consumer  check the wine for its quality and thus prevent him from being misled. In order to achieve a fast and simple quantitative analysis in the transflectance  mode of the carbohydrate, total acid, tartaric acid, malic acid, polyphenol content and pH value in Weißburgunder, Chardonnay, Ruländer, Silvaner,  Müller Thurgau, Gewürztraminer, Sauvignon, Lagrein, Grossvernatsch, Blauburgunder, Cabernet and Merlot grapes a NIRS method was established."}
+	}}

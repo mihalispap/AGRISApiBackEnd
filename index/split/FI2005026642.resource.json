@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Trace elements solubilization in waste-amended saline-sodic conditions"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026642",
+	"dct:identifier":"FI2005026642",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/e8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Irshad, Muhammad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yamamoto, Sadahiro (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Honna, Toshimasa (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The use of waste for soil amendment is receiving greater research attention but the extent to which saline-sodic waters affect the solubility of trace elements (TE) in waste amended soils is not well documented. In this laboratory study we determined the extent of TE [iron (Fe), manganese (Mn), copper (Cu) and zinc (Zn)] solubility in saline-sodic conditions after waste amendments. Wastes from the following four sources were used for the study: blast furnace slag (BFS), fly ash (FA), livestock manure compost (LC), plant residual compost (PC) and a control (no amendment). A sandy soil was saturated with either deionized water (S0) or 100 mmol cL-1 CaCl2, MgSO4 and NaHCO3 solution prepared at 15 and 45 SAR levels denoted as S1 and S2 respectively. The saturated soil was extracted after 1, 5 and 10 days and the extracts were analyzed for pH, ECe, SAR and water-soluble plus exchangeable Fe, Mn, Cu and Zn. The levels of TE were higher in LC and PC than BFS and FA amendments regardless of the salt ratios. The magnitude of SAR-induced solubility of TE decreased. Averaged exchangeable TE remained statistically similar in most of the amendments. Waste materials enhanced soil ECe and pH whereas the SAR was reduced in LC- and PC-treated soils. This is because of the higher amount of soluble Ca and Mg in LC and PC. The TE solubility was positively related to incubation period but the simple regression models showed that TE solubility was inversely related to the soil SAR. We suggest that the availability of TE could potentially be improved by waste amendments under saline-sodic or sodic conditions."}
+	}}

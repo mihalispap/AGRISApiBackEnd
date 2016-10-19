@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of poly unsaturated fatty acid supplementation on luteal profile and conception in postpartum buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1135,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"prostaglandins",
+	"xml:lang":"eng"
+	},
+	{"value":"periodo perinatal",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"acidos grasos poliinsaturados",
+	"xml:lang":"esp"
+	},
+	{"value":"perinatal period",
+	"xml:lang":"eng"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"acide gras polyinsature",
+	"xml:lang":"fre"
+	},
+	{"value":"prostaglandine",
+	"xml:lang":"fre"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"polyunsaturated fatty acids",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"periode perinatale",
+	"xml:lang":"fre"
+	},
+	{"value":"prostaglandinas",
+	"xml:lang":"esp"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1137,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000315",
+	"dct:identifier":"IN2015000315",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Malik, A.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gandotra, V.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brar, P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghuman, S.P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhaliwal, G.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Honparkhe, M."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"Pluriparous postpartum buffaloes (10) belonging to organized dairy farm were supplemented with 250 g FM/ buffalo/day for 90 days postpartum and 5 buffaloes were kept as non-supplemented control. On day 60 postpartum, all the buffaloes were synchronized using Ovsynch protocol followed by fixed TAI at 16 and 40 h after second GnRH injection. Subsequent to Ovsynch protocol, all the buffaloes were subjected to ovarian ultrasonography on day 0 (day of estrus and AI) and day 12 post AI and blood sampling on days 0, 5, 12 and 40 post-insemination. There was no difference in the preovulatory follicle size and CL size in both the groups and plasma progesterone concentration in control and non-pregnant FM supplemented buffaloes. Of supplemented 10 animals, 5 conceived as compared to none in control group. It was concluded that FM supplementation had no influence on preovulatory follicle size, CL size and plasma progesterone concentration. However, FM induced suppression in PGFM concentration might have resulted in better conception in the supplemented buffaloes.",
+	"xml:lang":"eng"
+	}
+	}}

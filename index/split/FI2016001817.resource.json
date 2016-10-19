@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Selenium content of Finnish oats in 1997-1999 : effect of cultivars and cultivation techniques /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Eurola, Merja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hietaniemi, Veli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kontturi, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuuri, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Arjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niskanen, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saastamoinen, Marketta.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"yields"},
+	{"value":"seleeni"},
+	{"value":"varieties"},
+	{"value":"kaura"},
+	{"value":"lajikkeet"},
+	{"value":"selenium"},
+	{"value":"cereals"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"organic agriculture"},
+	{"value":"Avena sativa"},
+	{"value":"lannoitus"},
+	{"value":"oats"},
+	{"value":"chemical composition"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"sadon laatu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001817",
+	"dct:identifier":"FI2016001817",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

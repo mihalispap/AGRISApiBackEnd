@@ -1,0 +1,25 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Archao-historical environ of Cholistan and significance of ancient agriculture in Pakistan.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Ahmad, Farooq.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"history"},
+	{"value":"Pakistan"},
+	{"value":"agriculture"},
+	{"value":"desertification"},
+	{"value":"agricultural development"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001717",
+	"dct:identifier":"FI2016001717",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

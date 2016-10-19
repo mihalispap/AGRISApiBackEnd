@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Inorganic and organic phosphorus fractions in peat from drained mires in northern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nieminen, Mika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Penttilä, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"peatlands"},
+	{"value":"drainage"},
+	{"value":"suometsät"},
+	{"value":"kasvupaikkatyypit"},
+	{"value":"phosphorus"},
+	{"value":"saatavuus"},
+	{"value":"sequential fractionation"},
+	{"value":"drained peatland forests"},
+	{"value":"puusto"},
+	{"value":"kasvu"},
+	{"value":"phosphorus availability"},
+	{"value":"site factors"},
+	{"value":"trees"},
+	{"value":"peat soils"},
+	{"value":"fractionation"},
+	{"value":"metsäojitus"},
+	{"value":"growth"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001188",
+	"dct:identifier":"FI2016001188",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

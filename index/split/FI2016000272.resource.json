@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Historical logging, productivity, and structural characteristics of boreal coniferous forests in Norway /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Storaunet, Ken Olaf.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rolstad, Jørund.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gjerde, Ivar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gundersen, Vegard S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"history"},
+	{"value":"forests"},
+	{"value":"stand characteristics"},
+	{"value":"dead trees"},
+	{"value":"kelopuut"},
+	{"value":"deadwood"},
+	{"value":"wood decay"},
+	{"value":"harsinta"},
+	{"value":"metsät"},
+	{"value":"lahopuut"},
+	{"value":"boreal forests"},
+	{"value":"historia"},
+	{"value":"selective felling"},
+	{"value":"boreaaliset metsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000272",
+	"dct:identifier":"FI2016000272",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

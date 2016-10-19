@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of entomopathogenic fungi Beauveria bassiana (bals.) and Lecanicillium muscarium (petch) on Trialeurodes vaporariorum westwood",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":95,
+	"dc:subject":[
+		{"value":"champignon entomopathogene",
+	"xml:lang":"fre"
+	},
+	{"value":"beauveria bassiana",
+	"xml:lang":"esp"
+	},
+	{"value":"hongos entomopatogenos",
+	"xml:lang":"esp"
+	},
+	{"value":"entomogenous fungi",
+	"xml:lang":"eng"
+	},
+	{"value":"trialeurodes vaporariorum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":75,
+	"bibo:pageEnd":98,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000014",
+	"dct:identifier":"IN2015000014",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Naser, Malekan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bijan,Hatami"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rahim, Ebadi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alireza, Akhavan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdul, Aziz Azidah Binti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rouhollah, Radjabi"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"difference in mortality between the 103 conidia/ml and 106 conidia/ml for both L. muscarium and B. bassiana. The mortality due to the combination were generally higher than that caused by each in 106 conidia/ml. on young nymphs. The pathogenicity in the combination treatments 106 conidia/ml of L. muscarium with B. bassiana, no synergistic effect was observed. The mortality was higher in 103 conidi",
+	"xml:lang":"eng"
+	}
+	}}

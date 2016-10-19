@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Survival of Escherichia coli O157:H7 in minced meat and hamburger patties"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903842",
+	"dct:identifier":"US201300903842",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/f4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ciftcioglu, Gurhan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arun, Ozge O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vural, Aydin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aydin, Ali (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aksu, Harun (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Escherichia coli O157:H7 has been recognized as human pathogen first in 1982. Its viability at lower temperatures has been proved in different in-vitro studies. It has been planned to determine the viability of inoculated E. coli O157:H7 strain in original flora of minced meat samples and original formula and microflora of hamburger patties as an actual model, during cold and frozen storage. For this purpose, minced meat and hamburger patty samples have been inoculated with 5 log cfu/g level and stored at 4.0qC or –18.0 qC and analyzed at days 1, 2, 3, 5, 7, 9 and at days 10, 20, 30, 60, 120, 180, respectively. Reduction in E. coli O157:H7 numbers were found significant in hamburger patties. E. coli O157:H7 counts have been detected as 4.90 log cfu/g at the end of the 9 days storage and 4.01 log cfu/g at the end of the 180 days of storage in hamburger patties. Nevertheless, reduction levels were not as high as reported in previous in-vitro studies. There were no significant changes in inoculated minced meat samples at both cold and frozen storage. It has been concluded that E. coli O157:H7 was more stable in minced meat and hamburger patties, which have original formula and with accompanying microbial flora, when compared to in-vitro studies. Further studies should be held in order to investigate the behavior of E. coli O157:H7 in actual food chain of hamburgers."}
+	}}

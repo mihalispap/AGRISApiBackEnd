@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Socio-economic factors influencing the adoption of sawah rice production technology in Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009323109",
+	"dct:identifier":"FI2009323109",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e3.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fashola, Oluwarotimi O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oladele, Oladimeji I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alabi, Martins O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tologbonse, Dele (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wakatsuki, Toshiyuki (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The study examined the socio-economic factors influencing the adoption of sawah rice production technology in Nigeria. The study was carried out in Bida area, Niger state, where the sawah rice production was disseminated by Watershed Initiative in Nigeria/Hirose Project through the support of the Japanese government. Simple random sampling technique was used to select rice growing farmers in the area covered by the project and primary data were collected through the use of a structured questionnaire on the objectives of the study. Descriptive statistics was used to analyze the socio- economic features of the farmers while the probit model was used to capture the socio-economic factors influencing the adoption of sawah rice production technology among rice growing farmers. The result of the probit model shows that four variables were statistically significant at various levels. These were membership of farmers association (t=2.91), educational level (t=1.65), length of residence in the village (t=2.11) and land ownership (t=1.91). All the significant variables were positively related to the probability of adoption except membership of farmers association that was inversely related to the probability of adoption of sawah technology."}
+	}}

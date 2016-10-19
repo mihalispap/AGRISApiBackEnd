@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Unusual occurrence of haemorrhagic anaemia syndrome in broilers",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":252,
+	"dc:subject":[
+		{"value":"hemorragie",
+	"xml:lang":"fre"
+	},
+	{"value":"anemia",
+	"xml:lang":"esp"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"haemorrhage",
+	"xml:lang":"eng"
+	},
+	{"value":"anemie",
+	"xml:lang":"fre"
+	},
+	{"value":"anaemia",
+	"xml:lang":"eng"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"hemorragia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":254,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000127",
+	"dct:identifier":"IN2015000127",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gowthaman, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhama, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barathidasan , R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramakrishnan, M.A."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Disease investigation was carried out in an 18 weeks-old pre-layer poultry farm having unusual mortality in Namakkal poultry belt. Necropsy was carried out on freshly dead and ailing birds. Tissue samples such as trachea, lungs, air sacs and liver were collected for pathological studies and direct tissue PCR. The general clinical signs consisted of depression, huddling, ruffled feathers, reduced feed intake and water consumption, uneven growths, hock sitting posture, and respiratory distress. General appearance of the carcass was highly pale,anemic, and icteric. Skeletal muscles were highly pale and severe multifocal intramuscular haemorrhages were noticed in the breast, leg and thigh muscles.Widespread petechial haemorrhages could be observed on the surface of proventricular glands and at junction of proventriculus and gizzard. The liver, kidney and bone marrow were highly pale and icteric. The pulmonary alterations consisted to loss of mucosal gland activity in trachea,extensive haemorrhags in the air and blood capillaries of lung.Air sacs were thickened due to inflammatory infiltration and fibrinohaemorrhagic exudates. Mucosal folds of proventriculus showed haemorrhages and lamina propria infiltrated with inflammatory cells.Chicken anaemia virus (CAV)nucleic acid was detected by PCRin pooled samples of lung, trachea and liver. The disease was a unique case ofhaemorrhagic anaemia syndrome in a 18week pre-layer flock,which strongly suggest that CAV causes clinical disease in pre-layer birds.Generally clinical form of CAV in adult birds is a rare phenomenon.",
+	"xml:lang":"eng"
+	}
+	}}

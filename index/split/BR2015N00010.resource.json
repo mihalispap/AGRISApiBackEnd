@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"BIOLOGIA ALIMENTAR DO MUSSUM, Synbranchus marmoratus (BLOCH, 1795) (OSTEICHTHYES: SYNBRANCHIDAE) NO AÇUDE MARECHAL DUTRA, LOCALIZADO NO SEMI-ÁRIDO BRASILEIRO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":45,
+	"bibo:volume":1,
+	"bibo:pageEnd":52,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00010",
+	"dct:identifier":"BR2015N00010",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/320",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Luciana Araújo Montenegro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Daisy Nazareth Ferreira Damasceno"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raimunda Gonçalves Almeida"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sathyabama Chellappa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Norte"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":" O presente trabalho analisou o conteúdo estomacal dos exemplares de mussum, Synbranchus marmoratus</em>, capturados no açude Marechal Dutra, estado do Rio Grande do Norte, nordeste do Brasil. Foram obtidos de cada exemplar o comprimento total, peso do corpo e estômago. A análise do conteúdo estomacal foi realizada com o método volumétrico, de pontos e o método de frequência de ocorrência, aplicando-se sobre este o Índice de Importância Alimentar. As variações na dieta e a frequência de ingestão alimentar foram relacionadas com a pluviosidade. Durante a seca a espécie apresentou valores altos no índice médio de repleção, com pico no mês de outubro e o menor valor ocorreu no mês de fevereiro durante o período chuvoso. Synbranchus marmoratus se alimentou de material animal, preferencialmente de camarões (45,21%), material orgânico semi-digerido (23,93%), moluscos (11,56%), peixes (10,93%), insetos (6,25%) e nematóides (2,12%). A espécie em estudo foi caracterizada como carnívoro com preferência a carcinofagia, com maior atividade alimentar durante a estiagem. Synbranchiformes, dieta, Índice de Importância Alimentar, carcinofagia, açude do bioma Caatinga.",
+	"xml:lang":"por"
+	}
+	}}

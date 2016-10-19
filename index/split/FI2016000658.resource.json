@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"An empirical model for estimating weight loss of stored cowpea seeds /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Okokon, Francis B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Umoetuk, Sylvia B. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oyerinde, Ajiboye S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ekpenyong, Edet.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"stored products"},
+	{"value":"siemen"},
+	{"value":"varastointitappiot"},
+	{"value":"stored products pests"},
+	{"value":"tuhoeläimet"},
+	{"value":"cowpeas"},
+	{"value":"pest insects"},
+	{"value":"weight losses"},
+	{"value":"Callosobruchus maculatus"},
+	{"value":"seeds"},
+	{"value":"varastointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000658",
+	"dct:identifier":"FI2016000658",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

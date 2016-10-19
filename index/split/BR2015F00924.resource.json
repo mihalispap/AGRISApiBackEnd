@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Feno de soja perene como substituto da alfafa em rações de poedeiras. ",
+	"xml:lang":"por"
+	},
+	{"value":"Perenial soy bean hay as a substitute of alfalfa in laying hens rations",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":{"value":"rations",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"único./n.27/28.",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F00924",
+	"dct:identifier":"BR2015F00924",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"1970-71",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1386844096.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SILVEIRA, J. J. N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kronka, R. N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BECKER, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SIQUEIRA, A. C. M. F."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The main objetive of this experiment was to find an adequate substitute for alfafa hay in laying hen rations. The duration of the experiment was 280 days. Pereniál soybean hay (Glycine javanica) was used as substitute of alfalfa at 5% in the ration. The results indicated that in total number of eggs produced and egg weight, there was no significant differences among the treatments. Feed conversion was better with the ration containing perenial soybean hay than any of the other rations, but these data were not statistically analized. It can be concluded, therefore, that perenial soybean hay is an adequate substitute for alfalfa hay. However, it should be pointed out that significant differences were not observed between the control ration, without alfalfa, and the others. This suggests that the hays did not contribute in anything to increase, the nutritive value of the rations used. More research should be done in this area.",
+	"xml:lang":"eng"
+	},
+	{"value":"Visando a substituição do feno de alfafa pelo de soja perene (Glycne javanica), este trabalho foi conduzido na Divisão de Nutrição Animal e Pastagens, Nova Odessa. O experimento foi realizado em gaiolas individuais, com poedeiras Leghorn (linhagem A-65) e teve duração de 280 dias. O feno de alfafa foi substituído pelo de soja perene ao nível de 5%. Os dados referentes à porcentagem de postura, peso dos ovos e conversão, indicaram que o feno de soja perene pode substituir satisfatoriamente o feno de alfafa em rações de poedeiras.",
+	"xml:lang":"por"
+	}
+	]
+	}}

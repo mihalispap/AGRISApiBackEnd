@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Development of primary culture from heart tissue of Chitala chitala (Hamilton-Buchanan)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":95,
+	"dc:subject":[
+		{"value":"cell culture",
+	"xml:lang":"eng"
+	},
+	{"value":"corazon",
+	"xml:lang":"esp"
+	},
+	{"value":"chitala chitala",
+	"xml:lang":"esp"
+	},
+	{"value":"cultivo de celulas",
+	"xml:lang":"esp"
+	},
+	{"value":"coeur",
+	"xml:lang":"fre"
+	},
+	{"value":"heart",
+	"xml:lang":"eng"
+	},
+	{"value":"culture de cellule",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":97,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000458",
+	"dct:identifier":"IN2015000458",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kapoor, Smita"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kamalendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhatt, J.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lakra,  W.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rathore, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goswami, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Swaminathan, T. Raja"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A method for developing cell cultures from Chitala chitala heart tissue is described. The tissues were minced and seeded in culture flasks and grown in Leibovitz L-15 medium supplemented with 20% foetal bovine serum. The radiation started after 4 th  day in heart. The medium was changed after every five days. The radiations were able to withstand a wide range of temperatures from 25 Â°C to 28Â°C with an optimum temperature of 28Â°C. A partial monolayer was observed after 12 days in heart tissue. A primary culture was successfully obtained from heart tissue of C. chitala for the first time in India.",
+	"xml:lang":"eng"
+	}
+	}}

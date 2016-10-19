@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Reproductive patterns, treatment response and fertility in dystocia affected dairy buffaloes developing postpartum metritis",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":556,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"dystocie",
+	"xml:lang":"fre"
+	},
+	{"value":"distocia",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"dystocia",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"fertility",
+	"xml:lang":"eng"
+	},
+	{"value":"fertilite",
+	"xml:lang":"fre"
+	},
+	{"value":"fertilidad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":559,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000091",
+	"dct:identifier":"IN2015000091",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"june2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prabhakar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brar, P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Behl, K.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, A.K."
+	}
+	}
+	],
+	"bibo:issue":6,
+	"bibo:abstract":{"value":"Buffaloes (28) suffering from dystocia, presented at University Veterinary Clinics were studied postpartum for reproductive patterns, evaluation of treatment response and fertility. The animals were periodically followed up to day 42 after discharge from the hospital. All the animals had developed varying degrees of postpartum metritis. Based on the type of treatment, the buffaloes were randomly divided into group 1(8 buffaloes subjected to antibiotics alone), group 2 (12 buffaloes given both antibiotics and prostaglandin) and group 3 (8 buffaloes administered prostaglandin). The broad spectrum antibiotics were given for 5 consecutive days immediately after parturition. In group 2, prostaglandin was additionally administered (lutalyse @ 25 mg) on day 5, while in group 3, injection prostaglandins were administered on day 5 and 12 postpartum. Vaginal discharges, localization and size of uterine horns and ovarian activity were studied through per-rectal examination and later confirmed ultrasonographically. The response to double prostaglandin administration was better in respect of all the parameters for clearing of uterine tract infections. The vaginal discharge disappeared by day 14 and became odorless. The uterine involution, days to first estrus and conception and services/ conception were significantly lower in group 3. In conclusion, occurrence of uterine infections and metritis was a common finding in all handled cases of dystocia. Addition of prostaglandins in the treatment protocol proved highly beneficial to clear uterus of infections, enhance uterine involution and initiate ovarian activity in the dystocia affected buffaloes",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-25.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Investigations into the persistence of Escherichia coli endophytically, in cabbage (Brassica oleracea var. capitata L.) and associated alteration in host proteins and chitinase activity"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rafferty, Susan M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cassells, Alan C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Falkiner, Frederick R. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100472",
+	"dct:identifier":"FI2016100472",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Aseptic cabbage microplants were inoculated in vitro with a clinical isolate of E. coli. Established plants were grown in soilless (hydroponic) culture and sampled using clinical pre-enrichment and selection techniques. Immunohistochemical staining detected E. coli endophytically in the microplants, however, only epiphytic E. coli could be recovered by the enrichment/selection method. At harvest, after 14 weeks in hydroponic culture, sampling was repeated; the inoculant was detected infrequently and only epiphytically, by the enrichment/selection method. Host proteins were extracted and separated by SDS-gel electrophoresis. There was a difference in protein banding in the region for putative pathogenesis-related proteins in E. coli-inoculated microplants. Chitinase levels were significantly higher in the latter. Due to low titre, endophytic bacteria may not be expressed on selective agars within the traditional time limits used in routine testing. In addition, the presence of low numbers of endophytic E. coli triggered a pathogenesis-related protein response."}
+	}}

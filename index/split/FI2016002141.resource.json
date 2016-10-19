@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Desorption of phosphate from three Finnish mineral soil samples during adsorption of vanadate, molybdate and tungstate /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mikkola, Anneli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tummavuori, Jouni.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"desorption"},
+	{"value":"molybdeeni"},
+	{"value":"volframi"},
+	{"value":"finland"},
+	{"value":"phosphorus"},
+	{"value":"kivennäismaat"},
+	{"value":"adsorption"},
+	{"value":"sandy soils"},
+	{"value":"vanadium"},
+	{"value":"tungsten"},
+	{"value":"hiekkamaat"},
+	{"value":"clay soils"},
+	{"value":"molybdenum"},
+	{"value":"liukoisuus"},
+	{"value":"laboratory experimentation"},
+	{"value":"adsorptio"},
+	{"value":"savimaat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002141",
+	"dct:identifier":"FI2016002141",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

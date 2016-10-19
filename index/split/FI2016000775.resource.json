@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n1p43.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The impact of distance to the farm compound on the options for use of the cereal plot.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tamm, Kalvi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Võsa, Taavi
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Loko, Valdek.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kadaja, Jüri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vettik, Raivo
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Olt, Jüri
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peltolohkot"},
+	{"value":"simulointi"},
+	{"value":"farm size"},
+	{"value":"liikkuminen"},
+	{"value":"mathematical models"},
+	{"value":"space"},
+	{"value":"simulation"},
+	{"value":"costs"},
+	{"value":"etäisyys"},
+	{"value":"time"},
+	{"value":"transport"},
+	{"value":"liikennöinti"},
+	{"value":"matemaattiset mallit"},
+	{"value":"ajankäyttö"},
+	{"value":"kustannukset"},
+	{"value":"tilakoko"},
+	{"value":"fields"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000775",
+	"dct:identifier":"FI2016000775",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Coconut Neera production and processing in Karnataka",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":31,
+	"dc:subject":[
+		{"value":"commercialisation",
+	"xml:lang":"fre"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"marketing",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"mercadeo",
+	"xml:lang":"esp"
+	},
+	{"value":"produccion",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"production",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lv",
+	"bibo:pageEnd":33,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000540",
+	"dct:identifier":"IN2015000540",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Siddarameswara Swamy, G.M."
+	}
+	},
+	"bibo:issue":9
+	}}

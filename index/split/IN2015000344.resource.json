@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Feeding of Deoiled Mahua Seed Cake and Guar Meal on Blood Biochemicals, Immune Response and Urinary Purine Derivatives in Crossbred Calves",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":69,
+	"dc:subject":[
+		{"value":"respuesta inmunologica",
+	"xml:lang":"esp"
+	},
+	{"value":"tortas oleaginosas",
+	"xml:lang":"esp"
+	},
+	{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"tourteau d'oleagineux",
+	"xml:lang":"fre"
+	},
+	{"value":"immune response",
+	"xml:lang":"eng"
+	},
+	{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"ternero",
+	"xml:lang":"esp"
+	},
+	{"value":"calves",
+	"xml:lang":"eng"
+	},
+	{"value":"alimentacion",
+	"xml:lang":"esp"
+	},
+	{"value":"veau",
+	"xml:lang":"fre"
+	},
+	{"value":"alimentation",
+	"xml:lang":"fre"
+	},
+	{"value":"oilseed cakes",
+	"xml:lang":"eng"
+	},
+	{"value":"reponse immunitaire",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":78,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000344",
+	"dct:identifier":"IN2015000344",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ojha, B.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Verma, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaturvedi, V.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar Ajit"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"An experiment was conducted to study the performance of male crossbred calves (average age 4.5 month; average weight 67.6 kg) were divided into three equal groups (T1,T2 and T3) following completely randomized design and fed concentrate mixture containing groundnut cake (T1), while in T2 and T3, deoiled mahua seed cake (DMSC) and guar meal (GM) was included @10% in the concentrate mixtures, respectively. The intake and digestibility of nutrients was similar among three treatments. However, ADG and FCR was significantly (P0.05) improved in T2 than that of T1 but it was comparable to T3. At the end of 120 days experimental feeding, the values of blood biochemical profile observed were within the normal physiological range in crossbred calves and did not differ significantly (P0.05) among different dietary treatments. Similarly, excretion of urinary purine derivatives (allantoin, uric acid &creatinine) and humoral immune response were comparable among three groups irrespective of DMSC or GM supplementation. The results indicated that inclusion of deoiled mahua seed cake or guar meal at 10% level in the concentrate mixture of growing crossbred calves showed significant improvement in ADG and FCR but comparable digestibility of nutrients, blood biochemical profile and immune response.",
+	"xml:lang":"eng"
+	}
+	}}

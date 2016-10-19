@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Alternatives evaluation in EIA by spatial multi-criteria evaluation technique"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2012447151",
+	"dct:identifier":"FI2012447151",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/e12.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Roudgarmi, Pezhman (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khorasani, Nematollah (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Monavari, Seyed Masoud (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nouri, Jafar (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Alternatives evaluation methodologies are applied to comparing plan or project alternatives and selecting optimal alternative in environmental impact assessment (EIA). In this research, spatial multi criteria evaluation (SMCE) technique was used for alternatives evaluation. The technique was used in geographical information system (GIS) and it enables GIS in decision making and alternatives evaluation spatially. Evaluation method in SMCE is according to multi criteria analysis. For the study, environmental assessment of a land use plan was considered. The non-action and land use plan alternatives were considered for evaluation. In non-action alternative, region development was not according to any designed plan. All of maps were made by raster model in GIS. The most important result in the research was possibility of environmental impacts and alternatives evaluation in GIS in spatial way. GIS could evaluate alternatives in EIA, the action that was impossible in the past. The used methodology advantages are such as quantitative present of impact magnitude, aggregation of data layers, quantitative and computerized methods for data layer standardization, ability in weighing impacts by quantitative and qualitative approaches, evaluating many numbers alternatives and considering different weigh methods for impacts and categories of environment."}
+	}}

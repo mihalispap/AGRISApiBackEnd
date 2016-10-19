@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Socio-economic factors influencing the adoption of sawah rice production technology in Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fashola, Oluwarotimi O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oladele, Oladimeji I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alabi, Martins O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tologbonse, Dele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wakatsuki, Toshiyuki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"socioeconomic development"},
+	{"value":"Oryza sativa"},
+	{"value":"production"},
+	{"value":"innovation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002217",
+	"dct:identifier":"FI2016002217",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

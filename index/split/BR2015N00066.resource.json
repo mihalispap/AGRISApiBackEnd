@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"NÍVEL TRÓFICO DE PEIXES DA COSTA BRASILEIRA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":130,
+	"bibo:volume":4,
+	"bibo:pageEnd":160,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00066",
+	"dct:identifier":"BR2015N00066",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1002",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thiely Oliveira Garcia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tommaso Giarrrizzo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UFPA-Universidade Federal do Pará"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12.0pt; font-family: \">Com o objetivo de entender o papel ecológico da fauna marinha de peixes e contribuir para a construção de modelos de balanço de massa trófica, o presente estudo determinou o nível trófico (TL) para 131 espécies de peixe pertencentes a 52 famílias e 18 ordens. Todas as informações disponíveis (artigos de revistas científicas, assim como literatura cinza) sobre conteúdo alimentar das espécies de peixes marinhos da costa brasileira foram tabuladas por espécies, área de estudo e ano. Os valores de TL foram calculados usando o TrophLab, que é um aplicativo para estimar o TL e seu erro padrão (SE) a partir de dados da  composição de dieta. O TL variou de 2, como os herbívoros Obionellus oceanicus </em>(Gobiidae) a 4,80, para piscívoros Prionace glauca (Carcharhinidae). O valor médio de TL foi de 3,60. A maioria (38%) dos valores de TL variaram entre 3,0 e 3,5. Foram detectadas diferenças entre as estimativas de TL do presente estudo e aquelas disponíveis por algumas espécies no FishBase. As diferenças observadas podem ser explicadas por inúmeros fatores incluindo procedimentos de amostragens, número total de estômagos analisados, variação do comprimento da população amostrada. Foram determinadas relações significativas entre conjuntos de dados<span style=\"color: red;\"> de TL referente ao presente estudo e os contidos no FishBase. Através de uma destas análises, a média de TL por espécies aumentaram com o correspondente aumento do comprimento máximo do corpo<span style=\"color: red;\"> das espécies.</span>",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Contrasting effects of season and method of harvest on soil properties and the growth of black spruce regeneration in the boreal forested peatlands of eastern Canada.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lafleur, Benoit.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fenton, Nicole J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Paré, David.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Simard, Martin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergeron, Yves.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"paludification"},
+	{"value":"hakkuu"},
+	{"value":"logging"},
+	{"value":"tuottavuus"},
+	{"value":"boreaaliset alueet"},
+	{"value":"clear felling"},
+	{"value":"careful logging"},
+	{"value":"soil disturbance"},
+	{"value":"soistuminen"},
+	{"value":"avohakkuu"},
+	{"value":"forest productivity"},
+	{"value":"Picea mariana"},
+	{"value":"metsät"},
+	{"value":"boreal forests"},
+	{"value":"productivity"},
+	{"value":"suot"},
+	{"value":"bogs"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000079",
+	"dct:identifier":"FI2016000079",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

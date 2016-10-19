@@ -1,0 +1,20 @@
+{"resource": {
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ipekpp.com/admin/upload_files/Knowledge_1_9_Promoting_2564827677.pdf",
+	"dct:title":{"value":"Promoting resource efficiency along the supply chain of key sectors in South Asia: Options and opportunities",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Organization":{"foaf:name":"Knowledge Partnership Programme- IPE Global Pvt Ltd"
+	}
+	},
+	"dc:subject":{"value":"natural resources management",
+	"xml:lang":"eng"
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015410035",
+	"dct:identifier":"IN2015410035",
+	"dct:type":"Report",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19704"
+	},
+	"bibo:abstract":{"value":"Small and medium enterprises (SMEs) are engines of economic growth, providing livelihoods to large populations in South Asian countries. However, over exploitation of natural resources can severely impact sustainability of industrial production systems. This paper looks at the opportunities for clean growth in the textile, brick and steel re-rolling industries sectors by reducing carbon and water footprint."}
+	}}

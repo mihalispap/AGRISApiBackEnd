@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of three Different Selective Media for Isolation of Campylobacter spp. from Poultry",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":61,
+	"dc:subject":[
+		{"value":"isolation",
+	"xml:lang":"eng"
+	},
+	{"value":"carne de aves",
+	"xml:lang":"esp"
+	},
+	{"value":"aislamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"campylobacter",
+	"xml:lang":"esp"
+	},
+	{"value":"gujarat",
+	"xml:lang":"esp"
+	},
+	{"value":"isolement",
+	"xml:lang":"fre"
+	},
+	{"value":"viande de volaille",
+	"xml:lang":"fre"
+	},
+	{"value":"poultry meat",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":11,
+	"bibo:pageEnd":63,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000307",
+	"dct:identifier":"IN2015000307",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_13ab7667"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Veterinary Public Health"},
+	"bibo:ISSN":{"value":"0972-7485"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tayde, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Brahmbhatt, M.N."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A total of 150 samples including raw poultry meat (90) and intestinal (caecal) contents (60) were collected from the retail meat market in and around Anand city. All the samples were processed by selective enrichment method using three different selective enrichment broths viz., Park and Sanders enrichment broth, Preston enrichment broth and blood free Campylobacter selective broth followed by plating on the respective selective medium viz., Park and Sanders medium, Preston agar and blood free Campylobacter selective agar and incubated at 42 C for 24-48 h under microaerophilic conditions. Among 52 Campylobacter isolates recovered, Park and Sanders medium recovered 44 (84.61%) isolates compared to 43 (82.69%) and 33 (63.46%) isolates recovered on blood free Campylobacter selective agar and Preston agar, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Analyzing the effects of inventory errors on holding-level forest plans : the case of measurement error in the basal area of the dominated tree species.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Islam, Md. Nurul.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kurttila, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mehtätalo, Lauri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haara, Arto.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"puulajit"},
+	{"value":"forest plan"},
+	{"value":"optimality loss"},
+	{"value":"dominated species"},
+	{"value":"errornous inventory data"},
+	{"value":"valtalajit"},
+	{"value":"dominant species"},
+	{"value":"forest mensuration"},
+	{"value":"forest management"},
+	{"value":"dominated tree species"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"metsäninventointi"},
+	{"value":"mittausvirheet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001523",
+	"dct:identifier":"FI2016001523",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

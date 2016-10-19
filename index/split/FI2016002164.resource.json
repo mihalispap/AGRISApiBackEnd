@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Alternative forest management strategies under climatic change - prospects for gap model applications in risk analyses.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lindner, Marcus.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lasch, Petra.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Erhard, Markus.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"climatic change"},
+	{"value":"ecological succession"},
+	{"value":"adaptation"},
+	{"value":"models"},
+	{"value":"strategia"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"forest management"},
+	{"value":"mallit"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"metsätalous"},
+	{"value":"metsänhoito"},
+	{"value":"Germany"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002164",
+	"dct:identifier":"FI2016002164",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

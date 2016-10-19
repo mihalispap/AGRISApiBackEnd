@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"FTIR spectroscopic prediction of Klason and acid soluble lignin variation in Norway spruce cutting clones /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Raiskila, Sanni.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pulkkinen, Minna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laakso, Tapio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fagerstedt, Kurt.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Löijä, Mia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mahlberg, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Paajanen, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ritschkoff, Anne-Christine.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saranpää, Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pitoisuus"},
+	{"value":"kuusi"},
+	{"value":"lignin"},
+	{"value":"spectrometry"},
+	{"value":"Norway spruce"},
+	{"value":"FTIR"},
+	{"value":"ligniini"},
+	{"value":"lignins"},
+	{"value":"growth rings"},
+	{"value":"PCR"},
+	{"value":"principal component regression"},
+	{"value":"Picea abies"},
+	{"value":"menetelmät"},
+	{"value":"spektroskopia"},
+	{"value":"vuosilustot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000328",
+	"dct:identifier":"FI2016000328",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

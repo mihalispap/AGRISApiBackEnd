@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of amino acids and amino acid analogues on the in vitro expression of glyphosate tolerance in Johnsongrass (Sorghum halepense L. pers.)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kintzios, Spiridon E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Makrygianni, Efrosini (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pistola, Eleni (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Panagiotopoulos, P. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Economou, Garyfallia (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100209",
+	"dct:identifier":"FI2016100209",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In an attempt to investigate whether glyphosate inhibits the shikimate pathway of S. halepense callus cultures, we tested the effects of phenylalanine and tyrosine on the reversal of the in vitro herbicide activity on two different S. halepense biotypes. Furthermore, we investigated whether the effect of glyphosate addition could be mimicked by p-fluoro-L-phenylalaline (a phenylalanine analogue). Each individual treatment affected a separate part of the amino acid biosynthetic pathway, in a biotype-specific manner, indicating the possible existence of multiple mechanisms for the expression of glyphosate tolerance in vitro. The more tolerant biotype TΦ, seemed to be more sensitive to the inhibition of amino acid biosynthesis than the less tolerant biotype MΦI which demonstrated a high level of callus growth and enzyme activity even during the application of inhibitor compounds. Therefore, in biotype MΦI, cellular mechanisms other than the shikimate pathway may be responsible for the in vitro expressed herbicide tolerance. On the other hand, it is likely that in biotype MΦI one or more components of the amino acid biosynthetic pathway are modified, resulting to an overall improved tolerance of glyphosate in vitro."}
+	}}

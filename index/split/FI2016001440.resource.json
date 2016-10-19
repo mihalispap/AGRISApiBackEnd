@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Frost heaving of Picea abies seedlings as influenced by soil preparation, planting technique, and location alog gap-shelterwood gradients.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Chantal, Michelle de.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rita, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergsten, Urban.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Löfvenius, Mikaell Ottosson.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grip, Harald.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil horizons"},
+	{"value":"astiataimet"},
+	{"value":"kuusi"},
+	{"value":"soil horizon"},
+	{"value":"fixed container"},
+	{"value":"istutussyvyys"},
+	{"value":"planting depth"},
+	{"value":"container planting"},
+	{"value":"mobile container"},
+	{"value":"deep planting"},
+	{"value":"Picea abies"},
+	{"value":"HuMinMix"},
+	{"value":"normal planting"},
+	{"value":"seedlings"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001440",
+	"dct:identifier":"FI2016001440",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

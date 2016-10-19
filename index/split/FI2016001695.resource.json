@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of temperature sum on vitamin C concentration and yield of sea buckthorn (Hippophae rhamnoides) fruit : optimal time of fruit harvest /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Yao, Yingmou.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"lajikekokeet"},
+	{"value":"ascorbic acid"},
+	{"value":"ripening"},
+	{"value":"fruits"},
+	{"value":"crop yield"},
+	{"value":"finland"},
+	{"value":"mathematical models"},
+	{"value":"tyrni"},
+	{"value":"plant breeding"},
+	{"value":"kasvinjalostus"},
+	{"value":"temperature"},
+	{"value":"sato"},
+	{"value":"hippophae"},
+	{"value":"kypsyminen"},
+	{"value":"Hippophae rhamnoides"},
+	{"value":"matemaattiset mallit"},
+	{"value":"genotypes"},
+	{"value":"marjat"},
+	{"value":"C-vitamiini"},
+	{"value":"lämpösumma"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001695",
+	"dct:identifier":"FI2016001695",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

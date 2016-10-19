@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Protective effect of dietary apricot kernel oil supplementation on cholesterol levels and antioxidant status of liver in hypercholesteremic rats.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kutlu, T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Durmaz, G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ates, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Erdogan, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"antioxidants"},
+	{"value":"oleic acid"},
+	{"value":"sunflower oil"},
+	{"value":"tocopherols"},
+	{"value":"enzyme activity"},
+	{"value":"catalase"},
+	{"value":"cholesterol"},
+	{"value":"glutathione peroxidase"},
+	{"value":"plant oils"},
+	{"value":"phytosterols"},
+	{"value":"apricots"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000684",
+	"dct:identifier":"FI2016000684",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

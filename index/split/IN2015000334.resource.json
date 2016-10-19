@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of feeding of Morinda citrifolia fruit juice on growth, production and immunity of Nicobari fowl",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1255,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"desempeno animal",
+	"xml:lang":"esp"
+	},
+	{"value":"andaman and nicobar islands",
+	"xml:lang":"eng"
+	},
+	{"value":"performance animale",
+	"xml:lang":"fre"
+	},
+	{"value":"gallina de guinea",
+	"xml:lang":"esp"
+	},
+	{"value":"islas de andaman y nicobar",
+	"xml:lang":"esp"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"pintade",
+	"xml:lang":"fre"
+	},
+	{"value":"guinea fowl",
+	"xml:lang":"eng"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"animal performance",
+	"xml:lang":"eng"
+	},
+	{"value":"iles andaman et nicobar",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1258,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000334",
+	"dct:identifier":"IN2015000334",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jai Sunder"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kundu, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, D.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jeyakumar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Srivastava, R.C."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"Effect of feeding of Morinda citrifolia fruit juice on the growth, production and immune response of Nicobari fowl was conducted. Fresh Morinda citrifolia fruit juice was given @ 1.5 ml/bird/day to group 1 (morinda fed group) and group 2 was kept as control. The average adult body weight of male bird was highest in group 1 (1864Â±89.22 g) than in control (1748.5Â±83.22 g). The average FCR value was observed best in group 1 than in control group. The peak hen day egg production of 95.24% was achieved in group 1 while in the control group the peak production was observed in the 11 week with a value of 83.11%. Highest dressing % was obtained in the group 1 (69.05%) than in control (68.38%). The humoral immune response revealed the appearance of antibody in all the groups at first week of post immunizationof goat RBC. The in-vivo cell mediated immune response to PHA-P (phytohaemagglutinin) was observed more in the group 1 (2.8Â±0.02) than in control (1.37Â±0.18). Based on the finding of the present study it is concluded that feeding of Morinda citrifolia @ 1.5 ml/bird /day enhanced growth, production and immune response in Nicobari fowl.",
+	"xml:lang":"eng"
+	}
+	}}

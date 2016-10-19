@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1073",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sánchez-Gómez, Pedro,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jiménez, Juan F,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vera, Juan B,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sánchez-Saorín, Francisco J,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Martínez, Juan F,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Buhagiar, Joseph,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Genetic structure of Tetraclinis articulata, an endangered conifer of the western Mediterranean basin.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"ISSR markers"},
+	{"value":"biodiversity conservation"},
+	{"value":"genetic differences"},
+	{"value":"conservation"},
+	{"value":"perinnöllisyystiede"},
+	{"value":"luonnonsuojelu"},
+	{"value":"genetic diversity"},
+	{"value":"geneettinen muuntelu"},
+	{"value":"metsiensuojelu"},
+	{"value":"genetic differentiation"}
+	],
+	"bibo:doi":"10.14214/sf.1073",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000929",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000929",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

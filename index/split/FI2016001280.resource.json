@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/5006/4539",
+	"dct:language":"eng",
+	"dct:title":{"value":"Root colonization with arbuscular mycorrhizal fungi and glomalin-related soil protein (GRSP) concentration in hypoxic soils in natural CO₂ springs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Maček, Irena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kastelec, Damijana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vodnik, Dominik.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mykorritsasienet"},
+	{"value":"mykorritsa"},
+	{"value":"gases"},
+	{"value":"carbon dioxide"},
+	{"value":"maaperä"},
+	{"value":"soil fungi"},
+	{"value":"hiilidioksidi"},
+	{"value":"root colonization"},
+	{"value":"anoxia"},
+	{"value":"kaasut"},
+	{"value":"mycorrhizae"},
+	{"value":"microorganisms"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001280",
+	"dct:identifier":"FI2016001280",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

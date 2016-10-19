@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of ammonium ferric hexacyanoferrate on reducing radiocaesium transfer from grass silage to sheep.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Paasikallio, Arja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sormunen-Cristian, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jaakkola, Seija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kaikkonen, Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pitoisuus"},
+	{"value":"lampaanliha"},
+	{"value":"feeds"},
+	{"value":"preussinsininen"},
+	{"value":"rehut"},
+	{"value":"liha"},
+	{"value":"säilörehu"},
+	{"value":"ruokintakokeet"},
+	{"value":"märehtijät"},
+	{"value":"ammonium-rauta-heksasyanoferraatti"},
+	{"value":"lamb meat"},
+	{"value":"sorkkaeläimet"},
+	{"value":"radioactive pollutants"},
+	{"value":"cesium"},
+	{"value":"caesium"},
+	{"value":"radioaktiiviset aineet"},
+	{"value":"meat"},
+	{"value":"lambs"},
+	{"value":"radioisotopes"},
+	{"value":"sheep"},
+	{"value":"ruminants"},
+	{"value":"lammas"},
+	{"value":"silage"},
+	{"value":"AFCF"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000112",
+	"dct:identifier":"FI2016000112",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

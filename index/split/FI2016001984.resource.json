@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Mounding and scalping prior to reforestation of hydrologically sensitive deep-peated sites : factors behind Scots pine regeneration success.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pearson, Meeri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saarinen, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Minkkinen, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Silvan, Niko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laine, Jukka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Peatland forest regeneration"},
+	{"value":"moisture content"},
+	{"value":"peatlands"},
+	{"value":"degradation"},
+	{"value":"regeneration"},
+	{"value":"mound"},
+	{"value":"Pinus sylvestris"},
+	{"value":"reforestation"},
+	{"value":"soil preparation"},
+	{"value":"cultivation"},
+	{"value":"organic matter"},
+	{"value":"excess moisture"},
+	{"value":"scalp"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001984",
+	"dct:identifier":"FI2016001984",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

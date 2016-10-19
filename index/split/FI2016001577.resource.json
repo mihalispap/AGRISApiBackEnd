@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Calculation of wood volume and stem taper using terrestrial single-image close-range photogrammetry and contemporary software tools.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Dean, Christopher.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kuvankäsittely"},
+	{"value":"kapeneminen"},
+	{"value":"biomass"},
+	{"value":"photography"},
+	{"value":"oksat"},
+	{"value":"valokuvaus"},
+	{"value":"tilavuus"},
+	{"value":"image processing"},
+	{"value":"puut"},
+	{"value":"biomassa"},
+	{"value":"volume"},
+	{"value":"runko"},
+	{"value":"digitaalinen tallennus"},
+	{"value":"trees"},
+	{"value":"stems"},
+	{"value":"branches"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001577",
+	"dct:identifier":"FI2016001577",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

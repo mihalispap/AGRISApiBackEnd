@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro antifungal activity of plant extracts on Saprolegnia parasitica from cutaneous lesions of rainbow trout (Oncorhynchus mykiss) eggs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pirbalouti, A. G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Taheri, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Raisee, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bahrami, H. R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abdizadeh, R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant extracts"},
+	{"value":"drug plants"},
+	{"value":"essential oils"},
+	{"value":"in vitro"},
+	{"value":"Oncorhynchus mykiss"},
+	{"value":"antimicrobial properties"},
+	{"value":"Saprolegnia"},
+	{"value":"pathogens"},
+	{"value":"medicinal properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001958",
+	"dct:identifier":"FI2016001958",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

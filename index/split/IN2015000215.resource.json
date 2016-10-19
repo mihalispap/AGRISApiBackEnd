@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Management of Lepidopteran pests of Groundnut through organic sources of nutrients",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":37,
+	"dc:subject":[
+		{"value":"arachis hypogaea",
+	"xml:lang":"esp"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"spodoptera litura",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":41,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000215",
+	"dct:identifier":"IN2015000215",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Baskaran, R.K. Murali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajavel, D.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Groundnut plots receiving vermicompost (2 t/ha) + neem cake (250 kg/ha) + bio-fertilizers (2 kg/ha) + NPK (8.5:34:54 kg/ha) had significantly less incidence of lepidopteran pests, recording the overall mean leaf damage of 13.3% with a reduction from full dose of NPK of 49.6% for leafminer (Aproaerema modicella), 13.0% and a reduction of 41.4 % for tobacco caterpillar (Spodoptera litura) and 10.1% and a reduction of 43.8% for gram pod borer (Helicoverpa armigera) while it was 26.4, 22.2 and 18.0% in full dose of NPK. Yield in treatment was the highest of 1748 kg wet pods/ha while it was 1560 kg wet pods/ha in full dose of NPK and 987 kg wet pods/ha in untreated check.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,18 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"GIS application for forest management in drylands of Pakistan"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911303",
+	"dct:identifier":"US201300911303",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/e5.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Ahmad, Farooq (author)"
+	}
+	},
+	"bibo:abstract":{"value":"Pakistan is a sub-tropical country with vast semi-arid and arid tracts of land spread over 68 million hectares. Total forest is defined as land with tree crown cover of more than 10 per cent of the ground and area of more than 0.5 hectares. In the case of the sub-tropical region, inventory information is supplemented by a remote sensing survey. If only limited or out-dated inventory data are available, combinations of linear projections and expert opinion techniques were applied to fill in data gaps. GIS connects people and their interests; it can be used most efficiently and effectively for the analysis of large-scale spatial data sets. It facilitates cooperative approaches, and with the integration of GIS, there will be a whole new framework for organizations and society to work together and make decisions. Adoption of GIS technologies for forest management started at the beginning of the 1990’s. This paper summarizes a set of GIS applications for forest management, which were designed and can be implemented in the drylands of Pakistan. The main focus is given to description of application-specific needs and its accomplishment using GIS technologies."}
+	}}

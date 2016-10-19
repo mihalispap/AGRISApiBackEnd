@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of variety, wine style, vintage and viticultural area on selected chemical parameters of Canadian Icewine"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869565",
+	"dct:identifier":"US201300869565",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/f19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Soleas, George J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pickering, Gary J. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Icewine is a premium Canadian product made from grapes that have been allowed to freeze naturally on the vine. When pressed in their frozen state, they yield juice and finally wine highly concentrated in sugar and flavour compounds. This study surveyed a comprehensive range of Icewines (348) and reports on their chemical composition and how this is mediated by variety (Vidal, Riesling, Gewurztraminer, Chardonnay, Cabernet Franc and Cabernet Sauvignon), vintage (2000-2004), province-of-origin (Ontario, British Columbia and Nova Scotia) and style (‘standard’, sparkling and oaked). In addition, data on icewine juice ºBrix (JB) was collected where possible, and related to wine composition. Wines from British Columbia had the highest residual sugar (RS) and those from Nova Scotia the lowest,while free SO2, total SO2 and sorbic acid also differed between provinces. Vintage was a source of variation for JB, RS and sorbic acid (SA). Grape variety influenced JB and volatile acidity (VA), and VA and SA varied with wine style. A number of analytes were positively correlated, including JB, VA and RS. We conclude there is stylistic divergence between the provinces and that Icewine is a complex and heterogeneous wine style."}
+	}}

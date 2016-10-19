@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A simple protein extraction method for proteomic studies on olive leaves"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188472",
+	"dct:identifier":"FI2007188472",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a22.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Malik, Nasir S. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bradford, Joe M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Researchers have encountered difficulties in extracting proteins from olive leaves because of the high content of interfering compounds in this tissue. Recently, after testing several methods, a phenol-SDS method was devised to extract proteins from olive leaves for proteomic studies. This method is tricky and the use of phenol, a very corrosive agent, requires careful handling. We therefore tested the phenol-SDS method along with a slightly modified standard method that gave equal, or better, results on two dimensional electrophoresis gels. This simpler and more convenient method of protein extraction from olive leaves is described here."}
+	}}

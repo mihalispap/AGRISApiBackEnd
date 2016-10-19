@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/rn2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Steviol quantification at the picomol level by High-Performance Liquid Chromatography"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"J.Y. Minne, Veerle (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Compernolle, Frans (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toppet, Suzanne (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"M.C. Geuns, Jan (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100449",
+	"dct:identifier":"FI2016100449",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"An accurate and sensitive measurement of steviol – the aglycon of stevioside – is a prerequisite in the assessment of the metabolism of stevioside. The present paper reports on the development of a sensitive method for the quantification of steviol in biological samples."}
+	}}

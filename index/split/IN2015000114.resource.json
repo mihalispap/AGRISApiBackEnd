@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathological and molecular diagnosis of naturally occurring inclusion body hepatitis-hydropericardium syndrome in broiler chickens.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":212,
+	"dc:subject":[
+		{"value":"diagnostico",
+	"xml:lang":"esp"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"symptome",
+	"xml:lang":"fre"
+	},
+	{"value":"sintomas",
+	"xml:lang":"esp"
+	},
+	{"value":"pathology",
+	"xml:lang":"eng"
+	},
+	{"value":"pathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"patologia",
+	"xml:lang":"esp"
+	},
+	{"value":"hepatitis",
+	"xml:lang":"esp"
+	},
+	{"value":"diagnosis",
+	"xml:lang":"eng"
+	},
+	{"value":"symptoms",
+	"xml:lang":"eng"
+	},
+	{"value":"hepatite",
+	"xml:lang":"fre"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"diagnostic",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":216,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000114",
+	"dct:identifier":"IN2015000114",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thakor, K.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dave, C.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fefar, D.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jivani,  B.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prajapati, KS."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Natural cases of inclusion body hepatitis were noticed in broilers of 2-4 weeks of age around Anand district of Gujarat state. There was 2.75-11.66% varying mortality in birds died due to inclusion body hepatitis-hydropericardium syndrome in different poultry farms. During the post mortem examination, grossly liver was found enlarged and mottled with few necrotic foci. Hydropericardium was observed in all most all the cases. In some cases there was pericardial hemorrhages. Microscopically examination revealed basophilic, eosinophilic, intranuclear inclusion body in affected hepatocytes. Avian adeno virus was also isolated from liver samples collected in 20%glycerol saline of two naturally infected broiler chicken farms. Testing of the liver samples yielded expected size product of 890 bp. PCR products of both samples were subjected to DNA sequencing and the phylogenetic analysis revealed different matching percentages ranging from 94-95% with other fowl adenoviruses. Both of the viral isolates were found to group with Fowl adenovirus 12strain 380 and Fowl adenovirus 11 strain C2B.",
+	"xml:lang":"eng"
+	}
+	}}

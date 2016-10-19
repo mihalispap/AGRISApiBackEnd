@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Sperm Motion Characteristics of Patanwadi Ram Lambs Reared Under Semi-Arid Tropical Environment",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":41,
+	"dc:subject":[
+		{"value":"conservacion del semen",
+	"xml:lang":"esp"
+	},
+	{"value":"conservation du sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"semen",
+	"xml:lang":"esp"
+	},
+	{"value":"semen preservation",
+	"xml:lang":"eng"
+	},
+	{"value":"sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":47,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000183",
+	"dct:identifier":"IN2015000183",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Davendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joshi, Anil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naqvi, S.M.K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Eight Patanwadi ram lambs were raised under intensive management system and were trained for semen collection at a weekly interval from the age of 6 months. Ram lambs were scheduled for semen collection at a weekly interval up to one year of age to assess their potential for semen production and to evaluate objectively their semen quality by computer-aided semen analysis (CASA) technique. The data derived from CASA estimates were subjected to GLM multivariate analysis. The average age of Patanwadi ram lambs at the time of first ejaculation was 199 days (ranging from 181 to 259 days). The body weight of ram lambs was significantly (p0.05) and positively correlated (r ",
+	"xml:lang":"eng"
+	}
+	}}

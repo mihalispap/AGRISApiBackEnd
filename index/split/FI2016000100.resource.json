@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of traffic and fertilization levels on grass yields in northern Norway /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Volden, Birger.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sveistrup, Tore E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jørgensen, Marit.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haraldsen, Trond K.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"soil types"},
+	{"value":"tiivistyminen"},
+	{"value":"condensation"},
+	{"value":"crop yield"},
+	{"value":"lannoitteet"},
+	{"value":"maan rakenne"},
+	{"value":"tracks"},
+	{"value":"sandy soils"},
+	{"value":"soil structure"},
+	{"value":"sato"},
+	{"value":"maaperä"},
+	{"value":"lannoitus"},
+	{"value":"grasslands"},
+	{"value":"peat soils"},
+	{"value":"nurmet"},
+	{"value":"koneet"},
+	{"value":"maalajit"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000100",
+	"dct:identifier":"FI2016000100",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

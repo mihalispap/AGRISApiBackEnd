@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Concepção dos conceitos de tempo e espaço nas visões clássica e moderna da Física",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jefferson José Ximenes "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Robert Saraiva Matos "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00025",
+	"dct:identifier":"BR2015M00025",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Este artigo abordará uma revisão de literatura, a respeito dos conceitos e concepções de tempo e espaço na visão da mecânica newtoniana de Newton e da relatividade de Einstein a partir de pontos de vista e interpretações de diversos autores. Evidenciando a evolução dos pontos de vista clássica para o moderno de tempo e espaço, as fontes consultadas são apresentadas argumentos que contemplam as particularidades de ambas as teorias. Na visão de Newton o espaço seria absoluto permanecendo sempre imóvel e semelhante, e dependendo sempre de observadores inerciais para a validade de suas leis. Enquanto que na visão da relatividade de Einstein surgem profundas mudanças que vem a descartar as concepções de Newton por meio de uma teoria que envolve espaço e tempo para conceituar a gravitação",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

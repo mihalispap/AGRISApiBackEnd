@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficiency of Estonian grain farms in 2000-2004 /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vasiliev, Nikolay.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Astover, Alar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mõtte, Mati.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Noormets, Merrit.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Reintam, Endla.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Roostalu, Hugo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Matveev, Eduard.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"markkinatalous"},
+	{"value":"Estonia"},
+	{"value":"farm size"},
+	{"value":"farms"},
+	{"value":"viljatilat"},
+	{"value":"cereal crops"},
+	{"value":"efficiency"},
+	{"value":"tilakoko"},
+	{"value":"market economies"},
+	{"value":"siirtymätalous"},
+	{"value":"tuottavuus"},
+	{"value":"maatilat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001503",
+	"dct:identifier":"FI2016001503",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

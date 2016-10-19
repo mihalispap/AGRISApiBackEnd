@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Investigation of adsorption kinetics and isotherms of imidacloprid as a pollutant from aqueous solution by adsorption onto industrial granular activated carbon"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876511",
+	"dct:identifier":"US201300876511",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e16.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Daneshvar, Nezamaddin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aber, Soheil (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khani, Ali (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rasoulifard, Mohammad H. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Adsorption of pesticide imidacloprid as an insecticide from aqeous solution onto granular activated carbon (GAC) under different conditions was studied. Kinetics of adsorption was followed by an on-line spectrophotometric analysis system, which consists of UV-spectrophotometer, a designed adsorption cell, peristaltic pump and special glassy reactor. The obtained data were treated according to three various rate models. In all experiments, adsorption process was studied at 25ºC and pH value about 7. Our results showed on the basis of P, in higher concentration of imidacloprid (C0≥25 ppm) and lower amount of GAC (GAC≤2 g) the second order model was the most suitable. Isotherm data were treated according to Langmuir and Freundlich models. The adsorption data at 25ºC were found to fit almost equally well to Langmuir and Freundlich models, but according to complementary criteria, the Freundlich is preferred."}
+	}}

@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The increased problem of oxidation taste in milk : experiences from a field study in Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Barrefors, Peter.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Everitt, Bengt.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ascorbic acid"},
+	{"value":"makuvirheet"},
+	{"value":"fatty acids"},
+	{"value":"vitamiinit"},
+	{"value":"hapettuminen"},
+	{"value":"milk fat"},
+	{"value":"maitorasva"},
+	{"value":"tocopherols"},
+	{"value":"rasvahapot"},
+	{"value":"off flavours"},
+	{"value":"maito"},
+	{"value":"laatu"},
+	{"value":"carotenoids"},
+	{"value":"maku"},
+	{"value":"elintarvikkeiden laatu"},
+	{"value":"koostumus"},
+	{"value":"cow milk"},
+	{"value":"flavour"},
+	{"value":"deterioration"},
+	{"value":"Sweden"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF/NMR-seminar
+    (252 :
+    1995 :
+    Turku)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000550",
+	"dct:identifier":"FI2016000550",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

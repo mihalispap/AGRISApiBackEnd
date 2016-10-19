@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of soil and water management practices on the growth and yield of rice in the forest agro-ecology of Ghana.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Issaka, R. N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Buri, M. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wakatsuki, T.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"Ghana"},
+	{"value":"soil pH"},
+	{"value":"ploughing"},
+	{"value":"agroecosystems"},
+	{"value":"rice"},
+	{"value":"harvest index"},
+	{"value":"varieties"},
+	{"value":"plant developmental stages"},
+	{"value":"crop yield"},
+	{"value":"water management"},
+	{"value":"puddling"},
+	{"value":"vesi"},
+	{"value":"vesihuolto"},
+	{"value":"kasvukunto"},
+	{"value":"maaperä"},
+	{"value":"paddy soils"},
+	{"value":"inflorescences"},
+	{"value":"riisi"},
+	{"value":"water resources"},
+	{"value":"soil management"},
+	{"value":"growth"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000020",
+	"dct:identifier":"FI2016000020",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

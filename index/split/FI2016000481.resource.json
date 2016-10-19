@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutritional status of oil olives grooves grown under dry farming conditions in the North Western Coast of Egypt.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    El-Fouly, M. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    El-Sayed, A. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fawzi, A. F. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shaaban, S. H. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Egypt"},
+	{"value":"nutrients"},
+	{"value":"Olea europaea"},
+	{"value":"soil water content"},
+	{"value":"maaperä"},
+	{"value":"ravinteiden otto"},
+	{"value":"nutrient uptake"},
+	{"value":"ravinteet"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000481",
+	"dct:identifier":"FI2016000481",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

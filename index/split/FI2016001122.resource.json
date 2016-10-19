@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of supply system on the wood paying capability of a kraft pulp mill using Scots pine harvested from first thinnings.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jylhä, Paula.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dahl, Olli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laitila, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kärhä, Kalle.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"massa- ja paperiteollisuus"},
+	{"value":"ensiharvennus"},
+	{"value":"cut to length harvesting"},
+	{"value":"pulp and paper industry"},
+	{"value":"bundling"},
+	{"value":"whole-tree bundling"},
+	{"value":"maksukyky"},
+	{"value":"selective felling"},
+	{"value":"tree length logging"},
+	{"value":"mänty"},
+	{"value":"residual value"},
+	{"value":"integrated wood harvesting"},
+	{"value":"jäännösarvo"},
+	{"value":"whole-tree harvesting"},
+	{"value":"Pinus sylvestris"},
+	{"value":"pulpwood"},
+	{"value":"purchasing"},
+	{"value":"ability"},
+	{"value":"puunkorjuu"},
+	{"value":"puunhankinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001122",
+	"dct:identifier":"FI2016001122",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

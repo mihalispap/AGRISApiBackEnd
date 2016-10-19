@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Bedömning av bekämpningströskeln för jordgubbsviveln.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Tuovinen, Tuomo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"soft fruits"},
+	{"value":"insect control"},
+	{"value":"Finland"},
+	{"value":"forecasting"},
+	{"value":"Anthonomus rubi"},
+	{"value":"tuhohyönteiset"},
+	{"value":"Fragaria ananassa"},
+	{"value":"marjanviljely"},
+	{"value":"vattukärsäkäs"},
+	{"value":"Anthonomus"},
+	{"value":"torjunta"},
+	{"value":"tuhoeläimet"},
+	{"value":"mansikat"},
+	{"value":"fruit crops"},
+	{"value":"pest insects"},
+	{"value":"kynnysarvo"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (254 :
+    1995 :
+    Mariehamn)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000968",
+	"dct:identifier":"FI2016000968",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

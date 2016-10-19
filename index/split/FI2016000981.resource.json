@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Phenolic acids in Albizia bark used as a starter for rice fermentation in Zou preparation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Panmei, Chamgongliu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Singh, P. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gautam, Satyendra.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Variyar, Prasad S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Devi, G. A. Shantibala
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sharma, Arun.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"phenolic acids"},
+	{"value":"Albizia"},
+	{"value":"acids"},
+	{"value":"rice"},
+	{"value":"bark"},
+	{"value":"fermentation"},
+	{"value":"alcoholic beverages"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000981",
+	"dct:identifier":"FI2016000981",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

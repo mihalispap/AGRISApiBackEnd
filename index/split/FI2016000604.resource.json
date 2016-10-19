@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Is azadirachtin useful in the management of the mango stone weevil (Sternochetus mangiferae Fabricus)? /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Verghese, Abraham.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nagaraju, D. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jayanthi, P. D. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vasudev, V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Madhura, H. S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Sternochetus mangiferae"},
+	{"value":"mango stone weevil"},
+	{"value":"torjunta"},
+	{"value":"tuhoeläimet"},
+	{"value":"mangoes"},
+	{"value":"Mangifera indica"},
+	{"value":"azadirachtin"},
+	{"value":"insektisidit"},
+	{"value":"trooppiset hedelmät"},
+	{"value":"mango"},
+	{"value":"botanical pesticides"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000604",
+	"dct:identifier":"FI2016000604",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

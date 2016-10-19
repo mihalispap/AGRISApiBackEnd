@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-48.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The potential role for microbial control of orchard insect pests in sustainable agriculture"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lacey, Lawrence A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shapiro-Ilan, David I. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100397",
+	"dct:identifier":"FI2016100397",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Sustainable agriculture will rely increasingly on alternatives to conventional chemical insecticides for pest management that are environmentally friendly and reduce the amount of human contact with pesticides. Microbial control agents, i.e. insect pathogens, can provide effective control, conserve biodiversity, and serve as alternatives to chemical insecticides under several conditions. Due to their specificity for insects, insect pathogens including viruses, bacteria, fungi and nematodes are ideal candidates for incorporation into integrated pest management strategies in orchards where their effects on other natural enemies will be minimal. There is also excellent potential for combining microbial control with other soft technologies such as mating disruption. Increased use of microbial control will depend on a variety of factors including improvements in the pathogens (virulence, formulation, delivery, etc.) and an increased awareness of their attributes by growers and the general public. In this review we provide an overview of microbial control of the key insect pests of citrus, pome fruits, stone fruits and nuts."}
+	}}

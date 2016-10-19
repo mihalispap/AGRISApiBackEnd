@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Omasal sampling technique in estimation of the site and extent of mineral absorption in dairy cows fed rapeseed and soybean expellers /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tuori, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rinne, Marketta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vanhatalo, Aila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huhtanen, Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"kivennäisaineet"},
+	{"value":"lypsykarja"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"satakerta"},
+	{"value":"omasum"},
+	{"value":"analyysi"},
+	{"value":"mineral metabolism"},
+	{"value":"näytteenotto"},
+	{"value":"rapeseed"},
+	{"value":"lehmät"},
+	{"value":"sulavuus"},
+	{"value":"soybean products"},
+	{"value":"digestion"},
+	{"value":"rumen digestion"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001340",
+	"dct:identifier":"FI2016001340",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of soil scarification and previous N fertilisation on pools of inorganic N in soil after clear-felling of a Pinus sylvestris (L.) stand.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Nohrstedt, Hans-Örjan.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"podzols"},
+	{"value":"mätästys"},
+	{"value":"podsoli"},
+	{"value":"maanmuokkaus"},
+	{"value":"fertilizer application"},
+	{"value":"typpilannoitus"},
+	{"value":"boreaaliset metsät"},
+	{"value":"mänty"},
+	{"value":"nitrogen cycle"},
+	{"value":"mineralisaatio"},
+	{"value":"avohakkuu"},
+	{"value":"Pinus sylvestris"},
+	{"value":"typpi"},
+	{"value":"soil scarification"},
+	{"value":"mineralization"},
+	{"value":"boreal forests"},
+	{"value":"Sweden"},
+	{"value":"laikutus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001344",
+	"dct:identifier":"FI2016001344",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

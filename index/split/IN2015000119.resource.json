@@ -1,0 +1,98 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A report on cerebral micro filariasis and its concurrence with rabies in canines",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":233,
+	"dc:subject":[
+		{"value":"encephale",
+	"xml:lang":"fre"
+	},
+	{"value":"nervous system",
+	"xml:lang":"eng"
+	},
+	{"value":"sistema nervioso",
+	"xml:lang":"esp"
+	},
+	{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"systeme nerveux",
+	"xml:lang":"fre"
+	},
+	{"value":"grasas",
+	"xml:lang":"esp"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	},
+	{"value":"corps gras",
+	"xml:lang":"fre"
+	},
+	{"value":"dirofilaria",
+	"xml:lang":"esp"
+	},
+	{"value":"brain",
+	"xml:lang":"eng"
+	},
+	{"value":"microfiltracion",
+	"xml:lang":"esp"
+	},
+	{"value":"cerebro",
+	"xml:lang":"esp"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	},
+	{"value":"microfiltration",
+	"xml:lang":"fre"
+	},
+	{"value":"rabies",
+	"xml:lang":"eng"
+	},
+	{"value":"fats",
+	"xml:lang":"eng"
+	},
+	{"value":"rage",
+	"xml:lang":"fre"
+	},
+	{"value":"rabia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":235,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000119",
+	"dct:identifier":"IN2015000119",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Divya, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suvaneeth, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vijayan, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kritiga, K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The study reports the identification of microfilariae of the nematode Dirofilaria spp. in the impression smear from brain of rabies suspected dogs.The dogs succumbed to death after exhibiting nervous signs of excitement, restlessness, aggressiveness and unusual biting tendency which lasted for 3 days. The animals were suspected of being infected with rabies and hence diagnostic tests for the same were conducted.Seller'sstaining of the impression smear from hippocampus was done to detect the presence of Negri bodies. The presence of microfilariae of Dirofilariaspp. could be detected in the impression smears taken for Seller's staining as well as for direct Fluorescent Antibody Test.Histopathological examination of brain revealed mild degree of gliosis. The nervous symptoms exhibited by the dog could be attributed to deterioration of brain function, which could be either due to rabies or aberrant migration of the microfilaria to this rare ectopic site.",
+	"xml:lang":"eng"
+	}
+	}}

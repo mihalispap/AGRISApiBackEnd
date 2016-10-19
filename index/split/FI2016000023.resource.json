@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Determining the best sprouting conditions for germination of radish (Raphanus sativus) seeds consumed as vegetables.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gül, Ebru Orhun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Levent, Arin.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"seed germination"},
+	{"value":"Raphanus sativus"},
+	{"value":"perlite"},
+	{"value":"seeds"},
+	{"value":"pots"},
+	{"value":"growing media"},
+	{"value":"sprouting"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000023",
+	"dct:identifier":"FI2016000023",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

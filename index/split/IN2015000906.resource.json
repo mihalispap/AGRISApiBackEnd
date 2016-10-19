@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Checklist of the subfamily plusiinae (Lepidoptera: noctuidae) from India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":229,
+	"dc:subject":[
+		{"value":"lepidoptera",
+	"xml:lang":"esp"
+	},
+	{"value":"noctuidae",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":240,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000906",
+	"dct:identifier":"IN2015000906",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shashank, P. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh L. Roni Kumar"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A checklist to the 25 genera with 59 species of the subfamily Plusiinae Boisduval (Lepidoptera: Noctuidae) from India is given, with details of distribution. The zoogeographic distribution has been analyzed and details included.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,85 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Optimal size experimental plots for the selection of genotypes of bean",
+	"xml:lang":"eng"
+	},
+	{"value":"   Tamanho de parcelas experimentais para a seleção de genótipos na cultura do feijoeiro ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"breeding",
+	"xml:lang":"eng"
+	},
+	{"value":"phaseolus vulgaris",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202126",
+	"dct:identifier":"BR2015202126",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/218/233",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Smiderle Éder"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Botelho Flávia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guilherme Scheila"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arantes Sayonara"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Botelh Rodrigo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arantes Kelte"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso,"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso,"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Lavras"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso,"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso,"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Mato Grosso,"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"A determinação do tamanho da parcela experimental em programas de melhoramento genético é de grande importância para que o experimento possa ser conduzido de maneira precisa. Dessa forma, o objetivo deste trabalho foi verificar o tamanho ótimo da parcela experimental para a cultura do feijoeiro. Foram avaliadas quatro linhagens de feijoeiro: BRS Pérola, BRS Valente, BRS Requinte e BRS Radiante, em duas safras (safrinha e safra de inverno) em 2010 no município deSinop-MT. Os experimentos foram conduzidos no delineamento de blocos ao acaso com três repetições e parcelas compostas por três linhas de dois metros. Utilizou-se o método da Máxima Curvatura para avaliar o tamanho ótimo da parcela experimental. O caráter avaliado foi o pesode grãos produzidos por cada planta. A unidade básica tomada como base de cálculo foi de 15 plantas. Observou-se que o tamanho ótimo da parcela experimental, segundo o método da Máxima Curvatura, não ultrapassou 3m2. O comportamento do coeficiente de variação (CV) foipraticamente constante para todas as cultivares, em ambas as safras. Verificou-se tendência de estabilização do CV(%), a partir de parcelas com tamanho de aproximadamente 7,5 m2.",
+	"xml:lang":"por"
+	},
+	{"value":"The determination of plot size in breeding programs is of great importance for the experiment can be conducted accurately. Thus, the objective of this study was to determine the optimum plot size for the bean crop. We evaluated four bean lines: BRS Pérola, BRS Valente, BRS Requinte and BRS Radiante in two crops (off-season and winter crop) in 2010 in Sinop-MT. The experiments were conducted in a randomized block design with three replications and plots with three rowsof two meters. We used the method of high curvature to evaluate the optimal size of the plot. The character was rated the weight of grain produced per plant. The basic unit used as a basis for calculation was 15 plants. It was observed that the optimal size of the plot, according to the method of Maximum Curvature, did not exceed 3m2. The behavior of the coefficient of variation (CV) was almost constant for all cultivars in both seasons. There was a tendency to stabilize CV (%), from plots of size of approximately 7.5 m2.",
+	"xml:lang":"por"
+	}
+	]
+	}}

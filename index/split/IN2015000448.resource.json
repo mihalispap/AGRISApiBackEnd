@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Milk-enzyme linked immunosorbent assay for serological diagnosis of Brucella melitensis infection in goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":15,
+	"dc:subject":[
+		{"value":"diagnostico",
+	"xml:lang":"esp"
+	},
+	{"value":"test elisa",
+	"xml:lang":"fre"
+	},
+	{"value":"brucella",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"brucella melitensis",
+	"xml:lang":"esp"
+	},
+	{"value":"elisa",
+	"xml:lang":"esp"
+	},
+	{"value":"diagnosis",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"diagnostic",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":19,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000448",
+	"dct:identifier":"IN2015000448",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gupta, V.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pathak, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vihan, V.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The milk- ELISA (m-ELISA) was performed with milk samples (n, 980) taken from organized farms and field goats from northern India. Milk samples were obtained in parallel with serum samples. The assays used B. melitensis recombinant outer membrane protein 31 (OMP31) as antigen. The sensitivity of m-ELISA, serum-ELISA, SAT and RBPT was 95.45%, 90.1%, 54.54% and 68.18% respectively. The specificity of m-ELISA, serum-ELISA, SAT and RBPT was 95.5, 90.9, 77.28 and 81.81% respectively. However, the results obtained with the m-ELISA were in good agreement with those of the serum-ELISA, SAT and RBPT under field and farm conditions. The m-ELISA can be used as an alternative to the serum-ELISA for diagnosing B. melitensis infection in goats.",
+	"xml:lang":"eng"
+	}
+	}}

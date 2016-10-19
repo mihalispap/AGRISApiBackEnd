@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Polyene production of antagonistic Streptomyces species isolated from Sphagnum peat /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Raatikainen, Olavi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuomisto, Jouko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tahvonen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rosenqvist, Heikki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"antibiotics"},
+	{"value":"taimipolte"},
+	{"value":"antagonism"},
+	{"value":"Brassica oleracea var. botrytis"},
+	{"value":"analyysimenetelmät"},
+	{"value":"brassica oleracea botrytis"},
+	{"value":"analytical methods"},
+	{"value":"alternaria"},
+	{"value":"torjuntaeliöt"},
+	{"value":"biological control organisms"},
+	{"value":"kasvitaudit"},
+	{"value":"Alternaria brassicicola"},
+	{"value":"antifungal properties"},
+	{"value":"sienitaudit"},
+	{"value":"kukkakaali"},
+	{"value":"Streptomyces"},
+	{"value":"chemical composition"},
+	{"value":"streptomyces"},
+	{"value":"biologinen torjunta"},
+	{"value":"antibiootit"},
+	{"value":"kemiallinen koostumus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000892",
+	"dct:identifier":"FI2016000892",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

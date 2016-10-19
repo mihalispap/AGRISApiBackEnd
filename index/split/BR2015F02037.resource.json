@@ -1,0 +1,79 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Loin characteristics and carcass cuts in Suffolk lambs finished on pasture and feedlot",
+	"xml:lang":"eng"
+	},
+	{"value":"   Características do lombo e cortes da carcaça de cordeiros Suffolk terminados em pasto e confinamento ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"fats",
+	"xml:lang":"eng"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"weaning",
+	"xml:lang":"eng"
+	},
+	{"value":"tenderness",
+	"xml:lang":"eng"
+	},
+	{"value":"thickness",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02037",
+	"dct:identifier":"BR2015F02037",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1216213704.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"FERNANDES,  M. A. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MONTEIRO,  A. L. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"POLI,  C. H. E. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BARROS,  C. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PRADO,  O. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NATEL,  A. S."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"(3) cordeiros mantidos com suas mães terminados no mesmo pasto recebendo suplementação em creep feeding (1% PV)"},
+	{"value":"(3) lambs kept with their dams and finished on same pasture with supplementation in creep feeding"},
+	{"value":"(4) cordeiros desmamados aos 60 dias e confinados. Os cordeiros foram abatidos quando a média de peso vivo no tratamento atingiu 32-34kg. Após o resfriamento, as carcaças foram divididas longitudinalmente, sendo as meias-carcaças seccionadas em sete regiões: lombo, paleta, perna, costela verdadeira, costela falsa, pescoço e baixos. Sobre o lombo esquerdo tomaram-se as medidas de comprimento e profundidade máxima do músculo e espessura mínima e máxima de gordura. Foi medida a área de olho de lombo e a força de cisalhamento (maciez). Não houve efeito (P>0,05) do sistema de terminação sobre o peso e o rendimento dos principais cortes da carcaça. Cordeiros desmamados e confinados apresentaram (P"},
+	{"value":"(2) lambs kept with their dams and finished on same pasture",
+	"xml:lang":"por"
+	},
+	{"value":"O trabalho avaliou as medidas objetivas do lombo e os pesos e rendimentos dos cortes da carcaça de cordeiros Suffolk terminados em quatro sistemas: (1) cordeiros desmamados aos 60 dias de idade e terminados em pasto"},
+	{"value":"This work evaluated measurements of the loin and weights and yields of carcass cuts of Suffolk lambs finished on four systems: (1) lambs weaned at 60 days of age and finished on pasture",
+	"xml:lang":"eng"
+	},
+	{"value":"(2) cordeiros mantidos com suas mães terminados no mesmo pasto"},
+	{"value":"(4) lambs weaned at 60 days and finished on feedlot. Lambs were slaughtered when average live weight reached 32-34kg. The carcasses were cutted after cooling and the left side was divided in loin, shoulder, leg, false and true ribs, neck and breast. On Longissimus lumborum (loin eye), it were registered maximum width, maximum depth and minimum fat thickness. It were measured loin eye area and shear force. There were no finishing systems effects (P>0.05) for cuts weight and yield. Lambs weaned and finished on feedlot presented higher (P"}
+	]
+	}}

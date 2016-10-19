@@ -1,0 +1,22 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Principais metodologias de ensino de Francês Língua Estrangeira (FLE)",
+	"xml:lang":"por"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Aluana Vilhena Amoras "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00033",
+	"dct:identifier":"BR2015M00033",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"Este trabalho apresenta um histórico das principais metodologias de ensino de FLE",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

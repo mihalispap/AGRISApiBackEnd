@@ -1,0 +1,18 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Phenotypic divergence in the meta-population of the Hourani durum wheat landrace"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300908872",
+	"dct:identifier":"US201300908872",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a20.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Jaradat, A. A. (author)"
+	}
+	},
+	"bibo:abstract":{"value":"The Hourani durum wheat landrace was cultivated for millennia in the Houran plateau of Northern Jordan and Southern Syria. Recently, however, it’s meta-population became highly fragmented due to the introduction of high yielding varieties, new crop rotations and new cropping systems. Its genetic divergence was assessed in 289 populations collected from five villages in each of two eco-geographical regions in each country. Total variation in 15 plant, spike and seed attributes was apportioned among populations (13.5%), among farms (18.3%), among villages (16.5%), among eco-geographical regions (46%) and among countries (5.7%). Percent correct classification of germplasm by village based on discriminant analyses was 71 and 65% in semiarid and arid villages, respectively. This confirms the existence of a highly divergent germplasm in this landrace, with geographical distances among villages being correlated with squared Mahalanobis distances based on all 15 plant, spike and seed attributes (r=0.59; p=0.05)."}
+	}}

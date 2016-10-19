@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Optimization of enzymatic liquefaction of papaya (Carica papaya L.) and jackfruit (Artocarpus heterophyllus Lam.) pulp using response surface methodology /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Chauhan, Attar Singh.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Afroze, Sadia Gul.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ramesh, Mysore Nagaraj Rao.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Avula, Ramesh Yadav.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rekha, Mysore Narayan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ramteke, Ramesh Shyam.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"enzymatic hydrolysis"},
+	{"value":"entsymaattiset menetelmät"},
+	{"value":"Carica papaya"},
+	{"value":"fruit pulps"},
+	{"value":"hedelmäliha"},
+	{"value":"hydrolysis"},
+	{"value":"hedelmät"},
+	{"value":"hydrolyysi"},
+	{"value":"Artocarpus heterophyllus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000365",
+	"dct:identifier":"FI2016000365",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

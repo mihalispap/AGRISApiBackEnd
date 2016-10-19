@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Analysis of seasonal price trend of pineapple in Cross River State, Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Agbogo, Eias A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tiku, N. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bime, M. J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abang, S. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pineapples"},
+	{"value":"plant production"},
+	{"value":"Nigeria"},
+	{"value":"seasonal variation"},
+	{"value":"prices"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000618",
+	"dct:identifier":"FI2016000618",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/rn7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The short-term effects of stevioside on blood pressure and glucose concentrations in healthy subjects"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"H.M. Temme, Elisabeth (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vankeirsbilck, Annelies (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Buyse, Johan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"M.C. Geuns, Jan (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100088",
+	"dct:identifier":"FI2016100088",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Stevioside is a natural plant glycoside isolated from the plant Stevia rebaudiana. It is 300 times sweeter than sugar but contains no calories. Stevioside would therefore be suitable for diets of e.g. diabetic and obese persons. In addition, studies suggested hypotensive and hypoglycemic effects of stevioside when administered in high dosage. This study was undertaken to evaluate the short-term effects on blood pressure, urinary excretion of electrolytes and blood glucose/insulin concentrations, in healthy subjects."}
+	}}

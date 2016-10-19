@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Relation of yields of soybean and maize to sulphur, zinc, and copper status of soils under intensifying cropping systems in the tropical savannas of north-east Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kwari, J. D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kamara, A. Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ekeleme, F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Omoigui, L. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sulphur"},
+	{"value":"zinc"},
+	{"value":"Nigeria"},
+	{"value":"copper"},
+	{"value":"Zea mays"},
+	{"value":"crop yield"},
+	{"value":"micronutrient fertilizers"},
+	{"value":"intensive farming"},
+	{"value":"nutrient deficiencies"},
+	{"value":"fertilizer application"},
+	{"value":"soybeans"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001812",
+	"dct:identifier":"FI2016001812",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

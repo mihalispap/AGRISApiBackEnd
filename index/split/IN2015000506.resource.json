@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biology and population dynamics of Helicoverpa armigera (HÃ¼bner) in Cajanus cajan (L.) Millsp.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":287,
+	"dc:subject":[
+		{"value":"biology",
+	"xml:lang":"eng"
+	},
+	{"value":"biologie",
+	"xml:lang":"fre"
+	},
+	{"value":"cajanus cajan",
+	"xml:lang":"esp"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"biologia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":290,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000506",
+	"dct:identifier":"IN2015000506",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chaitanya, T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sreedevi, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Krishna, T. Murali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasanthi, L."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Laboratory studies on biology of gram pod borer revealed that the mean longevity of the adult was 8.75 Â± 0.52 days. There were five larval instars which took 22.4 Â± 0.04 days to enter into pupal stage. Pupation took place on the sides of the Petri dish and the pupal period lasted for about 9.5 Â± 0.45 days. The life cycle of Helicoverpa armigera was completed in 42.8 Â± 1.46 days. Field studies carried out to observe the incidence of gram pod borer in three cultivars viz., LRG 41, TRG 22 and TRG 38 revealed that the infestation started in second fortnight of November and remained in the field till crop maturity. The peak activity in Tirupati region was observed during last week of December in all the three cultivars. Among the three cultivars, LRG 41 recorded the highest population (1.15 larvae/ plant) as compared to TRG-22 (1.07 larvae/ plant) and TRG-38 (0.56 larva/ plant).",
+	"xml:lang":"eng"
+	}
+	}}

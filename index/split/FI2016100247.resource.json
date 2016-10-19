@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f18.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of gamma-irradiation on the seeds mycoflora of some Egyptian food crops"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rizk, M.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Botros, H.W. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100247",
+	"dct:identifier":"FI2016100247",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Peanut, maize, fenugkreek and coriander seeds were irradiated at different doses of gamma rays (0.0 -7.5) kGy and stored for 3, 6 and 9 months. Increasing the storage period increases the fungal species count in all cultivars. The total microbial numbers were significantly decreased when the doses of gamma irradiation increased. Aspergillus candidus, A. granulosis and Curvularia geniculata were the most sensitive species, tolerated up to 1.5 kGy, while the most resistant were Fusarium moniliforme, F. oxysporum and F. solani, tolerated upto 6.5 kGy. The biomass yield and spore germination were hardly affected by the presence of gamma rays, a response that continued with a larger dose application, where it significantly suppressed the dry weight gain and percentage of germination."}
+	}}

@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of copper supplementation on serum trace mineral status and cholesterol in broiler chickens",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":313,
+	"dc:subject":[
+		{"value":"cholesterol",
+	"xml:lang":"fre"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"colesterol",
+	"xml:lang":"esp"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"mineral content",
+	"xml:lang":"eng"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"teneur en elements mineraux",
+	"xml:lang":"fre"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"contenido mineral",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":314,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000445",
+	"dct:identifier":"IN2015000445",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kulkarni, R.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shrivastava, H.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal, A.B."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The aim of the present study was to see the effect of dietary copper (Cu) on serum trace mineral and cholesterol status in broiler chickens. As the level of Cu was increased in diet a significantly higher Cu with lower iron (Fe) and Manganese (Mn) content in serum was noticed. Further, the chicks fed copper propionate had a significantly higher serum Cu as compared to its counterpart receiving the diet with copper sulphate. The serum Fe content was comparable between two sources of dietary Cu but the serum Mn was significantly higher in copper sulphate than that of copper propionate fed group. The addition of copper sulphate brought significantly higher serum zinc (Zn) as compared to that of copper propionate, whereas the total cholesterol content in serum remains uninfluenced by Cu diets.",
+	"xml:lang":"eng"
+	}
+	}}

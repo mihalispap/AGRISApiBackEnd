@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"High Value Agriculture in Andaman and Nicobar Islands",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":37,
+	"dc:subject":[
+		{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"andaman and nicobar islands",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"islas de andaman y nicobar",
+	"xml:lang":"esp"
+	},
+	{"value":"produccion",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"iles andaman et nicobar",
+	"xml:lang":"fre"
+	},
+	{"value":"production",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lv",
+	"bibo:pageEnd":39,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000560",
+	"dct:identifier":"IN2015000560",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"feb2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pitchammal Bibi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Clerybell D'souza"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mantu Biswas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Salam, M.A"
+	}
+	}
+	],
+	"bibo:issue":10
+	}}

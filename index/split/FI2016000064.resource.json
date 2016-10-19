@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Physical properties of skin, flesh, and kernel of Canarium odontophyllum fruit.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Azrina Azlan
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nurul Nadiah, M. N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zulkhairi Amom
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Amin Ismail
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mass"},
+	{"value":"weight"},
+	{"value":"antioxidants"},
+	{"value":"chemicophysical properties"},
+	{"value":"width"},
+	{"value":"fruits"},
+	{"value":"length"},
+	{"value":"thickness"},
+	{"value":"Canarium"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000064",
+	"dct:identifier":"FI2016000064",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

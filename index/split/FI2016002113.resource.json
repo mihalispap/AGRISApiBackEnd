@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Green-tree retention and life after the beetle : stand structure and small mammals 30 years after salvage harvesting.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sullivan, Thomas P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sullivan, Druscilla S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindgren, Pontus M. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ransome, Douglas B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"green-tree retention"},
+	{"value":"Pinus contorta"},
+	{"value":"biodiversity"},
+	{"value":"thinning"},
+	{"value":"ekologia"},
+	{"value":"small mammals"},
+	{"value":"biodiversiteetti"},
+	{"value":"stand structure"},
+	{"value":"ecological indicators"},
+	{"value":"harvennushakkuut"},
+	{"value":"Dendroctonus ponderosae"},
+	{"value":"Pseudotsuga menziesii"},
+	{"value":"metsät"},
+	{"value":"rakenne"},
+	{"value":"pikkunisäkkäät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002113",
+	"dct:identifier":"FI2016002113",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

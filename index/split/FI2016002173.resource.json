@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/10/4/estimate.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimated metabolizable energy yields of perennial and annual grass swards compared with those of spring barley and oat.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Niemeläinen, Oiva.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kontturi, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jauhiainen, Lauri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nissinen, Oiva.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"rehut"},
+	{"value":"kaura"},
+	{"value":"ruokinta"},
+	{"value":"crop yield"},
+	{"value":"energy value"},
+	{"value":"märehtijät"},
+	{"value":"feed crops"},
+	{"value":"rehuvilja"},
+	{"value":"barley"},
+	{"value":"ohra"},
+	{"value":"forage"},
+	{"value":"herbage crops"},
+	{"value":"quality"},
+	{"value":"energia"},
+	{"value":"rehuarvo"},
+	{"value":"oats"},
+	{"value":"nurmirehut"},
+	{"value":"rehukasvit"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002173",
+	"dct:identifier":"FI2016002173",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

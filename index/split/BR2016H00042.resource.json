@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":"2016-05-24",
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"TESTE DE CONDUTIVIDADE ELÉTRICA PARA DIFERENCIAÇÃO DOS NÍVEIS DE DETERIORAÇÃO DE SEMENTES DE FORRAGEIRAS"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pinto, Adriana Hernandes, Universidade Estadual de Mato Grosso do Sul"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Binotti, Flávio Ferreira da Silva, Universidade Estadual de Mato Grosso do Sul"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza, Hugo Manoel, Universidade Federal de Mato Grosso do Sul"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Batista, Thiago Barbosa, Universidade Estadual Paulista"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gouveia, Geraldo Candido Cabral, Universidade Estadual de Mato Grosso do Sul"
+	}
+	}
+	],
+	"dct:extent":"9-15",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00042",
+	"dct:identifier":"BR2016H00042",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"bibo:abstract":{"value":"O teste de condutividade elétrica destaca-se por gerar respostas rápidas para diferenciação de lotes em diferentes níveis de deterioração. No entanto, necessita-se de novos estudos visando o aprimoramento desta prática para espécies forrageiras, como Brachiaria brizantha e Panicum maximum. O objetivo foi adequar o teste de condutividade elétrica para determinação do nível de deterioração de sementes de B. brizantha cv. MG-5 e de P. maximum cv. Tanzânia. O delineamento experimental foi inteiramente casualizado e os tratamentos dispostos em esquema fatorial 3 x 3, sendo três níveis de deterioração e três períodos de embebição (8, 16 e 24 horas) à 25 ºC, com 6 repetições. Avaliou-se a condutividade elétrica em três volumes de água da solução de embebição (25, 50 e 75 mL) e três quantidades de sementes (25, 50 e 75 sementes). Recomenda-se para Brachiaria brizantha cv. MG-5 a utilização de 25 sementes durante o período de 8 horas nos testes de condutividade elétrica, independentemente da quantidade de solução de embebição. Para Panicum maximum cv. Tanzânia é adequada a utilização de 50 sementes em 25 mL de solução de embebição, independente do período de embebição."},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"REVISTA DE AGRICULTURA NEOTROPICAL"}
+	}
+	}
+	}}

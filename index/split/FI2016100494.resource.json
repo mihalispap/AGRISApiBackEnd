@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Antioxidant activity of tropical fruit jam and marmalade processed with different combinations of peel and flesh in Citrus fruit"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yoshikawa, Hiroyuki (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ogawa, Asako (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fukuhara, Kimiaki (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kondo, Satoru (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100494",
+	"dct:identifier":"FI2016100494",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The antioxidant activities of marmalade with varying combinations of peel and flesh were investigated in three types of Citrus fruit: Satsuma mandarin (Citrus unshiu Marc.), shiranui [(Citrus unshiu Marc × Citrus unshiu Osbeck) × Citrus reticulata Blanco] and navel orange (Citrus sinensis Osbeck). The antioxidant activity was estimated in three ways: according to the superoxide (O2-) -radical scavenging activity, according to the 1-diphenyl-2-picrylhydrazyl (DPPH)-radical scavenging activity and by an assay of the hemolysis of red blood cells. Although the levels of O2- and DPPH IC50 in the peel were lower than those in the flesh, the levels of IC50 for both O2- and DPPH in the marmalade that was composed of only peel (P) were higher than those in the marmalade made with a combination (PFJ) of peel and flesh juice or a combination (PFB) of peel and flesh juice, and the water in which the peel had been boiled (BW). It is possible that the decrease of total ascorbic acid (AsA) and total phenolics in the peel that was boiled in water were caused by the higher IC50. In contrast, O2-  and DPPH IC50 in the PFB and BW marmalade were low. The hemolysis of red blood cells was slowest in BW. These findings indicate that adding BW to marmalade increases the antioxidant activity in marmalade. The antioxidant activity in jam made from tropical fruits including papaya (Carica papaya L.), mango (Mangifera indica L.), guava (Psidium guajava L.) and star fruit (Averrhoa carambola L.) were also examined. O2- and DPPH IC50 were lowest in the guava jam. It is considered that the high AsA and total phenolic concentrations in guava jam are related to the strong antioxidant activity."}
+	}}

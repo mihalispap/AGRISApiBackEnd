@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of alternative roundwood pricing systems - a simulation approach.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"simulointi"},
+	{"value":"price fixing"},
+	{"value":"raakapuu"},
+	{"value":"hinnoittelu"},
+	{"value":"price formation"},
+	{"value":"roundwood"},
+	{"value":"simulation"}
+	],
+	"bibo:doi":"10.14214/sf.1293",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000538",
+	"dct:identifier":"FI2016000538",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1293",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Malinen, Jukka,
+    kirjoittaja
+    Itä-Suomen yliopisto
+    10088
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haring, Mika,
+    kirjoittaja.
+    Itä-Suomen yliopisto
+    10088
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kilpeläinen, Harri,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Verkasalo, Erkki,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	}
+	]
+	}}

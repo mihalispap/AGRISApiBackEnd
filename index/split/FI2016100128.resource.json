@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-94.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of ascorbic acid supplementation on the immune function and laying performance of heat-stressed laying hens"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lin, Hai (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Buyse, Johan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheng, Qingkai (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Xie, Youmei (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Song, Jianlan (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100128",
+	"dct:identifier":"FI2016100128",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The objective of the present study was to determine the effect of supplementation of ascorbic acid (AA) on the immune function and laying performance of hens challenged with heat and immune vaccination. Eight groups of 12 twelve 25 wk of age Hy-line hens each were fed the diets supplemented 0, 175, 350, and 1050 mg AA/kg diet, when exposing to constant 31.5°C environment and vaccinated against Newcastle Disease (NCD) virus or saline. The laying performance, NCD antibody titers and T lymphocyte proportion were determined. AA supplementation had no significant beneficial effect on feed consumption, laying rate, feed efficiency of heat-stressed hens in the both treatments. The positive effect of AA supplementation was only detected on egg weight in NCD group and body weight loss in control group. NCD antibody titers and the proportion of ANAE positive T lymphocytes were significant higher at 350 mg AA/kg diet level than that at 0, 175 and 1050 mg/kg level in the two groups. The results suggest that AA supplementation had a little beneficial effect on laying performance of heat-stressed hens. The immune function of heat-stressed hens was improved by AA supplementation, whether the hens suffered immune stress at the same time or not. The hens vaccinated during high temperature need dietary supplementation of AA to obtain the maximal antibody production."}
+	}}

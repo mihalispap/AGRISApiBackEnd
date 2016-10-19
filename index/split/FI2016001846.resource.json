@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The sensitivity of central European mountain forests to scenarios of climatic change: methodological frame for a large-scale risk assessment.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lexer, Manfred J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hönninger, Karl.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Scheifinger, Helfried.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Matulla, Christoph.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Groll, Nikolaus.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kromp-Kolb, Helga.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"päätöksenteko"},
+	{"value":"climatic change"},
+	{"value":"decision making"},
+	{"value":"ecological succession"},
+	{"value":"vegetation"},
+	{"value":"risk"},
+	{"value":"models"},
+	{"value":"forest management"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"mallit"},
+	{"value":"planning"},
+	{"value":"riskit"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"subalpine forests"},
+	{"value":"valtakunnan metsien inventointi"},
+	{"value":"forest ecology"},
+	{"value":"vuoristometsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001846",
+	"dct:identifier":"FI2016001846",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n1p57.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Fertilizer value of urine in pumpkin (Cucurbita maxima L.) cultivation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pradhan, Surendra K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pitkänen, Susanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heinonen-Tanski, Helvi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hygiene"},
+	{"value":"glukoosi"},
+	{"value":"waste utilization"},
+	{"value":"vihannekset"},
+	{"value":"recycling"},
+	{"value":"organic fertilizers"},
+	{"value":"pumpkins"},
+	{"value":"vegetables"},
+	{"value":"eloperäiset lannoitteet"},
+	{"value":"lannoitteet"},
+	{"value":"fertilizer application"},
+	{"value":"nitrogen"},
+	{"value":"kurpitsa"},
+	{"value":"Cucurbita maxima"},
+	{"value":"sewage sludge"},
+	{"value":"biological wastes"},
+	{"value":"urea"},
+	{"value":"virtsa"},
+	{"value":"lannoitus"},
+	{"value":"glucose"},
+	{"value":"yhdyskuntajätteet"},
+	{"value":"typpi"},
+	{"value":"urban wastes"},
+	{"value":"käymäläjätteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001063",
+	"dct:identifier":"FI2016001063",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

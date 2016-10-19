@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Parameters of semen in natura of boars after the use os selenium shots",
+	"xml:lang":"eng"
+	},
+	{"value":"   Parâmetros do sêmen in natura de cachaços após o uso de selênio injetável ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"antioxidants",
+	"xml:lang":"eng"
+	},
+	{"value":"beef",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"66/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01714",
+	"dct:identifier":"BR2015F01714",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2009-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1276704824.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SILVA,  Daiane M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LIMA,  Daiane"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MURGA, Luis D. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ZANGERÔNIMO, Márcio G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MESQUITA, Simone P."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"A carne suína é a mais consumida mundialmente, sendo assim, é muito importante aumentar a produção das atividades suinícolas podendo ser através da eficiência reprodutiva dos reprodutores machos. O selênio é um constituinte da glutationa peroxidase, a qual protege a membrana dos espermatozóides contra a ação oxidativa dos radicais livres. O objetivo deste trabalho foi avaliar o efeito do selênio injetável sobre os parâmetros seminais in natura de cachaços. Foram utilizados, nos meses de agosto a dezembro de 2007, quatro reprodutores suínos que receberam duas aplicações de selênio injetável. De cada animal, foram coletados 13 ejaculados antes e 13 depois da aplicação de selênio injetável. As médias obtidas com volume, motilidade, aspecto, concentração espermática e total de espermatozóides do sêmen suíno foram submetidas ao teste t para dados emparelhados utilizando o programa estatístico SAS. Não houve diferença significativa para os parâmetros analisados, sendo assim, conclui-se que a utilização de selênio injetável não altera os parâmetros do sêmen in natura de cachaços.",
+	"xml:lang":"por"
+	},
+	{"value":"The swine`s meat is the most consumed worldwide, so it is very important to increase the swine`s production through the reproductive efficiency of breeding males. The selenium is a constituent of glutathione peroxidase, which protects the sperm membrane against free radicals oxidative action. The aim of this study was to evaluate the effect of selenium shots on boars in natura seminal parameters. During the months of August to December 2007, four boars received two selenium shots. From each animal, 13 ejaculates were collected before the application of selenium and 13 after. The average values obtained with volume, motility, aspect, sperm concentration and total of sperm cells of swine semen were subjected to test t for paired data using the SAS statistical program. There was no significant difference for the parameters, therefore, concluded that the use of selenium shots did not alter the parameters of boars semen in natura.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

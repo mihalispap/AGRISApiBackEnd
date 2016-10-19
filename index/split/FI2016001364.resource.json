@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n2p184.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Model prediction of frost tolerance as related to winter survival of wheat in Finnish field trials.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bergjord, Anne
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bonesmo, Helge
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Skjelvåg, Arne Oddvar.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"jää"},
+	{"value":"snow cover"},
+	{"value":"Finland"},
+	{"value":"frost resistance"},
+	{"value":"lumi"},
+	{"value":"winter hardiness"},
+	{"value":"models"},
+	{"value":"Triticum aestivum"},
+	{"value":"lämpötila"},
+	{"value":"talvi"},
+	{"value":"mallit"},
+	{"value":"ice"},
+	{"value":"syysvehnä"},
+	{"value":"talvenkestävyys"},
+	{"value":"winter wheat"},
+	{"value":"lumihome"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001364",
+	"dct:identifier":"FI2016001364",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

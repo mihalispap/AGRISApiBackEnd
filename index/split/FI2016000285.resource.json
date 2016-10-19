@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Naudan valvulaarinen endokardiitti /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sihvo, Elina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hivelä-Koski, Varpu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nurminen, Maija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koski, Perttu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"bacterioses"},
+	{"value":"nauta"},
+	{"value":"lehmä"},
+	{"value":"bakteeritaudit"},
+	{"value":"eläintaudit"},
+	{"value":"cattle"},
+	{"value":"endokardiitti"},
+	{"value":"endocarditis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000285",
+	"dct:identifier":"FI2016000285",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

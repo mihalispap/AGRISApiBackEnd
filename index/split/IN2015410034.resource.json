@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":"03/2-15",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ipekpp.com/admin/upload_files/Report_1_18_Final_1803637742.pdf",
+	"dct:title":{"value":"South-South Technology Transfer - Low Carbon Building Technologies",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Technology and Action for Rural Advancement TARA"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Knowledge Partnership Programme- IPE Global Pvt Ltd"
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nature reserves",
+	"xml:lang":"eng"
+	},
+	{"value":"natural forests",
+	"xml:lang":"eng"
+	},
+	{"value":"natural resources management",
+	"xml:lang":"eng"
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015410034",
+	"dct:identifier":"IN2015410034",
+	"dct:type":"Report",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19704"
+	},
+	"bibo:abstract":{"value":"This report describes processes adopted for the successful transfer of green brick making technology from India to Malawi and captures the holistic approach used."}
+	}}

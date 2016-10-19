@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Survey on the adoption of yam minisett technology in South-Western Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Agbaje, G. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oyegbami, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"planting stock"},
+	{"value":"jamssit"},
+	{"value":"vegetative propagation"},
+	{"value":"Dioscorea"},
+	{"value":"yams"},
+	{"value":"taimet"},
+	{"value":"cuttings"},
+	{"value":"pistokkaat"},
+	{"value":"kasvullinen lisäys"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001969",
+	"dct:identifier":"FI2016001969",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

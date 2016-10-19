@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathogenicity of Meloidogyne incognita on Spinach, Dill soa and Fenugreek, and effect of Trichoderma species",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":143,
+	"dc:subject":[
+		{"value":"meloidogyne incognita",
+	"xml:lang":"esp"
+	},
+	{"value":"hortalizas de hoja",
+	"xml:lang":"esp"
+	},
+	{"value":"trichoderma",
+	"xml:lang":"esp"
+	},
+	{"value":"legume feuille",
+	"xml:lang":"fre"
+	},
+	{"value":"leaf vegetables",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":147,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000242",
+	"dct:identifier":"IN2015000242",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khan, Mujeebur R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rizvi, Tanveer Fatima"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was undertaken to screen some important leafy vegetables viz., spinach, fenugreek and dill soa against Meloidogyne incognita (2000 J2/kg soil) to determine damage potential of the nematode and to evaluate effectiveness of three Trichoderma spp. viz., T. harzianum, T. virens and T. hamatum through seed and soil application against the nematode. All vegetables were found susceptible to M. incognita and order of susceptibility was spinach  dill soa  fenugreek. Seed or soil application of biocontrol agents suppressed the galling, egg mass production and soil population of M. incognita and improved the plant growth of the vegetables. Among Trichoderma spp., T. harzianum provided maximum control of the nematode and subsequent improvement in the plant growth. Soil and seed treatment with T. harzianum significantly suppressed the galling by 16-36% and improved the fresh shoot weight of dill soa (17 &11%), spinach (18 &10%) and fenugreek (20 &12%) over control, respectively. The BCA treatment also caused decline in the soil population of M. incognita by 20-40% at two and four month stage, respectively. Next in effectiveness was T. hamatum and T. virens which suppressed the galling by 16-30 and 14-22% and improved the foliage production by 10-14 and 7-13%, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

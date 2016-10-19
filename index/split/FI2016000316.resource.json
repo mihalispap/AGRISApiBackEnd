@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Sawn timber properties of Scots pine as affected by initial stand density, thinning and pruning : a simulation based approach.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ikonen, Veli-Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kellomäki, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltola, Heli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pystykarsinta"},
+	{"value":"stand density"},
+	{"value":"sahaus"},
+	{"value":"sawing"},
+	{"value":"three-dimensional modeling"},
+	{"value":"varjostus"},
+	{"value":"sawnwood"},
+	{"value":"knots"},
+	{"value":"shading"},
+	{"value":"properties"},
+	{"value":"sahatavara"},
+	{"value":"tiheys"},
+	{"value":"simulation models"},
+	{"value":"oksat"},
+	{"value":"mänty"},
+	{"value":"harvennus"},
+	{"value":"pruning"},
+	{"value":"puusto"},
+	{"value":"Pinus sylvestris"},
+	{"value":"sawing simulator"},
+	{"value":"simulaattorit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000316",
+	"dct:identifier":"FI2016000316",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

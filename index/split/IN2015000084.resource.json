@@ -1,0 +1,107 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic Studies on Productive Traits of Sahiwal and Sahiwal x Jersey Crossbred Cows",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":92,
+	"dc:subject":[
+		{"value":"lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"productos del cruzamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"milk performance",
+	"xml:lang":"eng"
+	},
+	{"value":"lactation duration",
+	"xml:lang":"eng"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"aptitude laitiere",
+	"xml:lang":"fre"
+	},
+	{"value":"heritability",
+	"xml:lang":"eng"
+	},
+	{"value":"duree de la lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"aptitud lechera",
+	"xml:lang":"esp"
+	},
+	{"value":"heredabilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"crossbreds",
+	"xml:lang":"eng"
+	},
+	{"value":"rendimiento lechero",
+	"xml:lang":"esp"
+	},
+	{"value":"produit de croisement",
+	"xml:lang":"fre"
+	},
+	{"value":"rendement laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"heritabilite",
+	"xml:lang":"fre"
+	},
+	{"value":"lactacion",
+	"xml:lang":"esp"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"duracion de la lactancia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":94,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000084",
+	"dct:identifier":"IN2015000084",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hadge, M.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kuralkar, S.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ali, S.Z."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kharkar, K.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sawaimul, A.D."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The data on 194 lactations of Sahiwal cows and 81 lactations of Sahiwal x Jersey crossbred cows of Bull Mother Farm, Wadsa Dist. Gadchiroli (M.S.) spread over a period 19 years (1989 to 2007) were analyzed by least square techniques to study the effect of sire, season of calving and period of calving on lactation milk yield, lactation length and dry period. Least square analysis of variance shows that period of calving was highly significant for lactation milk yield in Sahiwal and Sahiwal x Jersey crossbreed cows however season of calving had non significant effect on all traits in Sahiwal and Sahiwal x Jersey crossbred cows. Sire had highly significant effect on lactation milk yield and lactation length in the Sahiwal x Jersey crossbreed cows. The overall least squares means for lactation milk yield, lactation length and dry period of Sahiwal and Sahiwal x Jersey crossbred cows were 1122.74Â±80.74kg and 1391.38Â±171.51kg; 279.72 Â± 6.55 days and 288.49Â±9.19 days; 247.14Â±33.69 days and 249.72Â±21.36 days, respectively. The moderate to high heritability estimates indicate that they can be improved through selective breeding.",
+	"xml:lang":"eng"
+	}
+	}}

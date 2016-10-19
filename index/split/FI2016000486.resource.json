@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Ravinto, elämäntavat ja luusto.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lamberg-Allardt, Christel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suominen, Harri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"calcium"},
+	{"value":"osteoporoosi"},
+	{"value":"ravinto"},
+	{"value":"luusto"},
+	{"value":"nutrient intake"},
+	{"value":"bones"},
+	{"value":"ravitsemus"},
+	{"value":"elintavat"},
+	{"value":"human nutrition"},
+	{"value":"kalsium"},
+	{"value":"vitamin D"},
+	{"value":"physical activity"},
+	{"value":"D-vitamiini"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000486",
+	"dct:identifier":"FI2016000486",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

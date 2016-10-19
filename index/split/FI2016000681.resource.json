@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of 1-methylcyclopropene (1-MCP) on 'Fuji' apple quality during long-term storage.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Özkaya, Okan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dündar, Ömür.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ethylene"},
+	{"value":"plant growth substances"},
+	{"value":"cold storage"},
+	{"value":"fruits"},
+	{"value":"quality"},
+	{"value":"application rates"},
+	{"value":"weight losses"},
+	{"value":"firmness"},
+	{"value":"apples"},
+	{"value":"chemical composition"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000681",
+	"dct:identifier":"FI2016000681",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

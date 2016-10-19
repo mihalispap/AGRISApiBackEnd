@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e11.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro zygotic embryo germination of Calamus latifolius Roxb. and Calamus tenuis Roxb."},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Meitram, Bharati (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, G. J. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100458",
+	"dct:identifier":"FI2016100458",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A highly economical medium for in vitro zygotic embryo germination of two priority species of rattan (Calamus latifolius Roxb. and Calamus tenuis Roxb.) has been used for the first time. Seedling growth of embryo explants in three different media, namely, Murashige and Skoog medium (MS), woody plant medium (WPM) and Y3 medium supplemented with plant growth regulators (PGRs) was investigated. Embryo explants inoculated onto WPM supplemented with various concentrations of PGRs produced increased seedling growth compared to the other two media used. Benzylaminopurine (BAP), 4.54-8.88 µM, produced higher shoot length when treated singly than in combination with 0.54-5.57 µM α-naphthalene acid (NAA). Root length was found to be highest in 0.54 µM NAA supplemented WPM in both the species. Combination with BAP produced no significant increase in root length. Multiple shoot induction occurred best on WPM supplemented with a combination of 23.25 µM kinetin (Kn) and 2.26 µM 2,4-dichlorophenoxyacetic acid (2,4-D). Complete plantlet development occurred faster in WPM in both the species."}
+	}}

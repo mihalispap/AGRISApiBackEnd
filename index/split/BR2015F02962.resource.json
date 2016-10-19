@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   São Paulo "},
+	{"value":"   Utilização dos parâmetros físico-químicos e redes neurais artificiais na identificação dos méis de abelhas (Apis melllifera L.) produzidos no verão e inverno na microregião de Campos do Jordão ",
+	"xml:lang":"por"
+	},
+	{"value":"Use of physicochemical parameters and neural networksin identification of bee honey (Apis mellifera L.) produced in the summer and winter in the microregion of Campos do Jordão, São Paulo",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"seasons",
+	"xml:lang":"eng"
+	},
+	{"value":"neural networks",
+	"xml:lang":"eng"
+	},
+	{"value":"apiculture",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02962",
+	"dct:identifier":"BR2015F02962",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2010-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1302293693.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BENDINI,   J. N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ORSI,  R. O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BENDINI,  H. N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA,  S. H. M. G."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this work was to typify, through physicochemical parameters, honey from Campos do Jordão’s microrregion, and verify how samples are grouped in accordance with the climatic production seasonality (summer and winter). It were assessed 30 samples of honey from beekeepers located in the cities of Monteiro Lobato, Campos do Jordão, Santo Antonio do Pinhal e São Bento do Sapucaí-SP, regarding both periods of honey production (November to February",
+	"xml:lang":"eng"
+	},
+	{"value":"O presente trabalho teve como objetivo tipificar, com base em parâmetros físico-químicos, o mel proveniente da microrregião de Campos do Jordão e verificar como as amostras de méis se agrupam em função da época de produção (verão e inverno). Foram obtidas 30 amostras de mel fornecidas por apicultores dos quatro municípios da referida microrregião, correspondentes aos dois períodos de colheita de mel: novembro a fevereiro"},
+	{"value":"n = 30). Samples were submitted to physicochemical analysis of total acidity, pH, humidity, water activity, density, aminoacids, ashes, color and electrical conductivity, identifying physicochemical standards of honey samples from both periods of production. Next, we carried out a cluster analysis of data using k-means algorithm, which grouped the samples into two classes (summer and winter). Thus, there was a supervised training of an Artificial Neural Network (ANN) using backpropagation algorithm. According to the analysis, the knowledge gained through the ANN classified the samples with 80% accuracy. It was observed that the ANNs have proved an effective tool to group samples of honey of the region of Campos do Jordao according to their physicochemical characteristics, depending on the different production periods."},
+	{"value":"July to September, during 2007 and 2008",
+	"xml:lang":"por"
+	},
+	{"value":"julho a setembro, durante os anos de 2007 e 2008 (n = 30). Foram realizadas as análises físico-quimicas de acidez total, pH, umidade, atividade de água, densidade, aminoácidos, cinzas, cor e condutividade elétrica, identificando-se os padrões físico-químicos dos méis das duas épocas de produção. Em seguida, procedeu-se uma análise de agrupamento de dados por meio do algoritmo k-médias, que agrupou as amostras em duas classes (verão e inverno). Assim, realizou-se um treinamento supervisionado de uma rede neural artificial (RNA), utilizando o algoritmo backpropagation. De acordo com a análise, o conhecimento adquirido por meio das RNAs, classificou as amostras com 80% de acerto. Observou-se que as RNAs se revelaram uma ferramenta eficiente no sentido de agrupar as amostras de mel da microrregião de Campos do Jordão de acordo com suas características físico-químicas, em função dos diferentes períodos de produção."}
+	]
+	}}

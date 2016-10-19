@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Quantitative trait loci for udder conformation and other udder traits in Finnish Ayrshire cattle.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Schulman, Nina F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Viitala, Sirja M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vilkki, Johanna H.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"perinnöllisyys"},
+	{"value":"terveys"},
+	{"value":"lypsykarja"},
+	{"value":"animal health"},
+	{"value":"genes"},
+	{"value":"ominaisuudet"},
+	{"value":"geenit"},
+	{"value":"cows"},
+	{"value":"mammary glands"},
+	{"value":"dairy cattle"},
+	{"value":"lehmät"},
+	{"value":"utare"},
+	{"value":"heritability"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001942",
+	"dct:identifier":"FI2016001942",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

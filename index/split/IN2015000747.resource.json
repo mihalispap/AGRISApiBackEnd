@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of dwarf rootstocks on growth and vigour of popular cashew cultivars",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":428,
+	"dc:subject":[
+		{"value":"grafting success"},
+	{"value":"stionic combination"},
+	{"value":"dwarfs",
+	"xml:lang":"eng"
+	},
+	{"value":"cashews",
+	"xml:lang":"eng"
+	},
+	{"value":"injerto",
+	"xml:lang":"esp"
+	},
+	{"value":"greffage",
+	"xml:lang":"fre"
+	},
+	{"value":"enano",
+	"xml:lang":"esp"
+	},
+	{"value":"portainjertos",
+	"xml:lang":"esp"
+	},
+	{"value":"nain",
+	"xml:lang":"fre"
+	},
+	{"value":"grafting",
+	"xml:lang":"eng"
+	},
+	{"value":"porte greffe",
+	"xml:lang":"fre"
+	},
+	{"value":"anacardo",
+	"xml:lang":"esp"
+	},
+	{"value":"rootstocks",
+	"xml:lang":"eng"
+	},
+	{"value":"noix de cajou",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":432,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000747",
+	"dct:identifier":"IN2015000747",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dinakara Adiga, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kalaivanan, D."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

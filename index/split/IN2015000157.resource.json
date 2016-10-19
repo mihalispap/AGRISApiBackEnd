@@ -1,0 +1,104 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of monensin and anthraquinone supplementation on rumen fermentation and methane mitigation in vitro",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":859,
+	"dc:subject":[
+		{"value":"metano",
+	"xml:lang":"esp"
+	},
+	{"value":"methane",
+	"xml:lang":"fre"
+	},
+	{"value":"anthraquinones",
+	"xml:lang":"eng"
+	},
+	{"value":"fermentation methanique",
+	"xml:lang":"fre"
+	},
+	{"value":"methane fermentation",
+	"xml:lang":"eng"
+	},
+	{"value":"in vitro",
+	"xml:lang":"esp"
+	},
+	{"value":"monensin",
+	"xml:lang":"fre"
+	},
+	{"value":"digestion du rumen",
+	"xml:lang":"fre"
+	},
+	{"value":"rumen digestion",
+	"xml:lang":"eng"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"digestion ruminal",
+	"xml:lang":"esp"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"monensina",
+	"xml:lang":"esp"
+	},
+	{"value":"fermentacion metanica",
+	"xml:lang":"esp"
+	},
+	{"value":"antraquinonas",
+	"xml:lang":"esp"
+	},
+	{"value":"anthraquinone",
+	"xml:lang":"fre"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":863,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000157",
+	"dct:identifier":"IN2015000157",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"aug2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sirohi, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandey, Neha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Madhu Mohini"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Puniya, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kundu, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thube, Harshala"
+	}
+	}
+	],
+	"bibo:issue":8,
+	"bibo:abstract":{"value":"The effects of addition of monensin sodium and anthraquinone on rumen fermentation and methane production with 3 diets having different roughage concentrate ratio (60:40, 50:50, and 40:60), roughage wheat straw and normal farm concentrate (20% CP and 70% TDN) was studied along with 4 levels of monensin sodium i.e. 0, 10, 15 and 20 ppm and of 9,10, anthraquinone i.e. 0, 20, 40 and 80ppm respectively. The effect of these compounds was studied after 24 h incubation (39Â±1Â°C). Monensin and anthraquinone showed positive effect on methane reduction. Microbial biomass yield significantly increased in both treatments in all 3 diets. Similar trend was noticed in ammonia nitrogen. Propionate production increased with the increasing dosage of monensin with decreased A/P ratio. Protozoal population reduced significantly by monensin sodium and anthraquinone supplementation. IVDMD values remained unchanged with monensin whereas anthraquinone supplementation increased it significantly in most of treatment combination.",
+	"xml:lang":"eng"
+	}
+	}}

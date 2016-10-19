@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth and stem quality of mature birches in a combined species and progeny trial.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Viherä-Aarnio, Anneli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Velling, Pirkko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"progeny"},
+	{"value":"paperikoivu"},
+	{"value":"Betula papyrifera"},
+	{"value":"wood properties"},
+	{"value":"plant condition"},
+	{"value":"kasvu"},
+	{"value":"Betula pendula"},
+	{"value":"puun laatu"},
+	{"value":"puuntuotanto"},
+	{"value":"quality"},
+	{"value":"rauduskoivu"},
+	{"value":"Betula pubescens"},
+	{"value":"stems"},
+	{"value":"jälkeläiset"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000441",
+	"dct:identifier":"FI2016000441",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

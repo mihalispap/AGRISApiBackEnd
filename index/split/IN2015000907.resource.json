@@ -1,0 +1,72 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Species abundance of white grubs associated with sugarcane in Uttar Pradesh",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"biodiversite",
+	"xml:lang":"fre"
+	},
+	{"value":"espece",
+	"xml:lang":"fre"
+	},
+	{"value":"sugarcane",
+	"xml:lang":"eng"
+	},
+	{"value":"especies",
+	"xml:lang":"esp"
+	},
+	{"value":"uttar pradesh",
+	"xml:lang":"fre"
+	},
+	{"value":"biodiversity",
+	"xml:lang":"eng"
+	},
+	{"value":"cana de azucar",
+	"xml:lang":"esp"
+	},
+	{"value":"biodiversidad",
+	"xml:lang":"esp"
+	},
+	{"value":"uttar padesh",
+	"xml:lang":"esp"
+	},
+	{"value":"canne a sucre",
+	"xml:lang":"fre"
+	},
+	{"value":"species",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:pageStart":241,
+	"bibo:pageEnd":244,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000907",
+	"dct:identifier":"IN2015000907",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sreedevi K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tyagi Sakshi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma Veena"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Species diversity and abundance of phytophagous Scarabaeidae (Coleoptera) associated with sugarcane was monitored at fortnightly intervals in Amroha district of Uttar Pradesh, during May - July 2013. The collections were made with light traps using black and mercury vapour lamps as light source. Studies revealed that Melolonthinae and Rutelinae were represented with 6 and 7 species under 4 and 2 genera, respectively and Dynastinae was poorly represented with one species. In total, 14 species under 7 genera were attracted to the light traps and seasonal variations in the species diversity and abundance were observed. Whittaker rank abundance curve depicted the presence of Holotrichia nagpurensis Khan and Ghai, Lepidiota mansueta Burmeister followed by Anomala dimidiata (Hope) and Maladera insanabilis (Brenske) as common species.",
+	"xml:lang":"eng"
+	}
+	}}

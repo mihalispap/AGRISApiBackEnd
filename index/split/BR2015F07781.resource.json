@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Classificação e tipificação de carcaças bovinas na região oeste da Bahia em duas épocas do ano ",
+	"xml:lang":"por"
+	},
+	{"value":"Classification and grading of beef carcasses from the western region of Bahia during two seasons of the year",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic improvement",
+	"xml:lang":"eng"
+	},
+	{"value":"weighing",
+	"xml:lang":"eng"
+	},
+	{"value":"slaughter value",
+	"xml:lang":"eng"
+	},
+	{"value":"maturity",
+	"xml:lang":"eng"
+	},
+	{"value":"production location",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F07781",
+	"dct:identifier":"BR2015F07781",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1435342498.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"QUADROS, D. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PAES, B. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"VIEIRA, G. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ANDRADE, A. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ARAÚJO, J. A. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"AZEVEDO, P. S."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"32% had a low fat cover (score ≤ 2) in the dry season and 52% in the rainy season. Prolonged drought affected the results. The conformation data indicated more than 90% of the carcasses to be rectilinear, subconvex and convex and most of them weighed less than 240 kg, the minimum weight recommended by cold storage facilities. Sixty-four percent of the carcass analyzed were graded as letter “I”, the penultimate score of the official system (B-R-A-S-I-L). Regardless of the season of the year, cattle slaughtered in the western region of Bahia resulted in low-quality carcasses due to the high degree of maturity, inadequate conformation and finishing, and low weight of the animals. Genetic improvement and adequate management are necessary to produce high-quality carcasses.",
+	"xml:lang":"por"
+	},
+	{"value":"O resultado final de sistemas de produção de gado de corte é verificado nas carcaças. No Brasil, entretanto, é raro o frigorífico que separa os produtos conforme a qualidade, principalmente na região Nordeste. Objetivou-se com este trabalho avaliar as carcaças bovinas na região oeste da Bahia em duas épocas distintas do ano (chuvosa e seca) de acordo com o Sistema Nacional de Tipificação de Carcaças Bovinas (SNTCB). As avaliações foram realizadas em frigorífico sob Serviço de Inspeção Federal (SIF), em Barreiras, Bahia. Foram amostradas 1.000 carcaças, metade no período seco (agosto) e o restante no período chuvoso (dezembro). Os dados foram submetidos à análise estatística descritiva, obtendo-se média e erro padrão de cada variável-resposta. A época do ano não influenciou o abate em relação ao gênero dos animais, havendo equilíbrio entre machos inteiros (44%) e fêmeas (42%), com pouca participação de machos castrados (14%). O grau de maturidade dos animais abatidos foi elevado, sendo que cerca de 70% possuía acima de quatro dentes incisivos permanentes. As carcaças variaram quanto ao acabamento entre escores 2 e 4, sendo que 32% apresentaram cobertura de gordura escassa (escore ≤ 2) na época seca e 52% na época chuvosa. A estiagem prolongada afetou os resultados. Os dados de conformação indicaram mais de 90% das carcaças analisadas como retilíneas, sub-convexas e convexas, sendo que a maior parte delas pesou menos de 16@, peso mínimo recomendado pelo frigorífico. Foram tipificadas pela letra “I” 64% das carcaças analisadas, penúltima escala qualitativa no sistema oficial (B-R-A-S-I-L). Independente da época do ano, os bovinos abatidos na região oeste da Bahia resultaram em carcaças com reduzido padrão de qualidade em virtude do elevado grau de maturidade, conformação e acabamento inadequados e baixo peso. Melhoramento genético e manejo apropriado são necessários para a produção de carcaças de mais alto padrão de qualidade."},
+	{"value":"The final result of beef cattle production systems is verified in carcasses. However, in Brazil the cold storage facility rarely separates the products according to quality, especially in the northeastern region of the country. The objective of this study was to evaluate beef carcasses from the western region of Bahia during two seasons (rainy and dry) of the year according to the National Beef Carcass Grading System (Sistema Nacional de Tipificação de Carcaças Bovinas - SNTCB). The evaluations were performed at a cold storage facility in Barreiras, Bahia, which is monitored by the Federal Inspections Service (Serviço de Inspeção Federal - SIF). A total of 1,000 carcasses, half during the dry season (August) and the other half during the rainy season (December), were sampled. Descriptive statistics was used for data analysis and the mean and standard error of each response variable were obtained. The season of the year did not influence the sex of the animals slaughtered, with a balance between intact males (44%) and females (42%) and little participation of castrated males (14%). The degree of maturity of the slaughtered animals was high, with about 70% of the animals possessing more than four permanent incisors. The carcasses varied in terms of finishing from scores 2 to 4",
+	"xml:lang":"eng"
+	}
+	]
+	}}

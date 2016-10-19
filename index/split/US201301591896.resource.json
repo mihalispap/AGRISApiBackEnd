@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Changes in chlorophyll content and fluorescence of leaves of winter rapeseed affected by seedling vigor and cold acclimation duration"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591896",
+	"dct:identifier":"US201301591896",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a3.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ghassemi-Golezani, Kazem (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khomari, Saeid (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Valizadeh, Mustafa (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alyari, Houshang (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Cultivation of winter rapeseed (Brassica napus L.) has been increased in the Northwest regions of Iran. Winter frost is one of the major environmental constraint limiting growth and then yield of rapeseed in these regions. Thus, a factorial experiment on the basis of RCB design was conducted under controlled environmental conditions in 2007, to investigate the effects of seed vigor (three vigor levels) and cold acclimation duration (0, 14, 28 and 42 days) on freezing tolerance capability of winter rapeseed. Plant survival at -12°C was significantly decreased with decreasing seed vigor level. Plants produced from the highest vigor seed lot (SV1, control) had the greatest freezing tolerance (61.1% survival), compared with those from other two poor vigor seed lots. Prolonged acclimation duration improved survival of seedlings from both high and low vigor seed lots. Chlorophyll a, b and a+b concentration of seedlings produced from high vigour seed lot (SV1, control) was higher than those of the other two seed lots. Concentration of chlorophyll components was significantly decreased in cold acclimated plants during the acclimation period (P ≤ 0.05). A significant reversible decrease in the maximum quantum yield of the PSII (Fv/Fm) was found in plants of different seed lots during acclimation to low non-freezing temperature. The results clearly suggest that seed vigor can strongly influence freezing tolerance and plant survival in winter oilseed rape, through effects on seedling vigor before frost occurrence."}
+	}}

@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Antioxidant capacity of human plasma and serum as affected by a single dose of a beverage rich in antioxidants : use of three different assay systems /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Böhm, Volker.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Netzel, Michael.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kler, Adolf.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marx, Stefan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Weiß, Michael.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Geiß, Kurt-Reiner.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"blood serum"},
+	{"value":"fruit juices"},
+	{"value":"antioxidants"},
+	{"value":"antioksidantit"},
+	{"value":"juomat"},
+	{"value":"blood plasma"},
+	{"value":"analytical methods"},
+	{"value":"beverages"},
+	{"value":"phenolic compounds"},
+	{"value":"analyysi"},
+	{"value":"veri"},
+	{"value":"fenolit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002061",
+	"dct:identifier":"FI2016002061",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

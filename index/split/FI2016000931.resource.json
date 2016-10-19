@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of two pesticides (Vitavax-300 and Gaucho) on rhizobia and on the nodulation of four legumes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Miettinen, Pasi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Echegoyen, Plutarco E.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Arachis hypogaea"},
+	{"value":"insecticides"},
+	{"value":"side effects"},
+	{"value":"biologinen typensidonta"},
+	{"value":"root nodulation"},
+	{"value":"carboxin"},
+	{"value":"nitrogen fixing bacteria"},
+	{"value":"insektisidit"},
+	{"value":"juurinystyrät"},
+	{"value":"palkokasvit"},
+	{"value":"fungisidit"},
+	{"value":"vaikutukset"},
+	{"value":"Rhizobium"},
+	{"value":"Arachis pintoi"},
+	{"value":"captan"},
+	{"value":"torjunta-aineet"},
+	{"value":"Mucuna pruriens"},
+	{"value":"Desmodium ovalifolium"},
+	{"value":"haittavaikutukset"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000931",
+	"dct:identifier":"FI2016000931",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

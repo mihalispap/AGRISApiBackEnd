@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of drying technology on aspen wood properties.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Heräjärvi, Henrik.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"heat treatment"},
+	{"value":"strength"},
+	{"value":"drying"},
+	{"value":"ominaisuudet"},
+	{"value":"stability"},
+	{"value":"wood properties"},
+	{"value":"puunkuivaus"},
+	{"value":"Populus tremula x Populus tremuloides"},
+	{"value":"Populus tremula"},
+	{"value":"modification"},
+	{"value":"hybrids"},
+	{"value":"wood conditioning"},
+	{"value":"puu"},
+	{"value":"Populus tremuloides"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001492",
+	"dct:identifier":"FI2016001492",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

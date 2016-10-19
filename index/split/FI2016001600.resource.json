@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Anticipating the variance of predicted stand volume and timber assortments with respect to stand characteristics and field measurements.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kangas, Annika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maltamo, Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methods"},
+	{"value":"stand characteristics"},
+	{"value":"diameter"},
+	{"value":"puutavaralajit"},
+	{"value":"läpimittajakauma"},
+	{"value":"tilavuus"},
+	{"value":"puusto"},
+	{"value":"kalibrointi"},
+	{"value":"volume"},
+	{"value":"forest mensuration"},
+	{"value":"virheanalyysi"},
+	{"value":"mittausmenetelmät"},
+	{"value":"measurement"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001600",
+	"dct:identifier":"FI2016001600",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

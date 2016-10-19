@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The financial and economic profitability of field afforestation in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Niskanen, Anssi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"plantations"},
+	{"value":"kannattavuus"},
+	{"value":"kustannus-hyötyanalyysi"},
+	{"value":"tulot"},
+	{"value":"istutus"},
+	{"value":"afforestation"},
+	{"value":"tehokkuus"},
+	{"value":"metsitys"},
+	{"value":"cost benefit analysis"},
+	{"value":"efficiency"},
+	{"value":"profitability"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000977",
+	"dct:identifier":"FI2016000977",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

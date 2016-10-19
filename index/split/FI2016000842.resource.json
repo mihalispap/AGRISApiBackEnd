@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Determination of acrylamide levels in selected traditional foodstuffs and drinks in Jordan.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Al-Dmoor, Hani M.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Arab countries"},
+	{"value":"leipä"},
+	{"value":"bakery products"},
+	{"value":"coffee"},
+	{"value":"juomat"},
+	{"value":"beverages"},
+	{"value":"kahvi"},
+	{"value":"karsinogeenit"},
+	{"value":"kuumennus"},
+	{"value":"leipomotuotteet"},
+	{"value":"haitalliset aineet"},
+	{"value":"arabimaat"},
+	{"value":"elintarvikkeet"},
+	{"value":"foods"},
+	{"value":"Jordan"},
+	{"value":"boiling"},
+	{"value":"acrylamide"},
+	{"value":"akryyliamidi"},
+	{"value":"arabica coffee"},
+	{"value":"cocoa beverages"},
+	{"value":"baking"},
+	{"value":"kaakao"},
+	{"value":"cocoa powder"},
+	{"value":"jauhot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000842",
+	"dct:identifier":"FI2016000842",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Geostatistical prediction of clay percentage based on soil survey data.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Talkkari, Ari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jauhiainen, Lauri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yli-Halla, Markku.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"täsmäviljely"},
+	{"value":"soil types"},
+	{"value":"farmland"},
+	{"value":"maalajitteet"},
+	{"value":"models"},
+	{"value":"paikkatietojärjestelmät"},
+	{"value":"viljelymaa"},
+	{"value":"mallintaminen"},
+	{"value":"spatial distribution"},
+	{"value":"maaperä"},
+	{"value":"sampling"},
+	{"value":"clay soils"},
+	{"value":"saves"},
+	{"value":"arable soils"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002111",
+	"dct:identifier":"FI2016002111",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

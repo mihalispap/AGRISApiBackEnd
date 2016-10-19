@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a3.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Determination of optimum harvestable length of shoots in tea (Camellia sinensis L.) based on the current shoot growth, rather than interval plucking"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amiri, M. E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asil, M. Hassanpour (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100145",
+	"dct:identifier":"FI2016100145",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This study was conducted to compare the quantity and quality of black tea (Camellia sinensis clone 100) yield by different manual plucking harvesting. Comparison the plucking method based on three lengths (5, 10 and 15 cm) of current shoot after regular annual pruning, with the standard conventional plucking in three flushing periods (spring, summer and fall) in a Randomized Complete Block Design (RCBD) experiment with four replications under environmental conditions of north of Iran during 2002 to 2003. Parameters including fresh weight of green leaves (as yield), canopy area, soluble and insoluble ash, % tannin, % caffeine, theaflavins (TF), % thearubigins (TR), ratio TR/TF in black tea, total color (TC) and brightness (BR) were measured. Black tea quality factors such as total theaflavins, thearubigins and total colour decreased with course of plucking (i.e., increasing yield quantity), while there was a positive relationship between increasing yield per bush and increasing canopy area of each bush. The highest amount (2420 g bush-1) for green leaves yield and the widest canopy area (7247 cm2 bush-1) were obtained in the 5 cm treatment in spring flush, followed by 10 and 15 cm respectively. The quantity and quality (compounds which contribute to black tea quality) fluctuated by the seasonal growth (spring, summer and fall) and variation of shoot length. The variability in caffeine and tannine was not significant, whereas the variability in TF ranging from 0.89 to 1.8% and for TR ranging from 9.9 to 14.1% for black leaf tea indicated a quality difference among the shoot lengths for plucking in spring flushing. The brightness (BR) in black tea leaf ranged from 21.4 to 24.6% with an average of 24% in spring flushing, and total colour (TC) varied from 4.1 to 5.2% with an average of 4.5%, indicating that brightness, colour and flavor index decreased when TR/TF decreased."}
+	}}

@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of yeast supplementation on feed intake and thermal stress mitigation in buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":961,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"prise alimentaire (animaux)",
+	"xml:lang":"fre"
+	},
+	{"value":"estres termico",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"yeasts",
+	"xml:lang":"eng"
+	},
+	{"value":"levure",
+	"xml:lang":"fre"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"levadura",
+	"xml:lang":"esp"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"stress thermique",
+	"xml:lang":"fre"
+	},
+	{"value":"heat stress",
+	"xml:lang":"eng"
+	},
+	{"value":"feed intake",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"ingestion de piensos",
+	"xml:lang":"esp"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":964,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000172",
+	"dct:identifier":"IN2015000172",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, S.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hooda, O.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Parveen Kumar"
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"Murrah buffaloes (18) divided into 3 groups of 6 animals each. Group 1 served as control, group 2 exposed to heat stress, group 3 exposed to heat stress and supplemented with yeast powder. The animals of heat exposed groups (group 2 and group 3) were kept at 40 Â°C for 4 h daily for 16 days. During the period of heat exposure animal's physiological responses were recorded at every fourth day. Dry matter intake recording and supplementation of yeast started 21 days before heat exposure. Feed intake recording was done daily. Supplementation of yeast resulted into significant increase in DMI of group 3 before thermal exposure and thereafter dropped marginally during heat exposure. DMI decreased significantly in group 2 due to heat stress. Physiological responses (RR, PR and RT) did not differ significantly in all the 3 groups before exposure to thermal stress. On exposing the animals at 40Â°C, RR, PR and RT increased significantly in all the 3 groups compared to beginning of the exposure. RR, PR and RT were significantly higher in groups 2 and 3 compared to group 1. In group 3, RR and PR dropped significantly and RT nonsignificantly compared to group 2, however, the values of all these parameters remained significantly higher compared to group 1. The results indicated that supplementation of yeast prevented decrease in DMI but RR and PR decreased significantly and RT nonsignificantly.",
+	"xml:lang":"eng"
+	}
+	}}

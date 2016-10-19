@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Performance of lactating sows according to parturition order",
+	"xml:lang":"eng"
+	},
+	{"value":"   Desempenho de porcas lactantes em função da ordem de parto ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"piglets",
+	"xml:lang":"eng"
+	},
+	{"value":"culling",
+	"xml:lang":"eng"
+	},
+	{"value":"diarrhoea",
+	"xml:lang":"eng"
+	},
+	{"value":"weaning",
+	"xml:lang":"eng"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"sows",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p62",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00020",
+	"dct:identifier":"BR2016F00020",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p62",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"GARCIA, A. M. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"KIEFER, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SOUZA, K. M. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ROCHA, G. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALENCAR, S. A. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RODRIGUES, G. P."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"3ª a 5ª"},
+	{"value":"Realizou-se o trabalho com o objetivo de avaliar a influência da ordem de parto sobre o desempenho produtivo de porcas lactantes. Foram utilizadas 200 porcas lactantes, distribuídas em delineamento experimental inteiramente casualizado com quatro tratamentos: 1ª e 2ª",
+	"xml:lang":"por"
+	},
+	{"value":"6ª e 7ª"},
+	{"value":"e 8ª a 11ª ordem de parto, com 40, 81, 32 e 47 repetições, respectivamente. A ordem de parto não influenciou (P>0,05) o número de leitões desmamados, peso dos leitões e leitegada ao desmame, ganho de peso dos leitões e leitegada, e mortalidade. Verificou-se maior (P"},
+	{"value":"The objective of this study was to evaluate the influence of parturition order on the productive performance of lactating sows. In a completely randomized design, 200 lactating cows were allocated to four treatments: 1st and 2nd, 3rd to 5th, 6th and 7th and 8th to 11th parturition order, with 40, 81, 32 and 47 repetitions, respectively. The parturition order did not influence (P>0.05) the number of weaned piglets, weight of piglets and litter at weaning, weight gain of piglets and litter, or mortality. A higher (P",
+	"xml:lang":"eng"
+	}
+	]
+	}}

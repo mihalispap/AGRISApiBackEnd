@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Salt content labelling of foods in supermarkets in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Närhinen, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nissinen, Aulikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Penttilä, Pirjo-Liisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Simonen, Olli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cernerud, Lars.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Puska, Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"suola"},
+	{"value":"elintarvikkeet"},
+	{"value":"sodium chloride"},
+	{"value":"foods"},
+	{"value":"pakkausmerkinnät"},
+	{"value":"suolapitoisuus"},
+	{"value":"Finland"},
+	{"value":"product labellings"},
+	{"value":"common salt"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001547",
+	"dct:identifier":"FI2016001547",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

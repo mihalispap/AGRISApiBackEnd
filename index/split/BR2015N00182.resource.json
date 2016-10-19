@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"MANEJO PARTICIPATIVO DOS RECURSOS NATURAIS AMAZÔNICOS - A EXPERIÊNCIA DO PROVÁRZEA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":53,
+	"bibo:volume":5,
+	"bibo:pageEnd":60,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00182",
+	"dct:identifier":"BR2015N00182",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1070",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Marcelo Derzi Vidal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marcelo Bassols Raseira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mauro Luís Ruffino"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"CNPT/ICMBio"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"CEPAM/ICMBio"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"ABCPesca"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><span style=\"font-size: 7.0pt; mso-bidi-font-family: TwCenMT-Regular;\">A partir da década de 1990 a Amazônia tornou-se alvo do desenvolvimento de projetos e pesquisas direcionados para a conservação da natureza. Uma destas iniciativas foi o ProVárzea, projeto vinculado ao PPG7 voltado para o manejo dos ecossistemas de várzea da região central da Bacia Amazônica. O presente estudo analisa os resultados, impactos e lições do apoio do ProVárzea a projetos de manejo participativo dos recursos naturais amazônicos. No período de 2004 a 2007, foram feitas visitas técnicas e realizadas reuniões envolvendo beneficiários, técnicos e coordenadores de cada um dos projetos apoiados. Complementarmente, foram analisados relatórios de implementação de atividades das experiências de manejo desenvolvidas. Ao longo de seis anos, o ProVárzea apoiou técnica e financeiramente 25 projetos, beneficiando 115.486 pessoas em 39 municípios dos estados do Amazonas e Pará, e promovendo o manejo em cerca de 100.000 hectares de ecossistemas terrestres e aquáticos. Os projetos apoiados desenvolveram sistemas inovadores de manejo dos recursos naturais em quatro linhas temáticas - manejo dos recursos pesqueiros, manejo dos recursos florestais, fortalecimento institucional e agropecuária. O modelo de uso e gestão participativa dos recursos naturais praticado pelas instituições e comunidades apoiadas pelo ProVárzea representou uma nova forma de integrar as ações do Estado com a sociedade civil organizada, contribuindo com a sustentabilidade social, econômica e ambiental na Amazônia.</span><p class=\"MsoNormal\" style=\"text-align: justify; mso-layout-grid-align: none; text-autospace: none;\"><strong><span style=\"font-size: 7.0pt; mso-bidi-font-family: \";TwCenMT-Regular\,Bold\";;\">Palavras-chave: </span></strong><span style=\"font-size: 7pt;\">Amazônia, desenvolvimento sustentável, políticas públicas.</span>",
+	"xml:lang":"por"
+	}
+	}}

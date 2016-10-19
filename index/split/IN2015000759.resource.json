@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Price stabilization through stakeholder synergy:the key to revitalize coconut sector",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":20,
+	"dc:subject":[
+		{"value":"technology",
+	"xml:lang":"eng"
+	},
+	{"value":"products",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"price stabilization",
+	"xml:lang":"eng"
+	},
+	{"value":"stabilisation des prix",
+	"xml:lang":"fre"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"estabilizacion de precios",
+	"xml:lang":"esp"
+	},
+	{"value":"productos",
+	"xml:lang":"esp"
+	},
+	{"value":"tecnologia",
+	"xml:lang":"esp"
+	},
+	{"value":"produit",
+	"xml:lang":"fre"
+	},
+	{"value":"technologie",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":23,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000759",
+	"dct:identifier":"IN2015000759",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"mar2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jayasekhar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandran, K.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thamban, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Muralidharan, K."
+	}
+	}
+	],
+	"bibo:issue":11
+	}}

@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Residual stand damage following cut-to-length harvesting operations with a farm tractor in two conifer stands.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Athanassiadis, Dimitris.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"korjuuvauriot"},
+	{"value":"tractors"},
+	{"value":"metsäkoneet"},
+	{"value":"traktorit"},
+	{"value":"harvesting"},
+	{"value":"damage"},
+	{"value":"logging"},
+	{"value":"puunkorjuu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001622",
+	"dct:identifier":"FI2016001622",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

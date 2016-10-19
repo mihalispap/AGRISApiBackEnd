@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of lactation period on fatty acid profile of breast milk"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029168",
+	"dct:identifier":"FI2007029168",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lalude, Lawuyi O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Torimiro, Spencer E. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fashakin, Joseph B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The study compares the fatty acid profiles of breast milk from full-term (FT) and pre-term (PT) infant mothers. Using gas-chromatographic technique, the breast milk secreted during the 1st; and 4th weeks of lactation were used to analyse fatty acid composition. Myristic (C14), palmitic (C16), oleic (C18:1) and linoleic (C18:2) acids were the predominant fatty acids found in both FT and PT milk samples. FT milk, however contained higher percentages of unsaturated fatty acids (C18:1 and C18:2) when compared to PT milk samples (P<0.05). Saturated fatty acids generally decrease as lactation period increases in both PT and FT mothers’ milk. Lactation period was found to have a significant effect on fatty acid profiles of mothers’ milk. The high content of polyunsaturated fatty acids in the mothers’ milk will be of advantage in terms of both energy needed for growth and nervous system development for both the PT and FT."}
+	}}

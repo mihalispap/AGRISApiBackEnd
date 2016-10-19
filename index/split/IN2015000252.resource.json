@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Observations on the Biology and Male of Eucalyptus Gall Wasp Leptocybe Invasa Fisher and La Salle (Hymenoptera: Eulophidae",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":173,
+	"dc:subject":[
+		{"value":"biology",
+	"xml:lang":"eng"
+	},
+	{"value":"biologie",
+	"xml:lang":"fre"
+	},
+	{"value":"eucalyptus",
+	"xml:lang":"esp"
+	},
+	{"value":"hymenoptera",
+	"xml:lang":"esp"
+	},
+	{"value":"eulophidae",
+	"xml:lang":"esp"
+	},
+	{"value":"biologia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":74,
+	"bibo:pageEnd":175,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000252",
+	"dct:identifier":"IN2015000252",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Akhtar, Mir Samim"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patankar, Nitisha V"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gaur, Asha"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Leptocybe invasa Fisher and LaSalle (Hymenoptera: Eulophidae), forms typical bump-shaped galls on the leaf midribs, petioles and stems of new growth of several eucalyptus species. Heavy galling prevents further development of the infested growth. The paper also deals with the gall size variation of Aligarh and Delhi populations, gall development and immature stages of Leptocybe invasa, adult longevity and description of male from India.",
+	"xml:lang":"eng"
+	}
+	}}

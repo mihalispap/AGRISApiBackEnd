@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Phylogenetic analysis of nifH gene sequences from nitrogen-fixing endophytic bacteria associated with the roots of three rice varieties"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025614",
+	"dct:identifier":"FI2005025614",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/e9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Elbeltagy, Adel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ando, Yasuo (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The community structure of nitrogen-fixing endophytic bacteria associated with roots of three varieties, Oryza sativa cv. Sprice and cv. Koshihikari and line NERICA 5 (an interspecific hybrid between O. sativa and O. glaberrima) was analyzed using culture-independent molecular techniques. A segment of nifH gene was amplified from crude rice root DNA, cloned to construct nifH library and sequenced. About 25 clone sequences from each rice root were recovered and their amino acid sequences were compared with those published in DNA Data Bank of Japan (DDBJ). Majority of nifH sequences (79%) of the clones recovered from cv. Sprice were similar to those of unknown and known nitrogen-fixing anaerobes forming cluster (cluster C) distantly related to other nitrogen-fixing bacteria. Moreover, no clone sequences belonging to β- and γ-subdivisions of Proteobacteria (cluster B) were recovered, revealing limited nifH diversity for cv. Sprice root associated community. Although the clone sequences recovered from both cv. Koshihikari and NERICA 5 were belonging to same clusters and dominated mainly by genera belonging to β- and γ-subdivisions of Proteobacteria (cluster B), the composition and occupancy of each cluster were relatively different. However, the clones recovered from line NERICA 5 roots were more enriched with sequences belonging to α-subdivision of Proteobacteria (cluster A) than those of vs. Koshihikari and Sprice. This variability may reveal the impact of plant genotype on community structure of root-associated diazotrophes."}
+	}}

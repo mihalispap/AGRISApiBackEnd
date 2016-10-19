@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Reproductive biology of Faidherbia albida (Del.) A. Chev.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gassama-Dia, Yaye Kène.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sanè, Djibril.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    N'Doye, Mansor.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kukinta"},
+	{"value":"allogamy"},
+	{"value":"flowering"},
+	{"value":"polyad"},
+	{"value":"fruiting"},
+	{"value":"Faidherbia albida"},
+	{"value":"selfing"},
+	{"value":"itsesiitos"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001009",
+	"dct:identifier":"FI2016001009",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

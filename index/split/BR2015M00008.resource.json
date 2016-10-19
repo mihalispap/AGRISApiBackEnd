@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2014,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Porrinha: quando as probabilidades estão além de dados e moedas",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Paulo Guilherme Pinheiro dos Santos "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sâmia Bacelar Pinto "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mônica dos Santos Silva "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00008",
+	"dct:identifier":"BR2015M00008",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"A utilização de jogos que fazem parte do cotidiano dos alunos é muito importante para o interesse e aprendizado de qualquer disciplina. O jogo denominado porrinha foi utilizado com o objetivo de modelar um caso de cálculo das probabilidades. Este trabalho é classificado como ensaio teórico e é mostrado o desenvolvimento da esperança matemática da variável considerada neste jogo, a soma. Alguns resultados para dois, três e quatros jogadores são desenvolvidos. O jogo da porrinha é adequado para criar uma sequência didática para o ensino de probabilidade",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

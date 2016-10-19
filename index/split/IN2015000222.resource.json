@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of Mak All Season Horticulture Mineral Oil against Citrus thrips, Scirtothrips dorsalis Hood and rust mite, Phyllocoptruta oleivora (Ashm.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":65,
+	"dc:subject":[
+		{"value":"phyllocoptruta oleivora",
+	"xml:lang":"esp"
+	},
+	{"value":"horticulture",
+	"xml:lang":"fre"
+	},
+	{"value":"horticultura",
+	"xml:lang":"esp"
+	},
+	{"value":"scirtothrips dorsalis",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":67,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000222",
+	"dct:identifier":"IN2015000222",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rao, C.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shivankar, V.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhengre, V.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deole, Sandnya"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Per cent infestation of Nagpur mandarin fruits by citrus thrips was significantly less at dose 2.5% (6.2% -32.6% infested fruits) than 1.0 %, 0.5 % and 0.1% (11.2 â 65.6% infested fruits) but was on par with the doses 1.5 %, 2.0 % (7.5 â 10.0% infested fruits) during 2009 and 2.0 % (10.12-38.0% infested fruits) during 2010 and 2011. In case of rust mite, % infestation of Nagpur mandarin fruits was significantly less at dose 2.5% (8.1-14.8% infested fruits) than other treatments (20.0 - 55.8% infested fruits) but was on par with the dose 2.0 % (10.3-16.6% infested fruits). As citrus thrips and rust mites occurred together on citrus fruits, a spraying schedule using Mak All Season HMO @ 2.0% to simultaneously control both pests can now be developed based on the present investigation.",
+	"xml:lang":"eng"
+	}
+	}}

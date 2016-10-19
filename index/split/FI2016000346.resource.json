@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Suppressive effect of epigallocatechin gallate (EGCg) on DNA methylation in mice : detection by methylation sensitive restriction endonuclease digestion and PCR.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Yamada, Hidetaka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sugimura, Haruhiko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tsuneyoshi, Toshihiro.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methylation"},
+	{"value":"elintarvikkeet"},
+	{"value":"antioxidants"},
+	{"value":"antioksidantit"},
+	{"value":"neoplasms"},
+	{"value":"DNA"},
+	{"value":"tee"},
+	{"value":"syöpä"},
+	{"value":"EGCg"},
+	{"value":"tea"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000346",
+	"dct:identifier":"FI2016000346",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The regeneration niche of white spruce following fire in the mixedwood boreal forest.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Purdy, Brett G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Macdonald, Ellen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dale, Mark R.T.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"valkokuusi"},
+	{"value":"symbiosis"},
+	{"value":"regeneration"},
+	{"value":"geographical distribution"},
+	{"value":"levinneisyys"},
+	{"value":"mykorritsa"},
+	{"value":"boreal forests"},
+	{"value":"Picea glauca"},
+	{"value":"metsänuudistus"},
+	{"value":"boreaaliset metsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000003",
+	"dct:identifier":"FI2016000003",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

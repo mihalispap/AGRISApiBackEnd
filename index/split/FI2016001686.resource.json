@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutrient concentration of down woody debris in mixedwood forests in central Maine, USA.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Saunders, Mike R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fraver, Shawn.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wagner, Robert G.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"silviculture"},
+	{"value":"USA"},
+	{"value":"softwood"},
+	{"value":"hardwood"},
+	{"value":"biodeterioration"},
+	{"value":"Acadian forest"},
+	{"value":"decay classes"},
+	{"value":"carbon-nitrogen ratios"},
+	{"value":"disturbance-based silviculture"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001686",
+	"dct:identifier":"FI2016001686",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

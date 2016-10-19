@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of spring warming on sowing times of cereal, potato and sugar beet in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kaukoranta, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hakala, Kaija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kevätviljat"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"peruna"},
+	{"value":"kevät"},
+	{"value":"sokerijuurikas"},
+	{"value":"Finland"},
+	{"value":"Solanum tuberosum"},
+	{"value":"climatic change"},
+	{"value":"Beta vulgaris"},
+	{"value":"sugarbeet"},
+	{"value":"sowing date"},
+	{"value":"cereals"},
+	{"value":"kylvöaika"},
+	{"value":"viljakasvit"},
+	{"value":"adaptation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000828",
+	"dct:identifier":"FI2016000828",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Yield potential of chive : effects of cultivar, plastic mulch and fertilisation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Suojala, Terhi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Allium schoenoprasum"},
+	{"value":"sato"},
+	{"value":"ruohosipuli"},
+	{"value":"dry mulches"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"lannoitus"},
+	{"value":"muovikate"},
+	{"value":"crop yield"},
+	{"value":"chives"},
+	{"value":"fertilizer application"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001507",
+	"dct:identifier":"FI2016001507",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

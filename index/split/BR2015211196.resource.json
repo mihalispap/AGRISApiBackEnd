@@ -1,0 +1,87 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Leaf presence and indolebutyric acid on cuttings rooting of dragon tree",
+	"xml:lang":"eng"
+	},
+	{"value":"   Presença de folhas e ácido indol butírico no enraizamento de estacas de quiri ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"vegetative propagation",
+	"xml:lang":"eng"
+	},
+	{"value":"application",
+	"xml:lang":"eng"
+	},
+	{"value":"scrophulariaceae",
+	"xml:lang":"eng"
+	},
+	{"value":"auxins",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"6/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015211196",
+	"dct:identifier":"BR2015211196",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.comunicatascientiae.com.br/comunicata/article/download/755/317",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Stuepp Carlos André"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"-Ribas  Katia C Zuffellato"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wendling  Ivar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Koehler Henrique S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bona Cleusa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná, Curitiba, PR, Brasi"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná, Curitiba, PR, Brasi"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Empresa Brasileira de Pesquisa Agropecuária, Centro Nacional de Pesquisa de Florestas, Colombo, PR, Brasi"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná, Curitiba, PR, Brasi"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná, Curitiba, PR, Brasi"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"the other with the same specifications, with leaves completely removed. After disinfection, base of the cuttings was treated with IBA (0, 500, 1.000, 1.500 and 2.000 mg L-1). Planting was made in tubes of 110 cm³, with medium size vermiculite particles and carbonized rice hull (1:1) and installed in a greenhouse with intermittent mist. After 60 days it was verified thatthe absence of leaves favored the adventitious rooting in all the seasons, with the highest rooting percentage in autumn (12.75%). The application of IBA did not have influence on rooting of any type of cuttings. No anatomical differences were observed between the bases of cuttings collected in the studied seasons.",
+	"xml:lang":"por"
+	},
+	{"value":"Paulownia fortunei (Scrophulariaceae), natural do leste da Ásia, possui ampla distribuição geográfica. Neste trabalho estudou-se a rizogênese de estacas caulinares de quiri com e sem folhas, coletadas em três estações do ano, com a aplicação de ácido indol butírico (AIB), comparando possíveis diferenças anatômicas entre as estações. A partir de brotações do ano coletadas no outono/2011, primavera/2011 e verão/2012, foram confeccionados dois tipos de estacas: com cerca de 10-12 cm de comprimento, corte em bisel na base e reto no ápice, com duas folhas reduzidas a uma superfície de 78,5 cm²"},
+	{"value":"e com as mesmas especificações, sem a presença das folhas. Após desinfestação, a base das estacas foi tratada com AIB (0, 500, 1000, 1500 e 2000 mg L-1). O estaqueamento foi realizado em tubetes de 110 cm³, com vermiculita de granulometria média e casca de arroz carbonizada (1:1) acondicionados em casa de vegetação climatizada. Após 60 dias verificou-se que a ausência de folhas favoreceu o enraizamento das estacas em todas as estações, com o maior enraizamento no outono (12,75%). A aplicação de AIB não influenciou no enraizamento de nenhum dos tipos de estacas. Não foram observadas diferenças anatômicas nas bases das estacas coletadas nas diferentes estações."},
+	{"value":"Paulownia fortunei (Scrophulariaceae), native to East Asia, has a wide geographical distribution. In this work was studied the rooting of Paulownia fortunei cuttings, with and without leaves, collectedin three seasons and treated with the application of indolebutyric acid (IBA). Cuttings were also compared for possible anatomical differences between seasons. Originated from current year shoots in autumn/2011, spring/2011 and summer/2012, two types of cuttings were prepared: oneabout 10-12 cm long, with bevel cut on the base and straight at the apex, with two leaves reduced to an area of 78.5 cm²",
+	"xml:lang":"eng"
+	}
+	]
+	}}

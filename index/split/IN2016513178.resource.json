@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:title":{"value":"Stochastic Modelling of Monthly Rainfall Volume During Monsoon Season over Gangetic West Bengal, India",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"stochastic models",
+	"xml:lang":"eng"
+	},
+	{"value":"rain",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513178",
+	"dct:identifier":"IN2016513178",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=36",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pal Soumen"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mazumdar Debasis"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The aim of the present study is to find suitable probability distributions which describe best the monthly rainfall volume during monsoon (MRM) for each of the thirteen districts which constitute Gangetic West Bengal (GWB) meteorological sub-division of India. For this purpose, 18 continuous probability distributions are employed to examine the fitness of time series data of 113 years (1901-2013). The parameters of the distributions are estimated either by maximum likelihood, moments or L-moments method. Based on goodness of fit (GOF) tests viz., Kolmogorov-Smirnov, Anderson-Darling and Chi-Squared, three separate rankings are given to each of the distributions for all the districts. Further, a method of scoring, based on ranking, has been adopted to pick up the best fitted distribution for each district. Log-Logistic (LL) distribution comes out as the most suitable for five districts whereas, for a particular district, Generalized Extreme Value (GEV) and Pearson 5 (P5) distributions jointly rank first among all the distributions. Individually, P5 explains best the monthly rainfall of two districts while GEV is found to be most suitable for another district. Log-Pearson 3 (LP3), 3-parameter Dagum (D3), 4-parameter Generalized Gamma (GG4) and 3-parameter Generalized Gamma (GG3) are the others which are found to be most candidate distributions for one district each. Finally, MRM, for all the districts, is estimated for different return periods. Probability of occurrences of MRM, at various points of exceedance, has also been calculated.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Potential of local varieties and their hybrids for the improvement of eggplant production in the open field and greenhouse cultivation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Muñoz-Falcón, J. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Prohens, J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rodriguez-Burruezo, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nuez, F.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"greenhouse crops"},
+	{"value":"outdoor cropping"},
+	{"value":"plant genetic resources"},
+	{"value":"hybrids"},
+	{"value":"varieties"},
+	{"value":"crop yield"},
+	{"value":"cultivation"},
+	{"value":"genotypes"},
+	{"value":"Solanum melongena"},
+	{"value":"plant breeding"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001489",
+	"dct:identifier":"FI2016001489",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

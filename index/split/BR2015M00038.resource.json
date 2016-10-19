@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"O teorema de Tales por meio da utilização de maquetes sob a ótica da teoria da aprendizagem significativa: contribuições para o ensino de Matemática",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wanderley Pivatto Brum "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Elcio Schuhmacher "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00038",
+	"dct:identifier":"BR2015M00038",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O trabalho trata-se de uma pesquisa realizada acerca dos conceitos envolvidos no Teorema de Tales com estudantes da oitava série do Ensino Fundamental de uma escola pública do município de Tijucas, Santa Catarina, com duração de duas semanas, visando identificar, a partir das maquetes construídas pelos estudantes, indícios de aprendizagem significativa. O pensamento sobre aprendizagem significativa estudado por Ausubel e seus colaboradores foi o aporte teórico utilizado para reflexões e discussões a partir dos dados coletados. A pesquisa tem caráter qualitativo e as maquetes construídas serviram de análise que aconteceram pela observação e conexões estabelecidas, cujos resultados mostraram uma organização hierárquica dos conceitos, aprendizagem representacional e conceitual, indícios estes de aprendizagem significativa.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

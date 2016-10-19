@@ -1,0 +1,107 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of coconut seedlings to elevated CO2 and high temperature in drought and high nutrient conditions",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":118,
+	"dc:subject":[
+		{"value":"enriquecimiento en gas carbonico",
+	"xml:lang":"esp"
+	},
+	{"value":"water use",
+	"xml:lang":"eng"
+	},
+	{"value":"cambio climatico",
+	"xml:lang":"esp"
+	},
+	{"value":"carbon dioxide enrichment",
+	"xml:lang":"eng"
+	},
+	{"value":"efficacite",
+	"xml:lang":"fre"
+	},
+	{"value":"fotosintesis",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"eficacia",
+	"xml:lang":"esp"
+	},
+	{"value":"photosynthesis",
+	"xml:lang":"eng"
+	},
+	{"value":"changement climatique",
+	"xml:lang":"fre"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"photosynthese",
+	"xml:lang":"fre"
+	},
+	{"value":"utilisation de l'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"uso del agua",
+	"xml:lang":"esp"
+	},
+	{"value":"enrichissement en gaz carbonique",
+	"xml:lang":"fre"
+	},
+	{"value":"climatic change",
+	"xml:lang":"eng"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":122,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000624",
+	"dct:identifier":"IN2015000624",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hebbar, K. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheena, T.L"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shwetha Kumari, K"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Padmanabhan, S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balasimha, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mukesh Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"George V Thomas"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The interaction effect of climate change variables elevated CO2 and elevated temperature (ET) with drought and nutrients on growth and development of coconut seedlings was studied in an open top chamber (OTC) at Central Plantation Crops Research Institute (CPCRI), Kasaragod. Seedlings were exposed to ambient (normal CO2 and temperature), elevated CO2(550 and 700 ppm), ET (3 Â°C above ambient) and ET + elevated CO2 (550 ppm CO2+ 3 Â°C). In each OTC, a set of seedlings were subjected to drought (50% FC) and another set was maintained at 150 per cent recommended dose of fertilizer (RDF). Seedlings in elevated CO2  treatments accumulated significantly higher biomass. It was 1.13 and 1.98 kg seedling-1 with 550 and 700 ppm CO2  respectively as against 1.10 in ambient treatment. It was the least in ET treatment (0.91). The stomatal conductance (gs) and transpiration (Tr) of plants grown under elevated CO2 was reduced without affecting the photosynthesis. As a consequence, the whole plant WUE of coconut seedlings grown under elevated CO2 was high both under control and drought condition. The WUE significantly reduced both in high temperature and drought stressed plants. Elevated CO2 to certain extent compensated for water stress and high temperature induced reduction in growth of coconut.",
+	"xml:lang":"eng"
+	}
+	}}

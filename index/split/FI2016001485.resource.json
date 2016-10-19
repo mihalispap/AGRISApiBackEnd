@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Phylogeographic pattern of Populus cathayana in the southeast of Qinghai-Tibetan Plateau of China revealed by cpSSR markers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peng, Youhong.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chen, Ke.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic differentation"},
+	{"value":"refugees"},
+	{"value":"genetic variation"},
+	{"value":"phylogeography"},
+	{"value":"phylogeny"},
+	{"value":"refugia"},
+	{"value":"Populus cathayana"},
+	{"value":"biogeography"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001485",
+	"dct:identifier":"FI2016001485",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

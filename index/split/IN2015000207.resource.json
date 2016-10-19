@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Biology and predatory potential of green lacewing, Chrysoperla sp. (carnea-group) on different aphid species",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":9,
+	"dc:subject":[
+		{"value":"control biologico",
+	"xml:lang":"esp"
+	},
+	{"value":"predation",
+	"xml:lang":"fre"
+	},
+	{"value":"aphis",
+	"xml:lang":"esp"
+	},
+	{"value":"lutte biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"depredacion",
+	"xml:lang":"esp"
+	},
+	{"value":"biological control",
+	"xml:lang":"eng"
+	},
+	{"value":"chrysoperla",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":12,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000207",
+	"dct:identifier":"IN2015000207",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vivek, Shah"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paul, Bishwajeet"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandi, G. Guru Pirasanna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shankarganesh, K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Mean number of aphids consumed throughout the grub periods were 394.8Â±4.47 on Aphis craccivora, 332.6Â±3.68 on A. gossypii, 132.4Â±6.07 on Lipaphis erysimi and 260.4Â±4.092 on Rhophalosiphum maidis. Total developmental period was found least in case of A. craccivora (21.1 days) which was on par with general laboratory host i.e., Corcyra cephalonica (20.5 days),whereas developmental period was more on L. erysimi (24.2 days). Feeding preference of predator was found in the order of A. craccivora A. gossypii R. maidis L. erysimi. Fecundity was found to be significantly higher in case of C. cephalonica (789.6Â±9.88 eggs), while in case of A. craccivora 250.8Â±7.70 eggs. The present study concluded that, though all the parameters with respect to developmental period of Chrysoperla sp. (carnea-group) reared on A. craccivora were on par with C. cephalonica, except fecundity was found to be lower on A. craccivora.",
+	"xml:lang":"eng"
+	}
+	}}

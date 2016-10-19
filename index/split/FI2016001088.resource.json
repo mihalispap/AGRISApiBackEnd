@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Kompostering av minkkroppar med gödsel och halm.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Baumgarten, Alfred.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"eläinjätteet"},
+	{"value":"minks"},
+	{"value":"straw"},
+	{"value":"wastes"},
+	{"value":"farmyard manure"},
+	{"value":"kompostointi"},
+	{"value":"composting"},
+	{"value":"carcasses"},
+	{"value":"ruhot"},
+	{"value":"jätteet"},
+	{"value":"waste management"},
+	{"value":"offal"},
+	{"value":"furbearing animals"},
+	{"value":"minkki"},
+	{"value":"olki"},
+	{"value":"karjanlanta"},
+	{"value":"turkiseläimet"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001088",
+	"dct:identifier":"FI2016001088",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

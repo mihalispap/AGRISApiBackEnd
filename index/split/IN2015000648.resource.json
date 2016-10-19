@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Management of purple root disease of Hevea brasiliensis seedlings in nursery",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":255,
+	"dc:subject":[
+		{"value":"Bioflora,North East India,purple root disease, seedling nursery,systematic fungicides"},
+	{"value":"hevea brasiliensis",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":257,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000648",
+	"dct:identifier":"IN2015000648",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mondal, G.C"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Deka, H. K"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sabu, P.Idicula"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

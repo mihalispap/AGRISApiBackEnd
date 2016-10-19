@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Análise econômica de sistemas de produção de bovinos de corte ",
+	"xml:lang":"por"
+	},
+	{"value":"Economic analysis of production systems of beef cattle",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"models",
+	"xml:lang":"eng"
+	},
+	{"value":"computer software",
+	"xml:lang":"eng"
+	},
+	{"value":"livestock",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01657",
+	"dct:identifier":"BR2015F01657",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1396555428.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"PINI, Thiago R. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALENCAR, Stephan A. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LUCAS, Lúcia S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRUMATTI, Ricardo C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FRANCO,  Gumercindo L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MOURÃO, Gerson B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA,  Saulo L."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O objetivo deste trabalho foi efetuar análises econômicas de fazendas produtoras de bovinos de corte e compará-las com índices zootécnicos nacionais, em situações mercadológicas variadas de taxas de juros e de valor de aquisição da propriedade rural. Os resultados foram comparados com índices técnicos e produtivos da média nacional e com dois cenários melhorados. Avaliaram-se cinco cenários, sendo três em relação à taxa de juros (6%, 8% e 10% ao ano)",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to carry out economic analysis of beef cattle farms and to compare them with national zootechnical indexes in marketing situations, varing interest rates and purchase price of farm. The results were compared with technical and productive national indexes and with two improved scenarios. It were evaluated five sets for each farm, three related to the interest rate (6%, 8% and 10% per year), and two related to the cost of hectare (-30% and +30%). The farms with complete cycle system producing animals to reproduction showed the best economic and financial results. The best results of farms producing animals for slaughter were obtained in the financial analyzes with -30% in value of the hectare. With those results it is possible to conclude that the cost of hectare has greater impact on the financial success of the farm in comparison to interest rates.",
+	"xml:lang":"eng"
+	},
+	{"value":"e dois em relação ao valor do hectare (-30% e +30%). As fazendas de ciclo completo produtoras de animais de elite apresentaram os melhores resultados econômicos e financeiros. Os melhores resultados das fazendas produtoras de animais de corte foram obtidos nas análises financeiras com -30% no valor do hectare. Conclui-se que o valor do hectare tem maior impacto no sucesso financeiro da propriedade rural em comparação às taxas de juros."}
+	]
+	}}

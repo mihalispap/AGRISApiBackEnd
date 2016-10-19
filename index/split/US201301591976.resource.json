@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Hydrolysis of organic phosphates by commercially available phytases: Biocatalytic potentials and effects of ions on their enzymatic activities"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591976",
+	"dct:identifier":"US201301591976",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e19.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tazisong, Irenus A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Senwo, Zachary N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Taylor, Robert W. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"He, Zhongqi (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Commercially available phytases from wheat and fungus Aspergillus ficuum have been used in environmental and agricultural phosphorus study. In order to better understand the biochemical properties of these two phytases, in vitro experiments were conducted to study their catalytic potentials to hydrolyze a number of representative organic phosphates [phytate; -nitrophenyl phosphate (PNP); p-nitrophenyl phosphate di-2-amino-2-ethyl-1-3-propanediol (PNP2A2E); p-nitrophenyl phosphate bis-cyclohexylammonium (PNPBC); bis-p-nitrophenyl phosphate (Bis-PNP); D-glucose 6-phosphate sodium salt (DG6PNa); and D-glucose 6-phosphate disodium salt (DG6P2Na)]. The results showed that the activity of wheat phytase in hydrolyzing these substrates was in the order: phytate > PNPBC > PNP2A2E > PNP > DG6P2Na > DG6PNa > Bis-PNP. Substrate preference for the fungal phytase followed the pattern: phytate > PNP > PNP2A2E > PNPBC. The kinetic constants of the two enzymes on these substrates demonstrated that the binding affinity for the fungal phytase with phytate was the highest. We further observed that As, Ba, Br and I ions enhanced the fungal phytase activity, whereas wheat phytase activity was suppressed by most ions we tested. Information obtained in this research is helpful in assessing the application of the two phytases in phosphate pollution research under various environmentally relevant conditions."}
+	}}

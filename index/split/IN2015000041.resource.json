@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"St. John's College. School of Entomology. Department of Zoology. Agra (India).",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":317,
+	"dc:subject":[
+		{"value":"variete",
+	"xml:lang":"fre"
+	},
+	{"value":"grain legumes",
+	"xml:lang":"eng"
+	},
+	{"value":"legumineuse a grains",
+	"xml:lang":"fre"
+	},
+	{"value":"plante oleagineuse",
+	"xml:lang":"fre"
+	},
+	{"value":"callosobruchus chinensis",
+	"xml:lang":"esp"
+	},
+	{"value":"frijol mungo",
+	"xml:lang":"esp"
+	},
+	{"value":"mung beans",
+	"xml:lang":"eng"
+	},
+	{"value":"varieties",
+	"xml:lang":"eng"
+	},
+	{"value":"plantas oleaginosas",
+	"xml:lang":"esp"
+	},
+	{"value":"variedades",
+	"xml:lang":"esp"
+	},
+	{"value":"oil crops",
+	"xml:lang":"eng"
+	},
+	{"value":"haricot dore",
+	"xml:lang":"fre"
+	},
+	{"value":"callosobruchus",
+	"xml:lang":"esp"
+	},
+	{"value":"leguminosas de grano",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":320,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000041",
+	"dct:identifier":"IN2015000041",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pal Anamika"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lal Dinesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Verma, R.A."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Differential reaction of Callosobruchus chinensis L. in green gram varieties was investigated. Varieties with low protein and higher oil content were least susceptible whereas those with high protein content and low oil content varieties were highly susceptible. PUSA-9871 (24.38%), TM-9937 (22.50%), HUM-12 (22.50%) had higher protein content, coupled with oil content 0.82, 0.88, 0.92%, and these showed high susceptibility. Varieties with lower protein content and with higher oil content like PDM 96â261, PDM-199, SML-668 were moderately resistant. There was considerable reduction in protein content after C. chinensis feeding. The protein content of the varieties had highly significant positive relationship with fecundity, F1 progeny and index of susceptibility. Higher protein content in fresh seeds of the varieties led to more infestation while less oil content in healthy seeds varied from 0.82 to 1.43% being minimum in PUSA-9871 and maximum in PDM 96â261. Considerable reduction in oil content in the varieties of green gram was noticed after the infestation of C. chinensis. The oil content of healthy seeds had highly significant negative correlation with fecundity, F1 progeny and index of susceptibility.",
+	"xml:lang":"eng"
+	}
+	}}

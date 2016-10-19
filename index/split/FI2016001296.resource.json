@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"The cost-efficiency of seedling packaging speciality designed for tree planting machines.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ersson, Back Tomas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergsten, Urban.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindroos, Ola.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nursery technology"},
+	{"value":"mechanized planting"},
+	{"value":"transport"},
+	{"value":"containerized seedlings"},
+	{"value":"cost analysis"},
+	{"value":"planting"},
+	{"value":"seedling feed"},
+	{"value":"planting equipment"},
+	{"value":"logistics"},
+	{"value":"seedlings"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001296",
+	"dct:identifier":"FI2016001296",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

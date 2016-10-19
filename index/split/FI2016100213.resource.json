@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-99.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Can GM and non-GM crops coexist? Setting a precedent in Boulder County, Colorado, USA"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Byrne, P.F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fromherz, S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100213",
+	"dct:identifier":"FI2016100213",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The coexistence of genetically modified (GM) and non-GM crops has emerged as one of the key issues in the ongoing debate over genetically engineered food. Some growers of organic and conventional crops fear economic losses if GM components are present in their fields or harvested products. We describe a public process in Boulder County, Colorado, USA, in which protocols were developed to encourage coexistence of GM and non-GM maize (Zea mays L.) on publicly owned Open Space farmland. The protocols (1) approve GM maize hybrids on a case-by-case basis; (2) promote communication among neighboring farmers; (3) provide for a 46 m buffer zone to keep cross-pollination between adjacent fields below 1%; (4) support measures to minimize the probability of insect resistance development; and (5) call for monitoring and dispute resolution mechanisms. These protocols, which will go into effect in the 2003 growing season, were developed with the intention of supporting organic, conventional, and GM crop farmers and encouraging shared responsibility for identity preservation of non-GM crops."}
+	}}

@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Molecular characterization and genogrouping of classical swine fever virus isolated from field outbreaks",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":803,
+	"dc:subject":[
+		{"value":"genome",
+	"xml:lang":"fre"
+	},
+	{"value":"epidemics",
+	"xml:lang":"eng"
+	},
+	{"value":"epidemie",
+	"xml:lang":"fre"
+	},
+	{"value":"swine fever virus",
+	"xml:lang":"eng"
+	},
+	{"value":"epidemia",
+	"xml:lang":"esp"
+	},
+	{"value":"genomes",
+	"xml:lang":"eng"
+	},
+	{"value":"virus peste porcine",
+	"xml:lang":"fre"
+	},
+	{"value":"genomas",
+	"xml:lang":"esp"
+	},
+	{"value":"virus peste porcina",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":806,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000151",
+	"dct:identifier":"IN2015000151",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"aug2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chakraborty, S.  Veeregoda, B.M  Project Naik, B.M.C.  Rathnamma, D.  Venkatesha, M.D.  Leena, G.  Veeresh, H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakraborty, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Veeregoda, B.M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naik, B.M.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rathnamma, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Venkatesha, M.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leena, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Veeresh, H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patil, S.S."
+	}
+	}
+	],
+	"bibo:issue":8,
+	"bibo:abstract":{"value":"The present study was carried out to characterize classical swine fever virus (CSFV) isolated from field outbreaks in suburban places of bengaluru, India, using molecular techniques and subsequent genogrouping of the virus. Various tissue samples from CSFV affected pigs (12) were collected and subjected to either virus isolation in PK-15 cell line, or RNA extraction. PCR amplification was carried out targeting the 5' NTR gene. Subsequent agarose gel electrophoresis yielded specific amplicons of 421 bp obtained from pooled samples of 3 pigs. The PCR purified products were sequenced and subjected to BLAST analysis and subsequently submitted to GenBank. The obtained nucleotide sequences were aligned using MegAlign programme and further subjected to analysis using MEGA 4 programme. All 3 field isolates were found to be grouped into subgroup 2.2 of group 2.",
+	"xml:lang":"eng"
+	}
+	}}

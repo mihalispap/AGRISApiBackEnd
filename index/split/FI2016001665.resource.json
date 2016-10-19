@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/11/4/arsenica.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Arsenic and heavy metal concentrations in agricultural soils in South Savo province.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mäntylahti, Väinö.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laakso, Pirkko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"viljelymaa"},
+	{"value":"raskasmetallit"},
+	{"value":"arseeni"},
+	{"value":"maaperä"},
+	{"value":"Finland"},
+	{"value":"soil pollution"},
+	{"value":"arsenic"},
+	{"value":"pellot"},
+	{"value":"arable soils"},
+	{"value":"heavy metals"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001665",
+	"dct:identifier":"FI2016001665",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

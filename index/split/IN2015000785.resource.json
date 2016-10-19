@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Coconut Water:Health or Hype?",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":29,
+	"dc:subject":[
+		{"value":"eau de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"salud",
+	"xml:lang":"esp"
+	},
+	{"value":"health",
+	"xml:lang":"eng"
+	},
+	{"value":"coconut water",
+	"xml:lang":"eng"
+	},
+	{"value":"sante",
+	"xml:lang":"fre"
+	},
+	{"value":"agua de coco",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":30,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000785",
+	"dct:type":"Summary",
+	"dct:identifier":"IN2015000785",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jun2014",
+	"dct:dateSubmitted":2016,
+	"bibo:issue":2
+	}}

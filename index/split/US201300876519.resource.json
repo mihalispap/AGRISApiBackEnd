@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors affecting growth and antifungal activity of some Streptomyces species against Candida albicans"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876519",
+	"dct:identifier":"US201300876519",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rizk, Mohamed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdel-Rahman, Tahany (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Metwally, Hanaa (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The present study was carried out to investigate the physical and nutritional factors affecting the growth and antifungal activity of three Streptomyces species (S. fradiae, S. lavendulae and S. fulvissimus) against C. albicans. Starch was the best carbon source for all Streptomyces spp., whereas the other tested C-sources gave varying amounts of growth and antifungal activity. Addition of mannitol to the media as sole C-source inhibited growth and antifungal activity of both S. fradiae and S. lavendulae. Potassium nitrate followed by peptone, NH4H2PO4 and NH4NO3 were the most suitable N-sources in case of S. fradiae, whereas Ca(NO3)2, NH4NO3 and peptone were the best N-sources for the other two species. Maximum antifungal activity was recorded at starch:KNO3 ratio 1:1, incubation temperature 30ºC and pH 7. This activity was completely inhibited at low temperatures  (5-15ºC) and pH 4 in the tested species."}
+	}}

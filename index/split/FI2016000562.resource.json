@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biomass equations for European trees : addendum.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Muukkonen, Petteri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkipää, Raisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rinnankorkeusläpimitta"},
+	{"value":"tree diameter"},
+	{"value":"biomass"},
+	{"value":"belowground biomass"},
+	{"value":"aerial parts"},
+	{"value":"measurement"},
+	{"value":"allometry"},
+	{"value":"height"},
+	{"value":"pituus"},
+	{"value":"puusto"},
+	{"value":"tree height"},
+	{"value":"biomassa"},
+	{"value":"biomass functions"},
+	{"value":"runko"},
+	{"value":"trees"},
+	{"value":"juuristo"},
+	{"value":"stems"},
+	{"value":"aboveground biomass"},
+	{"value":"breast height diameter"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000562",
+	"dct:identifier":"FI2016000562",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":[
+		{"value":"   instalação e calibração de um lisímetro de pesagem para estudos de evapotranspiração de culturas agrícolas "},
+	{"value":"Design, installation and calibration of a weighing lysimeter for crop evapotranspiration studies",
+	"xml:lang":"eng"
+	},
+	{"value":"   Projeto ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"lysimeters",
+	"xml:lang":"eng"
+	},
+	{"value":"nicotiana tabacum",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"2/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015301772",
+	"dct:identifier":"BR2015301772",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/18074"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Water Resources and Irrigation Management"},
+	"bibo:ISSN":{"value":"2316-6886"}
+	}
+	},
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ufrb.edu.br/wrim/images/wrim-2-2-2013/v02n02a02.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Schmidt Carlos Daniel Seifert"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pereira Francisco Adriano de Carvalho"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira Aureo Silva de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gomes Júnior João Fonseca"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vellame Lucas Melo"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Lisímetros são tanques preenchidos com solo comumente utilizados em estudos de ET das culturase movimento da água e solutos no perfil do solo. O objetivo deste trabalho é descrever os procedimentos deconstrução, instalação e calibração de um lisímetro de pesagem para estudo da demanda de água do fumo(Nicotiana tabacum L.) tipo Sumatra, na Bahia, Brasil. O lisímetro, com área interna de 1,76 m2, tinha 1,10 mde largura, 1,60 m de comprimento e 0,60 m de profundidade e foi instalado em área comercial de fumo cobertacom tela de sombreamento de 30%. A caixa interna era feita de chapas de aço e a caixa externa de alvenariaconstruída no campo. A plataforma de pesagem continha quatro células de carga com capacidade de 1.000 kg eum datalogger para armazenamento dos dados. O lisímetro foi calibrado no campo por meio de pesos-padrão nointervalo de 0 a 110 kg (62,5 mm). O procedimento de calibração incluiu cinco ciclos de incremento e decremento(47 pontos) do peso total do lisímetro. Como esperado, o sistema mostrou forte relação linear (r2 > 0,99 e Sy/x =0,033 mm) entre os pesos-padrões e o sinal das células de carga. A acurácia das células de carga, que combinaos erros de histerese, linearidade e repetibilidade, foi em torno de ±0.06 mm. A resolução do datalogger foiinferior a 0,1 mm. Estes dados de desempenho combinados à sensibilidade do lisímetro a pequenas variações demassa sugerem que o lisímetro de pesagem aqui descrito é adequado para medição da ET do fumo em intervalosde tempo iguais ou superiores a uma hora. O custo total do sistema foi da ordem de US$ 5.000,00, incluindoequipamento e mão de obra para instalação.",
+	"xml:lang":"por"
+	},
+	{"value":"Lysimeters are tanks filled with soil commonly used in studies of crop ET and movement of water andchemicals in the soil profile. The objective of this work is to describe the procedures for construction, installationand calibration of a precision weighing lysimeter for water demand studies of Sumatra type tobacco (Nicotianatabacum L.) in Bahia, Brazil. The lysimeter was 1.60 m long, 1.10 m wide and 0.60 deep, with an internal soilsurface of 1.76 m2. The lysimeter was installed in an area covered by a 30% shading screen used specifically forproduction of this type of tobacco. The inner box of the lysimeter was made of steel plates and the outer boxwas built on site with burnt-clay bricks bonded with cement mass. The weighing platform comprised four 1,000kg capacity load cells placed underneath the inner tank and a datalogger for data recording. The lysimeter wascalibrated in the field using standard loads of known mass. Five cycles of loading and unloading were performed(47 points) in the range of 0 to 110 kg (62.5 mm). The system showed a strong linear relationship between standardmass and load cells output (r2 > 0.99 and Sy/x = 0.033 mm). The load cell accuracy, which combines the effects ofhysteresis, linearity and repeatability errors, was found to be of the order of ±0.06 mm and the datalogger wasfound to be able to resolve mass changes less than 0.1 mm. These uncertainty parameters combined with theability of the lysimeter to respond to relatively small mass changes suggest that the weighing lysimeter hereindescribed is adequate to measure tobacco ET over time periods of one hour or longer. The investment was aroundUS$ 5,100.00, including hardware and field work for installation.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

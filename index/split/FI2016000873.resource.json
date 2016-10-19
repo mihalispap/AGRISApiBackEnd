@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of strawberry (Fragaria x ananassa Duch.) cultivar's salt stress tolerance on the basis of S₁ seeds in vitro germination /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Dziadczyk, Piotr.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kiszczak, Waldemar.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tyrka, Miroslaw.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laba, Marek.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Diufer, Kamila.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"salt tolerance"},
+	{"value":"suola"},
+	{"value":"stressinkestävyys"},
+	{"value":"lajikkeet"},
+	{"value":"strawberries"},
+	{"value":"mansikat"},
+	{"value":"Fragaria ananassa"},
+	{"value":"in vitro -menetelmä"},
+	{"value":"plant breeding"},
+	{"value":"in vitro selection"},
+	{"value":"kasvinjalostus"},
+	{"value":"stressi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000873",
+	"dct:identifier":"FI2016000873",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

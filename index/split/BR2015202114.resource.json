@@ -1,0 +1,85 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Determinação do período de permanência de mudas de Eucalyptus grandis W. Hill ex Maiden em casa de vegetação ",
+	"xml:lang":"por"
+	},
+	{"value":"Determination of the period of permanence of seedlings of Eucalyptus grandis W. Hill ex Maiden in greenhouse",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"seedling stage",
+	"xml:lang":"eng"
+	},
+	{"value":"seedling production",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202114",
+	"dct:identifier":"BR2015202114",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/270/232",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Eloy Elder"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Caron Braulio"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Trevisan Rômulo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Behling Alexandre"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schmidt Denise"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza Velci"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Objetivou-se determinar o período de permanência das mudas de Eucalyptus grandis W. Hill ex Maiden em casa de vegetação utilizando os parâmetros morfológicos de altura, diâmetro de colo e de biomassa seca total considerando os incrementos médio e corrente diários. O experimentofoi conduzido em delineamento experimental de blocos completos casualizados, com parcelas subdivididas. Os critérios foram definidos com base nas curvas de crescimento e intercepto entre curvas de incremento corrente diário e incremento médio diário. O volume de substrato explorável pelo sistema radicular e a densidade de mudas por bandeja influenciaram no crescimento, constatando-se que mudas com maiores dimensões são obtidas nos recipientes maiores. O período de permanência das mudas no viveiro varia de 110 a 150 dias dependendo do tratamentoutilizado. O critério técnico utilizado de intercepto entre as curvas de incremento corrente diário e incremento médio diário é útil na tomada de decisão, com vistas à avaliação do padrão de qualidade das mudas.",
+	"xml:lang":"por"
+	},
+	{"value":"This study aimed to determine the period the seedlings of Eucalyptus grandis W. Hill ex Maiden in a greenhouse using morphological parameters of height, stem diameter and total dry biomass and considering the current average daily increments. The experiment was conducted in thatexperimental design of blocks complete with split plots. The criterion were defined based on growth curves and curves intercept between current increasing daily and daily average increase. The volume of substrate exploitable by the root system and the density of seedlings per tray influencedgrowth, noting that with larger seedlings are obtained in larger containers. The period the seedlings in the nursery ranges 110-150 days, depending on the treatment used. The technical criterion used to intercept between the curves of daily current increase and daily average increase is helpful indecision making, with a view to evaluate the standard of quality seedlings.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

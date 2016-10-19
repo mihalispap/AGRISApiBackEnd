@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Antibacterial properties of freshwater Microcystis aeruginosa (KÃ¼tz) to bacterial pathogenâa comparative study of bacterial bioassays",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1266,
+	"dc:subject":[
+		{"value":"antimicrobial properties",
+	"xml:lang":"eng"
+	},
+	{"value":"aeromonas hydrophila",
+	"xml:lang":"esp"
+	},
+	{"value":"propiedades antimicrobianas",
+	"xml:lang":"esp"
+	},
+	{"value":"microcystis",
+	"xml:lang":"esp"
+	},
+	{"value":"cyanobacteria",
+	"xml:lang":"esp"
+	},
+	{"value":"propriete antimicrobienne",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1271,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000337",
+	"dct:identifier":"IN2015000337",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pradhan, Jyotirmayee"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sahu, Swagatika"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marhual, Nilima P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, B.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, B.K."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"Antimicrobial activities and minimum inhibitory concentration (MIC) values of various solvent extracts of Microcystis aeruginosa were studied. When tested against 17 Gram negative fish pathogenic bacteria belonging to 4 strains of Aeromonas hydrophila, 2 strains of Pseudomonas putida, 2 strains of P. aeruginosa, 2 strains of P. fluorescens, 6 Vibrio species Edwardsiella tarda and 6 animal serotypes of Escherichia coli, all the solvent extracts showed positive response except aqueous extract. Hot ethanolic extract showed maximum zone size (19 mm) against A. hydrophila (AH1) and E. coli (O111). The crude ethanolic extract was partially purified employing thin layer chromatography (TLC) and silica gel column chromatography techniques. Both crude as well as polar fractions showed positive results against selected pathogens. The antibacterial activities support that freshwater Cyanobacteria are still a promising source of new bioactive natural products. It is possible to develop specific microalgal based biologically active compound for aquaculture and to avoid resistance development against antibiotics used in human medicine.",
+	"xml:lang":"eng"
+	}
+	}}

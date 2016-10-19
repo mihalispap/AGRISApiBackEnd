@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Estabilidade de geleias de cajá durante o armazenamento em condições ambientais ",
+	"xml:lang":"por"
+	},
+	{"value":"Stability of caja jellies during storage at ambient conditions",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"stored products",
+	"xml:lang":"eng"
+	},
+	{"value":"processing",
+	"xml:lang":"eng"
+	},
+	{"value":"keeping quality",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"6/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015211179",
+	"dct:identifier":"BR2015211179",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.comunicatascientiae.com.br/comunicata/article/download/282/315",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Martins Jorge Jacó Alves"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oliveira  Emanuel Neto Alves de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rocha Ana Paula Trindade"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Santos  Dyego da Costa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Campina Grande, PB, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Campina Grande, PB, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Campina Grande, PB, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Campina Grande, PB, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The jelly production is an alternative use of cajazeira fruits, since they have good nutritional and sensory characteristics for processing. The aim of the research was to develop and evaluate the physical and chemical stability of caja jellies prepared with different concentrations of sugar and pectin during storage at ambient conditions. It was used a 22 factorial experimental design with 3 central points. After processing, the jellies were stored at room temperature 26 ºC and relativehumidity 78% average of Campina Grande, Paraíba, for a period of 150 days. After processing and during storage, the jellies were evaluated as the physical and chemical characteristics. There was an increase in the values of water content, total soluble solids, reducing sugars, total sugars and ratio, and reduction in total solids, non-reducing sugars, pH and acidity of jellies with storage. All formulations showed a reduction in the amounts of water activity, with the exception of the experiments made with the highest concentration of pectin. The stockpiling did not significantly affect the values of water activity and ratio for all caja jelly.",
+	"xml:lang":"eng"
+	},
+	{"value":"A produção de geleia é uma alternativa de aproveitamento de frutos da cajazeira, frutos estes que apresentam boas características sensoriais e nutricionais para o processamento. O objetivo da pesquisa foi elaborar e avaliar a estabilidade física e química de geleias de cajá elaboradascom diferentes concentrações de açúcar e pectina durante o armazenamento em condições ambientais. Foi utilizado um planejamento experimental fatorial 22 com 3 pontos centrais. Após oprocessamento as geleias foram armazenadas a temperatura 26 ºC e umidade relativa 78% media de Campina Grande, Paraíba, por um período de 150 dias. Após o processamento e durante o armazenamento, as geleias foram avaliadas quanto às características físicas e químicas. Observouse aumento nos valores de teor de água, sólidos solúveis totais, açúcares redutores, açúcares totaise ratio e redução nos valores de sólidos totais, açúcares não redutores, pH e acidez das geleias com o armazenamento. Todas as formulações apresentaram redução nos valores de atividade de água com exceção dos experimentos formulados com a maior concentração de pectina. Oarmazenamento não influenciou significativamente os valores de atividade de água e ratio para todas as geleias de cajá.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,107 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Clinicopathological assessment of cutaneous multicentric lymphoma in a dog.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":238,
+	"dc:subject":[
+		{"value":"canine adenovirus",
+	"xml:lang":"eng"
+	},
+	{"value":"histopatologia",
+	"xml:lang":"esp"
+	},
+	{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	},
+	{"value":"linfoma",
+	"xml:lang":"esp"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	},
+	{"value":"haematobia",
+	"xml:lang":"esp"
+	},
+	{"value":"cytology",
+	"xml:lang":"eng"
+	},
+	{"value":"histopathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"mastadenovirus canin",
+	"xml:lang":"fre"
+	},
+	{"value":"lymphome",
+	"xml:lang":"fre"
+	},
+	{"value":"citologia",
+	"xml:lang":"esp"
+	},
+	{"value":"lymphoma",
+	"xml:lang":"eng"
+	},
+	{"value":"histopathology",
+	"xml:lang":"eng"
+	},
+	{"value":"glande cutanee",
+	"xml:lang":"fre"
+	},
+	{"value":"haden virus canino",
+	"xml:lang":"esp"
+	},
+	{"value":"cytologie",
+	"xml:lang":"fre"
+	},
+	{"value":"glandulas cutaneas",
+	"xml:lang":"esp"
+	},
+	{"value":"skin glands",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":239,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000121",
+	"dct:identifier":"IN2015000121",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Madheswaran, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sivaseelan, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ponnusamy, K.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balasubramaniam, G.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arulmozhi, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balachandran, P."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"A case of cutaneous multicentriclymphoma was observed in a 2-year-old male mongrel dog.The dog was broughtto the small animal clinic with the history of anorexia and vomiting. Clinical examination of the dog revealed no abnormality except generalized lymphadenopathy. Haematological parameters revealed altered blood pictures and significantly elevated leucocyte count due to neutrophilia. Serum biochem.istry parameters did not reveal any abnormality. Microscopical examination of fine needle aspiration smears revealed predominantly lymphoblasts and few lymphocytes. Cytoplasm of the neoplastic cells were bluish in colour, granular in appearance and had numerous vacuoles and fragments. Nuclei were round to oval, occasionally elliptical and often irregular in shape with numerous mitotic figures. Histologically, abundant cell population consisting of mature lymphocytes and few lymphoblasts were observed. Neoplastic cellswere round with moderate cytoplasm. Nuclei were spherical and hyperchromatic with prominent central nucleoli. Cytology and histopathology findings were consistent with the diagnosis of canine cutaneous multicentric lymphoma.",
+	"xml:lang":"eng"
+	}
+	}}

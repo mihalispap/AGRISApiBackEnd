@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Heavy metal concentrations in three species of green algae from the Saudi coast of the Arabian Gulf.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Al-Homaidan, Ali A.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Ulvaceae"},
+	{"value":"Saudi Arabia"},
+	{"value":"aquatic organisms"},
+	{"value":"Cladophoraceae"},
+	{"value":"indicators"},
+	{"value":"indicator organisms"},
+	{"value":"algae"},
+	{"value":"water pollution"},
+	{"value":"aquatic environment"},
+	{"value":"heavy metals"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001292",
+	"dct:identifier":"FI2016001292",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

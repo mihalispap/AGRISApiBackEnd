@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:title":{"value":"EFEITO DE EXTRATOS DE FOLHAS E RAMOS DE TRICHILIA SILVATICA  SOBRE SPODOPTERA FRUGIPERDA",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":17,
+	"bibo:volume":1,
+	"bibo:pageEnd":25,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00004",
+	"dct:identifier":"BR2016H00004",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/239",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Felipe Ferlini Teixeira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sérgio Roberto Rodrigues"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Walmir Silva Garcez"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fernanda Rodrigues Garcez"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aloízio de Oliveira Soares"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Espécies vegetais da família Meliaceae apresentam grande interesse nos estudos de controle de pragas devido a sua atividade inseticida. Para o presente trabalho, verificouse a atividade inseticida de Trichilia silvatica, sobre o desenvolvimento de Spodoptera ...",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Translocation and distribution of ¹³C-photosynthates in \"Fuyu\" persimmon (Diospyros kaki) grafted onto different rootstocks.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Simkhada, E. P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sekozawa, Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sugaya, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gemma, H.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"jalontaminen"},
+	{"value":"Diospyros lotus"},
+	{"value":"Diospyros kaki"},
+	{"value":"persimoni"},
+	{"value":"rootstocks"},
+	{"value":"yhteyttämistuotteet"},
+	{"value":"graft compatibility"},
+	{"value":"graft unions"},
+	{"value":"perusrungot"},
+	{"value":"translocation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001894",
+	"dct:identifier":"FI2016001894",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

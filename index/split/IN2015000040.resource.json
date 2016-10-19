@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Life Parameters of Tobacco Caterpillar, Spodoptera Litura as Influenced by Transgenic (BT) Cotton Hybrids.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":312,
+	"dc:subject":[
+		{"value":"hibridos",
+	"xml:lang":"esp"
+	},
+	{"value":"cotton",
+	"xml:lang":"eng"
+	},
+	{"value":"organisme transgenique",
+	"xml:lang":"fre"
+	},
+	{"value":"transgenicos",
+	"xml:lang":"esp"
+	},
+	{"value":"spodoptera litura",
+	"xml:lang":"esp"
+	},
+	{"value":"hybrids",
+	"xml:lang":"eng"
+	},
+	{"value":"hybride",
+	"xml:lang":"fre"
+	},
+	{"value":"tobacco",
+	"xml:lang":"eng"
+	},
+	{"value":"tabac",
+	"xml:lang":"fre"
+	},
+	{"value":"transgenics",
+	"xml:lang":"eng"
+	},
+	{"value":"algodon",
+	"xml:lang":"esp"
+	},
+	{"value":"coton",
+	"xml:lang":"fre"
+	},
+	{"value":"tabaco",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":316,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000040",
+	"dct:identifier":"IN2015000040",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prasad, J.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sreedher, U."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"A study was conducted to understand the effect of Bt cotton hybrids with single (Cry 1 Ac) and double (Cry 1 Ac and Cry 2 Ab) genes on the life parameters of S.litura in comparison with non-Bt hybrids to understand the extent to which the hybrids support the growth and development of the pest. It was observed that the life parameters of the pest were significantly and negatively affected when the pest was reared on Bt Cotton hybrids with two toxin genes. The net reproductive rate of the pest was 159.22 on Mallika Bt II hybrid whereas it was 458.6 on Mallika Bt I and 704.14 on Mallika non-Bt hybrid. Mean generation time was much shorter on Mallika non-Bt (30.37 days) compared to Mallika Bt II hybrids (38.29 days). The intrinsic rate of increase of the pest was 0.13 on Mallika Bt II whereas it was 0.20 on Mallika Bt I and 0.21 females/female/day on Mallika non-Bt hybrids. The insect could double its numbers in 3.32 days on Mallika non-Bt hybrids whereas it took 3.53 days on Mallika Bt I and 5.23 days on Mallika Bt II. Though similar trend was observed with Tulasi hybrids too, the effect of toxins on the growth and development of the pest was on a higher side in Mallika hybrids compared to Tulasi hybrids. The study highlights the effect of single and double gene Bt cotton hybrids on the growth and development of S.litura and the implications for the buildup of resistance.",
+	"xml:lang":"eng"
+	}
+	}}

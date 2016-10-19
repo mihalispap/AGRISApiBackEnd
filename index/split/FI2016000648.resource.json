@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Outranking methods as tools in strategic natural resources planning.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kangas, Annika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Jyrki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pykäläinen, Jouni.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fuzzy relations"},
+	{"value":"decision support"},
+	{"value":"päätöksenteko"},
+	{"value":"monikäyttö"},
+	{"value":"multiple-use planning"},
+	{"value":"luonnonvarat"},
+	{"value":"suunnittelu"},
+	{"value":"natural resources"},
+	{"value":"planning"},
+	{"value":"multiple use"},
+	{"value":"menetelmät"},
+	{"value":"multicriteria decision support"},
+	{"value":"uncertainty"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000648",
+	"dct:identifier":"FI2016000648",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

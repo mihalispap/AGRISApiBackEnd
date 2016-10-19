@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Accumulation of nickel by marine macroalgae from the Saudi coast of the Arabian Gulf.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Al-Homaidan, Ali A.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"water quality"},
+	{"value":"Saudi Arabia"},
+	{"value":"coastal area"},
+	{"value":"sea water"},
+	{"value":"nitric acid"},
+	{"value":"aquatic organisms"},
+	{"value":"pollutants"},
+	{"value":"oil spills"},
+	{"value":"nickel"},
+	{"value":"aquatic plants"},
+	{"value":"water pollution"},
+	{"value":"aquatic environment"},
+	{"value":"heavy metals"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001515",
+	"dct:identifier":"FI2016001515",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Sucking pests on Bt-and non Bt-cotton",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"gossypium hirsutum",
+	"xml:lang":"esp"
+	},
+	{"value":"pest control",
+	"xml:lang":"eng"
+	},
+	{"value":"lutte antiravageur",
+	"xml:lang":"fre"
+	},
+	{"value":"control de plagas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":167,
+	"bibo:volume":75,
+	"bibo:pageEnd":169,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000029",
+	"dct:identifier":"IN2015000029",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Laxman P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Samatha Ch"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sammaiah Ch"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

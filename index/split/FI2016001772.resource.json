@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil parameter variability affecting simulated field-scale water balance, erosion and phosphorus losses.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bärlund, Ilona.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tattari, Sirkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Puustinen, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koskiaho, Jari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yli-Halla, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Posch, Maximilian.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"soil types"},
+	{"value":"Finland"},
+	{"value":"erosion"},
+	{"value":"phosphorus"},
+	{"value":"simulation"},
+	{"value":"fysikaaliset ominaisuudet"},
+	{"value":"eroosio"},
+	{"value":"mallintaminen"},
+	{"value":"maaperä"},
+	{"value":"soil properties"},
+	{"value":"pellot"},
+	{"value":"maalajit"},
+	{"value":"huuhtoutuminen"},
+	{"value":"maaperäfysiikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001772",
+	"dct:identifier":"FI2016001772",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

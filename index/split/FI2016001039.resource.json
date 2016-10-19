@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Relating microstructure, sensory and instrumental texture of processed oat /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Salmenkallio-Marttila, Marjatta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heiniö, Raija-Liisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Myllymäki, Olavi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lille, Martina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Autio, Karin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Poutanen, Kaisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"organoleptic analysis"},
+	{"value":"kaura"},
+	{"value":"texture"},
+	{"value":"jyvä"},
+	{"value":"fysikaaliset ominaisuudet"},
+	{"value":"ultrastructure"},
+	{"value":"aistinvarainen arviointi"},
+	{"value":"chemicophysical properties"},
+	{"value":"grain"},
+	{"value":"processing"},
+	{"value":"prosessointi"},
+	{"value":"oats"},
+	{"value":"mikrorakenne"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001039",
+	"dct:identifier":"FI2016001039",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

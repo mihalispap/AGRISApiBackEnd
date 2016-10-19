@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Productivity ratings in relation to holding size and resource-management in Indian rubber plantation sector",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":411,
+	"dc:subject":[
+		{"value":"adoption"},
+	{"value":"holding size"},
+	{"value":"productividad",
+	"xml:lang":"esp"
+	},
+	{"value":"productivite",
+	"xml:lang":"fre"
+	},
+	{"value":"caoutchouc",
+	"xml:lang":"fre"
+	},
+	{"value":"resource management",
+	"xml:lang":"eng"
+	},
+	{"value":"gestion des ressources",
+	"xml:lang":"fre"
+	},
+	{"value":"caucho",
+	"xml:lang":"esp"
+	},
+	{"value":"ordenacion de recursos",
+	"xml:lang":"esp"
+	},
+	{"value":"productivity",
+	"xml:lang":"eng"
+	},
+	{"value":"rubber",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":416,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000744",
+	"dct:identifier":"IN2015000744",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rajeevan, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gopinath, M.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Boban Mathai"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramesh B. nair"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The smallholdings dominate the natural rubber (NR) plantation industry in India. The holding size profile of the smallholdings shows that about 86 per cent are below 2 ha, 62 per cent of which falls within 0.5 -2.0 ha. The average unit size is above 1.0 ha in non-traditional (NT) area where NR plantation expansion is in progress. This study was taken up to analyze the relation between the holding size, resource management and productivity since resource-poor smallholders'productivity is remarkably higher than that of lager units. The productivity and the resource availability/management in smallholdings falling under three categories, viz., 0.5 ha, between 0.5 and 2.0 ha and 2.0 ha, were analyzed based on primary data collected from smallholdings having linkage with RPSs. Data from respondent estates also were analyzed.The difference in the productivity between the three categories studied was found to be significant. The larger holdings enjoyed better resource availability than smaller ones; but, the latter was better in resource-management. Highest productivity was recorded from units  0.5 ha. Productivity and unit size were inversely proportional within the categories of smallholdings analyzed. Measures to ensure prompt adoption of productivity enhancement practices in medium/large holdings by way of effective resource management possible through group approach have to be initiated to increase the production of NR in India as they occupy a major chunk of NR plantations. Estates too can attempt to tap the potentials of group synergy through workers' SHGs. Productivity enhancement through optimum resource-use has a direct bearing on sustainability of Indian NR industry.",
+	"xml:lang":"eng"
+	}
+	}}

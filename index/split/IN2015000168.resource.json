@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Morphological characterization, production and reproduction status of Munjal -A threatened sheep population of North-West India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":943,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"conformacion animal",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"comportement reproductif",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"body conformation",
+	"xml:lang":"eng"
+	},
+	{"value":"conformation animale",
+	"xml:lang":"fre"
+	},
+	{"value":"comportamiento reproductivo",
+	"xml:lang":"esp"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"reproductive behaviour",
+	"xml:lang":"eng"
+	},
+	{"value":"inde",
+	"xml:lang":"fre"
+	},
+	{"value":"india",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":945,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000168",
+	"dct:identifier":"IN2015000168",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yadav, Dinesh Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arora, Reena"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhatia , S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gurmej Singh"
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"To characterize Munjal sheep, 107 random sheep flocks were assessed in their breeding tract. Rams (42), ewes (152) and lambs (80) were selected from 32 sheep flocks from 3 different locations for data recording on seven body biometry parameters (body weight, body length, height at wither, chest girth, paunch girth, ear length and tail length). The average adult body weight in rams and ewes was 60.05Â±1.55 and 43.95Â±0.51 kg respectively. Body biometry analysis suggested that Munjal sheep are quite large in size, tall, rectangular and massive with long tail. Twinning was 4â10%. The mortality in adults was 5â10% and 4â6% in lambs. Age at puberty in females was 10â12 months. Age at first lambing of ewes was 15â18 months, while age at first breeding of rams was 12â15 months. Due to socio-economic and other factors, shrinkage in breeding tract was observed. The numbers are continuously dwindling and the current population exhibited its threatened status.",
+	"xml:lang":"eng"
+	}
+	}}

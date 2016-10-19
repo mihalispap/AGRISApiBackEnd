@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Stress induced effects on protein and trehalose contents in Tribolium castaneum Herbst (Coleoptera: Tenebrionidae)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":101,
+	"dc:subject":[
+		{"value":"pest insects",
+	"xml:lang":"eng"
+	},
+	{"value":"insectos daninos",
+	"xml:lang":"esp"
+	},
+	{"value":"trehalose",
+	"xml:lang":"fre"
+	},
+	{"value":"insecte nuisible",
+	"xml:lang":"fre"
+	},
+	{"value":"trehalosa",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":106,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000476",
+	"dct:identifier":"IN2015000476",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"june2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Swetaleena, T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chellappan, Mani(Kerala Agricultural University, Vellanikkara, Thrissur(India).)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ranjith, M.T."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Red flour beetle, Tribolium castaneum Herbst subjected to heat stress showed accumulation of heat shock protein (hsp) along with an insect sugar, trehalose. When the temperature increased from 35 to 450 C, with exposure time of 1, 2 and 4h, the total protein contents estimated were in the order of neonate  adult  pupa  5th instar grub. Whereas, at 50o C, 5th instar grub had the highest protein content followed by adult pupa and neonates at all exposure times. However at an exposure of 55 to 600 C, the total protein content estimated was in the order of adult  pupa  5th instar grub  neonates. In contrary when temperature increased from 35 to 600 C, the trehalose content was more in adult followed by pupa, 5th instar grub and neonates.",
+	"xml:lang":"eng"
+	}
+	}}

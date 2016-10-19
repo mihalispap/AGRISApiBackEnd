@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Variability and dynamics of old-growth forests in the circumboreal zone : implications for conservation, restoration and management.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Shorohova, Ekaterina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kneeshaw, Daniel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gauthier, Sylvie.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"stand characteristics"},
+	{"value":"cohort dynamics"},
+	{"value":"stand dynamic types"},
+	{"value":"late-successional forest"},
+	{"value":"disturbance regimes"},
+	{"value":"forest ecology"},
+	{"value":"natural succession"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000985",
+	"dct:identifier":"FI2016000985",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Turnover do δ13C na substituição de dietas com ingredientes de diferentes ciclos fotossintéticos em ovos de codornas japonesas (Coturnix coturnix japonica) ",
+	"xml:lang":"por"
+	},
+	{"value":"Turnover of δ13C replacement of diets with different photosynthetic, cycles eggs in japanese quails eggs (Coturnix coturnix japonica)",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"eggs",
+	"xml:lang":"eng"
+	},
+	{"value":"diet",
+	"xml:lang":"eng"
+	},
+	{"value":"paddy soil",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F04449",
+	"dct:identifier":"BR2015F04449",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://iz.sp.gov.br/pdfsbia/1418129699.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"PIMENTA, G.E.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DENADAI, J.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SARTORI, M.M.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PELICIA, V.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ARAÚJO, P.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"STRADIOTTI, A.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DUCATTI, C."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O estudo objetivou avaliar o turnover do 13C pela substituição de dietas do ciclo fotossintético C3 para C4 e C4 para C3 em ovos de codornas japonesas (Coturnix coturnix japonica) utilizando a técnica de isótopos estáveis. Foram utilizadas duzentas e dezesseis codornas japonesas, com 50 dias de idade, distribuídas em delineamento experimental inteiramente casualizado em dois tratamentos com seis repetições, em período experimental de 48 dias. Antes dos 50 dias de idade, metade das codornas consumia dieta a base de plantas C4 (milho) e a outra metade a base de plantas C3 (arroz), ambas contendo farinha de carne e ossos bovinos. Houve substituição dessas dietas no período experimental, dieta a base C3 para C4 e C4 para C3. Seis ovos foram coletados de cada tratamento por dia de coleta, de acordo com os dias de idade das codornas: 50, 51, 52, 54, 57, 60, 64, 68, 73, 78, 85, 91 e 98. Para determinar a taxa de turnover foi empregado o modelo exponencial de diluição isotópica. Foi possível observar que o tempo experimental de 48 dias foi suficiente para que ocorresse o turnover total nos ovos, havendo a incorporação de 99% dos átomos de carbono da nova dieta. A velocidade de incorporação é mais lenta quando há substituição de dietas C3 para C4 do que de C4 para C3, o que pode ser explicado pela diferença bromatológica dos ingredientes.",
+	"xml:lang":"por"
+	},
+	{"value":"The study aimed to evaluate the turnover of 13C by replacing the C3 photosynthetic pathway diet to C4 and C4 to C3 in eggs of japanese quail (Coturnix coturnix japonica) using the technique of stable isotopes. Two hundred and sixteen japanese quail, 50 days old, distributed in a completely randomized experimental design with two treatments in six replications, in an experimental period of 48 days, were used. Prior to 50 days of age, half of quails consumed diet based on C4 plants (corn) and the other half based on C3 plants (rice), both containing meat meal and bone meal. There was replacement of those diets during the experimental period, C3 based diet to C4 and C4 to C3. A total of six eggs were collected from each treatment per day, according the quails age: 50, 51, 52, 54, 57, 60, 64, 68, 73, 78, 85, 91 and 98 days. To determine the turnover rate, the exponential model of isotopic dilution was employed. The experimental time of 48 days was enough for the total turnover in the eggs, with the incorporation of 99% of the carbon atoms of the new diet. The incorporation speed was slower when replacing diets were from C3 to C4 than C4 to C3, which can be explained by bromatological differences of the ingredients.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Thinning response and growth trends of seeded Scots pine stands at the arctic timberline.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Varmola, Martti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salminen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Timonen, Mauri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"harvennus"},
+	{"value":"thinning"},
+	{"value":"yields"},
+	{"value":"kasvu"},
+	{"value":"Pinus sylvestris"},
+	{"value":"northern timberline"},
+	{"value":"metsänraja"},
+	{"value":"boreal forests"},
+	{"value":"boreaaliset metsät"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001307",
+	"dct:identifier":"FI2016001307",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

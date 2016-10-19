@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Inheritance of fiber quality characters in upland cotton genotypes having non-preference traits for insect pests"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Murtaza, Naveed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ali, Ghulam Muhammad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rahman, Hafeez ur (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100044",
+	"dct:identifier":"FI2016100044",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"To study the nature and magnitude of gene effects for fiber fineness, fiber maturity percentage and lint index in upland cotton genotypes having non-preference traits for insect pests, an 8 by 8 diallel cross was evaluated in F1 and F2 generations. The results indicated both additive and dominance components of genetic variability in the material. The dominance ratio (H1/D)0.5 exceeded 1.0 which would arise when dominance was complete and offered a quantification of the level of “over-dominance”, this was for fiber fineness (F2) and fiber maturity percentage (F2). The values of H1 and H2 for all of these characters were higher than those of D and significant and positive, which indicated the predominance of non-additive genetic variance to control most of the characters under study. The H2 component was smaller than the H1, indicating the unequal proportion of positive (U) and negative (V) alleles in the loci governing the characters. The asymmetrical distribution of genes in the parents were further evidenced by the value of H2/4 H1, which was below the maximum value of 0.25 in all of the cases which arises when U=V=0.5 over all loci. The positive F value also indicated gene asymmetry, i.e. there were more dominant than recessive alleles in the parents for these characters. This was further confirmed by the relative proportion of dominant and recessive alleles, which was more than one for all of these traits, proving that dominant alleles were in excess as compared to recessive alleles. Net dominance effect obtained by (h²) estimate expressed as algebraic sum over all loci in heterozygous condition in all the crosses was non-significant for all the five characters, and suggested substantial contribution of dominance was not due to heterogeneity of loci in these parameters. The non-significance of environmental component of variation (E2) indicated its insignificant role in the phenotypic expression of these traits. Recurrent selection is suggested for the improvement of these traits."}
+	}}

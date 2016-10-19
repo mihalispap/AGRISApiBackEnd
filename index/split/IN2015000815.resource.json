@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance evaluation of mechanized shelling mechine for steam treated raw cashewnuts",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":185,
+	"dc:subject":[
+		{"value":"MECHANIZED SHELLING"},
+	{"value":"WHOLE KERNEL RECOVERY"},
+	{"value":"traitement",
+	"xml:lang":"fre"
+	},
+	{"value":"processing",
+	"xml:lang":"eng"
+	},
+	{"value":"cashews",
+	"xml:lang":"eng"
+	},
+	{"value":"anacardo",
+	"xml:lang":"esp"
+	},
+	{"value":"procesamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de cajou",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":190,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000815",
+	"dct:identifier":"IN2015000815",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Balasubramanian, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Joycy Rodrigues Lyra Kokila"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"The performance profile of Dioscorea rotundata cultivar Dorban genotypes in Ghana using GGE biplot analysis.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Otoo, E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Asiedu, R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"crop yield"},
+	{"value":"seeds"},
+	{"value":"genotypes"},
+	{"value":"genetic stability"},
+	{"value":"Dioscorea rotundata"},
+	{"value":"tubers"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001496",
+	"dct:identifier":"FI2016001496",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

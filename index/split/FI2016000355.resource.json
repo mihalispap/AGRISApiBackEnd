@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Relationship between forest management planning units and spatial distribution of forest habitat components in Koli National Park.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Uuttera, Janne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyppänen, Harri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"alueellinen jakauma"},
+	{"value":"paikkatietojärjestelmät"},
+	{"value":"metsätyypit"},
+	{"value":"forest management"},
+	{"value":"planning"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"geographical information systems"},
+	{"value":"kasvupaikkatyypit"},
+	{"value":"ecosystems"},
+	{"value":"metsät"},
+	{"value":"forest ecology"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000355",
+	"dct:identifier":"FI2016000355",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Density and height structure of seedlings in subalpine spruce forests of Central Europe : logs vs. stumps as a favourable substrate.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bace, Radek.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Svoboda, Miroslav.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Janda, Pavel.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"logs"},
+	{"value":"natural regeneration"},
+	{"value":"Picea abies"},
+	{"value":"stumps"},
+	{"value":"coarse woody debris"},
+	{"value":"microsite"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000917",
+	"dct:identifier":"FI2016000917",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

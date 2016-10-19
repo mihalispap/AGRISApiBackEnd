@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Collaborative study of a new developed ELISA kit for gluten determination /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gabrovská, Dana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rysová, Jana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Burkhard, Martin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cuhra, Petr.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kubik, Martin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Baršová, Sona.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"elintarvikkeet"},
+	{"value":"vehnä"},
+	{"value":"wheat flour"},
+	{"value":"testaus"},
+	{"value":"ELISA"},
+	{"value":"testing"},
+	{"value":"gluteeni"},
+	{"value":"gluten"},
+	{"value":"monoclonal antibodies"},
+	{"value":"jauhot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002156",
+	"dct:identifier":"FI2016002156",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

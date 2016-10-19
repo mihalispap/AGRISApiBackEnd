@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Gap-phase dynamics in the old-growth forest of Lom, Bosnia and Herzegovina.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bottero, Alessandra.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Garbarino, Matteo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dukić, Vojislav.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Govedar, Zoran.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lingua, Emanuele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nagel, Thomas A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Motta, Renzo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"canopy"},
+	{"value":"mixed forests"},
+	{"value":"disturbance regime"},
+	{"value":"small-scale"},
+	{"value":"old-growth forest"},
+	{"value":"Abies alba"},
+	{"value":"Fagus sylvatica"},
+	{"value":"canopy gaps"},
+	{"value":"Picea abies"},
+	{"value":"virgin forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000764",
+	"dct:identifier":"FI2016000764",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

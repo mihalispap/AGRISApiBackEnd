@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of new fish sauces prepared by fermenting hot-water extraction waste of stock from dried fish using various kojis.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Murakami, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Satomi, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ando, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tukamasa, Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kawasaki, K.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"free amino acids"},
+	{"value":"foods"},
+	{"value":"barley"},
+	{"value":"rice"},
+	{"value":"sauces"},
+	{"value":"wheats"},
+	{"value":"fermentation"},
+	{"value":"fish products"},
+	{"value":"flavour"},
+	{"value":"extraction"},
+	{"value":"chemical composition"},
+	{"value":"nitrogen"},
+	{"value":"dried fish"},
+	{"value":"organoleptic properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000192",
+	"dct:identifier":"FI2016000192",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

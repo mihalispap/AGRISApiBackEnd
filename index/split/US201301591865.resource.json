@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Utilization of experimental design to study the influence of hydrogenated vegetable fat and sucrose content on the overall quality of tucum (Astrocaryum aculeatum) paste"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591865",
+	"dct:identifier":"US201301591865",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f21.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sobrinho, Agostinho S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza, Érica S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Souza, João V. B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The aim of this work was to study, using experimental design, the influence of hydrogenated vegetable fat and sucrose (%) on the overall quality (sensorial analysis) of tucum paste. The basic formulation was: tucum pulp (s.q.f.), hydrogenated vegetable fat, sucrose, glucose (2% w/w), salt (3% w/w) and emulsification agent (1% w/w). Vegetable fat (10 –30% w/w) and sucrose contents (0-12% w/w) were determined using a 22 experimental design,with two repetitions in the central point. Sensorial analysis was carried out with 17 untrained people that tested the six formulations and attributed grades for them (0-10). The simple mean of these grades was used in the experimental design studied. The overall quality grades of the formulations varied from 6.9 to 8.4. The effects from vegetable fat, sucrose and interaction were 0.55+/-0.10, 0.65+/-0.10 and -0.95+/-0.10, respectively. All these effects were statistically significant when tested by PARETO. Using these effects it was prepared a mathematical model (Overall quality = 6.15833 + 0.075*fat + 0.2125*sucrose - 0.00791667*fat*sucrose). This model was tested by ANOVA. The 3 effects of the model were significantly different from zero at 95.0% confidence level and the R-squared statistic indicates that the model as fitted explains 98.6% of the variability. This model was used to produce response plots, and these showed that the best overall quality grade was obtained in the formulation with 10% vegetable fat and 12% sucrose, in this condition the model predicts the grade 8.5."}
+	}}

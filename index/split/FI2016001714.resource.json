@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of different types of pruning on cherry tomato fruit production and quality.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Franco, J. L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Diaz, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dianez, F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Camacho, F.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Lycopersicon esculentum"},
+	{"value":"pruning"},
+	{"value":"crop yield"},
+	{"value":"quality"},
+	{"value":"tomatoes"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001714",
+	"dct:identifier":"FI2016001714",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

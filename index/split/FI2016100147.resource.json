@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/environment-13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Towards sustainable management of environmental stress for crop production in the tropics"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ismail, Mohd Razi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Iberahim, Ismail (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100147",
+	"dct:identifier":"FI2016100147",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The only great factor that mankind has not yet managed to control is climate. Global climatic change is a major threat to agricultural production and farmers are facing uncertainty in their practice. Drought, flood, high temperature, salinity and air pollution are among the major factors limiting crop productivity in the tropics. The impact of environmental stress has been successfully evaluated by characterizing morphological, physio-biochemical and yield on various economic crop species within the region. However, the main question not properly addressed as yet is how to manage crops to cope up with environmental stresses prevailing during their growth cycle. We discussed short and long-term approaches currently adopted in research to manage environmental stresses depending on the needs and economic importance of crop species and their cultural practices in this region."}
+	}}

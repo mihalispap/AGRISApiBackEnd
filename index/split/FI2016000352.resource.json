@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Electrospray ionization mass spectroscopy shows speciation of phytate to be pH dependent.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Heighton, Lynne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schmidt, Walter E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rice, Clifford P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siefert, Ronald L.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soil transport processes"},
+	{"value":"mass spectrometry"},
+	{"value":"phytates"},
+	{"value":"soil biology"},
+	{"value":"environmental impact"},
+	{"value":"eutrophication"},
+	{"value":"phosphorus"},
+	{"value":"enzymes"},
+	{"value":"minerals"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000352",
+	"dct:identifier":"FI2016000352",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

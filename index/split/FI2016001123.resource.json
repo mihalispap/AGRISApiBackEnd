@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Conflict management as a means to the sustainable use of natural resources /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kyllönen, Simo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Colpaert, Alfred.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heikkinen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jokinen, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kumpula, Jouko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marttunen, Mika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Muje, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Raitio, Kaisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"konfliktinratkaisu"},
+	{"value":"kestävä käyttö"},
+	{"value":"ristiriidat"},
+	{"value":"conflict management"},
+	{"value":"deliberative participation"},
+	{"value":"natural resources management"},
+	{"value":"prisoner's dilemma"},
+	{"value":"frame analysis"},
+	{"value":"luonnonvarat"},
+	{"value":"suunnittelu"},
+	{"value":"assurance game"},
+	{"value":"matemaattiset mallit"},
+	{"value":"sustainability"},
+	{"value":"resource management"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001123",
+	"dct:identifier":"FI2016001123",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

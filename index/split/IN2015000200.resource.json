@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Nitric Oxide and hydrogen peroxide production by goat mucosal epithelial tissue",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":195,
+	"dc:subject":[
+		{"value":"mucous membrane",
+	"xml:lang":"eng"
+	},
+	{"value":"mucosal diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"muqueuse",
+	"xml:lang":"fre"
+	},
+	{"value":"hydrogen peroxide",
+	"xml:lang":"eng"
+	},
+	{"value":"epithelium",
+	"xml:lang":"fre"
+	},
+	{"value":"epitelio",
+	"xml:lang":"esp"
+	},
+	{"value":"enfermedades de las mucosas",
+	"xml:lang":"esp"
+	},
+	{"value":"peroxyde d'hydrogene",
+	"xml:lang":"fre"
+	},
+	{"value":"membrana mucosa",
+	"xml:lang":"esp"
+	},
+	{"value":"maladie des muqueuses",
+	"xml:lang":"fre"
+	},
+	{"value":"peroxido de hidrogeno",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":198,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000200",
+	"dct:identifier":"IN2015000200",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pattanaik, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sahoo, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barik, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Palai, T.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bisoi, P.C."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The production of nitric oxide by goat mucosal epithelial cells was studied to understand the nitric oxide (NO) pathway of killing microorganisms. Hydrogen peroxide (H2O2) production by the mucosal epithelial cells without any activation was studied to understand the oxygen dependent mucosal immune system of goats. The production of NO in nM/0.1gm of different mucosal tissues per hr during resting stage was 9.01Â±0.75 from intestine, 22.65Â±0.75 from trachea and 61.5Â±2.73 from uterus and were found to be significantly different from each other. The incubation of these cells with sodium nitroprusside, a proven nitrogen donor, activated these cells in different tissues differently. The goat intestinal epithelium was significantly activated by the sodium nitroprusside in a dose dependent manner. In all other tissue epithelium sodium nitroprusside activated the nitric oxide production non-significantly. In present study the results clearly indicated that significantly high amount of H2O2 was produced by uterine mucosal epithelial cells (26.81Â±0.72 nM/0.1g tissue/hr) whereas, it was lowest in tracheal mucosal epithelium (8.50Â±0.43 nM/0.1g tissue/hr). All the tissues studied produced H2O2 in resting state, indicated the active participation of these mucosal epithelial layers in oxidative immuno-defence system.",
+	"xml:lang":"eng"
+	}
+	}}

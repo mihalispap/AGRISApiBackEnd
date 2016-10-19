@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Strategies to improve and sustain food production capacity in the savanna : the role of leguminous fodder crops in maintaining soil fertility and health /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Odion, E. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Asiribo, O. E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ogunlela, V. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Singh, B. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tarawali, S. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feed legumes"},
+	{"value":"crop residues"},
+	{"value":"organic nitrogen compounds"},
+	{"value":"grasslands"},
+	{"value":"fertility"},
+	{"value":"savannas"},
+	{"value":"green manures"},
+	{"value":"food production"},
+	{"value":"legumes"},
+	{"value":"nutrient deficiencies"},
+	{"value":"feed crops"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001087",
+	"dct:identifier":"FI2016001087",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

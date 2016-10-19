@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Freezing and low temperature photoinhibition tolerance in cultivated potato and potato hybrids.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Seppänen, Mervi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nissinen, Oiva.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Perälä, Saija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"cold tolerance"},
+	{"value":"peruna"},
+	{"value":"frost resistance"},
+	{"value":"kasvifysiologia"},
+	{"value":"Solanum commersonii"},
+	{"value":"Solanum tuberosum"},
+	{"value":"photoinhibition"},
+	{"value":"potatoes"},
+	{"value":"somatic hybrids"},
+	{"value":"kylmänkestävyys"},
+	{"value":"frost damage"},
+	{"value":"kasvinjalostus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001442",
+	"dct:identifier":"FI2016001442",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

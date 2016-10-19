@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Supplementation of Tree Leaves on Rumen Microbial Population, Enzyme Activity and Water Kinetics in Goats fed Cenchrus ciliaris Grass Hay",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":131,
+	"dc:subject":[
+		{"value":"alimentation complementaire",
+	"xml:lang":"fre"
+	},
+	{"value":"micro-organisme du rumen",
+	"xml:lang":"fre"
+	},
+	{"value":"microorganismos del rumen",
+	"xml:lang":"esp"
+	},
+	{"value":"enzyme activity",
+	"xml:lang":"eng"
+	},
+	{"value":"actividad enzimatica",
+	"xml:lang":"esp"
+	},
+	{"value":"supplementary feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"alimentacion complementaria",
+	"xml:lang":"esp"
+	},
+	{"value":"activite enzymatique",
+	"xml:lang":"fre"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"rumen microorganisms",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"alimentacion",
+	"xml:lang":"esp"
+	},
+	{"value":"cenchrus ciliaris",
+	"xml:lang":"esp"
+	},
+	{"value":"alimentation",
+	"xml:lang":"fre"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":138,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000351",
+	"dct:identifier":"IN2015000351",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, Sultan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, B.B."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Present study evaluates the supplementary effect of tree leaves on rumen microbes, enzyme activities and liquid digesta kinetics in goats fed Cenchrus ciliaris (CC) grass based diets. Four adult male goats were fed CC-Leucaena leucocephala (CC-LL) and CC-Grewia optiva (CC-GO) diets in 2 separate feeding trials. Goats were offered grass (CC) and respective tree leaves in 50:50 for 90d on each diet. Rumen liquor samples were drawn at 0 and 4 h post-feeding at 60 and 90 days post-feeding to enumerate the rumen microbes and enzymes, while water kinetics were estimated at 90 days. The proteolytic bacteria were higher (P0.05) on CC-GO than CC-LL diet, while the other groups of bacteria, protozoa and fungi were comparable on both diets. The population of entodiniomorphs and holotrichs contributed 77.8 and 22.2% of the total protozoa on CC-LL and CC-GO diet, respectively. Occurrence (%) of isotricha and entodinium was highest, while occurrence of polyplastron and ophryoscolex genera was the least in rumen liquor of goats on both diets. Mean cellulase activity of enzyme in rumen liquor was higher (P0.05) on CC-LL than CC-GO diet. Rumen outflow rate was significantly (P0.05) higher in goats on CC-LL than CC-GO diet. Results revealed that goats fed CC-LL diet had higher cellulase enzyme activity and rumen outflow rate than CC-GO diet.",
+	"xml:lang":"eng"
+	}
+	}}

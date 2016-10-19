@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of energy and greenhouse gas balances of biogas with other transport biofuel options based on domestic agricultural biomass in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tuomisto, Hanna L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Helenius, Juha.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"methane"},
+	{"value":"Finland"},
+	{"value":"biomass"},
+	{"value":"biopolttoaineet"},
+	{"value":"biokaasu"},
+	{"value":"maatalous"},
+	{"value":"environmental impact"},
+	{"value":"biogas"},
+	{"value":"biofuels"},
+	{"value":"agriculture"},
+	{"value":"nitrous oxide"},
+	{"value":"green manures"},
+	{"value":"bioenergy"},
+	{"value":"air pollution"},
+	{"value":"bioenergia"},
+	{"value":"energy sources"},
+	{"value":"raw materials"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001963",
+	"dct:identifier":"FI2016001963",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

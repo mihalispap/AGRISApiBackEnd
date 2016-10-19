@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-70.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Wetting capacity distribution in aggregates from soils with a different management"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ellies, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramirez, C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mac Donald, R. H. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100284",
+	"dct:identifier":"FI2016100284",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The wetting capacity was inferred by the contact angle on a Andisol and a Ultisol from Southern Chile submitted to different managements. On microscope slides aggregates were spread and a drop of water was placed on the surface. The drop was observed with a magnifying glass with a horizontal vision field. Glass slides were buried for four years at different depths, during this period organic substances precipitated as thin films over the glasses. The results suggest that a higher organic carbon content reduces wetting capacity. Organic substances with a temporary permanency in the soil favour this resistance. The organic matter qualitative properties affect wetting capacity. Soils with a smaller wetting capacity show a higher proportion of aromatic and esters substances. Wetting resistance of topsoil aggregates diminishes from the walls to their interior. In the subsoil this tendency disappears with coarser aggregates. The wetting resistance increases to the interior as aggregates become smaller."}
+	}}

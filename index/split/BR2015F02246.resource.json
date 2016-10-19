@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Ruminal degradability corn hybrids at diferent maturity stages and silage mechanical processing",
+	"xml:lang":"eng"
+	},
+	{"value":"   Degradabilidade ruminal de híbridos de milho em função do estádio de colheita e processamento na ensilagem ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"bagging",
+	"xml:lang":"eng"
+	},
+	{"value":"layering",
+	"xml:lang":"eng"
+	},
+	{"value":"mechanics",
+	"xml:lang":"eng"
+	},
+	{"value":"processing",
+	"xml:lang":"eng"
+	},
+	{"value":"texture",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02246",
+	"dct:identifier":"BR2015F02246",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1242238928.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"FACTORI,  M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MEIRELLES,  P. R. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ROSALES,  L. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MORAES,  G. J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GONÇALVES,  H. C."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"A ensilagem da planta inteira de milho e a procura por materiais de melhor qualidade vêm favorecendo o surgimento de inúmeros genótipos com características específicas que aliados ao uso do processamento mecânico são importantes linhas de pesquisa. O objetivo deste trabalho foi avaliar o efeito do esmagamento das plantas de milho após a picagem, para ser ensilada em dois estádios de colheita de híbridos de duas texturas sobre a degradabilidade ruminal da matéria seca (MS), fibra em detergente neutro (FDN), proteína bruta (PB) e amido por meio da técnica \"in situ macro bag\". Utilizaram-se três vacas holandesas, com peso vivo médio de 520kg, providas de cânula ruminal permanente. O experimento foi feito no delineamento inteiramente casualizado, com medidas repetidas no tempo. Foi significativo (P",
+	"xml:lang":"por"
+	},
+	{"value":"The whole corn plant silage practice and the seek for materials of better quality results in various genotypes with specific characteristics wich when it is combined with mechanical processing, becomes an important research topic. The objective of this study was the evaluation of two mechanical processing at two different maturity ages of flint and dent corn hybrids on ruminal degradability of: dry matter (DM), neutral detergent fiber (NDF), crude protein (CP), and starch by the technique of \"in situ micro bag\". It were used three ruminal cannulated Holstein cows with 520kg of mean live weight. The experiment was carried out in a completely randomized design, using repeated mesurementst over time. The mechanical processing, maturity stages and incubation time were significant (P",
+	"xml:lang":"eng"
+	}
+	]
+	}}

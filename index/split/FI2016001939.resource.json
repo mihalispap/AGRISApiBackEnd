@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biological control of black vine weevil (Otiorhynchus sulcatus, Coleoptera: Curculionidae) by entomopathogenic bacteria and their cell-free toxic metabolites /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mahar, A. N.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Munir, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gowen, S. R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hague, N. G. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tabil, M. A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"entomogenous bacteria"},
+	{"value":"biological control"},
+	{"value":"insect control"},
+	{"value":"tuhoeläimet"},
+	{"value":"Otiorhynchus spp."},
+	{"value":"pests of plants"},
+	{"value":"strawberries"},
+	{"value":"mansikat"},
+	{"value":"Xenorhabdus nematophila"},
+	{"value":"Fragaria"},
+	{"value":"biologinen torjunta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001939",
+	"dct:identifier":"FI2016001939",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

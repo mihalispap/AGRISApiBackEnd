@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Morphological and chemical diversity among 38 Tunisian cultivars of Trigonella foenum graecum L."},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869637",
+	"dct:identifier":"US201300869637",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a16.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Marzougui, Nidhal (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ferchichi, Ali (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guasmi, Ferdaous (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Beji, Mohamed (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Trigonella foenum graecum L. (Leguminosae) is known for its forage potential and has several pharmacological effects. The objective of this study was to evaluate the genetic diversity of 38 Tunisian cultivars of T. foenum graecum based on vegetative and reproductive morphological and chemical markers. Fifteen morphological characters were studied and 6 mineral elements were determined for each cultivar. Ecotype descriptors of Tunisian fenugreek were measured for 50 sampled plants by cultivar. Leaves K, Na, Ca, Mg and Fe were analysed for each cultivar using flame atomic absorption method, leaves P was determined by spectrophotometry. Analysis of variance, chi-square tests and hierarchical classification, according to variations in morphological and chemical characters between cultivars, were assured with SPSS 12.0. Results were significant for all morphological characters (p<0.05) except for the flowers standard color. K content was less than 1% of the leaves’ weight in 65.8% of the studied cultivars and Na content higher than 0.2% and Mg content higher than 0.05% in 34.2% of cultivars. P content was higher than 0.3% in 23.7% of cultivars, Ca content over 0.3% in 39.5% of cultivars and Fe content higher than 0.03% in 26.3% of cultivars. Hierarchical classification based on morphological characters and on the set of leaf contents of K, Na, P, Ca, Mg and Fe did not succeed to the same grouping for 53% of the studied cultivars, whereas 47% of these cultivars were grouped in the same way as well in the grouping based on the morphological and chemical data."}
+	}}

@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Intestinal coccidiosis in a Nilgai calf (Boselaphus tragocamelus)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":266,
+	"dc:subject":[
+		{"value":"maladie intestinale",
+	"xml:lang":"fre"
+	},
+	{"value":"pathology",
+	"xml:lang":"eng"
+	},
+	{"value":"intestinal diseases",
+	"xml:lang":"eng"
+	},
+	{"value":"pathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"coccoidea",
+	"xml:lang":"esp"
+	},
+	{"value":"patologia",
+	"xml:lang":"esp"
+	},
+	{"value":"ternero",
+	"xml:lang":"esp"
+	},
+	{"value":"calves",
+	"xml:lang":"eng"
+	},
+	{"value":"eimeria",
+	"xml:lang":"esp"
+	},
+	{"value":"veau",
+	"xml:lang":"fre"
+	},
+	{"value":"enfermedades intestinales",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":268,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000131",
+	"dct:identifier":"IN2015000131",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sharma, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shivasharanappat, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Banerjee, P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sahini, Mohini"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raut, S.S."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Intestinal coccidiosis was diagnosed histo-pathologically in a one month old Nilgai calf (Boselaphustragocamelus)with the history of diarrhoea and haemorrhagic enteritis. Histologically, small intestine revealed necrosis and desquamation of epithelial cells.The cryptic spaces contained aggregations of numerous oocysts and various endogenous developmental stages of Eimeriaspp. with cellular reaction predominantly comprised of polymorph nuclear cells, lymphocytes, eosinophils and plasma cells.Two types of morphologicallydistinct oocysts (unsporulated) were identified in the intestinal contents.",
+	"xml:lang":"eng"
+	}
+	}}

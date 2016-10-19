@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A comparison of one- and two-compartment neighbourhoods in heuristic search with spatial forest management goals.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Heinonen, Tero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pukkala, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"simulointimallit"},
+	{"value":"optimization methods"},
+	{"value":"tabu search"},
+	{"value":"models"},
+	{"value":"forest management"},
+	{"value":"Hero"},
+	{"value":"simulated annealing"},
+	{"value":"random ascent"},
+	{"value":"2-optical heuristic"},
+	{"value":"spatial optimisation"},
+	{"value":"metsänhoito"},
+	{"value":"optimointi"},
+	{"value":"puunkorjuu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000059",
+	"dct:identifier":"FI2016000059",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Identification of variety-specific ISSR markers in small cardamom (Elettaria cardamomum Maton.)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":233,
+	"dc:subject":[
+		{"value":"Malabar,Mysore"},
+	{"value":"ISSR markers"},
+	{"value":"Vazhukka"},
+	{"value":"small cardamom"},
+	{"value":"SCAR"},
+	{"value":"cardamome",
+	"xml:lang":"fre"
+	},
+	{"value":"cardamoms",
+	"xml:lang":"eng"
+	},
+	{"value":"cardamomo",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":237,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000643",
+	"dct:identifier":"IN2015000643",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sherin Jose"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mary Mathew, K"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, Y.S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kuruvilla, K.M"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sudarshan, M.R"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

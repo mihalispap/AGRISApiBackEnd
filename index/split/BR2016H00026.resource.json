@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:title":{"value":"SILVOPASTORAL SYSTEM: A REVIEW REGARDING THE FAMILY AGRICULTURE",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":26,
+	"bibo:volume":2,
+	"bibo:pageEnd":41,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00026",
+	"dct:identifier":"BR2016H00026",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-07",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/265",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rubens Fey"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ubirajara Contro Malavasi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marlene de Matos Malavasi"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The Silvopastoral System (SPS) is understood as an interaction between trees, animals and pasture. The knowledge about the component action potentialities and limitations determines the system success or failure. The potentialities that can be highlighted are the heat reduction for animals and the improvement of the forage quality provided by the trees shadows. The reduction of pasture production at degraded systems is a limitation. The SPS is a sustainable option for family properties that produce meat and milk. The economical, social and cultural limitations are a problematic issue for the SPS adoption and it slows down the number of producers implementing it, specially the called family agriculture. The public policy deficiency to improve it, the lack of technical assistance preparation on the issue and the limited scientific knowledge about the system economical advantages are some of the difficulties to increase the SPS in Brazil.",
+	"xml:lang":"por"
+	}
+	}}

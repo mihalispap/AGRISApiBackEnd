@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Relationship between stripe rust (Puccinia striiformis) and grain quality of bread wheat (Triticum aestivum) in the highlands of Bale, southeastern Ethiopia"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hailu, Dereje (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fininsa, Chemeda (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100048",
+	"dct:identifier":"FI2016100048",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effects of stripe (yellow) rust caused by Puccinia striiformis f.sp. tritici on grain quality of three bread wheat varieties were analysed in grains harvested in main season (August to December) in 2002 and 2003 at Agarfa and Sinana in the highlands of Bale, Ethiopia. The objectives of the study were to quantify the amount of loss in grain quality due to stripe rust and to assess the relationship between stripe rust and grain quality of improved bread wheat varieties. Different levels of stripe rust severity were created using natural epidemics and spraying triadimefon at 7-, 14-, 21- and 28-day intervals and unsprayed control beginning at the first appearance of the disease symptoms. Grain quality parameters: hectolitre weight, grain protein content and wet gluten were measured following AACC procedures. The spray intervals significantly differed disease severity. A maximum relative loss of 12% in hectolitre weight in grains of susceptible variety Wabe and 4% in moderately susceptible Mitike variety were incurred under natural epidemics. Each 10% increase in stripe rust severity on flag leaf of Wabe at GS 69 and 71 caused a hectolitre weight loss of 1 and 1.3 kg hl-1, respectively. High levels of disease severity and longer epidemic duration at Agarfa increased grain protein content of the susceptible variety to 7% while lower levels of severity and shorter epidemic duration at Sinana reduced to 2 to 7%. Similarly, relative gluten content losses of 3 to 13% at Agarfa, and 6 to 9% at Sinana were measured in grains of the susceptible variety in 2002. In 2003, wet gluten content loss increased to 21% at Agarfa. The results confirmed the economic importance of stripe rust to food industry for its effect on grain quality of bread wheat in the highlands of Bale."}
+	}}

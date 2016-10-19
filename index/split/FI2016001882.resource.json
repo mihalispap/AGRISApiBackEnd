@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Harvesting of short rotation coppice : harvesting trials with a cut and storage system in Germany.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Schweier, Janine.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Becker, Gero.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"marginal sites"},
+	{"value":"harvest operations"},
+	{"value":"harvesting"},
+	{"value":"harvesting frequency"},
+	{"value":"stemster MK III"},
+	{"value":"marginal land"},
+	{"value":"short rotation coppice"},
+	{"value":"productivity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001882",
+	"dct:identifier":"FI2016001882",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

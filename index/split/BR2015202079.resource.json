@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"Water restriction and seed coating in the microbiolization of maize seeds with Trichoderma spp.",
+	"xml:lang":"eng"
+	},
+	{"value":"   Restrição hídrica e peliculização na microbiolização de sementes de milho com Trichoderma spp. ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"biological control",
+	"xml:lang":"eng"
+	},
+	{"value":"germination",
+	"xml:lang":"eng"
+	},
+	{"value":"zea mays",
+	"xml:lang":"eng"
+	},
+	{"value":"osmoconditioning",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202079",
+	"dct:identifier":"BR2015202079",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/386/230",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Junges Emanuele"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bastos Bruna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toebe Marcos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Muller Juceli"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pedroso Daniele"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Muniz Marlove"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Santa Maria"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"T5 – Sementes sem tratamento.O uso da restrição hídrica proporcionou eficiente microbiolização de sementes com Trichoderma spp. com aumento do controle de fungos associados. A associação da restrição hídrica e da peliculização proporcionou controle de fungos associados e manteve o vigor das plântulas de milho.O uso de Trichoderma spp. promoveu aumento no vigor das plântulas de milho, independente da técnica de microbiolização utilizada, demonstrando os benefícios deste fungo quando aplicado às sementes de milho."},
+	{"value":"T2 – Restrição hídrica: foi realizada em meio BDA + manitol (- 0,7 MPa) sobre o qual estava crescido e esporulado o fungo Trichoderma spp., foram distribuídas 100 sementes desinfestadas em cada placa. Quando houve protrusãoradicular na primeira semente, as demais foram retiradas e secas em ambiente de laboratório por 48 h"},
+	{"value":"Objetivou-se avaliar o efeito da microbiolização de sementes com Trichoderma spp. associada às técnicas de restrição hídrica e peliculização sobre o desempenho fisiológico de sementes de milho. Os tratamentos utilizados foram: T1 - Suspensão de esporos: foi utilizado o produto comercialAgrotrich® plus (0,1 g em 1 mL de água/100 sementes)"},
+	{"value":"The aim of this study was to evaluate the effect of seed microbiolization with Trichoderma spp. techniques associated with water restriction and film coating on the physiological performance of maize seed. The treatments were: T1 - Spore suspension: we used the commercial product Agrotrich® plus (0.1 g in 1 ml water/100 seeds), T2 - Water restriction: it was performed on PDA + mannitol (- 0, 7 MPa) on which was grown and sporulated Trichoderma spp. disinfected seeds were distributed 100 on each plate. When was the first seed root protrusion, the others were removed and dried in alaboratory environment for 48 h, T3 - Pelliculation: performed with the addition of the polymer Color Seed (50 mL kg-1) to the pesticide treatment containing Trichoderma spp. The seeds were dried for 48 h in a laboratory environment. T4 - Water restriction and film coating: after the seeds were primed in the presence of the fungus was made with polymer coverage",
+	"xml:lang":"eng"
+	},
+	{"value":"T3 – Peliculização: foi realizada com a adição do polímero Color Seed (50 mL kg-1) à calda de tratamento contendo Trichoderma spp. As sementes foram secas por 48 h em ambiente de laboratório. T4 – Restrição hídrica e peliculização: após as sementes terem sido condicionadas na presença do fungo foi realizada uma cobertura com polímero"},
+	{"value":"T5 - Untreated seeds. The use of water restriction provided efficient microbiolization seeds with Trichoderma spp. with increased control of fungi. The association of water restriction and film coating provided control of fungi andkept the vigor of maize seedlings. The use of Trichoderma spp. promoted an increase in seedling vigor of maize, regardless of technique used microbiolization, demonstrating the benefits of this fungus when applied to corn seeds.",
+	"xml:lang":"por"
+	}
+	]
+	}}

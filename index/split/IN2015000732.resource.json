@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Forecasting of arecanut market price in north eastern India:ARIMA modelling approach",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":330,
+	"dc:subject":[
+		{"value":"ARIMA"},
+	{"value":"interrupted time series model"},
+	{"value":"intervention model"},
+	{"value":"technique de prevision",
+	"xml:lang":"fre"
+	},
+	{"value":"forecasting",
+	"xml:lang":"eng"
+	},
+	{"value":"areca",
+	"xml:lang":"esp"
+	},
+	{"value":"tecnicas de prediccion",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":337,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000732",
+	"dct:identifier":"IN2015000732",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sandip Shil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Acharya, G.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jose, C.T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sit, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"George V Thomas."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The paper deals with forecasting of minimum, maximum and average arecanut (Areca catechu L.) prices in the major arecanut markets of the Assam as well as Meghalaya based on the monthly price data. Monthly minimum, maximum, and average market price data of arecanut (in Rs./quintal) for the period May-2003 to March-2012 (for Assam) and February-2003 to March-2012 (for Meghalaya) were used. Box-Jenkins autoregressive integrated moving average (ARIMA) methodology was adopted for developing the models. An interrupted time-series model was also applied to resolve the problem of intervention point (October-2011) for Meghalaya price data. The proposed models were ARIMA (1, 0, 1), ARIMA (1, 1, 1), ARIMA (0, 1, 1) (for Assam market price data series) and, log ARIMA (0, 1, 1), log ARIMA(1, 0, 1) with linear trend and a man-made intervention (Oct-2011) and log ARIMA (0, 1, 1) with linear trend and a manmade intervention (Oct-2011) (for Meghalaya market price data series) for minimum, maximum, and average monthly price series, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

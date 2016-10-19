@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Cloning and characterization of metallothionein like protein cDNA in tea using RACE",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":157,
+	"dc:subject":[
+		{"value":"grey blight,metallothionein,RACE"},
+	{"value":"pestalotiopsis",
+	"xml:lang":"esp"
+	},
+	{"value":"camelia sinensis",
+	"xml:lang":"esp"
+	},
+	{"value":"camellia sinensis",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":162,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000630",
+	"dct:identifier":"IN2015000630",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Senthilkumar, P"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal,  A.K.A."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Metallothionein (MT) like protein have important role in biotic and abiotic stress tolerance in plants. It also plays vita role in controlling intracellular redox potential and activation of oxygen detoxification in plants after pathogen invasion .In the present study, full length gene encoding MT was amplified using rapid amplification of cDNA ends (RACE reaction and sequenced (GenBank Acc. No. JN315623). Sequence analysis revealed presence of 276 bp open reading frame with coding capacity of 92 amino acids, flanked by 262 bp and 166 bp 5  and 3 untranslated regions (UTR respectively. Theoretical pi and molecular weight of the analysed sequence was 5.37 and 9.5 kDa respectively. Phylogenetic analysis of MT with other plant species was discussed.",
+	"xml:lang":"eng"
+	}
+	}}

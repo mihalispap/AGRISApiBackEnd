@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":"2016-07-03",
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"CONSERVAÇÃO DE REPOLHO MINIMAMENTE PROCESSADO SOB EFEITO DE DIFERENTES EMBALAGENS, TEMPO DE ESTOCAGEM E TEMPERATURA"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Moreno, Leandro Bassi, UNIVERSIDADE FEDERAL DA GRANDE DOURADOS"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"scherwinski, Rainer , UNIVERSIDADE FEDERAL DA GRANDE DOURADOS"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"da Silva, João Manoel Teixeira, UNIVERSIDADE FEDERAL DA GRANDE DOURADOS"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Scalon, Silvana de Paula Quintão, Universidade Federal da Grande Dourados"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carnevalli, Thiago Oliveira, Universidade Federal da Grande Dourados"
+	}
+	}
+	],
+	"dct:extent":"68-74",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00041",
+	"dct:identifier":"BR2016H00041",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"bibo:abstract":{"value":"A utilização de atmosfera modificada e redução da temperatura de armazenamento aumentam a vida útil de diversas hortaliças e frutas minimamente processadas. O presente estudo consistiu em avaliar os efeitos de diferentes embalagens, temperaturas e tempo de estocagem (0, 4, 8 e 12 dias) nas propriedades físico-químicas de repolho minimamente processado. As amostras foram acondicionadas em bandeja pet, bandeja de isopor embaladas com filme PVC e em sacos plásticos sob diferentes temperaturas (8 °C, 15 °C e 25 °C), que foram arranjados em esquema fatorial 3 x 3, no delineamento experimental de blocos inteiramente casualizados, com três repetições. Após o processamento do repolho foram retiradas 150 g do material e acondicionado nas diferentes embalagens. De modo geral, observou-se que, independente do tipo de embalagem utilizada, as amostras armazenadas a 15 °C apresentaram os melhores resultados para todas as variáveis analisadas. Este efeito pode ser creditado ao efeito positivo da baixa temperatura na diminuição da concentração de oxigênio e gás carbônico, que em geral, é essencial para a conservação das propriedades físico-químicas do repolho minimamente processado."},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"REVISTA DE AGRICULTURA NEOTROPICAL"}
+	}
+	}
+	}}

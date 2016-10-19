@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of species composition on economic return in amixed stand of Norway spruce and Scots Pine.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Vettenranta, Jouni.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"metsänkäsittelytavat"},
+	{"value":"puulajikoostumus"},
+	{"value":"kasvumallit"},
+	{"value":"models"},
+	{"value":"mänty"},
+	{"value":"kannattavuus"},
+	{"value":"mixed forests"},
+	{"value":"valuation"},
+	{"value":"taloudellinen arviointi"},
+	{"value":"Pinus sylvestris"},
+	{"value":"sekametsät"},
+	{"value":"Picea abies"},
+	{"value":"silvicultural systems"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001555",
+	"dct:identifier":"FI2016001555",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:title":{"value":"Study on Carbon Dioxide Emission Performance in the Guangdong Province Based on the Malmquist-Luenberger Index",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"carbon dioxide",
+	"xml:lang":"eng"
+	},
+	{"value":"emission",
+	"xml:lang":"eng"
+	},
+	{"value":"chars",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513057",
+	"dct:identifier":"IN2016513057",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=14",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Guo Hao"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wang Dong"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yu Pa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lin Lianlian"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Based on academic studies of carbon dioxide emissions, an environmental data envelopment analysis (DEA) model, including undesirable carbon dioxide emissions, is reported here. MaxDEA software was used to calculate carbon emissions performance in the Guangdong Province of China. Our findings revealed that in order to achieve the same level of economic development achievements, carbon emission performance and carbon dioxide pollution are negatively correlated. Moreover, pollution prevention and protection measures can decrease the degree of carbon dioxide pollution. Here, we observed that increasing economic development has a positive effect on carbon emission performance and the greater the energy demand, the higher the degree of pollution. Technological change is a decisive factor influencing carbon emissions performance. By employing technological innovations, energy utilization efficiency and the resulting level of environmental pollution can be greatly improved",
+	"xml:lang":"eng"
+	}
+	}}

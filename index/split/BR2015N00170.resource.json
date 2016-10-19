@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ANÁLISE ESTRUTURAL DE AÇAIZAIS NATIVOS (Euterpe oleracea Mart.) EM FLORESTA DE VÁRZEA, AMAPÁ, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":45,
+	"bibo:volume":4,
+	"bibo:pageEnd":51,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00170",
+	"dct:identifier":"BR2015N00170",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1112",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Marcelo de Jesus Veiga Carim"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Luis Mauricio Abdon"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"José Renan da Silva Guimarães"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Luciedi de Cássia Leôncio Tostes"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto de Pesquisas Cientificas e Tecnológicas do Estado do Amapá"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Objetivou-se com este trabalho analisar a estrutura das populações de açaizais da várzea estuarina do município de Mazagão - AP. Utilizou-se cinco parcelas amostrais de 1ha, subdivididas em 50 subparcelas de 200m<sup>2</sup>. Todos os indivíduos com CAP </span><span style=\"font-size: 12pt; font-family: Symbol;\">³</span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\"> 10cm, a partir de 3 metros de altura foram mensurados e estratificados em classes de tamanho. Os dados foram digitalizados no software Excel. Calculou a média, variância e desvio padrão a partir do programa BIOSTAT. Registrou-se 545 touceiras de açaizeiros (<Euterpe oleracea Mart.) com 1.934 plantas e 3.474 perfilhos. Os valores de circunferência apresentaram maior número de indivíduos entre 15,1cm a 30cm, assumindo aproximadamente 58% do total amostrado. Observou-se que, entre 10m e 25m de altura concentraram-se o maior número de indivíduos. A média de touceiras foi de 109 com 386,8 plantas e 694,8 perfilhos para as cinco áreas trabalhadas. </span>",
+	"xml:lang":"por"
+	}
+	}}

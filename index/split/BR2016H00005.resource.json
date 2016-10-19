@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"ESTERCO BOVINO E FIBRA DE COCO NA FORMAÇÃO DE MUDAS DE BARUZEIRO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":42,
+	"bibo:volume":1,
+	"bibo:pageEnd":51,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00005",
+	"dct:identifier":"BR2016H00005",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-01",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/240",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Letícia Carolina de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Edilson Costa"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marcos Fidêncio de Oliveira Sobrinho"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Flávio Ferreira da Silva Binotti"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wilson Itamar Maruyama"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ana Carolina Alves"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"ESTERCO BOVINO E FIBRA DE COCO NA FORMAÇÃO DE MUDAS DE BARUZEIRO",
+	"xml:lang":"por"
+	}
+	}}

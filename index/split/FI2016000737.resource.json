@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal variations in the chemical and functional properties of starches from local and improved cassava varieties in high rainfall region of Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Eke, J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Achinewhu, S. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sanni, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Barimalaa, I. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maziya-Dixon, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dixon, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content"},
+	{"value":"Manihot esculenta"},
+	{"value":"swelling"},
+	{"value":"seasonal variation"},
+	{"value":"genetic variation"},
+	{"value":"varieties"},
+	{"value":"cassava"},
+	{"value":"carbohydrate content"},
+	{"value":"solubility"},
+	{"value":"protein content"},
+	{"value":"starch"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000737",
+	"dct:identifier":"FI2016000737",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Tree stand development and carbon sequestration in drained peatland stands in Finland : a simulation study.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Minkkinen, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Laine, Jukka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hökkä, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"Finland"},
+	{"value":"drainage"},
+	{"value":"hiili"},
+	{"value":"kasvumallit"},
+	{"value":"models"},
+	{"value":"metsiköt"},
+	{"value":"kasvu"},
+	{"value":"carbon"},
+	{"value":"forest stands"},
+	{"value":"ojitus"},
+	{"value":"suot"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000987",
+	"dct:identifier":"FI2016000987",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

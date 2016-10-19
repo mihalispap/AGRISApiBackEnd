@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutrient and light availability to white spruce seedlings in partial and clearcut harvested aspen stands /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lapointe, Benoit.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bradley, Robert.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Parsons, William.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Brais, Suzanne.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"valkokuusi"},
+	{"value":"valo"},
+	{"value":"foliar nutrients"},
+	{"value":"soil mineral nitrogen"},
+	{"value":"Picea glauca"},
+	{"value":"neulaset"},
+	{"value":"nitrogen"},
+	{"value":"maaperä"},
+	{"value":"DIFN light"},
+	{"value":"ravinteet"},
+	{"value":"mineraalit"},
+	{"value":"typpi"},
+	{"value":"vector analysis"},
+	{"value":"plant nutrition"},
+	{"value":"minerals"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002210",
+	"dct:identifier":"FI2016002210",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

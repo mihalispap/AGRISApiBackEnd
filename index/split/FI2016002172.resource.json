@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"An application of process-based modelling to the development of branchiness in scots pine.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mäkelä, Annikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vanninen, Petteri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ikonen, Veli-Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"simulointi"},
+	{"value":"wood"},
+	{"value":"crown"},
+	{"value":"hiili"},
+	{"value":"laatu"},
+	{"value":"puutavara"},
+	{"value":"latvus"},
+	{"value":"simulation"},
+	{"value":"kasvumallit"},
+	{"value":"oksat"},
+	{"value":"models"},
+	{"value":"mänty"},
+	{"value":"läpimitta"},
+	{"value":"kasvu"},
+	{"value":"mallit"},
+	{"value":"Pinus sylvestris"},
+	{"value":"branching"},
+	{"value":"carbon"},
+	{"value":"oksaisuus"},
+	{"value":"biomassa"},
+	{"value":"quality"},
+	{"value":"hiilitase"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002172",
+	"dct:identifier":"FI2016002172",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

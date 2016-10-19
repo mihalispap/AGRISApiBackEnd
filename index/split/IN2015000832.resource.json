@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Software design and application for oil palm kisan mobile message services in India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":272,
+	"dc:subject":[
+		{"value":"MOBILE MESSAGE SERVICES"},
+	{"value":"SOFTWARE"},
+	{"value":"bases de datos",
+	"xml:lang":"esp"
+	},
+	{"value":"palmier oleifere",
+	"xml:lang":"fre"
+	},
+	{"value":"banque de donnees",
+	"xml:lang":"fre"
+	},
+	{"value":"oil palms",
+	"xml:lang":"eng"
+	},
+	{"value":"palmas oleaginosas",
+	"xml:lang":"esp"
+	},
+	{"value":"databases",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":275,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000832",
+	"dct:identifier":"IN2015000832",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mary Rani, K.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, M.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arulraj, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Krishna Hemanth, G."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

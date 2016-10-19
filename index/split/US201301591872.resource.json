@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The use of Donryu rats as a model for the humans in the formulation of dietary protein"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591872",
+	"dct:identifier":"US201301591872",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f26.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dawodu, F.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ajanaku, K.O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The effects of brewery spent grain formulated diet on the performance of Donryu rats were investigated. The rats were allocated into 6 dietary treatment groups of 6 rats each and fed with diet containing graded levels of BSG 0, 3, 6, 9, 12 and 100%. The experimental feeding lasted for fifteen days. The BSG formulated diet was found to have a positive effect on the growth performance of the rats up to levels of 12% including the control (0%). The histopathological evaluation shows that 3–9% BSG could be used as protein supplement in human foods."}
+	}}

@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A combined infrared/heat pump drying technology applied to a rotary dryer.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Pääkkönen, Kirsti.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"säilöntämenetelmät"},
+	{"value":"yrtit"},
+	{"value":"dryers"},
+	{"value":"vihannekset"},
+	{"value":"infrapunasäteily"},
+	{"value":"kuivausrummut"},
+	{"value":"herbaceous plants"},
+	{"value":"infrared radiation"},
+	{"value":"vegetables"},
+	{"value":"kuivaus"},
+	{"value":"kuivatut elintarvikkeet"},
+	{"value":"rehydration"},
+	{"value":"postharvest equipment"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000652",
+	"dct:identifier":"FI2016000652",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

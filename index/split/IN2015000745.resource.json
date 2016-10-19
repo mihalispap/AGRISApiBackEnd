@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Digital phenotyping of coconut and morphological traits associated with eriophyid mite infestation",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":417,
+	"dc:subject":[
+		{"value":"tepal"},
+	{"value":"Hunterlab"},
+	{"value":"spectral"},
+	{"value":"couleur",
+	"xml:lang":"fre"
+	},
+	{"value":"palmae",
+	"xml:lang":"esp"
+	},
+	{"value":"colour",
+	"xml:lang":"eng"
+	},
+	{"value":"penetrometre",
+	"xml:lang":"fre"
+	},
+	{"value":"color",
+	"xml:lang":"esp"
+	},
+	{"value":"penetrometros",
+	"xml:lang":"esp"
+	},
+	{"value":"penetrometers",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":424,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000745",
+	"dct:identifier":"IN2015000745",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Arunachalam, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Augustine Jerard, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Elain Apshara, S"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayabose, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Subaharan, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ravikumar, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Palaniswami, C."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Observations were recorded on traits associated with mite infestation related at two stages of  button on six different coconut cultivars over three years. Highly significant correlation was found  between mite damage score with color or weight of tepa!.  Step-wise multiple  regression  of the data analysis showed color of inner tepal  as major trait associated with  infestation by eriophyid mite. Other traits are ratio of  tepal weight to tepal area, per cent of buttons with pink discoloration or with resin, tepals of  regular aestivation and gap between fruit and tepa!. Digital phenotype data of 83  image files  were used  to calculate color signature and correlated  the same to mite damage score over three years . Red spectral values were found to vary from  14  to 251, green values to 12  to 237 and blue to vary from 5  to  183.  Spectral  values  red  max,  green max,  3  Red + Green  max  had  high  significant  negative  correlation (-0.4) with mite damage. Color and firmness of  fruits and tepals of  three coconut varieties were further analyzed where,  fruits  and  tepals  of COD  variety  showed  high  red/green  (a  value  of Hunterlab)   12.  Firmness  of 3 month  old  tepal  and  fruit  of Benualim  (BGRT)  tall  variety was  (penetrometer  reading  38)  higher  than  other  varieties.",
+	"xml:lang":"eng"
+	}
+	}}

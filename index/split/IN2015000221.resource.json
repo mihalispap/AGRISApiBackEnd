@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal expression of Cry 1 Ac toxin in different plant parts of two Bt Cotton hybrids",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":62,
+	"dc:subject":[
+		{"value":"hybride",
+	"xml:lang":"fre"
+	},
+	{"value":"hibridos",
+	"xml:lang":"esp"
+	},
+	{"value":"test elisa",
+	"xml:lang":"fre"
+	},
+	{"value":"toxinas",
+	"xml:lang":"esp"
+	},
+	{"value":"elisa",
+	"xml:lang":"esp"
+	},
+	{"value":"toxins",
+	"xml:lang":"eng"
+	},
+	{"value":"toxine",
+	"xml:lang":"fre"
+	},
+	{"value":"hybrids",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":64,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000221",
+	"dct:identifier":"IN2015000221",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mahalakshmi, M.Sesha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, N.V.V.S.D."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The studies were conducted to estimate the quantity of Cry 1 Ac protein in different parts from two transgenic Bt cotton hybrids, viz., MECH 12 Bt and RCH 2 Bt at different crop growth stages through Bt-Quant ELISA kit. The Cry 1 Ac toxin expression was found to be variable among the hybrids and also among the different plant parts over the plant age. The Cry 1 Ac toxin expression was highest in leaves followed by inter locular wall and seed when compared to flower buds, flowers and boll rind in both MECH 12 Bt and RCH 2 Bt hybrids. The toxin expression was highest at 60 DAS which declined gradually by 150 DAS in both MECH 12 Bt and RCH 2 Bt hybrids.",
+	"xml:lang":"eng"
+	}
+	}}

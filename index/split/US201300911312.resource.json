@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Integrating biophysical and socio-economic data using GIS for land evaluation of wheat cultivation: A case study in north-west Bangladesh"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911312",
+	"dct:identifier":"US201300911312",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/e14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Perveen, Mst. Farida (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagasawa, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ahmed, A. O. Cherif (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uddin, Md. Imtiaz (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kimura, R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Land use planning and management is considered a very complex issue since it is usually solved by the multisectoral-interdisciplinary hierarchy decomposition approaches. In general, land use planning indicates the consideration of integrating biophysical and socio-economic variables. Evaluation of biophysical variables is usually a first step for land use analysis and it involves the multi-criteria evaluation (MCE). This study aims at integrating biophysical and socio-economic data with Geographical Information System (GIS) for land suitability evaluation of irrigated wheat cultivation. The selected area is located in Haripur Upazila, Thakurgaon district, north-west part of Bangladesh. The major economic crops in this area are rice and wheat. Relevant biophysical variables such as soil texture, soil moisture, soil drainage, soil depth, soil pH, soil organic matter, slope, land type and supplementary water resource were considered. The socio-economic factors used in this study were availability of manpower, market linkage and road linkage. The suitability is based on the FAO framework for land evaluation. For MCE, the Analytical Hierarchy Process (AHP) was applied for judging the parameters and computing the priority index to each parameter. The various thematic layers were overlaid using ArcGIS version 9.2 software to create land suitability map of unique characteristics. To generate current land use/cover map, Terra/ASTER 28 February 2001 satellite image was classified through supervised classification using ERDAS Imagine version 9.1 software. Finally, we overlaid the land use/cover map with the land suitability map for wheat cultivation to identify differences and similarities between the present and potential land use. The results of this research identified that in the study area, 34% of current wheat fields were under moderately suitable areas, 35% was under marginally suitable areas and 31% was under not suitable areas."}
+	}}

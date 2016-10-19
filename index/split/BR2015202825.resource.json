@@ -1,0 +1,88 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Influência de biorregulador na qualidade fisiológica de sementes de milho durante o armazenamento ",
+	"xml:lang":"por"
+	},
+	{"value":"Influence of bioregulator on physiological quality of maize seed during storage",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"vigor",
+	"xml:lang":"eng"
+	},
+	{"value":"germination",
+	"xml:lang":"eng"
+	},
+	{"value":"zea mays",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015202825",
+	"dct:identifier":"BR2015202825",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/373/269",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gomes de Moraes Dan Lilian"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"de Lucca Braccini Alessandro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guillen Piccinin Gleberson"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"de Almeida Dan Hugo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toshio Ricci Thiago"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alberto Scapim Carlos"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Maringa, Maringa, PR,Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Maringa, Maringa, PR,Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Maringa, Maringa, PR,Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Maringa, Maringa, PR,Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Maringa, Maringa, PR,Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Maringa, Maringa, PR,Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Incorporation of vegetal regulator-based products to maize seeds is a new reality. However, special attention should be paid to the physiological quality of seeds, particularly during storage. The purpose of the present study was to assess the effects of the bioregulator Stimulate® about both seed treatment and maize seeds’ physiological quality in different storage periods. Evaluation of physiological quality was accomplished by germination test (first and final count), cold germination test and sand emergence test. Maize seeds’ bioregulator-managed treatment – especially whenapplied to high vigor seeds – ensures lower reduction in physiological quality for up to 180 days of storage, whereas, when applied to medium vigor seeds, greater bioregulator benefits are observed in short-term storage.",
+	"xml:lang":"eng"
+	},
+	{"value":"A incorporação de produtos a base de reguladores vegetais às sementes de milho é uma nova realidade. No entanto, deve-se atentar aos efeitos desses produtos na qualidade fisiológica das sementes, particularmente no armazenamento. O objetivo do trabalho foi avaliar os efeitos do biorregulador Stimulate®, via tratamento de sementes, na qualidade fisiológica das sementes de milho em diferentes períodos de armazenamento. A avaliação da qualidade fisiológica foirealizada pelos seguintes testes: primeira contagem e contagem final do teste de germinação, teste de frio e emergência em areia. Em sementes de milho de alto vigor o tratamento de sementes de milho com o biorregulador garante menor redução na qualidade fisiológica por até 180 dias dearmazenamento. Em sementes de médio vigor, maiores benefícios do biorregulador são observados em períodos curtos de armazenamento.",
+	"xml:lang":"por"
+	}
+	]
+	}}

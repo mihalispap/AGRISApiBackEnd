@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of size of farm operation on resource use efficiency in small scale farming: Evidence from southwestern Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038720",
+	"dct:identifier":"FI2006038720",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/en5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ajibefun, Igbekele A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdulkadri, Abdullahi O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Studies aimed at modelling resource-use efficiency in small-scale farming in Africa have paid little attention to the influence of size of operation on efficiency estimates. In rising to this challenge, this paper examines the technical efficiency levels of a group of small-scale farmers in Ondo state, Nigeria, in order to determine the effects of individual farmer’s size of operation on their resource-use efficiency. The stochastic frontier production function model was used to estimate the technical efficiency of the farmers, given the available resources. Results of the analysis indicate that the major farm resources were significant determinants of output level and that increasing returns to scale exists among the farmers. The results also show a wide variation in the level of technical efficiency. For land resource, farmers with total cropped area of between 1.00 and 1.49 hectares of land have the highest mean technical efficiency of 0.70. For labour resource, the highest mean technical efficiency of 0.71 is from the group of farmers with 100-199 mandays of labour, while for capital resources, farmers with value of capital resources in the range of N4000 to N6999 had the highest mean technical efficiency of 0.72. The study concludes that resource availability does not directly translate to efficiency, as farmers with less intensive use of land, labour and capital resources are more efficient in the use of these resources than do farmers with more intensive use of the resources."}
+	}}

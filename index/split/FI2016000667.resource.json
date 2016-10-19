@@ -1,0 +1,72 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of EU policy on agricultural nutrient losses and the state of receiving surface waters in Finland /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ekholm, Petri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Granlund, Kirsti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kauppila, Pirkko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mitikka, Sari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemi, Jorma.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rankinen, Katri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Räike, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Räsänen, Johanna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Finland"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"lakes"},
+	{"value":"rivers"},
+	{"value":"vesistönkuormitus"},
+	{"value":"European union"},
+	{"value":"nutrients"},
+	{"value":"EU-maat"},
+	{"value":"environment"},
+	{"value":"runoff"},
+	{"value":"eutrophication"},
+	{"value":"ravinteet"},
+	{"value":"environmental policies"},
+	{"value":"ympäristöohjelmat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000667",
+	"dct:identifier":"FI2016000667",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

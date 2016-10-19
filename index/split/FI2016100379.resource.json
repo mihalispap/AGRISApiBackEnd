@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/e4(2).pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Using principal component analysis to characterize the Tibagi River hydrographic basin, Paraná State, Brazil"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bisinoti, Márcia Cristina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yabe, Maria Josefa S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gimenez, Sônia M.N. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100379",
+	"dct:identifier":"FI2016100379",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This paper aims to study the chemical and biological parameters in the ecological system of the Tibagi River in Paraná State, Brazil. In this context, several limnologic parameters were evaluated: pH, dissolved oxygen, conductivity, turbidity, temperature, ammonium, nitrate, nitrite, total phosphorus, total alkalinity, oxygen chemistry demand, total solids, transparency, seston, chlorophyll a, b, and c, phaeophytin, fecal and total coliforms during the 1991 and 1998/1999 hydrologic years, from eight sampling stations sited along the Tibagi River. The results obtained in this monitoring were evaluated by Principal Components Statistical Analysis (PCA) and Hierarchical Group Analysis for comparison of the basin conditions over time. The principal components of the data group isolated the observations regarding the headwater, detaching it out as a referential area of reduced environmental impact. It can conclude that the parameters quantified are very efficient for identifying and that the dry season shows the worst water quality. These were caused by organic matter, nutrients (originate) from anthropogenic sources (spatial sources) and mainly municipal wastewater, affecting the quality and hydrochemistry of the river water, which have been differentiated and assigned to polluting sources. The water quality has undergone degradation over the years, in spite of a positive modification of the fauna and flora populations. The Tibagi River basin influences other important aquatic systems in the country, and it has been considered a point of dispersion of several species of the Atlantic ocean. A comparison of the data obtained for the two time periods studied showed that parameters studied suffered an increase in the concentrations along the Tibagi River hydrographic basin. It can conclude that the degree of degradation in Tibagi River is low and this way people of Paraná State can use this water, after conventional treatment."}
+	}}

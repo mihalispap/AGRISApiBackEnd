@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Macro and micro-mineral status of feeds and fodders in West Kameng district of Arunachal Pradesh",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1076,
+	"dc:subject":[
+		{"value":"feed crops",
+	"xml:lang":"eng"
+	},
+	{"value":"piensos",
+	"xml:lang":"esp"
+	},
+	{"value":"feeds",
+	"xml:lang":"eng"
+	},
+	{"value":"trace elements",
+	"xml:lang":"eng"
+	},
+	{"value":"fourrage",
+	"xml:lang":"fre"
+	},
+	{"value":"plante fourragere",
+	"xml:lang":"fre"
+	},
+	{"value":"oligoelementos",
+	"xml:lang":"esp"
+	},
+	{"value":"plantas forrajeras",
+	"xml:lang":"esp"
+	},
+	{"value":"oligo-element",
+	"xml:lang":"fre"
+	},
+	{"value":"aliment pour animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"forrajes",
+	"xml:lang":"esp"
+	},
+	{"value":"mineral content",
+	"xml:lang":"eng"
+	},
+	{"value":"teneur en elements mineraux",
+	"xml:lang":"fre"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"arunachal pradesh",
+	"xml:lang":"esp"
+	},
+	{"value":"contenido mineral",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1079,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000283",
+	"dct:identifier":"IN2015000283",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chatterjee, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghosh, M.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Roy, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Santra, A."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"In the present study an attempt was made to assess the mineral status of feeds and fodder commonly fed to the livestock of West Kameng district of Arunachal Pradesh. Samples of feeds and fodder were collected from nine representative sites of varying altitude (5000 to 10000 ft asl) and analyzed for some important minerals. The dry roughages were deficient in most of the macro-minerals except phosphorus in paddy straw and calcium and phosphorus in dry grasses. Micro-mineral content in dry grasses were optimum. Paddy straw contained adequate level of cobalt and manganese whereas, millet straw contained adequate level of cobalt, iron and manganese. The pasture grasses were deficient in Ca, Mg and K. The tree fodders in this region were rich source of Fe, Mn and Co, adequate in Cu and deficient in Zn. Most of the concentrate feed ingredients were adequate in P, Fe, Co and Cu but deficient in Ca, Mg, Na and K, Zn and Mn. This account of the macro and micro-mineral content of feeds/fodder resources should help in strategic supplementation intended to alleviate local deficiencies for improving the productivity of livestock of this region.",
+	"xml:lang":"eng"
+	}
+	}}

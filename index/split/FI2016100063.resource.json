@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e9.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Farm productivity and poverty in Kenya: The effect of soil conservation"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kabubo-Mariara, Jane (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mwabu, Germano (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kimuyu, Peter (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100063",
+	"dct:identifier":"FI2016100063",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Soil erosion and land degradation have become major environmental concerns and present a formidable threat to food security and sustainability of agricultural production in Kenya. The biggest challenge currently facing the Kenyan government is how to achieve the triple developmental goals of food sufficiency, better nutrition and poverty reduction without increasing the land devoted to food crops. This paper responds to a paucity of empirical information on the impact of land degradation on farm productivity and poverty in Kenya. The paper builds on the few existing studies in this area and explores the impact of conventional inputs and adoption of soil conservation practices on farm yields per acre controlling for the effects of institutional factors. Panel data collected from farming households is utilized to achieve the study objectives. The paper tests and rejects the hypothesis that adoption of soil conservation practices has no effect on farm productivity or on poverty reduction. We test thishypothesis controlling for impacts of conventional farm inputs and institutional factors notably the property rights regimes. Due to the joint determination of soil conservation practices and productivity, we use the fixed effects – instrumental variables (FE-IV) method to isolate the productivity effects of soil conservation. We further simulate the impact of key policy changes on productivity on one hand and on poverty (head count ratio) on the other. The key finding of the paper (from the FE-IV) is that controlling for unobserved heterogeneity, soil conservation has a large measurable impact on farm productivity and on poverty reduction in the long-run. We also find that well specified property rights are associated with higher farm productivity, a debate that is widely contested in the literature. Policy simulations indicate that privatization of common land and adoption of particular soil conservation practices can play a decisive role in increasing agricultural yields and in reducing poverty in semi-arid areas."}
+	}}

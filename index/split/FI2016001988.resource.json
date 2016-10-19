@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Technological properties of a variety of soft and hard bread wheat infested by Rhyzopertha dominica (F.) and Tribolium confusum du Val.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ozkaya, H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ozkaya, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Colakoglu, A. S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"smell"},
+	{"value":"moisture content"},
+	{"value":"population density"},
+	{"value":"taste (sensation)"},
+	{"value":"protein content"},
+	{"value":"ashes"},
+	{"value":"endosperm"},
+	{"value":"kernels"},
+	{"value":"wheats"},
+	{"value":"baking characteristics"},
+	{"value":"flours"},
+	{"value":"quality"},
+	{"value":"firmness"},
+	{"value":"pest insects"},
+	{"value":"chemical composition"},
+	{"value":"gluten"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001988",
+	"dct:identifier":"FI2016001988",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

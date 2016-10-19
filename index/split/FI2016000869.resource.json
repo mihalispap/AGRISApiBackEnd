@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Quantitative simulation of biochemical processes in peatlands as a tool to define sustainable use?.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Trepel, Michael.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Davidsson, Torbjörn.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jørgensen, Sven-Erik.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"restoration"},
+	{"value":"simulointi"},
+	{"value":"mallit"},
+	{"value":"denitrification"},
+	{"value":"typpi"},
+	{"value":"entistäminen"},
+	{"value":"nitrifikaatio"},
+	{"value":"simulation models"},
+	{"value":"suot"},
+	{"value":"nitrogen"},
+	{"value":"bogs"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000869",
+	"dct:identifier":"FI2016000869",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Multiannual hydrological responses in Scots pine radial growth within raised bogs in southern Sweden.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"hydrology"},
+	{"value":"peatlands"},
+	{"value":"river discharge"},
+	{"value":"precipitation"},
+	{"value":"Pinus sylvestris"},
+	{"value":"dendrochronology"},
+	{"value":"hydrologia"},
+	{"value":"dendrokronologia"},
+	{"value":"Pinus sylvestris L."},
+	{"value":"suot"}
+	],
+	"bibo:doi":"10.14214/sf.1354",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000476",
+	"dct:identifier":"FI2016000476",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1354",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Edvardsson, Johannes,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hansson, Anton,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

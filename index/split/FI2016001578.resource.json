@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biochemical deterioration of soybean daddawa : a condiment.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Popoola, Tope O. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kolapo, Adelodun L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Afolabi, Oluwatoyin R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"soijapapu"},
+	{"value":"food safety"},
+	{"value":"fermented foods"},
+	{"value":"käymistuotteet"},
+	{"value":"säilyvyys"},
+	{"value":"laatu"},
+	{"value":"varastointi"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"keeping quality"},
+	{"value":"soybeans"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001578",
+	"dct:identifier":"FI2016001578",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

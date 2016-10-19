@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Management of investment processes on Finnish farms /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mattila, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Manninen, Marja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rikkonen, Pasi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kymäläinen, Hanna-Riitta.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"farm management"},
+	{"value":"päätöksenteko"},
+	{"value":"Finland"},
+	{"value":"maanviljelijät"},
+	{"value":"maatalous"},
+	{"value":"agricultural structure"},
+	{"value":"decision making"},
+	{"value":"investoinnit"},
+	{"value":"investment"},
+	{"value":"johtaminen"},
+	{"value":"rakennemuutos"},
+	{"value":"structural change"},
+	{"value":"farms"},
+	{"value":"ostokäyttäytyminen"},
+	{"value":"maatilat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000909",
+	"dct:identifier":"FI2016000909",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

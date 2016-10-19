@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of dietary supplementation of certain enzymes on growth performance and feed conversion efficiency in Yorkshire piglets",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1259,
+	"dc:subject":[
+		{"value":"piglets",
+	"xml:lang":"eng"
+	},
+	{"value":"lechon",
+	"xml:lang":"esp"
+	},
+	{"value":"porcelet",
+	"xml:lang":"fre"
+	},
+	{"value":"eficiencia de conversion del pienso",
+	"xml:lang":"esp"
+	},
+	{"value":"feed conversion efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"efficacite conversion alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1261,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000335",
+	"dct:identifier":"IN2015000335",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Reddy, K. Kondal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, P.V.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Harikrishna, Ch."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lakshmi, D. Naga"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raghunandan, T."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"Large White Yorkshire piglets (18) were used to evaluate the effect of supplementing a cock tail of enzymes (cellulase, xylanase, protease, lipase, phytase, pectinase, hemicellulase, amylase, Ã-mannanase and Ã-glucanase) in pig diets on growth performance, feed conversion efficiency and economics. Piglets were fed basal diets and assigned randomly to one of 3 dietary treatments. Treatment diets were positive control diet with low fibre-4.48%; high energy-ME, 2800 Kcal/kg (PC; n, 6), negative control diet with high fibre6.7%; low energy-ME, 2500 Kcal/kg (NC; n, 6) and negative control diet supplemented with enzymes (ENC; n, 6). Dry matter (DM) intake, was tended to be lower for the NC and ENC groups compared to PC group. The final weight, total gain and ADG were significantly higher on ENC group compared to NC group, while PC group was intermediate. The feed conversion ratio and cost of gain was significantly lower in ENC and PC groups compared to NC group of piglets. Cost of feeding was lower in piglets fed ENC diet (12.1%) followed by PC diet (10.3%) compared to NC diet, whereas cost of feeding recorded for ENC diet was 1.7% lower than PC diet. Therefore, the enzyme cost is marginal relative to the benefits achieved and is justified for inclusion in swine diets and any attempt to reduce the feed cost by the utilization of feed grade enzymes in diets would improve the profitability.",
+	"xml:lang":"eng"
+	}
+	}}

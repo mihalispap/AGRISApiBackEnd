@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Coconut based cropping system(Lakhi baug) for better yield",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":30,
+	"dc:subject":[
+		{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"intercropping",
+	"xml:lang":"eng"
+	},
+	{"value":"sistemas de cultivo",
+	"xml:lang":"esp"
+	},
+	{"value":"cultivo intercalado",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"culture intercalaire",
+	"xml:lang":"fre"
+	},
+	{"value":"systeme de culture",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"cropping systems",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":34,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000799",
+	"dct:identifier":"IN2015000799",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kshirsagar, P.J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Talathi, J.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kulkarni, S.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Torane, S.R."
+	}
+	}
+	],
+	"bibo:issue":4
+	}}

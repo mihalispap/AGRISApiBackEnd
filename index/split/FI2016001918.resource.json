@@ -1,0 +1,25 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Sustainable forest management, data requirements and the forest resources assessment : the European experience.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Rametsteiner, Ewald.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kestävä metsätalous"},
+	{"value":"forest inventories"},
+	{"value":"sustainability"},
+	{"value":"forestry"},
+	{"value":"metsäninventointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001918",
+	"dct:identifier":"FI2016001918",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

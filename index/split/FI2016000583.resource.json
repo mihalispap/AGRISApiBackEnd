@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The role of mustard meal in reducing the attack of root flies in brassica vegetable crops.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Jonasson, Thomas.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"biological control"},
+	{"value":"torjuntamenetelmät"},
+	{"value":"Delia radicum"},
+	{"value":"Brassica alba"},
+	{"value":"vihannesviljely"},
+	{"value":"Brassica"},
+	{"value":"vegetable crops"},
+	{"value":"kasvituotteet"},
+	{"value":"biopestisidit"},
+	{"value":"pikkukaalikärpänen"},
+	{"value":"Sinapis alba"},
+	{"value":"tuhoeläimet"},
+	{"value":"torjunta-aineet"},
+	{"value":"pest insects"},
+	{"value":"puutarhaviljely"},
+	{"value":"keltasinappi"},
+	{"value":"biologinen torjunta"},
+	{"value":"botanical pesticides"},
+	{"value":"Sweden"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF Seminar
+    (1995 :
+    Lillehammer)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000583",
+	"dct:identifier":"FI2016000583",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

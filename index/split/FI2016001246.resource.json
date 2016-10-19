@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Apple firmness measurements based on visco-elastic properties.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Afkari Sayyah, Amir H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Esmailpour, Behrooz.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fruits"},
+	{"value":"quality"},
+	{"value":"firmness"},
+	{"value":"mechanical properties"},
+	{"value":"apples"},
+	{"value":"viscoelasticity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001246",
+	"dct:identifier":"FI2016001246",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

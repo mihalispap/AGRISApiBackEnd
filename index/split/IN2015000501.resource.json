@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative efficacy of insecticides and Beauveria bassiana in management of Helicoverpa armigera (HÃ¼bner)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":268,
+	"dc:subject":[
+		{"value":"beauveria bassiana",
+	"xml:lang":"esp"
+	},
+	{"value":"helicoverpa armigera",
+	"xml:lang":"esp"
+	},
+	{"value":"lycopersicon esculentum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":271,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000501",
+	"dct:identifier":"IN2015000501",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sherzad, Atiquallah"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Ashwani"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Among chemical insecticides, spinosad 45% ES @ 0.40%, dichlorvos 76 EC @ 0.60% and imidacloprid 200 SL @ 4ml/litre concentration were found to be most effictive. Plots with these chemicals had fruit damage percentage viz. 0.53%, 1.00% and 1.04%, respectively. Spinosad 45% ES @ 0.40% was most efficacious. However, the efficacy of dichlorvos and imidacloprid were non-significant with each other. The treatments with biopesticides viz. Beauveria bassiana @ 4.16 g / lit were also effective resulting 1.5% fruit damage percentage compared with control plot (3.8%). Population of Helicoverpa armigera increased and reached its peak level of 3.8% / plant during 3rd week of March (standard week 11th). The highest fruit yield of 367.3 q/ha was registered in spinosad followed by B. bassiana 328.7 q/ha and low as 203.0 q/ha was recorded in untreated control. The best cost benefit ratio was obtained with spinosad 45% ES @ 0.04% (1:11.19) followed by B. bassiana (1:10.83), chlorpyriphos 20 EC @ 0.04 % (1:9.60), dichlorvos 76 EC (1:9.52), imidacloprid 200 SL @ 4ml/litre (1:7.38), cypermethrin 25 EC (1:7.08) and monocrotophos 36 SL @ 0.04% (1:6.91).",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a21.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Tagging QTLs for maximum root length in rainfed lowland rice by combined selective genotyping and STMs markers"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Toorchi, Mahmoud (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shashidhar, H. E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hittalmani, Shailaja (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100427",
+	"dct:identifier":"FI2016100427",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A dynamic root system is fine-tuned to soil moisture status and is known to regulate the amount of water available to the plant depending on its distribution in the soil. Recent advances in genome research, particularly in the field of molecular marker technology, have generated opportunity to dissect the variation in quantitative traits in a more meaningful way. We adapted selective genotyping strategy and STMs markers for mapping QTLs for maximum root length in rainfed lowland rice. Total of 69 extreme plants were selected from P124 x IR64 mapping population for selective genotyping because of good combination of genetic factors conferring drought tolerance and yielding ability. Forty-two pairs of STMS primer pairs that were earlier found to be polymorphic between the IR64 and Azucena were selected and used in the present study. DNA extraction was done as per modified CTAB method and PCR products were separated on polyacrylamide gel and stained with silver staining procedure. A total of 4 QTLs were found for maximum root length under well-watered and low moisture stress and mean conditions."}
+	}}

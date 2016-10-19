@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f18.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Technology transfer in developing countries: Capitalizing on equipment development"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sanni, L. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alenkhe, B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Edosio, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patino, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dixon, A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100445",
+	"dct:identifier":"FI2016100445",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Current approaches to equipment development are discussed in this paper that highlights levels of adoption by African processors. The cassava industry in Nigeria is progressing from cottage level through to small and medium scales and gradually moving towards large-scale operations. More highly capacity processing equipment is being developed with some level of success. Emerging tendencies (gender influence, intellectual property rights, technical know-how of fabricators, adoption, quality hazards and environmental risks) are examined and strategies identified to ensure the development of user friendly, fuel efficient and durable equipment in Africa."}
+	}}

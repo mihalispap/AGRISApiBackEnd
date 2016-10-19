@@ -1,0 +1,84 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In situ approach for rapid characterization to aid on farm conservation of coconut germplasm - A case study of two ecotypes from West coast of India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":357,
+	"dc:subject":[
+		{"value":"in situ conservation"},
+	{"value":"recursos geneticos",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"ecotipos",
+	"xml:lang":"esp"
+	},
+	{"value":"ecotype",
+	"xml:lang":"fre"
+	},
+	{"value":"ecotypes",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic resources",
+	"xml:lang":"eng"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"ressource genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":363,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000736",
+	"dct:identifier":"IN2015000736",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Samsudeen, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thamban, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Niral, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Augustine Jerard, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajesh, M. K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manjula, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devadas, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anitha karun"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Characterization and evaluation of coconut germplasm have conventionally been undertaken in  ex situ gene banks, which take a minimum duration of fifteen years. On the other hand, utilization of coconut populations  in situ can effectively reduce the time required for characterization of the populations. Hence, a concept to make a paradigm shift in the existing approach of coconut germplasm characterization is advocated in this study with a view to broaden the conservation base and facilitate inclusion of identified diverse ecotypes. The methodology has been applied to identify,locate and characterize two tall coconut ecotypes viz., Bedakam and Kuttiyadi, from northern Kerala. Agronomic traits,viz., higher number of nuts per palm, higher copra content and better performance under marginal management conditions along with adaptation to the environment, were the major reasons for preference of these ecotypes among the farmers.Comparison of the two ecotypes revealed that the traits, trunk girth, length of internode, number of leaves, number of bunches with nuts, number of nuts, shell weight, husked fruit weight and fruit weight were higher in Kuttiyadi than in Bedakam ecotype. On the other hand, number of leaf scars per meter, length of inflorescence, fruit breadth, husk weight,nut cavity volume and copra weight were higher in Bedakam compared to Kuttiyadi ecotype. Relevance, utility and importance of the study are discussed from the perspective of effective utilization of the coconut diversity in situ and their possible further use in coconut improvement efforts through conservation strategies.",
+	"xml:lang":"eng"
+	}
+	}}

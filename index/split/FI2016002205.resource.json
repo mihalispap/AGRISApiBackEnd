@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Spring barley yield and nitrogen recovery after application of peat manure and pig slurry.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Mattila, Pasi K.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"lietelanta"},
+	{"value":"Finland"},
+	{"value":"sianlanta"},
+	{"value":"eloperäiset lannoitteet"},
+	{"value":"crop yield"},
+	{"value":"fertilizer application"},
+	{"value":"nitrogen"},
+	{"value":"slurry"},
+	{"value":"peat"},
+	{"value":"sato"},
+	{"value":"barley"},
+	{"value":"turve"},
+	{"value":"ohra"},
+	{"value":"lannoitus"},
+	{"value":"typpi"},
+	{"value":"organic amendments"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002205",
+	"dct:identifier":"FI2016002205",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

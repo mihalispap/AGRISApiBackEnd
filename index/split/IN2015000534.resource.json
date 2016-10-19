@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Epidemiological studies on Alternaria blight of Brassica campestris L. var. Yellow sarson Prain caused by Alternaria spp.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":398,
+	"dc:subject":[
+		{"value":"alternaria brassicae",
+	"xml:lang":"esp"
+	},
+	{"value":"epidemiologie",
+	"xml:lang":"fre"
+	},
+	{"value":"epidemiologia",
+	"xml:lang":"esp"
+	},
+	{"value":"epidemiology",
+	"xml:lang":"eng"
+	},
+	{"value":"brassica",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":402,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000534",
+	"dct:identifier":"IN2015000534",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Sunil"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, R.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shakywar, R.C."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Earliest disease initiation was noted on entry NDYS 2018 which proved most susceptible with AUDPCs of 224.47, 318.77, 231.77 and 246.32, 325.06, 230.33 in respective years and different date of sowing. NDYS 119 was least susceptible which showed lowest AUDPCs of 155.06, 243.94, 186.49 and 185.29, 248.31, 198.13 in respective years and different date of sowing. Average higher AUDPCs of 214.00 287.22 and 214.50 in respective date of sowing was recorded in second year over 184.34 in 20 October, 279.04 in 30 October and 215.17 in 10 November sown crop in first year, proved most favourable for Alternaria blight development. Average highest PDI of 67.4 and 72.4% during first and second year, respectively were recorded in second date of sowing as compared to first and third date of sowing. The maximum disease development was recorded in first week of February during both the year and it was favoured by mean minimum/maximum temperature (8.60-9.900C &4.60-9.900C/21.40-25.200C &22.60-23.100C) and minimum/maximum relative humidity (51.5-70.5% &42.4-44.4%/87.2-92.7% and 86.2-92.4%), respectively during both the years. Disease intensities of all the test entries had significant positive correlation with minimum temperature during both the years. Similar positive correlation was also recorded with maximum temperature for all the entries excepting YST 151, NDYS 115-1 and NDYS 132-2. Disease intensities of all the test entries and their mean except NDYS 123, NDYS 116-1 and NDYS 119 had significant negative correlation with minimum and maximum relative humidity during both the years.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Model computations on the climate change effects on snow cover, soil moisture and soil frost in the boreal conditions over Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kellomäki, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maajärvi, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Strandman, Harri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kilpeläinen, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltola, Heli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"snow cover"},
+	{"value":"forecasting"},
+	{"value":"climatic change"},
+	{"value":"frost"},
+	{"value":"soil moisture"},
+	{"value":"snow accumulation"},
+	{"value":"carrying capacity"},
+	{"value":"temperature"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"lumipeite"},
+	{"value":"lämpötila"},
+	{"value":"maaperä"},
+	{"value":"kosteus"},
+	{"value":"precipitation"},
+	{"value":"skenaariot"},
+	{"value":"sadanta"},
+	{"value":"A2 climate scenario"},
+	{"value":"kantavuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001469",
+	"dct:identifier":"FI2016001469",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

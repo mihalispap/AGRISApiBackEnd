@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/8195/6660",
+	"dct:language":"eng",
+	"dct:title":{"value":"Using proximal soil sensors and fuzzy classification for mapping Amazonian Dark Earths.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Söderström, Mats.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Isendahl, Christian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eriksson, Jan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Romeiro Araújo, Suzana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rebellato, Lilian.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pahl Schaan, Denise.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stenborg, Per.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"charcoal"},
+	{"value":"soil types"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"hiili"},
+	{"value":"esihistoria"},
+	{"value":"measurement"},
+	{"value":"biochar"},
+	{"value":"biohiili"},
+	{"value":"maalajiluokitus"},
+	{"value":"maaperä"},
+	{"value":"carbon"},
+	{"value":"classification"},
+	{"value":"anthropogenic soils"},
+	{"value":"mittausmenetelmät"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001526",
+	"dct:identifier":"FI2016001526",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

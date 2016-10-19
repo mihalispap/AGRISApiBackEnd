@@ -1,0 +1,22 @@
+{"resource": {
+	"dct:issued":2014,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Parâmetros clínicos da hemocromatose hereditária: toxicidade tecidual resultante da absorção excessiva de ferro",
+	"xml:lang":"por"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Hirisleide Bezerra Alves "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00001",
+	"dct:identifier":"BR2015M00001",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"A Hemocromatose Hereditária constitui uma doença autossômica recessiva relacionada a diversos distúrbios do metabolismo do ferro que ocasionam sua sobrecarga tecidual. O principal regulador da absorção do ferro é a proteína hepcidina, a qual inibe a ferroportina, proteína exportadora de ferro dos enterócitos e dos macrófagos; um problema na expressão do gene da hepcidina ou na sua função, bem como em outras proteínas envolvidas no metabolismo do ferro, condicionam a maioria dos tipos de hemocromatose hereditária. Diante destes fatos, o presente trabalho visa expor os parâmetros clínicos associados à hemocromatose hereditária, apresentando a patogenia e morfologia da doença. Para tal, fez-se uma revisão sistemática a partir livros e artigos consultando as bases de dados do MEDLINE/PUBMED, LILACS e SCIELO, selecionando artigos associados ao tema.  Pacientes com diagnóstico estabelecido de hemocromatose hereditária e sobrecarga de ferro devem ser tratados com flebotomia para a obtenção de depleção do ferro do organismo, a fim de se evitar complicações como cirrose e carcinoma hepatocelular, principais causas de morte entre portadores desta patologia",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

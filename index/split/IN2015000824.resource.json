@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of medicinal and aromatic plants as intercrops in coconut garden",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":238,
+	"dc:subject":[
+		{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"intercropping",
+	"xml:lang":"eng"
+	},
+	{"value":"cultivo intercalado",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"culture intercalaire",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":240,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000824",
+	"dct:identifier":"IN2015000824",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thiruvarassan, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maheswarappa, H.P."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

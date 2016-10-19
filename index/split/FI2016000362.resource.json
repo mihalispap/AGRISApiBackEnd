@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Using the process-based stand model ANAFORE inculing Bayesian optimisation to predict wood quality and quantity and their uncertainty in Slovenian beech.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Deckmyn, Gaby.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mali, Boštjan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kraigher, Hojka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Torelli, Niko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Op de Beeck, Maarten.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ceulemans, Reinhart.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pyökit"},
+	{"value":"Fagus"},
+	{"value":"red heart"},
+	{"value":"laatu"},
+	{"value":"wood properties"},
+	{"value":"models"},
+	{"value":"forest management"},
+	{"value":"metsiköt"},
+	{"value":"mallit"},
+	{"value":"quality"},
+	{"value":"metsänhoito"},
+	{"value":"mechanistic"},
+	{"value":"bayesian calibration"},
+	{"value":"puu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000362",
+	"dct:identifier":"FI2016000362",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

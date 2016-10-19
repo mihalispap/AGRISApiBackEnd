@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of packaging films on the physical characteristics and sensory aspects of shredded cabbage at different storage conditions /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ibrahim, Roshita.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Osman, Azizah.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saari, Nazamid.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rahman, Russly Abdul.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"organoleptic analysis"},
+	{"value":"aistinvarainen arviointi"},
+	{"value":"plastic film"},
+	{"value":"cabbages"},
+	{"value":"vacuum packaging"},
+	{"value":"pakkausmateriaalit"},
+	{"value":"säilyvyys"},
+	{"value":"laatu"},
+	{"value":"muovi"},
+	{"value":"kaalit"},
+	{"value":"packaging materials"},
+	{"value":"varastointi"},
+	{"value":"keeping quality"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000521",
+	"dct:identifier":"FI2016000521",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative diversity of transgenic Bt and non âtransgenic Cotton against insect pests",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":335,
+	"dc:subject":[
+		{"value":"gossypium hirsutum",
+	"xml:lang":"esp"
+	},
+	{"value":"cotton",
+	"xml:lang":"eng"
+	},
+	{"value":"algodon",
+	"xml:lang":"esp"
+	},
+	{"value":"coton",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":338,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000519",
+	"dct:identifier":"IN2015000519",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dhawan, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Neha"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The overall diversity index of arthropod fauna was higher in non-Bt (1.93) followed by RCH 134 BG-I (1.86) plots .This diversity in RCH 134 BG-I and non-Bt was due to greater evenness indices (0.894-0.808). In Mansa, the arthropod diversity was maximum in non-Bt plots (1.73) followed by BG-II (0.86) and BG-II while the dominance parameter was prominent in vegetative phase of the cotton crop in BG-I (0.56).",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1F30-34attitudes.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Consumer attitudes to high pressure food processing"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Butz, Peter (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Needs, Eric C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baron, Alain (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bayer, Otto (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Geisel, Bärbel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, Bharat (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oltersdorf, Ulrich (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tauscher, Bernhard (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100436",
+	"dct:identifier":"FI2016100436",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"As part of an EU-funded research project a representative survey of consumer attitudes concerning high pressure processing (HPP) of foods was carried out. 3000 adults aged 14 years and over, in France, Germany and the UK were interviewed in face-toface computer assisted personal interviews (CAPI) and asked to indicate their opinion by evaluating 35 positive and 25 negative statements about the new technique, to compare the new technique with the conventional techniques, and they were asked if they would buy products preserved using High Pressure Pasteurization. The concept used for the data analysis was that of a market segmentation model using sociodemographical, geographical and psychographical attributes. The average acceptability rate is discussed with respect to the MAYA threshold value (Most Advanced Yet Acceptable), a pragmatic market research threshold value."}
+	}}

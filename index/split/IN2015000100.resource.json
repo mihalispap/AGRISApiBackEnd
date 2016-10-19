@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Sero-prevalance and pathology of classical swine fever (CSF) in pigs in certain districts of Assam.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":143,
+	"dc:subject":[
+		{"value":"peste porcine classique",
+	"xml:lang":"fre"
+	},
+	{"value":"test elisa",
+	"xml:lang":"fre"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"swine fever",
+	"xml:lang":"eng"
+	},
+	{"value":"pathology",
+	"xml:lang":"eng"
+	},
+	{"value":"pathologie",
+	"xml:lang":"fre"
+	},
+	{"value":"patologia",
+	"xml:lang":"esp"
+	},
+	{"value":"elisa",
+	"xml:lang":"esp"
+	},
+	{"value":"peste porcina",
+	"xml:lang":"esp"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":147,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000100",
+	"dct:identifier":"IN2015000100",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Deori, L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rahman,T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barman,  N.N."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"During the study period from August 2008to May 2010,many outbreaks of Classical Swine Fever occurring in eight districts of Assam were attended and a total of 122 serum samples were collected for detection of CSFV specific antibody by indirect ELISA, where 52 (42.62%)samples were found positive. The clinical signs observed were depression, inactiveness, off-fed, high rise of temperature, huddling together, conjunctivitis, thick ocular discharge, laboured breathing, staggering gait, erythematous lesions in the skin of the abdomen,ears, and the medial side of the legs. A total of 180carcasses died of suspected CSF were necropsied. The gross changes were haemorrhagein the subcutis, turkey egg appearance of kidney, enlarged, edematous & haemorrhagic lymph nodes, button ulcers in large intestine,pneumonia, haemorrhage in heart, urinary bladder and haemorrhage and congestion in the brain. Histopathologically,lymphoid follicular atrophy as well as depletion and necrosis in spleen, LN and Peyer's patches in ileum with haemorrhage, interstitial or focal glomerular nephritis, pneumonia and bronchiolar hyperplasia, haemorrhage in the myocardium and submucosa of urinary bladder were observed. The brain showed neuronophagia, satellitosis, haemorrhages and congestion of the blood vessels along with meningitis, perivascularcuffing, glial nodule formation and necrosis of Purkinje's cells in cerebellum. A total of 98 samples were processed and 58.16 percent were found positive for viral antigen, by Sandwich ELISA.",
+	"xml:lang":"eng"
+	}
+	}}

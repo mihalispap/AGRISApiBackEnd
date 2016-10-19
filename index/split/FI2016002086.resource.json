@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/12/2/yieldpot.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Yield potential of chive : effects of cultivar, plastic mulch and fertilisation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Suojala, Terhi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Allium schoenoprasum"},
+	{"value":"sato"},
+	{"value":"ruohosipuli"},
+	{"value":"dry mulches"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"lannoitus"},
+	{"value":"muovikate"},
+	{"value":"crop yield"},
+	{"value":"chives"},
+	{"value":"fertilizer application"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002086",
+	"dct:identifier":"FI2016002086",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

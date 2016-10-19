@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of fertigation on the productivity of coconut",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":198,
+	"dc:subject":[
+		{"value":"productividad",
+	"xml:lang":"esp"
+	},
+	{"value":"fertirrigacion",
+	"xml:lang":"esp"
+	},
+	{"value":"irrigation fertilisante",
+	"xml:lang":"fre"
+	},
+	{"value":"coprah",
+	"xml:lang":"fre"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"fertigation",
+	"xml:lang":"eng"
+	},
+	{"value":"copra",
+	"xml:lang":"esp"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"productivite",
+	"xml:lang":"fre"
+	},
+	{"value":"productivity",
+	"xml:lang":"eng"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":204,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000817",
+	"dct:identifier":"IN2015000817",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Basavaraju, T.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhagya, H.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prashanth, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arulraj, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maheswarappa, H. P."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

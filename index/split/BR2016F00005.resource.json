@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Diversidade genética em acessos de Stylosanthes capitata ",
+	"xml:lang":"por"
+	},
+	{"value":"Genetic diversity in Stylosanthes capitata access",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic variation",
+	"xml:lang":"eng"
+	},
+	{"value":"stylosanthes capitata",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"morphology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.4",
+	"bibo:doi":"10.17523/bia.v72n4p284",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00005",
+	"dct:identifier":"BR2016F00005",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n4p284",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MARTUSCELLO, J. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRAZ,  T. G. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVEIRA, J.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SIMEÃO, R. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"JANK, L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERREIRA,  M. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CUNHA, D. N. F. V."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Objetivou-se com este trabalho avaliar a diversidade genética e a importância relativa de caracteres morfológicos para o estudo da diversidade genética em genótipos de Stylosanthes capitata com base em caracteres morfológicos. Foram avaliadas 10 famílias de polinização aberta (297-2, 49-5, 1064-4, 49-4, 1095-5, 141-6, 1064-6, 297-6, 625-3, 111-3), previamente selecionadas pelo programa de melhoramento da Embrapa Gado de Corte e a cultivar Campo Grande como testemunha. O delineamento experimental foi inteiramente casualizado, com quatro repetições. Foram avaliadas as características morfológicas: forma de crescimento, comprimento, largura, relação comprimento:largura dos folíolos centrais e laterais, altura da planta, comprimento da haste e número de ramificações secundárias. A matriz de distância generalizada do Mahalanobis foi obtida utilizando-se as médias fenotípicas para cada característica e a matriz de variâncias e covariâncias residuais. Em posse da matriz de dissimilaridade, as famílias e a cultivar Campo Grande foram agrupadas utilizando o método de Ward. A análise de variáveis canônicas (VC) também foi realizada utilizando-se a média fenotípica dos caracteres avaliados e a matriz de variâncias e covariâncias residuais. Por meio da análise de agrupamento pelo método de Ward foi possível reunir os 11 genótipos em cinco grupos. A análise de variáveis canônicas foi realizada com grande eficiência, pois permitiu resumir a variação total observada nos nove caracteres morfológicos em apenas três VC, que acumularam 81,65% da variação total dos dados. Também foi possível realizar o estudo da importância das características para o agrupamento. Os caracteres morfológicos largura do folíolo central, relação comprimento largura dos folíolos central e lateral, largura do folíolo lateral e ramificações secundárias figuram entre os de maior importância para a avaliação da diversidade genética entre genótipos de Stylosanthes capitata.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to evaluate the genetic diversity and the relative importance of morphological traits for the study of genetic diversity among Stylosanthes capitata genotypes. Ten open-pollinated families (297-2, 49-5, 1064-4, 49-4, 1095-5, 141-6, 1064-6, 297-6, 625-3, and 111-3), previously selected by the Embrapa Gado de Corte improvement program, and the Campo Grande cultivar as control were evaluated. A completely randomized design consisting of four repetitions was used. The following morphological traits were studied: type of growth, length, width and length-to-width ratio of the central and lateral leaflets, plant height, stem length, and number of secondary ramifications. Mahalanobis generalized distance was calculated using the phenotypic means for each trait and the matrix of residual variances and covariances. Once the dissimilarity matrix was obtained, the families and Campo Grande cultivar were grouped using Ward’s method. Canonical variables were also analyzed using the phenotypic mean of the traits studied and the matrix of residual variances and covariances. Cluster analysis by Ward’s method permitted to divide the 11 genotypes into five groups. Canonical analysis was efficient since it permitted to summarize the total variation observed in the nine morphological traits into only three canonical variables, which accounted for 81.65% of the total variation in the data. The importance of the traits for clustering was also analyzed. Central leaflet width, length-to-width ratio of the central and lateral leaflets, lateral leaflet width and secondary ramifications were the most important traits for the evaluation of genetic diversity among Stylosanthes capitata genotypes.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

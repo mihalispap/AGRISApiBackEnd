@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Inheritance of certain immune response traits in IWI strain of white leghorn",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":152,
+	"dc:subject":[
+		{"value":"respuesta inmunologica",
+	"xml:lang":"esp"
+	},
+	{"value":"pollo",
+	"xml:lang":"esp"
+	},
+	{"value":"chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"correlation genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"genetic correlation",
+	"xml:lang":"eng"
+	},
+	{"value":"correlacion genetica",
+	"xml:lang":"esp"
+	},
+	{"value":"reponse immunitaire",
+	"xml:lang":"fre"
+	},
+	{"value":"poulet",
+	"xml:lang":"fre"
+	},
+	{"value":"immune response",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":155,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000414",
+	"dct:identifier":"IN2015000414",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Laxmi, P Jaya"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, B. Ramesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chatterjee, R.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, R.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, V. Ravinder"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Genetic parameters were studied for the three immune response traits viz., antibody response to SRBC injection, antibody response against New Castle Disease Virus (NDV) vaccine and cell mediated immune response to PHA-P injection in IWI strain of White Leghorn. The heritability was 0.362, 0.017 and 0.506 for antibody response to SRBC injection, antibody response against New Castle disease virus (NDV) vaccine and cell mediated immune response to PHA-P injection respectively. The genetic correlation of antibody response to SRBC injection with age at first egg was negative and low while with egg production and egg weight at various ages, it was positive indicating an improvement in egg production and egg weight along with improvement in humoral immune response to SRBC. The genetic and phenotypic correlation with cell mediated response to PHA-P was positive suggesting the possibility of simultaneous improvement of both humoral and cell mediated immunity. The genetic correlation of antibody response to NDV vaccine with body weight and egg weight at various ages was variable while it was positive with the egg production upto 40 weeks of age and cell mediated immune response to PHA-P. The cell mediated immune response to PHA-P was positively correlated with age at first egg while it was negatively correlated with body weight and egg weight at genetic level.",
+	"xml:lang":"eng"
+	}
+	}}

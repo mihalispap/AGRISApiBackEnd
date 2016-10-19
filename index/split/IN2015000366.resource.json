@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of season on some serum metabolites of Marwari goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":52,
+	"dc:subject":[
+		{"value":"saison",
+	"xml:lang":"fre"
+	},
+	{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"metabolitos",
+	"xml:lang":"esp"
+	},
+	{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"metabolite",
+	"xml:lang":"fre"
+	},
+	{"value":"estaciones del ano",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"seasons",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"metabolites",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":55,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000366",
+	"dct:identifier":"IN2015000366",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sharma, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kataria, N."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present investigation was carried out to assess the effect of extreme hot climate on serum metabolites in 300 Marwari goats of either sexes aged just after birth to three years belonging to farmer's stock. Serum metabolites were determined during moderate and extreme hot climatic conditions taking 150 animals in each group. The overall mean values of serum glucose, total lipids, triglycerides, cholesterol, creatinine and bilirubin were 40.18Â±0.77, 122.92Â±4.10, 91.60Â±1.72, 117.99Â±1.81, 0.73Â±0.02 and 0.10Â±0.003 mg/dl, respectively. Mean values of serum glucose, total lipids, and triglycerides were significantly (P0.05) lower and that of cholesterol, creatinine and bilirubin were significantly (P0.05) higher during extreme climatic condition than moderate one. Concentration of serum cholesterol was significantly (P0.05) lower in animals of above one year of age compared to below one year in moderate climatic conditions. In extreme climatic conditions, serum cholesterol and bilirubin were significantly (P0.05) lower in animals of above one year of age group than below one year of age. Thus, significant decrement was observed in serum glucose, total lipids and triglycerides while cholesterol, creatinine and bilirubin showed increment in response to extreme hot climatic condition.",
+	"xml:lang":"eng"
+	}
+	}}

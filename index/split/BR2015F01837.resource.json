@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Funções para descrever o crescimento corporal de fêmeas Nelore e cruzadas ",
+	"xml:lang":"por"
+	},
+	{"value":"Functions to describe the corporal growth of Nelore and crossbreed females",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"lactation",
+	"xml:lang":"eng"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"weight",
+	"xml:lang":"eng"
+	},
+	{"value":"project evaluation",
+	"xml:lang":"eng"
+	},
+	{"value":"growth control",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"66/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01837",
+	"dct:identifier":"BR2015F01837",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2009-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1277307940.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"GONÇALVES, Tarcísio M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FARIA, Hemerson A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PEROTTO, Daniel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LADEIRA, Márcio M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, Antônio I. G."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"19 F1 Red Angus x Nellore (RN)"},
+	{"value":"4 F1 Marchigiana x Nellore (MN) and 17 F1 Simental x Nellore (SN). The model was composed of three functions: the weight gain yearly, weight gain during pregnancy and the weight lost during lactation. When adjusting simultaneously the functions was observed the multiple coefficient of determination adjusted (R2a) varying from 0.996 to 0.998, with standard deviations smaller than the parameter estimates and the Durbin-Watson statistical value higher than 0.8 when adjusted the function to the information from the NN, MN, RN and SN groups. It's indicate a good adjustment of the function. It was concluded that the function that consider simultaneously the age, pregnancy and lactating effects, even though with little data, described best all the growth in productive life of females."},
+	{"value":"Visando estudar o ajuste de uma função que descreva todo o crescimento na vida produtiva de fêmeas, considerando simultaneamente os efeitos da idade, da gestação e da lactação, utilizaram-se dados obtidos no Instituto Agronômico do Paraná (IAPAR), constituindo-se de observações de pesos de 66 fêmeas, sendo 19 Nelore (NN), 7 F1 Guzerá x Nelore (GN), 19 F1 Red Angus x Nelore (RN), 4 F1 Marchigiana x Nelore (MN) e 17 F1 Simental x Nelore (SN). O modelo foi composto por três funções: o ganho de peso com o passar da idade, o ganho de peso durante a gestação e a perda de peso na lactação. Ao ajustar simultaneamente as funções observou-se coeficiente de determinação múltiplo ajustado (R2a) variando de 0,996 a 0,998, com desvios-padrões menores que as estimativas dos parâmetros e valor da estatística de Durbin-Watson maior que 0,8 quando ajustada a função às informações dos grupamentos NN, MN, RN e SN, indicando que a função apresentou um bom ajuste. A partir dos resultados obtidos, verificou-se que a função que considera o crescimento, a gestação e a lactação, embora em uma pequena base de dados, descreveu de forma mais adequada o crescimento de fêmeas."},
+	{"value":"7 F1 Guzerá x Nellore (GN)",
+	"xml:lang":"por"
+	},
+	{"value":"To study the adjustment of a function to describe the entire growth in the productive life of females considering simultaneously age, pregnancy and lactating effects, data from Instituto Agronômico do Paraná (IAPAR) were used.Data set were composed by observations of weight of 19 Nellore females (NN)",
+	"xml:lang":"eng"
+	}
+	]
+	}}

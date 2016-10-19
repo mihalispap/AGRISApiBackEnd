@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Integrerad insekts-bekämpning i jordgubbar.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Svensson, Birgitta.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"soft fruits"},
+	{"value":"torjuntamenetelmät"},
+	{"value":"tuhohyönteiset"},
+	{"value":"Fragaria ananassa"},
+	{"value":"marjanviljely"},
+	{"value":"tuhoeläimet"},
+	{"value":"mansikat"},
+	{"value":"fruit crops"},
+	{"value":"pest insects"},
+	{"value":"puutarhaviljely"},
+	{"value":"integroitu torjunta"},
+	{"value":"integrated pest management"},
+	{"value":"Sweden"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (254 :
+    1995 :
+    Mariehamn)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000690",
+	"dct:identifier":"FI2016000690",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

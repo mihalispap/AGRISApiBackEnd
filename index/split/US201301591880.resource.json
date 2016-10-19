@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The influence of ethanol and pH on the taste and mouthfeel sensations elicited by red wine"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591880",
+	"dct:identifier":"US201301591880",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f31.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Demiglio, Palmina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pickering, Gary J. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The influence of ethanol concentration and pH on a comprehensive range of oral sensations elicited by red wines was investigated in this study. Two commercial dealcoholised red wines were adjusted with tartaric acid and/or ethanol to produce a range of samples with composition values of pH 3.2–3.8 and ethanol concentration <0.5–15% v/v. Seventeen mouthfeel and taste attributes were then determined by a trained descriptive analysis panel. Fifteen descriptors differed in intensity between samples for Wine 1, and 14 for Wine 2. Principal Components Analysis grouped 0% ethanol wines together based on higher scores for pucker, grippy/adhesive and unripe attributes, while 0% ethanol wines with pH 3.2 were further characterized by greater intensity of overall astringency, acidity and mouthcoat. Wines of 15% ethanol were loosely grouped based on positive scores for bitterness and aggressive, and at higher pH values (3.4, 3.6) formed a sub-group based on their similarly high ratings for heat, viscosity and velvet intensities. Some unique relationships between attributes were noted from correlation analysis, including those describing surface smoothness, dynamic and complex sensations. We conclude that ethanol has a much stronger influence than pH on most oral sensations elicited, and that assessing the sub-qualities of mouthfeel yields a more comprehensive and meaningful description of red wine than that obtained when just ‘astringency’ intensity is measured. These results should assist winemakers in optimising taste and mouthfeel sensations and profiles through production decisions."}
+	}}

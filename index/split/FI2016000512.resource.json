@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/7/5-6/effetaur.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of anionic salts in concentrate mixture and magnesium intake on some blood and urine minerals and acid-base balance of dry pregnant cows on grass silage based feeding /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tauriainen, Susanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sankari, Satu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pyörälä, Satu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Syrjälä-Qvist, Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"magnesium"},
+	{"value":"kivennäisaineet"},
+	{"value":"ionit"},
+	{"value":"animal feeding"},
+	{"value":"lypsykarja"},
+	{"value":"säilörehu"},
+	{"value":"ions"},
+	{"value":"mineral metabolism"},
+	{"value":"ummessaolokausi"},
+	{"value":"lehmät"},
+	{"value":"ion exchange"},
+	{"value":"mineral nutrients"},
+	{"value":"dry period"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000512",
+	"dct:identifier":"FI2016000512",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Temperature effect on drying kinetics of \"Gigante de Valinhos\" figs /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pacco, H. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vigneault, C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Castro, L. R. de.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Menegalli, F. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cortez, L. A. B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content"},
+	{"value":"drying"},
+	{"value":"quality"},
+	{"value":"crop yield"},
+	{"value":"handling"},
+	{"value":"temperature"},
+	{"value":"figs"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000829",
+	"dct:identifier":"FI2016000829",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

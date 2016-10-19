@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Local prediction of stand structure using linear prediction theory in Scots pine-dominated stands in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Siipilehto, Jouni.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"stand characteristics"},
+	{"value":"diameter"},
+	{"value":"height curve"},
+	{"value":"height"},
+	{"value":"Pinus sylvestris"},
+	{"value":"forecasting"},
+	{"value":"linear prediction"},
+	{"value":"Weibull"},
+	{"value":"diameter distribution"},
+	{"value":"Johnson's SB"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002105",
+	"dct:identifier":"FI2016002105",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of Organic Modules against Insect Pests of Soybean",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":163,
+	"dc:subject":[
+		{"value":"soybeans",
+	"xml:lang":"eng"
+	},
+	{"value":"soja",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":74,
+	"bibo:pageEnd":166,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000250",
+	"dct:identifier":"IN2015000250",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chaudhary,H.R"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baldev, Ram"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meghwa,H.P"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jadon ,Chaman"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The field experiments were conducted at Agricultural Research Station, Ummedganj, Kota during kharif 2007 and 2008 to develop suitable organic module strategies on soybean crop. Five organic modules along with some common practices/applications such as Deep summer ploughing + Seed treatment with Trichoderma viridae @ 6 g/ha + Installation of T shape bird perches + Spray of Azadirachtin 1500 ppm @ 2.50 1/ha at 15 days after sowing were evaluated for their efficacy against predominant insect pests e.g. green semilooper Chrysodeixis acuta Walker and girdle beetle Obereopsis brevis Swed. The organic module Ma (Plucking of infested plant parts + release of Trichogramma @ 1.0 lac/ha at 30 DAS + B.t. at 50 DAS) was found most effective against green semilooper and girdle beetle wherein minimum green semilooper and girdle beetle population (0.72 larvae/m and 1.66%), maximum seed yield (1160 kg/ha) and higher IBCR (4.54) was recorded. The next best module was M4 (Plucking of infested plant parts + two release of Trichogramma at 30 &40 DAS + B.t. at 50 DAS) recorded 0.93 larvae/m row length of green semilooper population, 2.50% infestation of girdle beetle, 1122 kg/ha seed yield and IBCR (3.71).",
+	"xml:lang":"eng"
+	}
+	}}

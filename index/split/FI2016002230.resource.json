@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of growth media on germination and seedling growth of Persea americana (Mill.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Okunomo, K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ogisi, D. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bosah, B. O.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sawdust"},
+	{"value":"rooting"},
+	{"value":"sand"},
+	{"value":"soil types"},
+	{"value":"seed germination"},
+	{"value":"avocados"},
+	{"value":"emergence"},
+	{"value":"leaves"},
+	{"value":"growing media"},
+	{"value":"top soil"},
+	{"value":"avokado"},
+	{"value":"maaperä"},
+	{"value":"kasvu"},
+	{"value":"potting composts"},
+	{"value":"clay soils"},
+	{"value":"leaf area"},
+	{"value":"kasvualustat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002230",
+	"dct:identifier":"FI2016002230",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

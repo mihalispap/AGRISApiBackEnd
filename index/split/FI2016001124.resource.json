@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Pollen-mediated genetic transformation of cotton with the Arabidopsis thaliana hmgr cDNA using the particle gun /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gounaris, Yannis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Galanopoulou, Stella.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Galanopoulos, Nikos.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ladopoulos, Alexis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Michailidis, Zisis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Theophilou, Stelios.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic engineering"},
+	{"value":"pollen"},
+	{"value":"puuvilla"},
+	{"value":"seeds"},
+	{"value":"gene expression"},
+	{"value":"geenitekniikka"},
+	{"value":"kasvinjalostus"},
+	{"value":"germination"},
+	{"value":"genetic transformation"},
+	{"value":"Gossypium hirsutum"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001124",
+	"dct:identifier":"FI2016001124",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Fertility response to modified progesterone based synchronization protocol in true anoestrus buffaloes (Bubalus bubalis)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":683,
+	"dc:subject":[
+		{"value":"progesterone",
+	"xml:lang":"fre"
+	},
+	{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"progesterona",
+	"xml:lang":"esp"
+	},
+	{"value":"ciclo estral",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"cycle oestral",
+	"xml:lang":"fre"
+	},
+	{"value":"oestrous cycle",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":686,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000138",
+	"dct:identifier":"IN2015000138",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Caesar, N.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shukla, S.N"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shrivastava, O.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agrawal, R.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Agrawal, S."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"Present study was conducted on 42 true anoestrus buffaloes to observe the efficacy of controlled internal drug release (CIDR) implant alone and in combination with pregnant mare serum gonadotropin (PMSG) and Estradiol valerate for induction of estrus and fertility response. All experimental animals were randomly divided into 6 groups of 7 animals each. All the animals were administered 20 ml liquid terramycin intra uterine except in G1 and G3. Animals of G1 and G2 were served as control where as in G3, G4, G5 and G6 implanted with CIDR. Animals of G5 were administered 1 mg estradiol and G6 with 500 IU PMSG on the day of implant withdrawal. The serum progesterone and estrogen profiles were also studied before treatment, at estrus and 10th day post estrus. On removal of implant all the animals of G5 and G6 exhibited estrus within 30.42Â±5.10 and 65.14Â±11.39 h with 57.1 and 85.7% conception rate, respectively. However, in the animals of G4 and G3 induction rate was 85.7 and 71.4% within 40.08Â±2.09 and 72.00Â±10.76 h of onset interval with 66.6% and 0.00% conception rate, respectively. None of the animals of G1 and G2 induced in estrus. Serum progesterone (P 4 ) and estradiol (E ) profiles confirmed our findings of rectal palpation. Study indicates that addition of PMSG to a progesterone based estrus synchronization regimen substantially improves ovulation rate and fertility in non cyclic buffaloes.",
+	"xml:lang":"eng"
+	}
+	}}

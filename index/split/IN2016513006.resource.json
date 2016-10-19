@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:title":{"value":"Spatial Distribution of Groundwater Quality Between Injambakkam-Thiruvanmyiur Areas, South East Coast of India",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"groundwater assessment",
+	"xml:lang":"eng"
+	},
+	{"value":"water quality",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513006",
+	"dct:identifier":"IN2016513006",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=6",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ilayaraja K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ambica A."
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The study aims to understand the distribution of groundwater quality in coastal regions from Injambakkam-Thiruvanmyiur areas, Chennai. Groundwater samples were collected from the coastal regions of Tamil Nadu. The objectives of the study are to determine the groundwater quality characteristics such as pH, alkalinity, electrical conductivity, chloride, hardness, total dissolved solids, dissolved oxygen and map the spatial distribution of groundwater quality in the study area by using open source software Quantum GIS (QGIS). The physico-chemical parameters and the quality of the water vary with space and thus mapping it with the GIS is an efficient way to draw conclusions about the study area. Inverse Distance Weighted (IDW) interpolation method was used to create various raster maps which show the spatial distribution. With the present study it is found that, most of the regions in the southern part of the study area have poor to very poor quality based on the Water Quality Index (WQI).",
+	"xml:lang":"eng"
+	}
+	}}

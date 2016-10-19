@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Marginal abatement costs for reducing leaching of nitrates in Croatian agriculture /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sumelius, John.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mesić, Milan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Grgić, Zoran.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kisic, Ivica.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Franić, Ramona.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ympäristö"},
+	{"value":"ohjauskeinot"},
+	{"value":"marginal costs"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"rajakustannus"},
+	{"value":"lannoitteet"},
+	{"value":"nitrate"},
+	{"value":"fertilizer application"},
+	{"value":"nitraatit"},
+	{"value":"typpilannoitteet"},
+	{"value":"nitrogen"},
+	{"value":"lannoitevero"},
+	{"value":"nutrients"},
+	{"value":"environment"},
+	{"value":"lannoitustaso"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"Croatia"},
+	{"value":"typpi"},
+	{"value":"leaching"},
+	{"value":"taxes"},
+	{"value":"kasvinravinteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000587",
+	"dct:identifier":"FI2016000587",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

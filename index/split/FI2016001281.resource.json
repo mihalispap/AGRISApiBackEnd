@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality and shelf life of packaged fresh sliced mushrooms stored at two different temperatures.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    González-Fandos, Elena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Simón Jiménez, Ana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tobar Pardo, Vanesa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"edible fungi"},
+	{"value":"laatu"},
+	{"value":"cutting"},
+	{"value":"varastointi"},
+	{"value":"keeping quality"},
+	{"value":"sienet"},
+	{"value":"lämpötila"},
+	{"value":"controlled atmosphere storage"},
+	{"value":"ruokasienet"},
+	{"value":"environmental control"},
+	{"value":"säilyvyys"},
+	{"value":"tuoresäilöntä"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001281",
+	"dct:identifier":"FI2016001281",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.lib.helsinki.fi/se/a/1239-0992/9/3/influenc.pdf",
+	"dct:language":"fin",
+	"dct:title":{"value":"Influence of changes in crop cultivation areas on pollen contents of honey.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Varis, Anna-Liisa.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"siitepöly"},
+	{"value":"pollen"},
+	{"value":"viljelykasvit"},
+	{"value":"mehiläiset"},
+	{"value":"maankäyttö"},
+	{"value":"hunajakasvit"},
+	{"value":"honey bees"},
+	{"value":"hunaja"},
+	{"value":"honey"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001706",
+	"dct:identifier":"FI2016001706",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

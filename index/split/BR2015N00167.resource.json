@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"ANÁLISE MORFOMÉTRICA DE Gymnotus inaequilabiatus (VALENCIENNES, 1839) (GYMNOTIFORMES: GYMNOTIDAE) EM DIFERENTES BACIAS HIDROGRÁFICAS",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":27,
+	"bibo:volume":4,
+	"bibo:pageEnd":32,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00167",
+	"dct:identifier":"BR2015N00167",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1065",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Augusto Frota"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fagner de Souza"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hugmar Pains da Silva"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Maringá"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"<p class=\"MsoNoSpacing\" style=\"text-align: justify; text-justify: inter-ideograph;\"><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Os Gymnotiformes são conhecidos como peixes elétricos, peixes faca, tuviras ou morenitas, constituindo uma pequena e endêmica porção da ictiofauna Neotropical. Por apresentar uma ampla distribuição geográfica e uma alta riqueza, Gymnotus é o gênero da ordem mais estudado. Uma das espécies que mais se destaca é Gymnotus inaequilabiatus a qual é distribuída nas bacias dos rios Paraná-Paraguai, costeiras, Uruguai e dos rios do sudeste Brasileiro. Com base em relatos de introdução desta espécie e divergências moleculares em várias bacias hidrográficas, traçou-se a hipótese de que há variação morfológica entre as populações de G. inaequilabiatus oriundas de diferentes bacias. Portanto, objetivou-se analisar morfometricamente as populações de quatro bacias diferentes. </span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Para a avaliação e interpretação dos dados morfométricos foram realizadas análises de componentes principais e análises de variáveis canônicas.</span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\"> </span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">As análises não mostraram diferenças significativas entre as populações. Contudo, na análise das variáveis canônicas nota-se uma leve tendência na separação das populações. </span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Os resultados demonstraram que Gymnotus inaequilabiatus não se difere morfologicamente e que </span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">não há possibilidade de inferência taxonômica sobre as populações das bacias analisadas, não corroborando com a hipótese inicial. No entanto, sugerem que </span><em><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">G. inaequilabiatus </span></em><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">apresenta uma alta capacidade adaptativa, grande capacidade de colonização e resiste a diferentes pressões ambientais.</span>",
+	"xml:lang":"por"
+	}
+	}}

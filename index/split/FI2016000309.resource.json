@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A functional model of tree growth and tree architecture.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fourcaud, Thierry.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Blaise, Frédéric.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Barthélémy, Daniel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Houllier, François.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    de Reffye, Philippe.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"latvusmuoto"},
+	{"value":"vedenkulku"},
+	{"value":"photosynthesis"},
+	{"value":"simulointi"},
+	{"value":"plant habit"},
+	{"value":"plant water relations"},
+	{"value":"ekofysiologia"},
+	{"value":"mathematical models"},
+	{"value":"latvus"},
+	{"value":"simulation models"},
+	{"value":"yhteyttäminen"},
+	{"value":"mallit"},
+	{"value":"kasvu"},
+	{"value":"fotosynteesi"},
+	{"value":"kasvifysiologia"},
+	{"value":"tietokonemallit"},
+	{"value":"puun kasvu"},
+	{"value":"matemaattiset mallit"},
+	{"value":"plant physiology"},
+	{"value":"ecology"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000309",
+	"dct:identifier":"FI2016000309",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

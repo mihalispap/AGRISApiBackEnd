@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical composition of some forage Vicia spp. in Iran.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Badzadeh, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zaragarzadeh, F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Esmaiepour, B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Vicia"},
+	{"value":"Iran Islamic Republic"},
+	{"value":"forage"},
+	{"value":"energy value"},
+	{"value":"carbohydrates"},
+	{"value":"dry matter"},
+	{"value":"chemical composition"},
+	{"value":"proteins"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000824",
+	"dct:identifier":"FI2016000824",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

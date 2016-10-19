@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Mineral status of forages and grazing goats in West Sumatra, Indonesia: 2. Micro minerals"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Warly, Lili (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fariani, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":", Evitayani (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hayashida, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fujihara, T. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100273",
+	"dct:identifier":"FI2016100273",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This study is a second part of a series experiments conducted to evaluate mineral status of forages and grazing goats in West Sumatra, Indonesia. Forages species, harvesting locations and animals used were the same as reported in the previous study. The results showed that concentration of micro minerals in forages were significantly affected by species and season. Concentration of iron (Fe) and selenium (Se) in dry and rainy seasons was higher than the critical level suggested for deficiency of goats. Deficiency of forages copper (Cu) was found in both seasons; of which in dry season the deficiency was 84.6% for grass and 71.4% for legume, while in rainy season the deficiency was 84.6% for grass and 85.7% for legume. In overall, deficiency of zinc (Zn), molybdenum (Mo) and cobalt (Co) for grass was 15.4, 11.5 and 42.5%; while the deficiency in legume was 42.9, 42.9 and 50%, respectively. Data on micro mineral status of grazing goats showed that in overall the incidence of Cu, Mo and Se deficiencies were 16.5, 17.0 and 33.0%, respectively. This finding suggested that supplementation of these elements are required for ruminants grazing in native pasture of West Sumatra."}
+	}}

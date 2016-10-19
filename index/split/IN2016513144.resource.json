@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:title":{"value":"Anaerobic Treatment of MSW Using Leachate Recirculation Bioreactor: A Case Study of Rohtak City",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"anaerobic treatment",
+	"xml:lang":"eng"
+	},
+	{"value":"leachates",
+	"xml:lang":"eng"
+	},
+	{"value":"bioreactors",
+	"xml:lang":"eng"
+	},
+	{"value":"urban wastes",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513144",
+	"dct:identifier":"IN2016513144",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=30",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":". Snehlata"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lohchab Rajesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nain Anil"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Leachate recirculation is a leachate management technique and an option for faster stabilization of MSW. The objective of this research is to highlight the effects of leachate recirculation on waste stabilization in simulated bioreactor. The study was conducted in a laboratory in a cylindrical shaped bioreactor loaded with MSW waste maintained under controlled anaerobic condition. The leachate quality was regularly measured and operating parameters like pH, VFA, alkalinity, etc. were found in the optimum range of anaerobic degradation. The leachate recirculated bioreactor is an effective option for MSW management, as COD removal observed was 96% during the study period. These observations indicate that the leachate recirculation technique is a viable approach to treat landfill leachate and stabilize the MSW.",
+	"xml:lang":"eng"
+	}
+	}}

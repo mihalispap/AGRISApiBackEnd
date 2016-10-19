@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic study on production traits of Japanese quails",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":164,
+	"dc:subject":[
+		{"value":"ganancia de peso",
+	"xml:lang":"esp"
+	},
+	{"value":"heritabilite",
+	"xml:lang":"fre"
+	},
+	{"value":"quails",
+	"xml:lang":"eng"
+	},
+	{"value":"heredabilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"gain de poids",
+	"xml:lang":"fre"
+	},
+	{"value":"weight gain",
+	"xml:lang":"eng"
+	},
+	{"value":"codorniz",
+	"xml:lang":"esp"
+	},
+	{"value":"caille",
+	"xml:lang":"fre"
+	},
+	{"value":"heritability",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":167,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000417",
+	"dct:identifier":"IN2015000417",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Malarmathi, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, B. Ramesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prakash, M. Gnana"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, A. Rajashekar"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

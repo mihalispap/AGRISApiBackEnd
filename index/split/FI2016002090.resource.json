@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A study of feeding preferences of a summer pasture in hare (Lepus europaeus).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Męineri, Giorgia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mussa, Pier Paolo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bergero, Domenico.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Prola, Liviana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peiretti, Pier Giorgio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeding preferences"},
+	{"value":"animal feeding"},
+	{"value":"Sorghum halepense"},
+	{"value":"plants"},
+	{"value":"hares"},
+	{"value":"nutritive value"},
+	{"value":"pastures"},
+	{"value":"Medicago sativa"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002090",
+	"dct:identifier":"FI2016002090",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

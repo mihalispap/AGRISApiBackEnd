@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative immune response of purified native OmpH protein derived from Pasteurella multocida P52 and oil adjuvant vaccine against hemorrhagic septicemia in mice",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1193,
+	"dc:subject":[
+		{"value":"ganado bovino",
+	"xml:lang":"esp"
+	},
+	{"value":"cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"bovin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1196,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000320",
+	"dct:identifier":"IN2015000320",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bablu Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaturvedi, V.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Somrajan, S.R"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sreedevi, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kaushik, P."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"Hemorrhagic septicemia (HS), caused by Pasteurella multocida serotype B:2, is an economically important disease of cattle and buffalo; and causes serious economic losses to cattle industry in Asian subcontinent. In the present study Native OmpH protein of Pasteurella multocida (serotype B: 2) strain P52 was purified and used for immunization of mice. Humoral and cell mediated immune response were assessed by ELISA and MTT respectively. Protective ability of vaccine was assessed by direct challenge test. The immune response of native OmpH protein was compared with standard oil adjuvant vaccine (OAV). High titers of specific antibody and strong T cell proliferative response were observed in mice, vaccinated with native OmpH protein as well as OAV, as compared to PBS control group. Furthermore, both the vaccines induced balanced Th1 and Th2 response as determined by IgG isotype analysis. Despite strong humoral and cell mediated immune response native OmpH vaccine could only provide partial protection to mice against direct challenge with live P. multocida P   52.",
+	"xml:lang":"eng"
+	}
+	}}

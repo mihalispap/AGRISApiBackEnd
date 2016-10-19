@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pesticides and heavy metals residues in pig tissues in Hyderabad",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":691,
+	"dc:subject":[
+		{"value":"organochlorine compounds",
+	"xml:lang":"eng"
+	},
+	{"value":"residuos",
+	"xml:lang":"esp"
+	},
+	{"value":"pork",
+	"xml:lang":"eng"
+	},
+	{"value":"residues",
+	"xml:lang":"eng"
+	},
+	{"value":"residu",
+	"xml:lang":"fre"
+	},
+	{"value":"carne de cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"viande porcine",
+	"xml:lang":"fre"
+	},
+	{"value":"ddt",
+	"xml:lang":"esp"
+	},
+	{"value":"hch",
+	"xml:lang":"esp"
+	},
+	{"value":"compose organochlore",
+	"xml:lang":"fre"
+	},
+	{"value":"compuesto organico del cloro",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":695,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000140",
+	"dct:identifier":"IN2015000140",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Muthukumar, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sudhakar Reddy, K"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kondal Reddy, K"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gopala Reddy, A"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jagdishwar Reddy, D"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kondaiah, N"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Narendra Reddy, C."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"A study was conducted to estimate certain organochlorine (OC) pesticides (DDT, HCH and cyclodiene compounds) and heavy metals (lead and cadmium) residues in muscle and organs of pigs collected from Hyderabad city. The residues of organochlorine pesticides and heavy metals were found in majority of the analysed muscle and organs samples of pigs. The contamination pattern of OC pesticides in tissues of pigs were in the descending order of p,pDDT- para para dichloro diphenyl trichlore ethane (0.213 ppm), p,pDDE- para para dichlorodiphenyl dichlore ethane (0.132 ppm), p,pDDD- para para dichloro diphenyl dichloroethylene (0.058 ppm), Ã¡ endosulfan (0.037 ppm), Ã¢ HCH - hexachloro cyclo hexane (0.028 ppm), Ã¤ HCH (0.022 ppm), endosulfan sulfate (0.018 ppm), Ã¡ HCH (0.017 ppm), Ã¢ endosulfan (0.016 ppm), aldrin (0.016 ppm) and Ã£ HCH (0.014 ppm). However, the levels of contamination were quite low and well below the maximum residue level. Among tissues, muscle showed the highest concentration for p,pDDD; p,pDDT; Ã¢ HCH; aldrin; Ã¡ endosulfan; Ã¢ endosulfan and endosulfan sulfate, whereas liver showed the highest mean concentration for Ã£ HCH and Ã¤ HCH. The concentrations of p,pDDE and Ã¡ HCH were highest in kidneys. The heavy metals residues were found in all the analysed meat and organs samples. In most of the cases, the levels of contamination were low and below the maximum residue level except in case of lead, where 40.9% samples exceeded the maximum permitted limit. Among tissues, kidney showed highest concentrations for both lead and cadmium.",
+	"xml:lang":"eng"
+	}
+	}}

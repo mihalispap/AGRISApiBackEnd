@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathogenesis-related proteins – an important group of plant-derived allergens"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029141",
+	"dct:identifier":"FI2007029141",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f1.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Niskanen, Raina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dris, Ramdane (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Several protein families that contribute to the defence mechanisms of food plants have members which are allergens or putative allergens. Cross-reactivity between pollens, fruit and vegetables relies upon pan-allergens: pathogenesis-related (PR) proteins, profilins and enzymes with the same functional activity. A number of plant-derived allergens and PR-like proteins found in various species all over the plant kingdom are homologous proteins responsible for cross reactivities between different allergen sources. A considerable percentage of identified plant allergens can be grouped to the families 2, 3, 4, 5, 8, 10 and 14 of pathogenesis-related proteins. Characteristics of these PR groups are reviewed in this paper."}
+	}}

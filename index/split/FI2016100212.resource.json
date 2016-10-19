@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1F26-29insulin.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Insulin resistance, diet and cardiovascular disease: A review"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Jones, Rebecca L. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100212",
+	"dct:identifier":"FI2016100212",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Obesity and cardiovascular disease (CVD) are two of the leading causes of morbidity and mortality in developed countries. Direct influences of diet on obesity are obvious, however equally strong is the evidence that CVD is caused by and preventable by diet. A common link between these two conditions is insulin resistance (IR), characterized by elevated insulin levels due to an insensitivity to insulin’s action post pranially Recent research has highlighted the strong connection between IR and incidence and severity of CVD. IR is associated with the generation of very small dense low density lipoprotein (LDL) which confers a high risk for cardiovascular disease, more so than any previously identified risk factor for CVD. Given the clear correlation with IR, dietary approaches may be considered to be highly effective as a treatment strategy or preventative measure. This review concentrates on this newly discovered link between IR and CVD, and presents a balanced view of dietary measures which could contribute to corrections in insulin imbalances, responsiveness to insulin, and therefore reduce CVD incidence and obesity."}
+	}}

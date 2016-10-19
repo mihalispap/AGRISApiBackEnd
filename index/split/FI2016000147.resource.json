@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Effekten af forskellige indhusningssystemer på adfærd, fysiologi, reproduktion og produktionsomkostninger hos sølvræv (Vulpes vulpes).",
+	"xml:lang":"dan"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Pedersen, Vivi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"animal physiology"},
+	{"value":"tuotantokustannukset"},
+	{"value":"kettu"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"hormonit"},
+	{"value":"behaviour"},
+	{"value":"cages"},
+	{"value":"foxes"},
+	{"value":"reproduction"},
+	{"value":"tuotantoympäristö"},
+	{"value":"glucocorticoids"},
+	{"value":"furbearing animals"},
+	{"value":"häkit"},
+	{"value":"lisääntyminen"},
+	{"value":"production costs"},
+	{"value":"turkiseläimet"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (1995 :
+    Göteborg)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000147",
+	"dct:identifier":"FI2016000147",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

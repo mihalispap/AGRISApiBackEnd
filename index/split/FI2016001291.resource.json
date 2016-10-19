@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/7/4/concentr.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Concentrate feeding and milk yield based on field data of milk recorded herds.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kaustell, Kaisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäntysaari, Esa A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huhtanen, Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nautakarja"},
+	{"value":"dairy cows"},
+	{"value":"lehmät"},
+	{"value":"maitotuotos"},
+	{"value":"lypsykarja"},
+	{"value":"Finland"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"grain"},
+	{"value":"compound feeds"},
+	{"value":"milk yield"},
+	{"value":"väkirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001291",
+	"dct:identifier":"FI2016001291",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"A tríade relação professor-estudante-saber nas aulas de Matemática: implicações do contrato didático na análise das expectativas dos sujeitos",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wanderley Pivatto "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Elcio Schuhmacher "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00037",
+	"dct:identifier":"BR2015M00037",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"<O artigo teve como proposta analisar o comportamento da relação entre professor e estudante, sob à luz do contrato didático, entendido por Brousseau (1999) como um instrumento de análise a partir da tríade docente-discente e o saber. O enfoque da investigação esteve sentado nas expectativas dos estudantes e professores na efetivação das regras que compõem um contrato didático, delineado por direitos e promessas de um saber que se deseja por ambas as partes, bem como a ocorrência de transgressão e negociação dos itens orientadores contratuais. Para realizar a investigação, a metodologia utilizada foi a realização de uma entrevista com professores e estudantes de três turmas de 2ª série do Ensino Médio, durante as aulas de Matemática, de uma escola da rede pública de Florianópolis, Santa Catarina. Os resultados mostraram que para a formação do contrato didático, é necessário que estudantes e professores participem ativamente nesse processo de construção de regras que norteará os trabalhos em sala de aula.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

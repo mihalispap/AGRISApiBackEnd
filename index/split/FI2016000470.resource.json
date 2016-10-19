@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Bias in genetic evaluation using random regression test-day model.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lidauer, Martin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäntysaari, Esa A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cattle"},
+	{"value":"maitotuotos"},
+	{"value":"genetic variation"},
+	{"value":"lypsykarja"},
+	{"value":"animal breeding"},
+	{"value":"milk yield"},
+	{"value":"muuntelu"},
+	{"value":"kotieläinjalostus"},
+	{"value":"evaluation"},
+	{"value":"arviointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000470",
+	"dct:identifier":"FI2016000470",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

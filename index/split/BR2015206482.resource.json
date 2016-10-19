@@ -1,0 +1,88 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Desempenho fisiológico das sementes de ervilha tratadas com biorregulador ",
+	"xml:lang":"por"
+	},
+	{"value":"Physiological performance of pea seeds treated with bioregulator",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":{"value":"pisum sativum",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206482",
+	"dct:identifier":"BR2015206482",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/350/287",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Abrecht Leandro Paiola"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bazo Gabriel Loli"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Demeneck-Vieira Paulo Vinicius"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Albrecht Alfredo Junior Paiola"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Braccini Alessandro de Lucca e"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Krenchinski Fábio Henrique"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gasparotto Aline de Carvalho"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná, Campus Palotina, Palotina, PR, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Maringá, Maringá, PR, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Estadual de Maringá, Maringá, PR, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo, Piracicaba, SP, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná, Campus Palotina, Palotina, PR, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Paraná, Campus Palotina, Palotina, PR, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"quanto ao tratamentoquantitativo foram ajustados modelos de regressão polinomial. A ação do biorregulador variou em função dos lotes utilizados, em que as cultivares ‘Ervilha Jota Flor Roxa’ e ‘Ervilha Axé’ foram responsivas ao tratamento de sementes com biorregulador Stimulate®, com a dose mais positiva aqualidade fisiológica próximo de 8 mL kg-1."},
+	{"value":4},
+	{"value":"on the quantitative treatment were adjusted polynomial regression models. The action of bioregulators varied depending on the batches used in the cultivars ‘JotaPeaPurple Flower’ and ‘Pea Axe’ were responsive to treatment of seeds with plant growth regulator Stimulate® at a dose more positive physiological quality around 8 mL kg -1.",
+	"xml:lang":"por"
+	},
+	{"value":"This study aimed to evaluate the physiological quality of seeds of three cultivars of pea (Pisum sativumL.) under application of plant growth regulator. The experimental design was completely randomized with four replications. The treatments were arranged in a 3 x 5 factorial, consisting of three cultivars (‘Jota Pea Flower Purple’, ‘Telephone Pea High’and ‘Pea Axe’) and five doses of the plant growth regulator (0, 4, 8, 12 and 16 mL kg-1).We evaluated the germination, seedling vigor classification, the emergence in sand seedbed and seedling elongation Mean qualitative treatment were compared by Tukey test",
+	"xml:lang":"eng"
+	},
+	{"value":8},
+	{"value":"12 e 16 mL kg-1). Foram avaliadas a germinação, a classificação do vigor de plântulas, a emergência em substrato de areia e o comprimento das plântulas As médias do tratamento qualitativo foram comparadas pelo teste de Tukey"},
+	{"value":"O presente trabalho objetivou avaliar a qualidade fisiológica das sementes de três cultivares de Ervilha (Pisum sativum L.) sob aplicação de biorregulador. O delineamento experimental foi inteiramente casualizado, com 4 repetições. Os tratamentos foram arranjados em esquema fatorial3 x 5, constituídos por três cultivares (‘Ervilha Jota Flor Roxa’, ‘Ervilha Telefone Alta’ e ‘Ervilha Axé’) e cinco doses do biorregulador (0"}
+	]
+	}}

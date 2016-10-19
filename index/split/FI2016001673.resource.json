@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Planteafstands- og grundstammerelationer 'Summerred' og 'Mutsu'.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Toldam-Andersen, Torben Bo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"hedelmäpuut"},
+	{"value":"hedelmänviljely"},
+	{"value":"spacing"},
+	{"value":"field experimentation"},
+	{"value":"perusrungot"},
+	{"value":"istutustiheys"},
+	{"value":"kenttäkokeet"},
+	{"value":"rootstocks"},
+	{"value":"Malus"},
+	{"value":"fruit trees"},
+	{"value":"Malus x domestica"},
+	{"value":"apples"},
+	{"value":"Denmark"},
+	{"value":"omenapuut"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (231 :
+    1994 :
+    Kivik)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001673",
+	"dct:identifier":"FI2016001673",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

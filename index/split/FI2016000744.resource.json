@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of group size and space allocation on physiological, behavioural and production-related welfare parameters in farmed silver fox cubs /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ahola, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mononen, Jaakko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pyykönen, Teija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohaibes, Maarit.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rekilä, Teppo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kettu"},
+	{"value":"animal housing"},
+	{"value":"behaviour"},
+	{"value":"cages"},
+	{"value":"group size"},
+	{"value":"tilantarve"},
+	{"value":"turkistarhaus"},
+	{"value":"foxes"},
+	{"value":"hopeakettu"},
+	{"value":"tuotantoympäristö"},
+	{"value":"furbearing animals"},
+	{"value":"animal welfare"},
+	{"value":"turkiseläimet"},
+	{"value":"silver fox"},
+	{"value":"hyvinvointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000744",
+	"dct:identifier":"FI2016000744",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

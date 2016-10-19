@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-environment-70.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Linear alkylbenzene sulfonates (LAS) and soil microbial activity"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pozo, Clementina (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rodelas, Belén (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Calvo, Concepción (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toledo, María Victoria Martínez (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"González-López, Jesús (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100268",
+	"dct:identifier":"FI2016100268",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Linear alkylbenzene sulfonates (LAS) are major ingredients of commonly used surfactants and detergents. High concentrations of these anionic surfactants may occur in sewage sludge processed in wastewater treatment plants. A high proportion of the LAS found in sludge are aerobically digested, but a fraction persists after anaerobic digestion. LAS are deposited in agricultural soils by the application of sludge as fertiliser and the use of untreated wastewater for irrigation. The toxicity of LAS in soil depends on the form in which LAS was applied, as well as on the characteristics of each particular soil. LAS could potentially harm soil microbiota by denaturing proteins and depolarising cell membranes. However, no drastic effects have been reported when sewage sludge was used as fertiliser due to its rapid aerobic degradation and lower bio-availability. The fertility of a soil is intimately linked to its particular microbiota. The relationships that exist between microbial groups involved in the cycles of the nutrients such as nitrogen, phosphorus and sulphur are essential for the normal function and evolution of a soil. Hence, the study of the microbial communities involved in these cycles significantly contributes to the understanding of the effects of LAS on the fertility and balance of agricultural soils."}
+	}}

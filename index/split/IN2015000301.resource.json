@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Dog Bite Pattern and Response of Victims in Chennai",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":27,
+	"dc:subject":[
+		{"value":"rabies",
+	"xml:lang":"eng"
+	},
+	{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"mordeduras",
+	"xml:lang":"esp"
+	},
+	{"value":"transmission des maladies",
+	"xml:lang":"fre"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	},
+	{"value":"bites",
+	"xml:lang":"eng"
+	},
+	{"value":"disease transmission",
+	"xml:lang":"eng"
+	},
+	{"value":"transmision de enfermedades",
+	"xml:lang":"esp"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"morsure",
+	"xml:lang":"fre"
+	},
+	{"value":"rage",
+	"xml:lang":"fre"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	},
+	{"value":"rabia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":11,
+	"bibo:pageEnd":31,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000301",
+	"dct:identifier":"IN2015000301",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_13ab7667"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Veterinary Public Health"},
+	"bibo:ISSN":{"value":"0972-7485"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yale, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ganesan, P.I."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandian, A.S.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"This study was conducted by interviewing people attending the anti-rabies ward for post exposure rabies vaccination in a Government General Hospital in Chennai.  One hundred and ninety dog bite patients were randomly selected for the interview during October and November of 2011. The study revealed that age and education status of victim did not have significant effect on time to seek vaccination and degree of bite but both were significantly affected by type of dog that bit the victim. Education status had significant effect on provoking the dog, while age did not. It was also found that type of dog had a significant effect on vaccination status of dog, bite by provoking and degree of bite. The study also confirmed that that dog bite cases, degree of bite and educational status of victims were uniformly distributed around whole of Chennai. This manifests the change in trend of rabies awareness of the public and their response to dog bite.",
+	"xml:lang":"eng"
+	}
+	}}

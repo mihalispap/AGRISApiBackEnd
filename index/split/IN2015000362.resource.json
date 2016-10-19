@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Rearing practices, morphological characteristics and growth performance of Muzaffarnagari sheep in its home tract",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":37,
+	"dc:subject":[
+		{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"uttar pradesh",
+	"xml:lang":"fre"
+	},
+	{"value":"animal husbandry methods",
+	"xml:lang":"eng"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"methode d'elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"metodos de crianza",
+	"xml:lang":"esp"
+	},
+	{"value":"uttar padesh",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":40,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000362",
+	"dct:identifier":"IN2015000362",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Dass, Gopal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal, Ajoy"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rout, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Roy, R."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A survey was conducted to study the rearing practices, morphological characteristics and growth performance of Muzaffarnagari sheep in the breeding tract. Data on 512 sheep of either sex pertaining to different age groups were recorded. The results revealed that flocks were mainly maintained by Pal/Gadaria and Khatik communities on extensive system. Lambing and breeding were recorded round the year in the flocks. Animals were shorn twice a year using hand scissors. Overall means for body length, height at withers, chest girth and tail length of lambs (0â1 month old) ranged from 25â28, 32â35, 35â57 and 21â37 cm, respectively. The corresponding figures ranged from 49â55, 55â61, 53â63, 36â44 cm in 1â3 month, 53â60, 59â63, 61â70 and 42â43 cm in 3â6 month, 63â71, 68â76, 65â75 and 42â45 cm in 6â9 month, 80â83, 73â79, 79â81 and 50â54 cm in 9â12 month age groups and 79â86, 80â87, 82â89 and 54â52 cm in adult sheep. The least squares means of body weight were recorded as 6.32, 14.80, 19.82, 22.75, 25.57 and 42.33 kg, respectively in the corresponding age groups. Effect of sex was highly significant (P0.01) on body weights in all age group except 0â1 month.",
+	"xml:lang":"eng"
+	}
+	}}

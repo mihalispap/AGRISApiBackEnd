@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Pest status and incidence of the honey bee tracheal mite in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Korpela, Seppo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"talvehtiminen"},
+	{"value":"Acarapis woodi"},
+	{"value":"pest mites"},
+	{"value":"Finland"},
+	{"value":"hibernation"},
+	{"value":"talvivauriot"},
+	{"value":"mehiläisten tuhoeläimet"},
+	{"value":"Apis mellifera"},
+	{"value":"sisuspunkki"},
+	{"value":"honey bees"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000897",
+	"dct:identifier":"FI2016000897",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Adaptability of prospective mother trees of Hevea to the cold climate of Sub-Himalayan West Bengal and Assam",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":163,
+	"dc:subject":[
+		{"value":"seedling"},
+	{"value":"rubber yield"},
+	{"value":"mother ortet"},
+	{"value":"adaption"},
+	{"value":"cold",
+	"xml:lang":"eng"
+	},
+	{"value":"frio",
+	"xml:lang":"esp"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"froid",
+	"xml:lang":"fre"
+	},
+	{"value":"crecimiento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":171,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000631",
+	"dct:identifier":"IN2015000631",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gitali Das."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gopal Chandra Mondal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dhurjati Chaudhuri"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Ortet selection in rubber from polycross mother trees grown in stress prone areas is one of the mandate for developing new generation rubber clones for the non-traditional regions. Aiming at this, experiments were laid out at two Regional Research Stations of Sub-Himalayan range of North Eastern India, viz. Nagrakata in Jalpaiguri district of West Bengal and Sarutari in Kamrup district of Assam. The weather of both the stations was different from each other especially on the basis of temperature (Tmax  and Tmin) and total annual rainfall. Effect of such variations in weather condition had reflected on growth and yield performance of the seedlings. The collective mean yield of trees showing yield above the average block yield every years over eleven years (category I) was much lower at Nagrakata (44.84 g tree-1 tap-1) than Sarutari (53.29 g tree-1 tap-1) but it was opposite in category II where the trees showed above average yield for ten years over eleven years. In view of the yield performance at Nagrakata, the mother tree NGK 203 was the top ranker (69.79 g tree-1 tap-1) followed by NGK 47 (55.40 g tree-1 tap-1) with low CV (37.11% and 35.33% respectively) and appreciable winter yield contribution (53.92% and 52.17% respectively); at Sarutari, it was GWH 245 (86.74 g tree-1 tap-1) followed by GWH 286 (81.14 g tree-1 tap-1) with CV of 55.01 per cent and 40.35 per cent, respectively and winter yield contribution of 48.33 per cent and 43.61 per cent, respectively. Study on adaptation of potential mother trees to two different weather conditions was compared.",
+	"xml:lang":"eng"
+	}
+	}}

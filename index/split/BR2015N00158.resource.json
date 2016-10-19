@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"OCORRÊNCIA E CARACTERIZAÇÃO DE PEIXES MARINHOS DA PRAIA DE PONTA NEGRA, RIO GRANDE DO NORTE, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":112,
+	"bibo:volume":4,
+	"bibo:pageEnd":118,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00158",
+	"dct:identifier":"BR2015N00158",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1093",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thiago Augusto Bezerra Gurgel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marcelo Moreira Carvalho"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mônica Rocha Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sathyabama Chellappa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Norte"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<span style=\"font-size: 12.0pt; font-family: \">A praia de Ponta Negra, localizada no município de Natal, Rio Grande do Norte, abriga uma grande diversidade de peixes de importância econômica e ecológica. Estes recursos pesqueiros vêm sofrendo com a destruição de seus ecossistemas devido às atividades antrópicas, em especial a alta especulação imobiliária, ao despejo de esgoto e a pesca predatória. O presente trabalho verificou a frequência de ocorrência, as características morfológicos externos de peixes marinhos das águas costeiras da praia de Ponta Negra, Natal, Rio Grande do Norte. Durante o período de janeiro a dezembro de 2012, foi registrada a ocorrência de dez espécies de peixes, distribuídos em três ordens </span><span style=\"font-size: 12.0pt; font-family: \">(</span><span style=\"font-size: 12.0pt; font-family: \">Carcharhiniformes</span><span style=\"font-size: 12.0pt; font-family: \">, Siluriformes e Perciformes</span><span style=\"font-size: 12.0pt; font-family: \">), oito famílias (Carcharhinidae, Ariidae, Centropomidae, Carangidae, Sciaenidae, Ephippidae, Scombridae, Trichiuridae). Os resultados do presente trabalho agregam ao estudo realizado anteriormente, q</span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">uando 20 outras espécies de peixes marinhos foram registradas, </span><span style=\"font-size: 12.0pt; font-family: \">e podem enriquecer o conhecimento da ictiofauna de águas costeiras de Natal, Rio Grande do Norte.</span>",
+	"xml:lang":"por"
+	}
+	}}

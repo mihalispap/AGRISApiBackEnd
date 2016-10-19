@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of storage ageing and spring sprouting of seed tubers on the yield of three potato varieties in the Finnish Lapland : Research Note.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Hannukkala, Antti.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"esi-idätys"},
+	{"value":"Finland"},
+	{"value":"seed potatoes"},
+	{"value":"potatoes"},
+	{"value":"crop yield"},
+	{"value":"idätys"},
+	{"value":"lämpökäsittely"},
+	{"value":"varastointi"},
+	{"value":"sprouting"},
+	{"value":"Lapland"},
+	{"value":"seed storage"},
+	{"value":"sato"},
+	{"value":"peruna"},
+	{"value":"Solanum tuberosum"},
+	{"value":"siemenperuna"},
+	{"value":"aging"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000935",
+	"dct:identifier":"FI2016000935",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

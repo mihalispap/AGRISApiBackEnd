@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.984",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rottensteiner, Christian,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tsioras, Petros,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Neumayer, Heinz,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stampfer, Karl,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Vibration and noise assessment of tractor-trailer and truck-mounted chippers.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"exposure"},
+	{"value":"whole-body vibration"},
+	{"value":"chippers"},
+	{"value":"vibration"},
+	{"value":"chipping"},
+	{"value":"exposure limit values"},
+	{"value":"whole body vibration"},
+	{"value":"melu"},
+	{"value":"noise"}
+	],
+	"bibo:doi":"10.14214/sf.984",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001237",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001237",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

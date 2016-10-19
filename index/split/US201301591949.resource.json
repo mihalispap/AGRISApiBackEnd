@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic relationships in apricot (Prunus armeniaca L.) using SSR markers and their implications for breeding"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591949",
+	"dct:identifier":"US201301591949",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a37.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Donoso, J. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aros, D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meneses, C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Narváez, C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Infante, R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In this paper we evaluated the genetic diversity among apricot cultivars of different origins using SSR markers. Thirty-one apricot cultivars were evaluated, including one Japanese plum and one apricot x plum hybrid as outgroup. Eleven primer pairs developed in peach were assayed. Seven primer pairs (64% of the assayed markers) were amplified successfully and resulted in 44 polymorphic bands, ranging from 2 (UDP96008) to 8 (UDP98406 and UDP98411) alleles. The observed heterozygosity ranged from 0.09 (UDP96008) to 0.88 (UDP96003). There is a high degree of homology for the SSR loci between peach and apricot and transportability of these markers among Prunus. According to genetic distances obtained within the apricot group, four clusters were identified: Western European; North American; one cluster including ‘Bebeco’, ‘Tirynthos’ and ‘Ninfa’ and finally another cluster including other North American cultivars. Results show that the cultivars of the American genotypes share a common genetic background. Most of the evaluated cultivars that belong to the European eco-geographical group present a common genetic base, which suggests that apricot breeding has been mainly based on the hybridization and selection of European genotypes. The information generated through the application of SSR on this apricot germplasm bank would be useful for breeders who want to enrich their genetic base and introduce new genes on their background."}
+	}}

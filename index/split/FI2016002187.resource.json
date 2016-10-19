@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Characteristics and time consumption of timber trucking in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nurminen, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Heinonen, Jaakko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"work study"},
+	{"value":"cut-to-length operations"},
+	{"value":"working hours"},
+	{"value":"puunkuljetus"},
+	{"value":"kuljetus"},
+	{"value":"log-normal distribution"},
+	{"value":"aikatutkimus"},
+	{"value":"puutavara"},
+	{"value":"logistics"},
+	{"value":"logistiikka"},
+	{"value":"autokuljetus"},
+	{"value":"puunkorjuu"},
+	{"value":"puunhankinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002187",
+	"dct:identifier":"FI2016002187",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

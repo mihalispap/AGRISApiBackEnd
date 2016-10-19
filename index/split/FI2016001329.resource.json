@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of restricted methionine and energy intake on egg weight and shell quality.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kiiskinen, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Helander, Eija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"weight"},
+	{"value":"poultry"},
+	{"value":"rehut"},
+	{"value":"koko"},
+	{"value":"animal feeding"},
+	{"value":"methionine"},
+	{"value":"ruokinta"},
+	{"value":"laatu"},
+	{"value":"paino"},
+	{"value":"kananmunat"},
+	{"value":"eggs"},
+	{"value":"metioniini"},
+	{"value":"kuori"},
+	{"value":"quality"},
+	{"value":"egg shell"},
+	{"value":"thickness"},
+	{"value":"chickens"},
+	{"value":"kana"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001329",
+	"dct:identifier":"FI2016001329",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

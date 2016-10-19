@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"CARACTERIZAÇÃO DA PESCA NO RESERVATÓRIO E ÁREAS ADJACENTES DA UHE COARACY NUNES, FERREIRA GOMES, AMAPÁ – BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":83,
+	"bibo:volume":3,
+	"bibo:pageEnd":96,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00121",
+	"dct:identifier":"BR2015N00121",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/784",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Júlio César Sá-Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Huann Carllo Gentil Vasconcelos"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silvio Wigwam Mendes Pereira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Victoria Judith Isaac-Nahum"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Antônio Pinheiro Teles Junior"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UNIFAP"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<p class=\"Default\" style=\"text-align: justify; line-height: 150%;\"><span style=\"font-size: 11.0pt; line-height: 150%; mso-bidi-font-family: Arial; color: windowtext;\">O reservatório da UHE Coaracy Nunes, no Estado do Amapá, Brasil é o mais antigo da Amazônia e foi construído com fins de produção de energia elétrica. O objetivo deste foi investigar a pesca no reservatório de Coaracy Nunes e adjacências, descrevendo a produção pesqueira, as espécies de peixes de maior interesse e os aspectos sócio-econômicos dos pescadores. A metodologia utilizada foi fundamentada em questionamentos feitos diretamente a 51 pescadores utilizando formulários específicos que continham perguntas sobre os aspectos sócio-econômicos dos pescadores e sobre a pesca. Os resultados revelaram que a pesca na área de estudo é uma atividade de subsistência, mas com tendências à pesca artesanal. A principal arte de pesca empregada é a rede de espera, seguida de zagaia e arpão subaquático e anzol. A composição ictiofaunística da pesca estava composta de 13 espécies, com destaque, em termos de biomassa, para Cichla sp., Hoplias macrophthalmus</em>, Tometes trilobatus e Leporinus sp., que juntos compuseram 47,55% da pesca total. A produção pesqueira foi considerada baixa comparada a de outros reservatórios mais recentes. Pescadores residentes há mais de 50 anos na região afirmam que no período pré-barramento do rio existia notável abundância de espécies de grande porte, o que sugere que o barramento do rio e a pesca foram os principais fatores na eliminação e redução dos estoques de algumas espécies na área do reservatório.</span>",
+	"xml:lang":"por"
+	}
+	}}

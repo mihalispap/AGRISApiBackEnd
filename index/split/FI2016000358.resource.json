@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Colour changes of fresh-cut leafy vegetables during storage /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ferrante, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Incrocci, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maggini, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Serra, G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tognoni, F.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"colour"},
+	{"value":"leaf vegetables"},
+	{"value":"vihannekset"},
+	{"value":"cold storage"},
+	{"value":"väri"},
+	{"value":"phenolic compounds"},
+	{"value":"chicory"},
+	{"value":"säilyvyys"},
+	{"value":"laatu"},
+	{"value":"Cichorium"},
+	{"value":"varastointi"},
+	{"value":"sikurit"},
+	{"value":"keeping quality"},
+	{"value":"fenolit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000358",
+	"dct:identifier":"FI2016000358",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

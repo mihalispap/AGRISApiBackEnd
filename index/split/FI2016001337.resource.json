@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Large-scale forest owner's information needs in operational planning of timber harvesting : some practical views in Metsähallitus, Finnish state-owned enterprise.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Laamanen, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Annika.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"harvesting"},
+	{"value":"forest inventories"},
+	{"value":"harvest planning"},
+	{"value":"information needs"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001337",
+	"dct:identifier":"FI2016001337",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

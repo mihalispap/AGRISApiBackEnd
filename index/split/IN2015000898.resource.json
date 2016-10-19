@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Chalcosoma argregs sp. nov. from Malaysia (Coleoptera: Scarabaeidae: dynastinae)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":188,
+	"dc:subject":{"value":"coleoptera",
+	"xml:lang":"esp"
+	},
+	"bibo:volume":76,
+	"bibo:pageEnd":191,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000898",
+	"dct:identifier":"IN2015000898",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Satoru,  Takeuchi"
+	}
+	},
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"A new species of Scarabaeidae from Malaysia, Chalcosoma argregs sp. nov is described. It is compared with other species and diagnostic features illustrated and discussed.",
+	"xml:lang":"eng"
+	}
+	}}

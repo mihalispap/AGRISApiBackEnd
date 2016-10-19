@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bionomics of Atherigona soccata (Rondani) on resistant and susceptible maize genotypes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":192,
+	"dc:subject":[
+		{"value":"ecology",
+	"xml:lang":"eng"
+	},
+	{"value":"atherigona soccata",
+	"xml:lang":"esp"
+	},
+	{"value":"ecologie",
+	"xml:lang":"fre"
+	},
+	{"value":"mais",
+	"xml:lang":"fre"
+	},
+	{"value":"ecologia",
+	"xml:lang":"esp"
+	},
+	{"value":"maiz",
+	"xml:lang":"esp"
+	},
+	{"value":"maize",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":196,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000899",
+	"dct:identifier":"IN2015000899",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Rajesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh,  Maan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar,  Narendra"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Biology of A. soccata was studied on two resistant (193-2x161, C-78) and two susceptible maize genotypes (1128x163, 1348-6-2). Shoot fly laid creamy white, cigar shaped eggs singly on underside of the leaves parallel to midrib. They hatched within 2.2 days and the hatchability ranged between 64.73 to 74.38 per cent on resistant and susceptible maize genotypes. The larval period was observed maximum on resistant genotypes than susceptible ones. The total larval period extended up to 12.87 days on resistant hybrid 193-2x161 and minimum (8.02 days) on susceptible inbred 1348-6-2. Pupation took place in the seedlings but sometimes it was also observed in the soil near the base of the seedling. The pupal period was recorded minimum (6.92 days) on susceptible inbred 1348-6-2 and maximum (9.73 days) on resistant hybrid 193-2x161. The developmental period was observed maximum (21days) on resistant hybrid 193-2x161 and minimum (14.5 days) on susceptible inbred 1348-6-2. Adult emergence was observed 75.2 and 72.5% on inbred 1348-6-2 and C-78, respectively. The female always outnumbered the males when this pest was reared on any of the genotypes and sex ratio male to female was found maximum (1:1.44) on susceptible inbred 1348-6-2 and minimum (1:1.38) on resistant hybrid 193- 2x161. A. soccata laid more number of eggs when reared on inbred than hybrids. Single female laid maximum (32.7 eggs) on susceptible inbred 1348-6-2 and minimum (13.6 eggs) on resistant hybrid 193-2x161in its total life span. However, resistant and susceptible genotypes did not affect the sex ratio and incubation period.",
+	"xml:lang":"eng"
+	}
+	}}

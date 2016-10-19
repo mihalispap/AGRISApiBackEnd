@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Induced resistance in management of Thrips tabaci Lindeman in Onion by alteration in host nutrition",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":46,
+	"dc:subject":[
+		{"value":"thrips tabaci",
+	"xml:lang":"esp"
+	},
+	{"value":"enmiendas organicas",
+	"xml:lang":"esp"
+	},
+	{"value":"amendement organique",
+	"xml:lang":"fre"
+	},
+	{"value":"organic amendments",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":49,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000217",
+	"dct:identifier":"IN2015000217",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bandi, Sanjay"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sivasubramanian, P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The biochemical constituents of onion plant as influenced by organic sources of nutrients were correlated with thrips population to understand the possible role of organic nutrients in creating the induced resistance. The pooled data on thrips population revealed that application of combination of NPK, FYM, Azophos and neem cake recorded lowest thrips population (6.22 &7.34 thrips / plant) in both the field trials. Application of organic nutrients and amendments significantly reduced the total chlorophyll and reducing sugar contents. The plants treated with NPK, FYM, Azophos and neem cake combination recorded higher total phenol (5.10 mg/g) and OD phenol (2.42 mg/g) contents compared to the plants receiving inorganic NPK alone. The incidence of thrips was positively correlated to total chlorophyll and reducing sugar content and negatively correlated to phenols and OD phenol content.",
+	"xml:lang":"eng"
+	}
+	}}

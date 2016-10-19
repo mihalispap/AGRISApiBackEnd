@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Conspicuous vermic characters in mountain soils developed by large lumbricids (Oligochaeta).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pop, Victor V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vasu, Alexandra.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maaperäeliöstö"},
+	{"value":"soil fauna"},
+	{"value":"maaperäeläimistö"},
+	{"value":"huokoset"},
+	{"value":"mountain soils"},
+	{"value":"maaperä"},
+	{"value":"soil biology"},
+	{"value":"soil pore system"},
+	{"value":"ominaisuudet"},
+	{"value":"maan rakenne"},
+	{"value":"Oligochaeta"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    International Colloquium on Soil Zoology
+    (11 :
+    1992 :
+    Jyväskylä)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000676",
+	"dct:identifier":"FI2016000676",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

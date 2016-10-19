@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimating dry fodder availability and requirement for bovines",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":744,
+	"dc:subject":[
+		{"value":"farm surveys",
+	"xml:lang":"eng"
+	},
+	{"value":"bovina",
+	"xml:lang":"esp"
+	},
+	{"value":"nutritional requirements",
+	"xml:lang":"eng"
+	},
+	{"value":"besoin nutritionnel",
+	"xml:lang":"fre"
+	},
+	{"value":"desiccated fodders",
+	"xml:lang":"eng"
+	},
+	{"value":"enquete sur exploitations agricoles",
+	"xml:lang":"fre"
+	},
+	{"value":"necesidades de nutrientes",
+	"xml:lang":"esp"
+	},
+	{"value":"bovinae",
+	"xml:lang":"fre"
+	},
+	{"value":"encuestas sobre explotaciones",
+	"xml:lang":"esp"
+	},
+	{"value":"fourrage desseche",
+	"xml:lang":"fre"
+	},
+	{"value":"forraje seco",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":750,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000146",
+	"dct:identifier":"IN2015000146",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thirunavukkarasu, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sankaran, V.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kathiravan, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karunakaran, R."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"The availability and requirement of dry fodder for bovines in Tamil Nadu were estimated in the study. A survey was conducted to ascertain the grain-to-straw ratios in various cereals and pulses crops in 580 farms, randomly selected from across the 7 agro-climatic zones of the State. Secondary data on area and production of various agricultural commodities in the State (2007-08) were also collected from government and non-government agencies. Based on the ratios assessed and the data collected on production of cereals, pulses and oilseeds in the State, a methodology was framed for estimating dry fodder availability. The requirement of dry fodder for bovines was estimated (i) taking the dry matter requirement of 2.50% per Adult Cattle Unit (ACU) (350 kg body weight) and (ii) taking the requirement of dry fodder as 1 kg of dry fodder/100 kg of body weight. The dry fodder produced from cereals was estimated to be 5.08 million tonnes (66.84% to total dry fodder), with half of it coming from paddy. Dry fodder from pulses in the State was 0.38 million tonnes. Groundnut contributed 28.20% to dry fodder output in State. Total dry fodder requirement for bovines in the State, was 11.77 million tonnes as per procedure 1, and 9.36 million tonnes as per procedure 2, indicating a deficit of 4.17 million tonnes and 1.76 million tonnes, respectively. Total bovine population of the State was 7.33 million ACUs, of which 5.84 million ACUs (79.72%) were cattle and 1.49 million ACUs (20.28%) buffaloes. Dry fodder status also showed a deficit of 0.57 and 0.24 tonne/ACU in the State, in procedure 1 and procedure 2, respectively. All zones in the State showed only deficit status of dry fodder, in both the requirement situations.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"On-tree and after-harvesting evaluation of firmness, color and lycopene content of tomato fruit using portable NIR spectroscopy"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911297",
+	"dct:identifier":"US201300911297",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/a38.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":", Kusumiyati (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akinaga, Takayoshi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tanaka, Munehiro (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kawasaki, Sheishi (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The use of a portable near-infrared (NIR) spectroscopy for rapid and accurate measurement of firmness, color values and lycopene content of tomato fruit (cv. Momotaro) on-tree and after-harvesting was explored. Calibration and prediction models were obtained using partial least square regression (PLSR) and principal component regression (PCR). PLSR yielded better results than PCR and was used to develop the calibration and prediction models. PLSR analysis showed high correlation coefficient and low standard error of calibration for firmness, color parameters L* (lightness), a*, b*, ho (hue angle) and C* (chroma) and lycopene content of fruit on-tree. Similar results were obtained for fruit after-harvesting. The NIR technique could be very useful as a non-destructive method for determining the best harvesting time and for sorting fruits based on desired quality attributes."}
+	}}

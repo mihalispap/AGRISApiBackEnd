@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficacy of Norgestomet ear implant for estrus induction on postpartum anestrus Murrah buffaloes (bubalus bubalis)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":687,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"trouble puerperal",
+	"xml:lang":"fre"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"induced ovulation",
+	"xml:lang":"eng"
+	},
+	{"value":"trastornos del puerperio",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"ovulacion inducida",
+	"xml:lang":"esp"
+	},
+	{"value":"puerperal disorders",
+	"xml:lang":"eng"
+	},
+	{"value":"ovulation induite",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":690,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000139",
+	"dct:identifier":"IN2015000139",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Malik, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Pardeep"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Inderjeet"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Phulia, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tuli, R.K."
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"The study was conducted on 15 lactating, suckled, anestrus Murrah buffaloes to evaluate the efficacy of norgestomet ear implant for induction of estrus, restoration of ovarian cyclicity and fertility at induced and subsequent estrus during early (90 days) and late (120 days) postpartum periods. The suppressive effect of progestagen treatment on largest follicles was visible from day 3 onwards, which regressed @ 0.68Â±0.05 mm/d. Consequently, the largest follicle diameter was minimum on day 9 of treatment. After eCG injection (day 9), dominant follicle (DF) grew rapidly to attain significantly larger size than the second largest follicle when DF approached ovulation (day 12). The maximum size of ovulatory follicle was 12.05Â±0.36 mm. Overall, 14 of the 15 treated buffaloes ovulated and in 13 animals a corpus luteum was observed 10 days later. The conception rates at induced estrus and overall up to third insemination were 66.7% (10/15) and 86.7% (13/15), respectively. In 13 animals, which got pregnant, mean number of inseminations per conception were 1.31. Our results showed that Crestar   + eCG was an effective therapy for inducing estrus in postpartum anestrus Murrah buffaloes.",
+	"xml:lang":"eng"
+	}
+	}}

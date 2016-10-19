@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Satisfaction and company loyalty as expressed by non-industrial private forest owners towards timber procurement organizations in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kärhä, Kalle.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oinas, Sami.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"päätöksenteko"},
+	{"value":"trade"},
+	{"value":"landowners"},
+	{"value":"decision making"},
+	{"value":"market research"},
+	{"value":"puukaupat"},
+	{"value":"tyytyväisyys"},
+	{"value":"family farms"},
+	{"value":"metsänomistajat"},
+	{"value":"purchasing"},
+	{"value":"work organization"},
+	{"value":"organisaatiot"},
+	{"value":"puunhankinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000811",
+	"dct:identifier":"FI2016000811",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

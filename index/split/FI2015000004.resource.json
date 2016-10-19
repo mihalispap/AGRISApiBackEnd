@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Seedling establishment on small cutting areas with or without site preparation in a drained spruce mire : a case study in northern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hökkä, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Repola, Jaakko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Moilanen, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saarinen, Markku.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"clear-cut"},
+	{"value":"drained peatlands"},
+	{"value":"peatlands"},
+	{"value":"canopy"},
+	{"value":"plant establishment"},
+	{"value":"site preparation"},
+	{"value":"drainage"},
+	{"value":"natural regeneration"},
+	{"value":"canopy gaps"},
+	{"value":"Picea abies"},
+	{"value":"clear felling"},
+	{"value":"seedling establishment"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2015000004",
+	"dct:identifier":"FI2015000004",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

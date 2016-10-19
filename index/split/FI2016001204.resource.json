@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of feeding by Metadelphax propinqua (Fieber) (Homoptera, Delphacidae) on barley /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Raatikainen, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Raatikainen, Terttu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vasarainen, Arja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"imentävioitukset"},
+	{"value":"kaskaat"},
+	{"value":"tuhoeläimet"},
+	{"value":"ohra"},
+	{"value":"sucking insects"},
+	{"value":"crop yield"},
+	{"value":"hordeum vulgare"},
+	{"value":"delphacidae"},
+	{"value":"Metadelphax propinqua"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001204",
+	"dct:identifier":"FI2016001204",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

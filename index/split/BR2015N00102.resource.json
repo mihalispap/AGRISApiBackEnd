@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"UTILIZAÇÃO DE BIOINDICADORES EM MONITORAMENTO DE POLUIÇÃO",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":169,
+	"bibo:volume":3,
+	"bibo:pageEnd":178,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00102",
+	"dct:identifier":"BR2015N00102",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/705",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Erica Sayuri Maki"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ricardo Shitsuka"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carlos Henriques Barroqueiro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dorlivete Moreira Shitsuka"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Centro Universitário Claretiano - CEUCLAR"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Itajubá - UNIFEI"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto Federal de São Paulo - IFSP"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<span style=\"font-size: 11pt; font-family: 'Aldine401 BT', serif;\">A poluição atmosférica é um dos problemas ambientais da humanidade e acende a preocupação com a sustentabilidade. Esse problema tem se agravado e provocado efeitos prejudiciais ao ambiente e à saúde da população. Como a poluição não pode ser completamente eliminada é preciso de seja monitorada. Os bioindicadores estão entre os métodos de medição de qualidade ambiental. Eles podem indicar a presença de poluentes atmosféricos tais como os compostos orgânicos de carbono, enxofre, halogenados, nitrogênio e material particulado. O objetivo deste estudo é apresentar uma revisão bibliográfica dos trabalhos disponíveis envolvendo bioindicadores vegetais no biomonitoramento da poluição atmosférica, de modo a realizar o levantamento das espécies utilizadas como bioindicadores, os meios de detecção dos poluentes e as técnicas utilizadas. Foram relacionadas 19 espécies nos 27 estudos, sendo que 16 espécies pertencentes à Divisão Angiospermae</em>, 1 gênero à divisão Bryophyta</em>, e 2 espécies de líquens</em>. Os resultados obtidos apontam para uma grande diversidade de espécies, mostrando que há potencial de aplicação desses em biomonitoramento.</span>",
+	"xml:lang":"por"
+	}
+	}}

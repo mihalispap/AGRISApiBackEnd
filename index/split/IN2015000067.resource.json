@@ -1,0 +1,101 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth, Nutrient Utilization and Whole Body Composition of Genetically Improved Labeo rohita Fry Reared on Diets Varying in Source of Protein",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":403,
+	"dc:subject":[
+		{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"regime alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"contenido proteico",
+	"xml:lang":"esp"
+	},
+	{"value":"labeo rohita",
+	"xml:lang":"esp"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"carp",
+	"xml:lang":"eng"
+	},
+	{"value":"carpe",
+	"xml:lang":"fre"
+	},
+	{"value":"protein content",
+	"xml:lang":"eng"
+	},
+	{"value":"croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"carpa",
+	"xml:lang":"esp"
+	},
+	{"value":"diet",
+	"xml:lang":"eng"
+	},
+	{"value":"crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"dieta",
+	"xml:lang":"esp"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"teneur en proteines",
+	"xml:lang":"fre"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":12,
+	"bibo:pageEnd":410,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000067",
+	"dct:identifier":"IN2015000067",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rath, S.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sarkar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohanty, S.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohanta, K.N."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"An experiment was conducted to investigate the growth, nutritional indices and whole body chemical composition of genetically improved (selective bred) rohu (Labeo rohita) fry using three isonitrogenous (30% CP) diets. Experimental diets viz. F1 (exclusively plant based ingredients with mineral vitamin supplement), F2 (plant based ingredient along with fish meal, but without mineralvitamin supplement) and F3 (F1 with probiotic) were fed to L. rohita fry in FRP tank in triplicates for 30 days. Although the survival rate of fry was found maximum in F3 (95%), the differences was not statistically significant (PÂ¡Ã0.05) among the three groups. Weight gain (279.58Â¡Ã2.53%), SGR (4.45Â¡Ã0.02 g day-1), PER (1.72Â¡Ã0.02) and NPU (35.66Â¡Ã0.46%) were significantly higher (PÂ¡Ã0.05) in F3 followed by F1 and F2 diets. The FCR was found lowest (PÂ¡Ã0.05) in F3 (1.92Â¡Ã0.02) followed by F1 (2.64Â¡Ã0.03) and F2 (2.82Â¡Ã0.02). The whole body crude protein content of F3 (74.9Â¡Ã0.02%) was significantly higher (PÂ¡Ã0.05) than F2 (72.8Â¡Ã0.38%) and F1 (68.2Â¡Ã0.33%). The crude lipid content was more in F2 (12.1Â¡Ã0.06%) followed by F1 (11.4Â¡Ã0.24%) and F3 (10.4Â¡Ã0.34%). The experiment results showed that the genetically improved rohu had better growth performance and nutrient utilization in plant based diet supplemented with probiotic and vitamin and mineral premix.",
+	"xml:lang":"eng"
+	}
+	}}

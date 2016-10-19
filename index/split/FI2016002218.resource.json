@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Both nursery and field performance determine suitable nitrogen supply of nursery-grown, exponentially fertilized Chinese pine.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"water stress"},
+	{"value":"drought stress"},
+	{"value":"nursery raising"},
+	{"value":"planting stock"},
+	{"value":"fertilization"},
+	{"value":"exponential fertilization"},
+	{"value":"nursery response"},
+	{"value":"field performance"}
+	],
+	"bibo:doi":"10.14214/sf.1295",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002218",
+	"dct:identifier":"FI2016002218",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1295",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Wang, Jiaxi,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Li, Guolei,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pinto, Jeremiah R,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu, Jiajia,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Shi, Wenhui,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liu, Yong,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

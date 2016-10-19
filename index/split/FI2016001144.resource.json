@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Income and time dependence of forest product demand elasticities and implications for forecasting.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"mallintaminen"},
+	{"value":"ekonometria"},
+	{"value":"rakennemuutos"},
+	{"value":"structural change"},
+	{"value":"markets"},
+	{"value":"markkinat"},
+	{"value":"econometrics"}
+	],
+	"bibo:doi":"10.14214/sf.1395",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001144",
+	"dct:identifier":"FI2016001144",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1395",
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Buongiorno, Joseph,
+    kirjoittaja.
+  "
+	}
+	}
+	}}

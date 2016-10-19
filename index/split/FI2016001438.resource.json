@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Insecticidal, repellent, antimicrobial activity and phytotoxicity of essential oils: With special reference to limonene and its suitability for control of insect pests : Review.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ibrahim, Mohamed.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kainulainen, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aflatuni, Abbas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tiilikkala, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Holopainen, Jarmo K.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"botanical insecticides"},
+	{"value":"plant protection"},
+	{"value":"biological control"},
+	{"value":"insect control"},
+	{"value":"limonene"},
+	{"value":"monoterpens"},
+	{"value":"monoterpeenit"},
+	{"value":"kasvinsuojelu"},
+	{"value":"terpeenit"},
+	{"value":"phytotoxicity"},
+	{"value":"torjunta-aineet"},
+	{"value":"essential oils"},
+	{"value":"biopesticides"},
+	{"value":"limoneeni"},
+	{"value":"biologinen torjunta"},
+	{"value":"pesticides"},
+	{"value":"botanical pesticides"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001438",
+	"dct:identifier":"FI2016001438",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Ophiostomatoid fungi transported by Ips sexdentatus (Coleoptera; Scolytidae) in Pinus pinaster in NW Spain.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bueno, Alberto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Diez, Julio J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fernández, Mercedes M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Pinus pinaster"},
+	{"value":"Ophiostoma spp."},
+	{"value":"ophiostomatoid fungi"},
+	{"value":"Spain"},
+	{"value":"Ophiostomatales"},
+	{"value":"sinistäjäsienet"},
+	{"value":"Ips sexdentatus"},
+	{"value":"mycangia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000168",
+	"dct:identifier":"FI2016000168",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

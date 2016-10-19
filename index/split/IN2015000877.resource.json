@@ -1,0 +1,96 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bioefficacy of certain chemical and biofungicides against Hypoxylon spp. causing wood rot disease in tea",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":341,
+	"dc:subject":[
+		{"value":"biofungicides"},
+	{"value":"control biologico",
+	"xml:lang":"esp"
+	},
+	{"value":"te",
+	"xml:lang":"esp"
+	},
+	{"value":"carie du bois",
+	"xml:lang":"fre"
+	},
+	{"value":"lutte biologique",
+	"xml:lang":"fre"
+	},
+	{"value":"control methods",
+	"xml:lang":"eng"
+	},
+	{"value":"the",
+	"xml:lang":"fre"
+	},
+	{"value":"hypoxylon",
+	"xml:lang":"esp"
+	},
+	{"value":"fongicide",
+	"xml:lang":"fre"
+	},
+	{"value":"wood decay",
+	"xml:lang":"eng"
+	},
+	{"value":"methode de lutte",
+	"xml:lang":"fre"
+	},
+	{"value":"fungicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"pudricion de la madera",
+	"xml:lang":"esp"
+	},
+	{"value":"biological control",
+	"xml:lang":"eng"
+	},
+	{"value":"tea",
+	"xml:lang":"eng"
+	},
+	{"value":"fungicides",
+	"xml:lang":"eng"
+	},
+	{"value":"metodos de control",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":347,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000877",
+	"dct:identifier":"IN2015000877",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nepolean, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balamurugan, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jayanthi, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mareeswaran, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Premkumar, R."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Wood rot disease caused by Hypoxylon serpens is the most widespread and serious stem disease in tea. Among the 350 bacterial and 35 fungal biocontrol isolates collected from several tea growing regions of southern India, three bacterial isolates produced higher antagonistic potential against this fungal pathogen. Two of the efficient strains were identified as Bacillus sp. (HBCWR-3 and WR46-2) and third one was Pseudomonas sp. (WR5-4). In case of fungal biocontrol agents, the type culture Trichoderma viride procured from Microbial Type Culture Collection (MTCC) performed better in controlling the pathogen over T. harzianum. Five systemic fungicides, hexaconazole, carbendazim, tebuconazole, tridemorph, benomyl and a contact fungicide, copper oxychloride were evaluated for studying their bioefficacy against wood rot pathogen. In this study, benomyl 50% WP or copper oxychloride at the lowest concentration (0.01%) completely inhibited the growth of the fungus in vitro. Moreover, bioefficacy of certain plant aqueous extracts of Azadirachta indica, acetone extracts of Pongamia pinnata, Cinnamom, Artemisia nilagirica, Lantana camera, Ageratum conyzoides and a bryophyte, Heteroscyphus argutus were also studied against H. serpens. Among them, A. nilagirica followed by H. argutus and A. indica were effective in controlling the wood rot pathogen. In the case of liquid biofungicides tested, Expel controlled the tea pathogen efficiently. The present study revealed that, chemical fungicide (Benomyl or copper oxychloride at 0.01%), botanical extracts at 10% (A. nilagirica, H. argutus, Azadirachta and Expel) and biocontrol agents (Bacillus sp., Pseudomonas sp. and T. viride) were effective in controlling wood rot pathogen under in vitro condition.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-103.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of diluted sea water to soilless culture of tomato (Lycopersicon esculentum Mill.): Effects on plant growth, yield, fruit quality and antioxidant capacity"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"D’Amico, M. Lucia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Izzo, Riccardo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tognoni, Franco (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pardossi, Alberto (authorDipartimento di Biologia delle Piante Agrarie, Università di Pisa, Viale delle Piagge 23, 56124, Pisa, Italy.)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Navari-Izzo, Flavia (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100407",
+	"dct:identifier":"FI2016100407",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The aim of the present research was the evaluation of the effects of sea water irrigation on the antioxidant properties and qualitative characteristics of tomato. The berries of plants grown with 0, 10 and 20% of sea water, corresponding to conductivity values of 3, 8, 14 mS/cm, respectively, were harvested at two growth stages, green and red-ripe. Increasing water salinity resulted in reduced crop water consumption, plant growth, fruit and crop yield, whereas it caused an increase in fruit quality. Titrable acidity, osmotic pressure, concentration of sodium, sugars, organic acids increased upon irrigation with saline water, whereas K content increased only at 14 mS/cm EC. The antioxidant capability was evaluated by the analysis of reduced/oxidised ratios of the major antioxidants: the reduced pool of ascorbate suggested a favourable response of tomato fruits, and the determinant role of GSH in the behaviour of total glutathione content was pointed out. Finally, the trend of APX activity testified the increased requirement of active oxygen species scavenging under salinisation."}
+	}}

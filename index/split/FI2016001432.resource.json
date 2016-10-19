@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Diversity and distribution pattern of bryophytes and vascular plants in a boreal spruce forest.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vellak, Kai.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Paal, Jaanus.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Liira, Jaan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"Estonia"},
+	{"value":"kasvit"},
+	{"value":"jäkälät"},
+	{"value":"aluskasvillisuus"},
+	{"value":"mallit"},
+	{"value":"cover plants"},
+	{"value":"tilajärjestys"},
+	{"value":"boreal forests"},
+	{"value":"boreaaliset metsät"},
+	{"value":"sammalet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001432",
+	"dct:identifier":"FI2016001432",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of peak runoff control method on growth of Scots pine stands on drained peatlands in central Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hökkä, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyttinen, Heli.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Marttila, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jämsen, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kløve, Bjørn.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"control methods"},
+	{"value":"water quality"},
+	{"value":"peatlands"},
+	{"value":"Pinus sylvestris"},
+	{"value":"runoff"},
+	{"value":"drainage"},
+	{"value":"forestry operations"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000252",
+	"dct:identifier":"FI2016000252",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Clinical manifestations and oxidative profile in sub-chronic oral molybdenum toxicity in buffalo calves",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1138,
+	"dc:subject":[
+		{"value":"molybdenum",
+	"xml:lang":"eng"
+	},
+	{"value":"molibdeno",
+	"xml:lang":"esp"
+	},
+	{"value":"ternero",
+	"xml:lang":"esp"
+	},
+	{"value":"calves",
+	"xml:lang":"eng"
+	},
+	{"value":"veau",
+	"xml:lang":"fre"
+	},
+	{"value":"toxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"toxicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"molybdene",
+	"xml:lang":"fre"
+	},
+	{"value":"toxicite",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1140,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000316",
+	"dct:identifier":"IN2015000316",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Varun"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Sumeet"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sandhu, H.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gosal, Navjot S."
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"Repeated oral administration of sodium molybdate @ 3 mg/kg/day for 90 consecutive days produced characteristic clinical signs of sub-chronic molybdenois, i.e. rough hair coat, diarrhoea, dullness and stiffness of joints in buffalo calves. Although, sodium molybdate did not cause significant alterations in the extent of lipid peroxidation and concentration of glutathione-S-transferase, blood glutathione levels were depleted. Similarly, significant decline in the values of superoxide dismutase and glutathione reductase was observed. In conclusion, sub chronic molybdenosis produced varying degree of toxic signs and exerted oxidative stress in buffalo calves.",
+	"xml:lang":"eng"
+	}
+	}}

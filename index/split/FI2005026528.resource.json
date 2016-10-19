@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Dynamics of nitrogen during wheat growth in a continuous maize-wheat system"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026528",
+	"dct:identifier":"FI2005026528",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a22.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Setia, R. K. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, K. N. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The impact of continuous cropping and fertilization on soil nutrient levels is largely determined by the nature of each specific macronutrient and the impact that the changes in the soil environment have on transformations of the nutrient. Therefore, the effect of continuous application of N, P and K to a maize-wheat annual sequence was studied in the changes on chemical pools of nitrogen and their impact on N uptake and its availability in the soil at tillering, ear initiation and wheat harvest. Application of increasing level of N resulted in a significant increase in the availability of N. The NH4-N concentration was higher than that of NO3-N at all the three stages. The movement of NO3-N in the lower horizons with applied water may lead to ground water contamination over a number of years. The increasing rate of NPK addition resulted in a significant increase in N content of plant/plant parts at all the growth stages. The N uptake by wheat significantly increased with fertilizer addition in all the treatments. The N concentration of wheat exhibited a decline whereas, the total N uptake continued to increase with plant age. The apparent N recovery (ANR) after harvesting of wheat ranged from 19.8 to 95.9 per cent The ANR increased with increment in dose of N and K fertilizer but it was inversely related to the rate of N application. The correlation coefficient values between N forms at various growth stages and N concentration/uptake by different plant parts at the respective/subsequent stages showed that there exists a negative relationship between different indices of N availability at various growth stages of wheat and N concentration as well as N uptake. However, these values were non-significant in most of the cases."}
+	}}

@@ -1,0 +1,79 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimation of out-crossing rates in populations of West Coast Tall cultivar of coconut using microsatellite markers",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":277,
+	"dc:subject":[
+		{"value":"out-crossing"},
+	{"value":"WCT"},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"outbreeding",
+	"xml:lang":"fre"
+	},
+	{"value":"microsatellite",
+	"xml:lang":"fre"
+	},
+	{"value":"microsatelites",
+	"xml:lang":"esp"
+	},
+	{"value":"alogamia",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"microsatellites",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":288,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000869",
+	"dct:identifier":"IN2015000869",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rajesh, M. K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rijith, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shafeeq Rahman"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Preethi, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rachana, K.E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sajini, K.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Anitha Karun"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Understanding of mating system of a plant species has fundamental importance for formulation of genetic conservation strategies and breeding programmes. The pattern of gene flow,  via pollen, has a profound influence on the genetic structure within a population. Various genetic parameters, obtained from molecular marker studies, can be used to assess estimates of mating system. The aim of this study was to estimate the rate of outcrossing in West Coast Tall (WCT) cultivar of coconut, which is predominant in India, using microsatellite simple sequence repeats (SSR). Two WCT mother palms and their 88 progenies, collected as embryos for five months, were screened using 15 highly polymorphic microsatellite primers. The mating parameters were estimated using mixed mating model (MLTR software) and the extents of similarity between the mother palms and their progenies were analyzed using the NTSYS software. The percentage similarity between the mother palm and its progenies, as deduced using microsatellite data, ranged from 55 to 74 per cent. The progenies were also analyzed using a RAPD primer capable of distinguishing Tall and Dwarf palms. All the progenies were found to possess the Tall-type marker indicating that the pollen was derived from Tall palms in all the cases. The results revealed the WCT cultivar to be pre-dominantly out-crossing and indicated that proper sampling and indicated that proper sampling and breeding strategies are required to sustain the high genetic diversity found.",
+	"xml:lang":"eng"
+	}
+	}}

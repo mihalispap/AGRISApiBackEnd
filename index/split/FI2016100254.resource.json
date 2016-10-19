@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1F35-41effect.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of ripening stage and storage temperature on postharvest quality of pepino (Solanum muricatum Ait.)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prono-Widayat, Heru (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schreiner, Monika (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Huyskens-Keil, Susanne (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lüdders, Peter (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100254",
+	"dct:identifier":"FI2016100254",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Pepino fruits cv. ‘Golden Globe’ were harvested at three ripening stages, premature (28-42 days after pollination), mature (38-57 days after pollination), and ripe (53-72 days after pollination), and stored at temperatures of 5°C and 18°C with a relative air humidity of 95% and 75% respectively, for up to 21 days. The results indicate that the metabolic activities leading to the overall fruit quality changes in pepino during ripening were more and predominantly affected by the genetically determined ripening process in comparison to storage temperatures in the range of 5°C to 18°C. However, the results revealed that pigments and carbohydrates, i.e. chlorophylls, pectic substances, monosaccharides and disaccharides, belong to those fruit quality attributes which vary to some extent depending on the storage temperature, specifically at high temperatures of 18°C. This indicates a pronounced temperature effect on the dynamics of fruit quality. Storing pepinos at lower temperature (5°C) with a high relative air humidity (95 %) appeared to limit the loss of most of the fruit quality attributes without resulting in chilling injuries."}
+	}}

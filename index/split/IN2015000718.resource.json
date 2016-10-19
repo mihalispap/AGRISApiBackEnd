@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Kalparasa- Farm fresh, natural, hygenic,nutritious helth drink from coconut spadix",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":17,
+	"dc:subject":[
+		{"value":"coconut spadix"},
+	{"value":"Kalparasa"},
+	{"value":"nutritious health drink"},
+	{"value":"technology",
+	"xml:lang":"eng"
+	},
+	{"value":"tecnologia",
+	"xml:lang":"esp"
+	},
+	{"value":"technologie",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":18,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000718",
+	"dct:type":"Summary",
+	"dct:identifier":"IN2015000718",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"feb2014",
+	"dct:dateSubmitted":2016,
+	"bibo:issue":10
+	}}

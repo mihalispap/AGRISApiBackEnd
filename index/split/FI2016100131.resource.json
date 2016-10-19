@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Environmental pollution by heavy metals from some industrial effluents at Sharada, Kano, Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ahmed, Ismail (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mukhtar, M. Dauda (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kawo, A. Hassan (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100131",
+	"dct:identifier":"FI2016100131",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Samples of industrial effluents from Sharada industrial area, Kano, Nigeria, were assessed for heavy metals by atomic absorption spectrophotometry between June, 2003 and March, 2004. The study showed that about 60% of the industries discharge effluents with heavy metal concentration higher than 0.30 mg/l. Lead and chromium ions were the most prevalent with values above the minimum tolerable limit. The presence of these metal ions could pose a serious potential of environmental and public health hazard. It is therefore recommended that these effluents be adequately treated before discharge."}
+	}}

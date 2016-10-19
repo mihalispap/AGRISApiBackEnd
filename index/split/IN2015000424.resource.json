@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pelvimetry in local breed of cows in Mizoram.",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":199,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"parto",
+	"xml:lang":"esp"
+	},
+	{"value":"mizoram",
+	"xml:lang":"esp"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"parturition",
+	"xml:lang":"fre"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":201,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000424",
+	"dct:identifier":"IN2015000424",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lalrintiuanga, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lallianchhunga, M.C."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Twenty five local breed of cows in Mizoram was used for the study of external pelvimetry and its influence on parturition. The mean inlet and outlet pelvic area as measured using external pelvimetry was 222.78 Â± 0.25 and 140.53 Â± +0.05, 246.97 Â± 0.04 and 155.39 Â± 0.02, 259.79 Â± 0.02 and 163.71+ 0.06, and260.12 Â± 0.12 and 163.97 Â± 0.02 cms2 in 1st calvers, 2nd calvers, 3rd calvers and 4th calvers respectively. The overall area of pelvic inlet and outlet was 247.42 Â± 0.13 and 156 Â± 0.17 cms2 respectively. The incidence of dystocia was 8% and the case of dystocia in the present study was not due to the pelvic area.",
+	"xml:lang":"eng"
+	}
+	}}

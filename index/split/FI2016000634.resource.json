@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Drypvanding i nyplantet æble : virkning på tilvækst og blomsterknopdannelse.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Dencker, Ivar.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"hedelmäpuut"},
+	{"value":"kukinta"},
+	{"value":"flowering"},
+	{"value":"trickle irrigation"},
+	{"value":"kenttäkokeet"},
+	{"value":"kasvu"},
+	{"value":"Malus"},
+	{"value":"fruit trees"},
+	{"value":"Malus x domestica"},
+	{"value":"apples"},
+	{"value":"Denmark"},
+	{"value":"sadetus"},
+	{"value":"omenapuut"},
+	{"value":"growth"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (231 :
+    1994 :
+    Kivik)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000634",
+	"dct:identifier":"FI2016000634",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

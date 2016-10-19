@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of Melampyrum extracts on the growth of axenic cultures of Cronartium flaccidum and Peridermium pini.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kaitera, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nuorteva, Heikki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"uutto"},
+	{"value":"fungal growth regulation"},
+	{"value":"Peridermium pini"},
+	{"value":"Host plants"},
+	{"value":"chemicals"},
+	{"value":"Melampyrum extracts"},
+	{"value":"pine stem rust"},
+	{"value":"rusts"},
+	{"value":"antifungal properties"},
+	{"value":"alternate host"},
+	{"value":"mänty"},
+	{"value":"Pteridermium pini"},
+	{"value":"fungi"},
+	{"value":"Cronartium flaccidum"},
+	{"value":"Pinus sylvestris"},
+	{"value":"anti-fungal phytochemicals"},
+	{"value":"ruostesienet"},
+	{"value":"isäntäkasvit"},
+	{"value":"Melampyrum"},
+	{"value":"kasvualustat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001488",
+	"dct:identifier":"FI2016001488",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

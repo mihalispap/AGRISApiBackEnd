@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Heartwood, sapwood and bark content, and wood dry density of young and mature teak (Tectona grandis) trees grown in Costa Rica.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pérez Cordero, Luis Diego.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kanninen, Markku.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"density"},
+	{"value":"wood"},
+	{"value":"tiikki"},
+	{"value":"sydänpuu"},
+	{"value":"metsikön tiheys"},
+	{"value":"stand characteristics"},
+	{"value":"sapwood"},
+	{"value":"Tectona grandis"},
+	{"value":"heartwood"},
+	{"value":"bark"},
+	{"value":"kuori"},
+	{"value":"runkoanalyysi"},
+	{"value":"pinta"},
+	{"value":"puun tiheys"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002092",
+	"dct:identifier":"FI2016002092",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

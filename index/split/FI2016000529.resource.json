@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Climatic influence on Scots pine growth on dry and wet soils in the central Scandinavian mountains, interpreted from tree-ring widths.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Linderholm, Hans W.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"mänty"},
+	{"value":"kasvu"},
+	{"value":"Pinus sylvestris"},
+	{"value":"growth period"},
+	{"value":"ilmasto"},
+	{"value":"climate"},
+	{"value":"growth rings"},
+	{"value":"Sweden"},
+	{"value":"growth"},
+	{"value":"vuosilustot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000529",
+	"dct:identifier":"FI2016000529",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

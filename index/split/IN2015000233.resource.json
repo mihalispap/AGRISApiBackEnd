@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Potential application of botanicals, essential oils and natural products against Sarocladium oryzae",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":109,
+	"dc:subject":[
+		{"value":"aceites esenciales",
+	"xml:lang":"esp"
+	},
+	{"value":"huile essentielle",
+	"xml:lang":"fre"
+	},
+	{"value":"essential oils",
+	"xml:lang":"eng"
+	},
+	{"value":"oryza sativa",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":113,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000233",
+	"dct:identifier":"IN2015000233",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sharma, Lalan"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, K.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sinha, A.P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Inhibition of radial growth varied significantly with different botanicals/essential oils/natural products, with their concentrations. Of the botanicals, neem at 50% concentration was found most effective in inhibiting radial growth (56.6%), and reduction severity in glass house (49.0%). Essential oils in which, maximum inhiition of radial growth (73.6%), and reduction in disease severity (23.0%) was recorded at 250 ppm with citronella oil. Maximum inhiition of radial growth (30.6%) was recorded with buffalo urine at 50.0% which was followed by cow urine (20.6%). Neem, citronella and cow urine was found superior to other treatments in field conditions giving reduction in disease severity 11.2, 10.1 and 1.3% increase in grain yield/plant, grain yield/plot, 1000-grains weight and reduction in chaffiness as compared to check.",
+	"xml:lang":"eng"
+	}
+	}}

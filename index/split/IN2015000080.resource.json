@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of Season on Nutrient Intake and Performance of Broilers in Arid Region of Karnataka",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":78,
+	"dc:subject":[
+		{"value":"nutrient intake",
+	"xml:lang":"eng"
+	},
+	{"value":"arid zones",
+	"xml:lang":"eng"
+	},
+	{"value":"saison",
+	"xml:lang":"fre"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"ingestion de nutrientes",
+	"xml:lang":"esp"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"estaciones del ano",
+	"xml:lang":"esp"
+	},
+	{"value":"ingestion de substances nutritives",
+	"xml:lang":"fre"
+	},
+	{"value":"seasons",
+	"xml:lang":"eng"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"karnataka",
+	"xml:lang":"esp"
+	},
+	{"value":"zona arida",
+	"xml:lang":"esp"
+	},
+	{"value":"zone aride",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":81,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000080",
+	"dct:identifier":"IN2015000080",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thirumalesh, T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramesh, B.K.."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suresh, B.N."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Three batches of 150 broilers each were reared on deep litter under different seasons viz summer, rainy and winter. All the birds in three seasons were fed adlibitum with commercial feed comprising 20.32% CP and 2700 Kcal/Kg ME in broiler starter (0â3 wks) and 17.42 % CP and 2800 Kcal/Kg ME in broiler finisher (4â7 wks) diet. There was no significant difference observed between the seasons in feed intake, watering take, FCR, weight gain, nutrient intake, mortality and dressing percentage where as statistical difference was observed in humidity and temperature between the seasons. High feed intake, nutrient intake and weight gain were observed in first two weeks of the birds in winter season and same trend was observed in rainy season from third week onwards. High mortality and dressing percentage were noticed in rainy season when compared to summer and winter seasons. The numerical differences in all the seasons pertaining to nutrients intake and performance of birds indicated that rainy season is optimum season for making broiler unit viable and profitable in arid regions of Karnataka.",
+	"xml:lang":"eng"
+	}
+	}}

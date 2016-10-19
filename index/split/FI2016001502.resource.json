@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Simulated nitrogen leaching, nitrogen mass field balances and their correlation on four farms in south-western Finland during the period 2000-2005 /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rankinen, Katri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Salo, Tapio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Granlund, Kirsti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rita, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"simulointi"},
+	{"value":"ravinnetase"},
+	{"value":"farms"},
+	{"value":"agriculture"},
+	{"value":"typpi"},
+	{"value":"simulation models"},
+	{"value":"leaching"},
+	{"value":"maatilat"},
+	{"value":"huuhtoutuminen"},
+	{"value":"nitrogen"},
+	{"value":"kasvinravinteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001502",
+	"dct:identifier":"FI2016001502",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Soil preparation reduces pine weevil (Hylobius abietis (L.)) damage on both peatland and mineral soil sites one year after planting.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Luoranen, Jaana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Viiri, Heli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"voles"},
+	{"value":"Hylobius abietis"},
+	{"value":"mineral soils"},
+	{"value":"planting"},
+	{"value":"soil treatment"},
+	{"value":"soil preparation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001841",
+	"dct:identifier":"FI2016001841",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

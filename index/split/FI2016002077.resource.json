@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of power tiller operations on physical properties of soil under sawah rice production system in Bida, Nigeria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ademiluyi, S. Y.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oladele, O. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wakatsuki, T.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content"},
+	{"value":"Nigeria"},
+	{"value":"soil types"},
+	{"value":"soil chemicophysical properties"},
+	{"value":"soil water content"},
+	{"value":"rice"},
+	{"value":"soil density"},
+	{"value":"porosity"},
+	{"value":"soil water"},
+	{"value":"plant production"},
+	{"value":"sandy soils"},
+	{"value":"muokkaus"},
+	{"value":"maaperä"},
+	{"value":"paddy soils"},
+	{"value":"clay soils"},
+	{"value":"rotary cultivation"},
+	{"value":"tillage"},
+	{"value":"maaperäfysiikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002077",
+	"dct:identifier":"FI2016002077",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

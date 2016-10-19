@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Usability of drilled wells as irrigation wells.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Dökmen, Funda.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kurtuluş, Cengiz.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"groundwater"},
+	{"value":"wells"},
+	{"value":"Turkey"},
+	{"value":"water management"},
+	{"value":"soil"},
+	{"value":"irrigation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000783",
+	"dct:identifier":"FI2016000783",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

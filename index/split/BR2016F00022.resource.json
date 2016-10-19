@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Desempenho de leitões desmamados alimentados com dietas contendo plasma spray dried ",
+	"xml:lang":"por"
+	},
+	{"value":"Performance of weaned piglets fed diets containing spray dried plasma",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"alternative agriculture",
+	"xml:lang":"eng"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"feed consumption",
+	"xml:lang":"eng"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"diarrhoea",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.2",
+	"bibo:doi":"10.17523/bia.v73n2p127",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00022",
+	"dct:identifier":"BR2016F00022",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n2p127",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BUDIÑO, F. E. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MONFERDINI, R. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SITANAKA, N. Y."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERRACIOLI, L. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MORAES, J. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CASTRO, A. M. M. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CASTRO JÚNIOR, F. G."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"O objetivo do presente trabalho foi avaliar o efeito do plasma spray dried (PSD) sobre o desempenho e incidência de diarreia em leitões desmamados precocemente. Foram utilizados 56 leitões, homogêneos quanto à linhagem, com aproximadamente 3,87±0,65kg de peso vivo e idade aproximada de 14 dias. Foram testados quatro níveis de inclusão de PSD em dietas de leitões em dois períodos consecutivos, 14 a 28 dias de idade (período 1), e 29 a 42 dias de idade (período 2). Os níveis de PSD utilizados foram de 0%, 2%, 4% e 6% para o período 1 e de 0%, 1%, 2% e 3% para o período 2. No período 3 (42 aos 56 dias de idade) todos os leitões foram alimentados com dieta isenta de PSD. O desempenho dos leitões foi avaliado através de pesagens quinzenais e no último dia do ensaio, quando a idade do lote foi igual a 56 dias. As variáveis analisadas foram o consumo diário de ração, ganho diário de peso e conversão alimentar. Não houve diferença estatística (P",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to evaluate the effect of spray dried plasma (SDP) on the performance and incidence of diarrhea in early weaned piglets. Fifty-six piglets from the same lineage, with an approximate live weight of 3.87 ± 0.65 kg and approximate age of 14 days, were used. Four levels of inclusion of SDP in the piglet diets were tested during two consecutive periods, 14 to 28 days of age (period 1) and 29 to 42 days of age (period 2). The levels of SDP used were 0%, 2%, 4% and 6% for period 1 and 0%, 1%, 2% and 3% for period 2. During period 3 (42 to 56 days of age), all piglets received a diet without SDP. For performance evaluation, the piglets were weighed fortnightly and on the last day of the trial when the age of the batch was 56 days. Daily feed intake, average daily weight gain, and feed conversion were analyzed. No significant difference (P",
+	"xml:lang":"eng"
+	}
+	]
+	}}

@@ -1,0 +1,79 @@
+{"resource": {
+	"dct:title":[
+		{"value":"Addition of fructooligosaccharides and alfafa hay to the diet of weaned piglets on the microbiota and the small intestine morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"   Adição de frutooligossacarídeo e feno de alfafa à dieta de leitões desmamados sobre a microbiota e a morfologia do intestino delgado ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"intestinal flora",
+	"xml:lang":"eng"
+	},
+	{"value":"microscopy",
+	"xml:lang":"eng"
+	},
+	{"value":"salmonella",
+	"xml:lang":"eng"
+	},
+	{"value":"medicago sativa",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F00996",
+	"dct:identifier":"BR2015F00996",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1371736091.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BUDIÑO, F. E. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PREZZI,  J. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RODRIGUES, D. J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MONFERDINI, R. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MIYAJIRO,  S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OTSUK,  I. P."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"T3 – Ração com 5% de Alfafa + 0% FOS"},
+	{"value":"The goal of this work was to verify the effect of the fructooligossaccharide prebiotic (FOS) addition in the diet containing varying levels of alfalfa hay, on the microbiology and intestinal morphology of weaned piglets. It was used 72 piglets, crossed, both sexes, with initial weight of 5.95 ± 0.73 Kg, with approximate age of 21 days. It was evaluated the treatment: T1 – Basal feed + 0% FOS",
+	"xml:lang":"eng"
+	},
+	{"value":"O objetivo deste trabalho foi verificar o efeito da adição do prebiótico frutoligossacarídeo (FOS) em rações contendo diferentes níveis de feno de alfafa sobre a microbiologia e morfologia intestinal de leitões desmamados. Foram utilizados 72 leitões, cruzados, de ambos os sexos, com peso inicial de 5,95 ± 0,73 kg, com idade aproximada de 21 dias. Foram avaliados os tratamentos: T1 - Ração basal + 0% FOS"},
+	{"value":"T5 – Feed with 10% of alfalfa + 0% FOS"},
+	{"value":"T2 – Ração basal + 0,3% FOS"},
+	{"value":"Feed with 10% of alfalfa + 0.3% FOS. In the end of the experimental period one piglet of each replication was slaughtered for the collection of sample aiming to analyze Salmonela sp. and coliformes and intestinal morphology (height of villus and depht of crypt). The analysis for coliformes didn’t show statistic difference among the levels of FOS and alfalfa hay. It wasn’t find Salmonella sp. colonies in the samples. No difference was observe in the crypt depht (P>0.05) among the treatments. The height of villus and the relation of height of villus per depht of crypt, the group without the addition of FOS didn’t show difference (P>0.05), however, the group supplemented with 0.3% of FOS showed a significant improvement (P"},
+	{"value":"T6 – Ração com 10% de Alfafa + 0,3% FOS. Ao final do período experimental um leitão por repetição foi abatido para a coleta de amostras para as análises de microbiologia (Salmonella sp. e coliformes) e morfologia intestinal (altura de vilosidades e profundidade de criptas). A análise para coliformes não apresentou diferença estatística entre os níveis de FOS e os níveis de feno de alfafa. Não foram encontradas colônias de Salmonella sp. nas amostras. Para profundidade de cripta não ocorreu diferença (P>0,05) entre os tratamentos. Já para altura de vilosidades e a relação altura de vilosidades/profundidade de criptas, o grupo sem a adição de FOS não mostrou diferença (P>0,05), porém, o grupo suplementado com 0,3% de FOS mostrou uma melhora significativa P"},
+	{"value":"T4 – Feed with 5% of alfalfa + 0.3% FOS"},
+	{"value":"T3 – Feed with 5% of alfalfa + 0% FOS"},
+	{"value":"T4 – Ração com 5% de Alfafa + 0,3% FOS"},
+	{"value":"T2 – Basal feed + 0.3% FOS",
+	"xml:lang":"por"
+	},
+	{"value":"T5 – Ração com 10% de Alfafa + 0% FOS"}
+	]
+	}}

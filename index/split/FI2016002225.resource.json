@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"En jämförelse av pälsutvecklingen hos tidigt och sent födda blårävar.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Blomstedt, Leena.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"kettu"},
+	{"value":"furs"},
+	{"value":"furbearing animals"},
+	{"value":"Alopex lagopus"},
+	{"value":"karva"},
+	{"value":"syntymäaika"},
+	{"value":"turkiseläimet"},
+	{"value":"foxes"},
+	{"value":"sinikettu"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002225",
+	"dct:identifier":"FI2016002225",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

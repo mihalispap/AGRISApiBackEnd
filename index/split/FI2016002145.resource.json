@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Possibilities to aggregate raster cells through spatial optimization in forest planning.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Heinonen, Tero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kurttila, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pukkala, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"threshold accepting"},
+	{"value":"simulointi"},
+	{"value":"old forest"},
+	{"value":"farm planning"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"optimization methods"},
+	{"value":"matemaattiset mallit"},
+	{"value":"spatial optimisation"},
+	{"value":"landscape"},
+	{"value":"landscape metrics"},
+	{"value":"virgin forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002145",
+	"dct:identifier":"FI2016002145",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

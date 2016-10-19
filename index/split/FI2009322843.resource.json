@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutritional status of oil olives grooves grown under dry farming conditions in the  North Western Coast of Egypt"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009322843",
+	"dct:identifier":"FI2009322843",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a17.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"El-Fouly, M. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"El-Sayed, A. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fawzi, A. F. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shaaban, S. H. A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"This study was carried-out during 1996-1997 seasons on olive orchards, grown on calcareous soil under rainfed farming conditions in the North Western Coast of Egypt. Results revealed that soil texture ranged from sandy to loamy sand with high content of CaCO3, low OM and high pH. Nutrient levels in olive leaves were below sufficient range, in 79, 32, 29, 14 and 26% of samples for N, P, K, Mg and Ca and in 97, 99, 75 and 7 % of samples for Fe, Zn, Cu, and B, respectively, while Mn level was in the sufficient range. Under such conditions, olive trees have more ability (preferability) to take up Fe in higher quantities than the other micronutrients."}
+	}}

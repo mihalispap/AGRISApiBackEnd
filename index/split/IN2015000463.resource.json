@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Histology, histochemistry and scanning electron microscopic studies on the tubal tonsil of sheep",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":61,
+	"dc:subject":[
+		{"value":"tonsils",
+	"xml:lang":"eng"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"microscopie",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"anatomie animale",
+	"xml:lang":"fre"
+	},
+	{"value":"amygdale",
+	"xml:lang":"fre"
+	},
+	{"value":"anatomia animal",
+	"xml:lang":"esp"
+	},
+	{"value":"amigdalas",
+	"xml:lang":"esp"
+	},
+	{"value":"animal morphology",
+	"xml:lang":"eng"
+	},
+	{"value":"microscopy",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"microscopia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":63,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000463",
+	"dct:identifier":"IN2015000463",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pawan Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The present light and scanning electron microscopic study conducted on tubal tonsils of young sheep revealed a pseudostratified columnar-ciliated epithelium with goblet cells which irregularly modified at places into follicle associated epithelium. The 2 epithelia differed significantly of which the latter was characterized by absence of goblet and ciliated cells, reduced number of cell layers along with their height and a close association with infiltrated lymphocytes. Scanning electron microscopy delineated 2 types of microvillus cells, transitional and the characteristic M-cells in the follicle associated epithelium on the basis of distribution of microvilli. The lamina propria submucosa had large amount of lymphoid tissue along with few lymphoid follicles which were constituted by different sized lymphocytes, plasma cells, macrophages and high endothelial venules. The goblet cells were strongly PAS positive for neutral whereas the glandular acini had a predominance of acidic mucopolysaccharides.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Taxa de prenhez em receptoras bovinas com diferentes graus de assincronia embrião-útero ",
+	"xml:lang":"por"
+	},
+	{"value":"Pregnancy rate of recipient cows with different degrees of embryo-uterine asynchrony",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"in vitro embryo production",
+	"xml:lang":"eng"
+	},
+	{"value":"pregnancy",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.1",
+	"bibo:doi":"10.17523/bia.v73n1p88",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00013",
+	"dct:identifier":"BR2016F00013",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n1p88",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MELLO, R. R. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MORAIS, M. E. O."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERREIRA, J. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MELLO, M. R. B."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"sincronia 0: o estro da receptora ocorreu no dia da aspiração folicular (grupo II, n=119 animais) e assincronia +1: o estro da receptora ocorreu um dia após a aspiração folicular (grupo III, n=110 animais). Os resultados foram analisados pelo teste Qui-quadrado, com nível de significância de 5%. As taxas de prenhez para os grupos I, II e III foram 34,90"},
+	{"value":"synchrony 0: estrus of the recipient occurred on the day of follicular aspiration (group II, n=119), and asynchrony +1: estrus of the recipient occurred one day after follicular aspiration (group III, n=110). The results were analyzed by the chi-squared test, adopting a level of significance of 5%. The pregnancy rates were 34.9, 35.29 and 33.63% for groups I, II and III, respectively. There was no effect (P=0.98) of the degree of asynchrony on pregnancy rate. It can thus be concluded that the use of recipients with a higher degree of asynchrony is feasible, improving the utilization of these animals in programs of in vitro production of bovine embryos.",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to evaluate the effect of the degree of embryo-uterine asynchrony on the pregnancy rate of recipients after transfer of in vitro-produced bovine embryos. Data from 335 crossbred recipient heifers provided by the company Minerembryo, Alfenas, MG, were used. The animals were divided into three groups according to the degree of asynchrony: asynchrony -1: estrus of the recipient occurred one day before follicular aspiration (group I, n=106)",
+	"xml:lang":"eng"
+	},
+	{"value":"O objetivo deste trabalho foi avaliar o efeito do grau de assincronia da receptora sobre a taxa de prenhez após a transferência de embriões bovinos produzidos in vitro. Foram utilizados dados da Empresa Minerembryo, localizada em Alfenas, MG, referentes a 335 novilhas mestiças receptoras, distribuídas em três grupos de acordo com o grau de assincronia: assincronia -1: o estro da receptora ocorreu um dia antes da aspiração folicular (grupo I, n=106 animais)"},
+	{"value":"35,29 e 33,63, respectivamente. Não se observou efeito (P=0,98) do grau de assincronia sobre a taxa de prenhez. Portanto, pode-se concluir que é viável a utilização de receptoras com maior grau de assincronia, melhorando o aproveitamento das mesmas em programas de produção in vitro de embriões bovinos."}
+	]
+	}}

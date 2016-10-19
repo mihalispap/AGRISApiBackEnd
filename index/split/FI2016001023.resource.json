@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/5136/5288",
+	"dct:language":"eng",
+	"dct:title":{"value":"Changes in the invasion level, and impact of alien plants in Finnish semi-natural agricultural habitats.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jauni, Miia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Helenius, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyvönen, Terho.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"environmental factors"},
+	{"value":"kasvit"},
+	{"value":"tulokaslajit"},
+	{"value":"biodiversity"},
+	{"value":"habitats"},
+	{"value":"Finland"},
+	{"value":"biodiversiteetti"},
+	{"value":"kasvupaikka"},
+	{"value":"vieraslajit"},
+	{"value":"plants"},
+	{"value":"introduction species"},
+	{"value":"invasive species"},
+	{"value":"ympäristötekijät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001023",
+	"dct:identifier":"FI2016001023",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

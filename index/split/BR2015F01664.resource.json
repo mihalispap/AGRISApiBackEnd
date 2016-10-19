@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Vantagens e desafios das biotécnicas avançadas utilizadas na reprodução equina assistida ",
+	"xml:lang":"por"
+	},
+	{"value":"Advantages and challenges of advanced biotech used in assisted equine reproduction",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"gametes",
+	"xml:lang":"eng"
+	},
+	{"value":"cloning",
+	"xml:lang":"eng"
+	},
+	{"value":"spermatozoa",
+	"xml:lang":"eng"
+	},
+	{"value":"superovulation",
+	"xml:lang":"eng"
+	},
+	{"value":"production",
+	"xml:lang":"eng"
+	},
+	{"value":"embryology",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01664",
+	"dct:identifier":"BR2015F01664",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1396561590.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BERTOZZO, Beatriz R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SAMPAIO, Breno F. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BENDER,  Érika S. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PAGNONCELLI,  Ricardo R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA,  Eliane V. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ZÚCCARI,  Carmem E. S. N."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Relatos apontam que a espécie equina foi a primeira a ser submetida à inseminação artificial. Apesar deste fato, o desenvolvimento da reprodução assistida nos equinos foi lento em comparação às demais espécies voltadas diretamente para a produção animal. A liberação do uso da transferência de embriões pela maioria das associações de raças estimulou o desenvolvimento e a expansão de algumas técnicas de multiplicação animal para uso em equinos. A presente revisão teve por objetivo abordar as biotécnicas avançadas atualmente disponíveis para a espécie, como a superovulação, a transferência de ovócitos, a transferência intratubárica de gametas, a injeção intracitoplasmática de gametas, a produção in vitro de embriões e a clonagem, enfatizando suas aplicações prática e clínica, bem como determinados desafios que ainda precisam ser superados em cada biotécnica.",
+	"xml:lang":"por"
+	},
+	{"value":"Some reports suggest the equine species as the first one to be subjected to the artificial insemination. Despite this fact, the development of assisted reproduction in this species has been slow when compared to other production species. The authorization of the use of embryo transfer by some breed associations stimulated the development and expansion of several reproductive techniques for use in horses. The present study aimed to address the advanced biotechnologies currently available for this species, such as superovulation, transfer of oocytes, gamete intrafallopian transfer, in vitro production of embryos and cloning, emphasizing their practical and clinical applications, as well as certain challenges that still need to be overcome in each biotech.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

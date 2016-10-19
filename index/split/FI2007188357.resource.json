@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Selective nematicidal activity of allyl isothiocyanate"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188357",
+	"dct:identifier":"FI2007188357",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/a17.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yu, Qing (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tsao, Rong (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chiba, Mikio (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Potter, John (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Allyl isothiocyanate (AITC) was tested in vitro for its nematicidal activity against soybean cyst nematode Heterodera glycines, sugar beet cyst nematode H. schachtii, southern root-knot nematode Meloidogyne incognita, and northern root-knot nematode M. hapla, northern lesion nematode Pratylenchus penetrans, root-lesion nematode P. neglectus and the soil free-living nematode Caenorhabditis elegans. The LC50 values for AITC against these nematodes were 14.9, 30.8, 24.1, 17.0, 16.0, 20.3, and 10.3 µg/mL, respectively. AITC showed strong inhibitory effect on the hatching of cysts of H. glycines and H. schachtii; and eggs of M. hapla and M. incognita, except when it was at the lowest concentration (5 µg/mL). At 5 µg/mL, AITC strongly inhibited the hatching of cysts of H. glycine, but stimulated the hatching of cysts of H. schachtii. At low concentration, it had no effect on hatching of eggs of M. hapla but inhibited the hatching of eggs of M. incognita. Low phytotoxicity of AITC was also found with many common agricultural crops. This paper is the first to report on the stimulating effect of AITC on hatching of cysts of H. schachtii."}
+	}}

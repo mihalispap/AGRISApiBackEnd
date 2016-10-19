@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/8/1/infrared.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Infrared drying of herbs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pääkkönen, Kirsti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Havento, Jukka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Galambosi, Bertalan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pyykkönen, Markus.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Angelica archangelica"},
+	{"value":"infrapunasäteily"},
+	{"value":"drug plants"},
+	{"value":"drying"},
+	{"value":"kuivurit"},
+	{"value":"infrared radiation"},
+	{"value":"culinary herbs"},
+	{"value":"lääkekasvit"},
+	{"value":"kuivaus"},
+	{"value":"yrtit"},
+	{"value":"Petroselium crispum"},
+	{"value":"dryers"},
+	{"value":"Agastache foeniculum"},
+	{"value":"haihtuvat öljyt"},
+	{"value":"Petroselinum crispum"},
+	{"value":"maustekasvit"},
+	{"value":"Mentha piperita"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000471",
+	"dct:identifier":"FI2016000471",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

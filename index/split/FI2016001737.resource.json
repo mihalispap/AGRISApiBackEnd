@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"New forest policy : the rise of environmental and the fall of social consciousness?.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Saastamoinen, Olli.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"ympäristönsuojelu"},
+	{"value":"forestry policies"},
+	{"value":"kestävä metsätalous"},
+	{"value":"Finland"},
+	{"value":"ympäristöpolitiikka"},
+	{"value":"metsätalous"},
+	{"value":"sustainability"},
+	{"value":"forestry"},
+	{"value":"social welfare"},
+	{"value":"environmental protection"},
+	{"value":"metsäpolitiikka"},
+	{"value":"environmental policies"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001737",
+	"dct:identifier":"FI2016001737",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

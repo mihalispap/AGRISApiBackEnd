@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Time saving method for protoplast isolation, transformation and transient gene expression assay in barley /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jenes, Barnabas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Puolimatka, Matti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bittencourt, Pedro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pulli, Seppo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"cell culture"},
+	{"value":"Hordeum vulgare"},
+	{"value":"gene transfer"},
+	{"value":"protoplasts"},
+	{"value":"ohra"},
+	{"value":"geenitekniikka"},
+	{"value":"hordeum vulgare"},
+	{"value":"protoplastitekniikka"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001569",
+	"dct:identifier":"FI2016001569",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Production of lactic acid bacteria on spent cabbage juice.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Champagne, C. P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Savard, T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Barrette, J.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lactic acid bacteria"},
+	{"value":"cabbages"},
+	{"value":"vegetable juices"},
+	{"value":"probiotics"},
+	{"value":"fermentation"},
+	{"value":"byproducts"},
+	{"value":"sugars"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000125",
+	"dct:identifier":"FI2016000125",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

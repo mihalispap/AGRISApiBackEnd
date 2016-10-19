@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Fodder supply from public and private lands in two agro-climatic zones of Himachal Pradesh",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":740,
+	"dc:subject":[
+		{"value":"agroclimatic zones",
+	"xml:lang":"eng"
+	},
+	{"value":"fourrage",
+	"xml:lang":"fre"
+	},
+	{"value":"zonas agroclimaticas",
+	"xml:lang":"esp"
+	},
+	{"value":"himachal pradesh",
+	"xml:lang":"esp"
+	},
+	{"value":"ganado",
+	"xml:lang":"esp"
+	},
+	{"value":"taille de l'exploitation agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"forrajes",
+	"xml:lang":"esp"
+	},
+	{"value":"betail",
+	"xml:lang":"fre"
+	},
+	{"value":"farm size",
+	"xml:lang":"eng"
+	},
+	{"value":"livestock",
+	"xml:lang":"eng"
+	},
+	{"value":"tamano de la finca",
+	"xml:lang":"esp"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"zone agroclimatique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":743,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000145",
+	"dct:identifier":"IN2015000145",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jul2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pathania, M.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Inder Dev"
+	}
+	}
+	],
+	"bibo:issue":7,
+	"bibo:abstract":{"value":"A field study of 200 sample household was conducted in 2 agro- climatic zones of Himachal Pradesh to understand the availability of different fodder from varied sources. The availability of different type of fodder from owned lands increased with increase in farm size, while the quantity of these fodders from public lands decreased with increase in farm size. The productivity of fodder in CPR lands was very low due to plantation of pine trees and growth of Lantana and other obnoxious weeds on a large scale. Quantity of green and dry fodder collected by small farmers was higher from owned land as compared to public land. The farm size-wise analysis showed that the marginal farms depends more on public lands as compared to small farms. The grazing of animals on CPR lands was maximum during winter followed by rainy season. During summer, the maximum grazing was on cultivated fields. The average requirement of dry and green fodder for total livestock per household per annum was 73q and 152q, respectively. The green and dry fodder deficit per farm was 39 and 30%, respectively.",
+	"xml:lang":"eng"
+	}
+	}}

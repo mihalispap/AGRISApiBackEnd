@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Suggestions for reformation and financing programs in pig holdings based on the type of nutrition /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Aggelopoulos, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pavloudi, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karipidis, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dotas, V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mitsopoulos, I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"financing"},
+	{"value":"animal production"},
+	{"value":"animal husbandry"},
+	{"value":"animal feeding"},
+	{"value":"economic viability"},
+	{"value":"production costs"},
+	{"value":"swine"},
+	{"value":"profitability"},
+	{"value":"productivity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001657",
+	"dct:identifier":"FI2016001657",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Mycorrhization, establishment and growth of outplanted Picea abies seedlings produced under different cultivation systems.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Menkis, Audrius.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bakys, Remigijus.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lygis, Vaidotas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vasaitis, Rimvydas.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest nurseries"},
+	{"value":"ecomycorrhizal fungi"},
+	{"value":"cultivation systems"},
+	{"value":"Picea abies"},
+	{"value":"mycorrhizae"},
+	{"value":"cropping systems"},
+	{"value":"seedlings"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000599",
+	"dct:identifier":"FI2016000599",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Disease pattern in mortality of beetal goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":152,
+	"dc:subject":[
+		{"value":"morbidity",
+	"xml:lang":"eng"
+	},
+	{"value":"morbosidad",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"mortalidad",
+	"xml:lang":"esp"
+	},
+	{"value":"morbidite",
+	"xml:lang":"fre"
+	},
+	{"value":"mortality",
+	"xml:lang":"eng"
+	},
+	{"value":"mortalite",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":153,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000390",
+	"dct:identifier":"IN2015000390",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Poonia, J.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Malik, B.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Data on 553 cases of post-mortem reports spread over 22 years were utilized to study the effect of age and season on disease pattern in Beetal goats under semi-intensive management system. The overall incidence of pneumonia was (56.06%) followed by enteritis (18.63%), pneumoenteritis (11.75%), helminthosis (4.34%), hepatitis (1.08%), toxaemia (1.45%), coccidiosis (1.81%) and colibacillosis (0.72%). Proper identification of cause and sensitivity of drugs will reduce the mortality rate considerably.",
+	"xml:lang":"eng"
+	}
+	}}

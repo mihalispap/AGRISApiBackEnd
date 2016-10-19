@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Angiotensin I-converting enzyme inhibitory activities of enzymatic hydrolysates from royal jelly imported from China"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591876",
+	"dct:identifier":"US201301591876",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/f28.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nagai, Takeshi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Inoue, Reiji (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Suzuki, Nobutaka (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nagashima, Toshio (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Enzymatic hydrolysates from royal jelly imported from China were prepared by digestion using six kinds of proteases such as pepsin, trypsin, papain, chymotrypsin, thermolysin, and pronase E. The yields of hydrolysates were fairly high and were about 20-40% on the basis of raw sample. Protein contents were about 123-442 µg/mg sample powder and correlated closely with the contents of total phenols (r = 0.944). Moreover, ACE inhibitory activities of these hydrolysates were extremely high and were the same as those of various traditional fermented foods such as miso, natto, vinegar, and so on. The digests procuced by chymotrypsin and thermolysin had the activities with the most potent among the various protease digests. From these reasons, the peptides prepared from royal jelly using proteases can be applied to various fields, for example, functional foods and medicine."}
+	}}

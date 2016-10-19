@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Maintenance of male sterile germplasm in Brassica rapa in vitro propagation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Guo, Yang-Dong.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemelä, Tarja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tulisalo, Unto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pulli, Seppo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kallusviljely"},
+	{"value":"in vitro regeneration"},
+	{"value":"callus"},
+	{"value":"Brassica campestris"},
+	{"value":"kevätrypsi"},
+	{"value":"in vitro -menetelmä"},
+	{"value":"Brassica rapa ssp. oleifera"},
+	{"value":"plant breeding"},
+	{"value":"kasvinjalostus"},
+	{"value":"solukkoviljely"},
+	{"value":"tissue culture"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000391",
+	"dct:identifier":"FI2016000391",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

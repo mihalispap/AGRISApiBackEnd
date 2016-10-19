@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Spirulina supplementation on growth performance of broilers",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":66,
+	"dc:subject":[
+		{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"efficacite conversion alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"growth",
+	"xml:lang":"eng"
+	},
+	{"value":"eficiencia de conversion del pienso",
+	"xml:lang":"esp"
+	},
+	{"value":"feed conversion efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"spirulina",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":69,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000056",
+	"dct:identifier":"IN2015000056",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d5616814"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Research (India)"},
+	"bibo:ISSN":{"value":"0971-4251"}
+	}
+	}
+	],
+	"dct:issued":"jan-jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kharde, S.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shirbhate, R.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bahiram, K.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nipane, S.F."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The experimental trial of six weeks was undertaken on 90 broiler chicks divided into three groups. Control (To) group was fed standard broiler diet and T1 and T2 groups were provided same broiler diet supplemented with 300 and 500 mg of Spirulina per kg feed, respectively. Mean live body weight of six weeks of the experiment and live weight at the end of experiment were found to be significantly (P0.05) higher in Spirulina supplemented T1 and T2 groups of broilers than that of control (To) group. Comparatively better mean weekly weight gain and feed efficiency were also observed in Spirulina supplemented groups (T1 and T2)with decreased feed consumption as compared to control (To) group of broilers.",
+	"xml:lang":"eng"
+	}
+	}}

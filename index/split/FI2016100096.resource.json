@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/e1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Missing linkage in rainfall-runoff-soil water relationship for sustainable watershed development: A case study around Hirna, Eastern Ethiopia"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gebrekidan, Heluf (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, B. B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kibret, Kibebew (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100096",
+	"dct:identifier":"FI2016100096",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Ethiopia is a land with array of watersheds arranged in the ideal conditions and they require systematic evaluation for land suitability to specific use on sustainable basis. Amensis sub-catchment of Hirna watershed in the western Hararghe region of Ethiopia is developed on basalt at the top followed by sandstone and partly limestone at the base. The soil types and basaltic soil materials are remarkably very permeable. There is ample scope for water seepage from the hills and mountains of basalt. Identifying the factors related to water infiltration, means of seepage, ground water recharge, rise in water table, river water storage, zeolite and zeolitic structures in soils, lateral and vertical soil water movement, soil friability, structural arrangement, cracking tendency following oblique slickensides, krotovinas, soil-water retention, hydrologic cycle, cyclic changes in soil water content, weathering of basalt in reduced environment and clay-organic matter interactions is some of important prerequisite in inventorying the resource for soil water management as well as assured irrigation to crops on site-specific basis. Construction of dam in the existing drainage channel would not only harvest the surrounding water, but also act as a buffer in order to promote the soil water status for crop utilization. Necessary technology generation will also include fish culture in order to provide additional economic benefits."}
+	}}

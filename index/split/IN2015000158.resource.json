@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Housing, breeding and management practices of Mahabubnagar goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":875,
+	"dc:subject":[
+		{"value":"alojamiento de animales",
+	"xml:lang":"esp"
+	},
+	{"value":"animal husbandry methods",
+	"xml:lang":"eng"
+	},
+	{"value":"methode d'elevage",
+	"xml:lang":"fre"
+	},
+	{"value":"logement des animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"metodos de crianza",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"andhra pradesh",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"animal housing",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":879,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000158",
+	"dct:identifier":"IN2015000158",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"aug2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ekambaram, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, B.R"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gnana Prakash, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SudhakeR, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, V.R."
+	}
+	}
+	],
+	"bibo:issue":8,
+	"bibo:abstract":{"value":"A study on Mahabubnagar goats of Andhra Pradesh was carried out in 150 households of 56 villages in Mahabubnagar, Nalgonda and Ranga Reddy districts for cataloguing management practices of Mahabubnagar goats. The study revealed that closed type of housing system was adopted by 60% of farmers with thatched roof and kutcha floor. The common feeding practice was grazing (72%), while 27.33% farmers supplemented their animals with concentrates, crop byproducts, etc. during lean periods. The overall flock size was 43.69Â±1.70 and 58% farmers maintained 26 to 50 goats per flock under field conditions. Majority of the farmers followed 1:21 to 30 sex ratio in their flocks and they did not rotate the breeding bucks as well as did not select breeding males and females. Deworming (82.08%), deticking (6.67%) and vaccination (18.67%) schedules were followed as preventive health measures. Most of the goats were disposed off at villages as per the wishes of butcher, middlemen and traders based on the animal size and shape.",
+	"xml:lang":"eng"
+	}
+	}}

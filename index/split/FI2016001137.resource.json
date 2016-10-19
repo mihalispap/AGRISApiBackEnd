@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The saprotrophic wood-degrading abilities of Rigidoporus microporus.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"simultaneous decay"},
+	{"value":"degnification"},
+	{"value":"wood degradation"},
+	{"value":"degradation"},
+	{"value":"wood"},
+	{"value":"biodeterioration"},
+	{"value":"wood decay"}
+	],
+	"bibo:doi":"10.14214/sf.1320",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001137",
+	"dct:identifier":"FI2016001137",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1320",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Oghenekaro, Abbot O,
+    kirjoittaja
+    Helsingin yliopisto
+    1901
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Danie, Geoffrey,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Asiegbu, Fred O,
+    kirjoittaja.
+    Helsingin yliopisto
+    1901
+  "
+	}
+	}
+	]
+	}}

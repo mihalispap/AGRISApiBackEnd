@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"A study on the Romanian organic market and consumers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Orboi, M. D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Banes, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Monea, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Monea, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Petroman, C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Petroman, I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"alternative agriculture"},
+	{"value":"organic agriculture"},
+	{"value":"food quality"},
+	{"value":"sociology"},
+	{"value":"food safety"},
+	{"value":"consumers"},
+	{"value":"Romania"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000480",
+	"dct:identifier":"FI2016000480",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

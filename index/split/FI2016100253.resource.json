@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f11.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Haematological and biochemical responses of Balami sheep to experimental Fasciola gigantica infection"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ahmed, M.I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ambali, A.G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baba, S.S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100253",
+	"dct:identifier":"FI2016100253",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Haematological and biochemical responses of Balami sheep to experimental Fasciola gigantica infection were evaluated, using twelve Balami rams aged 7-11 months. The animals were treated against internal and external parasites and other infections prior to pre-conditioning. They were then allowed to acclimatize for 4 weeks during which baseline haematological and biochemical parameters were established. The rams were later divided into two groups of 8 rams as treatment and 4 rams as controls. Each ram in the treatment group was infected with 40 metacercariae per os and monitored accordingly. A progressive loss in body weight was noticed as from the 5th week PI (P<0.0001). Mean packed cell volume, haemoglobin concentration and total plasma protein of the infected sheep were significantly lower than controls (P<0.0001). Eosinophilia and basophilia featured significantly in the infected sheep. Mean calcium and potassium levels of the infected group were elevated while the bicarbonate was lower than controls. Total serum protein was elevated (P<0.0001), while albumin (P=0.1783), urea (P=0.7367) and creatinine (P=0.2033) levels of the infected sheep were not significantly different from those of the controls. Mean values of aspartate aminotransferase, alanine aminotransferase and alkaline phosphatase were significantly elevated in the infected sheep. The findings of this study revealed the potentials of increased aspartate aminotransferase, alanine aminotransferase and alkaline phosphatase in association with eosinophilia, as surrogate markers of hepatocellular damage in ovine Fasciola gigantica infection."}
+	}}

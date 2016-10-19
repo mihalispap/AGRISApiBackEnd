@@ -1,0 +1,82 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Nutritional and Lipid Composition Analysis of Pumpkin Seed (Cucurbita maxima Linn.)"},
+	"dc:subject":[
+		{"value":"GLC"},
+	{"value":"Curcurbita maxima"},
+	{"value":"Lipid"},
+	{"value":"Nutrition"},
+	{"value":"Bangladesh"},
+	{"value":"Mistikumra"}
+	],
+	"bibo:pageStart":1,
+	"bibo:volume":5,
+	"bibo:doi":"10.4172/2155-9600.1000374",
+	"bibo:pageEnd":6,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/US2016B00055",
+	"dct:identifier":"US2016B00055",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19752"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nutrition and Food Sciences"},
+	"bibo:ISSN":{"value":"2157-7471"}
+	}
+	},
+	"dct:issued":2015,
+	"dct:publisher":{"foaf:Organization":{"foaf:name":"OMICS International"
+	}
+	},
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Habib, Ahsan , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Biswas, Shahangir , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Siddique, Abdul Hai , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"M, Manirujjaman , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uddin, Belal , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hasan, Sohel , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MMH, Khan , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uddin, Meftah , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Islam, Minarul , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hasan, Mahadi , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rahman, Muedur , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"M, Asaduzzaman , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"M, Sohanur Rahman , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"M, Khatun , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MA, Islam , "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rahman, Matiar , Professor, Department of Biochemistry and Molecular Biology, University of Rajshahi, Rajshahi-6205, Bangladesh"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"  Pumpkin (Curcurbita maxima) is a popular vegetable in our country. This plant is locally known as “Mistikumra”. The seeds of pumpkin are rich in oil and nutrients. The nutritional compositions of pumpkin seeds were determined by standard method. The proximate compositions of the powdered seed were moisture 4.06%, ash 3.80%, crude fibre 2.91%, total lipid 36.70%, total protein 34.56%, total soluble protein 18.10%, sugar 1.08%, and starch 2.15%. The minerals composition of the seed were nitrogen 5.53%, phosphorus 0.71%, sodium 4.80 Cmol/kg, potassium 20.00 Cmol/kg, Calcium 4.40 Cmol/kg, Magnesium 348.7 ppm, iron 290.0 ppm, coper 70 ppm, zinc 39.9 ppm, and manganese 17.9 ppm. It is used as a potentially attractive source of lipid, protein and crude fibre. The oil  was extracted from seed of Cucurbita maxima by solvent extraction process using petroleum ether (40°-60°C). Theoil content was found to be 12%. The specific gravity of the oil was estimated to be 0.9412 at 31°C. GLC analysis of oil indicated that it contained highest amount of oleic acid 40.58%, while stearic acid, palmatic acid and linoleic acid contents were found to be 27.06%, 17.39% and 14.97% respectively. In addition, the iodine value, saponification value, saponification equivalent, acid value and percentage of free fatty acid of seed oil were determined by standard method and found to be 114.33, 193.73, 289.58, 0.516 and 0.2646% respectively. High degree of unsaturation makes it suitable for using as valuable drying agent, and lower free fatty acid content indicates suitability of the oil for probably edible purpose. Cururbita maxima seed oil is a rich source of linoleic acid, which is useful in human body.   "}
+	}}

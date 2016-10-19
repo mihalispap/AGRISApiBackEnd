@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Survey and molecular identification of new Fusarium sp. associated with Crossandra Wilt in India",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"marchitez",
+	"xml:lang":"esp"
+	},
+	{"value":"genetique moleculaire",
+	"xml:lang":"fre"
+	},
+	{"value":"genetica molecular",
+	"xml:lang":"esp"
+	},
+	{"value":"fletrissement",
+	"xml:lang":"fre"
+	},
+	{"value":"fusarium",
+	"xml:lang":"esp"
+	},
+	{"value":"inde",
+	"xml:lang":"fre"
+	},
+	{"value":"wilts",
+	"xml:lang":"eng"
+	},
+	{"value":"india",
+	"xml:lang":"esp"
+	},
+	{"value":"molecular genetics",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:pageStart":60,
+	"bibo:volume":45,
+	"bibo:pageEnd":63,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000012",
+	"dct:identifier":"IN2015000012",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Mycology and Plant Pathology (India)"},
+	"bibo:ISSN":{"value":"0975-4180"}
+	}
+	},
+	"dct:issued":"mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mallaiah, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Muthamilan, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sethuraman, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chinnamuthu, C.R."
+	}
+	}
+	],
+	"bibo:issue":1
+	}}

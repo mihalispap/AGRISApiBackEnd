@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Optimal share contracts between pig producers /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Larsén, Karin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Skargren, Per.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lagerkvist, Carl Johan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Andersson, Hans.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"animal housing"},
+	{"value":"sopimustuotanto"},
+	{"value":"sianlihantuotanto"},
+	{"value":"porsastuotanto"},
+	{"value":"risk"},
+	{"value":"animal production"},
+	{"value":"riskit"},
+	{"value":"contract farming"},
+	{"value":"integration"},
+	{"value":"integraatio"},
+	{"value":"swine"},
+	{"value":"Sweden"},
+	{"value":"riskienhallinta"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001189",
+	"dct:identifier":"FI2016001189",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The total material requirement -concept applied to agriculture : a case study from Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Risku-Norja, Helmi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"farm inputs"},
+	{"value":"Finland"},
+	{"value":"materiaalivirrat"},
+	{"value":"maatalous"},
+	{"value":"agriculture"},
+	{"value":"panos-tuotosanalyysi"},
+	{"value":"kestävä kehitys"},
+	{"value":"kasvinviljely"},
+	{"value":"plant production"},
+	{"value":"luonnonvarat"},
+	{"value":"natural resources"},
+	{"value":"sustainability"},
+	{"value":"production functions"},
+	{"value":"resource management"},
+	{"value":"input output analysis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000939",
+	"dct:identifier":"FI2016000939",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

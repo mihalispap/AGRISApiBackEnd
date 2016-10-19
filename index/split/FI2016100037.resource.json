@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of environmental strains of Salmonella typhimurium on transfer of water and electrolytes in rat’s intestine"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Marzougui, Nidhal (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khemiss, Fhethia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moshtaghie, Ali Asghar (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saidane, Dalila (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100037",
+	"dct:identifier":"FI2016100037",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Use of treated waste water in agriculture can increase the risk of enteric infection by direct contact or by consumption of products like fruits and vegetables which are irrigated by treated waste water. The major aim of this study was to investigate the effect of environmental strains of Salmonella enterica serovar typhimurium (a strain which was isolated from treated waste water and a strain which was starved in sea water during half and six months) on transfer of water and electrolytes (sodium, chloride, calcium and potassium) in different parts of rat’s intestine. We haveused Everted Gut Sac according of the technique of Wilson and Wiseman. Water flux was evaluated by weighing. Electrolytes were dosed by ISE COBAS INTEGRA 400 plus analyzer. We obtained variations of water and electrolytes secretions according to intestine’s part variations. The highest secretion of water was noticed in ileum in the group which was infected with the reference strain S1 (-0.681 mg/g/h) (P<0.05). Variations of electrolyte secretions between jejunum, ileum and colon were significant (P<0.05) for sodium, chloride and calcium but not for potassium. The highest secretions of sodium (90 mmol/l/h), chloride (37.4 mmol/l/h) and potassium (1.48 mmol/l/h) and the highest absorption of calcium (0.38 mmol/l/h) were registered in colon and in group which was infected with the reference strain S1. The S2 and S3 strains were in a viable but non-culturable state inside intestine and caused less water and electrolyte secretions than strain S1."}
+	}}

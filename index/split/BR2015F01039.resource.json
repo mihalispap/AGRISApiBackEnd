@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   Seleção assistida por marcadores para o melhoramento do desempenho de equinos em corridas ",
+	"xml:lang":"por"
+	},
+	{"value":"Marked assisted selection for horses racing performance",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"horses",
+	"xml:lang":"eng"
+	},
+	{"value":"polymorphism",
+	"xml:lang":"eng"
+	},
+	{"value":"dna",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01039",
+	"dct:identifier":"BR2015F01039",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1371731659.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"CURI,  R. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MEIRA,  C. T."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BELTRÁN,   N. A. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA,  J. A. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MOTA,  M. D. S."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"genetic tests to select superior animals for racing performance have started to be available in the market.",
+	"xml:lang":"por"
+	},
+	{"value":"Although equines have participated in the forming and development of several civilizations around the world since their domestication 6,000 years ago in comparison to other species that have zootechnical interest, few researches have been done related to animal breeding area, especially in Brazil. Some reasons for that are difficulties associated with the species as well as operational aspects. However, developments in genetics in the last decades contributed to a better understanding of the traits related to reproduction, heath, behavior and performance of domestic animals, including equines. Recent technologies as next generation sequencing methods and the high density chips of SNPs for genotyping allowed some advances in the researches already done. These researches used basically the candidate gene strategy, and identified genomic regions related to diseases and syndromes and, more recently, the performance in sport competition and specific abilities. Using these genomic analysis tools, some regions related to race performance have been identified and based on this information",
+	"xml:lang":"eng"
+	},
+	{"value":"Embora os equinos tenham participado da formação e do desenvolvimento de várias civilizações no mundo todo desde sua domesticação há 6.000 anos, em relação a outras espécies de interesse zootécnico, poucas pesquisas vêm sendo realizadas na área de melhoramento genético, especialmente no Brasil. Dificuldades inerentes à espécie e em função de aspectos operacionais têm sido alguns dos contratempos. No entanto, avanços na genética ao longo das últimas décadas contribuíram para o melhor entendimento de características relacionadas à reprodução, à saúde, ao comportamento e ao desempenho dos animais domésticos, incluindo os equinos. Tecnologias recentes como os métodos de sequenciamento de última geração e os chips de genotipagem de SNPs de alta densidade permitiram progresso nas pesquisas até então realizadas, as quais se utilizavam basicamente da estratégia do gene candidato, proporcionando a identificação de regiões genômicas relacionadas à patias e síndromes e, mais recentemente, a desempenho em provas esportivas e aptidões específicas. Pela utilização dessas ferramentas de análise do genoma, regiões relacionadas ao desempenho em corridas vêm sendo identificadas, e a partir dessas informações, testes genéticos para a seleção de indivíduos superiores para desempenho em corridas começam a ser disponibilizados no mercado."}
+	]
+	}}

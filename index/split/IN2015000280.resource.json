@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Immunomodulatory impact of dicamba in Black Bengal goats following repeated oral administration",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1032,
+	"dc:subject":[
+		{"value":"dicamba",
+	"xml:lang":"esp"
+	},
+	{"value":"inmunodepresion",
+	"xml:lang":"esp"
+	},
+	{"value":"immunosuppression",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"immunodepression",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1034,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000280",
+	"dct:identifier":"IN2015000280",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khan, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakraborty, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kmandal, T."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The study was conducted to evaluate immunomodulatory effect of the herbicide, dicamba on goats. Black Bengal (9) male adult goats were divided into 3 groups, each containing 3 animals. Control (group 1) group received carboxy-methyl cellulose, while experimental control (group 2) group received levamisole at immunostimulating dose and experimental group (group 3) was given Dicamba daily for 35 days. On day 36, all goats were immunized with 5% SRBC intraperitoneally and on day 5 post dosing SRBC animals were sacrificed for conducting haemolytic plaque assay. Total serum IgG level was estimated by Sandwitch ELISA. No significant variation in serum IgG level was observed at different days against 0 day in control and experimental group. But serum IgG level was increased significantly in experimental control group. No significant variation was observed in % of plaque formation in control and experimental group but the value was significantly higher in experimental control group. Results indicated that dicamba had no effect on immunomodulation of goats during this observation period.",
+	"xml:lang":"eng"
+	}
+	}}

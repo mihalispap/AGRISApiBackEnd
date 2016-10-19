@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Soils in a young landscape on the coast of southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mokma, Delbert L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yli-Halla, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hartikainen, Helinä.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maaperätiede"},
+	{"value":"soil genesis"},
+	{"value":"soil types"},
+	{"value":"genetic soil types"},
+	{"value":"Finland"},
+	{"value":"soil classification"},
+	{"value":"maannokset"},
+	{"value":"drainage"},
+	{"value":"ojitus"},
+	{"value":"Phaeozems"},
+	{"value":"Cambisols"},
+	{"value":"maannosluokitus"},
+	{"value":"Gleysols"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000833",
+	"dct:identifier":"FI2016000833",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Molecular diagnosis of Mycobacterium bovis as the cause of tuberculosis in a camel",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1126,
+	"dc:subject":[
+		{"value":"camello",
+	"xml:lang":"esp"
+	},
+	{"value":"tuberculosis",
+	"xml:lang":"esp"
+	},
+	{"value":"chameau",
+	"xml:lang":"fre"
+	},
+	{"value":"tuberculose",
+	"xml:lang":"fre"
+	},
+	{"value":"mycobacterium bovis",
+	"xml:lang":"esp"
+	},
+	{"value":"camels",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1128,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000312",
+	"dct:identifier":"IN2015000312",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Verma, Rishendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sena, D. Suchitra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alex, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pamane, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajendra Singh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pathak, K M L"
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"An adult male camel was diagnosed with tuberculosis (TB). It exhibited typical TB lesions in the lungs, liver and spleen. The histopathological examination of sections of tissues revealed presence of acid-fast bacilli. Mycobacteria were isolated from the camels lung and were identified as the member of Mycobacterium tuberculosis complex (MTBC) subsequently confirmed as M. bovis by biochemical tests and multiplex PCR where 445 bp band indicative of MTBC and 823 bp band indicative of M. bovis was observed.",
+	"xml:lang":"eng"
+	}
+	}}

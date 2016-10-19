@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/e5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Total soluble and dehydrin-like proteins in full-rounded and shriveled seeds of soybean in response to drought stress"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Samarah, N. H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mullen, R. E. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100078",
+	"dct:identifier":"FI2016100078",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Little information is available about the change in total soluble and dehydrin-like proteins in shriveled seeds produced under drought stress. A greenhouse experiment was conducted to study the accumulation of total soluble, heat-stable and dehydrin-like proteins in full-rounded and shriveled seeds produced under drought stress. Three drought stress treatments, well-watered (WW), gradual stress (GS) imposed prior to severe stress treatment and sudden severe stress (SS) treatments, were imposed on soybean plants at beginning seed fill (R5). Total soluble proteins fractionated by SDS PAGE indicated that the protein bands with molecular weight (MW) of 48, 76, 85 kDa, which may correspond to the β, α, α’ subunits of β-conglycinin (the 7S storage protein), were different among the small, shriveled seeds and the large, round seeds in all treatments. SDS PAGE of heat-stable proteins indicated that the abundance of 85, 76, 72, 40 and 39 kDa MW proteins was less in the small, shriveled seeds compared with the large, round seeds. Drought-stress treatments reduced the abundance of the heat-stable protein of 14 kDa MW as detected by SDS PAGE in the small, shriveled and large, round seeds compared with the WW treatment. Western blots analysis showed that the dehydrin-like proteins accumulated similarly in the large, round and small, shriveled seeds from all treatments. These results suggested that seed shriveling did not prevent dehydrin expression and the developmental modification in the 7 S storage protein and other proteins, rather than dehydrin proteins, might be responsible for seed shriveling."}
+	}}

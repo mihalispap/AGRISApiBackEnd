@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Geospatial Mapping of Fisheries Profile of Andaman and Nicobar Islands of India Through GIS",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1,
+	"dc:subject":[
+		{"value":"donnee sur les peches",
+	"xml:lang":"fre"
+	},
+	{"value":"andaman and nicobar islands",
+	"xml:lang":"eng"
+	},
+	{"value":"geographical information systems",
+	"xml:lang":"eng"
+	},
+	{"value":"sistemas de informacion geografica",
+	"xml:lang":"esp"
+	},
+	{"value":"islas de andaman y nicobar",
+	"xml:lang":"esp"
+	},
+	{"value":"fishery data",
+	"xml:lang":"eng"
+	},
+	{"value":"pesca",
+	"xml:lang":"esp"
+	},
+	{"value":"fisheries",
+	"xml:lang":"eng"
+	},
+	{"value":"datos sobre pesca",
+	"xml:lang":"esp"
+	},
+	{"value":"peches",
+	"xml:lang":"fre"
+	},
+	{"value":"systeme d'information geographique",
+	"xml:lang":"fre"
+	},
+	{"value":"iles andaman et nicobar",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":7,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000068",
+	"dct:identifier":"IN2015000068",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandey, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ram, N"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaturvedi, C.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Geospatial mapping is a location-based study and a part of GIS which is expected to be useful tool for fisheries scientists, aquatic resource managers and policy planners in developing and planning strategies for fisheries resources of the country. In this context, a study was performed where mapping of fisheries profile of Andaman and Nicobar Islands was performed by GIS tool having critical geographic dimensions. For this purpose, at the core of the system, fisheries data of Andaman and Nicobar were accessed and integrated from different sources at district and taluka level. Data were brought in tabular form through Microsoft Excel and then joined to digitized Map of Andaman and Nicobar to enable mapping using Arc info 9.3 GIS software. This was further synchronized and integrated to generate four thematic maps based on different criteria. Map 1 contains searchable criteria as regards to fishermen population as well as their classified categories according to their occupation. Map 2 contains fish production district-/taluka-wise and growth rate for 2000â2007 and district-wise area of ponds/tanks and reservoir along with fish production. With this mapped information, planners and various stakeholders will have readily accessible district/tehsil level data on various components of fisheries of Andaman and Nicobar Islands, thereby facilitating better planning, management and development of fisheries sector.",
+	"xml:lang":"eng"
+	}
+	}}

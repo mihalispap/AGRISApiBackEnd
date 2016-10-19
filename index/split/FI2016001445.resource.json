@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Involvement of the superoxide dismutase enzyme in the mycorrhization process /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Arines, Justo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vilarino, Antonio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Palma, José M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pisum sativum"},
+	{"value":"mikrolisäys"},
+	{"value":"stressinkestävyys"},
+	{"value":"stress"},
+	{"value":"mykorritsasienet"},
+	{"value":"entsyymit"},
+	{"value":"superoksidi-dismutaasientsyymi"},
+	{"value":"kasvitaudit"},
+	{"value":"isoenzymes"},
+	{"value":"vesicular arbuscular mycorrhizae"},
+	{"value":"arbuskelimykorritsasienet"},
+	{"value":"glomus"},
+	{"value":"micropropagation"},
+	{"value":"kasvifysiologia"},
+	{"value":"trifolium pratense"},
+	{"value":"plant diseases"},
+	{"value":"plant physiology"},
+	{"value":"plant response"},
+	{"value":"superoxide dismutase"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001445",
+	"dct:identifier":"FI2016001445",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

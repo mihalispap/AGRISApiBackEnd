@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Incidence of Mortality among Swine Due to Classical Swine Fever-Postmortem Findings",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":86,
+	"dc:subject":[
+		{"value":"peste porcine classique",
+	"xml:lang":"fre"
+	},
+	{"value":"mortalidad",
+	"xml:lang":"esp"
+	},
+	{"value":"mortality",
+	"xml:lang":"eng"
+	},
+	{"value":"cerdo",
+	"xml:lang":"esp"
+	},
+	{"value":"peste porcina",
+	"xml:lang":"esp"
+	},
+	{"value":"swine",
+	"xml:lang":"eng"
+	},
+	{"value":"porcin",
+	"xml:lang":"fre"
+	},
+	{"value":"swine fever",
+	"xml:lang":"eng"
+	},
+	{"value":"mortalite",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":88,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000082",
+	"dct:identifier":"IN2015000082",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Palanivel, K.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sathivelan, S.M.,"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gopinathan, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sriram, S.K.,"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumarasamy P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Mortality reported due to classical swine fever among pigs at Livestock Research Station, Kattupakkam, maintained under modern barns with concrete floors and located in the semi-arid tropical region have been analysed. two (3.9%) out of 57 pigs died due to classical swine fever between May 2008 to April 2009. The other cause specific deaths amongst these pigs were due to acute enteritis, acute pneumonia, interstitial pneumonia, tubular nephritis and crushing. Clinical signs included erythema of the skin of the ears, abdomen and medial thighs and greenish diarrhea. Postmortem lesions like enlarged and button shape ulcers in the intestines, multifocal hemorrhages of the spleen and petechial hemorrhages on the kidney and infiltration of mononuclear cells in the mucosa and sub mucosa formed necrotic areas of the intestine, infracts and shrinkage of glomerular tuffs were the significant pathgnomonic lesions of CSF.",
+	"xml:lang":"eng"
+	}
+	}}

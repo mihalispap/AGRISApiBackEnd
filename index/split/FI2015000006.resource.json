@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Computing time and energy requirements to assess tractor operational efficiency : application to a plowing operation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Burgun, Christophe.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lacour, Stephanie.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Delacroix, Alain.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Descombes, Georges.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Doyen, Valérie.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ploughing"},
+	{"value":"energy consumption"},
+	{"value":"traktorit"},
+	{"value":"agriculture"},
+	{"value":"konetyö"},
+	{"value":"operating costs"},
+	{"value":"maataloustuotanto"},
+	{"value":"energiankulutus"},
+	{"value":"tehokkuus"},
+	{"value":"fuels"},
+	{"value":"energia"},
+	{"value":"mechanization"},
+	{"value":"efficiency"},
+	{"value":"kustannukset"},
+	{"value":"traktorityö"},
+	{"value":"food production"},
+	{"value":"kyntö"},
+	{"value":"energy"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2015000006",
+	"dct:identifier":"FI2015000006",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

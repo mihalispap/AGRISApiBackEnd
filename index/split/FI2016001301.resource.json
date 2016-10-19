@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Cotton row spacing and plant density cropping systems II. Effects on seedcotton yield, boll components and lint quality.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Darawsheh, M. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chachalis, D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aivalakis, G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khah, E. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"cotton"},
+	{"value":"plant population"},
+	{"value":"farm inputs"},
+	{"value":"cottonseed"},
+	{"value":"crop yield"},
+	{"value":"quality"},
+	{"value":"cropping systems"},
+	{"value":"costs"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001301",
+	"dct:identifier":"FI2016001301",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of the three-dimensional architecture of walnut trees using digitising.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sinoquet, Hervé.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rivet, Pierre.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Godin, Christophe.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"data collection"},
+	{"value":"latvusmuoto"},
+	{"value":"monitoring"},
+	{"value":"crown"},
+	{"value":"data processing"},
+	{"value":"latvus"},
+	{"value":"simulation models"},
+	{"value":"topologia"},
+	{"value":"versot"},
+	{"value":"geometria"},
+	{"value":"saksanpähkinä"},
+	{"value":"mallit"},
+	{"value":"digitointi"},
+	{"value":"stems"},
+	{"value":"Juglans regia"},
+	{"value":"rakenne"},
+	{"value":"tree form"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001934",
+	"dct:identifier":"FI2016001934",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

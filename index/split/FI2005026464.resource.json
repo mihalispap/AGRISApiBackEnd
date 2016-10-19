@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effectiveness of fluorescent pseudomonads strains HF22 and HF142 to control bacterial canker of tomato"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026464",
+	"dct:identifier":"FI2005026464",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Boudyach, E. H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fatmi, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Boubaker, H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aoumar, A. Ait Ben (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akhayat, O. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Two fluorescent pseudomonads strains, HF22 and HF142, were isolated from the rhizoplane of tomato roots, originating from Souss-Massa-Darâa Valley, Agadir, Marocco. The potential utilization of these strains to protect plants of tomato (cv. Daniela, Spain) against bacterial canker was investigated. Tests were realized with spontaneous resistant mutants to antibiotics: ampicillin (100 µg ml-1), nalidixic acid (100 µg ml-1) and chloramphenicol (25 µg ml-1). Several treatments were tested to adhere cells of bacteria to tomato seeds: distilled water, NaCl 0.85%, agar at 0.1% and 0.2%, xanthan gum at 0.25% and 0.5%. The best bacterization was obtained with xanthan gum at 0.5% as adhesive. The population fixed was ~ 4×105 cfu seed-1 and viable population after 28 days of storage of treated seeds at 5°C was ~105 cfu seed-1 for HF22r and ~5×10³ cfu seed-1 for HF142r. Tests of root-colonization showed that HF22r and HF142r established a large spermosphere populations (~ 3.8×105 cfu seed-1 for HF22r and ~ 9×105 cfu seed-1 for HF142r), and colonization of tips of roots was similar for both strains (~10³ cfu cm-1). Control of bacterial canker under greenhouse in commercial-like conditions using tomato (cv. Daniela, Spain) showed that the two strains significantly reduced (P<0.001) infection compared to the untreated control. The bacterium HF142 reduced the infection totally when applied as seed treatment followed by a root treatment before transplanting compared to the control."}
+	}}

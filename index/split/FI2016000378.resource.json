@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of the impact of manure additives on worker exposure and odour attenuation /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lavoie, Jacques.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Masse, Daniel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Croteau, Francis.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Masse, Lucie.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Topp, Edward.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lanta"},
+	{"value":"smell"},
+	{"value":"työympäristö"},
+	{"value":"sianlanta"},
+	{"value":"agricultural workers"},
+	{"value":"farmyard manure"},
+	{"value":"ammonia"},
+	{"value":"gases"},
+	{"value":"biosafety"},
+	{"value":"piggeries"},
+	{"value":"additives"},
+	{"value":"sikatilat"},
+	{"value":"haju"},
+	{"value":"swine"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000378",
+	"dct:identifier":"FI2016000378",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

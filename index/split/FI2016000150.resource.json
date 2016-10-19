@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Waste food packaging materials' disposal methods : a case study of a Nigerian metropolitan city.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Odunze, Ivy. I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohammed, A. Z.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ike, E.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"elintarvikkeet"},
+	{"value":"jätteiden käsittely"},
+	{"value":"foods"},
+	{"value":"pakkausmateriaalit"},
+	{"value":"waste disposal"},
+	{"value":"packaging materials"},
+	{"value":"jätteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000150",
+	"dct:identifier":"FI2016000150",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

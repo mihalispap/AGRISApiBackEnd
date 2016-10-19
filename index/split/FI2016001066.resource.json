@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Morphological responses of barley roots to soil compaction and modified supply of oxygen.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Simojoki, Asko.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"maaperä"},
+	{"value":"tiivistyminen"},
+	{"value":"morfologia"},
+	{"value":"juuri"},
+	{"value":"soil compaction"},
+	{"value":"ohra"},
+	{"value":"roots"},
+	{"value":"plant anatomy"},
+	{"value":"kuva-analyysi"},
+	{"value":"image analysis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001066",
+	"dct:identifier":"FI2016001066",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

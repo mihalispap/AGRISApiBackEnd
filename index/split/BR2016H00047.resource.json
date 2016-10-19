@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:issued":"2016-06-22",
+	"dct:dateSubmitted":2016,
+	"dct:title":{"value":"MANEJO COM INSETICIDAS VISANDO O CONTROLE DE PERCEVEJO MARROM NA SOJA INTACTA"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ribeiro, Francisco de Carvalho, Universidade Federal do Tocantins - UFT, Campus de Gurupi, Tocantins."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rocha, Francileia de Sousa, Universidade Federal do Tocantins - UFT, Campus de Porto Nacional, Tocantins."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lemus Erasmo, Eduardo Andrea, Universidade Federal do Tocantins, Campus de Palmas, Tocantins."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"de Matos, Edilson Pereira, Faculdade Católica do Tocantins, Campus Palmas, Tocantins."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"da Costa, Sergio José, Instituto Federal de Educação, Ciência e Tecnologia do Tocantins, Campus de Gurupi, Tocantins."
+	}
+	}
+	],
+	"dct:extent":"48-53",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00047",
+	"dct:identifier":"BR2016H00047",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"bibo:abstract":{"value":"Ao longo dos anos, verificaram-se grandes mudanças no sistema de produção de soja no Brasil. O percevejo marrom (Euschistus heros) é uma praga‑chave da cultura de soja. É a espécie mais abundante do complexo de percevejos apresentando-se em predominância no estado do Tocantins e em grande parte das regiões dos cerrados produtoras de soja. Objetivou-se com esse trabalho avaliar a eficiência de diferentes inseticidas utilizados no manejo de Euschistus heros na cultura da soja intacta. O experimento foi conduzido no ano agrícola 2014/2015 em condições de campo na Fazenda Pedrinha, situada no município de Porto Nacional – TO. O delineamento experimental foi de blocos casualizados, constituído de seis tratamentos com quatro repetições. Realizou-se amostragens com 0, 3, 7, 10 dias após aplicação, avaliando-se a eficiência de controle, porcentagem de dano causado por percevejo, massa de 1.000 grãos e produtividade de grãos. O inseticida Imidacloprido + Bifentrina foi superior na eficiência de controle e no efeito residual em relação aos demais. Todos os inseticidas aplicados promoveram um incremento em produtividade quando comparados à testemunha, observando uma menor porcentagem de dano causado por percevejo marrom."},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"REVISTA DE AGRICULTURA NEOTROPICAL"}
+	}
+	}
+	}}

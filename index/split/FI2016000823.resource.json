@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Fruit yield and quality of watermelon in relation to grafting.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Alexopoulos, Alexios A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kondylis, Angelos.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Passam, Harold C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"grafting"},
+	{"value":"jalontaminen"},
+	{"value":"sato"},
+	{"value":"vesimeloni"},
+	{"value":"genetic variation"},
+	{"value":"rootstocks"},
+	{"value":"quality"},
+	{"value":"crop yield"},
+	{"value":"genotypes"},
+	{"value":"genetic diversity"},
+	{"value":"Citrullus lanatus"},
+	{"value":"laatu"},
+	{"value":"watermelons"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000823",
+	"dct:identifier":"FI2016000823",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

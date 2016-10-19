@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Antioxidant and antihypertensive activities of autolysate and enzymatic hydrolysates from yam (Dioscorea opposita Thunb.) ichyoimo tubers.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nagai, Takeshi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suzuki, Nobutaka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tanoue, Yasuhiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kai, Norihisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nagashima, Toshio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"antioxidants"},
+	{"value":"antihypertensive agents"},
+	{"value":"enzyme activity"},
+	{"value":"Dioscoreaceae"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000967",
+	"dct:identifier":"FI2016000967",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

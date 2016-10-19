@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/f16.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Quality of flash and rotary dried fufu flour"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sanni, L. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adebowale, A.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Filani, T. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oyewole, O. B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Westby, A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100487",
+	"dct:identifier":"FI2016100487",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Fufu flour was produced from locally fabricated flash and rotary dryer. The functional, chemical and pasting properties of the fufu flour were investigated. The fufu flours were also cooked into ready to eat fufu paste and subjected to sensory evaluation. There were significant differences in the functional, chemical and pasting properties of the fufu flours. Sensory panellists rated cooked fufu from rotary dryer closer to market fufu. However, it is recommended that further investigation be carried out on these drying methods to improve on the odour and colour of fufu flour so that the end product would have characteristic qualities close to normal fufu relished by many fufu eaters."}
+	}}

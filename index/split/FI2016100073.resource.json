@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/e14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Residues of organochlorine pesticides in agricultural soils of Thiruvallur district, India"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jayashree, Ramasamy (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vasudevan, Namasivayam (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100073",
+	"dct:identifier":"FI2016100073",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Modern agriculture practices an increase in use of pesticides and fertilizers to meet the food demand of increasing population which results in contamination of the environment. The level of pesticide contamination in agricultural soils of Thiruvallur district, Tamil Nadu, India, was investigated in the present study. Soil samples collected from villages and analysed for pesticide residues showed that soil samples contained pp-DDT from 0.9 to 10.3 µg/kg of soil and HCH derivatives such as χ-HCH in the range of 0.9 to 43.6 µg/kg soil. Among the organochlorines, endosulfan sulphate content (29.2 µg/kg) was high in soils of few villages in the district. Among the different organochlorines, endosulfan sulphate was found in almost all the samples and at very high concentrations. The results show that the soil samples of the district contain significant levels of DDT, HCH, endosulfan and their derivatives."}
+	}}

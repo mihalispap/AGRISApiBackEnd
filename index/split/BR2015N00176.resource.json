@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"POTENCIAL FARMACOINDUSTRIAL DE Trichoderma harzianum PARA FINS FARMACOTERAPÊUTICOS",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":91,
+	"bibo:volume":4,
+	"bibo:pageEnd":96,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00176",
+	"dct:identifier":"BR2015N00176",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1197",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Luís Fernando Albarello Gellen"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Diego Pereira da Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silvania Rosa Souza"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aloísio Chagas Freitas Junior"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gessiel Newton Scheidt"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ildon Rodrigues do Nascimento"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Tocantins"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; text-indent: 0cm;\"><span style=\"font-size: 12.0pt; font-family: \">: Linhagens de Trichoderma estão bem difundidas nos processos de controle de fitopatógenos, além disto, para promoção do desenvolvimento e crescimento das culturas onde são inoculados, este benefício se dá pela gama de processos desempenhados por este organismo, os processos são classificados em parasitismo, antibiose e competição, além de secretarem produtos enzimáticos com ações degradantes, compostos voláteis e antimicrobianos. Por meio de testes de produção enzimática, confronto em placa, metabolitos voláteis e sensibilização do agente, no caso o Trichoderma harzianum mostrou-se um potente produtor de substancias antimicrobianas e antifúngicas para <em><span style=\"background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Sthaphylococcus aureus, Streptococcus pyogenes, E. coli, Pseudomonas aeruginosa ,E. faecalis </span></em><span style=\"background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">e Rhodotorula sp., Cândida albicans, Cândida parapsilosis e Cândida lusitaniae.</em></span></span>",
+	"xml:lang":"por"
+	}
+	}}

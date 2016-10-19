@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/6428/5298",
+	"dct:language":"eng",
+	"dct:title":{"value":"Microbiota of an unpasteurised cellar-stored goat cheese from northern Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Båth, Klara.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Persson, Karin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schnürer, Johan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leong, Su-Iin.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lactic acid bacteria"},
+	{"value":"moulds"},
+	{"value":"maitohappobakteerit"},
+	{"value":"cheese"},
+	{"value":"maturation"},
+	{"value":"maito"},
+	{"value":"homesienet"},
+	{"value":"goat cheese"},
+	{"value":"food processing"},
+	{"value":"juusto"},
+	{"value":"elintarvikkeet"},
+	{"value":"foods"},
+	{"value":"kypsyminen"},
+	{"value":"milk"},
+	{"value":"quality"},
+	{"value":"käsittely"},
+	{"value":"yeasts"},
+	{"value":"vuohenjuusto"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001811",
+	"dct:identifier":"FI2016001811",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

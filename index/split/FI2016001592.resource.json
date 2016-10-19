@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The incidence of Gremmeniella abietina in relation to topography in southern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Nevalainen, Seppo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"korkeusmallit"},
+	{"value":"versosurma"},
+	{"value":"mänty"},
+	{"value":"topography"},
+	{"value":"forest inventories"},
+	{"value":"maanpinnan muodot"},
+	{"value":"Pinus sylvestris"},
+	{"value":"Gremmeniella abietina"},
+	{"value":"metsäninventointi"},
+	{"value":"valtakunnan metsien inventointi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001592",
+	"dct:identifier":"FI2016001592",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

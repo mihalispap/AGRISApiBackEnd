@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Root growth dynamics in golf greens with different compression intensities and winter survival.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Marjamäki, Teija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pietola, Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Agrostis stolonifera"},
+	{"value":"trampling"},
+	{"value":"tiivistyminen"},
+	{"value":"nurmiheinät"},
+	{"value":"lawn grasses"},
+	{"value":"golfkentät"},
+	{"value":"maan rakenne"},
+	{"value":"turf"},
+	{"value":"nurmikot"},
+	{"value":"golfkenttä"},
+	{"value":"tallautuminen"},
+	{"value":"juuriston kuoleminen"},
+	{"value":"soil structure"},
+	{"value":"maaperä"},
+	{"value":"juuritiheys"},
+	{"value":"juuristo"},
+	{"value":"juuriston kasvu"},
+	{"value":"Poa annua"},
+	{"value":"root systems"},
+	{"value":"growth"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001609",
+	"dct:identifier":"FI2016001609",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

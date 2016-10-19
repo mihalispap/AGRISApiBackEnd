@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Virkning av trafikk og handelsgjødsel på innhold av kadmium og bly i grønnsaker.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Guttormsen, Gunnar.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"lyijy"},
+	{"value":"fertilizers"},
+	{"value":"raskasmetallit"},
+	{"value":"vihannekset"},
+	{"value":"toxic substances"},
+	{"value":"pollutants"},
+	{"value":"lannoitteet"},
+	{"value":"lead"},
+	{"value":"myrkylliset aineet"},
+	{"value":"liikenne"},
+	{"value":"vegetable crops"},
+	{"value":"kasvituotteet"},
+	{"value":"elintarvikkeet"},
+	{"value":"puutarhatuotteet"},
+	{"value":"saasteet"},
+	{"value":"cadmium"},
+	{"value":"kadmium"},
+	{"value":"plant products"},
+	{"value":"Norway"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (266 :
+    1996 :
+    Höör)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000715",
+	"dct:identifier":"FI2016000715",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

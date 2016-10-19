@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of fungicides, botanical and Trichoderma spp. against collar rot of Groundnut (Arachis hypogaea L.) caused by Aspergillus niger van Tiegham.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"trichoderma",
+	"xml:lang":"esp"
+	},
+	{"value":"aspergillus niger",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000530",
+	"dct:identifier":"IN2015000530",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nathawat, B.D.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Partap, Mahendra"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"All the fungicides at different concentrations were found significantly inhibitory to the fungal growth as compared to control. The cent per cent growth inhibition was recorded in tabuconazole and propiconazole at 100 to 1000 ppm). The next effective fungicides was carbendazim (500, 750 &1000 ppm), difenconazole (750 &1000 ppm), combination product of carbendazim + mancozeb and captan (1500, 2000 &2500 ppm) which were also inhibited cent per cent growth of fungus. Trichoderma harzianum (Navsari) showed strong antagonistic effect, followed by T. viride (S.K. Nagar). The phyto-extracts screened in vitro by poisoned food technique against A. niger revealed that neem leaves showed maximum growth inhibition of fungus followed by parthenium, neem seed, barmasi and ardusi leaves.",
+	"xml:lang":"eng"
+	}
+	}}

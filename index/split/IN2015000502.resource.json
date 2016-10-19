@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of nutrients and cropping sequence on incidence of insect pests in Mustard",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":272,
+	"dc:subject":[
+		{"value":"brassica juncea",
+	"xml:lang":"esp"
+	},
+	{"value":"athelia",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":274,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000502",
+	"dct:identifier":"IN2015000502",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Anuragi, Manoj Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Namedev, Hari Prakash"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The cropping pattern and plant nutrients had significant influence on the population dynamics of Athalia proxima and Phytomyza atricornis. The minimum incidence of Athalia proxima was observed in fallow âmustard cropping system while, bajra â mustard and maize - mustard cropping system had minimum population of Phytomyza atricornis. The recommended dose of 150 kg. N, 75 kg P and 75 kg K/ha with 2 ton FYM, 40 kg sulpher/ha treated plot had lowest population of Athalia proxima. The nutritional combination i.e. 112.5,56.25,56.25 Kg .NPK /ha ,2 tone FYM /ha, 40 kg.sulphur /ha, 25 kg ZnSo4 /ha and 1 kg boron/ha had lowest incidence of Phytomyza atricornis.",
+	"xml:lang":"eng"
+	}
+	}}

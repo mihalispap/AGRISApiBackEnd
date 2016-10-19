@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Physiological effects of forest recreation in a young conifer forest in Hinokage Town, Japan.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Park, Bum-Jin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tsunetsugu, Yuko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kasetani, Tamami.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Morikowa, Takeshi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kugawa, Takahide.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Miyazaki, Yoshifumi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"well-being"},
+	{"value":"pulse rate"},
+	{"value":"heart rate"},
+	{"value":"blood pressure"},
+	{"value":"heart rate variability"},
+	{"value":"relaxation"},
+	{"value":"recreational areas"},
+	{"value":"therapeutic effects of forests"},
+	{"value":"Shinrin-yoku"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001279",
+	"dct:identifier":"FI2016001279",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

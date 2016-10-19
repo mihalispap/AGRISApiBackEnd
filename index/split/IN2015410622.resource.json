@@ -1,0 +1,28 @@
+{"resource": {
+	"dct:issued":"01/2-15",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.ipekpp.com/admin/upload_files/Knowledge_1_9_Access_2547959141.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Access to renewable energy: A knowledge transfer initiative from India",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Anand Sushant"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khurana Indira"
+	}
+	}
+	],
+	"dc:subject":{"value":"renewable energy",
+	"xml:lang":"eng"
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015410622",
+	"dct:identifier":"IN2015410622",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19704"
+	},
+	"bibo:abstract":{"value":"Owing to the direct linkage between access to energy and poverty, there was a need to bring together energy actors to discuss the feasibility of numerous entrepreneurship models that could help bridge this gap at the bottom of the pyramid. The experience available in India provides an opportunity to exchange knowledge with developing countries and has the potential to accelerate access through entrepreneurship development. (Based on IRENA Report)",
+	"xml:lang":"eng"
+	}
+	}}

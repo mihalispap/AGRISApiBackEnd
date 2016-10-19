@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Carbon Dioxide Exchange of Scots Pine Shoots as Estimated by a Biochemical Model and Cuvette Field Measurements.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Aalto, Tuula.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"methods"},
+	{"value":"mänty"},
+	{"value":"photosynthesis"},
+	{"value":"fotosynteesi"},
+	{"value":"hiilidioksidi"},
+	{"value":"biochemistry"},
+	{"value":"Pinus sylvestris"},
+	{"value":"measurement"},
+	{"value":"gas exchange"},
+	{"value":"carbon dioxide"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000844",
+	"dct:identifier":"FI2016000844",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

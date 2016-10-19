@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Demand for loans under the small and medium enterprises equity investment scheme (SMEEIS) in Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009323259",
+	"dct:identifier":"FI2009323259",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e28.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rahji, Mohammed Abdul Yakeen (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ajani, Olubunmi Idowu Yetunde (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The study examined the operations of the Small and Medium Enterprises Equity Investment Scheme in Nigeria. The demand for funds under the scheme was studied using econometric model. Profit and equity provision were found to be negative significant factors affecting the demand for funds. Enterprise type, net-worth, gender and ownership were positive significant variables explaining the demand for funds under the scheme. The equity provision condition was identified as a major problem in the operation of the scheme. There is the need for appropriate intervention and over haul of the scheme by the Central Bank of Nigeria due to the problems identified as afflicting the scheme."}
+	}}

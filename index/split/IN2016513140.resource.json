@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:title":{"value":"Research on H2S Removal by the Ferric Oxide Process",
+	"xml:lang":"eng"
+	},
+	"dc:subject":{"value":"hydrogen sulphide",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513140",
+	"dct:identifier":"IN2016513140",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=29",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Zhou  Jihong"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jiang Qi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wen Yamin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Liang Ronghe"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The removal of hydrogen sulphide by using the method of dry desulphurization in a normal temperature iron oxide is introduced in this paper. The experiment has been conducted by using the ferric oxide as the desulphurizer in the waste red mud and added wood chips and calcium oxide for the removal of hydrogen sulphide. Also, the desulphurization efficiency of desulphurizer is researched in different drying temperatures and different ratio conditions, and the best condition of removing hydrogen sulphide is studied. The results of the studies show that the best conditions of removing hydrogen sulphide are 80% of red mud, 5% of wood chips and 15% of calcium oxide at 110°C drying temperature",
+	"xml:lang":"eng"
+	},
+	{"value":"85% of red mud, 5% of wood chips and 10% of calcium oxide at 130°C drying temperature"},
+	{"value":"and 70% of red mud, 5% of wood chips and 25% of calcium oxide at 150°C drying temperature. In three different drying temperatures, the best ratio is 85% of red mud, 5% of wood chips, 10% of calcium oxide, and the best drying temperature is 130°C. This test also provides technical support for further industrial utilization."}
+	]
+	}}

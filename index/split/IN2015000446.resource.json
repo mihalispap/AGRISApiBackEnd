@@ -1,0 +1,101 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of clinico-pathological, immunohistochemical and immunofluorescent techniques for diagnosis of rabies in animals",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":3,
+	"dc:subject":[
+		{"value":"diagnostico",
+	"xml:lang":"esp"
+	},
+	{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"rabies",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"inmunofluorescencia",
+	"xml:lang":"esp"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"diagnosis",
+	"xml:lang":"eng"
+	},
+	{"value":"rage",
+	"xml:lang":"fre"
+	},
+	{"value":"immunofluorescence",
+	"xml:lang":"fre"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	},
+	{"value":"rabia",
+	"xml:lang":"esp"
+	},
+	{"value":"diagnostic",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":8,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000446",
+	"dct:identifier":"IN2015000446",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Wahan,  S.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sandhu, B.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, C.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sood, N.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kaw, A."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Rabies is a fatal zoonotic disease, affecting animal species and human beings. In present investigation, sensitivity of immunohistochemistry and histopathology of brain tissues of 38 rabies-suspected animals was compared. Out of 38 rabies-suspected cases, 18 and 16 cases were found positive by immunohistochemistry and histopathology respectively. Sensitivity of immunohistochemistry and histopathology in comparison to FAT on brain tissue smears was found to be 94.74 and 84.21% respectively. Hundred neurons per case were observed for negri bodies and number of negri bodies in positive neurons. Average number of negri bodies detected per neuron by IHC and histopathology was 2.71 and 1.94 respectively. With IHC, 58.83% neurons were positive for Negri bodies and 47.94% with H and E staining. The amount of rabies viral antigen/number of Negri bodies detected with IHC was much more abundant than could be expected from the corresponding H and E stained sections. In cattle and buffaloes, important clinical signs of rabies were bellowing, anorexia, pyrexia and hypersalivation whereas, in dogs change in behaviour, aggressiveness and anorexia were the most common clinical signs. Immunohistochemistry in formalin-fixed paraffin embedded tissue sections was found more sensitive than histopathology for detection of negri bodies/rabies antigen and therefore, of immense value for retrospective stuies.",
+	"xml:lang":"eng"
+	}
+	}}

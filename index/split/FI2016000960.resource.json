@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/50953/16522",
+	"dct:language":"eng",
+	"dct:title":{"value":"The content of dietary fiber, amino acids, dihydroxyphenols and some macro- and micronutrients in grain of conventionally and organically grown common wheat, spelt wheat and proso millet.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kwiatkowski, Cezary,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haliniarz, Małgorzata,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tomczyńska-Mleko, Marta,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mleko, Stanislaw,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kawecka-Radomska , Małgorzata,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hirssi"},
+	{"value":"vehnä"},
+	{"value":"aminohapot"},
+	{"value":"jyvä"},
+	{"value":"conventional farming"},
+	{"value":"laatu"},
+	{"value":"cereals"},
+	{"value":"viljakasvit"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"vilja"},
+	{"value":"ravintokuitu"},
+	{"value":"organic agriculture"},
+	{"value":"tavanomainen viljely"},
+	{"value":"ravintoaineet"},
+	{"value":"grain"},
+	{"value":"wheats"},
+	{"value":"millets"},
+	{"value":"chemical composition"},
+	{"value":"kemiallinen koostumus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000960",
+	"dct:identifier":"FI2016000960",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-67.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Postharvest biology and technology of litchi fruit"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jiang, Yueming (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yao, Lihu (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lichter, Amon (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Li, Jianrong (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100371",
+	"dct:identifier":"FI2016100371",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The mature litchi fruit is round to oval in shape and bright red in colour. It has a thin, leathery and indehiscent pericarp surrounding a succulent, edible white aril. The aril contains a relatively large dark brown seed. Litchi fruit is non-climacteric with little change in soluble solids concentration or titratable acidity after harvest. The fruits deteriorate rapidly unless proper handling techniques are employed. The major factors reducing the storage life and marketability of litchi fruit are microbial decay and pericarp browning. Low temperature storage at 1-5°C is used to reduce pathological decay, but has a only limited role in reducing pericarp browning. Moreover, the fruits deteriorate rapidly when removed from cold storage. Under refrigeration, litchi fruit has a storage life of approximately 30 days. Pulp quality and disease development are generally stable during cold storage until such time as fruit become visually unacceptable based on the evaluation of pericarp browning. Sulfur dioxide fumigation has been the most effective postharvest treatment for control of pericarp browning in litchi fruit, and is used extensively in commercial situations. However, there is increasing consumer and regulatory resistance to the use of this chemical. Insect disinfestation has become increasingly important with the expanding export market. Irradiation and heat treatments for insect disinfestation of litchi fruit have been found to be alternatives to treatment with insecticides. Recent research has focused on reducing these major postharvest problems in order to produce light-coloured, chemical-free fruit without disease or insect infestation."}
+	}}

@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Laboratory evaluation of pesticides on oviposition, egg mortality and feeding deterrence on cashew stem and root borer, Plocaederus ferrugenius L.(Coleoptera: Cerambycidae)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":227,
+	"dc:subject":[
+		{"value":"Plocaederus ferrugenius"},
+	{"value":"laboratory evaluation"},
+	{"value":"synthetic pesticides"},
+	{"value":"biopesticides",
+	"xml:lang":"eng"
+	},
+	{"value":"bioplaguicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"biopesticide",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":232,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000642",
+	"dct:identifier":"IN2015000642",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vasanthi, P"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raviprasad, T.N"
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

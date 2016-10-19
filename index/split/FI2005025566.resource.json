@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of organic and mineral fertilization on yield, composition and processing quality of potatoes"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025566",
+	"dct:identifier":"FI2005025566",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Danilchenko, V. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dris, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Niskanen, R. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The impact of fertilization on the yield, culinary properties and processing quality of potatoes was studied in a field experiment carried out during 1994-1996. Early cultivars Voke and Nida and late cultivar Vilnia were grown at the Experimental Station of the Lithuanian Agricultural University. The fertilization treatments were: a) non-fertilized control; b) cow manure, 60 t ha-¹ c) vermicompost 15 t ha-¹ d) foliar application (three times) with liquid complex fertilizer “Aggrene”; e) granular NPK fertilizer and f) granular NPK fertilizer with micronutrients. The amounts of N, P and K applied in treatments e) and f) were 72, 16 and 40 kg ha-¹, respectively. After harvest, the total yield and amount of starch, reducing sugars and vitamin C in tubers were determined and processing and sensorial quality of cooked potatoes and chips were evaluated. Accumulation of vitamin C and reducing sugars and susceptibility to darkening were mainly dependent on characteristics of cultivars. Application of manure and NPK fertilizers increased significantly the total, starch and dry matter yield and improved the quality of chips."}
+	}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The storage conditions impact on the oxidative stability and antioxidant properties of grape seed oil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Poiana, M. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jianu, C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jianu, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rinovetz, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"antioxidants"},
+	{"value":"fatty acids"},
+	{"value":"grapes"},
+	{"value":"cold storage"},
+	{"value":"polyphenols"},
+	{"value":"oxidation"},
+	{"value":"quality"},
+	{"value":"seeds"},
+	{"value":"Vitaceae"},
+	{"value":"chemical composition"},
+	{"value":"storage"},
+	{"value":"plant oils"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000363",
+	"dct:identifier":"FI2016000363",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

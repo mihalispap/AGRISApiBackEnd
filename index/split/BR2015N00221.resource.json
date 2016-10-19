@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"Argulus juparanensis (BRANCHIURA) EM RAIAS Potamotrygon spp. (POTAMOTRYGONIDAE) NA FOZ DO RIO AMAZONAS (BRASIL)",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":134,
+	"bibo:volume":5,
+	"bibo:pageEnd":136,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00221",
+	"dct:identifier":"BR2015N00221",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1358",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Cecile Souza Gama"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Inácia Maria Vieira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Antônio Carlos Souza Silva Júnior"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marcos Tavares-Dias"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aristides Ferreira Sobrinho"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"IEPA"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Embrapa Amapá"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Este estudo descreve a ocorrência de Argulus juparanensis Lemos de Castro, 1950 (Argulidae) na superfície corporal de Potamotrygon constellata, Potamotrygon dumerilii</em>, Potamotrygon motoro</em>, Potamotrygon orbigny, Potamotrygon scobina e Potamotrygon sp. da foz do Rio Amazonas no Estado do Amapá, Norte do Brasil. Dos 103 espécimes de Potamotrygon spp. examinados, 88,3% (n=91) estavam com a superfície abdominal infestada por A. juparanensis. Este foi o primeiro registro de A. juparanensis para raias da família Potamotrygonidae na foz do rio Amazonas, Amazônia, Argulidae, elasmobrânquios, infestação.",
+	"xml:lang":"por"
+	}
+	}}

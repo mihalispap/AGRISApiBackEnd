@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genotoxic effect of fermented bamboo shoot"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2008319309",
+	"dct:identifier":"FI2008319309",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f5.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Guneshwor, Kshetrimayum (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Haripyaree, Adhikarimayum (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Damayanti, Maibam (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Fermented bamboo shoots of Bambusa sp., locally known as ‘Shoibum’, were eaten after cooking and very much cherished by the local people of Manipur and adjoining states. In an attempt to determine whether aqueous extract of the fermented bamboo shoot interact with genetic material was cytogenetically assayed using three testing protocols based on traditional chromosome aberration analysis, micronucleus assay and SC damages analysis. Animals were treated through intraperitonial injections at the dose of 4 ml/100 g body weight or maximum tolerated dose and at dose of 2 ml/100 g body weight or less than maximum tolerated dose of aqueous extract of fermented bamboo shoot. Negative control animals received doses of distilled water equivalent to that of fermented bamboo shoot extract, while the positive control animals received EMS at the dose of 240 mg kg –1 body weight dissolved in 1 ml distilled water. Mice which received intraperitonial injections of different doses of the aqueous extract of fermented bamboo shoot showed dose dependent increase in chromosomal aberrations, SC damages and micronucleus frequency, indicating positive results of mutagenicity for fermented bamboo shoot extract in all the test protocols."}
+	}}

@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Deficit irrigation effects on lettuce (Lactuca sativa var. Olenka) yield in unheated greenhouse condition.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Yazgan, Senih.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ayas, Serhat.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Demirtas, Cigdem.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Büyükcangaz, Hakan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Candogan, B. Nazmi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"yields"},
+	{"value":"water availability"},
+	{"value":"Lactuca sativa"},
+	{"value":"irrigation"},
+	{"value":"lettuces"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001751",
+	"dct:identifier":"FI2016001751",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,79 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Efeito de fontes de nitrogênio em cultivares de amoreira para produção de casulos do bicho-da-seda(Bombyx mori) ",
+	"xml:lang":"por"
+	},
+	{"value":"Nitrogen fertilizers sources effect in mulberry cultivars to silkworm (Bombyx mori) cocoon production",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"ammonium sulphate",
+	"xml:lang":"eng"
+	},
+	{"value":"silkworms",
+	"xml:lang":"eng"
+	},
+	{"value":"urea",
+	"xml:lang":"eng"
+	},
+	{"value":"ammonium nitrate",
+	"xml:lang":"eng"
+	},
+	{"value":"mulberries",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"65/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F02263",
+	"dct:identifier":"BR2015F02263",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2008-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1242239588.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"RODRIGUES,  B. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"POLYCARPO,  G. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"HEINRICHS,  R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RIGOBELO,  E. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TAKAHASHI,  L. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"RUIZ,  U. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NICODEMO,  D."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"60 and 90 days before the silkworm production. Another plants were not fertilized and were part of the control group. The larvae were fed with leaves of the same treatment from the third to the fifth instar. We obtained the weight of filled and empty cocoon, silk gross weight and silk net weight based on the 30 heaviest cocoons of each larvae group. The filled and empty cocoons were heavier when mulberries from FM SM cultivar were fertilized with ammonium sulfate and ammonium nitrate, respectively. The urea provided better results in IZ 56/4 and FM SM, the ammonium sulfate was the best for FM SM and the ammonium nitrate for IZ 56/4 and FM SM. The absence of nitrogen fertilization provides worst results in IZ 56/4 and FM SM cultivars. The silk gross weight and the silk net weight were greater when ammonium nitrate was used. For the cultivar 56/4 we suggest ammonium sulfate. In IZ 64 and FM SM cultivars should be applied ammonium nitrate. For the cultivar FM 86 this work indicates ammonium sulfate and ammonium nitrate."},
+	{"value":"A produção de casulos é favorecida quando as lagartas são alimentadas com folhas de excelente qualidade nutricional. A adubação possibilita a reposição de nutrientes no amoreiral, atendendo a demanda pelos minerais necessários ao desempenho da amoreira. O objetivo deste trabalho foi avaliar se uréia, nitrato de amônio e sulfato de amônio implicam em aumento da qualidade nutricional da folha que resulte na obtenção de casulos de melhor qualidade. Plantas de amoreira, das cultivares IZ 56/4, IZ 64, FM SM e FM 86, foram adubadas com uréia, sulfato de amônio e nitrato de amônio, 30, 60 e 90 dias antes da criação do bicho-da-seda. Outras plantas não foram adubadas e fizeram parte do grupo testemunha. Lagartas foram alimentadas com folhas do mesmo tratamento do terceiro até o quinto instar. O peso do casulo e da casca sérica foram determinados, sendo calculado o teor de seda bruta (TSB) e líquida (TSL). Os casulos e cascas séricas apresentaram maior peso quando as amoreiras da cultivar FM SM foram adubadas com sulfato de amônio e nitrato de amônio, respectivamente. A uréia proporcionou melhores resultados em IZ 56/4 e FM SM, o sulfato de amônio em FM SM e o nitrato de amônio em IZ 56/4 e FM SM. A ausência de adubação nitrogenada prejudicou mais as cultivares IZ 56/4 e FM SM. O TSB e TSL foram maiores quando se utilizou nitrato de amônio. Pode-se concluir que os adubos favoreceram diferentemente as cultivares."},
+	{"value":"The cocoon production is improved when the larvae are fed with leaves which have excellent nutritional quality. The fertilization allows the replacement of nutrients on the mulberry crop, providing the necessary minerals for the ideal mulberry performance. The aim of this study was to evaluate whether urea, ammonium nitrate or ammonium sulfate improve leaf nutritional quality to reach better quality cocoon. Mulberry plants from cultivars IZ 56 / 4",
+	"xml:lang":"eng"
+	},
+	{"value":"SM FM and FM 86 were fertilized with urea, ammonium sulfate and ammonium nitrate, 30"},
+	{"value":"IZ 64",
+	"xml:lang":"por"
+	}
+	]
+	}}

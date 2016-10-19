@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Cross-section mass: an improved basis for woody debris necromass inventory.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Larjavaara, Markku.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Muller-Landau, Helene C.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lahopuu"},
+	{"value":"biomass"},
+	{"value":"logs"},
+	{"value":"deadwood"},
+	{"value":"forest mensuration"},
+	{"value":"carbon in woody detritus"},
+	{"value":"nominal volume and wood density"},
+	{"value":"coarse woody debris"},
+	{"value":"void space"},
+	{"value":"metsä̈ninventointi"},
+	{"value":"wood density"},
+	{"value":"carbon"},
+	{"value":"kuolleet puut"},
+	{"value":"maapuu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000653",
+	"dct:identifier":"FI2016000653",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

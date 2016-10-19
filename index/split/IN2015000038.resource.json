@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Reporting of Unusual Testes in Three Species of Subfamily Ennominae (Lepidoptera: Geometridae).",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":303,
+	"dc:subject":[
+		{"value":"lepidoptera",
+	"xml:lang":"esp"
+	},
+	{"value":"espece",
+	"xml:lang":"fre"
+	},
+	{"value":"especies",
+	"xml:lang":"esp"
+	},
+	{"value":"testicule",
+	"xml:lang":"fre"
+	},
+	{"value":"species",
+	"xml:lang":"eng"
+	},
+	{"value":"geometridae",
+	"xml:lang":"esp"
+	},
+	{"value":"testiculos",
+	"xml:lang":"esp"
+	},
+	{"value":"testes",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":307,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000038",
+	"dct:identifier":"IN2015000038",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kirti Singh Jagbir"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kour Mandeep"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Goyal Tarun"
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Three species i.e., Abraxas leopardina (Kollar), Abraxas sp. and Zamarada baliata Felder and Rogenhofer collected from different localities of Himachal Pradesh for studies on their internal genitalic attributes. A pair of testes observed in these i.e., unusual because only single testis is found in various taxa of this family.",
+	"xml:lang":"eng"
+	}
+	}}

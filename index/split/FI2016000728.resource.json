@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Vendor managed inventory in wood processing industries : a case study.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Gronalt, Manfred.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rauch, Peter.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"production controls"},
+	{"value":"tuotannontarkkailu"},
+	{"value":"mekaaninen metsäteollisuus"},
+	{"value":"wood construction"},
+	{"value":"service level"},
+	{"value":"rakennuspuu"},
+	{"value":"solid structure timber"},
+	{"value":"tuotannonohjaus"},
+	{"value":"structural timber"},
+	{"value":"construction materials"},
+	{"value":"forest products industry"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000728",
+	"dct:identifier":"FI2016000728",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

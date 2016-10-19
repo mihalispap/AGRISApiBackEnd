@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessing chipper productivity and operator effects in forest biomass operations.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"operator effect"},
+	{"value":"comminution"},
+	{"value":"raw material supply"},
+	{"value":"wood chippers"},
+	{"value":"raw materials"},
+	{"value":"equipment"},
+	{"value":"mixed models"},
+	{"value":"opertions research"},
+	{"value":"efficiency"}
+	],
+	"bibo:doi":"10.14214/sf.1342",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001484",
+	"dct:identifier":"FI2016001484",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1342",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mola-Yudego, Blas,
+    kirjoittaja
+    Itä-Suomen yliopisto
+    10088
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Picchi, Gianni,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Röser, Dominik,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Spinelli, Raffaele,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

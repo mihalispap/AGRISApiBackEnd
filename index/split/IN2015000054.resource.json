@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Brood Rearing Activities of Apis Mellifera L. in Coastal Orissa.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"metodos de crianza",
+	"xml:lang":"esp"
+	},
+	{"value":"apis",
+	"xml:lang":"esp"
+	},
+	{"value":"apis mellifera ligustica",
+	"xml:lang":"esp"
+	},
+	{"value":"orissa",
+	"xml:lang":"esp"
+	},
+	{"value":"animal husbandry methods",
+	"xml:lang":"eng"
+	},
+	{"value":"apis mellifera",
+	"xml:lang":"esp"
+	},
+	{"value":"methode d'elevage",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:pageStart":382,
+	"bibo:volume":73,
+	"bibo:pageEnd":383,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000054",
+	"dct:identifier":"IN2015000054",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Devi Hijam Shila"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sontakke,  B.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohapatra L.N."
+	}
+	}
+	],
+	"bibo:issue":4
+	}}

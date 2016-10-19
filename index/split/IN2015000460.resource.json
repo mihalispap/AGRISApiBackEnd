@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Virulence, enterotoxigenicity and antibiotic profile of Staphylococcus aureus from buffalo clinical mastitis",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":48,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"pouvoir pathogene",
+	"xml:lang":"fre"
+	},
+	{"value":"enterotoxins",
+	"xml:lang":"eng"
+	},
+	{"value":"staphylococcus aureas",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"pathogenicity",
+	"xml:lang":"eng"
+	},
+	{"value":"pcr",
+	"xml:lang":"esp"
+	},
+	{"value":"staphylococcus aureus",
+	"xml:lang":"fre"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"mastitis",
+	"xml:lang":"esp"
+	},
+	{"value":"enterotoxine",
+	"xml:lang":"fre"
+	},
+	{"value":"patogenicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"mammite",
+	"xml:lang":"fre"
+	},
+	{"value":"enterotoxinas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":51,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000460",
+	"dct:identifier":"IN2015000460",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Das, S.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guin, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Malik, S.V.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Antibiotic resistant Staphylococcus aureus are frequent in mastitis cases and food intoxication is common in consumption of suspicious milk and milk products where virulent and enterotoxigenic isolates of S. aureus are implicated. The study was aimed to determine the presence of virulence genes and enterotoxigenicity status in antibiotic resistant and sensitive isolates of S. aureus from buffalo mastitis cases. Isolates (70) of S. aureus were recovered from buffaloes (75) with clinical-mastitis of different periurban herds and were tested for antimicrobial susceptibility against penicillin G (10units), cephotaxime (5Âµg), ciprofloxacin (30Âµg), cloxacillin (10Âµg), amoxyclav (30Âµg) and methicillin (30Âµg) by disc diffusion method and further characterized for biochemical characteristics and virulence (coa and nuc) and enterotoxigenic genes (entA, entB and entC). All the strains were positive for coagulase and 65 (92.85%) were for thermonuclease production. PCR results showed that except a few, the isolates harbouring the coagulase (coa) and thermonucelase (nuc) genes were resistant to used antibiotics. Six isolates were positive for enterotoxin gene A (entA) and all were antibiotic resistant except 1 isolate which is sensitive to methicillin. Similarly, 11 isolates were carrying enterotoxin gene B (entB) and were resistant to penicillin-G, cephotaxime, cloxacillin and amoxyclav and 9 and 5 were resistant to ciprofloxacin and methicillin; however, 6 and 2 entB isolates were sensitive to methicillin and ciprofloxacin, respectively. Nevertheless, entC gene was not detected in any of the 70 isolates. All the enterotoxigenic isolates were carrying virulence genes (coa, nuc) and except few all of them were resistant to the used antibiotics. It suggested that in majority, milk or milk products of buffalo mastitis source that is refractory to antibiotic treatment harbour the virulent and enterotoxigenic S. aureus and pose an alarm to public health in terms of staphylococcal food intoxication.",
+	"xml:lang":"eng"
+	}
+	}}

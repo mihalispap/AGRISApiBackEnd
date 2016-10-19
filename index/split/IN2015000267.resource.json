@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Immune response and viscosity of haemorrhagic septicaemia oil adjuvant vaccine at different water-oil proportion",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1000,
+	"dc:subject":[
+		{"value":"vaccines",
+	"xml:lang":"eng"
+	},
+	{"value":"adjuvants",
+	"xml:lang":"eng"
+	},
+	{"value":"haemorrhagic septicaemia",
+	"xml:lang":"eng"
+	},
+	{"value":"viscosity",
+	"xml:lang":"eng"
+	},
+	{"value":"vaccin",
+	"xml:lang":"fre"
+	},
+	{"value":"septicemia hemorragica",
+	"xml:lang":"esp"
+	},
+	{"value":"viscosidad",
+	"xml:lang":"esp"
+	},
+	{"value":"septicemie hemorragique",
+	"xml:lang":"fre"
+	},
+	{"value":"adjuvant",
+	"xml:lang":"fre"
+	},
+	{"value":"vacuna",
+	"xml:lang":"esp"
+	},
+	{"value":"coadyuvantes",
+	"xml:lang":"esp"
+	},
+	{"value":"viscosite",
+	"xml:lang":"fre"
+	},
+	{"value":"pasteurella multocida",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1004,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000267",
+	"dct:identifier":"IN2015000267",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sujeet Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaturvedi, V.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, P."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"The Office International des epizooties (OIE) and Food and Agriculture Organisation (FAO) recommends the formulation of oil adjuvant vaccine (OAV) against haemorrhagic septicaemia (HS) with water-in-oil ratio of 50: 50. In present study, 3 different OAV were formulated with water-in-oil ratios; 60: 40 (OAV60), 50: 50 (OAV50) and 40: 60 (OAV40). The immune response study was carried out in mouse model for 45 days. Viscosity of the 3 OAV formulations; OAV60, OAV50 and OAV40 were 426.77 centi poise (cP), 222.40 cP and 128.50 cP respectively. Thus, new formulated vaccine, OAV40, having 10 % less aqueous phase recorded 42% low viscosity compared to standard existing vaccine, OAV50. The immune response was quick in higher aqueous phase vaccine OAV60, which showed significant rise in anti Pasteurella multocida specific Log10 ELISA titer on 14 th 4  days post-immunization (DPI) and peak titer on 21  DPI. But vaccine with higher oil phase, such as OAV50 and OAV40, had late but significantly higher and sustained antibody titer up to 45 th  DPI. All the 3 OAV formulations was protective as it produced 100% protection at 100 LD50 and 60 to 80% protection at 1000 LD 50  and 10000 LD 50 , after challenge on 45 th  DPI. These results indicated that higher oil proportion in emulsions was effective in reducing viscosity and inducing higher level of sustained antibody response without compromising protection.",
+	"xml:lang":"eng"
+	}
+	}}

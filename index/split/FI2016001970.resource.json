@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Sharing the information at global and European level.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Päivinen, Risto.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"statistical data"},
+	{"value":"tietojärjestelmät"},
+	{"value":"communication"},
+	{"value":"forest inventories"},
+	{"value":"tiedonhallinta"},
+	{"value":"international cooperation"},
+	{"value":"forestry"},
+	{"value":"tietokannat"},
+	{"value":"forest resources"},
+	{"value":"information processing"},
+	{"value":"metsävarat"},
+	{"value":"tiedonvälitys"},
+	{"value":"kansainvälinen yhteistyö"},
+	{"value":"databases"},
+	{"value":"metsätalous"},
+	{"value":"information systems"},
+	{"value":"metsäninventointi"},
+	{"value":"tilastot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001970",
+	"dct:identifier":"FI2016001970",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

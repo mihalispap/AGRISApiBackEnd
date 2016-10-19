@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of sowing periods and P application rates on yield and oil composition of black cumin (Nigella sativa L.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kizil, Süleyman.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kirici, Saliha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Çakmak, Özlem.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khawar, Khalid Mahmood.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fatty acids"},
+	{"value":"fatty oils"},
+	{"value":"application rates"},
+	{"value":"sowing date"},
+	{"value":"linoleic acid"},
+	{"value":"phosphorus"},
+	{"value":"fertilizer application"},
+	{"value":"cumin"},
+	{"value":"Nigella sativa"},
+	{"value":"plant oils"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001813",
+	"dct:identifier":"FI2016001813",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

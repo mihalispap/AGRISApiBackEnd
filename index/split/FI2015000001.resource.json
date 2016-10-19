@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"An overview of silage research in Finland : from ensiling innovation to advances in dairy cow feeding.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Huhtanen, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jaakkola, Seija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nousiainen, Juha.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"silage making"},
+	{"value":"animal feeding"},
+	{"value":"Finland"},
+	{"value":"lypsykarja"},
+	{"value":"ruokinta"},
+	{"value":"säilörehu"},
+	{"value":"laatu"},
+	{"value":"milk production"},
+	{"value":"maitotuotos"},
+	{"value":"nutrient intake"},
+	{"value":"maidontuotanto"},
+	{"value":"quality"},
+	{"value":"silage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2015000001",
+	"dct:identifier":"FI2015000001",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

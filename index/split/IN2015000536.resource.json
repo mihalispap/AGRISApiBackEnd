@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Yield enhancement of different species of Oyster Mushroom (Pleurotus spp.) by animal waste products",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":406,
+	"dc:subject":[
+		{"value":"yields",
+	"xml:lang":"eng"
+	},
+	{"value":"rendimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"pleurotus",
+	"xml:lang":"esp"
+	},
+	{"value":"rendement",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":409,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000536",
+	"dct:identifier":"IN2015000536",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sharma, R.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kamil, Deeba"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Studies were conducted to see the effect of addition of nutriwash and coelomoic fluids in the substrate on yield of different species of Pleurotus mushroom. Very encouraging results were obtained in repeated trials. Period of spawn run and pin head initiation was found to be reduced in P. sajor-caju with 1% coelomic fluid treatment, however P. cornucopiae and P. opuntiae did not show any effect on spawn run and pin heads initiation period. The data also revealed that the addition of coelomic fluid and nutriwash @ 1 and 5 %, respectively in the wheat straw significantly increased the yield of (Pleurotus florida, P. sajor-caju, P. cornucopiae &P. opuntiae) in the range of 11.7 to 18.4% in different species of oyster mushroom in comparison to control.",
+	"xml:lang":"eng"
+	}
+	}}

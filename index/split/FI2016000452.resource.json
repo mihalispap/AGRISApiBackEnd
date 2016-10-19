@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n1p13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of birch tar oils on soil organisms and plants.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hagner, Maleena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pasanen, Tiina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindqvist, Bengt.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lindqvist, Isa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tiilikkala, Kari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Penttinen, Olli-Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Setälä, Heikki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biological control"},
+	{"value":"Betula"},
+	{"value":"ankeroiset"},
+	{"value":"environmental impact"},
+	{"value":"oils"},
+	{"value":"byproducts"},
+	{"value":"ekotoksikologia"},
+	{"value":"kasvinsuojelu"},
+	{"value":"änkyrimadot"},
+	{"value":"maaperä"},
+	{"value":"toxicity"},
+	{"value":"koivutisle"},
+	{"value":"torjunta-aineet"},
+	{"value":"Enchytraeidae"},
+	{"value":"Nematoda"},
+	{"value":"microorganisms"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000452",
+	"dct:identifier":"FI2016000452",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

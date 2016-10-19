@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   SP "},
+	{"value":"   Características zoométricas de equinos de raças definidas e não definidas criadas na região de Araçatuba ",
+	"xml:lang":"por"
+	},
+	{"value":"Morphometric characteristics of horses from defined breeds and without defined breed at the region of Araçatuba, SP",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"produce groups",
+	"xml:lang":"eng"
+	},
+	{"value":"condition scoring",
+	"xml:lang":"eng"
+	},
+	{"value":"horses",
+	"xml:lang":"eng"
+	},
+	{"value":"mares",
+	"xml:lang":"eng"
+	},
+	{"value":"quarters",
+	"xml:lang":"eng"
+	},
+	{"value":"animal power",
+	"xml:lang":"eng"
+	},
+	{"value":"animal health",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00034",
+	"dct:identifier":"BR2016F00034",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1412020151.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"RAMOS, T.N.M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CARDOSO, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, J.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BOMFIM, C.A.M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"variables that have not passed the test of normality). For some variables such weight, heart girth and hip width EWB group had shorter (P"},
+	{"value":"and test of normality) and Kruskal-Wallis (nonparametric",
+	"xml:lang":"por"
+	},
+	{"value":"os animais oriundos do grupo ESR, apresentaram menores comprimentos (P"},
+	{"value":"Os equinos utilizados por pequenos produtores rurais são na maioria das vezes sem raça definida. A avaliação zoométrica desses animais em comparação a raças definidas pode predizer características herdadas ao longo de gerações. No presente experimento foram realizadas avaliações zoométricas (30 equinos de cada grupo) comparadas entre raças definidas Quarto-de-Milha (QM) e Mangalarga Marchador (ML) com equinos sem raça definida (ESR) de pequenos produtores rurais da região de Araçatuba, SP. Objetivou-se conhecer a morfologia das éguas do grupo ESR, possibilitando orientação futura dos acasalamentos genéticos, com a finalidade de tornar os produtos adaptados à função desejada. Os dados foram agrupados e expressos como média e desvio padrão da média. Para algumas variáveis como peso, perímetro torácico e largura de anca"},
+	{"value":"The horses used by small farmers are mostly breed less. The zoometric evaluation compared to defined breeds can predict inherited traits over generations. The present experiment zoometric evaluation were compared among defined races Mangalarga Marchador (ML) and Quarter Horses (QH) with equines without breed (EWB) of small producers at Araçatuba region, SP it was. Aimed to meet and guide possible crossbreeding horses EWB in order to make them suitable for the desired function. Morphometric measurements were performed in 30 horses in each group, totaling 20 measurements. The data were pooled and expressed as average and standard deviation, subjected to analysis of variance (Tukey test, 5%",
+	"xml:lang":"eng"
+	}
+	]
+	}}

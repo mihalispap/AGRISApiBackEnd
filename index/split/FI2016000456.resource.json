@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.helsinki.fi/se/a/1239-0992/7/5-6/timingin.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Timing incorporation of different green manure crops to minimize the risk of nitrogen leaching.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Känkänen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangas, Arjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mela, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nikunen, Unto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuuri, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vuorinen, Martti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Hordeum vulgare"},
+	{"value":"ploughing"},
+	{"value":"kasvusto"},
+	{"value":"organic fertilizers"},
+	{"value":"maanmuokkaus"},
+	{"value":"green manures"},
+	{"value":"nitrogen"},
+	{"value":"Trifolium pratense"},
+	{"value":"maaperä"},
+	{"value":"Lolium multiflorum"},
+	{"value":"Avena sativa"},
+	{"value":"viherlannoitus"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"typpi"},
+	{"value":"Vicia villosa"},
+	{"value":"kevätkyntö"},
+	{"value":"leaching"},
+	{"value":"kyntö"},
+	{"value":"syyskyntö"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000456",
+	"dct:identifier":"FI2016000456",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

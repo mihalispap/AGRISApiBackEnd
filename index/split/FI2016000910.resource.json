@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation and properties of formulated low calories functional yoghurt cake.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Abdel-Salam, A. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ammar, A. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Galal, W. K.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant extracts"},
+	{"value":"low calorie foods"},
+	{"value":"cakes"},
+	{"value":"yoghurt"},
+	{"value":"texture"},
+	{"value":"human diseases"},
+	{"value":"diabetes"},
+	{"value":"sweeteners"},
+	{"value":"flavour"},
+	{"value":"Stevia"},
+	{"value":"organoleptic properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000910",
+	"dct:identifier":"FI2016000910",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

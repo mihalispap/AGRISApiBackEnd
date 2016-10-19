@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Concentration and estimated flow of soluble non-ammonia nitrogen entering the omasum of dairy cows as influenced by different protein supplements.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Choi, Chang Weon.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vanhatalo, Aila.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huhtanen, Pekka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"dairy cows"},
+	{"value":"lypsykarja"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"protein concentrates"},
+	{"value":"säilörehu"},
+	{"value":"satakerta"},
+	{"value":"peptidit"},
+	{"value":"omasum"},
+	{"value":"nitrogen"},
+	{"value":"lehmät"},
+	{"value":"peptides"},
+	{"value":"typpi"},
+	{"value":"concentrates"},
+	{"value":"väkirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002118",
+	"dct:identifier":"FI2016002118",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

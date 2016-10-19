@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Ameliorative efficacy of ashwagandha (Withania somnifera) in pesticides intoxicated cockerel",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1093,
+	"dc:subject":[
+		{"value":"cockerels",
+	"xml:lang":"eng"
+	},
+	{"value":"coquelet",
+	"xml:lang":"fre"
+	},
+	{"value":"gallito",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1098,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000287",
+	"dct:identifier":"IN2015000287",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Varma, Rachna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Choudhary, G.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Choudhary, P.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Panwar, H.S,"
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"The present study was undertaken to know the ameliorative efficacy of aswagandha in pesticides intoxicated cockerels. Ninety, 8-week old male White Leghorn cockerels were randomly divided into 9 groups of 10 birds each. Group 1 was considered as control and group 2 (endosulfan100 ppm), 3 (chlorpyriphos 250 ppm), 4 (deltamethrin 100 ppm), 5 (fenvalarate 250 ppm), 6 (endosulfan100 ppm + ashwagandha 100 ppm), 7 (chlorpyriphos 250 ppm + ashwagandha 100 ppm), 8 (deltamethrin 100 ppm + ashwagandha 100 ppm), 9 (fenvalarate 250 ppm + ashwagandha 100 ppm) were considered as treated groups. They were fed medicated ration for 24 weeks. Blood samples (4â6 ml) were collected at 12 and 24 week interval from wing vein of cockerels using sterilized disposable syringes in a heparinised test tube and in other test tube without anticoagulant for separating serum for estimation of different biochemical parameters. There was significant increase in total protein, serum bilirubin, serum urea, serum creatinin, serum cholesterol, serum K, AST, ALT and ALP in pesticides intoxicated cockerel at 12 and 24 weeks interval and simultaneously feeding of aswagandha subsides the levels in comparison to control. Similarly significantly decreases the serum Ca, Na, erythrocyte acetylcholine esterase and plasma acetylcholine esterase in pesticides intoxicated cockerel at 12 and 24 weeks interval and simultaneously feeding of aswagandha subsides the levels in comparison to control.",
+	"xml:lang":"eng"
+	}
+	}}

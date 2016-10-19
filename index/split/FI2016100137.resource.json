@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Auxin-mediated regulation of early growth activities in Vigna radiata: Induction and repression of two hydrolases, invertase and α-amylase"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mohsin, T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Naqvi, F. N. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100137",
+	"dct:identifier":"FI2016100137",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The phytohormone auxin is critical for plant growth and orchestrates many developmental processes. Present research was conducted to investigate the effect of auxins, IAA and 2,4-D, on the growth profile of Vigna radiata (mung bean) seedlings. For this purpose, two hydrolytic enzymes, viz. invertase and amylase, known to play key role in early growth processes, were selected. Exogenous IAA at a concentration of 10 µM and 100 µM and its synthetic version 2,4-D at a concentration of 0.001 µM were supplied to the incubation medium carrying 3-days old seedlings, and shoot tissue was excised following incubation of 1, 3, 6 and 12 hours respectively. Invertase activity increased in response to applied auxins, both IAA and 2,4-D, during the first hour of incubation only. The rest of the period was marked by a gradual decrease, which lasted up to 12 hours. Response of amylase to applied auxins followed nearly the same pattern as that of invertase being induced by both IAA concentrations and by 2,4-D during the first hour. As incubation period was increased from 3 to 12 hours, IAA continued to inhibit the enzyme activity while a second inductive peak at 6 hours was noted uniquely for 2,4-D. It is concluded that growth of intact seedlings of mung bean is stimulated by externally supplied auxin. Reduction of responsiveness to auxin that follows prolonged application suggests a slow adaptive regulation by auxin itself."}
+	}}

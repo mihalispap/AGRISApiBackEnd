@@ -1,0 +1,18 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Structural changes in meat emulsions during cooking at various process conditions and formulations"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038554",
+	"dct:identifier":"FI2006038554",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f20.pdf",
+	"dct:creator":{"foaf:Person":{"foaf:name":"Mittal, Gauri S. (author)"
+	}
+	},
+	"bibo:abstract":{"value":"Using light microscopy, structural changes in meat emulsion products due to different formulations, process conditions and cooking times were studied. Methylene blue stain to identify proteins and oil-red-o for lipids were used. Meat proteins form a continuous matrix phase around the individual fat globule to form an emulsion. The size of fat globules decreases with cooking time. On heating, the protein coagulates and holds the fat globules in a rigid web. The separation of fat takes at high temperatures and relative humidities. The degree of coagulation and disruption of protein matrix increase with the increase in process temperature."}
+	}}

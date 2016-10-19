@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of irrigation on sweet potato root carbohydrates and nitrogenous compounds"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2004038634",
+	"dct:identifier":"FI2004038634",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/a14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ekanayake, Indira J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Collins, Wanda (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Sweet potato, Ipomoea batatas L. (Lam.), is sensitive to water deficit stress. Conversely, the use of drought resistant genotypes and better water management practices can enhance its’ root quality and yield. Therefore, eight sweet potato genotypes were evaluated for their response to four seasonal irrigation regimes using a line-source irrigation system during three crop seasons. Significant genotypic (G) differences, irrigation (I) effects, and G x I interaction effects were observed for leaf water potential (y) indicating differential internal tissue stress levels in various irrigation treatments. Dry root yield and dry matter, root nitrogenous compounds (protein nitrogen, non-protein nitrogen, and total nitrogen), and root carbohydrates (reducing sugars, total sugars, and starch) were significantly altered by irrigation treatments. Three types of genotypic response models to irrigation were compared using multivariate and covariance analyses. Genotypic response patterns to seasonal irrigation effect were linear and significant for three root quality traits. These were dry matter (negative; P < 0.01), total nitrogen (positive; P = 0.02), and non-protein nitrogen (positive; P = 0.04). Drought stress significantly reduced nitrogenous compounds and root yield. Root dry matter by contrast increased as water stress increased and was the most sensitive root quality trait. It hence served as the best indicator and selection criterion for drought resistance. Breeding efforts to select newly improved sweet potato varieties with high dry matter content is thus warranted in drought-prone tropics."}
+	}}

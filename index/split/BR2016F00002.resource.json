@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Proporção sexual de embriões bovinos PIV 60 D após TETF de acordo com o estágio de desenvolvimento embrionário inovulado ",
+	"xml:lang":"por"
+	},
+	{"value":"Sex ratio of in vitro produced embryos 60 days after fixed-time embryo transfer according to the developmental stage of the implanted embryo",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"embryonic development",
+	"xml:lang":"eng"
+	},
+	{"value":"in vitro embryo production",
+	"xml:lang":"eng"
+	},
+	{"value":"sex diagnosis",
+	"xml:lang":"eng"
+	},
+	{"value":"pregnancy",
+	"xml:lang":"eng"
+	},
+	{"value":"bovinae",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.4",
+	"bibo:doi":"10.17523/bia.v72n4p349",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00002",
+	"dct:identifier":"BR2016F00002",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n4p349",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"ORTLIBAS, B. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MUNIZ, G. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ATIQUE NETTO, H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PRADO, R. B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ATIQUE, T. S. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MONTEIRO,  F. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"OLIVEIRA, L. Z."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Devido à ampla e consolidada comercialização de embriões bovinos e também por possuir o maior rebanho comercial do mundo, o Brasil atualmente ocupa posição importante no cenário mundial de produção in vitro (PIV) de embriões. Entretanto, desvios na proporção do sexo têm sido frequentemente relatados para embriões PIV. O presente trabalho teve por objetivo avaliar as taxas de prenhez e sexagem fetal de embriões bovinos PIV aos 60 dias após transferência de embriões em tempo fixo (TETF). Foram utilizadas como doadoras de oócitos fêmeas Bos taurus indicus da raça Nelore (n=2.920) e como receptoras 30.912 vacas mestiças (Bos taurus indicus x Bos taurus taurus). Em 11.341 destas receptoras foi realizada sexagem fetal aos 60 dias de gestação. Não foi observada diferença (P>0,05) para taxa de prenhez, nem para perda embrionária, entre os estágios de desenvolvimento do embrião no momento da TETF (blastocisto inicial, blastocisto e blastocisto expandido). Com relação ao sexo dos produtos obtidos, foi observada maior porcentagem de embriões macho nos estágios de blastocisto e blastocisto expandido, e maior porcentagem de embriões fêmea no estágio de blastocisto inicial. Destaca-se que os resultados obtidos com os embriões nos estágios de desenvolvimento blastocisto e blastocisto expandido são bastante fidedignos, visto que número significativo de embriões nestes estágios foi transferido, e que o resultado obtido com embriões no estágio de desenvolvido blastocisto inicial deve ser visto com ressalva dado o número reduzido de embriões neste estágio.",
+	"xml:lang":"por"
+	},
+	{"value":"In view of its wide and consolidated sale of bovine embryos and because it has the world’s largest herd, Brazil currently occupies an important position in the worldwide scenario of in vitro production (IVP) of embryos. However, sex ratio deviations have been frequently reported for IVP embryos. The objective of this study was to evaluate the pregnancy rates and fetal sex of IVP bovine embryos 60 days after fixed-time embryo transfer (FTET). Nellore females (Bos taurus indicus, n=2,920) were used as oocyte donors and 30,912 crossbred cows (Bos taurus indicus x Bos taurus taurus) were used as recipients. Of these recipients, 11,341 were submitted to fetal sexing at 60 days of gestation. No difference (P>0.05) in pregnancy rate or embryo loss was observed between stages of embryo development at the time of FTET (early blastocyst, blastocyst, and expanded blastocyst). Regarding the sex of the products obtained, there was a higher percentage of male embryos in the blastocyst and expanded blastocyst stages and a higher percentage of female embryos in the early blastocyst stage. It should be noted that the results obtained for embryos in the blastocyst and expanded blastocyst stages are highly reliable, considering that a significant number of embryos in these stages were transferred. The results obtained for embryos in the early blastocyst stage should be seen with caution in view of the reduced number of embryos in this stage.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

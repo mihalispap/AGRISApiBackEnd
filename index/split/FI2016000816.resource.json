@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Need for integrated policy oriented national research programmes: the second phase (1995-2001) of the Dutch National Research Programme on Global Air Pollution and Climate Change NRP.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Rompaey, Renaat S. A. R. van.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"national planning"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"tutkimusohjelmat"},
+	{"value":"climatic change"},
+	{"value":"Europe"},
+	{"value":"Netherlands"},
+	{"value":"research"},
+	{"value":"ilman saastuminen"},
+	{"value":"air pollution"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000816",
+	"dct:identifier":"FI2016000816",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

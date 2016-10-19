@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Selection of a sweetener and the pectin metoxylation degree for the formulation of a cupuaçu (Theodroma grandiflorum) diet jelly /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sobrinho, Agostinho S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Borras, Maria R. L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Souza, João V. B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Silva, Érica S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chaar, José M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"jams"},
+	{"value":"elintarvikkeiden lisäaineet"},
+	{"value":"dietetic foods"},
+	{"value":"Theobroma"},
+	{"value":"hillot"},
+	{"value":"sweeteners"},
+	{"value":"makeutusaineet"},
+	{"value":"additives"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002184",
+	"dct:identifier":"FI2016002184",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

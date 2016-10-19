@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Simultaneous adsorption of Cd, Cr, Cu, Ni, Pb and Zn by different soils"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026639",
+	"dct:identifier":"FI2005026639",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/e6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Covelo, Emma Fernández (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Andrade, María Luisa (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vega, Flora Alonso (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The objective of this study was to evaluate the selectivity sequences of adsorption of Cd, Cr, Cu, Ni, Pb and Zn by the surface horizons of seven soils from Pontevedra province (Spain). These horizons had significant differences in the properties related to the metal adsorption capacity. The adsorption isotherms were obtained by adding cocktail solutions containing all heavy-metal cations in the same concentration to soil samples. Each solution contained identical concentrations of each metal (between 10 and 400 mg L-1). Distribution coefficients which represent the joint adsorption of all of the metals by each soil (KdΣsp) were obtained. KdΣsp values showed that the soil that adsorbed highest amount of the all of added metals was the Hortic anthrosol. Distribution coefficients (Kd), which represent the sorption affinity of metals for the solid phase, were also obtained for each soil and heavy-metal cation. On the basis of these Kd, the selectivity sequence was evaluated. To establish the adsorption selectivity sequences of the different metals by the soils, it was chosen the Kd value obtained for a concentration of 100 mg L-1 of added solution, since the adsorption of Cd, Ni and Zn decreased at higher concentrations than 100 mg L-1. The most common adsorption sequence was Pb>Cu>Cr, with variations in the position of Cr and Cu. A clear antagonism was found between adsorption of Cr and Cu. Soil properties and components influence in the heavy metal adsorption more than the properties of the metallic ions."}
+	}}

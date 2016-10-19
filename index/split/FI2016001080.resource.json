@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Physiological basis for reduced photosynthesis and growth of cadmium-treated wheat cultivars differing in yield potential.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Samiullah.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khan, N. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nazar, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahmad, I.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"photosynthesis"},
+	{"value":"Triticum aestivum"},
+	{"value":"toxic substances"},
+	{"value":"varieties"},
+	{"value":"crop yield"},
+	{"value":"cadmium"},
+	{"value":"heavy metals"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001080",
+	"dct:identifier":"FI2016001080",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

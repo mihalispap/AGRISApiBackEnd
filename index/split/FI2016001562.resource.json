@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Impact of site-preparation on soil-surface CO2 fluxes and litter decomposition in a clear-cut in Sweden.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"soil respiration"},
+	{"value":"disturbance"},
+	{"value":"needle decomposition"},
+	{"value":"degradation"},
+	{"value":"carbon"},
+	{"value":"roots"},
+	{"value":"coarse root decomposition"},
+	{"value":"boreal forests"},
+	{"value":"leaves"},
+	{"value":"carbon stock"},
+	{"value":"soil"},
+	{"value":"soil disturbance"}
+	],
+	"bibo:doi":"10.14214/sf.1403",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001562",
+	"dct:identifier":"FI2016001562",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1403",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mjöfors, Kristina,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Strömgren, Monika,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nohrstedt, Hans-Örjan,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gärdenäs, Annemieke I,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

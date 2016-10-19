@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The growth rhytm and height growth of seedlings of Siberian (Larix sibirica Ledeb.) and Dahurian (Larix gmelinii Rupr.) larch provenances in greenhouse conditions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lukkarinen, Antti J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ruotsalainen, Seppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nikkanen, Teijo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltola, Heli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"provenance"},
+	{"value":"Larix gmelinii"},
+	{"value":"height"},
+	{"value":"dahurianlehtikuusi"},
+	{"value":"Larix sibirica"},
+	{"value":"greenhouses"},
+	{"value":"pituuskasvu"},
+	{"value":"siperianlehtikuusi"},
+	{"value":"kasvurytmi"},
+	{"value":"alkuperä"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002251",
+	"dct:identifier":"FI2016002251",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

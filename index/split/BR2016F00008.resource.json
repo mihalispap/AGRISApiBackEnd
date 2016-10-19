@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Concentrate supplementation of female goat kids grazing on Urochloa brizantha cv. MG 5",
+	"xml:lang":"eng"
+	},
+	{"value":"   Suplementação concentrada em cabritas pastejando Urochloa brizantha cv. MG 5 ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"feed conversion efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"consumption",
+	"xml:lang":"eng"
+	},
+	{"value":"dry matter",
+	"xml:lang":"eng"
+	},
+	{"value":"daily rations",
+	"xml:lang":"eng"
+	},
+	{"value":"body weight",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.4",
+	"bibo:doi":"10.17523/bia.v72n4p311",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00008",
+	"dct:identifier":"BR2016F00008",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n4p311",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"GERON, L. J. V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GARCIA, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COSTA, F. G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PEREIRA S. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SILVA, A. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"AGUIAR, S. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"JUFFO, G. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTANA, W. G. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CARVALHO, J. T. H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ROBERTO, L. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"COELHO, K. S. M."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"0,8% e 1,6% do PC de suplementação concentrada fornecida a cabritas alteraram de maneira linear crescente (P"},
+	{"value":"Objetivou-se avaliar o efeito da suplementação concentrada nos níveis de 0,0%, 0,8%, 1,6% do peso corporal (PC) de cabritas mantidas em pastagem de Urochloa brizantha cv. MG 5, sobre o consumo de nutrientes do suplemento e desempenho animal [ganho médio diário (GMD), ganho médio total (GMT), conversão alimentar (CA) e eficiência alimentar (EA)]. Foram utilizadas 12 cabritas sem raça definida com peso corporal médio de 15,43 ± 0,2 kg, divididas em 3 lotes de 4 animais cada, mantidas em um piquete de capim MG 5 de 0,6 ha, e o suplemento foi fornecido aos animais diariamente sempre no período da tarde. O suplemento concentrado apresentou teor de aproximadamente 18% proteína bruta (PB) e 80% de nutrientes digestíveis totais (NDT). O delineamento experimental utilizado foi o inteiramente casualizado com 3 tratamentos experimentais (0,0%, 0,8%, 1,6% do PC de suplemento concentrado), com 4 repetições por tratamento. Os dados obtidos para o consumo do suplemento e desempenho animal foram submetidos a análise de variância e as diferenças foram testadas utilizando análise de regressão a 5% de probabilidade. O consumo de MS, MO, PB, EE e FDN, expresso em % PC e g/kg0,75, teve comportamento linear crescente (P0,05) o GMD das cabritas a pasto. Entretanto, os níveis de 0,0%",
+	"xml:lang":"por"
+	},
+	{"value":"The objective of this study was to evaluate the effect of concentrate supplementation of female goat kids grazing on Urochloa brizantha cv. MG 5 pasture at levels of 0%, 0.8% and 1.6% of their body weight (BW) on nutrient intake from the supplement and animal performance (average daily gain – ADG, total weight gain – TWG, feed conversion – FC, and feed efficiency – FE). Twelve female goat kids of undefined breed, with a mean BW of 15.43 ± 0.2 kg, were divided into three batches of 4 animals each and maintained in a MG 5 paddock measuring 0.6 ha. The supplement was offered to the animals daily, always in the afternoon. The concentrate supplement contained approximately 18% crude protein (CP) and 80% total digestible nutrients. A completely randomized design consisting of three experimental treatments (supplementation at 0%, 0.8% and 1.6% of BW) was used, with 4 repetitions per treatment. The supplement intake and animal performance data were submitted to analysis of variance and differences were tested by regression analysis at a probability of 5%. The intake of dry matter, organic matter, CP, ether extract and neutral detergent fiber, expressed as %BW and g/kg0.75, increased linearly (P0.05) the ADG of pasture-fed goats. However, the different levels of concentrate supplementation (0%, 0.8% and 1.6% of BW) offered to goats altered FC in a linear manner. A quadratic effect was observed for FE, with a maximum value of 0.18 for the 1.0% level of concentrate supplementation. Concentrate supplementation up to 1.6% of BW does not alter the ADG or TWG of female goat kids grazing on MG 5 pasture.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal occurrence of insect pests on Mustard and its correlation with abiotic factors",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":332,
+	"dc:subject":[
+		{"value":"seasonal cropping",
+	"xml:lang":"eng"
+	},
+	{"value":"cultivo de temporada",
+	"xml:lang":"esp"
+	},
+	{"value":"culture saisonniere",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":334,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000518",
+	"dct:identifier":"IN2015000518",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lal, Gore"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pal, Sundar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, D.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Anjani Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dwivedi, R.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The peak population of Lipaphis erysimi was recorded from February to March, there was negative non-significant correlation with temperatures and sunshine whereas positive non-significant correlation with R.H. and rainfall but positive with temperature were recorded. The maximum population of sawfly was negative correlation with temperature and R.H. Population of Coccinella septumpunctata was recorded positively significantly correlation with temperature and sunshine hours and negative correlation noted with R.H. and rainfall.",
+	"xml:lang":"eng"
+	}
+	}}

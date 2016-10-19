@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative evaluation of diets containing red gram (Cajanus cajan) stalks and sorghum stover as roughage for sheep",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":198,
+	"dc:subject":[
+		{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"cajanus cajan",
+	"xml:lang":"esp"
+	},
+	{"value":"valeur nutritive",
+	"xml:lang":"fre"
+	},
+	{"value":"feed grasses",
+	"xml:lang":"eng"
+	},
+	{"value":"graminee fourragere",
+	"xml:lang":"fre"
+	},
+	{"value":"sorghum",
+	"xml:lang":"esp"
+	},
+	{"value":"gramineas forrajeras",
+	"xml:lang":"esp"
+	},
+	{"value":"nutritive value",
+	"xml:lang":"eng"
+	},
+	{"value":"valor nutritivo",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":201,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000399",
+	"dct:identifier":"IN2015000399",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nagalakshmi, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, D. Narasimha"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Feeding value of red gram (Cajanus cajan) stalks (RGS) as roughage source was compared with sorghum stover in 18 adult Deccani rams. The rams were randomly allotted to 3 dietary treatments viz., ad libitum chopped sorghum stover, ad libitum chopped sorghum stover with 250g concentrate and ad libitum ground RGS with 250g concentrate. The RGS contained 4.11% crude protein (CP), 0.64% ether extract (EE), 60.4% crude fibre (CF) and 2.24Mcal/kg of gross energy. Digestibility of dry matter (DM), organic matter (OM), ether extract (EE), nitrogen free extract (NFE) and energy with RGS was lower (P0.01) than with sorghum stover. Nitrogen (N) balance was not affected, but Ca and P balances were lower (P0.01) on RGS diet compared to those fed sorghum stover diet. Daily DM intake (2.42% and 3.20%) was lower with RGS than with sorghum stover, respectively, reflecting lower palatability of RGS. The nutritive value of red gram stalks obtained by difference method indicated that it contained 1.57% DCP and 47.62% TDN and could be used as roughage in the diet of sheep.",
+	"xml:lang":"eng"
+	}
+	}}

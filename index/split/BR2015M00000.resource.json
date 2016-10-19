@@ -1,0 +1,19 @@
+{"resource": {
+	"dct:issued":2014,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Expediente - v. 4, n. 1, 2014",
+	"xml:lang":"por"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Fernando Castro Amoras "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00000",
+	"dct:identifier":"BR2015M00000",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

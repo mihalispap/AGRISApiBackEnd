@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Hygienic quality of stem fractions of mechanically processed fibre hemp and linseed /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kymäläinen, Hanna-Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nykter, Minna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hautala, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sjöberg, Anna-Maija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Cannabis sativa"},
+	{"value":"hygienia"},
+	{"value":"hygiene"},
+	{"value":"pellavat"},
+	{"value":"fibre crops"},
+	{"value":"flax"},
+	{"value":"purity"},
+	{"value":"insulation"},
+	{"value":"hamppu"},
+	{"value":"laatu"},
+	{"value":"mikro-organismit"},
+	{"value":"kuidut"},
+	{"value":"fibres"},
+	{"value":"hemp"},
+	{"value":"quality"},
+	{"value":"packaging materials"},
+	{"value":"öljypellava"},
+	{"value":"kuitukasvit"},
+	{"value":"microorganisms"},
+	{"value":"Linum usitatissimum"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001520",
+	"dct:identifier":"FI2016001520",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

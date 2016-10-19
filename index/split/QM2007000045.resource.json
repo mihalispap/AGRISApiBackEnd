@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/e18.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Strategies to improve and sustain food production capacity in the savanna: The role of leguminous fodder crops in maintaining soil fertility and health"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Odion, E. C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asiribo, O. E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ogunlela, V. B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, B. B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tarawali, S. A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/QM2007000045",
+	"dct:identifier":"QM2007000045",
+	"dct:type":"Other",
+	"bibo:abstract":{"value":"Soils of the African savanna are generally deficient in nutrients, a situation that has negative implications on crop and livestock intensification and hence on food security in Africa. The exclusive use of inorganic fertilizers to bring about increased crop production sometimes has negative impact on the soil. On the other hand, the adoption of fallow systems to rejuvenate the soils is becoming even impossible as a result of high population pressures, urbanization and industrialization. Alternative strategies for improving on and sustaining food production are therefore required. Organic manure availability is low since livestock population is low, and intensification without appropriate interventions could even worsen existing soil problems. The adoption of alley cropping is limited by the fact that its practice is restricted to the wetter regions. Modified forms of green manure, which involve the use of food/cash crops that farmers will accept and protect, if need be, are therefore suggested. Pigeon pea (Cajanus cajan L.) is persistent and, if intercropped with other crops, serves as a cover crop that will protect the soil against adverse weather conditions during the dry season. This legume crop can take up nutrients from the depth of the soil profile and also serve as green manure at the beginning of the next growing season. Clipping of dual-purpose cowpea at 7-8 weeks after planting (WAP) gives over one ton of fodder, which is available for green manuring. Over- seeded legumes can also be thinned down and the fodder so derived incorporated into the soil. Incorporated cowpea (Vigna unguiculata L.) fodder has good liming properties, which can correct soil acidity, improve soil fertility, and thus reduce the need for chemical fertilizer; while also controlling obnoxious weeds. Cowpea fodder can be fed to livestock, to produce rich organic manure for use by the farmer. Also, clipped lablab (Lablab purpureus L.), which has been observed to have good nutritive value as animal feed, could be used. In addition, other legumes such as soyabean (Glycine max L. Merril), which have been found to produce up to 20-89 kg N/ha in 42-63 days, can be grown as companion crops with cereals and can later be incorporated to supply N, among other nutrients. The farmer thus becomes a producer of his own N, instead of entirely relying on imported inorganic fertilizers."},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_49e47f4d"}
+	}
+	}}

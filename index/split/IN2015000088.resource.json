@@ -1,0 +1,77 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Feeding Bypass Fat on Intake and Production Performance of Lactating Crossbred Cows",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":103,
+	"dc:subject":[
+		{"value":"nutrient intake",
+	"xml:lang":"eng"
+	},
+	{"value":"lactation",
+	"xml:lang":"fre"
+	},
+	{"value":"ingestion de nutrientes",
+	"xml:lang":"esp"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"teneur en matiere seche",
+	"xml:lang":"fre"
+	},
+	{"value":"ingestion de substances nutritives",
+	"xml:lang":"fre"
+	},
+	{"value":"lactacion",
+	"xml:lang":"esp"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"contenido de materia seca",
+	"xml:lang":"esp"
+	},
+	{"value":"dry matter content",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":104,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000088",
+	"dct:identifier":"IN2015000088",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mudgal, Vishal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baghel, R.P.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ganie, Ajaz"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Srivastava Shalini"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Bypass fat is the major concern now a days in the feeding of high producing cross bred cows, on this aspect an experiment was conducted on 12 cross bred cows (milk production 6.52 Â± 1.15 lits) in late lactation (150 Â± 10 days in lactation) and their effect on dry matter intake and milk production was evaluated. Crossbred cows were divided into two groups of six each on the basis of their production and control group was fed basal diet of concentrate mixture and ad-libitum wheat straw, while the treatment group was supplemented with 200g berga fat/head/day in addition to same basal diet. It was observed that feeding of by pass fat had no effect on dry matter intake and milk yield of the crossbred cows. Thus, it may be concluded that in late lactation when the milk yield remains on declining trend, no effect on yield was observed by berga fat supplementation.",
+	"xml:lang":"eng"
+	}
+	}}

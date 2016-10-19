@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Apparent ileal amino acid digestibility and the nutritive value of the triticale cultivars Moreno and Ulrika for growing-finishing pigs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Perttilä, Sini.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Siljander-Rasi, Hilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Partanen, Kirsi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alaviuhkola, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Suomi, Kaija.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lihasika"},
+	{"value":"feed cereals"},
+	{"value":"aminohapot"},
+	{"value":"animal feeding"},
+	{"value":"lajikkeet"},
+	{"value":"ruokinta"},
+	{"value":"nutritive value"},
+	{"value":"ruisvehnä"},
+	{"value":"x Triticosecale"},
+	{"value":"rehuvilja"},
+	{"value":"sulavuus"},
+	{"value":"digestibility"},
+	{"value":"amino acids"},
+	{"value":"meat animals"},
+	{"value":"cereal crops"},
+	{"value":"rehuarvo"},
+	{"value":"swine"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000605",
+	"dct:identifier":"FI2016000605",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

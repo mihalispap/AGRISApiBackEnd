@@ -1,0 +1,69 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Productivity and nutritive value of bluestem grass fertilized with calcium and magnesium silicate",
+	"xml:lang":"eng"
+	},
+	{"value":"   Produtividade e valor nutritivo do capim-andropogon adubado com silicato de cálcio e magnésio ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"silicon",
+	"xml:lang":"eng"
+	},
+	{"value":"degradation",
+	"xml:lang":"eng"
+	},
+	{"value":"andropogon gayanus",
+	"xml:lang":"eng"
+	},
+	{"value":"chemical composition",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.4",
+	"bibo:doi":"10.17523/bia.v72n4p290",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00001",
+	"dct:identifier":"BR2016F00001",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n4p290",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SANTANA,  C. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTOS, L.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MORAIS, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERNANDES, L. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GERASEEV, L. C."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":600},
+	{"value":"This study evaluated the effect of application of calcium and magnesium silicate on the productivity, chemical composition and in situ ruminal degradation of bluestem grass (Andropogon gayanus Kunth, cv. Baeti",
+	"xml:lang":"eng"
+	},
+	{"value":200},
+	{"value":400},
+	{"value":"Avaliou-se o efeito da aplicação de silicato de cálcio e magnésio sobre a produtividade, composição química e degradação ruminal in situ do capim-andropogon (Andropogon gayanus Kunth, cv. Baeti – Embrapa 23) durante os períodos chuvoso e seco. O delineamento experimental utilizado foi em blocos casualizados, em esquema fatorial 6x2 (seis doses de silicato e duas épocas de corte), disposto em parcela sub-dividida no tempo, sendo as parcelas as doses de silicato de cálcio e magnésio (0"},
+	{"value":"Embrapa 23) during the rainy and dry seasons. The design consisted of completely randomized blocks in a 6x2 factorial scheme (six silicate doses and two cutting seasons), arranged in plots subdivided over time. The plots were the calcium and magnesium silicate doses (0, 200, 400, 600, 800 and 1,000 kg/ha) and the subplots were the two cutting seasons (rainy and dry period), with five repetitions (blocks). The calcium and magnesium silicate doses exerted no significant effect on green or dry matter production, chemical forage composition or degradability parameters. On the other hand, there was an effect of cutting period on forage production and chemical composition. The highest production of green and dry matter was observed during the rainy period, while acid detergent fiber content was higher during the dry season. The treatments did not exert any significant effect on the parameters of degradability that would alter the nutritive value of bluestem grass.",
+	"xml:lang":"por"
+	},
+	{"value":"800 e 1.000 kg/ha) e as subparcelas duas épocas de corte (período chuvoso e seco), com cinco repetições (blocos). Não houve efeito significativo das doses de silicato de cálcio e magnésio sobre a produção de matéria verde e seca, composição química da forragem e parâmetros de degradabilidade. Por outro lado, houve efeito do período de corte sobre a produção e composição química da forragem. A maior produção de matéria verde e seca ocorreu no período chuvoso, enquanto que os teores de fibra em detergente ácido foram maiores no período seco. Para os parâmetros de degradabilidade, não houve efeito significativo dos tratamentos de modo a alterar o valor nutritivo do capim-andropogon."}
+	]
+	}}

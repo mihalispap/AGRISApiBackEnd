@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a6.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Strawberry fruit quality responses to the production environment"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hoppula, Kati B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karhu, Saila T. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100077",
+	"dct:identifier":"FI2016100077",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The strawberry (Fragaria × ananassa Duch.) short-day cultivars Bounty, Honeoye and Korona were grown either for early-season production with polyethylene cover until ripening (CR) or for late-season production with no cover (NC), and fruit quality attributes were determined at one-week intervals. The fruit soluble solids concentration (SSC, %) was higher in the late-season NC production than in the earlier CR production. Fruits produced in the late NC production were also firmer and their dry matter content was higher than in the earlier CR production. Fruits in the early CR production were more red in colour than the more orange-tinted NC fruits. SSC was negatively correlated with the temperature during the two weeks prior to harvest but positively related with daily global radiation and progression of the harvest season. The pH value of fruit was inversely related to the daily global radiation and fruit firmness and percentage dry mass were negatively correlated with the mean temperature in the preceding two weeks. Higher daily temperatures were related to decreased colour hue values, i.e. more red fruit. This relation was strongest in the cultivar Bounty. Differences between cultivars were notable for all the assessed quality attributes. The results showed that when protected culture techniques are utilised, high temperatures and excess shading should be avoided to ensure the good quality of strawberry fruit."}
+	}}

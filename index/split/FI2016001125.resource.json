@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Koirien parvorokotukset /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rikula, Ulla.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sihvonen, Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rokotus"},
+	{"value":"viroses"},
+	{"value":"dogs"},
+	{"value":"parvoviridae"},
+	{"value":"virukset"},
+	{"value":"eläinlääkintä"},
+	{"value":"parvovirukset"},
+	{"value":"vaccination"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001125",
+	"dct:identifier":"FI2016001125",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

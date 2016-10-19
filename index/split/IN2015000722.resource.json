@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Establishing coconut neera unit-Project Report",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":27,
+	"dc:subject":[
+		{"value":"Neera"},
+	{"value":"traitement",
+	"xml:lang":"fre"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"processing",
+	"xml:lang":"eng"
+	},
+	{"value":"preservatives",
+	"xml:lang":"eng"
+	},
+	{"value":"preservadores",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"agent de conservation",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"procesamiento",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":"28 &34",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000722",
+	"dct:type":"Summary",
+	"dct:identifier":"IN2015000722",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"feb2014",
+	"dct:dateSubmitted":2016,
+	"bibo:issue":10
+	}}

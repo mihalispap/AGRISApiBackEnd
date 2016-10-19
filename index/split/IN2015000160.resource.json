@@ -1,0 +1,101 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Immunological and haematobiochemical studies of enrofloxacin with special reference to residue level following oral administration in goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":904,
+	"dc:subject":[
+		{"value":"composicion de la sangre",
+	"xml:lang":"esp"
+	},
+	{"value":"effet residuel",
+	"xml:lang":"fre"
+	},
+	{"value":"residual effects",
+	"xml:lang":"eng"
+	},
+	{"value":"fluorouracil",
+	"xml:lang":"esp"
+	},
+	{"value":"antimicrobials",
+	"xml:lang":"eng"
+	},
+	{"value":"fluorouracile",
+	"xml:lang":"fre"
+	},
+	{"value":"inmunodepresion",
+	"xml:lang":"esp"
+	},
+	{"value":"efectos residuales",
+	"xml:lang":"esp"
+	},
+	{"value":"composition du sang",
+	"xml:lang":"fre"
+	},
+	{"value":"immunosuppression",
+	"xml:lang":"eng"
+	},
+	{"value":"antimicrobien",
+	"xml:lang":"fre"
+	},
+	{"value":"antimicrobianos",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"blood composition",
+	"xml:lang":"eng"
+	},
+	{"value":"immunodepression",
+	"xml:lang":"fre"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":907,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000160",
+	"dct:identifier":"IN2015000160",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Monica, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patra, P.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Khargaria, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manna, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chakraborty, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mandal,T.K."
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"Effect of enrofloxacin on haematobiochemical and immunological parameters alongwith the residual level of enrofloxacin and its metabolite ciprofloxacin in black Bengal goat was carried out following daily oral administration at 5 mg kg -1  body weight for 54 days. A significant decrease in haemoglobin %, total erythrocyte and lymphocyte count were noticed in experimental group in different days. Blood glucose and serum protein were not altered in both the groups. A significant decrease in IgG level on different days along with lymphocytopenia and decreased lymphocyte number in lymphoid organs of experimental animals indicate immunosuppressive effect. Increased serum AST and ALT activity concomitant with fatty changes and necrosis of liver suggest hepatitis. Degeneration of seminiferous tubule and depletion of spermatogenic cells were observed in testis of goats of experimental group. Vital organs contain residues of enrofloxacin and ciprofloxacin.",
+	"xml:lang":"eng"
+	}
+	}}

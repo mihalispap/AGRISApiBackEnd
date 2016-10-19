@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Survey, isolation, characterization and pathogenicity of Xanthomonas oryzae pv. oryzae causing bacterial leaf blight disease in Rice",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":131,
+	"dc:subject":[
+		{"value":"pouvoir pathogene",
+	"xml:lang":"fre"
+	},
+	{"value":"patogenicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"pathogenicity",
+	"xml:lang":"eng"
+	},
+	{"value":"xanthomonas oryzae",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":135,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000239",
+	"dct:identifier":"IN2015000239",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, L. Vengadesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Balabaskar, P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The survey indicated that the disease incidence recorded in different locations varied with low to high level of incidence. Maximum disease incidence was recorded in Kathiramangalam (36.6%) followed by Pattavarthi (33.8%), Sembanarkoil (30.8%), Villiyanallur (28.8%), Thalaignayiru (26.1%) and Polagam (24.5%). Infected leaf samples when plated gave yellow, circular, smooth, convex and viscous bacterial colonies on Peptone Sucrose Agar medium. The biochemical tests revealed that all the 25 isolates (Xoo1, Xoo2- - - - Xoo25) gave similar results on gram staining (Gram negative), KOH test (positive), egg yolk reaction (negative), tetrazolium tolerance test (positive), oxidase test (negative) and starch hydrolysis (positive). Out of all the isolates Xoo21 collected from Kathiramangalam proved to be the most virulent as it recorded the maximum disease incidence (48.0%) and lesion length (23cm) followed by the isolate Xoo18, Xoo25 and Xoo6 in the decreasing order of merit.",
+	"xml:lang":"eng"
+	}
+	}}

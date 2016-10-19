@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of weed control with fibre mulches and herbicides on the initial development of spruce, birch and aspen seedlings on abandoned farmland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Siipilehto, Jouni.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"pintakasvillisuus"},
+	{"value":"heinäntorjunta"},
+	{"value":"kuusi"},
+	{"value":"glyphosate"},
+	{"value":"weed control"},
+	{"value":"mulches"},
+	{"value":"Finland"},
+	{"value":"herbicides"},
+	{"value":"Populus tremula"},
+	{"value":"pellonmetsitys"},
+	{"value":"haapa"},
+	{"value":"herbisidit"},
+	{"value":"Betula pendula"},
+	{"value":"rauduskoivu"},
+	{"value":"Picea abies"},
+	{"value":"katteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000031",
+	"dct:identifier":"FI2016000031",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

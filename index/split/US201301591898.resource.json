@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"The effect of climatic factors on potato late blight disease in Ardabil plain of Iran"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591898",
+	"dct:identifier":"US201301591898",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Zargarzadeh, Frouaddin (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ghorbani, Ardavan (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Asghari, Ali (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nouri-Ganbalani, Gadir (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Late blight is the most important disease of potato crop throughout the world and in northwest of Iran, it can destroy the whole crop in epidemic years. According to the Ministry of Agriculture Bureau in Ardabil province, the late blight reached an epidemic level in 1997 in Ardabil plain and resulted in major damage to the crop. Climatic factors including temperature, relative humidity and rainfall play the major role in developing and spreading of this disease. In this research, the effects of temperature, rainfall and relative humidity on the incidence of the late blight was investigated in Ardabil plain. Daily, monthly and yearly weather data of Ardabil climatic station were obtained for the period of 1992-2002. Data were grouped and analysed using graphical and statistical methods. Initially, variance analysis was conducted using nested method between study years and within the months of years. Then study years were grouped using cluster analysis by the UPGMA method. It was found that there were significant correlations between climatic factors, particularly temperature and rainfall, with the incidence of the late blight. Study years grouping using climatic factors in the incidence period of late blight could discriminate the year 1997 from the rest of the years. Moreover, it was recognized that when an effective rainfall (about 30 mm) occurs in the growing season and mean daily temperature range is about 19ºC for 10 consecutive days, there is a possibility of occurrence and spreading of the disease and preventive measures must be taken."}
+	}}

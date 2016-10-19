@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth Performance of Broiler Rabbits Under Different Systems of Housing",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":88,
+	"dc:subject":[
+		{"value":"logement des animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"lapin (oryctolagus)",
+	"xml:lang":"fre"
+	},
+	{"value":"alojamiento de animales",
+	"xml:lang":"esp"
+	},
+	{"value":"conejo (oryctolagus)",
+	"xml:lang":"esp"
+	},
+	{"value":"rabbits",
+	"xml:lang":"eng"
+	},
+	{"value":"growth rate",
+	"xml:lang":"eng"
+	},
+	{"value":"taux de croissance",
+	"xml:lang":"fre"
+	},
+	{"value":"indice de crecimiento",
+	"xml:lang":"esp"
+	},
+	{"value":"animal housing",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":94,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000192",
+	"dct:identifier":"IN2015000192",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bharathy, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramesh, V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saravana, Kuamr V. Ramesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devendran, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sivakumar, K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"An experiment was conducted with 32 weaned rabbits, comprising 16 White Giant and 16 Soviet Chinchilla. The animals were divided into 4 groups consisting of eight animals in each group to find out the effect of different systems of housing on their growth. Among these, 2 groups were reared under modern raised platform shed while the other 2 groups under conventional tile roofed shed. The microclimatic variables and growth performance were recorded. Maximum and minimum temperature was found to be lower (p0.05) and the light intensity both in the morning and evening was higher (p0.01) in raised platform shed than in conventional tile roofed shed. No difference was observed in air velocity and relative humidity. Rabbits under raised platform shed had better feed conversion efficiency (3.10Â±0.20) than the conventional tile roofed shed (3.42Â±0.31) at 15th week of age. Among the breeds, White Giant had significantly (p0.05) better feed conversion efficiency during the growing period. Though the housing system had no significant impact on body weight, the final weight at 15th week of age was higher in rabbits from modern raised platform shed than conventional tile roofed shed. Throughout the growing period Soviet Chinchilla rabbits showed significantly (p0.01) more body weight than White Giant rabbits.",
+	"xml:lang":"eng"
+	}
+	}}

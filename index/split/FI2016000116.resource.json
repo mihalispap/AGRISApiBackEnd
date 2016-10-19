@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Polluted soil rehabilitation using genetically engineered mix microbial inoculum.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Isinguzo, N. S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bello, O. S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic engineering"},
+	{"value":"maaperän saastuminen"},
+	{"value":"maaperä"},
+	{"value":"soil pollution"},
+	{"value":"geenitekniikka"},
+	{"value":"bioremediation"},
+	{"value":"mikro-organismit"},
+	{"value":"biologinen puhdistus"},
+	{"value":"microorganisms"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000116",
+	"dct:identifier":"FI2016000116",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1095",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fridman, Jonas,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Holm, Sören,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nilsson, Mats,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nilsson, Per,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ringvall, Anna Hedström,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ståhl, Ståhl,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Adapting National Forest Inventories to changing requirements - the case of the Swedish National Forest Inventory at the turn of the 20th century.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"ENFIN"},
+	{"value":"harmonization"},
+	{"value":"koealat"},
+	{"value":"sampling"},
+	{"value":"sample plot technique"},
+	{"value":"forest state"},
+	{"value":"valtakunnan metsien inventointi"},
+	{"value":"kaukokartoitus"},
+	{"value":"näytteenotto"},
+	{"value":"remote sensing"}
+	],
+	"bibo:doi":"10.14214/sf.1095",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000773",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000773",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

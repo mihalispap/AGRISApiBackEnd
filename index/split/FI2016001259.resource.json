@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Future possibilities of using insect pathogens to control pest insects in vegetables with special emphasis on fungal metabolites.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Thomsen, Lene.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eilenberg, Jørgen.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"puutarhakasvit"},
+	{"value":"vihannekset"},
+	{"value":"biological control"},
+	{"value":"torjuntamenetelmät"},
+	{"value":"tuhohyönteiset"},
+	{"value":"torjuntaeliöt"},
+	{"value":"mikro-organismit"},
+	{"value":"pathogens"},
+	{"value":"sienet"},
+	{"value":"vegetable crops"},
+	{"value":"biopestisidit"},
+	{"value":"fungi"},
+	{"value":"tuhoeläimet"},
+	{"value":"torjunta-aineet"},
+	{"value":"pest insects"},
+	{"value":"biopesticides"},
+	{"value":"taudinaiheuttajat"},
+	{"value":"biologinen torjunta"},
+	{"value":"microbial pesticides"},
+	{"value":"mycotoxins"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF Seminar
+    (1995 :
+    Lillehammer)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001259",
+	"dct:identifier":"FI2016001259",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

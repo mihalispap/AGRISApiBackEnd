@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Retention of phosphorus in peatland buffer zones at six forested catchments in southern Finland /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Väänänen, Riitta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nieminen, Mika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vuollekoski, Martti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nousiainen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sallantaus, Tapani.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tuittila, Eeva-Stiina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ilvesniemi, Hannu.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"peatlands"},
+	{"value":"turvemaat"},
+	{"value":"fosfori"},
+	{"value":"buffer zone area"},
+	{"value":"metsitys"},
+	{"value":"valuma-alueet"},
+	{"value":"suojavyöhykkeet"},
+	{"value":"retention"},
+	{"value":"watersheds"},
+	{"value":"phosphorus"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000035",
+	"dct:identifier":"FI2016000035",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

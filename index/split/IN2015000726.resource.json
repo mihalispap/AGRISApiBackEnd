@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Early evaluation of wild Hevea germplasm for drought tolerance in north Konkan region",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":287,
+	"dc:subject":[
+		{"value":"Drought tolerance"},
+	{"value":"Accessions"},
+	{"value":"hevea germplasm"},
+	{"value":"resistance a la secheresse",
+	"xml:lang":"fre"
+	},
+	{"value":"drought resistance",
+	"xml:lang":"eng"
+	},
+	{"value":"resistencia a la sequia",
+	"xml:lang":"esp"
+	},
+	{"value":"provenance",
+	"xml:lang":"fre"
+	},
+	{"value":"procedencia",
+	"xml:lang":"esp"
+	},
+	{"value":"hevea",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":291,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000726",
+	"dct:identifier":"IN2015000726",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"dec2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mercy, M.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meena Singh"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The expedition conducted by International Rubber Research and Development Board (IRRDB) in 1981 in the Amazon forests of Brazil, resulted in a collection of 4548 wild germplasm accessions of Hevea brasiliensis in India. Being a ikely repository of genes conferring tolerance to various biotic and abiotic stresses, early evaluation of this germplasm accessions at a drought prone area can provide an indication towards their drought tolerance potential. Hence, a preliminary field screening in a set of 130 wild accessions was conducted along with four check clones for a period of six years at the drought prone area of Dapchari in Maharshtra. Growth performance of these accessions in the drought prone situation was assessed in terms field observations of plants. Test tapping was done at the age of four years to assess their yield potential under drought. Wide variability was noticed in growth and yield of plants among the accessions indicating the scope for selection of potential accessions. Out of 130 accessions evaluated, fourteen potential accessions could be dentified as drought tolerant plants for further detailed field evaluation.",
+	"xml:lang":"eng"
+	}
+	}}

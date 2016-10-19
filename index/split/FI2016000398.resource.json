@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Hylla med eller utan väggar?.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Korhonen, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemelä, Paavo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"eläinsuojat"},
+	{"value":"kettu"},
+	{"value":"eläinten käyttäytyminen"},
+	{"value":"furbearing animals"},
+	{"value":"behaviour"},
+	{"value":"cages"},
+	{"value":"foxes"},
+	{"value":"turkiseläimet"},
+	{"value":"nest boxes"},
+	{"value":"tuotantoympäristö"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000398",
+	"dct:identifier":"FI2016000398",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

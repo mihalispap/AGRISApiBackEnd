@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/a1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of planting pattern, crop variety and insecticide on the productivity of cowpea-cereal systems in Northern Guinea Savanna of Nigeria"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ajeigbe, H.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Oseni, T.O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, B.B. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100195",
+	"dct:identifier":"FI2016100195",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"A cropping system trial involving two spray regimes, two cowpea varieties and ten cowpea–cereals planting patterns involving two cereals was conducted in the wet season in the northern Guinea Savanna of Nigeria in 1999 and 2000 to identify suitable row to row planting arrangement for cowpea-cereal systems. The systems involved different row-to-row combinations of cowpea with maize or sorghum and with or without insecticide spray. Spraying of cowpea increased cowpea grain yield, returns on grain and total produce significantly under all planting patterns and varieties. Sole cowpea produced significantly higher monetary returns compared to other treatments. The improved cowpea variety produced higher grain yields than the local variety and required less insecticide spray. The maize-cowpea systems were more productive than the sorghum-cowpea systems. Systems with higher cowpea proportions produced relatively higher monetary returns on total grains. Returns on total produce from sole crop cowpea with insecticide spray almost doubled returns compared to the total produce from sole cereals due to high price of cowpea grain and fodder. The systems, 2maize:4cowpea and 1maize:4cowpea with spraying were most productive and gave high monetary returns and therefore were recommended for the area."}
+	}}

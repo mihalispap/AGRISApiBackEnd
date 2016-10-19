@@ -1,0 +1,76 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Avaliação bioeconômica do consórcio de sorgo com diferentes espécies forrageiras para sistema de integração lavoura-pecuária em Nova Porteirinha ",
+	"xml:lang":"por"
+	},
+	{"value":"   MG "},
+	{"value":"Bioeconomic evaluation of a sorghum consortium with different forage species for an integrated crop-livestock system in Nova Porteirinha, MG",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"sorghum bicolor",
+	"xml:lang":"eng"
+	},
+	{"value":"forage",
+	"xml:lang":"eng"
+	},
+	{"value":"beef cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"crops",
+	"xml:lang":"eng"
+	},
+	{"value":"brachiaria brizantha",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"73/n.2",
+	"bibo:doi":"10.17523/bia.v73n2p94",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00230",
+	"dct:identifier":"BR2016F00230",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2016-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v73n2p94",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"FERRAZZA, R. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LOPES, M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALBUQUERQUE, C. J. B."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"d) Cenchrus ciliaris cv. Áridus + sorghum"},
+	{"value":"f) Panicum maximum + sorghum"},
+	{"value":"c) B. ruziziensis + sorghum"},
+	{"value":"Esta pesquisa foi conduzida com o intuito de avaliar a viabilidade bioeconômica do consórcio de sorgo com diferentes espécies forrageiras para o sistema de integração lavoura pecuária (iLP) no município de Nova Porteirinha, MG. No primeiro ano do experimento, foram semeadas sete espécies de gramíneas em consórcio com o sorgo para formação da pastagem, além do sorgo solteiro, em dois espaçamentos (40 e 80 cm), definindo os dezesseis tratamentos: a) Brachiaria decumbens + sorgo"},
+	{"value":"g) Andropogon gayanus + sorghum"},
+	{"value":"e) C. ciliaris cv. 131 + sorgo"},
+	{"value":"h) sorghum alone. In the second agricultural year, the forages were previously removed for direct seeding of sorghum. The economic efficiency indicators used were simple payback, discounted payback, net present value, internal rate of return, and benefit-cost ratio. Significant differences (P"},
+	{"value":"b) B. brizantha + sorgo"},
+	{"value":"d) Cenchrus ciliaris cv. Áridus + sorgo"},
+	{"value":"h) Sorgo solteiro. No segundo ano agrícola, as forragens foram previamente dessecadas para o plantio direto do sorgo. Os indicadores de eficiência econômica utilizados foram Payback Simples, Payback Descontado, Valor Presente Líquido, Taxa Interna de Retorno e relação Benefício/Custo. Foram observadas diferenças (P"},
+	{"value":"The objective of this study was to evaluate the bioeconomic feasibility of a consortium of sorghum and different forage species for an integrated crop-livestock production system (ICLS) in the municipality of Nova Porteirinha, MG. In the first year of the experiment, seven grass species were sewn together with sorghum for pasture formation, in addition to sorghum alone, at two spacings (40 and 80 cm), defining 16 treatments: a) Brachiaria decumbens + sorghum",
+	"xml:lang":"eng"
+	},
+	{"value":"e) C. ciliaris cv. 131 + sorghum"},
+	{"value":"c) B. ruziziensis + sorgo"},
+	{"value":"g) Andropogon gayanus + sorgo"},
+	{"value":"f) Panicum maximum + sorgo"},
+	{"value":"b) B. brizantha + sorghum",
+	"xml:lang":"por"
+	}
+	]
+	}}

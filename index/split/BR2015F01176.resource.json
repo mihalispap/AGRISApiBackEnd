@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Impacto da utilização da somatotropina bovina (bST) sobre a produção de leite e a avaliação genética de bovinos da raça Holandesa ",
+	"xml:lang":"por"
+	},
+	{"value":"Impact of bovine somatotropin (BST)on the milk production and genetic evaluation of Holstein cattle",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"bovine somatotropin",
+	"xml:lang":"eng"
+	},
+	{"value":"genetics",
+	"xml:lang":"eng"
+	},
+	{"value":"dairy cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"evaluation",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01176",
+	"dct:identifier":"BR2015F01176",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1378833607.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"RODRIGUES,  M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MOREIRA,  H. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FARO,  L. E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CARDOSO,  V. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PAZ,  C. C. P."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The objective of this work was to study the influence of the use of bovine somatotropin (bST) on milk yield (MP305) and genetic evaluation of MP305 of Holstein Cattle. Data from 474 bulls and observations concerning 3.341 lactations of 1.271 cows during the period from 1999 to 2003 were used. Variance analysis was performed by the GLM SAS procedure (2003) and parameters in one animal model. The heritability estimates for model 1(bST as a fixed effect) and model 2 (absence of this effect) were respectively 0.26 and 0.23 for the two analyses and correlations between estimated breeding values for bulls sets a (all evaluated), b (best 20%), c (best 10%) and d (best 5%) were, respectively, 0.9484, 0.9829, 0.9752 and 0.8974. Variance analysis of variance showed that the average PL305 increased significantly (P",
+	"xml:lang":"eng"
+	},
+	{"value":"O objetivo do presente trabalho foi estudar a influência do uso da somatotropina bovina (bST) sobre a produção de leite (PL305) e a avaliação genética da PL305 de bovinos da raça Holandesa. Foram utilizados dados referentes a 474 touros e observações referentes a 3341 lactações de 1271 vacas, durante o período de 1999 a 2003. A análise de variância foi realizada pelo procedimento GLM do SAS (2003) e os parâmetros genéticos sob modelo animal unicaracterístico. As estimativas de herdabilidades para o modelo 1 (bST como efeito fixo) e modelo 2 (ausência desse efeito) foram respectivamente de 0,26 e 0,23 e a correlações entre os valores genéticos preditos para os conjuntos de touros a (todos avaliados), b (os melhores 20%), c (os melhores 10%) e d (os melhores 5%) foram, respectivamente, 0,9484, 0,9829, 0,9752 e 0,8974. A análise de variância demonstrou que as médias de PL305 aumentaram significativamente (P",
+	"xml:lang":"por"
+	}
+	]
+	}}

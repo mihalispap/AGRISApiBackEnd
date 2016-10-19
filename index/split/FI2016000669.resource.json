@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of cropping system and peat amendment on strawberry growth and yield /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vestberg, Mauritz.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kukkonen, Sanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kiuru, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saari, Kaisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hurme, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Fragaria x ananassa"},
+	{"value":"crop yield"},
+	{"value":"Fragaria"},
+	{"value":"traditional farming"},
+	{"value":"luonnonmukainen viljely"},
+	{"value":"organic gardening"},
+	{"value":"peat"},
+	{"value":"marjanviljely"},
+	{"value":"mansikka"},
+	{"value":"sato"},
+	{"value":"maaperä"},
+	{"value":"tavanomainen viljely"},
+	{"value":"kasvu"},
+	{"value":"turve"},
+	{"value":"strawberries"},
+	{"value":"organic amendments"},
+	{"value":"soil"},
+	{"value":"kasvualustat"},
+	{"value":"kasvinravinteet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000669",
+	"dct:identifier":"FI2016000669",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

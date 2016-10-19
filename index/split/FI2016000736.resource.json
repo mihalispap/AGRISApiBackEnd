@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Relationship between empty seed and genetic factors in European beech (Fagus sylvatica L.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Wang, K.S.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"pyökki"},
+	{"value":"siemen"},
+	{"value":"allozymes"},
+	{"value":"seed characteristics"},
+	{"value":"allotsyymit"},
+	{"value":"ominaisuudet"},
+	{"value":"correlation"},
+	{"value":"Fagus sylvatica"},
+	{"value":"selfing"},
+	{"value":"itsesiitos"},
+	{"value":"outcrossing rate"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000736",
+	"dct:identifier":"FI2016000736",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

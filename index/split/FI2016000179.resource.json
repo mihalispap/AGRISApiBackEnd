@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Physical, chemical and antioxidant properties of solid and sour apple pekmez.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Koca, I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karadeniz, B.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fruit juices"},
+	{"value":"antioxidants"},
+	{"value":"fruit products"},
+	{"value":"ash content"},
+	{"value":"physicochemical properties"},
+	{"value":"crude protein"},
+	{"value":"quality"},
+	{"value":"carbohydrate content"},
+	{"value":"phenolic compounds"},
+	{"value":"apples"},
+	{"value":"chemical composition"},
+	{"value":"acidity"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000179",
+	"dct:identifier":"FI2016000179",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

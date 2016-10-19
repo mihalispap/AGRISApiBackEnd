@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Staphylococcus intermedius og hvalpedødelighed hos mink.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Henriksen, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dietz, H. H.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Madsen, M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Clausen, J.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"pennut"},
+	{"value":"minks"},
+	{"value":"furbearing animals"},
+	{"value":"Staphylococcus"},
+	{"value":"kuolleisuus"},
+	{"value":"mortality"},
+	{"value":"bakteeritaudit"},
+	{"value":"eläintaudit"},
+	{"value":"minkki"},
+	{"value":"turkiseläimet"},
+	{"value":"Staphylococcus intermedius"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (253 :
+    1994 :
+    Rebild)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001965",
+	"dct:identifier":"FI2016001965",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

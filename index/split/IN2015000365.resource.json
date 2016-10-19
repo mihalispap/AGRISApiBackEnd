@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Standardization of antioxidants fortification in frozen buck semen",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":47,
+	"dc:subject":[
+		{"value":"conservacion del semen",
+	"xml:lang":"esp"
+	},
+	{"value":"antioxydant",
+	"xml:lang":"fre"
+	},
+	{"value":"conservation du sperme",
+	"xml:lang":"fre"
+	},
+	{"value":"antioxidantes",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"semen preservation",
+	"xml:lang":"eng"
+	},
+	{"value":"antioxidants",
+	"xml:lang":"eng"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":51,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000365",
+	"dct:identifier":"IN2015000365",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Saraswat, Sonia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jindal, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramachandran, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yadav, Sushma,"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Priyadharsini, R."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The effects of different levels of three antioxidants viz., reduced glutathione (3, 5, 7 and 9 mM), ascorbic acid (3, 5, 7, 9 and 10mM), Â¨Â¢-tocopherol (1.5, 2.5, 3.5, 4.5 and 5.5 mM) were evaluated individually on initial, post-equilibration and post-thaw progressive motility in Sirohi buck semen. Ten ejaculates having the volume Â¡Ã 0.5 ml, mass motility Â¡Ã +3.0 and the initial progressive motility Â¡Ã 60.00% were processed for freezing for each antioxidant fortification. The addition of all three additives improved the mean per cent initial, post-equilibration and post-thaw progressive motility of spermatozoa. The-post thaw progressive motility for 0, 3, 5, 7 and 9 mM concentration of reduced glutathione was recorded as 26.50, 24.90, 28.50, 32.00 and 28.80%, respectively. Similarly, the post-thaw progressive motility on addition of ascorbic acid at 0, 3, 5, 7, 9 and 10 mM level was 23.60, 25.00, 26.60, 30.40, 37.00 and 36.90%, respectively. The post-thaw progressive motility at 0, 1.5, 2.5, 3.5, 4.5 and 5.5 mM level of Â¨Â¢-tocopherol was 23.10, 26.20, 26.70, 32.00, 37.00 and 26.70%, respectively. The results indicated that individual antioxidant levels of 7 mM reduced glutathione, 9 mM ascorbic acid and 4.5 mM Â¨Â¢tocopherol showed higher post-thaw progressive motility of Sirohi buck semen compared to other levels studied.",
+	"xml:lang":"eng"
+	}
+	}}

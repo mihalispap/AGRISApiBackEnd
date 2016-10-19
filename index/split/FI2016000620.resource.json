@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Koirien niveltähystys /",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Rintasalo, Jarmo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"nivelentähystys"},
+	{"value":"dogs"},
+	{"value":"joint diseases"},
+	{"value":"tuki- ja liikuntaelinten taudit"},
+	{"value":"joints"},
+	{"value":"eläintaudit"},
+	{"value":"surgical operations"},
+	{"value":"tuki- ja liikuntaelimet"},
+	{"value":"leikkaushoito"},
+	{"value":"endoscopy"},
+	{"value":"osteochondritis"},
+	{"value":"nivelet"},
+	{"value":"koira"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000620",
+	"dct:identifier":"FI2016000620",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

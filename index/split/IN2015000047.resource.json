@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of Varieties of Pulses Against Infestation by Cowpea Bruchid, Callosobruchus Maculatus (Fabricius).",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":346,
+	"dc:subject":[
+		{"value":"variete",
+	"xml:lang":"fre"
+	},
+	{"value":"grain legumes",
+	"xml:lang":"eng"
+	},
+	{"value":"evaluacion",
+	"xml:lang":"esp"
+	},
+	{"value":"legumineuse a grains",
+	"xml:lang":"fre"
+	},
+	{"value":"infestation",
+	"xml:lang":"fre"
+	},
+	{"value":"varieties",
+	"xml:lang":"eng"
+	},
+	{"value":"variedades",
+	"xml:lang":"esp"
+	},
+	{"value":"infestacion",
+	"xml:lang":"esp"
+	},
+	{"value":"evaluation",
+	"xml:lang":"fre"
+	},
+	{"value":"callosobruchus maculatus",
+	"xml:lang":"esp"
+	},
+	{"value":"callosobruchus",
+	"xml:lang":"esp"
+	},
+	{"value":"leguminosas de grano",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":348,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000047",
+	"dct:identifier":"IN2015000047",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thiraviaraj, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Malaikozhundan, B."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Six varieties of pulses were tested for their resistance against Callosobruchus maculatus during September 2010 - June 2011. Cowpea varieties (CoCp7 and Co6) were identified as susceptible varieties with highest SIs of 12.18 and 11.51 respectively. The green gram (Km2 and VBN2) were identified as moderately resistant with SIs of 6.36 and 6.82, respectively. The varieties YBN3 and VBN4 (black gram) were identified as resistant with lowest SIs of 5.18 and 5.08 respectively.",
+	"xml:lang":"eng"
+	}
+	}}

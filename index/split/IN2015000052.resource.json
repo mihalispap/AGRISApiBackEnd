@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Qualitative Deterioration in the Seeds in Storage Due to Callosobruchus Chinensis (L.).",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":371,
+	"dc:subject":[
+		{"value":"storage",
+	"xml:lang":"eng"
+	},
+	{"value":"graine",
+	"xml:lang":"fre"
+	},
+	{"value":"deterioro",
+	"xml:lang":"esp"
+	},
+	{"value":"semilla",
+	"xml:lang":"esp"
+	},
+	{"value":"callosobruchus chinensis",
+	"xml:lang":"esp"
+	},
+	{"value":"stockage",
+	"xml:lang":"fre"
+	},
+	{"value":"deterioration",
+	"xml:lang":"fre"
+	},
+	{"value":"almacenamiento",
+	"xml:lang":"esp"
+	},
+	{"value":"seeds",
+	"xml:lang":"eng"
+	},
+	{"value":"callosobruchus",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":73,
+	"bibo:pageEnd":377,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000052",
+	"dct:identifier":"IN2015000052",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Neog Pankaj"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, H.K."
+	}
+	}
+	],
+	"bibo:issue":4,
+	"bibo:abstract":{"value":"Qualitative studies in the seeds of different pulses due to infestation by Callosobruchus chinensis (L.) after 60 and 90 days of storage revealed that the total soluble sugar, non reducing sugar, starch and crude fat content were decreased; while the moisture, reducing sugar, crude protein, free fatty acid and uric acid content were increased significantly in the infested seeds as compared to healthy ones. The corresponding increase or decrease of these biochemical contents was the highest in green gram and the lowest in soybean. The qualitative changes in the seeds of these pulses were directly related to the level of insect infestation.",
+	"xml:lang":"eng"
+	}
+	}}

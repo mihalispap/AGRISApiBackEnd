@@ -1,0 +1,34 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Suurina konsentraatioina vesi/liete-seoksessa olevan lietteen laskeutuminen erittäin matalakuormitteisten aktiivilietelaitosten jälkiselkeytysaltaissa.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kiuru, Heikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rautiainen, Jyri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"jäteveden käsittely"},
+	{"value":"jätevesi"},
+	{"value":"wastewater"},
+	{"value":"wastewater treatment"},
+	{"value":"aktiivilietemenetelmät"},
+	{"value":"activated sludge"},
+	{"value":"jätevedenpuhdistamot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001371",
+	"dct:identifier":"FI2016001371",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

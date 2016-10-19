@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Tree mortality agents in pristine Norway spruce forests in northern Fennoscandia /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lännenpää, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aakala, Tuomas.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kauhanen, Heikki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Scandinavia"},
+	{"value":"kuusi"},
+	{"value":"fungi"},
+	{"value":"kasvu"},
+	{"value":"luonnonmetsät"},
+	{"value":"puut"},
+	{"value":"mortality"},
+	{"value":"Coniophora"},
+	{"value":"metsät"},
+	{"value":"Picea abies"},
+	{"value":"Fennoscandia"},
+	{"value":"kuolema"},
+	{"value":"sienet"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000508",
+	"dct:identifier":"FI2016000508",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

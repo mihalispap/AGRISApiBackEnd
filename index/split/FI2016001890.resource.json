@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"The suitability of leaf-off airborne laser scanning data in an area-based forest inventory of coniferous and deciduous trees.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Villikka, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Packalén, Petteri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maltamo, Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"leaf-off data"},
+	{"value":"forest inventories"},
+	{"value":"LIDAR"},
+	{"value":"group-specific estimates"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001890",
+	"dct:identifier":"FI2016001890",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

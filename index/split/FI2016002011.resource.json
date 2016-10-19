@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A K-band microwave measuring system for the analysis of tree stems.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Eskelinen, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Eskelinen, Harri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"measuring instruments"},
+	{"value":"puun laatu"},
+	{"value":"quality"},
+	{"value":"mikroaallot"},
+	{"value":"microwave radiation"},
+	{"value":"stems"},
+	{"value":"mittausmenetelmät"},
+	{"value":"wood properties"},
+	{"value":"oksat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002011",
+	"dct:identifier":"FI2016002011",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

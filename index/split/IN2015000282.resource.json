@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Time trends in genetic parameter estimates of production traits in White Leghorn chicken under long-term selection",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1073,
+	"dc:subject":[
+		{"value":"parametros geneticos",
+	"xml:lang":"esp"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"parametre genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"heritability",
+	"xml:lang":"eng"
+	},
+	{"value":"heritabilite",
+	"xml:lang":"fre"
+	},
+	{"value":"heredabilidad",
+	"xml:lang":"esp"
+	},
+	{"value":"seleccion",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic parameters",
+	"xml:lang":"eng"
+	},
+	{"value":"selection",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1075,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000282",
+	"dct:identifier":"IN2015000282",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Reddy, B.L.N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajvir Singh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kataria, M.C."
+	}
+	}
+	],
+	"bibo:issue":10,
+	"bibo:abstract":{"value":"In the present study, nonsignificant negative-time trends for heritability estimates were obtained for the majority of the traits. It indicated that additive genetic variance of the traits in the population was reduced, but not significantly due to selection for egg production. Time trends in genetic and phenotypic correlations were mostly nonsignificant indicating that the association between different traits did not change significantly due to selection over generations.",
+	"xml:lang":"eng"
+	}
+	}}

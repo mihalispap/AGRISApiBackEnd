@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Adaptabilidade de fêmeas bubalinas em sala de ordenha sob condições ambientais do agreste do Rio Grande Do Norte ",
+	"xml:lang":"por"
+	},
+	{"value":"Adaptability of females buffaloes in milking parlor of “agreste” region Rio Grande do Norte State, Brazil",
+	"xml:lang":"eng"
+	},
+	{"value":"   Brasil "}
+	],
+	"dc:subject":{"value":"temperature",
+	"xml:lang":"eng"
+	},
+	"bibo:volume":"5/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016200101",
+	"dct:identifier":"BR2016200101",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	},
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/393/238",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Oliveira Juliana Paula Felipe de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rangel Adriano Henrique do Nascimento"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barreto Mayara Leilane de Jesus"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Júnior Dorgival Morais de Lima"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Urbano Stela Antas"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal Rural de Pernanbuco, Recife, PE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Norte, Natal, RN, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Norte, Natal, RN, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Campus Arapiraca, Universidade Federal de Alagoas, Arapiraca, AL, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal Rural de Pernanbuco, Recife, PE, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Objetivou-se avaliar a adaptabilidade ambiental de fêmeas bubalinas primíparas e pluríparas em sala de ordenha no agreste do Rio Grande do Norte, Brasil. Foi realizada leitura dos elementos climáticos umidade relativa do ar (URA) e temperatura do ar (TA) semanalmente, nos turnos manhãe tarde, durante seis semanas, e, calculado o índice de temperatura e umidade (ITU) dentro sala de ordenha. A temperatura superficial também foi mensurada. Além disso, observações comportamentais no ambiente de ordenha foram registradas duas vezes por semana para posterior definição de cinco escores de temperamento. O teste de Tukey foi aplicado para o ITU, TA, URA a fim de verificar o efeito do turno e também para os parâmetros produção de leite(PROD), temperatura superficial (TS), temperatura superficial de úbere (TSÚbere) e temperamento para verificar o efeito da ordem de parto. Correlações de Pearson foram realizadas entre TS, TSÚbere, PROD e ordem de parto. A TA média dentro da sala de ordenha foi superior à tarde e a URA pela manhã. Não houve diferença entre os turnos para o ITU, apresentando-se dentro dos padrões de conforto para bubalinos. Para a variável TS não houve diferença entre animais primíparos e pluríparos, porém búfalas primíparas apresentaram maiores TSÚbere e maiores médias de temperamento. Não houve diferença entre os grupos para a produção de leite. Verificou-se correlação negativa entre a TSÚbere e a ordem de parto e positiva entre a TS e TSÚbere. O turno influenciou os parâmetros ambientais estudados, a exceção do ITU. Búfalas Murrah em sala de ordenha apresentaram-se adaptadas às condições climáticas do agreste do Rio Grande do Norte, não sofrendo efeitos negativos sobre a produção de leite.",
+	"xml:lang":"por"
+	},
+	{"value":"This study aimed to assess the environmental adaptability of female buffalo in primiparous and pluriparous parlor in rural Rio Grande do Norte, Brazil. Was done reading the climate elements relative humidity (RH) and air temperature (TA) weekly in morning and afternoon shifts for six weeks, andcalculated the temperature and humidity index (THI) in the milking parlor. The surface temperature was also measured. In addition, behavioral observations of the environment milking were recorded twice per week for five subsequent definition of scores temper. The Tukey test was applied to ITU, TA, URA to verify the effect of the shift and also the parameters for milk production (PROD), surface temperature (TS), surface temperature of udder (TSÚbere) and temperament to check the effect of parity. Pearson correlations were performed between TS, TSÚbere, PROD and order delivery. The average TA inside the milking parlor was superior to evening and morning URA. There was no difference between shifts for UTI, presenting within the standards of comfort for buffaloes. For the variable TS no difference between primiparous animals and pluríparos but buffalo heifers presentedTSÚbere larger and larger average temperament. There was no difference between groups for milk production. There was a negative correlation between birth order and TSÚbere positive relationship between the TS and TSÚbere. The shift has influenced the environmental parameters studied, exceptfor the ITU. Murrah buffaloes in the parlor had adapted to the harsh climatic conditions of Rio Grande do Norte, not suffering negative effects on milk production.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

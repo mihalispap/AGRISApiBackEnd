@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Climate for innovation and innovation strategy as drivers for success in the wood industry : moderation effects of firm size, industry sector, and country of operation.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nybakk, Erlend.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Crespell, Pablo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hansen, Eric.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"strategies"},
+	{"value":"corporate culture"},
+	{"value":"organisational culture"},
+	{"value":"organizations"},
+	{"value":"comparative management"},
+	{"value":"management"},
+	{"value":"innovation"},
+	{"value":"forest products industry"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001199",
+	"dct:identifier":"FI2016001199",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

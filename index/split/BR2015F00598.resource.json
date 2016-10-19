@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"   Parâmetros genéticos de relações de pesos ",
+	"xml:lang":"por"
+	},
+	{"value":"   características de fertilidade e crescimento em vacas da raça Canchim "},
+	{"value":"Genetic parameters for body weight ratio, fertility and growth traits in Canchim breed females",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"weight",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic correlation",
+	"xml:lang":"eng"
+	},
+	{"value":"beef cattle",
+	"xml:lang":"eng"
+	},
+	{"value":"productivity",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.3",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F00598",
+	"dct:identifier":"BR2015F00598",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1389615678.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"MELLO,  S. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"ALENCAR,  M. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PASSAFARO, T. L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TORAL,  F. L. B."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"0,50 (PD)"},
+	{"value":"The objective of this study was to estimate the heritability of age at first calving (AFC), body condition score at first calving (BCF), body condition score at calving (BCC), weaning weight (WW), yearling weight (W12), weaning weight of calf/weight of cow at calving (RCC) and weaning weight of first calf/weight of cow at first calving (RCCF) ratios, and genetic correlations of AFC, BCF, WW and W12 with RCCF, in a Canchim beef cattle herd. The variance and covariance components were obtained by bayesian inference with single and two-trait analyses. The statistical models included the additive direct and maternal, the permanent environmental and the residual random effects, and the fixed effects of year and month of birth or of calving, age of cow at calving and sex of calf, depending on the trait. The posterior means of heritability, obtained by single-trait analyses, were 0.12 (AFC), 0.36 (BCF), 0.18 (BCC), 0.50 (WW), 0.46 (W12), 0.16 (RCC) and 0.40 (RCCF) indicating that these traits have enough genetic variability to show response to mass selection with the exception of AFC. The genetic correlations of AFC (-0.61), BCF (-0.36), WW (-0.20) and W12 (-0.05) with RCCF suggest that selection to reduce age and body condition score at first calving should improve the productivity trait of females at first calving, while selection for heavier females at young ages would not promote any change in the productivity of dams.",
+	"xml:lang":"eng"
+	},
+	{"value":"0,18 (ECP)"},
+	{"value":"0,16 (RPP) e 0,40 (RPPP), indicando que as características possuem variação genética aditiva suficiente para apresentar boa resposta à seleção massal, com exceção de IPP. As correlações genéticas de IPP (-0,61), EPP (-0,36), PD (-0,20) e P12 (-0,05) com RPPP sugerem que a seleção para reduzir a idade e o escore de condição corporal ao primeiro parto deve melhorar a produtividade das fêmeas no primeiro parto, mas a seleção para modificar pesos em idades jovens não promove mudanças na eficiência produtiva das matrizes."},
+	{"value":"0,46 (P12)"},
+	{"value":"0,36 (EPP)"},
+	{"value":"O objetivo neste trabalho foi estimar herdabilidade da idade ao primeiro parto (IPP), do escore de condição corporal ao primeiro parto (EPP), do escore de condição corporal ao parto (ECP), dos pesos à desmama (PD) e aos doze meses de idade (P12) e das relações de peso do bezerro à desmama pelo peso da vaca ao parto (RPP) e peso do primeiro bezerro à desmama pelo peso da vaca ao primeiro parto (RPPP) e as correlações genéticas de IPP, EPP, PD e P12 com RPPP, em um rebanho da raça Canchim. As médias a posteriori dos componentes de (co)variância foram obtidas por inferência bayesiana, em análises uni e bicaracterísticas. Os modelos estatísticos incluíram os efeitos aleatórios genético aditivos direto e materno, de ambiente permanente e residual, e os efeitos fixos de ano e mês de nascimento ou do parto, idade da vaca ao parto e sexo do bezerro, dependendo da característica. As médias a posteriori da herdabilidade, obtidas em análises unicararacterística, foram 0,12 (IPP)",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"BIOLOGIA POPULACIONAL DE Macrobrachium jelskii (MIERS, 1778) (CRUSTACEA, DECAPODA, PALAEMONIDAE) EM UMA PLANÍCIE INUNDÁVEL NA AMAZÔNIA ORIENTAL, BRASIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":11,
+	"bibo:volume":3,
+	"bibo:pageEnd":22,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00085",
+	"dct:identifier":"BR2015N00085",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/630",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Daniel Pandilha de Lima"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Luis Mauricio Abdon da Silva"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ana Claudia Silva de Lira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA/AP"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"<!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:HyphenationZone>21</w:HyphenationZone> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> </w:Compatibility> <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument> </xml><![endif]--><span style=\"font-size: 12.0pt; line-height: 150%; font-family: \">O objetivo do trabalho foi estudar a estrutura populacional de M. jelskii</em><span style=\"mso-bidi-font-style: italic;\"> em uma planície inundável da Amazônia Oriental, durante o período de abril/2008 a maio/2009. A amostragem foi realizada junto às macrófitas, em um transecto de 50 m. As coletas foram obtidas com peneiras de 55 cm de diâmetro e malha de 2 mm, a cada 2 m, totalizando 25 amostras. Nestas, eram coletadas tanta a vegetação aquática quanto os organismos que eram separados e acondicionados em sacos plásticos, etiquetados e conservados em álcool 70%. No laboratório, os exemplares de <em style=\"mso-bidi-font-style: normal;\">M. jelskii foram medidos, pesados, sexados e as fêmeas classificadas macroscopicamente quanto ao grau de maturação. Foram encontrados 910 exemplares, 505 machos (55,5%) e 405 fêmeas (44,5%). O comprimento total variou de 9,7 a 50,3 mm e a maior frequência relativa de indivíduos ocorreu entre as classes de 19,7 a 21,7 mm e 37,7 a 39,7 mm. Os machos apresentaram tamanhos superiores e a proporção sexual foi instável entre os meses. A reprodução incidiu no período mais chuvoso. As fêmeas obtiveram crescimento isométrico e os machos alométrico negativo, demonstrando dimorfismo nas relações peso total/comprimento total de ambos os sexos.</span><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=\"false\" LatentStyleCount=\"156\"> </w:LatentStyles> </xml><![endif]--><!--[if !mso]><object  classid=\"clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D\" id=ieooui></object> <mce:style><!  st1\:*{behavior:url(#ieooui) } --> <!--[endif] --><!--[if gte mso 10]> <mce:style><!   /* Style Definitions */  table.MsoNormalTable {mso-style-name:\"Tabela normal\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:\"\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:\"Times New Roman\"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} --> <!--[endif] -->",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A case study on attitude of Vegetable growing farmers towards pesticides use in Nepal",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":414,
+	"dc:subject":[
+		{"value":"legume",
+	"xml:lang":"fre"
+	},
+	{"value":"vegetables",
+	"xml:lang":"eng"
+	},
+	{"value":"pesticide",
+	"xml:lang":"fre"
+	},
+	{"value":"plaguicidas",
+	"xml:lang":"esp"
+	},
+	{"value":"pesticides",
+	"xml:lang":"eng"
+	},
+	{"value":"hortalizas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":417,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000538",
+	"dct:identifier":"IN2015000538",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sharma, Dilli Ram"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thapa, Resham Bahadur"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Manandhar, Hira Kaji"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shrestha Sundar Man"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pradhan, Shree Baba"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The study revealed that 95.3% of farmers used chemical pesticides in their vegetable crops. Majority of farmers (55%) stored pesticides outside the house, while 44% stored inside their houses (living room, open space, under the staircase etc.) and 1.5% even stored in bed room. Fifty-six % of the farmers expressed their view that application of pesticides caused pollution of water and air, while large number of farmers (74.5%) believed that pesticide application was harmful to the health of farm workers. Fifty-four % farmers did not follow waiting period at all after application of pesticides, whereas, 25.5% of the farmers, harvested vegetables the next day after spraying. Majority of farmers (51%) mainly depended on pesticide dealers for advice, followed by public extension system (32%), fellow farmers/friends (31.5%) and News/FM (15.5%). The farmers were quite aware of the harmful effects of pesticides, but they were not translating this awareness into their own safety practices. Therefore, there is a need of policy for strengthening trainings, extension services and various awareness programmes.",
+	"xml:lang":"eng"
+	}
+	}}

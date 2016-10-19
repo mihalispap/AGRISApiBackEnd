@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Algorithm for Animal Diet Formulation",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":139,
+	"dc:subject":[
+		{"value":"statistical methods",
+	"xml:lang":"eng"
+	},
+	{"value":"computer software",
+	"xml:lang":"eng"
+	},
+	{"value":"necesidades de nutrientes",
+	"xml:lang":"esp"
+	},
+	{"value":"programas de ordenador",
+	"xml:lang":"esp"
+	},
+	{"value":"logiciel",
+	"xml:lang":"fre"
+	},
+	{"value":"metodos estadisticos",
+	"xml:lang":"esp"
+	},
+	{"value":"nutritional requirements",
+	"xml:lang":"eng"
+	},
+	{"value":"besoin nutritionnel",
+	"xml:lang":"fre"
+	},
+	{"value":"methode statistique",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":13,
+	"bibo:pageEnd":146,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000352",
+	"dct:identifier":"IN2015000352",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Saxena, Pratiksha"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pathak, Vinay"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, Vinod"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"This paper proposes an algorithm based on Non-linear programming and statistical analysis for animal diet formulation. Most important feature of this technique is use of Non-linear programming which overcomes the drawback of linear approximation of objective function. Algorithm is proposed to explore the area of computer programming in the field of animal diet formulation. Outcome of this technique is applied on sample data and provides optimized set of nutrient ingredients to animal which fulfill the nutrient requirement better than the linear programming technique.",
+	"xml:lang":"eng"
+	}
+	}}

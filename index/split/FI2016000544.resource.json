@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Family forest owners' opinions about forest management in northern Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hallikainen, Ville.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyppönen, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pernu, Leena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Puoskari, Jouni.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management  objective"},
+	{"value":"silviculture"},
+	{"value":"forest management activity"},
+	{"value":"matkailu"},
+	{"value":"landowners"},
+	{"value":"tourism"},
+	{"value":"family forest owner"},
+	{"value":"yksityismetsät"},
+	{"value":"forest management"},
+	{"value":"private ownership"},
+	{"value":"family farms"},
+	{"value":"forest owner typology"},
+	{"value":"metsänomistajat"},
+	{"value":"metsätalous"},
+	{"value":"metsänhoito"},
+	{"value":"omistajuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000544",
+	"dct:identifier":"FI2016000544",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

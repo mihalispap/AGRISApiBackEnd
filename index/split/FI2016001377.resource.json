@@ -1,0 +1,63 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Omega-3 fatty acid composition and biological activity of three microalgae species /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Rosa, Antonella.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Deidda, Delia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Serra, Alberto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Deiana, Monica.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dessi, M. Assunta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pompei, Raffaello.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"myrkyllisyys"},
+	{"value":"rasvahapot"},
+	{"value":"Tetraselmis suecica"},
+	{"value":"antimicrobial properties"},
+	{"value":"algae"},
+	{"value":"mikro-organismit"},
+	{"value":"polyunsaturated fatty acids"},
+	{"value":"levät"},
+	{"value":"Haematococcus pluvialis"},
+	{"value":"Chlorella"},
+	{"value":"antimikrobiset yhdisteet"},
+	{"value":"Chlorella minutissima"},
+	{"value":"toxicity"},
+	{"value":"chemical composition"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"microorganisms"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001377",
+	"dct:identifier":"FI2016001377",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

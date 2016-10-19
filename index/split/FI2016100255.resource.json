@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of narrow rows and no-tillage on growth parameters, fibre quality and yield components of cotton"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Avgoulas, Christos (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Travlos, Ilias S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kotoulas, Vasilis (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mygdakos, Efthimios (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Economou, Garifalia (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100255",
+	"dct:identifier":"FI2016100255",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This paper focuses on the comparative study of cotton (Gossypium hirsutum L.) grown on narrow (75 cm) and conventional (96 cm) row spacing, combined with conventional tillage or no-tillage. The evaluation of these cultural practices was conducted in terms of cotton growth parameters, crop productivity and fibre properties of Celia, one of the most commonly grown cultivars in central Greece. The experimentation showed that cotton grown on narrow-row spacing significantly increased seed-cotton and lint yield by 13.26 and 12.95%, respectively, compared to conventional row spacing. However, there were no significant differences detected between the crop yields of the two tillage practices, even if leaf area index (LAI) was significantly higher in the case of no-tillage. These findings could be potentially useful to the farmers, and the systems of narrow-rows and no-tillage could be viable and profitable for cotton growing in Greece and other Mediterranean-type environments."}
+	}}

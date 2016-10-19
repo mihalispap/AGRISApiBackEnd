@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/a1.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Quantitative analysis of seed genetic model including embryo and endosperm effects in multiple environments"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Achouch, Abderrahmane (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Benmoussa, Mebrouk (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Snoussi, Sid Ahmed (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100094",
+	"dct:identifier":"FI2016100094",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"AbstractFull seed model was evaluated by using, in multiple environments, mating design of eight parents diallel crosses with F1’s and reciprocal F1’s, F2’s andreciprocal F2’s. Monte Carlo simulations were conducted to calculate Bias, MSE and power value to estimate variance components of embryo geneticeffect, endosperm genetic effect, cytoplasm effect, maternal genetic effect and genotype x environment interaction effect. Biases of variance components, σ 2Ao, σ 2Do and σ 2Ae, were found to be around 10% of the parameter values. These variances tend to be well estimated for the full seedmodel including GE interaction effect. If embryo or endosperm genetic effects, when they do exist, are not considered in the model, other geneticvariance components could be easily overestimated except σ 2C, σ 2Dm, σ 2CE, σ 2DmE, and σ 2ε. If embryo and embryo x environment interaction wereignored, endosperm, maternal genetic variances and genotype x environment genetic variances were overestimated. When endosperm and endospermx environment interaction were ignored, same phenomena happened to embryo, maternal and GE interaction variances components."}
+	}}

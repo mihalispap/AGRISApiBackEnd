@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"PRIMEIRO REGISTRO DE Voyria tenella Guild. ex. Hook. (GENTIANACEAE) PARA O ESTADO DO MARANHÃO, BRASIL",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":132,
+	"bibo:volume":4,
+	"bibo:pageEnd":134,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00161",
+	"dct:identifier":"BR2015N00161",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1059",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ana Kelly Koch"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lucas Eduardo Araújo-Silva"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Instituto de Botânica de São Paulo"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Pará/Museu Paraense Emílio Goledi"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"text-indent: 0cm;\"><Voyria é um gênero constituído por 19 espécies, sendo 12 delas ocorrentes no Brasil. Voyria tenella possuía ocorrência conhecida no Brasil para a região Norte, parte do Nordeste e nos estados do Espírito Santo, São Paulo e Santa Catarina. Neste trabalho, um novo registro de V. tenella é apresentado para o estado do Maranhão, expandindo a ocorrência da espécie.",
+	"xml:lang":"por"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Aluminium exposure from vegetables and fresh raw vegetable juices in Kenya.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Njenga, Lydia W.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maina, David M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kariuki, David K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mwangi, Francis K.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vihannekset"},
+	{"value":"porkkana"},
+	{"value":"vihannesmehut"},
+	{"value":"pollutants"},
+	{"value":"vegetables"},
+	{"value":"elintarvikkeiden epäpuhtaudet"},
+	{"value":"elintarvikkeet"},
+	{"value":"Kenya"},
+	{"value":"foods"},
+	{"value":"aluminium"},
+	{"value":"vegetable juices"},
+	{"value":"alumiini"},
+	{"value":"carrots"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001385",
+	"dct:identifier":"FI2016001385",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

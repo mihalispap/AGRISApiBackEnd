@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Physico-chemical characteristics of oils extracted from three compartments of the olive fruit (pulp, endocarp and seed) of variety Chemlal cultivated in Kabylia (Algeria).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Moussaoui, Ramdane.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Labbaci, Wahiba.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hemar, Nassima.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Youyou, Ahcène.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Amir, Youcef.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"olive oil"},
+	{"value":"food processing"},
+	{"value":"Olea europaea"},
+	{"value":"fatty acids"},
+	{"value":"physicochemical properties"},
+	{"value":"pulp"},
+	{"value":"linoleic acid"},
+	{"value":"chemical composition"},
+	{"value":"extraction"},
+	{"value":"Algeria"},
+	{"value":"olives"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001447",
+	"dct:identifier":"FI2016001447",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

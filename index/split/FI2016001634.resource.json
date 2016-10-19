@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v20n2p143.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of different DNA extraction methods from hair root follicles to genotype Finnish Landrace boars with the Illumina PorcineSNP60 BeadChip.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sironen, Anu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uimari, Pekka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vilkki, Johanna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maatiaisrodut"},
+	{"value":"geenikartoitus"},
+	{"value":"sekvenssianalyysi"},
+	{"value":"Finland"},
+	{"value":"land races"},
+	{"value":"DNA"},
+	{"value":"genotypes"},
+	{"value":"genotyyppi"},
+	{"value":"swine"},
+	{"value":"molekyylibiologia"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001634",
+	"dct:identifier":"FI2016001634",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

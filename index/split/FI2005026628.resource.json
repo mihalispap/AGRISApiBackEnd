@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Detection of genetic variation and Fusarium resistance in turfgrass genotypes using PCR-based markers (ISSR and SCAR)"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026628",
+	"dct:identifier":"FI2005026628",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/e2.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Humaid, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Motawei, M.I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdalla, M.Y. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mana, F. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Polymorphisms of seven turfgrass genotypes (bermudagrass hybrids “Tifdwarf, Tifway and Tifgreen”, local bermudagrass, common bermudagrass, Paspalum and Saint-Augustin grass) were determined by inter-simple sequence repeat (ISSR). Four primers were used to detect genetic variation among turfgrass genotypes. Based on the UPGMA-cluster analysis of 42 bands, the genotypes were separated into five distinct groups comprising: (i) the bermudagrass hybrids (Tifdwarf, Tifway, and Tifgreen), (ii) common bermudagrass, (iii) paspalum grass, (iv) Saint-Augustin grass and (v) local bermudagrass. Resistance to Fusarium graminearum in the seven turfgrass genotypes was investigated. Also, RAPD and specific-PCR assays were performed on DNA extracts of rhizome of turfgrass genotypes for detection of the fungus F. graminearum. The local bermudagrass cultivar was the most susceptible genotype to infection with F. graminearum, whereas the hybrid bermudagrass (Tifdwarf) was the most resistant genotype. Amplification of SCAR-85 revealed the presence of F. graminearum in all infected turfgrass genotypes except the hybrid bermudagrass (Tifdwarf) which was highly resistant to infection. RAPD analysis using UBC-85 primer did not detect F. graminearumin the hybrid bermudagrass (Tifdwarf) and paspalum genotypes. PCR assays represent valuable, versatile new tools for studying genetic variation of turfgrass genotypes and their resistance to F. graminearum."}
+	}}

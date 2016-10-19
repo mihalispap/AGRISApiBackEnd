@@ -1,0 +1,78 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Video conferencing for organising research- extension - farmer interface programmes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":31,
+	"dc:subject":[
+		{"value":"INTERACTION"},
+	{"value":"technology",
+	"xml:lang":"eng"
+	},
+	{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"cientificos",
+	"xml:lang":"esp"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"scientists",
+	"xml:lang":"eng"
+	},
+	{"value":"scientifique",
+	"xml:lang":"fre"
+	},
+	{"value":"tecnologia",
+	"xml:lang":"esp"
+	},
+	{"value":"technologie",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":"lvi",
+	"bibo:pageEnd":33,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000693",
+	"dct:identifier":"IN2015000693",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"nov2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Thamban, C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Muralidharan, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ravikumar, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amarnath, C.H."
+	}
+	}
+	],
+	"bibo:issue":7
+	}}

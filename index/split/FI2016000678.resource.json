@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth and phenology of hybrid aspen clones (Populus tremula L. x Populus tremuloides Michx.).",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Yu, Qibin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tigerstedt, P. M. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haapanen, Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hybrids"},
+	{"value":"Populus"},
+	{"value":"hybridihaapa"},
+	{"value":"kloonit"},
+	{"value":"Populus tremula x tremuloides"},
+	{"value":"phenology"},
+	{"value":"growth rate"},
+	{"value":"kasvunopeus"},
+	{"value":"fenologia"},
+	{"value":"growth"},
+	{"value":"kasvumallit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000678",
+	"dct:identifier":"FI2016000678",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

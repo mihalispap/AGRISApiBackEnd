@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Garole inheritance on strongyle infection in sheep managed under semi-arid conditions of Rajasthan",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":188,
+	"dc:subject":[
+		{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"semiarid zones",
+	"xml:lang":"eng"
+	},
+	{"value":"zona semiarida",
+	"xml:lang":"esp"
+	},
+	{"value":"zone semi-aride",
+	"xml:lang":"fre"
+	},
+	{"value":"strongylidae",
+	"xml:lang":"esp"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":17,
+	"bibo:pageEnd":194,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000199",
+	"dct:identifier":"IN2015000199",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Swarnkar, C.P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paswan, C."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Parasitic gastroenteritis (PGE), dominated by haemonchosis is one of the major constraints to profitable sheep production and sole reliance on chemotherapeutic measures for its control resulted in additional problem of anthelmintic resistance. Among alternate approaches, exploitation of genetic control of PGE is subject of recent interest and in this direction a study was conducted to observe the effect of Garole inheritance and / or Fec B gene on strongyle infection through assessing the incidence and intensity profile under natural challenge in Garole (100% Garole inheritance and ∼ 98% Fec B carrier), crosses of Garole and Malpura (50â75% Garole inheritance and ∼ 55% Fec B carrier) and Malpura sheep (no Garole inheritance and 100% Fec B non-carrier) at Central Sheep and Wool Research Institute, Avikanagar in semi-arid Rajasthan. Intensity and intensity profile exhibited minimum tune of infection in Garole followed by Garole X Malpura and maximum in Malpura sheep throughout the year. There was non-significant variation in intensity of strongyle infection for each month among all the 3 different Fec B genotypes. However, it remained relatively at the lowest in Fec B homozygous sheep followed by Fec B heterozygous carrier and highest in Fec B non-carrier sheep. The findings revealed that Garole inheritance provides resistance against gastrointestinal nematodes to some extent, however, Fec B gene in Garole was not associated with intensity of infection.",
+	"xml:lang":"eng"
+	}
+	}}

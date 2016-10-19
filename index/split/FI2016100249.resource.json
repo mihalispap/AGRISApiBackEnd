@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/f12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Selection of optimum extrusion technology parameters in the manufacture of edible/ biodegradable packaging films derived from food-based polymers"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Liu, Li (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kerry, John F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kerry, Joseph P. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100249",
+	"dct:identifier":"FI2016100249",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The objective of this study was to assess food polymers for their ability to form edible films using extrusion technologies. Screening of a variety of food ingredients identified pectin, pea starch and gelatine/sodium alginate blends (1:4) as potential materials for formation of stable films. Extrusion temperature, powder feeding speed, glycerol concentration and screw speed were the parameters investigated during this study. Each parameter was assessed using 4 different levels. For pectin films, temperature level 2 (extruder zone 3 (125°C) and zone 4 (110°C)), feeder speed (18.49 g/min), glycerol concentration (50%) and screw speed (225 rpm) were, in general, the optimum parameters required to produce the best film in terms of tensile strength, elongation, puncture resistance, colour, Young’s modulus, tear resistance, turbidity and thickness. For pea starch films, temperature, level 3 (extruder zone 3 (135°C) and zone 4 (120°C)), feeder speed (52.26 g/min), glycerol concentration (70%) and screw speed (150 rpm) was the optimal combination of parameters required to produce the best pea starch film, in terms of tensile strength, Young’s modulus, elongation, puncture resistance, tear resistance and turbidity. However, the thickness of pea starch films produced under this combination of extrusion parameters had high thickness values. Test films using gelatine/sodium alginate blends and settings of temperature level 3 (zone 3 (135°C) and zone 4 (120°C)) and glycerol concentration (50% - T3G1) produced the best film in terms of tensile strength, Young’s Modulus, puncture resistance, colour, turbidity and water vapour tranfer rate. In conclusion, the optimal extruded pectin or pea starch films using settings above were physically stronger than other test films. However, pea starch films were less effective than pectin, or gelatine-based films in terms of tensile strength, puncture resistance, WVTR, thickness and turbidity."}
+	}}

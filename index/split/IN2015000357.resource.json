@@ -1,0 +1,73 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Cesarean section in dromedary camels under field conditions in United Arab Emirates",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":79,
+	"dc:subject":[
+		{"value":"dystocie",
+	"xml:lang":"fre"
+	},
+	{"value":"camello",
+	"xml:lang":"esp"
+	},
+	{"value":"torsion uterine",
+	"xml:lang":"fre"
+	},
+	{"value":"distocia",
+	"xml:lang":"esp"
+	},
+	{"value":"torsion uterina",
+	"xml:lang":"esp"
+	},
+	{"value":"dystocia",
+	"xml:lang":"eng"
+	},
+	{"value":"camels",
+	"xml:lang":"eng"
+	},
+	{"value":"caesarean section",
+	"xml:lang":"eng"
+	},
+	{"value":"uterine torsion",
+	"xml:lang":"eng"
+	},
+	{"value":"operacion cesarea",
+	"xml:lang":"esp"
+	},
+	{"value":"chameau",
+	"xml:lang":"fre"
+	},
+	{"value":"cesarienne",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":1,
+	"bibo:pageEnd":88,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000357",
+	"dct:identifier":"IN2015000357",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Camel: An International Journal of Veterinary Sciences (India)"},
+	"bibo:ISSN":{"value":"2321-709X"}
+	}
+	},
+	"dct:issued":"jan2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Anwar, Suhel"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Siddiqui, Mazhar Iqbal"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Purohit, G.N."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"In this study we analyze the causes of dystocia in 17 camels for which cesarean section had to be performed at the farmers doorstep, along with the outcome of such surgeries. Maternal causes of dystocia were common (58.82%) indications for the surgery compared to the fetal causes (41.18%). The maternal causes included uterine torsion (17.64%), cervical dilation failure (11.76%), narrow birth canal (11.76%) due to pelvic fracture or dams immaturity, uterine rupture (5.88%), uterine prolapse (5.88%) and vaginal rupture (5.88%). The fetal causes included uncorrectable fetal malpostures (29.41%), oversized fetus (5.88%) and schistosoma reflexus (5.88%) monster. Only 35.29% of the calves could be delivered alive and the calf viability depended upon the time of referral (6h-10days) after the onset of 2nd stage of labor. The proportion of male and female calves delivered was 58.82 and 41.18% respectively. With sufficient perioperative care the dam survival was high (70.58%) and only 29.41% dams died due to severe blood loss or peritonitis. The common postoperative complications were edema at the operative site, minor wound dehiscence and subsequent herniation. It was concluded that maternal dystocia requires more cesarean sections in camel and with sufficient care and early intervention fetal and dam survival can be high even when the surgery is performed at the farmers doorstep.",
+	"xml:lang":"eng"
+	}
+	}}

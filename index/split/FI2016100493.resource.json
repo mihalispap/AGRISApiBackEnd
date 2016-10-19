@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a20.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro propagation and cryopreservation of Prunus avium using vitrification and encapsulation dehydration methods"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shatnawi, Mohamad A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shibli, Rida (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Qrunfleh, Issam (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bataeineh, Khaled (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Obeidat, Maher (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100493",
+	"dct:identifier":"FI2016100493",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The present study aims to develop a reliable method for in vitro micropropagation and long-term storage of shoot tips in Prunus avium using vitrification and encapsulation dehydration methods. For micropropagation, maximum number of shoots per explant was obtained on Murashige and Skoog (MS) medium supplemented with 1.0 mg/L BA (benzyl amino purine). Several pretreatments prior to cryogenic storage were conducted to enhance shoot tips recovery after cryostorage. Using vitrification method, two different preculture treatments were tested to enhance regrowth after both dehydration and cryopreservation. Further accumulation of sucrose and glycerol was tested. The highest regrowth using this method was (up to 77.8%) when shoot tips were exposed to 60 min PVS2 at 0ºC. Growth recovery of cryopreserved shoot tips using encapsulation dehydration was (up to 76.3%) obtained when encapsulated shoot tips were pregrown for 3 d in liquid medium containing 0.75 M sucrose, desiccated to 20-22% moisture content and immersed in liquid nitrogen. Recovery of whole plantlets from cryopreserved shoot tips took place directly without transitory callus formation. Both methods are promising techniques for in vitro propagation and germplasm preservation of P. avium shoot tips."}
+	}}

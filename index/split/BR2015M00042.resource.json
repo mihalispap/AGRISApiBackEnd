@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2012,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Educação de Jovens e Adultos: estudo exploratório do conceito de insetos",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Amauri Bartoszeck "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Flavio Kulevicz Bartoszeck "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00042",
+	"dct:identifier":"BR2015M00042",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O presente estudo exploratório relata qual o conceito que o termo \"inseto\" possa ter para alunos de Ciências Naturais na educação de jovens e adultos (EJA), levado a efeito em escola urbana na cidade de Curitiba, PR-Brasil. Foram coletados 66 desenhos de alunos na faixa etária média de 34,2 anos (ensino fundamental, Ciências) e 32,37 anos (ensino médio, Biologia) respectivamente. Os instrumentos de coleta de dados foram desenhos, para eliciar o modelo mental via modelo expresso e entrevista semiestruturada. Os desenhos obtidos foram avaliados sob a lente da perspectiva de Luquet (1927/1979) (realismo intelectual) mediante o auxilio de quadro de níveis de complexidade morfológica do inseto criado pelos autores, após análise dos desenhos. Poucos desenhos alcançaram níveis elevados na escala de características de inseto, e alguns alunos identificaram outros organismos como insetos e fizeram representações antropomórficas nos desenhos dos insetos. Na entrevista, 10 alunos selecionados em função do critério de alta, média, baixa habilidades, lembraram espontaneamente 16 insetos de diferentes espécies, mas também 3 organismos de outras classes, bem como  determinadas fontes deste conhecimento, predominando filmes de TV e ao vivo encapsulados na forma de narrativas contribuindo para o modelo mental de insetos e habitats.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

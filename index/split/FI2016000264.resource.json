@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Relationships between wood-inhabiting fungal species richness and habitat variables in old-growth forest stands in the Pallas-Yllästunturi National Park, northern boreal Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ylläsjärvi, Inari.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Berglund, Håkan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kuuluvainen, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"species-area relationship"},
+	{"value":"species"},
+	{"value":"species richness"},
+	{"value":"Finland"},
+	{"value":"polypores"},
+	{"value":"polyporaceae"},
+	{"value":"old-growth forest"},
+	{"value":"Northern Fennoscandinavia"},
+	{"value":"indicators"},
+	{"value":"boreal forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000264",
+	"dct:identifier":"FI2016000264",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

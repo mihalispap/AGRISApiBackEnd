@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Structure and yield models of tropical lowland rainforest ecosystem of Southwest Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029336",
+	"dct:identifier":"FI2007029336",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/e10.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Adekunle, V. A. J. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Akindele, S. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fuwape, J. A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The structure and yield assessment of tropical rainforest ecosystem of southwest Nigeria was carried out. Three reserves (Shasha, Ala and Omo Forest Reserves in Osun, Ondo and Ogun States respectively) were randomly selected in the ecological zone. Systematic cluster sampling techniques was adopted to allocate eight sample plots of size 50 m x 50 m (0.25 ha) in each of the reserves. Detailed measurement of all woody plants with diameter at breast height (dbh) of at least 20 cm was carried out in each of the sample plots. Also, five linear regression equations were generated, assessed and validated for volume prediction in the ecosystem. For diameter distribution ha-1, majority of the trees was in the smallest diameter class (20-20.99 cm). Presently, very few merchantable trees were available in this vegetation. The number of stems encountered per hectare in Shasha, Ala and Omo were 150, 116 and 96. The mean dbh was 38.83 cm for Shasha, 42.56 cm for Ala and 34.70 cm for Omo and the mean heights obtained were 14.11, 18.14 and 17.26 m respectively. For yield values, basal area of 23.41, 22.98 and 12.48 m2 were obtained at Shasha, Ala and Omo forest reserves respectively and their volumes were 181.36, 227 and 91.71 m3. All the models were discovered to have good fit but the best of them is given as V = 24.06Ba-0.94Ba2+0.12Ba3-30 (R= 0.91, R2 = 82%, adjusted R2 =78%). The models are recommended for effective management of the ecosystem."}
+	}}

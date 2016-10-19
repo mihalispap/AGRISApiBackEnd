@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Organic Chromium Supplementation Modulates the Serum Corticosterone Response to Heat Stress in Wistar Albino Rats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":363,
+	"dc:subject":[
+		{"value":"chromium",
+	"xml:lang":"eng"
+	},
+	{"value":"estres termico",
+	"xml:lang":"esp"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"rats",
+	"xml:lang":"eng"
+	},
+	{"value":"chrome",
+	"xml:lang":"fre"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"stress thermique",
+	"xml:lang":"fre"
+	},
+	{"value":"rat",
+	"xml:lang":"fre"
+	},
+	{"value":"heat stress",
+	"xml:lang":"eng"
+	},
+	{"value":"cromo",
+	"xml:lang":"esp"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"rata",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":12,
+	"bibo:pageEnd":371,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000063",
+	"dct:identifier":"IN2015000063",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rajalekshmi, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ravichandran, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sripathy, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chirakkal, H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajendran, D."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The effect of organic chromium supplementation on serum corticosterone levels in rats exposed to heat stress was investigated. The study was conducted in 8-10 week old male Wistar albino rats, which were supplemented with chromium propionate (300 ppb) for 14 days and subjected to heat stress on day 1, 7 and 14. The study groups included an unstressed control (C), stressed control without any supplementation (Negative control, NC) and a stressed group (T) supplemented with organic chromium, in the form of chromium propionate (dosage equivalent to 300 ppb elemental chromium). Chromium supplementation reduced the response to intermittent heat stress, as shown by lower (PÂ¡Ã0.05) serum corticosterone levels in the treated, stressed group as compared to the untreated, stressed negative control group. No significant effect on body weight gain, or feed and water consumption were observed in any groups. Exposure to stress did not increase (PÂ¡Ã0.05) the glucose levels in the chromium supplemented group, whereas the glucose levels in the untreated, stressed negative control group tended to be higher (PÂ¡Ã0.10) as compared to untreated, unstressed control. The study brings out the beneficial effects of supplementation of chromium, reducing the stress response and improving glucose utilization in rats.",
+	"xml:lang":"eng"
+	}
+	}}

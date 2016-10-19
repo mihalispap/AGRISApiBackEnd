@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"OCORRÊNCIA DE TRIATOMINEOS (REDUVIIDAE: TRIATOMINAE) NO ESTADO DO AMAPÁ, BRASIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":144,
+	"bibo:volume":3,
+	"bibo:pageEnd":146,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00049",
+	"dct:identifier":"BR2015N00049",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/611",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Raimundo Nonato Picanço Souto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ricardo Marcelo Ferreira"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Unifap"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"<p class=\"MsoNormal\" style=\"margin-bottom: .0001pt; text-align: justify; line-height: 200%;\"><span style=\"font-size: 12.0pt; line-height: 200%; font-family: \">Os triatomíneos são insetos hematófagos pertencentes à ordem Hemiptera, subordem Heteroptera, família Reduviidae e subfamília Triatominae, conhecidos popularmente como barbeiro, chupança e outras denominações regionais. O interesse epidemiológico pelos triatomineos está relacionado pelo fato desses insetos serem vetores do Trypanosoma cruzi</em>, agente etiológico da doença de Chagas. A investigação foi realizada a partir dos exemplares de triatomíneos contidos na coleção entomológica do IEPA. Essa coleção possui um total de 41 exemplares de triatomíneos, dentre os quais 21 são Rhodnius pictipes</em>, 11 Panstrongylus geniculatus</em>, 01 P. lignarius e 08 Eratyrus mucronatus</em>. As espécies P. lignarius e E. mucronatus representam novos registros para o Estado do Amapá, totalizando 06 espécies de triatomíneos. A identificação taxonômica e a divulgação deste acervo contribuirão para as análises epidemiológicas da Tripanosomíase Americana no Amapá, haja vista, que os casos registrados são atribuídos somente a transmissão oral. Faz-se necessário a realização de estudos mais sistemáticos, o que possibilitará certamente uma amostragem mais representativa de triatomíneos nos mais diversos ecótopos.</span>",
+	"xml:lang":"por"
+	}
+	}}

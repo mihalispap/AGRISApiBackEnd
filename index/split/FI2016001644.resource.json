@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n1p81.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The irrelevance of stated plans in predicting farm successions in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Väre, Minna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pietola, Kyösti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Weiss, Christoph.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"eläkkeelle siirtyminen"},
+	{"value":"farmers"},
+	{"value":"suunnitelmat"},
+	{"value":"ownership"},
+	{"value":"maanviljelijät"},
+	{"value":"toteutus"},
+	{"value":"sukupolvenvaihdos"},
+	{"value":"farms"},
+	{"value":"optimization methods"},
+	{"value":"maatilat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001644",
+	"dct:identifier":"FI2016001644",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

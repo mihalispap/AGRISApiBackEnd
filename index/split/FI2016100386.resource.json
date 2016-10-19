@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a22.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of pumpkin (Cucurbita ficifolia L.) to some growth regulators"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ntui, V. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Uyoh, E. A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Enok, L. N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Udensi, O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100386",
+	"dct:identifier":"FI2016100386",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Pumpkin (Cucurbita ficifolia L.) is a climbing or creeping monoecious annual plant grown in Nigeria for its stem, leaves, fruits and seeds, which are rich sources of calcium, potassium and vitamins (niacin). The effects of growth regulator (IAA and BAP) applications [ 0 (distilled water, control), 50, 100 and 150 mg l-1] on the growth characteristics and sex expression in   C. ficifolia were investigated. The research was carried out at the Biological Science Experimental Farm, University of Calabar, Calabar, Nigeria, from May to September, 2006. The experimental design was a 2 x 4 factorial arrangement on a Randomized Complete Block Design. Analysis of variance for the growth characters showed significant (P<0.05) increase in number of leaves, leaf area, internode length, vine length, number of female flowers and number, size and weight of fruits in plants treated with IAA 100 mg l-1. The control took significantly (P<0.05) fewer days to form fruit from flowering. Number of seeds per fruit was highest in IAA 50 mg l-1. IAA was generally more effective in inhibiting male flowers and increasing the number of female flowers than BAP. Applications of growth regulators at higher doses (150 mg l-1 for IAA and 100 and 150 mg l-1 for BAP) showed a decreasing effect in most of the characters studied. It is hoped that this information will prove useful to researchers who wish to improve upon the agronomic characters of C. ficifolia."}
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://elektra.lib.helsinki.fi/se/a/1239-0992/9/3/seedprod.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Seed production characters and germination performance of reed canary grass in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Sahramaa, Mia K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hömmö, Leena.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"germinability"},
+	{"value":"Finland"},
+	{"value":"crop yield"},
+	{"value":"ruokohelpi"},
+	{"value":"varastointi"},
+	{"value":"seed storage"},
+	{"value":"sato"},
+	{"value":"Phalaris arundinacea"},
+	{"value":"siementuotanto"},
+	{"value":"forage"},
+	{"value":"seed production"},
+	{"value":"nurmirehut"},
+	{"value":"itävyys"},
+	{"value":"kuitukasvit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001248",
+	"dct:identifier":"FI2016001248",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

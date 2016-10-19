@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Use of a combined constant rate and diffusion model to simulate kiln-drying of Pinus radiata timber.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Youngman, M. J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kulasiri, G. D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Woodhead, I. M.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Buchan, G. D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"diffuusio"},
+	{"value":"Pinus radiata"},
+	{"value":"simulointi"},
+	{"value":"diffusion"},
+	{"value":"wood seasoning"},
+	{"value":"kuivumisnopeus"},
+	{"value":"simulation"},
+	{"value":"puunkuivaus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001032",
+	"dct:identifier":"FI2016001032",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

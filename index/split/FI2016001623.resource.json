@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Smältbarhet och OE-värden för soja- och rypskross hos mink.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kiiskinen, Tuomo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkelä, Jaakko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"formulations"},
+	{"value":"minks"},
+	{"value":"rehut"},
+	{"value":"animal feeding"},
+	{"value":"ruokinta"},
+	{"value":"energy value"},
+	{"value":"protein concentrates"},
+	{"value":"valkuaisrehut"},
+	{"value":"plant protein"},
+	{"value":"sulavuus"},
+	{"value":"soija"},
+	{"value":"furbearing animals"},
+	{"value":"oil mill byproducts"},
+	{"value":"digestibility"},
+	{"value":"soybean products"},
+	{"value":"minkki"},
+	{"value":"rypsi"},
+	{"value":"turkiseläimet"},
+	{"value":"puristeet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001623",
+	"dct:identifier":"FI2016001623",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

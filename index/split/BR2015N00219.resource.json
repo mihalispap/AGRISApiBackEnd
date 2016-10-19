@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"AVALIAÇÃO DA QUALIDADE DA ÁGUA DO ALTO RIO PEDREIRA, MACAPÁ, AMAPÁ",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":107,
+	"bibo:volume":5,
+	"bibo:pageEnd":118,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00219",
+	"dct:identifier":"BR2015N00219",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/1612",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Naziel Santos Souza"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Júlio César Sá-Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Erineide Silva Silva"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Amapá, Brasil"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"O objetivo do presente estudo foi avaliar a qualidade da água do alto Rio Pedreira, de modo a gerar informações que possam atuar como subsidio na preservação desse recurso aquático. O ponto de amostragem está situado no perímetro do Km 106, da BR 156, nos limites do Município de Porto Grande e Ferreira Gomes. Os parâmetros analisados foram: Temperatura da água, Potencial Hidrogeniônico (pH), Transparência, Turbidez, Condutividade Elétrica, Nitratos, Amônia, Fósforo Total, Ferro Total, Oxigênio Dissolvido (OD), Sólidos Totais, Ortofosfato, Demanda Bioquímica do Oxigênio (DBO5), Cor e Coliformes fecais. Na determinação do IQA, utilizou-se o índice NSF (National Sanitation Foudantion - NSF) com o auxílio do Software IQAData 2010 (Registro no INPI n° 10670-2). Como resultados, o presente estudo classificou a maioria dos parâmetros com padrões para a Classe 1 da Resolução CONAMA 357/05. A exceção é o oxigênio dissolvido e o ferro, classificados com padrões para classe 3. O índice de qualidade NSF enquadrou a água na montante do rio Pedreira como sendo de boa qualidade na estação seca. No período chuvoso, foi classificada como média. Sazonalmente, o IQA do rio Pedreira mostrou diferenças significativas entre os períodos seco e chuvoso (t = 35,65; p = <0,0001). Dos resultados obtidos, conclui-se que: o rio encontra-se estável; a preservação da mata ciliar, clima, vegetação e características geológicas, formam um grupo de fatores que contribuem na harmonia da área estudada. A baixa concentração de OD atuou como fator determinante para os índices de qualidade obtidos nos dois períodos. monitoramento, corpos hídricos, Amazônia, Amapá.",
+	"xml:lang":"por"
+	}
+	}}

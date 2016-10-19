@@ -1,0 +1,41 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"BIOLOGIA REPRODUTIVA DE AGULHA-PRETA, HEMIRAMPHUS BRASILIENSIS (LINNAEUS, 1758) (OSTEICHTHYES: HEMIRAMPHIDAE) DAS ÁGUAS COSTEIRAS DO RIO GRANDE DO NORTE, BRASIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":44,
+	"bibo:volume":2,
+	"bibo:pageEnd":53,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00037",
+	"dct:identifier":"BR2015N00037",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/483",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Isabelle Maria Bezerra de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mônica Rocha de Oliveira"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maria Emília Yamamoto"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sathyabama Chellappa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Rio Grande do Norte"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Agulha-preta, Hemiramphus brasiliensis (Linnaeus, 1758) (Osteichthyes: Hemiramphidae) é um peixe marinho pelágico encontrado nas águas costeiras do Rio Grande do Norte que contribui para a produção pesqueira do Estado. O presente trabalho determinou a biologia reprodutiva de H. brasiliensis nas águas costeiras de Caiçara do Norte, RN. Os peixes foram capturados mensalmente durante o período de um ano. Os exemplares foram medidos, pesados, dissecados e as gônadas foram pesadas e examinadas para identificar o sexo e avaliar o estádio de maturação gonadal. A proporção sexual, o comprimento médio da primeira maturação, a caracterização macroscópica e microscópica do desenvolvimento das gônadas, a fecundidade, o tipo de desova e o período reprodutivo foram determinados. O índice gonadossomatico (IGS) foi verificado para ambos os sexos. Os dados de pluviosidade foram obtidos para a região estudada. Os resultados indicam que a proporção sexual foi 1M:1,1F e o comprimento médio da primeira maturação (L50) das fêmeas foi 20cm e dos machos foi 28cm. A fecundidade média foi 3100 ovócitos maduros. Os estudos macroscópicos das gônadas indicaram que ambos os sexos apresentaram quatro estádios de desenvolvimento gonadal, sendo imaturo, em maturação, maduro e esvaziado. IGS mostrou dois picos reprodutivos para H. brasiliensis, primeiro entre janeiro a março e segundo entre maio a julho, indicando atividade reprodutiva bimodal. Ambos os picos coincidiram com o período chuvoso da região. O maior número de peixe-agulha foi capturado comercialmente durante sua época reprodutiva.",
+	"xml:lang":"por"
+	}
+	}}

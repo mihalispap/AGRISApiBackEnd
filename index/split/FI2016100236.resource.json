@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of UV-B irradiation on phenolic compound accumulation and antioxidant activity in ‘Jonathan’ apple influenced by bagging, temperature and maturation"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bakhshi, Davood (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arakawa, Osamu (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100236",
+	"dct:identifier":"FI2016100236",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effects of UV-B and white light irradiation on phenolic accumulation in apple (Malus domestica Borkh cv. Jonathan) was investigated in the skin of bagged and non-bagged fruits harvested at mature and ripe stages, 132 and 156 days after full bloom (DAFB) and irradiated at 10, 17, 24 and 30°C for 96 hours. Mature and ripe fruits synthesized the most cyanidin 3-galactoside, quercetin 3-galactoside and epicatechin at 17°C and 24°C, respectively. The total oxyradical scavenging capacity (TOSC) showed a positive relationship with flavonoid content; and antioxidant capacity of mature and ripe fruits was also at its highest at 17°C and 24°C, respectively. There was a strong relationship between total phenolic content and antioxidant activity; and cyanidin 3-galactoside, quercetin 3-galactoside and epicatechin were the strongest antioxidants among skin phenolics."}
+	}}

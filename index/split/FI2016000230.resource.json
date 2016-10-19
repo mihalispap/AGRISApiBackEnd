@@ -1,0 +1,104 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1107",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tullus, Arvo,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sellin, Arne,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kupper, Priit,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lutter, Reimo,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pärn, Linnar,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jasińska, Anna K,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alber, Meeli,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kukk, Maarja,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tullus, Tea,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tullus, Hardi,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lõ̃hmus, Krista,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sõber, Anu,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Increasing air humidity - a climate trend predicted for northern latitudes - alters the chemical composition of stemwood in silver birch and hybrid aspen.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"Betula"},
+	{"value":"atmospheric humidity"},
+	{"value":"makroravinteet"},
+	{"value":"wood"},
+	{"value":"Populus"},
+	{"value":"climatic change"},
+	{"value":"characteristics"},
+	{"value":"ominaisuudet"},
+	{"value":"ilmakehä"},
+	{"value":"macronutrients"},
+	{"value":"structural carbohydrates"},
+	{"value":"ilmastonmuutokset"},
+	{"value":"ilmankosteus"},
+	{"value":"puu"}
+	],
+	"bibo:doi":"10.14214/sf.1107",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000230",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000230",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

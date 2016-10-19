@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessment of nitrogen utilization from urea applied in rubber seedling nursery using  15 N tracer technique",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":191,
+	"dc:subject":[
+		{"value":"nitrogen uptake,N labeled urea, N utilization,rubber seedlings"},
+	{"value":"uree",
+	"xml:lang":"fre"
+	},
+	{"value":"caoutchouc",
+	"xml:lang":"fre"
+	},
+	{"value":"urea",
+	"xml:lang":"esp"
+	},
+	{"value":"caucho",
+	"xml:lang":"esp"
+	},
+	{"value":"rubber",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":41,
+	"bibo:pageEnd":195,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000636",
+	"dct:identifier":"IN2015000636",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Prasannakumari, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jessy, M.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sherin George."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sankar Meti"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Nitrogen uptake from urea applied to rubber seedlings in the nursery was evaluated using  15 N tracer methodology, in micro-plots established in the field. Effect of varying rates of N on growth, and the relative contribution of soil N and fertilizer N towards total N uptake were studied. Influence of rate of N application on growth of seedlings was observed up to three months, and after six months, growth of plants was comparable for all the four N levels. The efficiency of N absorption by the plant, expressed as percentage N utilization ranged from 13.62 per cent at 125 kg N ha-1 to 5.84 percent at 500 kg N ha-1. The  15N balance sheet averaged over the four levels of N shows that about 9.27 per cent of applied N was taken up by rubber seedlings, about 8.78 per cent remained in 0-60 cm depth of soil and about 81.95 per cent was unaccounted N.",
+	"xml:lang":"eng"
+	}
+	}}

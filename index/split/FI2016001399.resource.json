@@ -1,0 +1,59 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Establishment and height development of harvested and naturally regenerated Scots pine near the timberline in North-East Finnish Lapland /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hallikainen, Ville.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyppönen, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyvönen, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Niemelä, Juhani.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"seed trees"},
+	{"value":"density"},
+	{"value":"luontainen uudistaminen"},
+	{"value":"pituuskasvu"},
+	{"value":"natural regeneration"},
+	{"value":"emergence"},
+	{"value":"tiheys"},
+	{"value":"metsänraja"},
+	{"value":"siemenpuumenetelmä"},
+	{"value":"height development model"},
+	{"value":"seedlings"},
+	{"value":"models"},
+	{"value":"mänty"},
+	{"value":"height"},
+	{"value":"density model"},
+	{"value":"mallit"},
+	{"value":"seed-tree method"},
+	{"value":"Pinus sylvestris"},
+	{"value":"taimettuminen"},
+	{"value":"taimikot"},
+	{"value":"timberline"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001399",
+	"dct:identifier":"FI2016001399",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

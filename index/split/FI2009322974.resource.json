@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Descriptive analysis on the morphology, growth and branching patterns of Princess-flower (Tibouchina urvilleana Cogn.) in Peninsular Malaysia"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009322974",
+	"dct:identifier":"FI2009322974",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/e2.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Faravani, Mahdi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bakar, Baki Haji (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Princess-flower (Tibouchina urvilleana Cogn.) from the family Melastomaceae is a true indigene of Brazil. The plant with attractive purple flowers is a widely cultivated ornamental in the tropics, including Malaysia. We found the plants escaping into the wild in Genting Highlands, Peninsular Malaysia. This shrub or small ornamental tree ranges from 1 to 4.5 m in height, with young quadrate branches. General growth and branching patterns of princess-flower were studied. The ultra-morphological characterization of the leaf and stem was carried out using light and scanning electronic microscope (SEM). Plants of T. urvilleana growing singly in pots in the absence of neighbors develop a symmetric crown. The vector arrow projecting from the centre of the distribution of branches represents the mean angles of 140.5o. Most branches are concentrated in opposite direction and away from each other with mean angles of 135o and 315o in a clockwise manner with respect to the mother plant. The relation between days after planting as independent variable with dependent variables are represented by CurveExpert and SPSS examined every possible regression model for the data and selected the best one of regression models such as 3rd degree polynomial, logistic, sinusoidal fit, Gompertz relation and vapor pressure. The relation between plant height and days after planting is represented by a simple linear regression model, y=8.522+0.301x with R2 =0.97."}
+	}}

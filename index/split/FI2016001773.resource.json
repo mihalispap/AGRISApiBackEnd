@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"fin",
+	"dct:title":{"value":"Maankäytön, väestön, elinkeinojen sekä ilmaston vaikutus hydrologiaan Uudellamaalla 1700-luvulta nykyaikaan = Impact of land use, settlement, industry and climate on the hydrology of Uusimaa from the 18th century to the present.",
+	"xml:lang":"fin"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Solantie, Reijo.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"land clearing"},
+	{"value":"maatalous"},
+	{"value":"maankäyttö"},
+	{"value":"väestö"},
+	{"value":"historia"},
+	{"value":"hydrologia"},
+	{"value":"pellonraivaus"},
+	{"value":"temperature"},
+	{"value":"lämpötila"},
+	{"value":"climate"},
+	{"value":"hydrology"},
+	{"value":"population density"},
+	{"value":"Finland"},
+	{"value":"agriculture"},
+	{"value":"kaskiviljely"},
+	{"value":"maanviljely"},
+	{"value":"water balance"},
+	{"value":"history"},
+	{"value":"maataloushistoria"},
+	{"value":"vesitase"},
+	{"value":"cultivated land"},
+	{"value":"ilmasto"},
+	{"value":"peltoviljely"},
+	{"value":"land use"},
+	{"value":"shifting cultivation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001773",
+	"dct:identifier":"FI2016001773",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

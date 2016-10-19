@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Logging operation damage to roots of clear-felled Picea abies and subsequent spore infection by Heterobasidion annosum.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Rönnberg, Jonas.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"root rots"},
+	{"value":"kuusi"},
+	{"value":"roots"},
+	{"value":"damage"},
+	{"value":"logging"},
+	{"value":"juuristovauriot"},
+	{"value":"Heterobasidion annosum"},
+	{"value":"clear felling"},
+	{"value":"infection"},
+	{"value":"avohakkuut"},
+	{"value":"Picea abies"},
+	{"value":"juurikääpä"},
+	{"value":"stumps"},
+	{"value":"kuusentyvilaho"},
+	{"value":"Sweden"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002008",
+	"dct:identifier":"FI2016002008",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

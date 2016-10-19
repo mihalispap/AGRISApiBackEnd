@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Influence of sewage sludge on maize yield and quality and soil chemical characteristics.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ailincai, Costica.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jitareanu, Gerard.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bucur, Daniel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ailincai, Despina.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"sewage sludge"},
+	{"value":"Zea mays"},
+	{"value":"nutrient uptake"},
+	{"value":"crop yield"},
+	{"value":"heavy metals"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002185",
+	"dct:identifier":"FI2016002185",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

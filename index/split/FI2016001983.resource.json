@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Assessing the integrated climatic impacts of forestry and wood products.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pingoud, Kim.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pohjola, Johanna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valsta, Lauri.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"harvested wood products"},
+	{"value":"kuluttajakäyttäytyminen"},
+	{"value":"silviculture"},
+	{"value":"wood products"},
+	{"value":"emissions"},
+	{"value":"climatic change"},
+	{"value":"consumption"},
+	{"value":"displacement of fossil carbon emissions"},
+	{"value":"energy and material substitution"},
+	{"value":"forest management"},
+	{"value":"silvicultural guidelines"},
+	{"value":"päästöt"},
+	{"value":"talousmetsät"},
+	{"value":"hiilinielut"},
+	{"value":"managed forests"},
+	{"value":"carbon stocks"},
+	{"value":"metsänhoito"},
+	{"value":"carbon cycle"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001983",
+	"dct:identifier":"FI2016001983",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

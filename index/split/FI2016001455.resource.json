@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effectiveness of reuterin alone and in combination with nisin or other food contact surfaces sanitizers and cleaners for disinfection of stainless steel surfaces contaminated with Escherichia coli and Listeria innocua.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    El-Ziney, M. G.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jakobsen, M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"foods"},
+	{"value":"biological contamination"},
+	{"value":"disinfection"},
+	{"value":"surfactants"},
+	{"value":"nisin"},
+	{"value":"disinfectants"},
+	{"value":"food hygiene"},
+	{"value":"steel"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001455",
+	"dct:identifier":"FI2016001455",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

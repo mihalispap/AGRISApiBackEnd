@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f3.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Biochemical characterisation of some Tunisian virgin olive oils obtained from different cultivars growing in Sfax National Collection"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Issaoui, Manel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dabbou, Samia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Echbili, Adel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rjiba, Imed (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gazzah, Noureddine (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Trigui, Ahmad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Hammami, Mohamed (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100402",
+	"dct:identifier":"FI2016100402",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The Tunisian patrimonial is very rich in olive cultivars (56 different varieties). However, despite this richness only two varieties are omnipresent in  arable land: Chemlali located chiefly in the south and Chétoui which dominated the north. The other varieties known by the second cultivars are losing their origin location and are forgotten both by farmers and scientists. For that reason our study was focused on other second Tunisian cultivars in order to ameliorate the productivity and to guarantee a best quality of the oil. Several qualitative parameters were evaluated (free acidity, peroxide value and UV spectrophotometric indices) and analysis of major (fatty acids and triglycerol compositions) and minor components (tocopherols, bitter index, phenolic and o-diphenolic compounds) and oxidative stability measured by Rancimat were also determined in EVOO obtained from fourteen autochthonous Tunisian varieties cultivated in the same pedoclimatic conditions. Only Zarrazi Zarzis and Jeddaria Chaal had the highest level of oleic acid (71.28 and 72.70% respectively) and elevated content of triolein (36.54 and 39.89% respectively). However, Zarrazi Zarzis had the lowest tocopherol concentration of about 91.14 ppm and a modest amount of polyphenols, while the cultivar Chétoui2 had the highest polyphenol content of 395 ppm and showed a lower oleic/linoleic ratio (4.05). Large variations were observed between all cultivars, despite that varieties are planted in the same pedoclimatic conditions. Hence, the data set from chemical composition showed considerable variability in oil composition because of the effect of cultivar. We concluded that biochemical characterisation of mono-varietal oils varied widely and were variety dependent."}
+	}}

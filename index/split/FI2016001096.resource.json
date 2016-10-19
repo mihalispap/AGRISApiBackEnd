@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Forage legumes for soil productivity enhancement and quality fodder production /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Odunze, A. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tarawali, S. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Haan, N. C. de.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akoueguon, E.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Amadji, A. F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schultze-Kraft, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bawa, G. S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"rehut"},
+	{"value":"viljavuus"},
+	{"value":"land productivity"},
+	{"value":"laatu"},
+	{"value":"Niger"},
+	{"value":"feed legumes"},
+	{"value":"nutrients"},
+	{"value":"palkokasvit"},
+	{"value":"maaperä"},
+	{"value":"intercropping"},
+	{"value":"rehukasvit"},
+	{"value":"seosviljely"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001096",
+	"dct:identifier":"FI2016001096",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

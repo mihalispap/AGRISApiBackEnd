@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Laboratory investigations on the biology of mealy bug, Phenacoccus solenopsis tinsley on BT Cotton",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"phenacoccus",
+	"xml:lang":"esp"
+	},
+	{"value":"cotton",
+	"xml:lang":"eng"
+	},
+	{"value":"pest insects",
+	"xml:lang":"eng"
+	},
+	{"value":"insectos daninos",
+	"xml:lang":"esp"
+	},
+	{"value":"algodon",
+	"xml:lang":"esp"
+	},
+	{"value":"insecte nuisible",
+	"xml:lang":"fre"
+	},
+	{"value":"coton",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:pageStart":259,
+	"bibo:volume":76,
+	"bibo:pageEnd":261,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000914",
+	"dct:identifier":"IN2015000914",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sengani S.H."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vekaria M.V."
+	}
+	}
+	],
+	"bibo:issue":3
+	}}

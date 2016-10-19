@@ -1,0 +1,31 @@
+{"resource": {
+	"dct:title":{"value":"SCARABAEIDAE PRAGAS EM SUCESSÃO DE SOJA E ALGODÃO EM CAMPO NOVO DOS PARECIS, MT",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":38,
+	"bibo:volume":1,
+	"bibo:pageEnd":43,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016H00032",
+	"dct:identifier":"BR2016H00032",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19758"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Revista de Agricultura Neotropical"}
+	}
+	},
+	"dct:issued":"2015-07-12",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://periodicosonline.uems.br/index.php/agrineo/article/view/220",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sérgio Roberto Rodrigues"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alex Furquim Pereira"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"O Estado de Mato Grosso possui as maiores áreas cultivadas com soja e algodão e face às extensas áreas cultivadas várias são as espécies de pragas que ocorrem, incluindo os coleópteros fitófagos da família Scarabaeidae. Assim, foram desenvolvidos ...",
+	"xml:lang":"por"
+	}
+	}}

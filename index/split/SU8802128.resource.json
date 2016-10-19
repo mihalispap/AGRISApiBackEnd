@@ -1,0 +1,22 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-17.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Mineral nutrition of tomato"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sainju, Upendra M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dris, Ramdane (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Bharat (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/SU8802128",
+	"dct:identifier":"SU8802128",
+	"dct:type":"Other",
+	"bibo:abstract":{"value":"Tomato is one of the popular vegetable consumed by most people and enriched in nutrients and taste. The amount and type of nutrients supplied to tomato can influence not only its yield but also its nutrient content, taste, and post-harvest storage quality. While some nutrients, such as N, P, K, Ca, Mg, and S, are needed in large amounts by tomato for normal growth and reproduction, others, such as Fe, Cu, Zn, Mn, B, Mo, and Cl, are needed in small amounts. As a result, tomatoes are regularly fertilized with N, P, and K and occasionally with Ca and Mg from liming to adjust soil pH. Other nutrients are not normally applied unless deficiency in plants occurs. For tomatoes grown in the greenhouse, the growth media other than soil is fortified with all nutrients. Excess level of nutrients that are more than needed by plants can reduce tomato yield, increase fertilizer-use inefficiency and cost of fertilization, and degrade environmental quality. Therefore, periodic analysis of soil and plant samples should be conducted to determine the proper rate of fertilization that will reduce the cost of fertilization and environmental degradation without significantly altering tomato yield."}
+	}}

@@ -1,0 +1,70 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Identification of arthritis in swine through thermographic image",
+	"xml:lang":"eng"
+	},
+	{"value":"   Identificação de artrite em suíno utilizando imagem termográfica ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"infrared spectrophotometry",
+	"xml:lang":"eng"
+	},
+	{"value":"arthritis",
+	"xml:lang":"eng"
+	},
+	{"value":"lesions",
+	"xml:lang":"eng"
+	},
+	{"value":"thermography",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"71/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01643",
+	"dct:identifier":"BR2015F01643",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1396561314.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"GRACIANO,  Daniela E."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NÄÄS, Irenilza A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"GARCIA,  Rodrigo G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CALDARA,  Fabiana R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"SANTANA, Mayara R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"NASCIMENTO, Guilherme R."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":": In intensive pig production systems one of the most prevalent disorders are arthritis, causing pain to animals and it may affect their performance and welfare. Thus, the early diagnosis becomes important to allow appropriate treatment to animals as soon as possible. The aim of this case study was to evaluate the efficiency of use of thermographic images for identifying arthritis or inflammatory processes in pigs. Five pigs were selected as they were suspected to present arthritis in the rear limbs. The surface temperature (ST) was recorded by average of thermographic images using the thermal visor from Testo®. There were calculated the averages of 10 points on the ST of each rear limb of the pigs and compared afterwards using t-Student test with reliability of 95% in order to verify if there were difference between the ST in sound rear limb and the limb presenting edema. The mean ST values were lower (P≤0.05) in the sound limb (33.6°C) than those relating to the limb with edema (35.6°C), slowing the use of thermographic images can turn possible the identification of inflammatory processes in subclinical stage in swine.",
+	"xml:lang":"eng"
+	},
+	{"value":"Nos sistemas intensivos de produção de suíno uma das afecções mais prevalentes são as artrites, que causam dor aos animais podendo afetar seu desempenho e bem-estar. Deste modo, o diagnóstico precoce torna-se importante para que se dispense aos animais tratamento adequado em tempo hábil. Objetivou-se com este estudo de caso, avaliar a eficiência do uso das imagens termográficas para identificação de artrite, ou de lesões em suínos. Foram utilizados cinco animais com suspeita de artrite nos membros posteriores. A temperatura superficial (TS) dos membros posteriores foi registrada por meio de imagens termográficas utilizando o termovisor da Testo®. Foram calculadas as médias de 10 pontos da TS de cada membro posterior dos suínos, sendo posteriormente comparadas utilizando o teste t-Student, com confiabilidade de 95%. Os valores médios de TS foram menores (P≤0,05) no membro sadio (33,6°C), do que naquele com artrite (35,6°C) evidenciando que, por meio de imagens termográficas, é possível a identificação de processos inflamatórios em suínos.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The effects of site and stand factors on the tree and wood quality of Sitka spruce growing in the United Kingdom.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Moore, John R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lyon, Andrew J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Searles, Gregory J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Vihermaa, Leena E.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"timber properties"},
+	{"value":"ominaisuudet"},
+	{"value":"acoustics"},
+	{"value":"wood stiffness"},
+	{"value":"laatu"},
+	{"value":"Picea sitchensis"},
+	{"value":"wood properties"},
+	{"value":"wood quality"},
+	{"value":"kasvupaikkatekijät"},
+	{"value":"stand characteristics"},
+	{"value":"puusto"},
+	{"value":"site factors"},
+	{"value":"quality"},
+	{"value":"sitkankuusi"},
+	{"value":"puu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001879",
+	"dct:identifier":"FI2016001879",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

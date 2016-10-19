@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Isolation of baking yeast from naturally fermented pineapple"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025525",
+	"dct:identifier":"FI2005025525",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f21.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Olorunfemi, O. B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Adetuyi, F.C. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Two different yeasts suspected to be Saccharomyces were isolated from naturally fermented pineapple (Ananas comosus). The two isolates were grown on formulated media broth containing yeast extract, corn steep liquor and sugar to increase number of the cells. The cells were harvested by centrifugation and used to leaven wheat flour dough before they were baked. When the bread produced were analysed, isolate C possess a considerable leavening ability which can be developed to baking yeast."}
+	}}

@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of Iranian native apple cultivars and genotypes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Damyar, Sima.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hassani, Darab.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dastjerdi, Raana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hajnajari, Hassan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zeinanloo, Ali A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fallahi, Esmaeil.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"genetic phenomena"},
+	{"value":"Iran Islamic Republic"},
+	{"value":"genetic resources"},
+	{"value":"Malus"},
+	{"value":"genotypes"},
+	{"value":"apples"},
+	{"value":"land varieties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001169",
+	"dct:identifier":"FI2016001169",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

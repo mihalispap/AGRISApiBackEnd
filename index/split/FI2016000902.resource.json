@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Mycorrhization of micropropagated mature wild cherry (Prunus avium L.) and common ash (Fraxinus excelsior L.) /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Lovato, Paulo E..
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hammatt, Neil.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gianinazzi-Pearson, Vivienne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gianinazzi, Silvio.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mikrolisäys"},
+	{"value":"pensaat"},
+	{"value":"imeläkirsikka"},
+	{"value":"mykorritsasienet"},
+	{"value":"Prunus avium"},
+	{"value":"Glomus"},
+	{"value":"fertilizer application"},
+	{"value":"growing media"},
+	{"value":"vesicular arbuscular mycorrhizae"},
+	{"value":"Fraxinus excelsior"},
+	{"value":"peat"},
+	{"value":"glomus"},
+	{"value":"prunus avium"},
+	{"value":"arbuskelimykorritsasienet"},
+	{"value":"saarni"},
+	{"value":"turve"},
+	{"value":"micropropagation"},
+	{"value":"lannoitus"},
+	{"value":"puut"},
+	{"value":"pot experimentation"},
+	{"value":"fraxinus"},
+	{"value":"ornamental woody plants"},
+	{"value":"kasvualustat"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000902",
+	"dct:identifier":"FI2016000902",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

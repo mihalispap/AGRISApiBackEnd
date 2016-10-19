@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-9.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of pre-cultivation on sugar metabolic kinetics of suspension plant cells measured by mid-infrared spectroscopy"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hashimoto, Atsushi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yamanaka, Atsushi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kanou, Mikihito (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nahar, Faizun (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kameoka, Takaharu (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100326",
+	"dct:identifier":"FI2016100326",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In order to study the sugar metabolic kinetics of suspension plant (Nicotiana tabacum cv. Bright Yellow No.2: TBY-2) cells by focusing our attention on sugars in the pre-cultivation media, a simple, rapid and accurate method for analyzing the sugar metabolic kinetics was developed by applying a mid-infrared spectroscopic method using a Fourier transform infrared spectrometer equipped with an attenuate total reflection accessory to the sugar content determination and by introducing a non-dimensional cultivation time denoting for the cell growth behavior in the analysis. Glucose could have almost the same characteristics as sucrose as the carbon source in precultivation, and fructose would play a role different from the other sugars during both pre-cultivation and cultivation. In addition, the time differences in the sugar uptake rates among the sucrose, glucose and fructose pre-cultivation conditions would mainly depend on the lag time from the start of the cultivation to the sugar consumption by the suspension cells."}
+	}}

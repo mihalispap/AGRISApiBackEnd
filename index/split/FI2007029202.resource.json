@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Photosynthetic pigment profile of Cordia myxa L. and its potential in folklore medicinal application"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029202",
+	"dct:identifier":"FI2007029202",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Afzal, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Obuekwe, C. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Barakat, H. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shuaib, N. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Cordia myxa L. was collected locally and extracted into organic and aqueous solvents. Antimicrobial activity of the extracts was tested against bacterial and fungal pathogens. Various photosynthetic pigments were analyzed by spectrophotometric and HPLC assays. Absorption spectra of photosynthetic pigments over a range of 400-750 nm, and the relative amounts of chlorophylls a and b were determined using equations from the literature based on the absorbance data. Specific absorption coefficients were also calculated and used to calculate the molar absorption extinction coefficients that led to calculate total chlorophylls in the extracts. The results obtained for amounts of chlorophylls a and b, using literature equations, were comparable with those obtained from the calculated molar extinction coefficients. Levels of pheophytins a and b were similarly calculated from their molar extinction coefficients. Plots of absorbance versus wavelength were generated and the location of the peaks determined the wavelengths at which the chlorophyll extracts maximally absorbed. The chlorophyll extracts from the leaves of Cordia myxa showed two absorbance peaks. The mean absorbance maxima were 430±3 and 662±3 nm. Normalization of the spectra did not show the spectra to be statistically different. Use of the literature equations gave chlorophyll a to chlorophyll b ratios of 2.57±0.18 and a t-test at the 95% confidence level did not prove the two ratios statistically different. The ratio falls within the uncertainty interval of the experimentally determined chlorophyll ratio. Degradation of chlorophylls to pheophytins during experimentation could be a likely reason for the discrepancies observed in Cordia myxa extracts. Carotenoids were extracted with acetone and separated on a C18 reverse phase column. A total of eight carotenoids were resolved and identified."}
+	}}

@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Scale, the dynamic stability of forest ecosystems, and the persistence of biodiversity.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jentsch, Anke.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Beierkuhnlein, Carl.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    White, Peter S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"metsäekosysteemit"},
+	{"value":"biodiversity"},
+	{"value":"mallit"},
+	{"value":"biodiversiteetti"},
+	{"value":"ecosystems"},
+	{"value":"häiriödynamiikka"},
+	{"value":"boreal forests"},
+	{"value":"luonnon monimuotoisuus"},
+	{"value":"boreaaliset metsät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000675",
+	"dct:identifier":"FI2016000675",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

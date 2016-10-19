@@ -1,0 +1,74 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   manga e mamão "},
+	{"value":"   Índice de cor e sua correlação com parâmetros físicos e físico-químicos de goiaba ",
+	"xml:lang":"por"
+	},
+	{"value":"Color index and correlation with physical and chemical parameters of guava, mango and papaya",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"carica papaya",
+	"xml:lang":"eng"
+	},
+	{"value":"psidium guajava",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"6/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015206642",
+	"dct:identifier":"BR2015206642",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/j_1294754373047"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	}
+	],
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/download/698/305",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Motta Jedman Dantas"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Queiroz Alexandre José de Melo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Figueirêdo Rossana Maria Feitosa de"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sousa Karla dos Santos Melo de"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Centro de Ciências e Tecnologia, Departamento de Engenharia Agrícola, Campina Grande, PB, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Centro de Ciências e Tecnologia, Departamento de Engenharia Agrícola, Campina Grande, PB, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal de Campina Grande, Centro de Ciências e Tecnologia, Departamento de Engenharia Agrícola, Campina Grande, PB, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Federal do Vale do São Francisco, Centro de Ciências Agrárias, Petrolina, PE, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"It was used a low cost colorimeter determine the color in agricultural products. Color analysis on peel and pulps of guava, papaya and mango were made. The values found in the L*a*b* color spaces were used to calculate color indexes that were related to the soluble solids content, pH and the fruit consistence during the maturation. The results obtained permit to conclude that it is possible to estimate the ripening of papaya over the color peel, having found an accurate relationbetween peel color index and soluble solids content expressed in terms of the third degree equation. Nevertheless for the guava and mango there is not a relation between the peel color indexes and soluble solids content. There is not a relation between color indexes of the guava, papaya andmango pulps with soluble solids content. For all fruits studied there was not relation between color indexes of the peel or pulp with pH.",
+	"xml:lang":"eng"
+	},
+	{"value":"Usou-se um colorímetro de baixo custo para determinação da cor em produtos agrícolas. Foram feitas análises colorimétricas nas cascas e polpas de mamão, goiaba e manga. Dos valores de cor L*a*b* encontrados, calculou-se os índices de cor, que foram relacionados com o teor de sólidos solúveis totais, pH e consistência das frutas durante o amadurecimento. Os resultados obtidos permitem concluir que é possível estimar a maturação do mamão pela cor da casca, tendo-se encontrado uma relação precisa entre o índice de cor da casca e os sólidos solúveis totais, expressaem termos de uma equação de terceiro grau. Para goiaba e manga não há correlação entre os índices de cor da casca e os sólidos solúveis totais. Não há correlação entre os índices de cor das polpas e os sólidos solúveis totais, bem como entre os índices de cor da casca ou polpa e o pH.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n2p101.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Tactical decisions of concentrate level, slaughter age and carcass weight of bulls of five beef breeds under Norwegian conditions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bonesmo, Helge
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nordang, Leidulf.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Davies, Lloyd.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"animal feeding"},
+	{"value":"lihakarja"},
+	{"value":"beef cattle"},
+	{"value":"ruokinta"},
+	{"value":"teurastusikä"},
+	{"value":"säilörehu"},
+	{"value":"simulation models"},
+	{"value":"nautakarja"},
+	{"value":"meat animals"},
+	{"value":"concentrates"},
+	{"value":"Norway"},
+	{"value":"weight gain"},
+	{"value":"teuraspaino"},
+	{"value":"optimointi"},
+	{"value":"silage"},
+	{"value":"väkirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000536",
+	"dct:identifier":"FI2016000536",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

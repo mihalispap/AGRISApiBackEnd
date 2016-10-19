@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2013,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"A evolução da urbanização e os processos de produção de inundações urbanas",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Valdevino José dos Santos Júnior "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carolina Oliveira Santos "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00023",
+	"dct:identifier":"BR2015M00023",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O presente trabalho aborda o crescimento da urbanização que altera as características físicas e ambientais dos recursos hídricos acarretando em inundações urbanas. A pesquisa objetivou-se em conhecer a evolução da urbanização e como esse processo causa impactos sobre os sistemas de drenagem pluvial urbano. A metodologia baseia-se em um levantamento bibliográfico a fim de entender como a urbanização está relacionada aos processos de inundações urbanas. Conclui-se que a urbanização tem interferência direta na ocorrência de inundações em áreas urbanas, pois impermeabiliza o solo, altera o ciclo hidrológico aumentando a taxa de escoamento superficial e nota-se ainda a falta de instrumentos de planejamento e gestão de projetos e legislação específica que contemplem a drenagem pluvial urbana, o disciplinamento do uso e ocupação do solo, os resíduos sólidos e principalmente a educação ambiental.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

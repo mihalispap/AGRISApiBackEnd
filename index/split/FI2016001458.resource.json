@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.980",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Komonen, Atte,
+    kirjoittaja
+    Jyväskylän yliopisto
+    1906
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Halme, Panu,
+    kirjoittaja.
+    Jyväskylän yliopisto
+    1906
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jäntti, Mari,
+    kirjoittaja.
+    Jyväskylän yliopisto
+    1906
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Koskela, Tuuli,
+    kirjoittaja.
+    Jyväskylän yliopisto
+    1906
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kotiaho, Janne S,
+    kirjoittaja.
+    Jyväskylän yliopisto
+    1906
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toivanen, Tero,
+    kirjoittaja.
+    Jyväskylän yliopisto
+    1906
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Created substrates do not fully mimic natural substrates in restoration: the occurrence of polypores on spruce logs.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"dead wood"},
+	{"value":"Substrate quality"},
+	{"value":"kelopuu"},
+	{"value":"Ecological restoration"},
+	{"value":"suojelualueet"},
+	{"value":"boreaaliset metsät"},
+	{"value":"metsiensuojelu"},
+	{"value":"wood-decaying fungi"},
+	{"value":"forest management"},
+	{"value":"substrates"},
+	{"value":"protected areas"},
+	{"value":"suojelusuunnitelmat"},
+	{"value":"Picea abies"},
+	{"value":"boreal forests"}
+	],
+	"bibo:doi":"10.14214/sf.980",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016001458",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001458",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

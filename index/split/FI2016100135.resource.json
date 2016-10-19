@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_1/V1N1E139-141estimating.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Estimating visual perception of rural landscapes using GIS: the influence of vegetation. The case of Esla Valley (Spain)"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hernández, Julio (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"García, Lorenzo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Morán, Julia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Juan, Andrés (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ayuga, Francisco (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100135",
+	"dct:identifier":"FI2016100135",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Vegetation can be considered an important factor in landscape planning and its effect needs to be analysed in the landscapemodel. Some problems, such as vegetation extension and distribution at the plot scale, are detected in the modelling process.In order to facilitate the handling of long series of data, we propose the use of computer simulation tools that could help tosolve some of the problems. The Geographic Information Systems (GIS) are computer programs especially designed to enter,stock and represent territorial data. They are provided with user interfaces to facilitate the relationship between professionalsand computers. The power of the GIS calculation module makes it possible to implement programming routines to run commandsautomatically. Vegetation could be incorporated in Digital Elevation Model (DEM) of the terrain, and therefore the landscape’svisual properties could be analysed from a three-dimensional point of view. This modelling process could be a useful tool forarchitects, planners and designers working on landscaping activities."}
+	}}

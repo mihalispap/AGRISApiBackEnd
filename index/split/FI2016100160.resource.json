@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/f13.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Spice paprika oleoresin extraction under different conditions involving acetone and ethanol"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rafajlovska, Vesna (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Slaveska-Raicki, Renata (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Koleva-Gudeva, Liljana (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Klopceska, Jana (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100160",
+	"dct:identifier":"FI2016100160",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"This paper describes the oleoresin extraction from the spice paprika under different extraction conditions that involves acetone and ethanol as an extracting solvent in percolatory system. Moreover, the influence of paprika particle size, solvent flow rate and the temperature on the extraction procedure was also studied. It was revealed that better extraction efficiency was achieved with 2 ml/min solvent flow rate. The particle size is more important when acetone for paprika oleoresin extraction is used. The increase of temperature up to 40°C positively influences on the mass transfer processes. The functional dependence of the colour yield (P) in the paprika oleoresin from the extraction time (t) is expressed by the function P = a tb. The relation between colour yield and the extraction time is presented with the exponential function type. The suitable extraction conditions established for proposed system, intended for paprika oleoresin extraction, were found to be 2 ml/min acetone flow rate, 40°C extraction temperature and particle size from 0.5 to 1 mm."}
+	}}

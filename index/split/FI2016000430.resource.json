@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Performance of percentile based diameter distribution prediction and Weibull method in independent data sets.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kangas, Annika.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Maltamo, Matti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"standardizing"},
+	{"value":"diameter"},
+	{"value":"diameter distribution prediction"},
+	{"value":"nearest neighbour method"},
+	{"value":"stand structure"},
+	{"value":"Weibull function"},
+	{"value":"luotettavuus"},
+	{"value":"stand characteristics"},
+	{"value":"calibration estimation"},
+	{"value":"läpimittajakauma"},
+	{"value":"statistical methods"},
+	{"value":"distribution-free method"},
+	{"value":"ennustaminen"},
+	{"value":"puuston rakenne"},
+	{"value":"Weibull-menetelmä"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000430",
+	"dct:identifier":"FI2016000430",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

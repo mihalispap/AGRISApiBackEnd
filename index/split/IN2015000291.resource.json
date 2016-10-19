@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Clay modeling âA method of teaching embryology to veterinary undergraduates",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1121,
+	"dc:subject":[
+		{"value":"teaching methods",
+	"xml:lang":"eng"
+	},
+	{"value":"materiel pedagogique",
+	"xml:lang":"fre"
+	},
+	{"value":"ensenanza",
+	"xml:lang":"esp"
+	},
+	{"value":"veterinaire",
+	"xml:lang":"fre"
+	},
+	{"value":"materiales de ensenanza",
+	"xml:lang":"esp"
+	},
+	{"value":"veterinarians",
+	"xml:lang":"eng"
+	},
+	{"value":"methode pedagogique",
+	"xml:lang":"fre"
+	},
+	{"value":"teaching materials",
+	"xml:lang":"eng"
+	},
+	{"value":"enseignement",
+	"xml:lang":"fre"
+	},
+	{"value":"veterinarios",
+	"xml:lang":"esp"
+	},
+	{"value":"teaching",
+	"xml:lang":"eng"
+	},
+	{"value":"metodos pedagogicos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1123,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000291",
+	"dct:identifier":"IN2015000291",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"nov2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Chandrasekhar, Leena"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maya, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajani, C.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raja, T.V."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ravindran, Reghu"
+	}
+	}
+	],
+	"bibo:issue":11,
+	"bibo:abstract":{"value":"Conceptualization of organogenesis is a difficult task for veterinary undergraduate students. In the present study, the traditional teaching method of veterinary embryology is subjected to a slight renovation. There is active involvement and integration of theory and practice, in which student teams prepare clay models of organogenesis under teacher supervision followed by a test during which learners skills were verified. A survey of the differences experienced by the students taught by conventional methods and clay models was conducted and statistically analyzed. The results showed strongly positive response for teaching with the help of models.",
+	"xml:lang":"eng"
+	}
+	}}

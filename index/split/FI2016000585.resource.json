@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Control of isolates of Fusarium species by using extracts of Rubus ulmifolius micropropagated plantlets.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fraternale, Daniele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bacchiocca, Mara.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Giamperi, Laura.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ricci, Donata.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Scoccianti, Valeria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ninfali, Paolino.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"antifungal properties"},
+	{"value":"plant extracts"},
+	{"value":"Fusarium"},
+	{"value":"biological control"},
+	{"value":"fungal diseases"},
+	{"value":"pathogenic fungi"},
+	{"value":"plant diseases"},
+	{"value":"pathogens"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000585",
+	"dct:identifier":"FI2016000585",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,95 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Growth and carcass characteristics of soviet chinchilla rabbits fed mulberry and hedge lucerne leaves",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":85,
+	"dc:subject":[
+		{"value":"lapin (oryctolagus)",
+	"xml:lang":"fre"
+	},
+	{"value":"alfalfa",
+	"xml:lang":"esp"
+	},
+	{"value":"composicion de la canal",
+	"xml:lang":"esp"
+	},
+	{"value":"conejo (oryctolagus)",
+	"xml:lang":"esp"
+	},
+	{"value":"morus",
+	"xml:lang":"esp"
+	},
+	{"value":"composition de la carcasse",
+	"xml:lang":"fre"
+	},
+	{"value":"hojas",
+	"xml:lang":"esp"
+	},
+	{"value":"lucerne",
+	"xml:lang":"eng"
+	},
+	{"value":"feuille",
+	"xml:lang":"fre"
+	},
+	{"value":"luzerne",
+	"xml:lang":"fre"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"carcass composition",
+	"xml:lang":"eng"
+	},
+	{"value":"alimentacion",
+	"xml:lang":"esp"
+	},
+	{"value":"rabbits",
+	"xml:lang":"eng"
+	},
+	{"value":"alimentation",
+	"xml:lang":"fre"
+	},
+	{"value":"leaves",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":89,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000373",
+	"dct:identifier":"IN2015000373",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Premalatha, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saravanakumar, V. Ramesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sivakumar, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jagatheesan, P.N. Richard"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramesh, V."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"To study the effect of feeding mulberry and hedge lucerne leaves on growth, carcass characteristics and cost effectiveness, 48 Soviet Chinchilla weaner rabbits were divided into two equal groups. The mean weekly dry matter intake was significantly (P  0.01) higher in hedge lucerne group than mulberry group at 15th week of age. In hedge lucerne group, the female rabbits showed significantly (P  0.01) higher dry matter intake than male rabbits at 15th week of age. The overall feed efficiency was 5.17 in males and 4.42 in females of mulberry group and it was 4.49 in males and 6.14 in females of hedge lucerne group. In carcass characteristics, there was non-significant difference between green forages and sexes. The mean cost per kg weight gain in male rabbits under mulberry group was significantly (P0.05) higher (Rs. 67.21Â±2.31) than the hedge lucerne group (Rs. 61.25Â±1.44). It can be concluded from the study that hedge lucerne leaves are as good as mulberry leaves in feeding of rabbits",
+	"xml:lang":"eng"
+	}
+	}}

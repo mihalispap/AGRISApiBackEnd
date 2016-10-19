@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of feeding slow ammonia release and protected protein supplement in lactating cows and buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":168,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"liberacion controlada",
+	"xml:lang":"esp"
+	},
+	{"value":"protein concentrates",
+	"xml:lang":"eng"
+	},
+	{"value":"liberation controlee",
+	"xml:lang":"fre"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"concentrates",
+	"xml:lang":"eng"
+	},
+	{"value":"piensos concentrados",
+	"xml:lang":"esp"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"feeding",
+	"xml:lang":"eng"
+	},
+	{"value":"aliment concentre pour animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"alimentacion",
+	"xml:lang":"esp"
+	},
+	{"value":"concentre de proteine",
+	"xml:lang":"fre"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"concentrados de proteina",
+	"xml:lang":"esp"
+	},
+	{"value":"alimentation",
+	"xml:lang":"fre"
+	},
+	{"value":"controlled release",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":171,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000418",
+	"dct:identifier":"IN2015000418",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sherasia, P.L."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Garg, M.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bhanderi, B.M."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

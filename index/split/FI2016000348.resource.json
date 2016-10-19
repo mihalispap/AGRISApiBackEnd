@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Elucidation of the nematicidal activity of bran and seed meal of oriental mustard (Brassica juncea) under controlled conditions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Yu, Qing.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tsao, Rong.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chiba, Mikio.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Potter, John.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"mustard oil"},
+	{"value":"mustard"},
+	{"value":"nematode control"},
+	{"value":"biological pest control"},
+	{"value":"Nematoda"},
+	{"value":"bran"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000348",
+	"dct:identifier":"FI2016000348",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

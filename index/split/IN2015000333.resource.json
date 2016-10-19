@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Reproductive performance of Changthangi Pashmina goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":1253,
+	"dc:subject":[
+		{"value":"animales laniferos",
+	"xml:lang":"esp"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"wool producing animals",
+	"xml:lang":"eng"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"animal lanifere",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":1254,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000333",
+	"dct:identifier":"IN2015000333",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"dec2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Sharief, M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sheikh, F.D."
+	}
+	}
+	],
+	"bibo:issue":12,
+	"bibo:abstract":{"value":"The study was under taken to establish a base data generation regarding the production parameters of Pashmina goats in its native tract. Its reproductive performances in the extreme cold condition of the region, are appreciable. Around 500 pashmina goats from different areas of Changthang region of Leh district were randomly accessed for its reproduction performance. LSM method was used to find out the different reproductive traits. The overall age at first tupping was recorded as 550.33Â±7.12, with an overall age at first kidding as 699.44Â±10.23 days. The gestation period was noted as 151.08Â±0.5 days. The average birth weight in this breed was recorded as 2.32Â±0.25 and 2.179Â±0.19 in male and females respectively. A litter size of 1.02Â±0.50 indicates natures own way for survivability in this region. However the kidding % in this breed of goat was 97.58Â±2.23. It was also observed that the type of birth has a significant influence on birth weight.",
+	"xml:lang":"eng"
+	}
+	}}

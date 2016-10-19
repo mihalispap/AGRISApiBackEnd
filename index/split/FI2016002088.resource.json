@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Heart size and mean muscle fibre cross-sectional area related to birth weight in pigs.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ruusunen, Marita.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Puolanne, Eero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Partanen, Kirsi.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"lihassolut"},
+	{"value":"teuraslaatu"},
+	{"value":"carcass composition"},
+	{"value":"heart"},
+	{"value":"kasvu"},
+	{"value":"muscles"},
+	{"value":"birth weight"},
+	{"value":"sydän"},
+	{"value":"growth rate"},
+	{"value":"muscle fibers"},
+	{"value":"swine"},
+	{"value":"syntymäpaino"},
+	{"value":"sika"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002088",
+	"dct:identifier":"FI2016002088",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

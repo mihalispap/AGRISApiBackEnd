@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Calibrating predicted tree diameter distributions in Catalonia, Spain.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Palahí, Marc.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pukkala, Timo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Trasobares, Antoni.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"calibration estimation"},
+	{"value":"läpimitta"},
+	{"value":"puusto"},
+	{"value":"kalibrointi"},
+	{"value":"ennusteet"},
+	{"value":"jakaumat"},
+	{"value":"parameter prediction"},
+	{"value":"Weibull function"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001139",
+	"dct:identifier":"FI2016001139",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

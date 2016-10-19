@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/f12.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Production of a recombinant vp1 protein of the chicken anaemia virus for the development of an enzyme-linked immunosorbent assay"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Soliman, I. O. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lila, M. A. M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saad, M. Z. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rahim, R. A. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100285",
+	"dct:identifier":"FI2016100285",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In this report, we describe the development of ELISA assay for CAV in Malaysia using recombinant VP1 capsid protein of the CAV that reduce the vast cost and reliable method for diagnosis. The VP1 gene was cloned and expressed in prokaryotic expression vector pRSET–B. The VP1 protein expression in E. coli was achieved as a recombinant protein containing immunogenic epitope. The protein expressed was detected by anti- VP1 monoclonal antibody with an apparent molecular weight of 50 kDa. Batch fermentation was used to scale up production of the protein in E. coli, the final VP1 protein yield produced was 64 µg/ml. The protein expressed has been tested as an antigen for detection of antibody to CAV in infected chicken. An enzyme-linked immunosorbent assay (ELISA) was evaluated for the detection of serum antibody to CAV and compares its performance with that of the commercial ELISA using serum samples from commercial and SPF flocks. When serum samples from infected chicken were tested, the sensitivity of the assay was found to be 93.3% compared to 100% for commercial ELISA. On the other hand, the specifity of the indirect ELISA (100%) had a greater value over the specifity of commercial ELISA (95%). Furthermore, the ELISA test requires serum samples to be diluted at 1:100 compared to 1:50 for commercial ELISA."}
+	}}

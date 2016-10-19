@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/f2.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The development of disease free areas across Europe"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Neuteboom, Olaf (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Slingenbergh, Jan (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100026",
+	"dct:identifier":"FI2016100026",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In the course of the last three centuries, an increasing number of important infectious livestock diseases in Europe have progressively been brought under control. One by one diseases have been eliminated as a result of nation-wide control programmes. Based on historical OIE records countries were accorded a disease eradication score, a measure for the cumulative national achievements towards the creation of area-wide freedom from major livestock diseases. With countries in Europe all working from the same priority list a distinct geospatial pattern emerged with disease freedom first occurring in Scandinavia and the British Isles, next encompassing Baltic and central European countries, and only thereafter expanding into western and, to a lesser extent, eastern Europe. The possible determinants of this remarkable geographical pattern are considered including: insular versus continental configuration, latitude, politico-economic setting and livestock productivity. Anthropogenic and ecological factors are believed to both have played a major role. Disease eradication did not always produce gains in livestock production or productivity nor did productivity gains depend on major progress towards disease freedom. Yet, it is argued that Europe’s current imbalances in disease occurrence and livestock productivity may create dilemmas for future transboundary animal disease control."}
+	}}

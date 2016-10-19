@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of jute bags for the management of rice moth, Corcyra cephalonica (stainton) on sorghum",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"rice",
+	"xml:lang":"eng"
+	},
+	{"value":"arroz",
+	"xml:lang":"esp"
+	},
+	{"value":"riz",
+	"xml:lang":"fre"
+	},
+	{"value":"corcyra cephalonica",
+	"xml:lang":"esp"
+	},
+	{"value":"sorghum",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":194,
+	"bibo:volume":74,
+	"bibo:pageEnd":196,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000258",
+	"dct:identifier":"IN2015000258",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology (India)"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Patel D.D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Patel C. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vaishnav P. R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kher H. R."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

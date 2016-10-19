@@ -1,0 +1,62 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/47985/14079",
+	"dct:language":"eng",
+	"dct:title":{"value":"Variability of total soluble phenolic compounds and antioxidant activity in a collection of tetraploid wheat.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Pasqualone, Antonella,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Delvecchio, Laura,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mangini, Giacomo,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Taranto, Francesca,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Blanco, Antonio,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vehnä"},
+	{"value":"varieties"},
+	{"value":"browning"},
+	{"value":"Triticum turgidum"},
+	{"value":"genetic diversity"},
+	{"value":"cereals"},
+	{"value":"viljat"},
+	{"value":"antioxidants"},
+	{"value":"antioksidantit"},
+	{"value":"grain"},
+	{"value":"phenolic compounds"},
+	{"value":"land varieties"},
+	{"value":"geneettinen muuntelu"},
+	{"value":"fenolit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000881",
+	"dct:identifier":"FI2016000881",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

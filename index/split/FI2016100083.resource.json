@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_2/a25.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of kenaf (Hibiscus cannabinus L.) growth and yield to nitrogen fertilization"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alexopoulou, Efthimia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Papatheohari, Yolanda (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kipriotis, Evripidis (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100083",
+	"dct:identifier":"FI2016100083",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Kenaf is a rapidly growing annual crop that is cultivated mainly for its stem with numerous end uses (paper, insulation mats, oil/chemical absorbent, energy production, etc.). In the view of this research the effect of nitrogen fertilization on growth and yield of kenaf was investigated in central Greece (Aliartos). After three years of experimentation (2000-2002) both growth and yield increased when the nitrogen fertilization increased (N 0-120 kg/ha). It should be pointed out that this increase was only in few cases statistically significant (P<0.05, LSD test). Averaged overall years, the dry stem yield in control plots (N 0 kg/ha) was 9.8 t/ha, in the low fertilized plots (N 40 kg/ha) 10.3 t/ha, in the medium fertilized plots (N 80 kg/ha) 11 t/ha and in the highly fertilized plots (N 120 kg/ha) 12.2 t/ha. A comparison between each nitrogen fertilization rate (N 40, 80 and 120 kg/ha) and the control plots (N 0 kg/ha) showed that mean dry stem yields in low fertilized plots increased 5%, in medium fertilized 12% and in highly fertilized 25%. It should be also mentioned that the nitrogen content (%) of both stem fractions (bark and core) were higher when the plants had been highly fertilized. In highly fertilized plants (N 120 kg/ha) nitrogen content was 0.377% for the bark and 0.335% for the core, while the corresponding values in the control plants were 0.304 and 0.213%, respectively."}
+	}}

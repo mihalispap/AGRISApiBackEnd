@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Outcrossing in cowpea"},
+	"rdf:about":"http://agris.fao.org/aos/records/US9170575",
+	"dct:identifier":"US9170575",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_72c2efd2"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a33.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Fatokun, Christian A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ng, Quat (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Cowpea is a self-pollinated crop and this is encouraged by the arrangement of floral parts. However, outcrossing has been reported and frequency of occurrence could vary depending on the genotypes involved and the environment where grown. Insects have been implicated in the movement of pollen in cowpea from one plant to another. Many insects visit cowpea flowers, which have extra-floral nectaries and in the process facilitate both self and cross pollination. Three cowpea lines with anthocyanin pigment, a dominant trait, and a fourth line lacking the pigment were used to measure the frequency of outcrossing in cowpea. Each of the lines with anthocyanin pigment was separately planted in alternate rows with the line lacking the trait at a spacing of 90 cm between and 25 cm within rows. In another study carried out at two different locations in Nigeria and one in the Republic of Benin two cowpea lines were used to measure extent of pollen movement. The two lines were planted in concentric circles with the line having anthocyanin pigment occupying the first four innermost circles surrounded by circles of plants of the line with no pigment. Each circle was spaced 1.0 metre to the next. Results obtained from both studies showed that outcrossing occurs in cowpea albeit at a low frequency of less than 1.0 percent. In addition, outcrossing occurred up to 31 metre distance. The insects most likely to be involved in pollen movement in cowpea are bumble bees and honey bees. The results of these studies would be useful in risk assessment for bioengineered cowpea, which need to be carried out prior to its release to the environment."}
+	}}

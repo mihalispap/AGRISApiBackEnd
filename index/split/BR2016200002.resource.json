@@ -1,0 +1,88 @@
+{"resource": {
+	"dct:language":[
+		"por",
+	"eng"
+	],
+	"dct:title":[
+		{"value":"   Modulação da atividade antibacteriana do tecido adiposo da Gallus gallus domesticus (Linnaeus ",
+	"xml:lang":"por"
+	},
+	{"value":"   1758) "},
+	{"value":"Modulatory antibacterial activity of body fat from Gallus gallus domesticus (Linnaeus 1758)",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"staphylococcus aureus",
+	"xml:lang":"eng"
+	},
+	{"value":"gallus",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"5/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016200002",
+	"dct:identifier":"BR2016200002",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/11131"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Comunicata Scientiae"},
+	"bibo:ISSN":{"value":"2176-9079"}
+	}
+	},
+	"dct:issued":"2014-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://comunicata.ufpi.br/index.php/comunicata/article/view/412/276",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Coutinho Henrique"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aquino Pedro"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leite Jéssica"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Leandro Livia"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Figueredo Fernando"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Matias Edinardo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guedes Tássia"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Regional do Cariri, Crato, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Leão Sampaio, Juazeiro do Norte, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Leão Sampaio, Juazeiro do Norte, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Leão Sampaio, Juazeiro do Norte, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Universidade Regional do Cariri, Crato, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Leão Sampaio, Juazeiro do Norte, CE, Brasil"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"Faculdade Leão Sampaio, Juazeiro do Norte, CE, Brasil"
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Based on the popular belief ,which uses fat from G. g. domesticus. (domestic chicken), to combat infectious and inflammatory processes, this work aims to evaluate the antibacterial action of lipids in adipose tissue of these animals besides verifying association with antibiotics observing the modulating effect of natural products against standard strains of Staphylococcus aureus and Escherichia coli and multiresistant of Staphylococcus aureus from clinical isolates. We evaluated the antibacterial activity of the samples, determining the minimum inhibitory concentration(MIC) by microdilution method. And after testing was conducted to verify the possible synergistic action between the samples and the antimicrobials using fat tissues in a sub inhibitory concentration.The interactions of aminoglycosides with the samples at concentrations of 128g /ml(MIC1/8)were effective against S.aureos 358,and amikacin activity associated with the TAGCc with most representative reduction from 64 to 8μg/mL. The results of this study indicate that the TAGc and TAGi are an alternative source of natural products with antibacterial action, as possible to potentiate the activity ofaminoglycosides against the strains of S.aureus 358. Both deserving continuing to elucidate the antimicrobial and toxicological action.",
+	"xml:lang":"eng"
+	},
+	{"value":"Baseado na crença popular, em que se utiliza a gordura de G. g. domesticus.(galinha domestica),para combater processos infecciosos e inflamatórios, este trabalho possui como objetivo avaliar a ação antibacteriana dos lipídeos no tecido adiposo desses animais além verificar associação comantibióticos observando o efeito modulador dos produtos naturais, frente a linhagens padrões de Staphylococcus aureus e Escherichia coli e multiresistentes de taphylococcus aureus provenientesde isolados clínicos. Foi avaliada a atividade antibacteriana das amostras, determinando aConcentração Inibitória Mínima (CIM) pelo método da microdiluição. E logo após realizou-se ensaios para verificar a possível ação sinérgica entre as amostras e os antimicrobianos, utilizando os tecidos adiposos em uma concentração subinibitória. As interações dos minoglicosídeos com as amostras em concentrações de 128 μg/mL (CIM 1/8) foram eficazes frente a S. aureos 358, tendo a atividade da amicacina associada ao TAGc com a mais representativa redução da CIM de 64 para 8μg/mL. Os resultados obtidos neste trabalho indicam que o TAGc e o TAGi são uma fonte alternativa de produtos naturais com ação antibacteriana, já que possibilitam à potencialização da atividade dos aminoglicosídeos frente às linhagens de S. aureus 358. Ambos merecendo continuidade para elucidação da ação antimicrobiana e toxicológica.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Dietary effects of zinc, copper and manganese chelates and sulphates on dairy cows"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025576",
+	"dct:identifier":"FI2005025576",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/a13.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kinal, S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Korniewicz, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jamroz, D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Zieminski, R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Slupczynska, M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The experiment was carried out on 90 dairy cows in the period from 6 weeks before calving up to 305th day of lactation. The animals randomly divided into 3 groups were fed with diets containing different chemical forms of zinc, manganese and copper applied in mineral mixtures. The control group received these trace elements as sulphates, but in experimental groups 20 or 30% of daily needs were covered by chelated forms. Cows receiving 30% of needed Zn and Mn (each 315 mg/day) and Cu (63 mg/day) in amino acids-bound forms were characterized by higher (6.5%) milk production than the control animals. In these cows also a decrease of somatic cell contents in milk (34%) was observed. The application of chelated forms of trace elements to the diets given to animals affected positively the total immunoglobulins amount in colostrum and in blood serum of new-born calves. The significant (P<0.05) increase of both zinc and copper levels in blood of cows receiving organically- bound Zn, Mn and Cu was stated."}
+	}}

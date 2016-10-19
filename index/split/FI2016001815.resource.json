@@ -1,0 +1,37 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Smooth height/age curves from stem analysis with linear programming.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Lappi, Juha.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"second order difference"},
+	{"value":"metsänarviointi"},
+	{"value":"forest mensuration"},
+	{"value":"ikä"},
+	{"value":"height growth"},
+	{"value":"height"},
+	{"value":"spline"},
+	{"value":"pituus"},
+	{"value":"kasvu"},
+	{"value":"puut"},
+	{"value":"age"},
+	{"value":"Issa"},
+	{"value":"runko"},
+	{"value":"trees"},
+	{"value":"stems"},
+	{"value":"ring counts"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001815",
+	"dct:identifier":"FI2016001815",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

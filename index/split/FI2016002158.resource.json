@@ -1,0 +1,51 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of concentrate feeding strategy on the performance of dairy cows fed total mixed rations /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Khalili, Hannele.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäntysaari, Päivi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sariola, Juha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kangasniemi, Reima.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"feeds"},
+	{"value":"dairy cows"},
+	{"value":"maitotuotos"},
+	{"value":"lehmät"},
+	{"value":"animal feeding"},
+	{"value":"rehuseokset"},
+	{"value":"rehut"},
+	{"value":"lypsykarja"},
+	{"value":"ruokinta"},
+	{"value":"feed intake"},
+	{"value":"concentrates"},
+	{"value":"milk yield"},
+	{"value":"supplementary feeding"},
+	{"value":"väkirehut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002158",
+	"dct:identifier":"FI2016002158",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

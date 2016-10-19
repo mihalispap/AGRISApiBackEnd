@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Preparing emission reporting from forests : use of national forest inventories in European countries.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Cienciala, Emil.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tomppo, Erkki.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Snorrason, Arnor.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Broadmeadow, Mark.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Colin, Antoine.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dunger, Karsten.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Exnerova, Zuzana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lasserre, Bruno.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Petersson, Hans.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Priwitzer, Tibor.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sanchez Peña, Gerardo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ståhl, Göran.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"metsäekosysteemit"},
+	{"value":"emission"},
+	{"value":"forest inventories"},
+	{"value":"Kyoto protocol"},
+	{"value":"UNFCCC"},
+	{"value":"hiili"},
+	{"value":"kasvihuoneilmiö"},
+	{"value":"päästöt"},
+	{"value":"Ilmastonmuutosta koskeva Kioton pöytäkirja"},
+	{"value":"carbon"},
+	{"value":"surveys"},
+	{"value":"metsäninventointi"},
+	{"value":"valtakunnan metsien inventointi"},
+	{"value":"forest ecology"},
+	{"value":"greenhouse effect"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001056",
+	"dct:identifier":"FI2016001056",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

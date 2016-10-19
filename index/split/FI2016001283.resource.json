@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.mtt.fi/afs/pdf/mtt-afs-v19n4p313.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Surface water ponding on clayey soils managed by conventional and conservation tillage in boreal conditions.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Alakukku, Laura.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ristolainen, Antti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sarikka, Ilkka.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hurme, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"grasses"},
+	{"value":"zero tillage"},
+	{"value":"ploughing"},
+	{"value":"direct sowing"},
+	{"value":"infiltration"},
+	{"value":"clay soils"},
+	{"value":"surface water"},
+	{"value":"crops"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001283",
+	"dct:identifier":"FI2016001283",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

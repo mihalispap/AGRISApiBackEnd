@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparison of methods for estimation of needle losses in Scots pine following defoliation by Bupalus piniaria.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Långström, Bo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hellqvist, Claes.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Cedervind, Jan.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"biomass"},
+	{"value":"Bupalus pinarius"},
+	{"value":"Bupalus piniaria"},
+	{"value":"Pinus sylvestris"},
+	{"value":"biomassa"},
+	{"value":"mäntymittari"},
+	{"value":"undefoliated foliage"},
+	{"value":"CIR-pictures"},
+	{"value":"neulaskato"},
+	{"value":"needle biomass"},
+	{"value":"leaf fall"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000523",
+	"dct:identifier":"FI2016000523",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

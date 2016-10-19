@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-79.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Application of hydrolyzed carrot pomace as a functional food ingredient to beverages"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Stoll, Thomas (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schweiggert, Ute (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Schieber, Andreas (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Carle, Reinhold (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100336",
+	"dct:identifier":"FI2016100336",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Utilization of a carotene-rich functional food ingredient recovered through mechanical and enzymatic breakdown of the tissue of carrot pomace was evaluated by its application to model beverages based on cloudy apple juice, aiming at sustainable carrot juice production. Contrary to synthetic β-carotene supplements, the stability of the natural α- and β-carotene in the beverages proved to be excellent after 20 and 24 weeks storage under moderate and even intense illumination at 23 and 19 °C, respectively. Neither degradation nor isomerization were observed, thus confirming the extraordinary stability of carotenes in their natural matrix. Furthermore, cloud stabilities as determined by centrifugation and real time sedimentation tests were satisfactory. Although increasing proportions of pectin only slightly delayed sedimentation of coarse cloud particles, the positive effect of pectin was more pronounced with respect to improved serum turbidity of the beverages which might be ascribed to higher serum viscosity."}
+	}}

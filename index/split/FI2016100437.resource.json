@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/environment-7.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of CERES-Maize of DSSAT model to simulate nitrate leaching, yield and soil moisture content under tropical conditions"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Asadi, Mohammad E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Clemente, Roberto S. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100437",
+	"dct:identifier":"FI2016100437",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The CERES-Maize of DSSAT v3.5 model was used to simulate nitrate leaching, nitrogen uptake, corn yield and soil moisture content in an acid sulphate soil in the central region of Thailand. The validation data was obtained from a two-year study with conventional tilled corn (Zea mays L.) during 1999 and 2000. Nitrogen source was urea and there were four N fertigation treatments which include 0, 100, 150, and 200 kg N ha-1, each having three replications arranged in a randomized complete block design. The soil was irrigated and fertigated with sprinkler irrigation system throughout the season. Nitrate leaching was measured with ceramic cups and soil moisture content was measured by the gravimetric method. Inputs to the model included site information, daily weather data, soil properties, soil initial conditions, irrigation and fertilizer management and crop performance data. The model overpredicted corn grain yield slightly for some treatments, generally overpredicted total N uptake and underpredicted total N leached and soil moisture content. Low values of nitrate leaching were simulated by the model because of low drainage. The relation between results obtained from experiment (Yo) and simulation (Ys) was expressed by the equation Ys= 1.058Yo with R2=0.97 for grain yield, Ys=0.7396Yo with R2=0.86 for nitrate leaching, and Ys=1.1103Yo with R2=0.99 for total N uptake. The study showed that the CERES-Maize of DSSAT model may be applied with confidence to study effects of N and irrigation management on maize yield, nitrate leaching and N uptake under irrigated tropical conditions."}
+	}}

@@ -1,0 +1,68 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Management of Fennel aphids (Hyadaphis coriandri Das) through biorational approaches",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":21,
+	"dc:subject":[
+		{"value":"seed",
+	"xml:lang":"eng"
+	},
+	{"value":"semence",
+	"xml:lang":"fre"
+	},
+	{"value":"semillas",
+	"xml:lang":"esp"
+	},
+	{"value":"foeniculum vulgare",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":23,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000210",
+	"dct:identifier":"IN2015000210",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kant, Krishna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramanujam, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tyagi, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sharma, Y.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meena, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mishra, B.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vishal, M.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Meena, S.R."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The results showed that among entomopathogens Metarhizium anisophilae reduced maximum population after first spray (32.3 aphids/floret) and Beauveria bassiana after second spray (8.1 aphids/floret). However, maximum yield was recorded in M. anisophilae application. All the botanicals gave good control of pest and significantly higher yield were more effective only after insecticidal check. Application of Sulphur compound of Karanj (Pongamia spp.) extract-1%, gave maximum aphids control ( 30.5,11.2 aphids/floret after 1st &2nd spray ) and yield of 12.5 q./ha. The application of entomopathogen in combination with neem oil showed no definite patterns of combined or synergistic effect than alone application. Gener",
+	"xml:lang":"eng"
+	}
+	}}

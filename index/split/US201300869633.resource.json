@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Optimization of gene transfer in Iranian bread wheat cultivars by biolistic bombardment"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300869633",
+	"dct:identifier":"US201300869633",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/a14.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Tarinejad, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Toorchi, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Habashi, A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohammadi, S.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pellegrineschi, A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Wheat is one of the world’s most important cereal. Microprojectile bombardment is currently the most widely used technique for gene transformation of recalcitrant species. Immature embryos of bread wheat cv. Atilla 50Y was used for optimization of gene transfer through biolistic bombardment because this cultivar has shown a good response to tissue culture of immature embryos in a previous study. Effect of pressure of bombardment (a1= 900 and a2 = 1100 psi), distance of bombardment from rapture disk to plate (b1 = 6, b2 = 7.5 and b3 = 9 cm) and number of bombardments (c1 = one and c2 = two) were studied in a factorial experiment based on completely randomized design with two replications. The results showed that small embryos (0.5-1.5 mm) had better response to bombardment than large embryos (1.5-3 mm). Minimum doses of kanamycin, hygromycin and bar as a selectable marker in our experiment on immature embryos of bread wheat cv. Atilla 50Y were identified as 75, 50 and 7.5 mg/l media. Number of blue spots per embryo at 1100 psi (13.13) was significantly different from that at 900 psi (11.42 ). Bombardment distance of 6 cm from rapture disk to plate and bombarding twice gave best results, although regeneration of plants declined by bombarding twice. Combination of 1100 psi with 6 cm bombardment distance (a2b1) acted best, six transgenic plants for bar and gus genes were obtained. Combination of a2b1c1 was better than the other bombardment combinations with respect to economic point of view and regeneration. Regeneration efficiency decreased by increasing number of bombardments."}
+	}}

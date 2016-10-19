@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of several packaging films on biochemical characteristics and microbiological counts of shredded cabbage at different storage conditions /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ibrahim, Roshita.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Osman, Azizah.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saari, Nazamid.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rahman, Russly Abdul.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plastic film"},
+	{"value":"packaging"},
+	{"value":"cabbages"},
+	{"value":"pakkausmateriaalit"},
+	{"value":"säilyvyys"},
+	{"value":"laatu"},
+	{"value":"kaalit"},
+	{"value":"packaging materials"},
+	{"value":"varastointi"},
+	{"value":"keeping quality"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000433",
+	"dct:identifier":"FI2016000433",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-agriculture-58.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Phosphorus release characteristics of manure and manure-impacted soils"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nair, Vimala D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Graetz, Donald A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dooley, Daniel O. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100126",
+	"dct:identifier":"FI2016100126",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Phosphorus (P) management for dairy and beef cattle operations can be improved by understanding P chemistry in manure and manure-impacted soils. This study characterizes the P forms in dairy and beef cattle manure, and evaluates P release characteristics of manure-impacted soils. Dairy and beef manure from 5 cattle was collected in two consecutive years and subjected to sequential P fractionation, using 1.0 M NH4Cl (labile P), 0.1 M NaOH (Fe/Al-P) and 0.5 M HCl (Ca/Mg-P) for 2, 17, and 24 h, respectively. In the second year, manure samples were also extracted repeatedly with 1.0 M NH4Cl until no more P was released. Phosphorus release was influenced primarily by Ca and Mg concentrations in the manure, and their P release potential varied with the manure source. The Ca:Mg ratios in the sequential water extracts of manure-impacted soils decreased from 1.0 in the first extract to 0.6 in the tenth extract for soils collected from active dairies with high rates of manure application. The ratio was a constant 2.0 for soils from abandoned dairies with high manure application rates. Ca:Mg ratios were even higher for beef pasture and forage soils. It also appears that Mg concentrations in the manure could have a detrimental effect on Ca-P stabilization in manure-impacted soils. To minimize the environmental impact of manure applications, it may be necessary to reduce the amount of Mg in the manure through diet or by pre-treatment prior to land application."}
+	}}

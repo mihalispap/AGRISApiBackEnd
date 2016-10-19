@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":[
+		{"value":"First feeding of Eugerres brasilianus (Carapeva) larvae with Acartia tonsa (Copepod) nauplii increases survival and resistance to acute stress",
+	"xml:lang":"eng"
+	},
+	{"value":"   Alimentação inicial de larvas de Carapeva Eugerres brasilianus com náuplios de Copepodo Acartia tonsa melhora a sobrevivência e resistência ao estresse agudo ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"disease resistance",
+	"xml:lang":"eng"
+	},
+	{"value":"larvae",
+	"xml:lang":"eng"
+	},
+	{"value":"stress",
+	"xml:lang":"eng"
+	},
+	{"value":"brachionus rotundiformis",
+	"xml:lang":"eng"
+	},
+	{"value":"saltwater fishes",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"72/n.4",
+	"bibo:doi":"10.17523/bia.v72n4p277",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2016F00006",
+	"dct:identifier":"BR2016F00006",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	},
+	"dct:issued":"2015-",
+	"bibo:uri":"http://dx.doi.org/10.17523/bia.v72n4p277",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"COSTA, W. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CARVALHO, C. V. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"PASSINI, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"TELES, A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CERQUEIRA, V. R."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"3) Brachionus plicatilis rotifers (5 to 7.5/mL) + A. tonsa nauplii (0.12 to 0.25/mL), and 4) no supply of live feed. After 15 days, the carapeva larvae were subjected to stress by exposure to air for 10 seconds and then returned to the source tank to evaluate survival after 24 h. Survival and stress resistance were higher in carapeva larvae fed B. plicatilis + A. tonsa nauplii (P"},
+	{"value":"3) rotíferos Brachionus plicatilis (5 a 7,5/ mL) + náuplios de A. tonsa (0,12 a 0,25/mL) e 4) sem suplementação de alimento vivo. Após 15 dias, as larvas de carapeva foram submetidas a estresse por exposição ao ar, por 10 segundos e retornadas aos tanques para avaliar a sobrevivência após 24 h. As larvas alimentadas com rotífero B. plicatilis + náuplio de A. tonsa apresentaram maiores sobrevivência e resistência ao estresse (P"},
+	{"value":"The rotifer Brachionus sp. is commonly used for larval feeding in marine fish hatcheries. The aim of this study was to evaluate whether the inclusion of Acartia tonsa nauplii in the initial diet of carapeva larvae improves their survival, growth and resistance to stress when compared to the regimen containing only rotifers. Adult copepods were collected in the wild and cultured with the microalgae Chaetoceros muelleri, Isochrysis galbana and Nannochloropsis oculata to obtain nauplii. Carapeva larvae were grown for 15 days using four treatments and three replicates: 1) Brachionus plicatilis rotifers (10 to 15/mL)",
+	"xml:lang":"eng"
+	},
+	{"value":"O rotífero Brachionus sp. é o alimento vivo mais comumente utilizado na larvicultura de peixes marinhos. O objetivo deste estudo foi avaliar se a inclusão de náuplios de Acartia tonsa na alimentação inicial de larvas de carapeva melhora sua sobrevivência, crescimento e resistência ao estresse, comparado com o regime contendo apenas rotíferos. Copépodos adultos foram coletados no ambiente e cultivados com as microalgas Chaetoceros muelleri, Isochrysis galbana and Nannochloropsis oculata para obtenção dos náuplios. As larvas de carapeva foram cultivadas por 15 dias com quatro tratamentos e três repetições: 1) rotíferos Brachionus plicatilis (10 a 15/mL)"},
+	{"value":"2) náuplios de A. tonsa (0,25 a 0,5/mL)"},
+	{"value":"2) A. tonsa nauplii (0.25 to 0.5/mL)",
+	"xml:lang":"por"
+	}
+	]
+	}}

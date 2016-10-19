@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of boric acid treatment on mechanical properties of laminated beech veneer lumber /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Colakoglu, Gürsel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Colak, Semra.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Aydin, Ismail.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yildiz, Umit C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Yildiz, Sibel.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Fagus"},
+	{"value":"laminated wood"},
+	{"value":"viilu"},
+	{"value":"treated LVL"},
+	{"value":"kemialliset menetelmät"},
+	{"value":"mechanical properties"},
+	{"value":"fysikaaliset ominaisuudet"},
+	{"value":"veneers"},
+	{"value":"kertopuu"},
+	{"value":"pyökki"},
+	{"value":"boric acid"},
+	{"value":"käsittely"},
+	{"value":"boorihappo"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000955",
+	"dct:identifier":"FI2016000955",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

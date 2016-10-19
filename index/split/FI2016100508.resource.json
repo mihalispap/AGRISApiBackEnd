@@ -1,0 +1,33 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/e14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Livestock impact on dynamic and structure of tropical dry forest of the Sierra de Manantlán, Mexico"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Montero-Solís, Flor María (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sánchez-Velásquez, Lázaro Rafael (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rosario Pineda-López, María del (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Martínez-Rivera, Luis Manuel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moermond, Timothy (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Aguirre, Juan Corral (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100508",
+	"dct:identifier":"FI2016100508",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Cattle foraging within tropical dry forest (TDF) is a common practice in West of Mexico. Effect of cattle exclosure on structure and dynamics of tropical dry forest was analyzed using four years’ record in the Sierra de Manantlán Biosphere Reserve, Mexico. Sixteen permanent plots were randomly established at four sites of TDF (eight plots with livestock exclosure and eight plots without livestock exclosure). During four years, all plant individuals ≥ 1.30 m height were recorded. Sixty species were registered, 41 in cattle exclusion treatments and 38 in treatment without exclusion; 20 species were shared among treatments during the four years study. Species richness was not significantly different (P>0.05) between treatments (plots with exclosure vs. plots without exclosure). Only until the fourth year, Shannon-Wiener index was significantly different between treatments (P < 0.05). For all species, except for three, higher population growth rates (λ) were observed at the exclosure treatment."}
+	}}

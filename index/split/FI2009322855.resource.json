@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic and morphoagronomic characterization of plantain variants of Musa AAB clone ‘CEMSA ¾’"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2009322855",
+	"dct:identifier":"FI2009322855",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/a18.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Hernández, Ricardo (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramírez, Teresa (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cañal, Maria Jesús (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guillen, Dagoberto (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Noceda, Carlos (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Escalona, Maritza (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Corujo, Miguel (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ventura, José (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rodríguez, Roberto (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Morphoagronomic and molecular characteristics of three field triploid Musa (AAB) clone ‘CEMSA ¾‘ variants Macho Criollo (Dwarf), Macho ¾ (Giant) and Commercial selection were studied. Molecular discrimination and setting to point of methods with each variant was carried out by means of AFLP analyses. The morphoagronomic differences among each variant corresponded to molecular differences observed in AFLP silver staining. This study should contribute to define markers of quality in the selection of original materials from commercial variant that will be destined to tissue culture."}
+	}}

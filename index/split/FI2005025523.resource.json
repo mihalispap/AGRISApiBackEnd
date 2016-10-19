@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Shelling characteristics of melon seeds"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005025523",
+	"dct:identifier":"FI2005025523",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_1/f20.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Okokon, Francis B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ekpenyong, Edet (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ukpoho, Akpan U. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A 2³ factorial experimental design was used to study the main and interaction effects of diameter, configuration and speed of an impeller on the shelling of melon seeds at 6.3 and 20.4% w.b. The characteristics studied were the percentage number of shelled and unbroken seeds, shelled but broken seeds, unshelled seeds and unshelled but broken seeds. The orientation of the seeds during impact with the metal ring was also studied by analyzing the number of shelled seeds found broken along the xx and yy axes of the seed. The percentage number of unshelled seeds was found to be reduced by 42.5% at 6.3% w.b. and 32.2% at 20.4% w.b. with increasing diameter at low speed. There was a corresponding increase in the percentage of shelled and unbroken seeds by 11.25% at 6.3% w.b. For increasing the speed with small diameter, the percentage number of unshelled seeds was reduced by 58% at 6.3% w.b and by 39% at 20.4 % w.b. The percentage number of shelled and unbroken seeds was found to increase by 7.5% at 6.3% w.b. Increasing the diameter and speed was found to increase the percentage number of shelled but broken seeds by 36.25% at 6.3% w.b. and by 40.5% at 20.4% w.b. The impeller configuration had negligible effect on the shelling characteristics. The analysis of shelled but broken seeds showed that most of the seeds broke along the xx and yy axes of the seeds. The number of seeds broken along the xx axis was twice or four times that of the seeds broken along the yy axis at 6.3 or 20.4% w.b."}
+	}}

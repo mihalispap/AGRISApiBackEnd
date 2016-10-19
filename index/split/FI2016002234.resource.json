@@ -1,0 +1,88 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/51465/18500",
+	"dct:language":"eng",
+	"dct:title":{"value":"Spatial and temporal variation in weather events critical for boreal agriculture : I Elevated temperatures .",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pirinen, Pentti,
+    kirjoittaja.
+    Ilmatieteen laitos
+    X0028
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mäkelä, Hanna M,
+    kirjoittaja.
+    Ilmatieteen laitos
+    X0028
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hyvärinen, Otto,
+    kirjoittaja.
+    Ilmatieteen laitos
+    X0028
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Huusela-Veistola, Erja,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ojanen, Hannu,
+    kirjoittaja.
+    Luonnonvarakeskus
+    LUKE
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Venäläinen, Ari,
+    kirjoittaja.
+    Ilmatieteen laitos
+    X0028
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vaihtelu"},
+	{"value":"Finland"},
+	{"value":"maatalous"},
+	{"value":"kasvintuotanto"},
+	{"value":"boreaalinen vyöhyke"},
+	{"value":"heat"},
+	{"value":"temperature"},
+	{"value":"plant production"},
+	{"value":"lämpötila"},
+	{"value":"animal welfare"},
+	{"value":"ilmasto"},
+	{"value":"boreal zone"},
+	{"value":"climatic factors"},
+	{"value":"kuumuus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002234",
+	"dct:identifier":"FI2016002234",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

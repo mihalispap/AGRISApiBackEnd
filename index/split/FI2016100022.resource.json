@@ -1,0 +1,16 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/environment-3.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"A note on the response by smallholder farmers to soil nutrient depletion in the East African highlands"},
+	"dct:creator":{"foaf:Person":{"foaf:name":"Shisanya, Chris A. (author)"
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100022",
+	"dct:identifier":"FI2016100022",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Agriculture provides a major share of national income and export earnings in many developing countries while ensuring food security, income and employment to a large proportion of the population. Many people in developing countries rely on the land to sustain their livelihoods. Land may also inspire cultural and spiritual values, and more generally strengthen a sense of belonging. Fertile, good quality soils are an essential component for farming. Soil is a living system of organisms reacting with organic and inorganic matter. The soil quality comprises a range of chemical, physical and biological factors, which together affect the productive potential of the land. For our purposes, soil degradation can be defined as a permanent decline in the rate at which land yields products that are useful for sustaining livelihoods. Examples of soil degradation processes include erosion, declining soil organic matter, soil nutrient depletion, compaction, acidification, salinisation and soil pollution. In this research note, I examine the response by smallholder farmers in Eastern Africa to soil nutrient depletion using locally available resources."}
+	}}

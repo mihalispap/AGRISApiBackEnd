@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Monitoring of Finnish arable land : changes in soil quality between 1987 and 1998.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mäkelä-Kurtto, Ritva.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sippola, Jouko.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrients"},
+	{"value":"viljelymaa"},
+	{"value":"raskasmetallit"},
+	{"value":"maaperä"},
+	{"value":"pellot"},
+	{"value":"ravinteet"},
+	{"value":"soil analysis"},
+	{"value":"trace elements"},
+	{"value":"arable soils"},
+	{"value":"heavy metals"},
+	{"value":"maa-analyysi"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001191",
+	"dct:identifier":"FI2016001191",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

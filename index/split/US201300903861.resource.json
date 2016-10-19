@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Trends in oil palm production in Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903861",
+	"dct:identifier":"US201300903861",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/a9.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ugbah, M.M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nwawe, C.N. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The dominant role of Nigeria in world palm oil production and export up to the 1960s, at a time it depended almost entirely on wild grove exploitation, is examined. Over time the bulk production from the grove, which mainly constituted low-yielding dura materials, was inadequate to satisfy even domestic demand, leaving nothing for export. The Far East countries, Malaysia and Indonesia, which from the onset pursued more aggressive plantation establishments with improved high-yielding materials, were soon to relegate Nigeria to a distant third position in world palm oil production. Nigerian’s efforts to meet domestic demand and have surplus for export, with various government policies and schemes to encourage plantation establishments and rehabilitation of groves right from the 1930s to the present are reviewed. The poor government policies and implementation strategies only resulted in a slow average growth rate of 4.7 percent for palm oil and palm kernel oil during the period. The need to step up production to a sustained plantings of up to 250,000 hectares per annum in line with the presidential initiative in order to meet domestic demands and go into export trade are discussed."}
+	}}

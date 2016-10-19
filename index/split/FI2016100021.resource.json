@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_3&4/agriculture-20.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of growth regulators on eggplants: Genetic engineering issues"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pessarakli, Mohammad Mahdi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dris, Ramdane (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100021",
+	"dct:identifier":"FI2016100021",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The purpose of this review article is to provide a clear and concise information on the effects of growth regulators on eggplant yield and quality as well as eggplant genetic engineering, major factors in increasing yield and improving quality of eggplant. Growth regulators (GRs) are used to enhance fruit setting process. Various GRs, mostly auxin-like substances, are known to improve fruit set in eggplants. Tested combinations indicated that the auxins and gibberellins offered the best prospects. Genetic engineering provides a means of transferring anti-coleopteran Bacillus thuringiensis (Bt) genes into the eggplant genome. Several genes have been tagged and isolated by using heterologous transposable elements. Similar approach is developed in eggplant using a double Ac/Ds system. The genetic variability within the Solanum melongena species is limited. Thus, introgression resistant genes from the wild species Solanum torvum and Solanum sisymbriifolium to domestic cultivars is needed. In general, optimum and proper use of growth regulators and genetic engineering substantially increase eggplant yield and improve the fruit quality."}
+	}}

@@ -1,0 +1,61 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Relationships between climate and winter cereal grain quality in Finland and their potential for forecasting /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hollins, Philip D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kettlewell, Peter S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Peltonen-Sainio, Pirjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Atkinson, Mark D.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"ruis"},
+	{"value":"Finland"},
+	{"value":"forecasting"},
+	{"value":"säteily"},
+	{"value":"crop yield"},
+	{"value":"lumi"},
+	{"value":"cereals"},
+	{"value":"syysviljat"},
+	{"value":"viljakasvit"},
+	{"value":"models"},
+	{"value":"Triticum aestivum"},
+	{"value":"sato"},
+	{"value":"sää"},
+	{"value":"mallit"},
+	{"value":"wheats"},
+	{"value":"quality"},
+	{"value":"syysvehnä"},
+	{"value":"climatic factors"},
+	{"value":"ennustaminen"},
+	{"value":"ympäristötekijät"},
+	{"value":"Secale cereale"},
+	{"value":"rye"},
+	{"value":"climate"},
+	{"value":"sadon laatu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000988",
+	"dct:identifier":"FI2016000988",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

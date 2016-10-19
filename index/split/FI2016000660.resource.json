@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/8841/10220",
+	"dct:language":"eng",
+	"dct:title":{"value":"Meat and bone meal as nitrogen and phosphorus supplier to cereals and oilseed rape.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nogalska, Anna,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Chen, Lin
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Sienkiewicz, Stanislaw,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nogalski, Zenon,
+    kirjoittaja.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fertilizers"},
+	{"value":"phosphate fertilizers"},
+	{"value":"meat meal"},
+	{"value":"oil crops"},
+	{"value":"organic fertilizers"},
+	{"value":"eloperäiset lannoitteet"},
+	{"value":"rape (plant)"},
+	{"value":"crop yield"},
+	{"value":"nitrogen fertilizers"},
+	{"value":"cereals"},
+	{"value":"viljakasvit"},
+	{"value":"plant production"},
+	{"value":"lannoitus"},
+	{"value":"bone meal"},
+	{"value":"öljykasvit"},
+	{"value":"Triticosecale"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000660",
+	"dct:identifier":"FI2016000660",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,86 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Including the Leaves of Calligonum polygonides or Acacia tortilis as a component in Grass Based Complete Diet on Gas Production and Rumen Fermentation",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":15,
+	"dc:subject":[
+		{"value":"complete feeds",
+	"xml:lang":"eng"
+	},
+	{"value":"experimentation in vitro",
+	"xml:lang":"fre"
+	},
+	{"value":"in vitro experimentation",
+	"xml:lang":"eng"
+	},
+	{"value":"digestion du rumen",
+	"xml:lang":"fre"
+	},
+	{"value":"acacia",
+	"xml:lang":"esp"
+	},
+	{"value":"rumen digestion",
+	"xml:lang":"eng"
+	},
+	{"value":"digestion ruminal",
+	"xml:lang":"esp"
+	},
+	{"value":"aliment complet pour animaux",
+	"xml:lang":"fre"
+	},
+	{"value":"rumiante",
+	"xml:lang":"esp"
+	},
+	{"value":"ruminants",
+	"xml:lang":"eng"
+	},
+	{"value":"piensos completos",
+	"xml:lang":"esp"
+	},
+	{"value":"acacia tortilis",
+	"xml:lang":"esp"
+	},
+	{"value":"experimentacion in vitro",
+	"xml:lang":"esp"
+	},
+	{"value":"ruminant",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":29,
+	"bibo:pageEnd":23,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000471",
+	"dct:identifier":"IN2015000471",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7987e6b1"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Nutrition (India)"},
+	"bibo:ISSN":{"value":"0970-3209"}
+	}
+	}
+	],
+	"dct:issued":"mar2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Jakhmola, R.C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pahuja, Taruna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, N."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raghuvansi, S.K.S."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Plant species as modulating agents are being aggressively investigated to increase efficiency of rumen fermentation. Calligonum polygoides and Acacia tortilis are important desert plant species, which can serve as top feeds for ruminant feeding. An experiment was conducted to evaluate mature Lasiurus sindicus based complete feed (Roughage: concentrate ratio; 75:25) with different levels (0, 5, 10%) of C. polygonoides or A. tortilis leaves using gas production technique. Leaves of C. polygonoides and A. tortilis contained 59 and 25 g/kg condensed tannins (CT) and 228 and 70 g/kg total phenols, respectively. Inclusion of both kinds of leaves did not exert any influence on gas production. However, the gas production constant (c) was 0.090 in complete feed and it increased significantly (P0.05) with both the supplements when included in complete feed. The contents of CT (r",
+	"xml:lang":"eng"
+	}
+	}}

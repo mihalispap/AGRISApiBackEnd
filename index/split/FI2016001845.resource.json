@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Apple fruit softening under controlled atmosphere : the potential role of cell wall enzymes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Siddiqui, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Streif, J.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bangerth, F.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"cold storage"},
+	{"value":"omena"},
+	{"value":"entsyymit"},
+	{"value":"hedelmät"},
+	{"value":"varastointi"},
+	{"value":"cell walls"},
+	{"value":"enzymes"},
+	{"value":"keeping quality"},
+	{"value":"controlled atmosphere storage"},
+	{"value":"enzyme activity"},
+	{"value":"säilyvyys"},
+	{"value":"apples"},
+	{"value":"säätöilmavarastot"},
+	{"value":"kylmävarastointi"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001845",
+	"dct:identifier":"FI2016001845",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

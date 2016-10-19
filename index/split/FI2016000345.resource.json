@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Metal concentrations in oats (Avena sativa L.) grown on acid sulphate soils.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fältmarsch, Rasmus.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Österholm, Peter.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Greger, Maria.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Åström, Mats.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"acid sulphate soils"},
+	{"value":"soil chemistry"},
+	{"value":"Finland"},
+	{"value":"kaura"},
+	{"value":"happamuus"},
+	{"value":"nutrient intake"},
+	{"value":"maaperä"},
+	{"value":"Avena sativa"},
+	{"value":"metals"},
+	{"value":"ravinteiden otto"},
+	{"value":"metallit"},
+	{"value":"sulfaattimaat"},
+	{"value":"maaperäkemia"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000345",
+	"dct:identifier":"FI2016000345",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

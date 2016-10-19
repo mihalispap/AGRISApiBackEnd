@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://ojs.tsv.fi/index.php/AFS/article/view/6831/5534",
+	"dct:language":"eng",
+	"dct:title":{"value":"Gypsum amendment of soils reduces phosphorus losses in an agricultural catchment.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ekholm, Petri.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Valkama, Pasi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Jaakkola, Elina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kiirikki, Mikko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lahti, Kirsti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Pietola, Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"sulphates"},
+	{"value":"fosfori"},
+	{"value":"vesiensuojelu"},
+	{"value":"suodatus"},
+	{"value":"monitoring"},
+	{"value":"maatalous"},
+	{"value":"kipsi"},
+	{"value":"phosphorus"},
+	{"value":"nutrients"},
+	{"value":"gypsum"},
+	{"value":"eutrophication"},
+	{"value":"ravinteiden huuhtoutuminen"},
+	{"value":"leaching"},
+	{"value":"sulfaatit"},
+	{"value":"huuhtoutuminen"},
+	{"value":"rehevöityminen"},
+	{"value":"pollution control"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001358",
+	"dct:identifier":"FI2016001358",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

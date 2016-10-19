@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":[
+		{"value":"Use of exogenous enzymes for poultry: A critical view",
+	"xml:lang":"eng"
+	},
+	{"value":"   Uso de enzimas exógenas na avicultura: Uma visão crítica ",
+	"xml:lang":"por"
+	}
+	],
+	"dc:subject":[
+		{"value":"broiler chickens",
+	"xml:lang":"eng"
+	},
+	{"value":"evaluation",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"67/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015F01557",
+	"dct:identifier":"BR2015F01557",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2010-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1302293547.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"CARDOSO,  D. M."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"LARA, L. J. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MIRANDA,  D. J. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"POMPEU, M. A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MACHADO,  A. L. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MATIAS,  C. F. Q."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"The search for alternatives that enable the reduction of production costs, especially in the poultry industry goes against the performance of products such as exogenous enzymes. However, efficient use of such products depends on meaningfull and concrete results on its potential benefits. Thus, much research has been conducted in attempt to elucidate the enzymes potential on improving the digestibility of ingredients and consequently on the performance of birds. Until then, the results presented, especially about the group of enzymes understood by carbohydrases and proteases are still very contradictory. Several methods and surface analysis adopted by researchers led to a series of inaccurate and biased conclusions. It is necessary to adopt specific assessments that glimpse the pratical potential and enzymes objective concerned to raw materials used in Brazil, aiming to achieve clear and timely results.",
+	"xml:lang":"eng"
+	},
+	{"value":"A busca por alternativas que possibilitem a redução dos custos produtivos, em especial na avicultura, vai ao encontro à atuação de produtos como as enzimas exógenas. No entanto, a utilização eficiente de tais produtos depende de resultados expressivos e concretos sobre seus possíveis benefícios. Desta forma, inúmeras pesquisas têm sido conduzidas na tentativa de elucidar melhor o poder das enzimas sobre a melhoria da digestibilidade de ingredientes e consequentemente, sobre o desempenho das aves. Até então, os resultados apresentados, principalmente sobre o grupo de enzimas compreendidas pelas carboidrases e proteases ainda são bastante contraditórios. Diversas metodologias e análises superficiais adotadas pelos pesquisadores levam a uma série de conclusões imprecisas e tendenciosas. Faz-se necessário a adoção de avaliações específicas que vislumbre o potencial prático e objetivo de complexos enzimáticos, sobre tudo que levem em consideração as matérias-primas usadas no Brasil, com vistas à obtenção de resultados claros e pontuais.",
+	"xml:lang":"por"
+	}
+	]
+	}}

@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Small ruminant marketing practices in southern Tamil Nadu",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":129,
+	"dc:subject":[
+		{"value":"ovin",
+	"xml:lang":"fre"
+	},
+	{"value":"ovinos",
+	"xml:lang":"esp"
+	},
+	{"value":"marketing",
+	"xml:lang":"eng"
+	},
+	{"value":"mercadeo",
+	"xml:lang":"esp"
+	},
+	{"value":"commercialisation",
+	"xml:lang":"fre"
+	},
+	{"value":"ganado",
+	"xml:lang":"esp"
+	},
+	{"value":"betail",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"tamil nadu",
+	"xml:lang":"esp"
+	},
+	{"value":"livestock",
+	"xml:lang":"eng"
+	},
+	{"value":"sheep",
+	"xml:lang":"eng"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":131,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000382",
+	"dct:identifier":"IN2015000382",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"apr2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Senthilkumar, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ramprabhu, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pandian, A. Serma Saravana"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A study was carried out to analyze the marketing practices of small ruminants in Tirunelveli district of Tamil Nadu. It was observed that majority of farmers preferred to sell animals in their own villages itself to reap the benefits of negotiation. The modes of transportation of sheep and goats to bring them to the market were mainly jeep/truck (32.7% in livestock market-I and 35.4% at market-II), followed by through walking and by autorickshaws. The main reasons for selling the animal was urgent need of money (marked by 52.73 and 58.46%), fodder scarcity (21.82%) and fear about sickness. The most common criterion used by respondents for selling of animals was based on muscle thickness at loin and thigh region (70.91 and 81.54% in livestock market-I and market-II, respectively). In most of the cases trading was based on muscle thickness of animals at loin and thigh region. It was observed that 50 to 60% of respondents sold male kids below 6 months of age.",
+	"xml:lang":"eng"
+	}
+	}}

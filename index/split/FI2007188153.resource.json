@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Magnesium supply by convenience products"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007188153",
+	"dct:identifier":"FI2007188153",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_2/f17.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Breitschädel, Ruth (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Messner, Claudia (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pfannhauser, Werner (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"A diet rich in variety will normally provide sufficient magnesium, but several studies show that people often do not meet their normative requirement. This study analyses the magnesium content in convenience products (ready-to-serve meals). It is important to note that the body requires more magnesium at times of stress, and that a rise in the consumption of ready-to-serve-meals often coincides with stressful periods due to a perceived lack of time for food preparation. In order to obtain the representative data, the magnesium content of 76 samples was analysed using flame atomic absorption spectrometry (FAAS). These results were compared with claimed values. The values were often found to differ, making a more measured value of claimed magnesium content useful. The meals have been divided into 11 groups according to kind of dish (meat, fish, vegetable, etc.). The average magnesium content of the single groups ranged from 17.9 mg (soups) to 86.6 mg (other dishes). The concentration of nutrients (the magnesium content and the calories of a meal compared to the recommended daily uptake) had a maximum in soups (1.93), satisfactorily values in fish, meat and poultry dishes and an important lack of magnesium in sweet dishes. The results from this analysis were used to create dietary plans taking the average nutrition value into consideration. A diet including ready-to-serve meals on a daily basis will provide recommended daily levels of magnesium, but they do not deliver enough magnesium to peoples with inborn genetic defects. Meeting essential nutrition requirements is best achieved through a well-balance diet."}
+	}}

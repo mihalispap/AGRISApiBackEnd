@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"A mesocosm study design using undisturbed soil monoliths.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Bruckner, Alexander.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kandeler, Ellen.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bauer, Roswitha.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wright, John.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kampichler, Christian.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"maaperäeliöstö"},
+	{"value":"methods"},
+	{"value":"forest soils"},
+	{"value":"soil fauna"},
+	{"value":"maaperäeläimistö"},
+	{"value":"maaperä"},
+	{"value":"soil biology"},
+	{"value":"koesuunnittelu"},
+	{"value":"Picea abies"},
+	{"value":"research"},
+	{"value":"design"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    International Colloquium on Soil Zoology
+    (11 :
+    1992)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000651",
+	"dct:identifier":"FI2016000651",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

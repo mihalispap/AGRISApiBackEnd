@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"nor",
+	"dct:title":{"value":"Effekt av modningsgrad og kjølelagring i bjørnebær.",
+	"xml:lang":"nor"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Heiberg, Nina.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"harvesting date"},
+	{"value":"cold storage"},
+	{"value":"ripening"},
+	{"value":"laatu"},
+	{"value":"varastointi"},
+	{"value":"korjuuajankohta"},
+	{"value":"kypsyminen"},
+	{"value":"sadonkorjuu"},
+	{"value":"Rubus allegheniensis"},
+	{"value":"quality"},
+	{"value":"marjat"},
+	{"value":"mustavatukka"},
+	{"value":"Norway"},
+	{"value":"dewberries"},
+	{"value":"kylmävarastointi"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminar
+    (260 :
+    1996 :
+    Ås)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001888",
+	"dct:identifier":"FI2016001888",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

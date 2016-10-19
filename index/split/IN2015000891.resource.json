@@ -1,0 +1,66 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Coconut the best food for human beings' health and longevity",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":15,
+	"dc:subject":[
+		{"value":"genero humano",
+	"xml:lang":"esp"
+	},
+	{"value":"longevidad",
+	"xml:lang":"esp"
+	},
+	{"value":"longevite",
+	"xml:lang":"fre"
+	},
+	{"value":"health",
+	"xml:lang":"eng"
+	},
+	{"value":"longevity",
+	"xml:lang":"eng"
+	},
+	{"value":"salud",
+	"xml:lang":"esp"
+	},
+	{"value":"coco",
+	"xml:lang":"esp"
+	},
+	{"value":"sante",
+	"xml:lang":"fre"
+	},
+	{"value":"mankind",
+	"xml:lang":"eng"
+	},
+	{"value":"noix de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"genre humain",
+	"xml:lang":"fre"
+	},
+	{"value":"coconuts",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":16,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000891",
+	"dct:identifier":"IN2015000891",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"jan2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Hegde, B. M.(Visiting Prof. of Cardiology, London University;Prof. Human Health, University of Northern Colorado, USA;Visiting Prof. Indian Institute of Advanced Study, Shimla;Retired Vice Chancellor, Manipal)"
+	}
+	},
+	"bibo:issue":9
+	}}

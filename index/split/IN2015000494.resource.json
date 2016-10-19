@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Efficacy of different insecticides against Dubas bug, Ommatissus lybicus (Deberg) Aschae and Wilson",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":240,
+	"dc:subject":[
+		{"value":"insecticides",
+	"xml:lang":"eng"
+	},
+	{"value":"phoenix dactylifera",
+	"xml:lang":"esp"
+	},
+	{"value":"insecticide",
+	"xml:lang":"fre"
+	},
+	{"value":"insecticidas",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":22,
+	"bibo:pageEnd":243,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000494",
+	"dct:identifier":"IN2015000494",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"sep2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":{"foaf:Person":{"foaf:name":"Abbaszadeh, G."
+	}
+	},
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"The efficacy of insecticides against Ommatissus lybicus was determined. Nine treatments viz., abamectin, acetamiprid, azadirachtin, hexaflumuron, imidacloprid, kaolin, azad.+ abam., azad. + kaol. and water (untreated check) were sprayed based on labled rates at village Cheharfarsakh, Kerman province, Iran, during 2013. In a farmers garden, 45 trees were randomly selected and tagged. The trees were sprayed with a wheeled pump sprayer with 100 l capacity. All the treatments were superior to untreated check. Among the treatments at all intervals, imidacloprid and acetamiprid showed superior efficacy to decrease dubas bug population. Based on the cumulative efficacy data, the order of efficacy was azadirachtin (34.3%)  azad.+kaol. (48.7%)  hexaflumuron (52.4%)  kaolin (53.9%)  azad.+abam. (58.7%)  abamectin (64.6%)  acetamiprid (96%)  imidacloprid (99%).",
+	"xml:lang":"eng"
+	}
+	}}

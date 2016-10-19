@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Retrospective study on prevalence and antibiogram of mastitis in cows and buffaloes of eastern Haryana",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":160,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"drug therapy",
+	"xml:lang":"eng"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"vaca",
+	"xml:lang":"esp"
+	},
+	{"value":"vache",
+	"xml:lang":"fre"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"haryana",
+	"xml:lang":"esp"
+	},
+	{"value":"mammite bovine",
+	"xml:lang":"fre"
+	},
+	{"value":"mastitis bovina",
+	"xml:lang":"esp"
+	},
+	{"value":"cows",
+	"xml:lang":"eng"
+	},
+	{"value":"therapeutique medicamenteuse",
+	"xml:lang":"fre"
+	},
+	{"value":"terapeutica medicamentosa",
+	"xml:lang":"esp"
+	},
+	{"value":"bovine mastitis",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":163,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000416",
+	"dct:identifier":"IN2015000416",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bhanot, Vandna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaudhri, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bisla, R.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, Harpreet"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Retrospective study on prevalence and antibiogram of mastitis in cows and buffaloes of Eastern Haryana over a period of six years from 2004 to 2009 revealed that mastitis prevalence was 85.3% in cows and 78.1% in buffaloes, respectively. The major factors influencing mastitis prevalence was number of lactations and higher rainfall. Based on cultural, morphological and biochemical examination of mastitis milk samples of positive mastitis cases, the predominant bacteria was Staphylococcus(43.6%) followed by Streptococcus (21.8%), Escherichia coli(16.3%), Klebsiella (5.4%), Corynebacterium pyogenes (5.4%), Pseudomonas aeruginosa (3, 6%), and) Bacillus (3.6%). Antibiogram revealed enrofloxacin to be the most sensitive drug (86.62% and 87.96%) in cows and buffaloes.",
+	"xml:lang":"eng"
+	}
+	}}

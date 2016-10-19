@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of harvest time on storage loss and sprouting in onion.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Suojala, Terhi.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"onions"},
+	{"value":"maturity"},
+	{"value":"harvesting date"},
+	{"value":"postharvest losses"},
+	{"value":"varastointi"},
+	{"value":"sprouting"},
+	{"value":"storage losses"},
+	{"value":"versominen"},
+	{"value":"keeping quality"},
+	{"value":"korjuuajankohta"},
+	{"value":"varastointitappiot"},
+	{"value":"kypsyminen"},
+	{"value":"sipuli"},
+	{"value":"Allium cepa"},
+	{"value":"sadon laatu"},
+	{"value":"storage"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001818",
+	"dct:identifier":"FI2016001818",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

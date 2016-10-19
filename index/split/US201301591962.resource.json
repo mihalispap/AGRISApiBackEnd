@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Seasonal changes in phosphorus and phosphatase compositions in soils enriched with poultry litter"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591962",
+	"dct:identifier":"US201301591962",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e4.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mankolo, Regine N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sistani, Karamat R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Senwo, Zachary N. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ranatunga, Thilini D. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Season and soil depth may play an important role in phosphorus (P) dynamics and mineralization in soil because of changes in soil moisture, temperature and microbial activity. This study was conducted to quantify P fractions and enzymatic activity from poultry litter (PL) application as affected by soil depth and time of application. Poultry litter was applied at the rate of 15.75 Mg ha-1 yr-1 based on N requirement of bermudagrass for maximum growth. Phosphorus distribution among different fractions (Al-, Fe- and Ca-bound; organic P and residual) was extracted sequentially. Results showed that P fractions were significantly affected by season and soil depth (P<0.01). Phosphorus fractions varied within season and soil depth with less P measured on the topsoil for early spring application. There was little P movement down to 10 cm depth. Enzyme activities were affected by the soil depth in the first year but no significant differences occurred in the second year. The smallest enzyme activity of 3.3 mg -nitrophenol kg-1soil h-1 was recorded with alkaline phosphatase in cool weather. Phosphatase activity, although related to P availability does not offer greater benefits in predicting soil P. Based on our analysis the concentration of P on the soil surface does not pose environmental concerns as related to the time of PL application for the short length of this study."}
+	}}

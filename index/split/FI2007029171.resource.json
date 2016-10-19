@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Studies on antimutagenic effects of citral in mice"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2007029171",
+	"dct:identifier":"FI2007029171",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_2/f10.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Rabbani, Syed Imam (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devi, Kshama (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shivananda, T. N. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Studies were conducted in 8 weeks old Swiss Albino mice for evaluation of antimutagenicity of citral extracted from Cymbopogon citratus using cyclophosphamide (CP) as mutagen. Five groups were maintained with six animals in each group to serve as replicate. Micronucleus (MN) assay was performed in polychromatic erythrocytes (PCE) and normochromatic erythrocytes (NCE) from bone marrow and peripheral blood samples at 24, 48 and 72 hours. MN assay suggested that MN (%) in PCE or NCE of both bone marrow and peripheral blood samples increased due to CP treatment. Citral administered at 40 or 80 mg/kg b.w. of the animal with CP brought down the MN (%) to significantly low levels suggesting that citral can be used as an antimutagenic agent. Citral dosage at 80 was better than 40 mg/kg b.w. of the animal registering 0.93 and 6.21% or 0.93 and 1.30% MN in PCE after 48 or 72 hours sampling in bone marrow samples respectively. When citral was administered continuously all the 7 days along with CP at 50 mg/kg b. w. the MN (%) was on par with control groups confirming the antimutagenicity of citral in mammalian cells."}
+	}}

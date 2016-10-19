@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Relative toxicity of insecticides against Coccinellid beetle, Cheilomenes sexmaculata (Fabricius)",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":17,
+	"dc:subject":[
+		{"value":"menochilus sexmaculatus",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"toxicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicite",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":20,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000209",
+	"dct:identifier":"IN2015000209",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pandi, G. Guru Pirasanna"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Paul, Bishwajeet"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shah, Vivek"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shankarganesh, K."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Among the insecticides tested, acetamiprid showed high toxic to grubs of Cheilomenes sexmaculata, followed by thiamethoxam, imidacloprid, buprofezin and neembaan. Imidacloprid showed 14.8 times more toxic in comparison to buprofezin, whereas neembaanÂ® produced less than 50% mortality irrespective of the concentration tested. Field recommended dose of imidacloprid @ 0.005% recorded 26, 32 and 36 % mortality at 24, 48, 72 hrs after treatment (HAT), respectively. However, field recommended dosage of acetamiprid @ 0.006 and thiamethoxam @ 0.005% caused almost 50% mortality. Whereas, buprofezin at recommended dose @ 0.013 % was considered to be safer, because it produced 10, 16, and 22 % mortality at 24, 48, and 72 HAT, respectively under laboratory conditions.",
+	"xml:lang":"eng"
+	}
+	}}

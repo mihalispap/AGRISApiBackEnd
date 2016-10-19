@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Simple microbial growth model applicable to dynamic temperature conditions: evaluation of a nondimensional model.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Kim SoJung
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lee DongSun
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"food contamination"},
+	{"value":"meat products"},
+	{"value":"biological contamination"},
+	{"value":"mathematical models"},
+	{"value":"temperature"},
+	{"value":"growth"},
+	{"value":"aerobiosis"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002044",
+	"dct:identifier":"FI2016002044",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

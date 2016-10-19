@@ -1,0 +1,39 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of clone and fertilization on the seed and foliar chemical composition of Scots pine (Pinus sylvestris) grafts.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Savonen, Eira-Maija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saarsalmi, Anna.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"nutrients"},
+	{"value":"mänty"},
+	{"value":"siemen"},
+	{"value":"Pinus sylvestris"},
+	{"value":"vartteet"},
+	{"value":"ravinnepitoisuus"},
+	{"value":"seeds"},
+	{"value":"chemical composition"},
+	{"value":"leaves"},
+	{"value":"neulaset"},
+	{"value":"seed stands"},
+	{"value":"siemenviljelmät"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001242",
+	"dct:identifier":"FI2016001242",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

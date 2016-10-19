@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Bioefficacy of fenpyroximate 5EC against european red Mite, Panonychus Ulmi koch. infesting apple",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":197,
+	"dc:subject":[
+		{"value":"panonychus ulmi",
+	"xml:lang":"esp"
+	},
+	{"value":"apples",
+	"xml:lang":"eng"
+	},
+	{"value":"manzana",
+	"xml:lang":"esp"
+	},
+	{"value":"pomme",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":201,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000900",
+	"dct:identifier":"IN2015000900",
+	"dct:type":"Thesaurus",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Pandey,  Ajay Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Maurya,  R. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mall,  Pramod"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Field trials were laid out to test the effectiveness of newer acaricide i.e. fenpyroximate (Pyromite) 5 EC against European red mite, Panonychus ulmi Koch, infesting apple in Harsil area of Uttarkashi district of Uttarakhand. The experiment was conducted on 12-15 years old apple trees cv. Golden delicious under randomized block design with three replications. Various dosage viz. 0.25, 0.5, 0.75, 1.0 and 2.0 ml/l of fenpyroximate were compared with conventional acaricides viz fenazaquin 10 EC (0.5 ml/l), sulfer (0.5 ml/l) and water spray against P. ulmi during 2010 and 2011. At highest dosage (2.0 ml/l), there was 83.88 and 85.67% reduction of mite population on first day after spray (DAS) which increased 97.33 and 98.33% on 10th DAS during 2010 and 2011, respectively. This was significantly superior with fenazaquin 10 EC (0.5 ml/l) and sulfer (0.5 ml/l) where 82.30 and 80.00; 82.30 and 78.60% reduction was recorded during two consecutive years, respectively. However, sulfur was found to be at par with fenazaquin. Significantly, highest yield (171.33 and 158.25 kg/tree) was recorded with highest dosage of fenpyroximate (2.0 ml/l) which was at par with lower dosage (1.0 ml/l) of fenpyroximate (170.25 and 155.25 kg/tree) (p 0.05 = 6.428 and 5.810) during two consecutive years. At 0.5 ml/l dosage, fenazaquin 10 EC (150.25 &143.75 kg/tree) proved to be at par with fenpyroximate (155.75 &148.25 kg/tree) (p 0.05= 6.4298 &5.810).",
+	"xml:lang":"eng"
+	}
+	}}

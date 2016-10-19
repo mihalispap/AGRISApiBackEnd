@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/e9.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"The life table of Cryptolaemus montrouzieri Mulsant (Coleoptera: Coccinellidae) after different storage periods"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Özgökçe, Mehmet Salih (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Atlihan, Remzi (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Karaca, İsmail (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100042",
+	"dct:identifier":"FI2016100042",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The life table of Cryptolaemus montrouzieri Mulsant (Coleoptera: Coccinellidae) was calculated on Planococcus citri (Risso (Homoptera: Coccidae) under laboratory conditions at 25±1°C and 45±5% relative humidity after different storage periods at 15°C of cooling. Experiments consisted of 5 groups including a control and design experiments that were run for 5, 10, 15 and 20 days, respectively. The following predictive parameters were obtained for the control and design experiments: intrinsic rate of increase rm = 0.098, 0.092, 0.074, 0.058 and 0.045; net reproductive rate R0 = 340.703, 276.629, 149.930, 119.321 and 65.928; mean generation time T0  = 59.350, 60.851, 67.726, 83.189 and 94.173, respectively. Doubling time DT = 7.2, 7.9, 9.3, 12.1 and 15.3, and finite rate of increment λ = 1.101, 1.092, 1.074, 1.059 and 1.046, were calculated as well. The reproductive value (Vx) for each group was plotted."}
+	}}

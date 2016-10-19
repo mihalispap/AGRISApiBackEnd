@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effectiveness of sermon policy instruments : forest management planning practices applying the activity theory approach.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hokajärvi, Raili.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hujala, Teppo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Leskinen, Leena A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Tikkanen, Jukka.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"toimintamallit"},
+	{"value":"advisory services"},
+	{"value":"activity theory"},
+	{"value":"laatu"},
+	{"value":"metsäpolitiikka"},
+	{"value":"yksityismetsät"},
+	{"value":"forest management"},
+	{"value":"forestry policies"},
+	{"value":"planning"},
+	{"value":"neuvonta"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"extension services"},
+	{"value":"quality"},
+	{"value":"farm forestry"},
+	{"value":"qualitative study"},
+	{"value":"non-industrial private forests"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000176",
+	"dct:identifier":"FI2016000176",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

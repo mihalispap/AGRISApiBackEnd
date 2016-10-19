@@ -1,0 +1,38 @@
+{"resource": {
+	"dct:language":"por",
+	"dct:title":{"value":"TIPO DE CRESCIMENTO E ASPECTOS REPRODUTIVOS DO PEIXE MARINHO OLIGOPLITES PALOMETA (OSTEICHTHYES: CARANGIDAE), NA COSTA DO RIO GRANDE DO NORTE, BRASIL.",
+	"xml:lang":"por"
+	},
+	"bibo:pageStart":25,
+	"bibo:volume":2,
+	"bibo:pageEnd":30,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015N00035",
+	"dct:identifier":"BR2015N00035",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19750"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Biota Amazônia (Biote Amazonie, Biota Amazonia, Amazonian Biota)"}
+	}
+	},
+	"dct:issued":2015,
+	"bibo:uri":"http://periodicos.unifap.br/index.php/biota/article/view/475",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Gustavo Soares Araújo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Andréa Soares Araújo"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sathyabama Chellappa"
+	}
+	},
+	{"foaf:Organization":{"foaf:name":"UFRN"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"O peixe marinho tibiro, Oligoplites palometa (Cuvier,1832) (Osteichthyes: Carangidae), é uma espécie importante, especialmente para a população nativa de pescadores do litoral de Natal, Rio Grande do Norte, Brasil. O presente trabalho verificou o tipo de crescimento e alguns aspectos reprodutivos, tais como a proporção sexual, o fator de condição, o índice gonadossomático e o desenvolvimento gonadal de O. palometa das águas costeiras da praia de Ponta Negra e Redinha, Natal, RN. Os peixes foram capturados, medidos, pesados e dissecados. As gônadas foram removidas e pesadas para identificação do sexo e determinação macroscópica dos estádios de maturação das gônadas. O crescimento de machos e fêmeas foi do tipo alométrico negativo, significando que houve um incremento em peso menor que em comprimento. Em relação à proporção sexual, houve um maior número de machos do que as fêmeas (2M:1F). O índice gonadossomático dos machos e das fêmeas não tiveram diferença significativa nos períodos chuvosos e de estiagem. Tanto para machos quanto para as fêmeas de O. palometa foi registrado uma baixa correlação entre o fator de condição e o índice gonadossomático. A análise macroscópica das gônadas permitiu a identificação de quatro estádios distintos de maturação em ambos os sexos de O. palometa: imatura, em maturação, madura e esvaziado.",
+	"xml:lang":"por"
+	}
+	}}

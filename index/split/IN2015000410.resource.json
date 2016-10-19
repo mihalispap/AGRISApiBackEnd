@@ -1,0 +1,80 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A Study on Carcass Characteristics of Mahabubnagar Goats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":121,
+	"dc:subject":[
+		{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"composicion de la canal",
+	"xml:lang":"esp"
+	},
+	{"value":"composition de la carcasse",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"carcass composition",
+	"xml:lang":"eng"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"inde",
+	"xml:lang":"fre"
+	},
+	{"value":"india",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":46,
+	"bibo:pageEnd":126,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000410",
+	"dct:identifier":"IN2015000410",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_915b56aa"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Research (India)"},
+	"bibo:ISSN":{"value":"0367-6722"}
+	}
+	}
+	],
+	"dct:issued":"jun2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ekambaram, B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gupta, B.R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prakash, M.G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sudhakar, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, V.R."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Eight male Mahabubnagar goats were slaughtered to study the meat production potential and carcass traits. The dressing percentages based on pre-slaughter weight and empty body weight were 44.60 Â± 0.95 and 59.74 Â± 1.07, while the average pre-slaughter weight, empty body weight and hot carcass weights were 24.36 Â± 1.00, 18.29 Â± 1.09 and 10.90 Â± 0.60 kg respectively. The mean edible and inedible organs weight were 0.81 Â± 0.02 and 6.97Â±0.25 kg respectively. The mean weight of primal cuts of carcass i.e., leg, loin, rack, neck and shoulder, breast and fore shank were 3.75 Â± 0.28, 1.10 Â± 0.04, 0.97 Â± 0.05, and 2.91 Â± 0.17 and 2.21 Â± 0.12 kg respectively. High proportion of meat in neck and shoulder (70.97%), bone in rack (37.33%) and fat in loin (5.71%) regions of primal cuts were noticed. The pre-slaughter weight and dressing percentages were correlated positively and significantly with all the primal cuts except loin. The pre-slaughter weight significantly contributed to the prediction of total edible organs, total inedible organs and different primal cuts.",
+	"xml:lang":"eng"
+	}
+	}}

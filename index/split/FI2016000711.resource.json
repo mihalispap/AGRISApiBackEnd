@@ -1,0 +1,58 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Extending the planting period of dormant and growing Norway spruce container seedlings to early summer /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Luoranen, Jaana.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rikala, Risto.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Konttinen, Kyösti.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Smolander, Heikki.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"planting stock"},
+	{"value":"kuusi"},
+	{"value":"root growth"},
+	{"value":"roots"},
+	{"value":"frozen storage"},
+	{"value":"pituuskasvu"},
+	{"value":"pakkasvarastointi"},
+	{"value":"selviytyminen"},
+	{"value":"seedlings"},
+	{"value":"height"},
+	{"value":"kasvu"},
+	{"value":"paakkutaimet"},
+	{"value":"istutusaika"},
+	{"value":"hot-lifting"},
+	{"value":"carbohydrates"},
+	{"value":"pot plants"},
+	{"value":"juuristo"},
+	{"value":"Picea abies"},
+	{"value":"survival"},
+	{"value":"growth"},
+	{"value":"hiilihydraatit"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000711",
+	"dct:identifier":"FI2016000711",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

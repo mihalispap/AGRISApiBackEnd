@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Weed infestation and factors affecting weed incidence in spring cereals in Finland - a multivariate approach /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Salonen, Jukka.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"environmental factors"},
+	{"value":"soil types"},
+	{"value":"ordinaatioanalyysi"},
+	{"value":"atk-ohjelmat"},
+	{"value":"biomass"},
+	{"value":"avena sativa"},
+	{"value":"computer applications"},
+	{"value":"statistical analysis"},
+	{"value":"finland"},
+	{"value":"triticum aestivum"},
+	{"value":"botanical composition"},
+	{"value":"tilastomenetelmät"},
+	{"value":"kevätviljat"},
+	{"value":"spring crops"},
+	{"value":"biomassa"},
+	{"value":"rikkakasvit"},
+	{"value":"viljelytekniikka"},
+	{"value":"weeds"},
+	{"value":"maalajit"},
+	{"value":"ympäristötekijät"},
+	{"value":"hordeum vulgare"},
+	{"value":"lajikoostumus"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000216",
+	"dct:identifier":"FI2016000216",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

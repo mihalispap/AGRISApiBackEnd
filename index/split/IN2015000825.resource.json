@@ -1,0 +1,56 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Fusarium infections of small cardamom in the field and its management",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":241,
+	"dc:subject":[
+		{"value":"fusarium oxysporum",
+	"xml:lang":"esp"
+	},
+	{"value":"pseudomonas fluorescens",
+	"xml:lang":"esp"
+	},
+	{"value":"trichoderma harzianum",
+	"xml:lang":"esp"
+	},
+	{"value":"cardamome",
+	"xml:lang":"fre"
+	},
+	{"value":"cardamoms",
+	"xml:lang":"eng"
+	},
+	{"value":"cardamomo",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":42,
+	"bibo:pageEnd":245,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000825",
+	"dct:identifier":"IN2015000825",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_1b550a66"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Journal of Plantation Crops (India)"},
+	"bibo:ISSN":{"value":"0304-5242"}
+	}
+	}
+	],
+	"dct:issued":"aug2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Vijayan, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shony M.Francis"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sudarshan, M.R."
+	}
+	}
+	],
+	"bibo:issue":2
+	}}

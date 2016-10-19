@@ -1,0 +1,89 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Coconut milk-the real facts",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":25,
+	"dc:subject":[
+		{"value":"technology",
+	"xml:lang":"eng"
+	},
+	{"value":"leche de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"eau de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"health",
+	"xml:lang":"eng"
+	},
+	{"value":"salud",
+	"xml:lang":"esp"
+	},
+	{"value":"valeur nutritive",
+	"xml:lang":"fre"
+	},
+	{"value":"sante",
+	"xml:lang":"fre"
+	},
+	{"value":"agua de coco",
+	"xml:lang":"esp"
+	},
+	{"value":"coconut milk",
+	"xml:lang":"eng"
+	},
+	{"value":"coconut water",
+	"xml:lang":"eng"
+	},
+	{"value":"tecnologia",
+	"xml:lang":"esp"
+	},
+	{"value":"nutritive value",
+	"xml:lang":"eng"
+	},
+	{"value":"lait de coco",
+	"xml:lang":"fre"
+	},
+	{"value":"technologie",
+	"xml:lang":"fre"
+	},
+	{"value":"valor nutritivo",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":"lvii",
+	"bibo:pageEnd":27,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000864",
+	"dct:identifier":"IN2015000864",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_f37b6481"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Coconut Journal (India)"},
+	"bibo:ISSN":{"value":"0970-0579"}
+	}
+	}
+	],
+	"dct:issued":"dec2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Lalitha Ramaswamy"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rajendran, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saraswathi, U."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Sughanya, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Geethadevi, C."
+	}
+	}
+	],
+	"bibo:issue":8
+	}}

@@ -1,0 +1,36 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Postharvest chemical properties and mineral contents of some fig (Ficus carica L.) cultivars in Tunisia.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Aljane, F.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ferchichi, A.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"varieties"},
+	{"value":"tropical fruits"},
+	{"value":"fruits"},
+	{"value":"nutritive value"},
+	{"value":"Ficus carica"},
+	{"value":"chemical composition"},
+	{"value":"mineral content"},
+	{"value":"figs"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001275",
+	"dct:identifier":"FI2016001275",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

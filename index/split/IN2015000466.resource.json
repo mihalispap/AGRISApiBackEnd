@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Cumulative milk yield for genetic evaluation of Surti sires",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":87,
+	"dc:subject":[
+		{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"race indigene",
+	"xml:lang":"fre"
+	},
+	{"value":"milk yield",
+	"xml:lang":"eng"
+	},
+	{"value":"parametros geneticos",
+	"xml:lang":"esp"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"parametre genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"rendimiento lechero",
+	"xml:lang":"esp"
+	},
+	{"value":"correlation genetique",
+	"xml:lang":"fre"
+	},
+	{"value":"rendement laitier",
+	"xml:lang":"fre"
+	},
+	{"value":"razas indigenas",
+	"xml:lang":"esp"
+	},
+	{"value":"evaluation genetique des peres",
+	"xml:lang":"fre"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"evaluacion de sementales",
+	"xml:lang":"esp"
+	},
+	{"value":"sire evaluation",
+	"xml:lang":"eng"
+	},
+	{"value":"land races",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic correlation",
+	"xml:lang":"eng"
+	},
+	{"value":"genetic parameters",
+	"xml:lang":"eng"
+	},
+	{"value":"correlacion genetica",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":88,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000466",
+	"dct:identifier":"IN2015000466",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Singh, Bachuchu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tailor, S.P."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"The coefficient of variation of cumulative milk yield ranged from 21.80 to 23.05%. The heritability estimates for cumulative milk yield from CMY 60  to CMY  were high, significant and varied within a narrow range. The genetic and phenotypic associations among all the segments of cumulative milk yield were positive and high. All the genetic and phenotypic correlations of TMY and 305FLMY with all segments of cumulative milk yields were also positive and highly significant. The product moment correlation coefficient between breeding value of sires for 305FLMY and cumulative milk yield CMY 60  and CMY 150  were 0.627 and 0.607 respectively. The results of rank and product moment correlation coefficients indicated that initial selection of sires may be done on the basis of either CMY and CMY 90 90  and finally on the basis of first lactation milk yield, where complete records are available.",
+	"xml:lang":"eng"
+	}
+	}}

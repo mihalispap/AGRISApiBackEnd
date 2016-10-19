@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Consumer evaluation of scrab-resistant apple cultivars in Sweden.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jönsson, Åsa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Nybom, Hilde.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"organoleptic analysis"},
+	{"value":"disease resistance"},
+	{"value":"taste (sensation)"},
+	{"value":"omena"},
+	{"value":"fruits"},
+	{"value":"hedelmät"},
+	{"value":"laatu"},
+	{"value":"maku"},
+	{"value":"plant breeding"},
+	{"value":"kasvinjalostus"},
+	{"value":"omenarupi"},
+	{"value":"aistinvarainen arviointi"},
+	{"value":"taudinkestävyys"},
+	{"value":"Spilocaea"},
+	{"value":"quality"},
+	{"value":"Malus"},
+	{"value":"apples"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000062",
+	"dct:identifier":"FI2016000062",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

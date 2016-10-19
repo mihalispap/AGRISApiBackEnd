@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Thinning intensity and growth of mixed spruce-birch stands on drained peatlands in Finland.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Repola, Jaakko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hökkä, Hannu.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Penttilä, Timo.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"kuusi"},
+	{"value":"thinning"},
+	{"value":"hieskoivu"},
+	{"value":"drainage"},
+	{"value":"harvennus"},
+	{"value":"mixed forests"},
+	{"value":"kasvu"},
+	{"value":"swamps"},
+	{"value":"Betula pubescens"},
+	{"value":"Picea abies"},
+	{"value":"metsäojitus"},
+	{"value":"growth"},
+	{"value":"suot"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001729",
+	"dct:identifier":"FI2016001729",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

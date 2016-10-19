@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Saltiness of coarsely ground cooked ham with reduced salt content.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ruusunen, Marita.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Särkkä-Tirkkonen, Marjo.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Puolanne, Eero.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"aistinvarainen arviointi"},
+	{"value":"hams"},
+	{"value":"suolapitoisuus"},
+	{"value":"meat products"},
+	{"value":"lihavalmisteet"},
+	{"value":"flavour"},
+	{"value":"maku"},
+	{"value":"organoleptic properties"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000181",
+	"dct:identifier":"FI2016000181",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Study of the polymorphism of common wheat using ISSR markers"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2005026468",
+	"dct:identifier":"FI2005026468",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_3_4/a8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"El Maati, F. Ben (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jlibéne, M. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Moumni, M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The development of molecular markers during the last years makes it possible to establish new approaches to improve the strategies of selection. The molecular markers become an essential tool in the selection programs of common wheat (Triticum aestivum) for resistance to diseases offering alternative solutions to the inherent problems to the use of the traditional phenotypical markers. The improvement of resistance to diseases in wheat via ISSR molecular markers associated with target genes will contribute to the improvement of the output of this cereal culture of great economic importance. In this article, we present results of polymerase chain amplification reactions carried out by using oligonucleotidic primers specific to inter-simple sequence repeat ISSR (into 5’) in 28 varieties of wheat. The goal of this work was to develop a simple and not-radioactive method to reveal polymorphisms among areas containing inter-simple sequence repeats ISSRs and also to determine the genetic relations between 28 known varieties. Six primers containing a dinucleotidic sequence (AG)8CA, (AG)8TA were used to reveal this polymorphism. The SN39 F2 primer is most polymorphic with a high number of markers (6). Thus a dendrogramme was established using the unweighted pair-group method analyzed (UPGMA) program and one could conclude a correlation with the geographical origin."}
+	}}

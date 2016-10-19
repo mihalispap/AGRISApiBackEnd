@@ -1,0 +1,48 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Bioremediation measure to minimize heavy metals accumulation in soils and crops irrigated with city effluent /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Adhikari, Tapan.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Manna, M. C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Singh, M. V.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Wanjari, R. H.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"jätevesi"},
+	{"value":"raskasmetallit"},
+	{"value":"wastewater"},
+	{"value":"maaperä"},
+	{"value":"viljelykasvit"},
+	{"value":"crops"},
+	{"value":"bioremediation"},
+	{"value":"kastelu"},
+	{"value":"heavy metals"},
+	{"value":"soil"},
+	{"value":"irrigation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000399",
+	"dct:identifier":"FI2016000399",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

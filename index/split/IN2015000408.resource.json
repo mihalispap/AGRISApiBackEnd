@@ -1,0 +1,107 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Awareness among goat keepers about cirg helpline service",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":250,
+	"dc:subject":[
+		{"value":"agricultores",
+	"xml:lang":"esp"
+	},
+	{"value":"diffusion de l'information",
+	"xml:lang":"fre"
+	},
+	{"value":"vulgarisation",
+	"xml:lang":"fre"
+	},
+	{"value":"vulgarisation agricole",
+	"xml:lang":"fre"
+	},
+	{"value":"goats",
+	"xml:lang":"eng"
+	},
+	{"value":"extension agricola",
+	"xml:lang":"esp"
+	},
+	{"value":"transfert de technologie",
+	"xml:lang":"fre"
+	},
+	{"value":"agriculteur",
+	"xml:lang":"fre"
+	},
+	{"value":"caprinos",
+	"xml:lang":"esp"
+	},
+	{"value":"professional services",
+	"xml:lang":"eng"
+	},
+	{"value":"technology transfer",
+	"xml:lang":"eng"
+	},
+	{"value":"diffusion of information",
+	"xml:lang":"eng"
+	},
+	{"value":"transferencia de tecnologia",
+	"xml:lang":"esp"
+	},
+	{"value":"extension activities",
+	"xml:lang":"eng"
+	},
+	{"value":"servicios profesionales",
+	"xml:lang":"esp"
+	},
+	{"value":"service professionnel",
+	"xml:lang":"fre"
+	},
+	{"value":"difusion de informacion",
+	"xml:lang":"esp"
+	},
+	{"value":"farmers",
+	"xml:lang":"eng"
+	},
+	{"value":"agricultural extension",
+	"xml:lang":"eng"
+	},
+	{"value":"extension",
+	"xml:lang":"esp"
+	},
+	{"value":"caprin",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":18,
+	"bibo:pageEnd":252,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000408",
+	"dct:identifier":"IN2015000408",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_79e446db"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Small Ruminants (India)"},
+	"bibo:ISSN":{"value":"0971-9857"}
+	}
+	}
+	],
+	"dct:issued":"oct2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Vijay"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Dixit, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Braj, Mohan"
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"Goat rearing is an important source of livelihood for many rural people in India. Central Institute for Research on Goats, Makhdoom established telephonic helpline service to solve their problems timely. During the year 2009â10, 1150 calls were received from 217 districts of 22 states. Nearly half of the calls were received from Uttar Pradesh followed by Bihar and Madhya Pradesh. July and August months were the more busy months compared to others. There was no significant difference in number of monthly calls from October 2009 to March 2010. Majority of the callers were men. Around 57% callers sought for training related information and 9.57% called for disease related information. Timely and relevant technical information in goat husbandry was provided through CIRG helpline service.",
+	"xml:lang":"eng"
+	}
+	}}

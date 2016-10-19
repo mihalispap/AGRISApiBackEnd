@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"The mitigation challenge of salt affected soils in Pakistan /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Irshad, Muhammad.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Inoue, Mitsuhiro.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ashraf, Muhammad.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ahmad, Zahoor.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Faridullah.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"hydrology"},
+	{"value":"Pakistan"},
+	{"value":"saline soils"},
+	{"value":"waterlogging"},
+	{"value":"arid zones"},
+	{"value":"desertification"},
+	{"value":"irrigation systems"},
+	{"value":"evapotranspiration"},
+	{"value":"irrigation"},
+	{"value":"soil"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000222",
+	"dct:identifier":"FI2016000222",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

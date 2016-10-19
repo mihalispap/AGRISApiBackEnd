@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/f14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of sorting, refrigeration and packaging on tomato shelf life"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"de Castro, Larissa R. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Cortez, Luís A. B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Vigneault, Clément (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100365",
+	"dct:identifier":"FI2016100365",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"In order to reduce horticultural produce losses, two Brazilian tomato varieties were submitted to post-harvest handling procedures combining sorting, refrigerated storage and different carton packages. These procedures were evaluated with respect to their effects on the produce shelf life. Studies were conducted to analyze coloration, firmness, flavour and weight loss changes in mature green tomatoes stored at 7oC, 13oC and ambient temperature (24oC). In general, after 9 days of storage, higher storage temperatures promoted higher sweetness and weight loss levels, as well as lower firmness. The study also included a comparison between some tomatoes held at 24oC for 9 days and a sample kept at 13oC for 22 days, showing that the produce from these storage conditions had fairly similar postharvest characteristic results. Although sorting and package factors affect some isolated characteristics, they did not seem to strongly influence tomato shelf life."}
+	}}

@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Land tenure and resource use patterns in the common lands of South-eastern Nigeria"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591985",
+	"dct:identifier":"US201301591985",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/e23.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bisong, Francis E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Animashaun, Adebayo I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Andrew-Essien, Elizabeth E. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Utang, Pius B. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Paper examines the pattern of common property resource use under open access regimes in South-eastern Nigeria. It explores the principal drivers and the efficiency levels of the observed land use patterns. Unregulated access to land was found to characterize the use of common lands as well as being the critical factor behind the rapidly shrinking commons. More land was acquired from the commons than can be maximally utilized. This was statistically verified by the application of multiple regression analysis. Urgent reforms in rural land acquisition patterns are required to stem the tide of environmental degradation in common lands. "}
+	}}

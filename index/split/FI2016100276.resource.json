@@ -1,0 +1,27 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a4.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Added benefits of combined organic and mineral phosphate fertilizers applied to maize and melon"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Akinrinde, E.A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Bello, O.S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Ayegboyin, K. O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Iroh, L. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100276",
+	"dct:identifier":"FI2016100276",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Acid infertility factors limiting plant growth and soil productivity in highly weathered soils of humid West Africa may be reversed through the use of low cost techniques of organic manuring and/or rock phosphate application. Investigation was conducted to evaluate the relative agronomic efficiency (RAE), phosphorus recovery (PR) and added benefits (AB) of combining organo-mineral (OM) fertilizer with Ogun rock phosphate, ORP (31.0% P2O5), Sokoto rock phosphate, SRP (36.0% P2O5) or single super phosphate, SSP (18% P2O5) using maize (Zea mays) and melon (Citrullus lanatus) as test crops on a medium acid Oxic Paleustalf and a weakly acid Typic Paleudalf. The soils were cropped two times after mixing with OM and/or ORP, SRP and SSP to supply P 0, 50 and 100 mg kg-1 with the treatment combinations replicated three times in a completely randomized design (CRD). Results showed that combined application of OM with SRP led to the highest biomass production of 2.24 g pot-1 of maize and 0.79 g pot-1 of melon, with tangible (positive) AB values (0.02 and 0.07, respectively) on the Oxic Paleustalf. The RAE of OM with respect to maize shoot biomass was higher (184.21%) on the Oxic Paleustalf compared with Typic Paleudalf (82.12%). For melon, SRP and OM + SRP produced the highest RAE of 115.5% and 127.27% on medium acid Oxic Paleustalf and weakly acid Typic Paleudalf, respectively. The magnitude of fertilizer P recoverable through the harvest of the crops was generally low (2.2–12.4%) but significantly (P<0.05) higher (about 10.0%) through maize production than through melon production (about 2.0%). The work further confirms that any of the fertilizers tested could be used as substitute for SSP while significant benefit could accrue from the application of combined OM and phosphate fertilizers to maize and melon when grown on either of the two soil types."}
+	}}

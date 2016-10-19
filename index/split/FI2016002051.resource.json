@@ -1,0 +1,44 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"The conservation potential of brook-side key habitats in managed boreal forests.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Selonen, Ville A. O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mussaari, Maija.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Toivanen, Tero.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Kotiaho, Janne S.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"saprolytic species"},
+	{"value":"nature conservation"},
+	{"value":"forest management"},
+	{"value":"biodiversity conservation"},
+	{"value":"deadwood"},
+	{"value":"vegetation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002051",
+	"dct:identifier":"FI2016002051",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

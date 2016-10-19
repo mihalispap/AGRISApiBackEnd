@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Pathomorphological changes induced by Datura stramonium seed toxicity in rats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":164,
+	"dc:subject":[
+		{"value":"semence",
+	"xml:lang":"fre"
+	},
+	{"value":"datura",
+	"xml:lang":"esp"
+	},
+	{"value":"rats",
+	"xml:lang":"eng"
+	},
+	{"value":"toxicite",
+	"xml:lang":"fre"
+	},
+	{"value":"rat",
+	"xml:lang":"fre"
+	},
+	{"value":"seed",
+	"xml:lang":"eng"
+	},
+	{"value":"semillas",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicity",
+	"xml:lang":"eng"
+	},
+	{"value":"rata",
+	"xml:lang":"esp"
+	},
+	{"value":"toxicidad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":167,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000104",
+	"dct:identifier":"IN2015000104",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Verma, S.K"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Srivastava, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gangwar, N.K."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"In this study, 63 rats of either sex, aged 4 weeks were randomly divided into three groups comprising 21 animals in each. The animals of group I provided distilled water and served as control, group II were provided Datura Eltramonium seed extract @1000 mg! kg body weight and group ill were administered Datura stramonium seed extract@2000mg/ kg body weight orally for 90 days. Seven rats were slaughtered at the intervals of 30, 60 and 90 days in each group for further study. Pathomorphologically, the size of brain of groups II and ill was comparatively smaller with congestion in meninges and choroid plexus and showed lesions of spongiosis, perineuronal and perivascular oedema. Liver of rats of group-II and group-ill were slightly enlarged and showing degenerative changes in the hepatocytes, dilated and congested sinusoids. Kidneys of rats of group-II and group-ill showed degenerative changes in tubules and presence of eosinophilic granular excretions retained in the tubular lumens. There was variable sized nodule in the lungs of rats of group-II and ill at 90 days of intervals showing presence of large flat squamous pleomorphic cells with hyperchromatic nuclei arranged irregularly in the alveolar lumens, at places degeneration, indicated lesions of pneumocytocarcinoma. Mild to moderate vacuolization and degenerative changes in cardiac myofibres at various intervals were observed. Testes showed congestion of scrotal plexus, excessive accumulation of watery fluid appearing as pink coloured homogeneous mass in the interstitial spaces.",
+	"xml:lang":"eng"
+	}
+	}}

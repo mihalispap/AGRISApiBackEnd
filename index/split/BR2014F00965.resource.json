@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   gypsum and potassium fertilization "},
+	{"value":"Yield, nutritional status and quality of alfafa under grazing and weed occurence in response to liming, gypsum and potassium fertilization",
+	"xml:lang":"eng"
+	},
+	{"value":"   Produção ",
+	"xml:lang":"por"
+	},
+	{"value":"   gessagem e adubação potássica "},
+	{"value":"   estado nutricional e qualidade da alfafa sob pastejo e ocorrência de plantas daninhas em resposta à calagem ",
+	"xml:lang":"eng"
+	},
+	{"value":"   nutritional status and quality of alfafa under grazing and weed occurence in response to liming "},
+	{"value":"   Yield "}
+	],
+	"dc:subject":[
+		{"value":"limes",
+	"xml:lang":"eng"
+	},
+	{"value":"gypsum",
+	"xml:lang":"eng"
+	},
+	{"value":"medicago sativa",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.1",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2014F00965",
+	"dct:identifier":"BR2014F00965",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1371731337.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"BERNARDI, A. C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"CARDOSO, R. D."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"MOTA, E. P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"FERREIRA, R. P."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"A alfafa é uma planta extremamente exigente em fertilidade, e os desbalanços na correção do solo e adubação podem levar a perda de vigor do alfafa1, originando o desenvolvimento agressivo de plantas daninhas. O objetivo deste trabalho foi avaliar o efeito da aplicação no solo de calcário, gesso e potássio na produção de massa de matéria seca, estado nutricional, qualidade da alfafa e na ocorrência de plantas daninhas. Os resultados indicaram que as práticas da calagem, associada à gessagem e as adubações com potássio podem contribuir decisivamente no aumento da longevidade do alfafa1. As maiores repostas da alfafa à adubação potássica ocorreram na maior saturação por bases (V = 80%) do solo. Foi também observada a tendência de diminuição da ocorrência de plantas daninhas com a melhora da fertilidade do solo. A qualidade nutricional da forrageira não foi afetada pelos tratamentos.",
+	"xml:lang":"por"
+	},
+	{"value":"Alfalfa is extremely demanding in fertility, calcium and fertilizer unbalance of soil can lead to loss of alfalfa vigor, causing the development of aggressive weeds. The aim of this study was to evaluate the effect of soil amendment with lime and gypsum and potassium fertilizer on the alfalfa dry matter production, nutritional status and quality and weed occurrence. The results indicated that the practices associated with the lime and gypsum and fertilization with potassium can contribute substantially to the increased longevity of alfalfa. The major responses of alfalfa to potassium fertilization occurred in the highest soil base saturation (V = 80%). A trend of decreasing the occurrence of weeds with the improvement of soil fertility was also observed. The forage nutritional quality was not affected by treatments.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

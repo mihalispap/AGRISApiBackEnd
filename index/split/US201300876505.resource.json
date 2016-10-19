@@ -1,0 +1,29 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Applications of fluorescent in situ hybridization (FISH) in environmental microbiology"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300876505",
+	"dct:identifier":"US201300876505",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_3_4/e13.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Souza, João V.B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"da Silva Júnior, Roberto Moreira (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Koshikene, Daniela (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Silva, Érica S. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Environmental microbiology utilizes indirect methods as microscopy and culture media to its studies. However, these conventional methodologies present problems to quantify and qualify microorganisms and their relation with the environment. The aim of this manuscript was to describe the application of fluorescent in situ hybridization (FISH) in environmental microbiology studies. It was discussed the limitations of conventional studies, the principles of the technique, advances produced by the introduction of this technique in environmental microbiology and also FISH limitations. FISH is a technique that employs fluorescent microscopy to observe specific microorganisms in natural samples identifying them by their nucleotide sequence of ribosomal ribonucleic acid (RNAr). Fluorescent probes, like an intelligent stain, hybridize exclusively with the RNAr of the chosen microorganisms allowing to: I) identify the microorganisms in environmental samples without the utilization of culture media; II) quantify the microorganisms directly in the sample; III) determine the morphology; IV) describe the spatial distribution and V) determine the natural relation between species. The RNAr allows the phylogeny studies due to its conserved and varied regions. FISH methodology has two main parts, the cell preparation and hybridization. The technique is not more complex than the pathology one. In environmental microbiology, FISH works have been carried out with samples originated from sea water, rivers, lakes, biofilms, soil, plants and animals. This molecular tool has allowed the first trusty “in situ” studies in this area."}
+	}}

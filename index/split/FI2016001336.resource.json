@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Additional insight into the performance of a new heuristic for solving spatially constrained forest planning problems.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zhu, Jianping.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bettinger, Pete.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Li, Rongxia.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forest management"},
+	{"value":"harvennus"},
+	{"value":"raintrop method"},
+	{"value":"harvesting"},
+	{"value":"metsäsuunnittelu"},
+	{"value":"heuristics"},
+	{"value":"heuristiikka"},
+	{"value":"aikataulut"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001336",
+	"dct:identifier":"FI2016001336",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

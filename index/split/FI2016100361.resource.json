@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_2/e19.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Susceptibility of Dennettia tripetala (Bak.) F. seeds to crude oil"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Agbogidi, O. Mary (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Onosode, A.T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Okonta, B. C. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100361",
+	"dct:identifier":"FI2016100361",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The effects of crude oil levels (0.00, 2.65, 5.31, 7.96 and 10.61%) on germination and seedling growth of Dennettia tripetala were studied in 2004 in Asaba, Delta State, Nigeria. The soil mixture used was a 2:1 ratio of topsoil to well decomposed organic manure. The experimental design adopted was  a randomized complete block design (RCBD) with three replications. The results showed that oil concentrations of 5.31 and 7.96% significantly  (p<0.05) affected percentage germination of this indigenous forest fruit tree species (59.14 and 34.01%, respectively) compared to the control (100%). No germination was recorded in D. tripetala seeds grown in soil treated with 10.61% (w/w) oil. A negative interaction was observed between the performance of D. tripetala seedlings (in terms of plant height, number of leaves, leaf area and collar girth) and the concentration of crude oil  applied to the soil. The present study demonstrated that soil pollution by crude oil has a highly significant effect on the growth of D. tripetala. The  study also indicate that D. tripetala has a remediation potential in crude oil- contaminated sites."}
+	}}

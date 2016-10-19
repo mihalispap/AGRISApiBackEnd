@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Tillage depth and forward speed effects on draft of three primary tillage implements in clay loam soil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Naderloo, L.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Alimadani, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Akram, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Javadikia, P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Khanghah, H. Z.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"disc ploughs"},
+	{"value":"soil types"},
+	{"value":"ploughing"},
+	{"value":"farm equipment"},
+	{"value":"tillage"},
+	{"value":"equipment testing"},
+	{"value":"ploughs"},
+	{"value":"equipment performance"},
+	{"value":"mouldboard ploughs"},
+	{"value":"depth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001274",
+	"dct:identifier":"FI2016001274",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

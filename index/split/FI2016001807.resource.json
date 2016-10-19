@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Sensitivity of soil phosphorus tests in predicting the potential risk of phosphorus loss from pasture soil.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Soinne, Helena.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Saarijärvi, Kirsi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karppinen, Minna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hartikainen, Helinä.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"fosfori"},
+	{"value":"soil chemistry"},
+	{"value":"soil pH"},
+	{"value":"farmyard manure"},
+	{"value":"pastures"},
+	{"value":"losses from soil"},
+	{"value":"phosphorus"},
+	{"value":"extraction"},
+	{"value":"soil analysis"},
+	{"value":"laitumet"},
+	{"value":"maaperä"},
+	{"value":"grasslands"},
+	{"value":"nurmet"},
+	{"value":"testit"},
+	{"value":"karjanlanta"},
+	{"value":"leaching"},
+	{"value":"huuhtoutuminen"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001807",
+	"dct:identifier":"FI2016001807",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

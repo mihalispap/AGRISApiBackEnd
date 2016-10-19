@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Mineral contents of tissues and body fluids and heavy metal contaminants of four predominant snail species in the Niger Delta.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Hamilton-Amachree, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mepba, H. D.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ogunka-Nnoka, C. U.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"calcium"},
+	{"value":"snails"},
+	{"value":"zinc"},
+	{"value":"magnesium"},
+	{"value":"copper"},
+	{"value":"pollutants"},
+	{"value":"body fluids"},
+	{"value":"potassium"},
+	{"value":"lead"},
+	{"value":"phosphorus"},
+	{"value":"sodium"},
+	{"value":"iron"},
+	{"value":"heavy metals"},
+	{"value":"chromium"},
+	{"value":"mineral content"},
+	{"value":"mercury"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000233",
+	"dct:identifier":"FI2016000233",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

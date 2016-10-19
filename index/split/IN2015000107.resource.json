@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Haemato-biochemical and histopathological changes following sub-acute exposure to acetamiprid in male Wistar rats",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":179,
+	"dc:subject":[
+		{"value":"haematobia",
+	"xml:lang":"esp"
+	},
+	{"value":"histoplasma",
+	"xml:lang":"esp"
+	},
+	{"value":"rata",
+	"xml:lang":"esp"
+	},
+	{"value":"rats",
+	"xml:lang":"eng"
+	},
+	{"value":"rat",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":36,
+	"bibo:pageEnd":182,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000107",
+	"dct:identifier":"IN2015000107",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_b729fe30"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Veterinary Pathology (India)"},
+	"bibo:ISSN":{"value":"0250-4758"}
+	}
+	}
+	],
+	"dct:issued":"dec2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Doltade, Sagar A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raut, Sachin"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Badgujar, Prarabdh C."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandratre, Gauri"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kurade, Nitin P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Telang, A.G."
+	}
+	}
+	],
+	"bibo:issue":2,
+	"bibo:abstract":{"value":"lndiscriminateuse of pesticides has elevated the risk of contamination of environment. Acetamiprid (ACE), a member of neonicotinoid synthetic chlorinated insecticide family is a new insecticide that has recently introduced in the market. The use of acetamiprid against a wide range of insects,both in agricultural and domestic areas, is very common. Present study was undertaken to investigate haemato-biochemical and histopathological changes in male Wistar rats after subacute exposure to acetamiprid. Male Wistar rats were divided in to three groups. GroupI(control)and II (vehicle control) were administered distilled water and groundnut oil, respectively. Group III was administered acetamiprid(1/10LOso)52.50mg/kg body weight. Administration of acetamiprid (52.50 mg/kg p.o.) for 28 days resulted in significant decreasein Hb, TEC and non significant decrease in PCV values. There was significant increase in ALT, AST, LOH and Creatinine kinase leveJsin serum. Acetamiprid treatment caused  istopathological changes in liver and kidney of rats. In liver moderate degenerative changes,individual cell necrosis and karyomegaly were noticed. In kidneys mild glomerular oedema, congestion, desquamated lining epithelialcells were observed.",
+	"xml:lang":"eng"
+	}
+	}}

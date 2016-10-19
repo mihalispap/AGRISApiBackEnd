@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Prevalence of risk factors for bovine subclinical mastitis in two major dairy areas in Trinidad.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Benjamin, Lisa.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Adesiyun, Abiodun.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Harewood, Winthrop.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"residues"},
+	{"value":"antibiotics"},
+	{"value":"riskitekijät"},
+	{"value":"lypsykarja"},
+	{"value":"eläintaudit"},
+	{"value":"maito"},
+	{"value":"animal diseases"},
+	{"value":"cows"},
+	{"value":"dairy cattle"},
+	{"value":"utaretulehdus"},
+	{"value":"lääkkeet"},
+	{"value":"lehmät"},
+	{"value":"lypsy"},
+	{"value":"milk"},
+	{"value":"milking"},
+	{"value":"jäämät"},
+	{"value":"eläinlääkkeet"},
+	{"value":"antibiootit"},
+	{"value":"morbidity"},
+	{"value":"bovine mastitis"},
+	{"value":"risk factors"},
+	{"value":"tanks"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001264",
+	"dct:identifier":"FI2016001264",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

@@ -1,0 +1,49 @@
+{"resource": {
+	"dct:title":{"value":"Variations in Culturable Terrestrial Bacterial Communities and Soil Biochemical Characteristics Along an Altitude Gradient Upstream of the Shule River, Qinghai-Tibetan Plateau",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"soil chemistry",
+	"xml:lang":"eng"
+	},
+	{"value":"bacteria",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513073",
+	"dct:identifier":"IN2016513073",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=16",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Baogui Zhang"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Wei Zhang"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Guangxiu Liu"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tuo Chen"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gaosen Zhang"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Xiukun Wu"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Variations in the culturable terrestrial bacterial communities and soil biochemical parameters along an altitude gradient (from 1260m to 4111m) upstream of the Shule River, Qinghai-Tibetan Plateau, were investigated. The results showed that the number of cultivable bacteria varied between 0.4×107 and 3.3×107 CFU/g, with an average of 1.6×107 CFU/g. 168 isolates from these soils were clustered into 34 groups by amplified ribosomal DNA restriction analysis (ARDRA). These groups are affiliated to 15 genera that belong to six taxa, a-Proteobacteria, b-Proteobacteria, g-Proteobacteria, Actinobacteria, Firmicutes and Bacteroides, of which Bacillus and Arthrobacter were the dominant species at the level of the genus. The relative abundance of Arthrobacter increased significantly at high altitude. Correlation analysis showed that the total number of culturable bacteria in the soils decreased first and then increased below 3000m, and these trends significantly positively correlated to the soil organic C, total N and the activities of soil sucrase, and positively correlated to the activities of soil urease and catalase. However, when the altitude exceeded 3000m, cultivable bacterial number dramatically declined, although soil organic carbon, total nitrogen and enzyme activities were relatively high. While the diversity index of bacteria increased along with the increased altitude as a whole and there existed a significantly positive correlation between altitude and bacteria diversity. Together, these results illustrated that culturable bacterial numbers were mainly influenced by soil biochemical properties while bacterial diversity was mainly influenced by altitude in this region.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,54 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of woodfuel production on the environment and people in Adaklu Traditional Area, Ghana.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Adanu, S. K.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schneider, T.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Stimm, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mosandl, R.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"forests"},
+	{"value":"Ghana"},
+	{"value":"socioeconomic development"},
+	{"value":"terveysvaikutukset"},
+	{"value":"environmental impact"},
+	{"value":"fuelwood"},
+	{"value":"rural communities"},
+	{"value":"sosioekonomiset tekijät"},
+	{"value":"energialähteet"},
+	{"value":"metsien häviäminen"},
+	{"value":"ympäristövaikutukset"},
+	{"value":"metsät"},
+	{"value":"polttopuu"},
+	{"value":"energy"},
+	{"value":"deforestation"},
+	{"value":"public health"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000011",
+	"dct:identifier":"FI2016000011",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

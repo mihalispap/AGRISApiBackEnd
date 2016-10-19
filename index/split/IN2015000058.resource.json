@@ -1,0 +1,92 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of Dietary Supplementation of Enzymes on Performance of Broiler Chickens in Maize-Soybean Meal based Diet",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":297,
+	"dc:subject":[
+		{"value":"enzimas",
+	"xml:lang":"esp"
+	},
+	{"value":"poulet de chair",
+	"xml:lang":"fre"
+	},
+	{"value":"supplements",
+	"xml:lang":"eng"
+	},
+	{"value":"pollo de engorde",
+	"xml:lang":"esp"
+	},
+	{"value":"consommation alimentaire (animaux)",
+	"xml:lang":"fre"
+	},
+	{"value":"efficacite conversion alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"complement alimentaire",
+	"xml:lang":"fre"
+	},
+	{"value":"feed consumption",
+	"xml:lang":"eng"
+	},
+	{"value":"enzyme",
+	"xml:lang":"fre"
+	},
+	{"value":"enzymes",
+	"xml:lang":"eng"
+	},
+	{"value":"eficiencia de conversion del pienso",
+	"xml:lang":"esp"
+	},
+	{"value":"feed conversion efficiency",
+	"xml:lang":"eng"
+	},
+	{"value":"suplementos",
+	"xml:lang":"esp"
+	},
+	{"value":"consumo de piensos",
+	"xml:lang":"esp"
+	},
+	{"value":"broiler chickens",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":12,
+	"bibo:pageEnd":303,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000058",
+	"dct:identifier":"IN2015000058",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Panda, A.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lavanya, G."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Reddy, E. Pradeep Kumar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rao, S.V. Rama"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Raju, M.V.L.N."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"The present study was conducted to evaluate the effect of multi-carbohydrase enzymes (xylanase, glucanase, cellulase and mannanase) supplementation in maize-soybean meal based diet on the performance of broiler chickens. Control starter (0-3 wk) and finisher (4-6 wk) diet based on maize-soybean meal was formulated to meet respective nutrient requirement. Another low energy diet was formulated in which the AME value was lowered by 100 kcal/kg. Three other experimental diets were formulated by adding 1x (low), 2x (medium) and 3x (high) concentration of enzymes per kg to the low energy diet. The content of enzymes in 1x concentration per kg diet was xylanaseâ3250 U, glucanaseâ1200 U, cellulaseâ900 U and mannanase 4000 U. Each diet was fed at random to 10 replicates of 6 chicks each throughout the experimental period. Supplementation of enzymes at the lowest concentration to the low energy diet resulted in higher weight gain at 3 wks, improved feed conversion ratio at both 3 and 6 weeks of age, and higher retention of nitrogen and energy and the values were similar to control group. No difference on performance could be noticed due to variation in the dose of enzymes indicating that lowest concentration of enzymes employed was adequate in eliciting the desired response. The carcass characteristics did not vary significantly amongst the dietary groups except the abdominal fat content. The abdominal fat content was significantly lower in the birds fed the low energy diet compared to either control or enzyme supplemented diets. Thus, it is concluded that AME can be reduced by 100kcal/kg in maize-soybean meal based diet by supplementing carbohydrase enzyme.",
+	"xml:lang":"eng"
+	}
+	}}

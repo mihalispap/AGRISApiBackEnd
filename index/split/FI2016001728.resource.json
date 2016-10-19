@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"dan",
+	"dct:title":{"value":"Retningslinier for integreret produktion af æble og pære.",
+	"xml:lang":"dan"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    NJF-seminarium
+    (254 :
+    1995 :
+    Mariehamn)
+  
+	"
+	}
+	},
+	"dc:subject":[
+		{"value":"Malus baccata"},
+	{"value":"hedelmänviljely"},
+	{"value":"omena"},
+	{"value":"integroitu tuotanto"},
+	{"value":"fruit crops"},
+	{"value":"päärynä"},
+	{"value":"puutarhaviljely"},
+	{"value":"Denmark"},
+	{"value":"hedelmät"},
+	{"value":"Pyrus communis"},
+	{"value":"integrated plant production"}
+	],
+	"field:bibo:presentedAt":{"field:bibo:Conference":{"dct:title":"
+    NJF-seminarium
+    (254 :
+    1995 :
+    Mariehamn)
+  "
+	}
+	},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001728",
+	"dct:identifier":"FI2016001728",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

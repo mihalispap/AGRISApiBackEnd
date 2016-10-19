@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"A preliminary survey of aquatic beetles with some new records from the fresh water lake, Loktak of Manipur, North East India",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":207,
+	"dc:subject":[
+		{"value":"insecta",
+	"xml:lang":"esp"
+	},
+	{"value":"coleoptera",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":76,
+	"bibo:pageEnd":214,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000902",
+	"dct:identifier":"IN2015000902",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_4229e87b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Entomology"},
+	"bibo:ISSN":{"value":"0367-8288"}
+	}
+	}
+	],
+	"dct:issued":"sept.2014",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Devi M. Bhubaneshwari"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Devi O. Sandhyarani"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, S. Dineshwar"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Singh, P. Ranabir"
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"Water beetles (Coleoptera) are an important part of most aquatic ecosystems both in larval and adult  stages. Of the 14 families of aquatic coleopterans, a large number of species are of in the family Dytiscidae and Hydrophilidae followed by Noteridae, Chrysomelidae, Elmidae, Curculionidae and Hydraenidae as has been found in the Loktak Lake. The distribution and diversity of 24 aquatic beetles based on the work conducted from 2012-2013 in the 12 collection sites of Loktak Lake of Manipur is given. 11 new records are reported.",
+	"xml:lang":"eng"
+	}
+	}}

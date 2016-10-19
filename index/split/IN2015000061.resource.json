@@ -1,0 +1,83 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Jerusalem Artichoke as a Potential Prebiotic: Influence on Nutrient Utilization, Hindgut Fermentation and Immune Response of Labrador Dogs",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":343,
+	"dc:subject":[
+		{"value":"respuesta inmunologica",
+	"xml:lang":"esp"
+	},
+	{"value":"perro",
+	"xml:lang":"esp"
+	},
+	{"value":"fisiologia de la nutricion",
+	"xml:lang":"esp"
+	},
+	{"value":"dogs",
+	"xml:lang":"eng"
+	},
+	{"value":"immune response",
+	"xml:lang":"eng"
+	},
+	{"value":"pataca",
+	"xml:lang":"esp"
+	},
+	{"value":"topinambour",
+	"xml:lang":"fre"
+	},
+	{"value":"physiologie de la nutrition",
+	"xml:lang":"fre"
+	},
+	{"value":"jerusalem artichokes",
+	"xml:lang":"eng"
+	},
+	{"value":"chien",
+	"xml:lang":"fre"
+	},
+	{"value":"nutrition physiology",
+	"xml:lang":"eng"
+	},
+	{"value":"reponse immunitaire",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":12,
+	"bibo:pageEnd":352,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000061",
+	"dct:identifier":"IN2015000061",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_933a208b"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Animal Nutrition and Feed Technology (India)"},
+	"bibo:ISSN":{"value":"0972-2963"}
+	}
+	}
+	],
+	"dct:issued":"sep2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Samal, Lipismita"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chaturvedi, V.B."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saxena, S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Baliyan, Meeta"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pattanaik, A.K."
+	}
+	}
+	],
+	"bibo:issue":3,
+	"bibo:abstract":{"value":"In order to explore the potential of Jerusalem artichoke (JA) as a prebiotic, four groups (CON, PRE-1, PRE-2 and PRE-3) of adult Labrador dogs (n=4 in each) were fed for 90d on a basal diet supplemented with pulverized JA tuber at 0, 1, 2 and 3% levels, respectively. Cell-mediated immunity was assessed on d56 by measuring skin indurations following intra-dermal phytohaemagglutinin-P inoculation. At d60, peripheral lymphocyte sub-populations in blood were assessed by flow cytometry. Humoral immunity was assessed by quantifying the antibody titre against sheep-RBC (SRBC). A digestion trial of 6d duration was conducted after 80d of feeding. Results revealed an increase (P=0.016) in skin indurations in PRE1 and PRE-2 compared to CON and PRE-3. There was no impact of JA on circulating peripheral CD3+ and CD8+ populations, however, CD4+ populations enhanced (P=0.005) in JA supplemented groups than CON. The antibody titre (log2) against SRBC was also higher (P=0.007) in treatment groups than control. There was an increase (PÂ¡Ã0.05) in faecal concentration of lactate and short-chain fatty acids with a concomitant reduction in ammonia. The faecal counts (log10 cfu/g) of health-positive Bifidobacterium (P=0.035) and Lactobacillus (P=0.062) were higher in treatment groups while health-negative coliforms and Clostridium counts remained unaltered. The digestion trial indicated that JA supplementation improved the digestibility of fibre (P=0.003) along with that of calcium and phosphorus. Overall findings revealed that JA may constitute a perspective prebiotic additive because of its apparent positive impacts on immune status as well as hindgut fermentation.",
+	"xml:lang":"eng"
+	}
+	}}

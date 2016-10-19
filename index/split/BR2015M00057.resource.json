@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2011,
+	"dct:dateSubmitted":2016,
+	"dct:language":"por",
+	"dct:title":{"value":"Análise de fatores prognósticos relacionados à sobrevida de crianças portadoras de meduloblastoma",
+	"xml:lang":"por"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Bruna Lorena de Jesus Martins "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Camila Faria Corrêa "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mical de Melo Peres "
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/BR2015M00057",
+	"dct:identifier":"BR2015M00057",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19747"
+	},
+	"bibo:abstract":{"value":"O meduloblastoma é o câncer no sistema nervoso central mais frequente em pediatria, apresentando significativa mortalidade e morbidade. Esta neoplasia progrediu expressivamente nos últimos anos em termos de sobrevida, alcançando taxas de 70%. Apesar dos avanços nas taxas de sobrevida para alguns pacientes, para outros, considerados de alto risco, essas taxas ainda são muito pequenas. Contudo, este estudo tem por objetivo identificar e analisar na literatura existente os fatores prognósticos que mais afetam a sobrevida de crianças portadoras de MBs. Para tanto, foi realizada uma busca não-sistemática da literatura por meio de consulta aos indexadores de pesquisa nas bases de dados eletrônicos especializados. Concluiu-se que os fatores prognósticos que mais influenciam na sobrevida destes pacientes foram ressecção cirúrgica, idade e disseminação da doença.",
+	"xml:lang":"por"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Estação Científica (UNIFAP)"}
+	}
+	}
+	}}

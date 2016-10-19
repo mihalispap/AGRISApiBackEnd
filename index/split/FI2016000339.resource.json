@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.isfae.org/scientificjournal.php",
+	"dct:language":"eng",
+	"dct:title":{"value":"Protein-starch interaction and their effect on thermal and rheological characteristics of a food system: a review.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Jamilah, B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mohamed, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abbas, K. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rahman, R. A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karim, R.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hashim, D. M.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"food technology"},
+	{"value":"foods"},
+	{"value":"chemicophysical properties"},
+	{"value":"gelatin"},
+	{"value":"rheology"},
+	{"value":"rheological properties"},
+	{"value":"thermal properties"},
+	{"value":"proteins"},
+	{"value":"starch"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000339",
+	"dct:identifier":"FI2016000339",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

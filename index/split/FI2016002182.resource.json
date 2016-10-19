@@ -1,0 +1,57 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effects of gluten and transglutaminase on microstructure, sensory characteristics and instrumental texture of oat bread /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Salmenkallio-Marttila, Marjatta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Roininen, Katariina.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Autio, Karin.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Lähteenmäki, Liisa.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"organoleptic analysis"},
+	{"value":"leipä"},
+	{"value":"kaura"},
+	{"value":"texture"},
+	{"value":"laatu"},
+	{"value":"transferases"},
+	{"value":"elintarvikkeiden laatu"},
+	{"value":"ultrastructure"},
+	{"value":"viljavalmisteet"},
+	{"value":"elintarvikkeet"},
+	{"value":"aistinvarainen arviointi"},
+	{"value":"transglutaminaasi"},
+	{"value":"processed products"},
+	{"value":"bread"},
+	{"value":"breadmaking"},
+	{"value":"oats"},
+	{"value":"gluten"},
+	{"value":"gluteeni"},
+	{"value":"mikrorakenne"},
+	{"value":"rakenne"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002182",
+	"dct:identifier":"FI2016002182",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

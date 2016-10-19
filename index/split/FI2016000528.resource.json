@@ -1,0 +1,52 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Conifer crown profile models from terrestrial laser scanning.",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"interior Northwest USA"},
+	{"value":"Canopy shape"},
+	{"value":"ennusteet"},
+	{"value":"Pinus ponderosa"},
+	{"value":"crown"},
+	{"value":"forecasting"},
+	{"value":"prediction"},
+	{"value":"muoto"},
+	{"value":"models"},
+	{"value":"canopy"},
+	{"value":"mallit"},
+	{"value":"Pseudotsuga menziesii"},
+	{"value":"parametric curves"},
+	{"value":"Abies lasiocarpa"},
+	{"value":"latvusto"}
+	],
+	"bibo:doi":"10.14214/sf.1106",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000528",
+	"dct:identifier":"FI2016000528",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1106",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Ferrarese, Jena,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Affleck, David,
+    kirjoittaja.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Seielstad, Carl,
+    kirjoittaja.
+  "
+	}
+	}
+	]
+	}}

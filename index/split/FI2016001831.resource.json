@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Susceptibility of silver birch pruning wounds to infection by white-rot fungus (Chondrosptereum purpureum), a potential bioherbicide.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Vartiamäki, Henna.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hantula, Jarkko.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uotila, Antti.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"vesakontorjunta"},
+	{"value":"biological control"},
+	{"value":"Chondrostereum purpureum"},
+	{"value":"weed control"},
+	{"value":"pruning"},
+	{"value":"Betula pendula"},
+	{"value":"lopping"},
+	{"value":"purppuranahakkasieni"},
+	{"value":"karsinta"},
+	{"value":"rauduskoivu"},
+	{"value":"fungal decay"},
+	{"value":"biologinen torjunta"},
+	{"value":"vegetation management"},
+	{"value":"Chondrostereum"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001831",
+	"dct:identifier":"FI2016001831",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

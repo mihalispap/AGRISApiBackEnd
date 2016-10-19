@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/e5.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Factors influencing the weed seed banks in the Gezira Scheme, Sudan"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Karar, Rehab O. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mohamed, B. F. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Marrs, R. H. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100484",
+	"dct:identifier":"FI2016100484",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Sudan is the largest country in Africa in which agriculture plays a major role. The most important agricultural area is the Gezira Scheme, irrigated from the Sennar Dam on the Blue Nile, where weed infestation is an important constraint to crop production. This study used germination trials to investigate the weed seed banks under different conditions within the Gezira scheme. Five agricultural units were surveyed where a four-cycle crop rotation system (cotton, groundnuts, sorghum, fallow) is used. Out of 25 weed species detected, eight contributed a large proportion to the seed bank. The lowest seedling densities (413 seed m-2) occurred in cotton, fallow (897) and sorghum (2351) being intermediate, and groundnuts (7567 seeds m-2) the highest. Three species (Commelina kotschy, Brachiaria eruciformis, Phyllanthus nirur) showed significant differences in seedbank density, in the order groundnuts > sorghum > cotton. Differences were also found between the agricultural units suggesting that local variations in management or spatial location may also influence seed bank densities. The current management favoured annual dicotyledons, with more annuals found in the crops than in fallow. Weed control in the Gezira scheme was effective in cotton but still required additional investigation in groundnuts and sorghum."}
+	}}

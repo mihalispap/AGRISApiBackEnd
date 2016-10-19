@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_3_4/a8.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"In vivo and in vitro comparative studies of Origanum species"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"El-Gengaihi, Souad (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Taha, H.S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kamel, A.M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100375",
+	"dct:identifier":"FI2016100375",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Calli cultures were induced from leaf explants of the different species of Origanum. Influence of different types of nutrient media i.e., MS or LS or B5 on calli production as well as the effect of various growth regulators, i.e., 2,4-D, Kin, NAA and BAP at different concentrations on different morphological responses were studied. MS-medium showed to be the best type of nutrient medium on both calli production and/or calli differentiation from leaf explants of Origanum spp. Furthermore, the maximum value of calli production was recorded with O. vulgare L. as compared with the other Origanum species. On the other hand, GC and GC/MS analyses showed that the three oils in vivo varied quantitatively and qualitatively. Carvacrol was detected in the three species with variable concentration. Thymol was detected only in O. vulgare L. Carene-δ- 2 was found only in O. syriacum and O. vulgare. However, α-pinene was found in the three species under study without great variation. Different molecular markers i.e., SDS-PAGE protein profile and RAPD-based DNA fingerprints were carried out in the obtained calli cultures as compared with intact leaf plants and suggest different variation."}
+	}}

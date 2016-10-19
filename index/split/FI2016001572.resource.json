@@ -1,0 +1,64 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Biochemical characterisation of some Tunisia virgin olive oils obtained from different cultivars growing in Sfax National Collection.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Issaoui, Manel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Dabbou, Samia.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Echbili, Adel.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Rjiba, Imed.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gazzah, Noureddine.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Trigui, Ahmad.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Hammami, Mohamed.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"olive oil"},
+	{"value":"varieties"},
+	{"value":"lajikkeet"},
+	{"value":"tocopherols"},
+	{"value":"quality"},
+	{"value":"phenolic compounds"},
+	{"value":"laatu"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"kasviöljyt"},
+	{"value":"chemical composition"},
+	{"value":"oliiviöljy"},
+	{"value":"triglycerides"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016001572",
+	"dct:identifier":"FI2016001572",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

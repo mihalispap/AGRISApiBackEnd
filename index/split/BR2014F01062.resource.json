@@ -1,0 +1,55 @@
+{"resource": {
+	"dct:title":[
+		{"value":"   Ceará "},
+	{"value":"   A entomofauna terrestre em diferentes ecossistemas de pastagens em Sobral ",
+	"xml:lang":"por"
+	},
+	{"value":"Insect fauna in soil at different grassland ecosystems at Sobral, State of Ceará, Brazil",
+	"xml:lang":"eng"
+	}
+	],
+	"dc:subject":[
+		{"value":"insecta",
+	"xml:lang":"eng"
+	},
+	{"value":"biological diversity",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"70/n.2",
+	"rdf:about":"http://agris.fao.org/aos/records/BR2014F01062",
+	"dct:identifier":"BR2014F01062",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19420"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_ea787e45"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Boletim de Indústria Animal"},
+	"bibo:ISSN":{"value":"0067-9615"}
+	}
+	}
+	],
+	"dct:issued":"2013-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.iz.sp.gov.br/pdfsbia/1378833111.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"SOUZA,  G. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"XAVIER,  S. C. S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"BRAGA,  P. E. T."
+	}
+	}
+	],
+	"bibo:abstract":[
+		{"value":"Com este estudo objetivou-se realizar o levantamento da entomofauna terrestre de três ecossistemas de pastagens na Fazenda Experimental Vale do Acaraú da Universidade Estadual Vale do Acaraú (UVA), em Sobral, CE, utilizando-se de armadilhas de solo, com coletas quinzenais, no período de março de 2011 a fevereiro de 2012. Para caracterização da entomofauna estabeleceu-se um padrão de distribuição, considerando-se os índices de ocorrência e de dominância das espécies agrupadas por ordem, como um indicador da frequência e da ocorrência da quantidade capturada. Ao final, foram coletados e identificados 17.008 espécimes de insetos, pertencentes a 11 ordens, a saber: Blattariae, Coleoptera, Dermaptera, Diptera, Hemiptera, Hymenoptera, Isoptera, Lepidoptera, Odonata, Mantodea e Orthoptera. A ordem Hymenoptera foi a que se destacou pelo maior número de indivíduos capturados, atribuindo-se a presença da grande quantidade de formigas, sendo ainda, considerada comum para os três ecossistemas estudados, segundo o método empregado.",
+	"xml:lang":"por"
+	},
+	{"value":"The aim of this study was perform a surveillance of the insect fauna in soil in three grassland ecosystems of experimental farm Vale do Acaraú of Universidade Estadual Vale do Acaraú at Sobral, state of Ceará, Brazil, by the using of traps soil, with fortnightly collections, from March 2011 to February 2012. To characterize the insect fauna established a distribution pattern, whereas the rates of occurrence and dominance of species grouped by order, as an indicator of the frequency and the occurrence of the amount of captured. At the end, we collected and identified a total of 17,008 specimens of insects belonging to 11 orders, namely: Blattariae, Coleoptera, Dermaptera, Diptera, Hemiptera, Hymenoptera, Isoptera, Lepidoptera, Odonata, Orthoptera and Mantodea. The Order Hymenoptera was the one that stood out the largest number of individuals captured, attributing the presence of large amount of ants, are still considered common to the three ecosystems studied, according to the method employed.",
+	"xml:lang":"eng"
+	}
+	]
+	}}

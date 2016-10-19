@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Phytate from edible beans: chemistry, processing and health benefits"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2006038479",
+	"dct:identifier":"FI2006038479",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2004,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2004-issue_1/f8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shi, John (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Arunasalam, Konesh (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yeung, David (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kakuda, Yukio (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Mittal, Gauri (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Demand for bean products is growing because of the presence of several health-promoting components in edible bean products such as phytates. Phytates are a naturally occurring compound, which is distributed widely in all cells of legume plants. Clinical studies have suggested that these health-promoting components, phytates, affect the immune system to protect the human body against cancers, and to reduce cholesterol level. Phytates decrease blood lipids, lowers cancer risks and lower blood glucose response. A high phytate diet is used in the inhibition of dental caries and platelet aggregation, in the treatment of hypercalciuria in humans, and in the antidote activity against acute lead poisoning. In epidemiological studies, phytates have shown an inverse relationship with the incidence of renal stones. Thermal processing such as canning is the typical method to process beans. The study is to review the effect of thermal processing on the characteristics and stability of phytates in canned bean products. Phytates are less thermal sensitive. During soaking and blanching, portions of phytates were dissolved in water and lost in soaking, washing and blanching liquors. An optimum thermal process can increase the stability and maintain the phytates in canned bean products, which is useful for food industry to improve thermal processing technology and enhance bean product quality."}
+	}}

@@ -1,0 +1,24 @@
+{"resource": {
+	"dct:issued":2006,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2006-issue_1/e15.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Response of Microtermes obesi (Isoptera: Termitidae) and its gut bacteria towards some plant extracts"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Ahmed, Sohail (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Riaz, Muhammad Asam (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Shahid, Mohammad (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100149",
+	"dct:identifier":"FI2016100149",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The bacterial activities in gut of Microtermes obesi was disrupted via soil treated with seed and leaf extracts of Withania somnifera, Croton tiglium and Hygrophila auriculata in order to determine toxicity of these extracts through change in tunneling behaviour and termites’ gut bacteria in the laboratory. Seed extract of W. somnifera and H. auriculata were highly toxic with LD50s (4.31 and 2.98%), respectively, in 6 days period. Reduction in area of tunneling and number of bacterial colonies was observed in the soil treated with seed and leaf extracts of three species.There was no tunneling in seed extracts of W. somnifera and C. tiglium at their 100% concentration. Area of tunneling was short in seed extracts of plants as compared with leaf extracts on numerical terms. The number of gut bacterial colonies was also reduced in termites inhabitant soil treated with seed extracts of W. somnifera and C. tiglium. It was suggested that extracts of three species were not only toxic to M. obesi but also acted arrestants of movements as well."}
+	}}

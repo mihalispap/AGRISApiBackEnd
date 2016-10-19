@@ -1,0 +1,65 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Effect of pre partum supplementation of rumen protected fat and protein on the performance of Murrah buffaloes",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":946,
+	"dc:subject":[
+		{"value":"parturition",
+	"xml:lang":"fre"
+	},
+	{"value":"water buffaloes",
+	"xml:lang":"eng"
+	},
+	{"value":"reproductive performance",
+	"xml:lang":"eng"
+	},
+	{"value":"buffle d'eau",
+	"xml:lang":"fre"
+	},
+	{"value":"bufalo de agua",
+	"xml:lang":"esp"
+	},
+	{"value":"performance de reproduction",
+	"xml:lang":"fre"
+	},
+	{"value":"parto",
+	"xml:lang":"esp"
+	},
+	{"value":"reproductividad",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":81,
+	"bibo:pageEnd":950,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000169",
+	"dct:identifier":"IN2015000169",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"sep2011",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Shelke, S.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Thakur, S.S."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Amrutkar, S.A."
+	}
+	}
+	],
+	"bibo:issue":9,
+	"bibo:abstract":{"value":"The present experiment was conducted to study the effect of pre partum rumen protected fat and protein supplementation on the performance of Murrah buffaloes. Eighteen Murrah buffaloes (2   nd - 4th lactation) were divided into 2 groups (9 each) on the basis of most probable production ability (MPPA). Buffaloes in group 1 (control group; MPPA 2204.17 kg) were fed chaffed wheat straw, chopped green maize fodder and concentrate mixture as per requirements; buffaloes in group 2 (treatment group; MPPA 2210.64 kg) were fed same ration as control group plus 2.5% rumen protected fat (on DM intake basis) and concentrate mixture containing formaldehyde treated mustard and groundnut oil cake (1.2 g HCHO/100 g CP) in place of normal mustard and groundnut oil cakes. Group 2 buffaloes were supplemented rumen protected fat and protein 60 days pre partum. Average DM intake was 11.13 and 11.69 (kg/d) in groups 1 and 2, respectively, which was significantly higher in group 2. The average CP and TDN intakes were higher in group 2 than that of group 1. During last fortnight, group 2 buffaloes showed higher body weight gain than that of group 1. Average birth weights of the calves were higher by 10.8% in group 2 (35.38 kg) than that of group 1 (31.94 kg). The calving percentage was 100% in both groups. There was no effect on plasma glucose, NEFA, triglycerides and cholesterol concentrations among 2 groups, whereas BUN concentration was lower in group 2 during. Incidence of retention of foetal membranes, still births and premature births were reduced in group 2 buffaloes. It may be concluded that rumen protected fat and protein supplementation during pre partum period to advanced pregnant buffaloes increased the calf weight, decreased the incidences of retention of foetal membranes and premature birth in high yielding buffaloes.",
+	"xml:lang":"eng"
+	}
+	}}

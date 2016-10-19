@@ -1,0 +1,67 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Occurrence of black point disease of wheat associated with different varieties growing in Banaskantha district of Gujarat",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"variete",
+	"xml:lang":"fre"
+	},
+	{"value":"disease surveys",
+	"xml:lang":"eng"
+	},
+	{"value":"trigo",
+	"xml:lang":"esp"
+	},
+	{"value":"wheats",
+	"xml:lang":"eng"
+	},
+	{"value":"varieties",
+	"xml:lang":"eng"
+	},
+	{"value":"gujarat",
+	"xml:lang":"esp"
+	},
+	{"value":"variedades",
+	"xml:lang":"esp"
+	},
+	{"value":"enquete pathologique",
+	"xml:lang":"fre"
+	},
+	{"value":"ble",
+	"xml:lang":"fre"
+	},
+	{"value":"encuestas sanitarias",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:pageStart":64,
+	"bibo:volume":45,
+	"bibo:pageEnd":66,
+	"dct:type":"Journal Article",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000013",
+	"dct:identifier":"IN2015000013",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Journal of Mycology and Plant Pathology (India)"},
+	"bibo:ISSN":{"value":"0975-4180"}
+	}
+	},
+	"dct:issued":"mar2015",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Partap, Mahendra"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Solanki, V.A."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Prasad, J."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Nathawat, B.D.S."
+	}
+	}
+	],
+	"bibo:issue":1
+	}}

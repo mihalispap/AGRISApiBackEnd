@@ -1,0 +1,60 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluating stored cassava quality in gari production /",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Akingbala, John O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Oyewole, Olusola B.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Uzo-Peters, Phylis I.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Karim, Ramota O.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Baccus-Taylor, Gail S. H.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"moisture content"},
+	{"value":"cassava"},
+	{"value":"crude fibre"},
+	{"value":"trooppiset juurekset"},
+	{"value":"varastointi"},
+	{"value":"keeping quality"},
+	{"value":"starch"},
+	{"value":"kuitupitoisuus"},
+	{"value":"maniokki"},
+	{"value":"starch crops"},
+	{"value":"carbohydrate content"},
+	{"value":"säilyvyys"},
+	{"value":"kemiallinen koostumus"},
+	{"value":"chemical composition"},
+	{"value":"tärkkelys"},
+	{"value":"root vegetables"},
+	{"value":"storage"},
+	{"value":"sadon laatu"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000717",
+	"dct:identifier":"FI2016000717",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

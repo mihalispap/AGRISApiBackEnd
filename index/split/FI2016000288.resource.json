@@ -1,0 +1,47 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Effectiveness of delayed brush cutting and herbicide treatments for vegetation control in a seven-year-old jack pine plantation in northwestern Ontario, Canada.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Mallik, Azim U.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Bell, F. Wayne.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Gong, Yanli.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"plant species"},
+	{"value":"glyphosate"},
+	{"value":"weed control"},
+	{"value":"herbicides"},
+	{"value":"vesakontorjunta"},
+	{"value":"raivaussahat"},
+	{"value":"kasvilajit"},
+	{"value":"brush cutting"},
+	{"value":"Canada"},
+	{"value":"herbisidit"},
+	{"value":"plant competition"},
+	{"value":"glyfosaatti"},
+	{"value":"Pinus banksiana"},
+	{"value":"kilpailu"},
+	{"value":"banksinmänty"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000288",
+	"dct:identifier":"FI2016000288",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

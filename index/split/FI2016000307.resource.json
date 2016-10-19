@@ -1,0 +1,40 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Parameter estimation of nonlinear growth models in forestry.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Fekedulegn, Desta.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Mac Siurtain, Mairitin P.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Colbert, Jim J.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"models"},
+	{"value":"tunnusluvut"},
+	{"value":"metsätalous"},
+	{"value":"forestry"},
+	{"value":"metsänhoito"},
+	{"value":"estimointi"},
+	{"value":"epälineaariset mallit"},
+	{"value":"growth"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000307",
+	"dct:identifier":"FI2016000307",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

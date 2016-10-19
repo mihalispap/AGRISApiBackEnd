@@ -1,0 +1,71 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Isolation and pathogenic attributes of Escherichia coli isolates from diarrhoeic foals",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":52,
+	"dc:subject":[
+		{"value":"pouvoir pathogene",
+	"xml:lang":"fre"
+	},
+	{"value":"diarrhoea",
+	"xml:lang":"eng"
+	},
+	{"value":"pathogenicity",
+	"xml:lang":"eng"
+	},
+	{"value":"poulain",
+	"xml:lang":"fre"
+	},
+	{"value":"potro",
+	"xml:lang":"esp"
+	},
+	{"value":"patogenicidad",
+	"xml:lang":"esp"
+	},
+	{"value":"diarrea",
+	"xml:lang":"esp"
+	},
+	{"value":"escherichia coli",
+	"xml:lang":"esp"
+	},
+	{"value":"foals",
+	"xml:lang":"eng"
+	},
+	{"value":"diarrhee",
+	"xml:lang":"fre"
+	}
+	],
+	"bibo:volume":82,
+	"bibo:pageEnd":54,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000461",
+	"dct:identifier":"IN2015000461",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_7008df99"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Indian Journal of Animal Sciences (India)"},
+	"bibo:ISSN":{"value":"0367-8318"}
+	}
+	}
+	],
+	"dct:issued":"jan2012",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Malik, P."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kumar, R."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gulati, B.R."
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"A total of 73 isolates of Escherichia coli were recovered from 107 rectal/faecal swabs/faecal samples of diarrhoeic foals at organized studs in Uttar Pradesh and Haryana. The isolates belonged to 38 different serogroups with maximum number falling in O101 (10), O9 (5), O91 (4), O8 (4), O6 (3) and O156 (3). All the isolates were resistant to one or more antibiotics. The pathogenic nature of isolates was indicated by cytotoxigenicity (18 of 73 isolates) and mice pathogenicity (28 of 73 isolates) assays.",
+	"xml:lang":"eng"
+	}
+	}}

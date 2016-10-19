@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-36.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Analytical evaluation of ‘Cornicabra’ virgin olive oil from Castilla-La Mancha, Spain"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Alvarruiz, Andrés (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Fernández, Enrique (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Montero, Francisco (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Granell, José (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pardo, José E. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100269",
+	"dct:identifier":"FI2016100269",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Using the Abencor system, over one hundred virgin olive oil samples were obtained from twenty-four olive groves representative of the ‘Cornicabra’ growing zone in Castilla-La Mancha (Spain). Regulated quality parameters, namely acidity, peroxides and ultraviolet absorbance (K232 and K270) were determined, as well as detailed chemical composition included in the commercial norm applicable to virgin olive oil (mainly sterol and fatty acid composition). Analyses were done for two stages of ripening, three areas of production and two successive crop seasons. Peculiarities in composition which could aid in authenticating this variety were discussed. The peculiarities of ‘Cornicabra’ virgin olive oil were shown to be its low linoleic acid concentration, high oleic acid concentration and MUFA/PUFA ratio, high campesterol and high D-5-avenasterol concentration. The main changes during ripening were the increase in linoleic acid, D-5-avenasterol and D-5,24- stigmastadienol concentration. The fatty acid composition and sitostanol concentration could serve to differentiate the areas of production."}
+	}}

@@ -1,0 +1,32 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Phenolic composition and antioxidant activity of selected apple genotypes"},
+	"rdf:about":"http://agris.fao.org/aos/records/FI2008320568",
+	"dct:identifier":"FI2008320568",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2007,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2007-issue_1/f13.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Khanizadeh, Shahrokh (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Tsao, Rong (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rekika, Djamila (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Yang, Raymond (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"DeEll, Jennifer (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The phenolic composition of eleven apple genotypes was determined in the flesh and peel by high performance liquid chromatography (HPLC), total phenolic content (TPC) by the Folin-Ciocalteu method, and antioxidant capacity using ferric reducing antioxidant power (FRAP). HPLC analysis identified and quantified several groups of phenolic compounds: procyanidins, hydroxycinnamates, acids, anthocyanins, flavonols, and dihydrochalcones. Procyanidins were the most predominant group in both flesh and peel and contributed 52.4 and 44% of the total phenolic index (TPI), respectively. Quercetin glucosides were almost exclusively found in the peel, while cyanidin 3-galactoside was found only in red apple peel. The profile of phenolic compounds varied among the eleven genotypes and the peel showed higher concentrations than the flesh. Among the studied genotypes Reinette Russet and SJCA38R6A74 had the highest and the lowest concentrations of total phenolics respectively. The total phenolics (TPI/TPC) of both flesh and peel extracts correlated well with antioxidant capacity as estimated by the FRAP assay (R2= 0.87, 0.76, 0.92, respectively), with the exception of TPC from the apple peel determined with FC (R2= 0.52). The low chlorogenic acid and zero total flavanol content in flesh of ‘SJCA38R6A74’ tended to be associated with no browning compared to other cultivars."}
+	}}

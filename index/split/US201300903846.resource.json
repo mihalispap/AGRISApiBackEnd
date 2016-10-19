@@ -1,0 +1,26 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Chemical and anti-bacterial characterization of aqueous extracts of oregano, marjoram, sage and licorice and their application in milk and labneh"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300903846",
+	"dct:identifier":"US201300903846",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_1/f7.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Al-Turki, A. I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"El-Ziney, M. G. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Abdel-Salam, A. M. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"The antibacterial effect of aqueous extracts at a concentration of 1% (v/v) and 5% (w/w) of oregano, marjoram, sage and licorice herbs, widely used as soft drinks and food flavors, were evaluated against E. coli and B. subtilis under in vitro conditions in tryptone soya yeast extract broth at 35°C and in milk and labneh respectively. All tested herbal aqueous extracts demonstrated an inhibitory effect against both organisms. Oregano, marjoram, sage and licorice extracts exhibited a higher antibacterial activity against B. subtilis compared with E. coli. Further, oregano extract had the highest antibacterial activity against the tested bacteria compared with marjoram, licorice and sage extracts. GS-MS analysis detected a wide range of organic and volatile compounds in herbal extracts. The inhibitory effect of some substances on the growth behavior of bacteria was also discussed."}
+	}}

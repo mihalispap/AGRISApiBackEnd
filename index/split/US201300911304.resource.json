@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"In vitro propagation of an endangered medicinal plant: Pancratium maritimum L."},
+	"rdf:about":"http://agris.fao.org/aos/records/US201300911304",
+	"dct:identifier":"US201300911304",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_2/e6.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Nikopoulos, Dimitrios (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Alexopoulos, Alexios A. (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"In this study a reliable method in the establishment of in vitro culture of Pancratium maritimum aiming in the production of bulblets was developed. Naturally matured botanical seeds derived from closed pods were established and germinated in vitro in a specific semisolid MS medium. The percentage of successful in vitro establishment of the seeds for germination ranged between 98 and 100%. The effect of exogenous applied GA3 on the germination of the seeds in vitro was tested in a specific experiment. There arose a retardation of the germination of the seeds in the case of high concentrations of GA3 (5 or 10 mg l-1), with no equivalent effect on the total percentage of the emerged seedlings. Seedlings derived from in vitro germination of the seeds were transferred in various alternative culture media, in which the effect of the concentrations of sucrose, BA and NAA in the production of bulblets was studied. In this experiment it was proved that the culture medium supplemented with 80 g l-1 sucrose and 0.1 mg l-1 NAA gave the best result, as far as the percentage of bulblet formation (93%) and their size (average weight 263 mg) is concerned. Alternatively to this “two step” technique of in vitro bulblet production in two stages (germination and bulblet formation in different cultures), a “one step” technique of bulblet in vitro production (germination and bulblet formation in the same culture) was applied where the effect of sucrose, BA and NAA concentrations was studied. In this experiment it was proved that sucrose in high concentration (50 or 80 g l-1) inhibits the germination of seeds whereas this does not occur at lower level (20 mgl-1), while NAA and BA significantly improves the percentage of bulblet formation."}
+	}}

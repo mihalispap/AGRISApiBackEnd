@@ -1,0 +1,45 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"eng",
+	"dct:title":{"value":"Genetic variation and genotype x environment interaction in yams (Dioscorea spp.) for root colonization by arbuscular mycorrhiza.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Dare, M. Olajire.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Abaidoo, Robert C.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Fagbola, Olajire.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Asiedu, Robert.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"Niger"},
+	{"value":"genotype environment interaction"},
+	{"value":"genetic variation"},
+	{"value":"roots"},
+	{"value":"Dioscorea"},
+	{"value":"genotypes"},
+	{"value":"mycorrhizae"},
+	{"value":"heritability"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016002188",
+	"dct:identifier":"FI2016002188",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

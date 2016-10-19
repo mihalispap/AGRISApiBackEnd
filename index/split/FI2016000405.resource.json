@@ -1,0 +1,35 @@
+{"resource": {
+	"dct:issued":2015,
+	"bibo:uri":"http://dx.doi.org/10.14214/sf.1024",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Nilsen, Petter.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Strand, Line Tau.
+  "
+	}
+	}
+	],
+	"dct:title":{"value":"Carbon stores and fluxes in even- and uneven-aged Norway spruce stands.",
+	"xml:lang":"   "
+	},
+	"dc:subject":[
+		{"value":"hiilensidonta"},
+	{"value":"undergrowth"},
+	{"value":"carbon sequestration"},
+	{"value":"litter fall"},
+	{"value":"hiili"},
+	{"value":"Carbon storage"},
+	{"value":"Carbon efflux"}
+	],
+	"bibo:doi":"10.14214/sf.1024",
+	"dct:type":"Other",
+	"dct:identifier":"FI2016000405",
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000405",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

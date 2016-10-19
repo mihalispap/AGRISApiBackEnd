@@ -1,0 +1,23 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Comparative analysis of genetic diversity in Turkish durum wheat cultivars using RAPD and ISSR markers"},
+	"rdf:about":"http://agris.fao.org/aos/records/US201301591905",
+	"dct:identifier":"US201301591905",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10972"
+	},
+	"dct:isPartOf":{"rdf:resource":{"value":"http://aims.fao.org/serials/c_d9e6dc96"}
+	},
+	"dct:issued":2008,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2008-issue_3_4/a8.pdf",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Karaca, Mehmet (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Izbirak, Afife (author)"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Random amplified polymorphic DNA (RAPD) and inter-simple sequence repeats (ISSR) are two of the DNA-based markers that have become widely used in various areas of plant research. In this study, RAPD and ISSR markers were used to establish the genetic characterization of twenty five registered durum wheat cultivars. Total 42 RAPD and 18 ISSR primers were used for amplification. Unweighted pair-group method with the arithmetic average (UPGMA) was used to construct the dendrograms. In addition, principles component analysis (PCA) was used in order to determine genetic variation among cultivars. In total 81 informative PCR products for RAPD and 68 for ISSR were evaluated. An average percentage of polymorphism was detected as 42.9% and 57.9% for RAPD and ISSR markers, respectively. To take into account of the number of polymorphicbands and average polymorphism values, it can be concluded that ISSR markers are more informative than RAPD. The composition of clusters was obtained using both markers, alone and together. The results revealed similar groupings in some cases. PCA data revealed 33.9% of total variation in the RAPD analysis and 32.2% in the ISSR. However, combined data revealed lower genetic variation (25.7%) than RAPD and ISSR alone, indicating importance of the informative PCR products analysed. In summary, detected polymorphism and genetic variation values indicate narrow genetic base of tested cultivars. To our knowledge this study is the first attempt in using RAPD and ISSR markers for assessing genetic diversity in Turkish durum wheat germplasm, and outcome of the work could be useful for selection of suitable parents in breeding programs involving this germplasm."}
+	}}

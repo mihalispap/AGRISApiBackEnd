@@ -1,0 +1,43 @@
+{"resource": {
+	"dct:title":{"value":"Research of Interpolation and Prediction by Elman NN on Anaerobic Digestion Processes Parameter",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"anaerobic treatment",
+	"xml:lang":"eng"
+	},
+	{"value":"neural networks",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513049",
+	"dct:identifier":"IN2016513049",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=12",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Liang  Yong"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Qiu  Ling"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pan Junting"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Lu Wen"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Parametric data from anaerobic digestion processes are normally collected once every couple of days and not daily. As a result, only a small amount of data could be collected and this is not sufficient for the neural network analysis. In this research, interpolations were used during the modelling process to increase the sample data used for Elman neural network (Elman NN) modelling. Laboratory digestion of silage cornstalk was conducted for 54 days, and a portion of the biogas data was used for training the Elman neural network (Elman NN) model, while the remaining biogas data were used to verify the prediction capability of the model. Compared to the Elman NN model without interpolations, using an interpolation coefficient of 0.2 increased the number of experimental data from 54 to 266 and the correlation coefficient of prediction data and sampling data from 0.7966 (for no-interpolation) to 0.9962 (for cubic spline interpolation) and 0.9942 (for piecewise linear interpolation). In addition, the mean square error decreased from 0.1190 (for no interpolation) to 0.001 (for cubic spline interpolation) and 0.001 (for piecewise linear interpolation), while the average relative error decreased from 63.04% (for no interpolation) to 3.93% (for cubic spline interpolation) and 4.01% (for piecewise linear interpolation). The Elman NN simulation results thus showed that the interpolation algorithm can greatly improve the prediction accuracy of biogas production from an anaerobic digestion process.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/products/scientific-journal-jfae/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Biomass and seed yield stability of pea genotypes.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Tamkoc, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Ustun, A.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Altinok, S.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Acikgoz, E.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"phenotypes"},
+	{"value":"biomass"},
+	{"value":"crop yield"},
+	{"value":"yield components"},
+	{"value":"stability"},
+	{"value":"seeds"},
+	{"value":"genotypes"},
+	{"value":"genetic stability"},
+	{"value":"leaves"},
+	{"value":"Pisum sativum"},
+	{"value":"peas"},
+	{"value":"adaptation"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000097",
+	"dct:identifier":"FI2016000097",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

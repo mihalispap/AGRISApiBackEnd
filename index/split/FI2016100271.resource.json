@@ -1,0 +1,21 @@
+{"resource": {
+	"dct:issued":2003,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2003-issue_2/j2-food-117.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Remarks on food-borne viral gastroenteritis outbreaks"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Reguera, Juan I. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Herrera, Ma Inmaculada (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100271",
+	"dct:identifier":"FI2016100271",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"The nature of food-borne illnesses has changed over the years, as a reflection of changes in food supply, lifestyles and mobility. New agents of gastrointestinal illness have been identified while unknown pathogens appear to account for a large number of food-borne illnesses and hospitalisations. To highlight the importance of viral pathogens as a cause of food-borne outbreaks with an impact on public health, a brief review on food-borne viruses and on their diagnostic methods is presented."}
+	}}

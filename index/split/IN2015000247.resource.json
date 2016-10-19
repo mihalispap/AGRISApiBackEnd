@@ -1,0 +1,50 @@
+{"resource": {
+	"dct:language":"eng",
+	"dct:title":{"value":"Evaluation of antagonists to Macrophomina phaseolina causing dry root rot in Moth bean",
+	"xml:lang":"eng"
+	},
+	"bibo:pageStart":163,
+	"dc:subject":[
+		{"value":"vigna aconitifolia",
+	"xml:lang":"esp"
+	},
+	{"value":"trichoderma",
+	"xml:lang":"esp"
+	},
+	{"value":"bacillus subtilis",
+	"xml:lang":"esp"
+	}
+	],
+	"bibo:volume":21,
+	"bibo:pageEnd":166,
+	"rdf:about":"http://agris.fao.org/aos/records/IN2015000247",
+	"dct:identifier":"IN2015000247",
+	"dct:type":"Summary",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10598"
+	},
+	"dct:isPartOf":[
+		{"rdf:resource":{"value":"http://aims.fao.org/serials/c_dd924d35"}
+	},
+	{"bibo:Journal":{"dct:title":{"value":"Annals of Plant Protection Sciences (India)"},
+	"bibo:ISSN":{"value":"0971-3573"}
+	}
+	}
+	],
+	"dct:issued":"mar2013",
+	"dct:dateSubmitted":2016,
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Kumar, Mukesh"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gaur, V.K."
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kant Krishan"
+	}
+	}
+	],
+	"bibo:issue":1,
+	"bibo:abstract":{"value":"Three bio agents, Trichoderma harzianum, T. viride and T. atroviride, and one bacterium, Bacillus subtilis isolated from moth bean fields at Bikaner, were tested for their antagonistic activity against eigtht isolates of Marophomina phaseolina causing dry root rot of moth bean on Czapeks dox medium. Inhibition of the mycelium growth of Marophomina phaseolina isolates by T. harzianum, T. viride, T.atroviride and B. subtilis varied from 61.1 to 70.1%, 58.6 to 66.6%, 52.0 to 63.1% and 45.8 to 54.8%, respectively. Maximum growth inhibition was caused by T. harzianum. In a greenhouse study, these antagonists reduced root rot incidence in a susceptible moth bean cv. RMO- 225 up to 69.0, 65.0, 62.5 and 58.3%, respectively, as compared to control where 100 % mortality was observed. T. viride was most effective among the antagonists trial in minimizing the disease followed by T. harzianum, T. atroviride and Bacillus subtilis.",
+	"xml:lang":"eng"
+	}
+	}}

@@ -1,0 +1,46 @@
+{"resource": {
+	"dct:title":{"value":"A Study on the Quantitative Measurement Method of Organoleptic Chromaticity for Sandy Water",
+	"xml:lang":"eng"
+	},
+	"dc:subject":[
+		{"value":"organoleptic analysis",
+	"xml:lang":"eng"
+	},
+	{"value":"water",
+	"xml:lang":"eng"
+	}
+	],
+	"bibo:volume":"14/n.4",
+	"rdf:about":"http://agris.fao.org/aos/records/IN2016513135",
+	"dct:identifier":"IN2016513135",
+	"dct:type":"Journal Article",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19720"
+	},
+	"dct:isPartOf":{"bibo:Journal":{"dct:title":{"value":"Nature Environment and Pollution Technology"},
+	"bibo:ISSN":{"value":"0972-6268"}
+	}
+	},
+	"dct:issued":"2015-",
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.neptjournal.com/journal-details.php?id=54&q_id=28",
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Yu Yali"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Pu Xunchi"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Li Ran"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Jiang Hong"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Li Yong"
+	}
+	}
+	],
+	"bibo:abstract":{"value":"Water landscape quality is an important part of environmental quality. However, in the environment impact assessment, there is no method at present that can quantitatively assess the colour changes of the water landscape affected by sediments. This paper presents a conception of organoleptic chromaticity according to the engineering requirement. Water organoleptic chromaticity is defined as a water chromaticity which is caused by both soluble substances and insoluble substances and observed directly by naked eyes. Using the spectrophotometry, it was found that the maximum absorption peak of coloured-turbid water occurred at 350nm which is defined as the characteristic wavelength of water organoleptic chromaticity. Based on the standard turbidity and chromaticity solutions, the metric system of organoleptic chromaticity was established. The absorbance of water with different turbidity and chromaticity showed that it is linear with the organoleptic chromaticity. Measuring the organoleptic chromaticity of different sandy waters, the results demonstrated that the metric system of organoleptic chromaticity could apply to the quantitative assessment of landscape quality for engineering sandy water in practical engineering.",
+	"xml:lang":"eng"
+	}
+	}}

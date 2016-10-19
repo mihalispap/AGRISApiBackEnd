@@ -1,0 +1,30 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"dct:language":"swe",
+	"dct:title":{"value":"Pälsning av mink.",
+	"xml:lang":"swe"
+	},
+	"dct:creator":{"foaf:Person":{"foaf:name":"
+    Finne, Leif.
+  "
+	}
+	},
+	"dc:subject":[
+		{"value":"nahkonta"},
+	{"value":"hides and skins"},
+	{"value":"minks"},
+	{"value":"furs"},
+	{"value":"skinning"},
+	{"value":"furbearing animals"},
+	{"value":"turkisnahat"},
+	{"value":"käsittely"},
+	{"value":"minkki"},
+	{"value":"turkiseläimet"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000997",
+	"dct:identifier":"FI2016000997",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}

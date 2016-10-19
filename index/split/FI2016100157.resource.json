@@ -1,0 +1,42 @@
+{"resource": {
+	"dct:issued":2005,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://world-food.net/download/journals/2005-issue_3_4/a14.pdf",
+	"dct:language":"eng",
+	"dct:title":{"value":"Improving the efficiencies of national crop breeding programs through region-based approaches: The case of sorghum and pearl millet in southern Africa"},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"Mgonja, Mary A. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chandra, Subhash (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Gwata, Eastonce T. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Obilana, Anthony B. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Monyo, Emmanual S. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Rohrbach, David D. (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Chisi, Medson (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Kudita, Sakile (author)"
+	}
+	},
+	{"foaf:Person":{"foaf:name":"Saadan, Hamis M. (author)"
+	}
+	}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016100157",
+	"dct:identifier":"FI2016100157",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/19722"
+	},
+	"bibo:abstract":{"value":"Resources available for agricultural research have fallen sharply in many national agricultural research systems (NARS) and international agricultural research centers. Therefore, it is becoming increasingly important that decision makers focus on improving the efficiency of national and international agricultural research. Breeding and variety release systems have remained largely focused on national challenges while seed markets are becoming globalized. This paper reports on studies and analyses of sorghum and pearl millet breeding and variety release systems conducted in Southern Africa Development Community countries. A synthesis is presented to provide a scientific and economic justification for improving the efficiency of the systems in SADC. It further proposes a regionalized breeding strategy that improves the efficiency in utilizing resources for crop breeding. Geographic information system analysis was used to delineate the region into four recommendation domains or agro-ecological zones (AEZs) based on length of growing period of the crop that cut across country borders. The AEZ together with multiple variety releases exemplify potential adaptability of the varieties across country borders. Sequential retrospective pattern analyses using grain yield data from multiple environment trials conducted over 12 years, stratified the 39 SADC test sites into 6 groups according to their similarity in line-yield. This provided an objective basis for selecting a few potentially useful and representative benchmark test sites for efficient regionalized variety testing in the future without loss of scientific information. NARS and International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) breeders have proposed a “Lead NARS” approach of regionalized breeding as a strategy for increasing the efficiency, cost effectiveness and sharing of regional responsibilities. Mechanisms for regionalized release procedures to facilitate farmer access to new improved varieties will alleviate problems of access to seed by farmers as well as the challenges facing small seed markets."}
+	}}

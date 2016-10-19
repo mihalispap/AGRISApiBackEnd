@@ -1,0 +1,53 @@
+{"resource": {
+	"dct:issued":2015,
+	"dct:dateSubmitted":2016,
+	"bibo:uri":"http://www.metla.fi/silvafennica/",
+	"dct:language":"eng",
+	"dct:title":{"value":"Small-scale non-industrial private forest ownership in the United States : rationale and implications for forest management.",
+	"xml:lang":"eng"
+	},
+	"dct:creator":[
+		{"foaf:Person":{"foaf:name":"
+    Zhang, Yaoqi.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Zhang, Daowei.
+  "
+	}
+	},
+	{"foaf:Person":{"foaf:name":"
+    Schelhas, John.
+  "
+	}
+	}
+	],
+	"dc:subject":[
+		{"value":"puuntarjonta"},
+	{"value":"non-industrial private forest"},
+	{"value":"forest land"},
+	{"value":"land use change"},
+	{"value":"liiketoiminta"},
+	{"value":"wood"},
+	{"value":"muutos"},
+	{"value":"economic efficiency"},
+	{"value":"maankäyttö"},
+	{"value":"forestry"},
+	{"value":"taloudellisuus"},
+	{"value":"yksityismetsät"},
+	{"value":"transaction costs"},
+	{"value":"metsämaa"},
+	{"value":"farms"},
+	{"value":"timber supply"},
+	{"value":"supply"},
+	{"value":"metsätalous"},
+	{"value":"forest land parcelization"},
+	{"value":"land use"}
+	],
+	"rdf:about":"http://agris.fao.org/aos/records/FI2016000373",
+	"dct:identifier":"FI2016000373",
+	"dct:type":"Other",
+	"dct:source":{"rdf:resource":"http://ring.ciard.net/node/10814"
+	}
+	}}
